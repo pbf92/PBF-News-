@@ -121,6 +121,10 @@
       }).join("")}</section>`;
     }
 
+    if ((e.source_candidates || []).length) {
+      html += `<section class="watch"><div class="section-label" style="padding-top:12px">Source candidates · fortnightly</div>${e.source_candidates.map((c) => `<div class="watch-item"><b>${esc(c.outlet)}</b> <span style="color:var(--muted);font-size:12px">· ${esc(SHORT[c.desk] || c.desk)} · ${esc(c.lean)} · ${esc(c.verdict)}</span><br>${esc(c.why)} <span style="color:var(--muted);font-size:12px">(${esc(c.seen)})</span></div>`).join("")}<div class="why" style="font-size:12.5px;padding-top:4px">To add one, tell Claude: "add &lt;outlet&gt; to PIJ sources".</div></section>`;
+    }
+
     const gen = e.generated_at ? new Date(e.generated_at).toLocaleString("en-US", { weekday: "short", hour: "numeric", minute: "2-digit" }) : "";
     html += `<footer class="footer">Published ${esc(gen)} PT${(e.updates || []).length ? ` · ${e.updates.length} update(s)` : ""}<br>Facts from wires &amp; official sources · perspectives paired left &amp; right</footer>`;
     app.innerHTML = html;

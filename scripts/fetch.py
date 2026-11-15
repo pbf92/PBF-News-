@@ -203,6 +203,24 @@ def key_for(item):
     return hashlib.sha1(basis.encode()).hexdigest()[:16]
 
 
+def track_outlets(items, now):
+    """Daily tally of which outlets keep surfacing, for the bi-weekly source-candidates review."""
+    path = DATA / "outlets.json"
+    data = load(path, {"days": {}})
+    day = now.strftime("%Y-%m-%d")
+    today = data["days"].setdefault(day, {})
+    for i in items:
+        name = (i.get("outlet") or "").strip()
+        if not name or i.get("via") == "discord":
+            continue
+        rec = today.setdefault(name, {"n": 0, "desks": {}, "sample": i["title"][:140]})
+        rec["n"] += 1
+        rec["desks"][i["desk"]] = rec["desks"].get(i["desk"], 0) + 1
+    keep = sorted(data["days"])[-30:]
+    data["days"] = {d: data["days"][d] for d in keep}
+    path.write_text(json.dumps(data, ensure_ascii=False))
+
+
 def load(path, default):
     try:
         return json.loads(path.read_text())
@@ -266,6 +284,7 @@ def main():
         health.append({"id": r["id"], "desk": r["desk"], "ok": not r["errors"],
                        "fetched": len(r["items"]), "new": fresh, "errors": r["errors"]})
 
+    track_outlets(new_items, now)
     all_items = old_items + new_items
     INBOX.mkdir(parents=True, exist_ok=True)
     (INBOX / "rolling.json").write_text(json.dumps(

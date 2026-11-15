@@ -75,6 +75,15 @@ Editing rules:
 - **Before the open** (weekday only): from `g2-world-markets`. Times in PT.
   Leave it empty on weekends.
 - **Week ahead**: Sundays only.
+- **Source candidates** (bi-weekly: Sundays in an even ISO week, i.e. when
+  `date +%V` is even): run `python3 scripts/candidates.py`. From its list pick up
+  to 5 outlets genuinely worth Pete's approval (quality reporting, fills a gap,
+  helps left/right balance; skip aggregators, content farms and duplicates of
+  approved sources). Use at most 3 searches to check reputation and bias rating
+  (AllSides / Ad Fontes where available). Add to the edition:
+  `"source_candidates": [{"outlet": "...", "desk": "...", "seen": "N headlines on M days",
+  "lean": "rating + who rated it, or 'unrated'", "why": "one line", "verdict": "suggest | maybe | skip"}]`.
+  If nothing is worth suggesting, use an empty list. Pete approves by telling Claude.
 - **Watching**: up to 5 live threads with no story today, using the workers'
   `still_watching` lines.
 - **Close threads** that are over: a match played, a launch done, a vote held.
