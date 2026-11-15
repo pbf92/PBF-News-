@@ -131,9 +131,11 @@ def run_source(src, cutoff, hours):
 
 DISCORD_API = "https://discord.com/api/v10"
 # One channel can carry several followed feeds; route each post by who posted it.
+# (words in the poster's name, desk, tier, status). Fan/gossip feeds are rumour-grade.
 AUTHOR_DESKS = [
-    (("manchester united", "man utd", "man united", "manutd", "mufc"), "united"),
-    (("tradingview", "quantower", "pine script"), "tradetech"),
+    (("muppetiers", "gossip"), "united", 3, "Unsure"),
+    (("manchester united", "man utd", "man united", "manutd", "mufc"), "united", 1, "Keep"),
+    (("tradingview", "quantower", "pine script"), "tradetech", 1, "Keep"),
 ]
 
 
@@ -166,6 +168,8 @@ def fetch_discord(cutoff):
             out["errors"].append(f"channel {cid}: {exc.__class__.__name__}: {str(exc)[:120]}")
             continue
         for m in msgs:
+            if m.get("type", 0) not in (0, 19):   # skip system posts such as "X followed Y" (type 12)
+                continue
             ts = datetime.fromisoformat(m["timestamp"].replace("Z", "+00:00"))
             if ts < cutoff:
                 continue
@@ -177,14 +181,14 @@ def fetch_discord(cutoff):
                 continue
             author = (m.get("author") or {}).get("username", "announcement")
             low = author.lower()
-            msg_desk = desk
-            for words, d in AUTHOR_DESKS:
+            msg_desk, tier, status = desk, 1, "Keep"
+            for words, d, t, st in AUTHOR_DESKS:
                 if any(w in low for w in words):
-                    msg_desk = d
+                    msg_desk, tier, status = d, t, st
                     break
             first = text.split(". ")[0]
             out["items"].append({
-                "uid": f"discord-{m['id']}", "desk_override": msg_desk,
+                "uid": f"discord-{m['id']}", "desk_override": msg_desk, "tier_override": tier, "status_override": status,
                 "title": clean(first, 200), "link": f"https://discord.com/channels/{chan.get('guild_id')}/{cid}/{m['id']}",
                 "outlet": f"Discord · {author}", "published": iso(ts), "summary": text, "via": "discord",
             })
@@ -253,7 +257,8 @@ def main():
             fresh += 1
             new_items.append({
                 "key": k, "desk": item.pop("desk_override", r["desk"]), "source_id": r["id"], "source": s["name"],
-                "tier": s.get("tier"), "side": s.get("side"), "status": s.get("status", "Keep"),
+                "tier": item.pop("tier_override", s.get("tier")), "side": s.get("side"),
+                "status": item.pop("status_override", s.get("status", "Keep")),
                 "paywall": s.get("paywall", False), "first_seen": iso(now), **item,
             })
         for pid, page in r["pages"].items():
