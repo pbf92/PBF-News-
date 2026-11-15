@@ -1,0 +1,16 @@
+{
+ "latest": "2026-11-15",
+ "editions": [
+  {
+   "date": "2026-11-15",
+   "type": "weekend",
+   "top": [],
+   "status": {
+    "story": 1,
+    "quiet": 8,
+    "failed": 1
+   },
+   "updates": 0
+  }
+ ]
+}

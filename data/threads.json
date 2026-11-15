@@ -1,0 +1,135 @@
+{
+ "threads": [
+  {
+   "id": "pochettino-era",
+   "name": "Pochettino era begins",
+   "desk": "united",
+   "started": "2026-11-13",
+   "last_changed": "2026-11-13",
+   "status": "active",
+   "last_line": "Starts at Carrington 18 Nov; Liverpool away 22 Nov.",
+   "day": 3
+  },
+  {
+   "id": "baleba-injury",
+   "name": "Baleba hamstring",
+   "desk": "united",
+   "started": "2026-11-06",
+   "last_changed": "2026-11-13",
+   "status": "active",
+   "last_line": "No club update since 6 Nov; doubt for Liverpool.",
+   "day": 10
+  },
+  {
+   "id": "senate-leadership",
+   "name": "Schumer leadership challenge",
+   "desk": "world",
+   "started": "2026-11-13",
+   "last_changed": "2026-11-13",
+   "status": "active",
+   "last_line": "Van Hollen challenge; secret ballot expected in December.",
+   "day": 3
+  },
+  {
+   "id": "fed-december",
+   "name": "Fed December decision",
+   "desk": "world",
+   "started": "2026-11-05",
+   "last_changed": "2026-11-13",
+   "status": "active",
+   "last_line": "Firm CPI/PPI keep a December hike on the table.",
+   "day": 11
+  },
+  {
+   "id": "uk-economy",
+   "name": "UK growth vs inflation",
+   "desk": "world",
+   "started": "2026-11-12",
+   "last_changed": "2026-11-13",
+   "status": "active",
+   "last_line": "BoE at 4%, sees CPI near 5% by mid-2027.",
+   "day": 4
+  },
+  {
+   "id": "rba-rates",
+   "name": "RBA tightening",
+   "desk": "world",
+   "started": "2026-11-04",
+   "last_changed": "2026-11-13",
+   "status": "active",
+   "last_line": "Cash rate 4.85%, fifth rise of 2026.",
+   "day": 12
+  },
+  {
+   "id": "au-visas",
+   "name": "Australia working-holiday visas",
+   "desk": "world",
+   "started": "2026-11-13",
+   "last_changed": "2026-11-13",
+   "status": "active",
+   "last_line": "Government reviewing ballot and caps.",
+   "day": 3
+  },
+  {
+   "id": "hormuz",
+   "name": "Strait of Hormuz attacks",
+   "desk": "world",
+   "started": "2026-11-02",
+   "last_changed": "2026-11-13",
+   "status": "active",
+   "last_line": "Iranian mine claims unverified; attacks continue.",
+   "day": 14
+  },
+  {
+   "id": "ukraine-talks",
+   "name": "Russia–Ukraine talks",
+   "desk": "world",
+   "started": "2026-11-11",
+   "last_changed": "2026-11-13",
+   "status": "active",
+   "last_line": "POW exchange agreed in principle; no political breakthrough.",
+   "day": 5
+  },
+  {
+   "id": "gta6-launch",
+   "name": "GTA VI launch",
+   "desk": "gaming",
+   "started": "2026-10-26",
+   "last_changed": "2026-11-13",
+   "status": "active",
+   "last_line": "Preload live; launch 19 Nov.",
+   "day": 21
+  },
+  {
+   "id": "frontier-agents",
+   "name": "Long-running AI agents",
+   "desk": "ai",
+   "started": "2026-11-09",
+   "last_changed": "2026-11-13",
+   "status": "active",
+   "last_line": "Fable 5.2 / Mythos 5.2 and Gemini 4 Carbon aimed at extended agent work.",
+   "day": 7
+  },
+  {
+   "id": "meta-semantic-ads",
+   "name": "Meta semantic ad delivery",
+   "desk": "business",
+   "started": "2026-10-28",
+   "last_changed": "2026-11-13",
+   "status": "active",
+   "last_line": "Andromeda / GEM / GenRecs; check backend vs reported conversions through BFCM.",
+   "day": 19
+  },
+  {
+   "id": "testosterone-beyond-deficiency",
+   "name": "Testosterone beyond classic deficiency",
+   "desk": "health",
+   "started": "2026-11-15",
+   "status": "active",
+   "last_changed": "2026-11-15",
+   "last_line": "A cautious null: too little evidence to say either way. Relevant to the wider debate on testosterone outside classic deficiency.",
+   "last_seen": "2026-11-15",
+   "day": 1
+  }
+ ]
+}

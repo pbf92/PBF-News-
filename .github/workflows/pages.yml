@@ -1,0 +1,47 @@
+name: Publish app
+
+# Publishes the app and every edition to GitHub Pages whenever an edition lands.
+# One-time setup: repo Settings -> Pages -> Source: "GitHub Actions".
+on:
+  push:
+    branches: [main]
+    paths:
+      - "index.html"
+      - "app/**"
+      - "icons/**"
+      - "manifest.webmanifest"
+      - "sw.js"
+      - "data/editions/**"
+      - "data/threads.json"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build site folder
+        run: |
+          mkdir -p _site/data
+          cp index.html manifest.webmanifest sw.js _site/
+          cp -r app icons _site/
+          cp -r data/editions _site/data/
+          cp data/threads.json _site/data/
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,176 @@
+{
+ "date": "2026-11-15",
+ "type": "weekend",
+ "test": true,
+ "note": "Test edition: built before the headline fetcher existed, so most desks relied on web search and came back quiet. Weekday editions use the fetched headlines.",
+ "read_minutes": 2,
+ "before_open": [],
+ "week_ahead": [
+  {
+   "when": "Mon 5:30 AM",
+   "what": "Empire State Manufacturing (Nov)",
+   "url": "https://thriveinmarkets.com/calendar/2026-11-16/"
+  },
+  {
+   "when": "Mon 6:05 AM",
+   "what": "Fed's Williams speaks",
+   "url": "https://thriveinmarkets.com/calendar/2026-11-16/"
+  },
+  {
+   "when": "Mon 9:00 AM",
+   "what": "Fed Chair Warsh speaks",
+   "url": "https://thriveinmarkets.com/calendar/2026-11-16/"
+  },
+  {
+   "when": "Tue 5:30 AM",
+   "what": "US retail sales (Oct)",
+   "url": "https://www.simianx.ai/stories/us-economic-calendar-this-month-in-your-time-zone"
+  },
+  {
+   "when": "Tue after close",
+   "what": "Nvidia earnings — key Nasdaq catalyst",
+   "url": "https://www.simianx.ai/stories/us-economic-calendar-this-month-in-your-time-zone"
+  },
+  {
+   "when": "Wed 18 Nov",
+   "what": "Pochettino's first day at Carrington"
+  },
+  {
+   "when": "Wed 11:00 AM",
+   "what": "FOMC minutes (October)",
+   "url": "https://www.simianx.ai/stories/us-economic-calendar-this-month-in-your-time-zone"
+  },
+  {
+   "when": "Thu 19 Nov",
+   "what": "GTA VI launches"
+  },
+  {
+   "when": "Fri 6:30 AM",
+   "what": "Monthly options expiration",
+   "url": "https://www.simianx.ai/stories/us-economic-calendar-this-month-in-your-time-zone"
+  },
+  {
+   "when": "Sun 22 Nov",
+   "what": "Liverpool v Man Utd — Pochettino's first match"
+  }
+ ],
+ "top": [],
+ "desks": [
+  {
+   "id": "united",
+   "name": "Manchester United & Football",
+   "status": "quiet",
+   "note": "No verified change since Friday: Pochettino starts Wednesday, no new Baleba update."
+  },
+  {
+   "id": "world",
+   "name": "World Affairs & Politics",
+   "status": "quiet",
+   "note": "Search surfaced nothing new on live threads; likely a search gap, not a quiet world. Fixed by the fetcher."
+  },
+  {
+   "id": "prop",
+   "name": "Futures & Prop Firms",
+   "status": "quiet",
+   "note": "Lucid, Topstep, Tradeify, TPT and Apex all checked: no rule changes found this week."
+  },
+  {
+   "id": "tradetech",
+   "name": "Trading Technology",
+   "status": "quiet",
+   "note": "No Pine Script or Quantower release; CME 2 Nov notice does not affect NQ/MNQ."
+  },
+  {
+   "id": "ai",
+   "name": "Artificial Intelligence",
+   "status": "quiet",
+   "note": "No change on Fable/Mythos 5.2, Gemini 4 Carbon or the Australia agent review."
+  },
+  {
+   "id": "business",
+   "name": "Business & E-commerce",
+   "status": "quiet",
+   "note": "Nothing new. Into BFCM, compare Meta-reported conversions with backend orders (on-device measurement change reported, not confirmed)."
+  },
+  {
+   "id": "faith",
+   "name": "Christianity & Theology",
+   "status": "quiet",
+   "note": "Nothing new this week beyond the Ophel mikva'ot already reported."
+  },
+  {
+   "id": "health",
+   "name": "Health & Wellness",
+   "status": "story",
+   "stories": [
+    {
+     "headline": "No proven cognitive benefit from testosterone for menopause 'brain fog'",
+     "why": "A cautious null: too little evidence to say either way. Relevant to the wider debate on testosterone outside classic deficiency.",
+     "points": [
+      "Review pooled 3 randomised trials, 244 postmenopausal women",
+      "No measurable gain in planning, learning or memory",
+      "Authors: a lack of evidence, not evidence of no effect"
+     ],
+     "grade": "C",
+     "study": "Review of 3 small RCTs; no perimenopausal women; reported via secondary coverage",
+     "confidence": "reported",
+     "thread": {
+      "id": "testosterone-beyond-deficiency",
+      "name": "Testosterone beyond classic deficiency",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "HealthDay",
+       "url": "https://www.powershealth.org/about-us/newsroom/health-library/2026/11/09/testosterone-therapy-doesnt-help-menopause-brain-fog-review-concludes"
+      },
+      {
+       "name": "MedicineNet",
+       "url": "https://www.medicinenet.com/testosterone_therapy_help_menopause_brain_fog/news.htm"
+      }
+     ],
+     "desk": "health"
+    }
+   ]
+  },
+  {
+   "id": "gaming",
+   "name": "Gaming & PlayStation",
+   "status": "quiet",
+   "note": "No new verified news; GTA VI launches Thursday."
+  },
+  {
+   "id": "expand",
+   "name": "Expand My World",
+   "status": "failed",
+   "note": "Search returned only aggregator pages; nothing verifiable, so nothing invented."
+  }
+ ],
+ "watching": [
+  {
+   "thread": "hormuz",
+   "line": "Iranian mine claims still unverified; attacks continue."
+  },
+  {
+   "thread": "ukraine-talks",
+   "line": "POW exchange agreed in principle; no movement on territory."
+  },
+  {
+   "thread": "senate-leadership",
+   "line": "Van Hollen vs Schumer vote expected in December."
+  },
+  {
+   "thread": "fed-december",
+   "line": "Warsh speaks Monday; FOMC minutes Wednesday."
+  }
+ ],
+ "expand": null,
+ "generated_at": "2026-11-15T19:10:55Z",
+ "updates": [],
+ "status": {
+  "story": 1,
+  "quiet": 8,
+  "failed": 1
+ }
+}

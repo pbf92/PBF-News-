@@ -1,0 +1,49 @@
+name: Fetch headlines
+
+# Free headline collection for the PIJ. No Claude usage.
+# Times are UTC. 11:40 and 12:40 cover the pre-dawn fetch in both PST and PDT;
+# 19:40 and 21:20 feed the midday and after-close checks.
+# The morning edition run also triggers this workflow itself (workflow_dispatch),
+# so a late GitHub cron never leaves the paper with stale headlines.
+on:
+  schedule:
+    - cron: "40 11 * * *"
+    - cron: "40 12 * * *"
+    - cron: "40 19 * * 1-5"
+    - cron: "20 21 * * 1-5"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "data/requests/fetch.txt"   # the edition run touches this to ask for a fresh fetch
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pij-data
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install feedparser==6.0.11
+      - run: python scripts/fetch.py
+      - name: Commit inbox
+        run: |
+          git config user.name "pij-fetcher"
+          git config user.email "pij-fetcher@users.noreply.github.com"
+          git add data/inbox data/seen.json
+          if git diff --cached --quiet; then echo "nothing new"; exit 0; fi
+          git commit -m "Fetch headlines $(date -u +%Y-%m-%dT%H:%MZ)"
+          for i in 1 2 3; do
+            git pull --rebase -X ours origin main && git push && exit 0
+            sleep 5
+          done
+          exit 1
