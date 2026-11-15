@@ -75,30 +75,33 @@
    "name": "Strait of Hormuz attacks",
    "desk": "world",
    "started": "2026-11-02",
-   "last_changed": "2026-11-13",
+   "last_changed": "2026-11-15",
    "status": "active",
-   "last_line": "Iranian mine claims unverified; attacks continue.",
-   "day": 14
+   "last_line": "Attacks in the Gulf are continuing even as Trump reportedly leans against new strikes, which keeps oil and risk assets exposed to headlines.",
+   "day": 14,
+   "last_seen": "2026-11-15"
   },
   {
    "id": "ukraine-talks",
    "name": "Russia–Ukraine talks",
    "desk": "world",
    "started": "2026-11-11",
-   "last_changed": "2026-11-13",
+   "last_changed": "2026-11-15",
    "status": "active",
-   "last_line": "POW exchange agreed in principle; no political breakthrough.",
-   "day": 5
+   "last_line": "A first joint meeting of the three nuclear powers could shift the Ukraine and arms-control picture, but Beijing looks lukewarm and nothing is settled.",
+   "day": 5,
+   "last_seen": "2026-11-15"
   },
   {
    "id": "gta6-launch",
    "name": "GTA VI launch",
    "desk": "gaming",
    "started": "2026-10-26",
-   "last_changed": "2026-11-13",
+   "last_changed": "2026-11-15",
    "status": "active",
-   "last_line": "Preload live; launch 19 Nov.",
-   "day": 21
+   "last_line": "Launch is days away, so storage space, preload and regional unlock times matter now. Sales and soundtrack items are press or leak reports, not Rockstar statements.",
+   "day": 21,
+   "last_seen": "2026-11-15"
   },
   {
    "id": "frontier-agents",
@@ -128,6 +131,72 @@
    "status": "active",
    "last_changed": "2026-11-15",
    "last_line": "A cautious null: too little evidence to say either way. Relevant to the wider debate on testosterone outside classic deficiency.",
+   "last_seen": "2026-11-15",
+   "day": 1
+  },
+  {
+   "id": "nvidia-earnings-nov",
+   "name": "Nvidia earnings 17 Nov",
+   "desk": "world",
+   "started": "2026-11-15",
+   "status": "active",
+   "last_changed": "2026-11-15",
+   "last_line": "Nvidia is the main event risk for Nasdaq futures this week, landing against a bond-yield jump and Fed hike talk.",
+   "last_seen": "2026-11-15",
+   "day": 1
+  },
+  {
+   "id": "anthropic-ipo",
+   "name": "Anthropic IPO",
+   "desk": "ai",
+   "started": "2026-11-15",
+   "status": "active",
+   "last_changed": "2026-11-15",
+   "last_line": "A listing of a frontier lab would be a major market event and a read on appetite for AI valuations; details below are secondary-source and unconfirmed.",
+   "last_seen": "2026-11-15",
+   "day": 1
+  },
+  {
+   "id": "topstep-nov-2026-rules",
+   "name": "Topstep November 2026 rule changes",
+   "desk": "prop",
+   "started": "2026-11-15",
+   "status": "active",
+   "last_changed": "2026-11-15",
+   "last_line": "Topstep is on your watchlist and several November changes touch payouts and Live funding. These come from a third-party change tracker, not Topstep, so check Topstep's help pages before relying on the",
+   "last_seen": "2026-11-15",
+   "day": 1
+  },
+  {
+   "id": "tv-tick-orderflow",
+   "name": "TradingView tick-based order flow",
+   "desk": "tradetech",
+   "started": "2026-11-15",
+   "status": "active",
+   "last_changed": "2026-11-15",
+   "last_line": "Tick-level order-flow data should make delta and CVD readings on TradingView more accurate for futures day trading. I could not open the announcement, so plan requirements and rollout are unconfirmed.",
+   "last_seen": "2026-11-15",
+   "day": 1
+  },
+  {
+   "id": "agent-payments",
+   "name": "AI agent payments and wallets",
+   "desk": "ai",
+   "started": "2026-11-15",
+   "status": "active",
+   "last_changed": "2026-11-15",
+   "last_line": "Agents that can pay are the missing step for autonomous shopping and workflows; it also puts OpenAI into checkout, where merchants must decide whether to let agents through.",
+   "last_seen": "2026-11-15",
+   "day": 1
+  },
+  {
+   "id": "lpa-pelacarsen",
+   "name": "Lp(a) lowering and heart events",
+   "desk": "health",
+   "started": "2026-11-15",
+   "status": "active",
+   "last_changed": "2026-11-15",
+   "last_line": "The first big outcomes test of lowering Lp(a), a genetically set heart-risk factor, came back neutral, so Lp(a) lowering is not yet a proven way to cut events. Conventional risk-factor control stays t",
    "last_seen": "2026-11-15",
    "day": 1
   }

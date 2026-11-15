@@ -1,102 +1,320 @@
 {
  "date": "2026-11-15",
  "type": "weekend",
- "test": true,
- "note": "Test edition: built before the headline fetcher existed, so most desks relied on web search and came back quiet. Weekday editions use the fetched headlines.",
- "read_minutes": 2,
+ "read_minutes": 3,
+ "note": "Weekend light edition. Several article pages could not be opened, so some stories rest on headlines and are marked reported; week-ahead times partly from a third-party calendar.",
  "before_open": [],
  "week_ahead": [
   {
    "when": "Mon 5:30 AM",
-   "what": "Empire State Manufacturing (Nov)",
+   "what": "Empire State Manufacturing Index, Nov (forecast 19.4, prior 25.5; third-party calendar)",
    "url": "https://thriveinmarkets.com/calendar/2026-11-16/"
   },
   {
    "when": "Mon 6:05 AM",
-   "what": "Fed's Williams speaks",
-   "url": "https://thriveinmarkets.com/calendar/2026-11-16/"
-  },
-  {
-   "when": "Mon 9:00 AM",
-   "what": "Fed Chair Warsh speaks",
+   "what": "Fed's Williams speaks (NY Fed FX market structure conference); Fed Chair Warsh speaks 9:00 AM (third-party calendar, not on Fed page)",
    "url": "https://thriveinmarkets.com/calendar/2026-11-16/"
   },
   {
    "when": "Tue 5:30 AM",
-   "what": "US retail sales (Oct)",
-   "url": "https://www.simianx.ai/stories/us-economic-calendar-this-month-in-your-time-zone"
+   "what": "US import and export price indexes, Oct (BLS, 8:30 AM ET)",
+   "url": "https://www.bls.gov/schedule/"
+  },
+  {
+   "when": "Tue (time TBC)",
+   "what": "US retail sales and industrial production, Oct (third-party calendar; time not confirmed)",
+   "url": "https://thriveinmarkets.com/calendar/2026-11-16/"
   },
   {
    "when": "Tue after close",
-   "what": "Nvidia earnings — key Nasdaq catalyst",
-   "url": "https://www.simianx.ai/stories/us-economic-calendar-this-month-in-your-time-zone"
+   "what": "Nvidia earnings, first without Jensen Huang",
+   "url": "https://thriveinmarkets.com/calendar/2026-11-16/"
   },
   {
-   "when": "Wed 18 Nov",
-   "what": "Pochettino's first day at Carrington"
+   "when": "Wed 7:00 AM",
+   "what": "BLS employer-reported workplace injuries and illnesses, annual (low market impact)",
+   "url": "https://www.bls.gov/schedule/"
   },
   {
    "when": "Wed 11:00 AM",
-   "what": "FOMC minutes (October)",
-   "url": "https://www.simianx.ai/stories/us-economic-calendar-this-month-in-your-time-zone"
+   "what": "FOMC minutes (third-party calendar, 2:00 PM ET)",
+   "url": "https://thriveinmarkets.com/calendar/2026-11-16/"
   },
   {
-   "when": "Thu 19 Nov",
-   "what": "GTA VI launches"
+   "when": "Thu",
+   "what": "No major US releases listed; Trump-Xi-Putin APEC meeting expected",
+   "url": "https://www.aljazeera.com/amp/news/2026/11/6/what-a-trump-xi-putin-summit-would-mean-and-what-it-wouldnt"
   },
   {
-   "when": "Fri 6:30 AM",
-   "what": "Monthly options expiration",
-   "url": "https://www.simianx.ai/stories/us-economic-calendar-this-month-in-your-time-zone"
+   "when": "Fri 7:00 AM",
+   "what": "BLS state employment and unemployment, Oct",
+   "url": "https://www.bls.gov/schedule/"
   },
   {
-   "when": "Sun 22 Nov",
-   "what": "Liverpool v Man Utd — Pochettino's first match"
+   "when": "Fri",
+   "what": "Final University of Michigan sentiment, Nov (prelim 51.0; time not confirmed)",
+   "url": "https://thriveinmarkets.com/calendar/2026-11-16/"
   }
  ],
- "top": [],
+ "top": [
+  {
+   "headline": "Nvidia reports Tue 17 Nov, first results since Jensen Huang's departure, with 10-yr yield above 5.15%",
+   "why": "Nvidia is the main event risk for Nasdaq futures this week, landing against a bond-yield jump and Fed hike talk.",
+   "points": [
+    "Multiple previews (Motley Fool, FOREX.com, Yahoo Finance, 15 Nov) put the report on 17 Nov after the close, the first without Huang.",
+    "CME Group: 10-year Treasury yield climbed 30 bps on the week to above 5.15%.",
+    "Fed's Hammack (13 Nov) backed gradual rate increases as inflation broadens.",
+    "FOMC minutes are due Wed 18 Nov; Fed Chair Warsh and NY Fed's Williams speak Mon (per third-party calendar)."
+   ],
+   "next": "Nvidia results Tue 17 Nov after the close; FOMC minutes Wed 18 Nov 11:00 AM PT.",
+   "confidence": "reported",
+   "impact": "high",
+   "thread": {
+    "id": "nvidia-earnings-nov",
+    "name": "Nvidia earnings 17 Nov",
+    "status": "new",
+    "day": 1
+   },
+   "sources": [
+    {
+     "name": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNF90WjZ0QlBHdHhaWVZrX0h6WUo1OWpZSlN2UW5Eam5RbXo1amx1ejVxeC1SdXpiQTFLR3VLeGtJLXFWRFNRRmw2VHJ6ei1HYzBZeDNVZUhCR2x0c2oySGEtLUFuQXBwb0xmbnUteU1UWEZXd2czTUF3UF9nTDJHX3h1OVZ2SW4wX1FJSjZheUpBU2Eybk5uQzYzb0dQQ2s?oc=5"
+    },
+    {
+     "name": "Thrive in Markets calendar",
+     "url": "https://thriveinmarkets.com/calendar/2026-11-16/"
+    }
+   ],
+   "desk": "world"
+  },
+  {
+   "headline": "Anthropic IPO nears: reported pricing 18 Nov, trading 19 Nov",
+   "why": "A listing of a frontier lab would be a major market event and a read on appetite for AI valuations; details below are secondary-source and unconfirmed.",
+   "points": [
+    "WSJ (15 Nov) covers individual investors keen on the IPO but cool on AI; CNBC (12 Nov) carries Jim Cramer's questions 'ahead of its historic IPO'.",
+    "Search results (headlines only, not read in full) cite pricing on 18 Nov and trading on 19 Nov (FourWeekMBA), and Renaissance Capital reports terms for a $61bn IPO targeting a $1.2tn market cap.",
+    "Valuation figures vary widely between outlets; treat all numbers as reported until the filing is checked."
+   ],
+   "next": "Reported pricing 18 Nov, first trade 19 Nov; confirm against the SEC prospectus.",
+   "confidence": "reported",
+   "impact": "high",
+   "thread": {
+    "id": "anthropic-ipo",
+    "name": "Anthropic IPO",
+    "status": "new",
+    "day": 1
+   },
+   "sources": [
+    {
+     "name": "WSJ",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWEN6Mk43NjhtMVJzaVNhWTRvOUtSZ3NLd1I4UWtRTHI1Vk9RTGRSbFlHZ1g4bTY0MnVqb0ltNEh1NTVqVmpLb2tCTGp2dTBNUHpfWFI1aDB1VjBmcFNseG9KbHNkbXVUV2JIdEI0ZlNPVW13Q0IxTTZWZkxnSHJPRC1oOWlScHJkSVhzZGltSEtzVFdPZzUtMVByU0ZMZExMbXFsREFlclVMbldRRWd1TmoyVQ?oc=5"
+    },
+    {
+     "name": "FourWeekMBA",
+     "url": "https://fourweekmba.com/ai-anthropics-ipo-day-by-day-pricing-18-nov-trading-19-nov/"
+    },
+    {
+     "name": "Renaissance Capital",
+     "url": "https://www.renaissancecapital.com/IPO-Center/News/122657/anthropic-sets-terms-for-61-billion-ipo-targeting-a-1.2-trillion-market-cap"
+    }
+   ],
+   "desk": "ai"
+  },
+  {
+   "headline": "Trump, Xi and Putin plan first three-way meeting at APEC, White House and Kremlin say",
+   "why": "A first joint meeting of the three nuclear powers could shift the Ukraine and arms-control picture, but Beijing looks lukewarm and nothing is settled.",
+   "points": [
+    "AP (14 Nov): White House and Kremlin both say a joint meeting is planned on the APEC sidelines.",
+    "Reuters (14 Nov): White House says Trump will raise nuclear-arms cuts with Putin and Xi on Thursday (19 Nov).",
+    "Al Jazeera (6 Nov): Xi reportedly told Steinmeier the three might meet but not to discuss Ukraine; China's foreign ministry has called trilateral nuclear talks 'neither fair, reasonable nor realistic' at this stage.",
+    "Reuters (14 Nov): Zelenskiy says the US floated Ukraine ceding Donbas in exchange for NATO membership."
+   ],
+   "next": "Meeting expected Thu 19 Nov at APEC (Shenzhen, per Al Jazeera); Beijing's confirmation still awaited.",
+   "confidence": "reported",
+   "region": "Global",
+   "impact": "high",
+   "thread": {
+    "id": "ukraine-talks",
+    "name": "Russia–Ukraine talks",
+    "status": "changed",
+    "day": 5
+   },
+   "sources": [
+    {
+     "name": "AP News",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUd4MWZqTjdxYkRUaW55bWxuNy1BX1FaZVNYZHRtNEg4NWdzTENNMlVLOUt6QlptMzd1cUtLanJ0U1pPNVVrbjZDRXo0UWszZjV6d09hRy1GaUFFWE9PUmtzRnFxOUxJdW1OTy0zT21LbnU3RGlhQUUtNHlnRW9nUjhJRmQ0QUFDME9oelNZTVQ?oc=5"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/amp/news/2026/11/6/what-a-trump-xi-putin-summit-would-mean-and-what-it-wouldnt"
+    }
+   ],
+   "desk": "world"
+  }
+ ],
  "desks": [
   {
    "id": "united",
    "name": "Manchester United & Football",
    "status": "quiet",
-   "note": "No verified change since Friday: Pochettino starts Wednesday, no new Baleba update."
+   "stories": [],
+   "note": "Light edition: Pochettino is still on USA duty; transfer links are rumour only. Carrington start 18 Nov."
   },
   {
    "id": "world",
    "name": "World Affairs & Politics",
-   "status": "quiet",
-   "note": "Search surfaced nothing new on live threads; likely a search gap, not a quiet world. Fixed by the fetcher."
+   "status": "story",
+   "stories": [
+    {
+     "headline": "Iran drones target US airbase in Bahrain as Trump weighs holding off on strikes",
+     "why": "Attacks in the Gulf are continuing even as Trump reportedly leans against new strikes, which keeps oil and risk assets exposed to headlines.",
+     "points": [
+      "The Hill (15 Nov): six-drone attack on a US airbase in Bahrain early Sunday; Bahrain says it intercepted 'several aerial attacks'; Iran claims it struck a base.",
+      "The Hill: follows an Iranian claim of another attack two days earlier.",
+      "Reuters via Korea Times (14 Nov): Trump told advisers he may hold off on Iran attacks barring new provocations (anonymous sources).",
+      "IEA (via Reuters, 13 Nov): oil market returning to surplus as Gulf exports recover."
+     ],
+     "next": "Watch for US response and Hormuz shipping reports; Trump at Quad/APEC meetings this week.",
+     "confidence": "reported",
+     "region": "Global",
+     "impact": "high",
+     "thread": {
+      "id": "hormuz",
+      "name": "Strait of Hormuz attacks",
+      "status": "changed",
+      "day": 14
+     },
+     "sources": [
+      {
+       "name": "The Hill",
+       "url": "https://thehill.com/policy/international/6221436-iran-drone-attack-bahrain/"
+      },
+      {
+       "name": "Reuters via Korea Times",
+       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMVk1M0YtN2c5UldQTFE1T3lGMHBhMEs4eF9JWW1nTTFRVC01cjlrWFVDbFYxenkyQUJYbDloeXdjZ0VkZkhYaWh2c21UTmRKc0cwTTFzZFVnYmkxcWM1aDA5N3UtczJnY3Y0bVVHR0EzZkltSndrM3BXQ2hyekR3T0pPNFo4MTlmVVRXTG1wcWNmRXdHNHlfM1JwSmNtMFZXSFlEQlJpWDQ4akxlbFp3MU5nTGlqaWxBNjBuMlBaUWdtdzdlZHNDZThaOTlpZ9IB0wFBVV95cUxPRmlFajRXZEhZNFU5a3FzQXRvSkJGWG5KZ01zMk1TVTlWMktmZGpFY21tT1JEc09PLU1VNjZOVUVzQ2R0bHo4VkptUGN2UGd3ZWc1S0FHZVVEcnFZcEtmalpPYVI1djdVcjRKUFhnWFdSVjVyWC15ZVZYNURUU0VNVmFnbGxnOHY0VUFvdVc5bnNOYmJXSmlSUGg2SXJDeFpaZ0pvSmNwT2JISHBqenVHNTlNNGtmYkhER21xdFZnSnd1WmZjUzBDMHI2TFFpNzFrdXV3?oc=5"
+      }
+     ],
+     "desk": "world"
+    }
+   ],
+   "note": "Lead story: see top (Trump–Xi–Putin at APEC; Nvidia and yields week)."
   },
   {
    "id": "prop",
    "name": "Futures & Prop Firms",
-   "status": "quiet",
-   "note": "Lucid, Topstep, Tradeify, TPT and Apex all checked: no rule changes found this week."
+   "status": "story",
+   "stories": [
+    {
+     "headline": "Topstep adds Live tiers, Micro Bitcoin limits and a payout hold rule in November",
+     "why": "Topstep is on your watchlist and several November changes touch payouts and Live funding. These come from a third-party change tracker, not Topstep, so check Topstep's help pages before relying on them.",
+     "points": [
+      "Nov 3: new 25K and 250K Live Funded tiers (25K: $1,000 daily loss limit, 3 lots; 250K: $5,000 daily loss limit, 15 lots)",
+      "Nov 9: profile holds pause purchases and payout requests during a 7-business-day review; profiles created during a hold are closed without refund",
+      "Nov 9: 80% Live Reserve can unlock in as few as 4 weeks; returning Live traders keep prior balance and reserve targets",
+      "Nov 10: Micro Bitcoin (MBT) limits of 5, 10 and 15 contracts on 50K, 100K and 150K accounts; Nov 12: 100K and 150K Static Drawdown Combines available at any time (limit 5 per account per month)"
+     ],
+     "next": "No dated catalyst found; confirm effective dates and grandfathering on Topstep's help centre.",
+     "confidence": "reported",
+     "impact": "medium",
+     "thread": {
+      "id": "topstep-nov-2026-rules",
+      "name": "Topstep November 2026 rule changes",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Pipback Topstep change archive (aggregator, unconfirmed)",
+       "url": "https://pipback.com/firms/topstep/archive?changeMonth=2026-11"
+      }
+     ],
+     "desk": "prop"
+    }
+   ]
   },
   {
    "id": "tradetech",
    "name": "Trading Technology",
-   "status": "quiet",
-   "note": "No Pine Script or Quantower release; CME 2 Nov notice does not affect NQ/MNQ."
+   "status": "story",
+   "stories": [
+    {
+     "headline": "TradingView adds tick-based calculations for Footprint, Volume Delta and CVD",
+     "why": "Tick-level order-flow data should make delta and CVD readings on TradingView more accurate for futures day trading. I could not open the announcement, so plan requirements and rollout are unconfirmed.",
+     "points": [
+      "Announced on TradingView's feed on Nov 13, 2026",
+      "Covers three order-flow tools: Footprint, Volume Delta and Cumulative Volume Delta (CVD)",
+      "Plan tier, supported instruments and history depth not verified"
+     ],
+     "next": "Read the full TradingView announcement for plan limits and availability.",
+     "confidence": "reported",
+     "impact": "medium",
+     "thread": {
+      "id": "tv-tick-orderflow",
+      "name": "TradingView tick-based order flow",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "TradingView (via Google News)",
+       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQl9VUFdpdWxYNC1kUXFRWkNtQ1diQm1UQzY1eGxqZzd4WE9VakFTUERVQzJCQl80VkViVHJSVVBNZkl1ZlNISFM5SlNGVl9iS0k5ZlJFUVBFN2ZkTnpSdE9DU0JBUnRXNGY2SlE2bnZHVm5BZm4tbmlIVnF4WnhLNkZHRGhIUm41X1NIRjktTm9Jc2c2WFV6bw?oc=5"
+      }
+     ],
+     "desk": "tradetech"
+    }
+   ]
   },
   {
    "id": "ai",
    "name": "Artificial Intelligence",
-   "status": "quiet",
-   "note": "No change on Fable/Mythos 5.2, Gemini 4 Carbon or the Australia agent review."
+   "status": "story",
+   "stories": [
+    {
+     "headline": "OpenAI launches ChatGPT Wallet so agents can buy things with user approval",
+     "why": "Agents that can pay are the missing step for autonomous shopping and workflows; it also puts OpenAI into checkout, where merchants must decide whether to let agents through.",
+     "points": [
+      "OpenAI announced ChatGPT Wallet on 13 Nov: agents in ChatGPT Work, Codex and 'dots' can complete purchases with user approval and existing card protections.",
+      "PPC Land (Unsure source, unconfirmed) reports it launches first for US ChatGPT Pro subscribers aged 18+, inside dots, with the real card number not exposed to the agent.",
+      "PPC Land also reports retailers are being told to unblock signed agents; whether risk systems let purchases through is untested.",
+      "For your stores: review bot-blocking and fraud rules on Shopify before BFCM (27 Nov) so signed agents are not blocked by accident."
+     ],
+     "next": "Watch for wider rollout beyond Pro and retailer/payment-network responses; no date announced in the sources seen.",
+     "confidence": "confirmed",
+     "impact": "high",
+     "thread": {
+      "id": "agent-payments",
+      "name": "AI agent payments and wallets",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "OpenAI",
+       "url": "https://openai.com/index/introducing-chatgpt-wallet"
+      },
+      {
+       "name": "PPC Land (tip-off, detail unconfirmed)",
+       "url": "https://ppc.land/openai-hands-its-ai-agents-a-wallet-without-the-real-card-number-in-it/"
+      }
+     ],
+     "desk": "ai"
+    }
+   ],
+   "note": "Lead story: see top (Anthropic IPO). Claude Meetings beta and chip-export talk held for the weekday edition."
   },
   {
    "id": "business",
    "name": "Business & E-commerce",
    "status": "quiet",
-   "note": "Nothing new. Into BFCM, compare Meta-reported conversions with backend orders (on-device measurement change reported, not confirmed)."
+   "stories": [],
+   "note": "ChatGPT Wallet merchant angle merged into the AI desk; Meta in-chat checkout report not yet confirmed by Meta."
   },
   {
    "id": "faith",
    "name": "Christianity & Theology",
    "status": "quiet",
-   "note": "Nothing new this week beyond the Ophel mikva'ot already reported."
+   "stories": [],
+   "note": "Bar Kokhba tunnels and Byzantine church opening in Israel: headline-level only, held until confirmed in full."
   },
   {
    "id": "health",
@@ -104,30 +322,33 @@
    "status": "story",
    "stories": [
     {
-     "headline": "No proven cognitive benefit from testosterone for menopause 'brain fog'",
-     "why": "A cautious null: too little evidence to say either way. Relevant to the wider debate on testosterone outside classic deficiency.",
+     "headline": "Pelacarsen cuts Lp(a) 78% but does not reduce heart attacks or strokes in NEJM trial",
+     "why": "The first big outcomes test of lowering Lp(a), a genetically set heart-risk factor, came back neutral, so Lp(a) lowering is not yet a proven way to cut events. Conventional risk-factor control stays the priority.",
      "points": [
-      "Review pooled 3 randomised trials, 244 postmenopausal women",
-      "No measurable gain in planning, learning or memory",
-      "Authors: a lack of evidence, not evidence of no effect"
+      "Lp(a)HORIZON: 8,350 patients with prior CV event and Lp(a) of 70 mg/dL or more; monthly 80 mg pelacarsen vs placebo, median 4.7 years.",
+      "Lp(a) fell 77.7% at 12 months; major CV events 12.3% vs 12.1%, HR 1.02 (95% CI 0.90-1.15).",
+      "Drug-related adverse events 56.8% vs 18.0%; discontinuations 20.6% vs 7.5%.",
+      "Novartis (funder) has discontinued the pelacarsen ASCVD programme; trials of olpasiran, lepodisiran and muvalaplin continue."
      ],
-     "grade": "C",
-     "study": "Review of 3 small RCTs; no perimenopausal women; reported via secondary coverage",
-     "confidence": "reported",
+     "next": "Other Lp(a) outcomes trials (OCEAN(a)-Outcomes, ACCLAIM-Lp(a), MOVE-Lp(a)) are ongoing; no read-out date confirmed.",
+     "confidence": "confirmed",
+     "grade": "A",
+     "study": "Large phase 3 double-blind RCT (n=8,350, 42 countries), secondary-prevention patients only; result applies to pelacarsen, not other Lp(a) drugs, and not to primary prevention.",
+     "impact": "medium",
      "thread": {
-      "id": "testosterone-beyond-deficiency",
-      "name": "Testosterone beyond classic deficiency",
+      "id": "lpa-pelacarsen",
+      "name": "Lp(a) lowering and heart events",
       "status": "new",
       "day": 1
      },
      "sources": [
       {
-       "name": "HealthDay",
-       "url": "https://www.powershealth.org/about-us/newsroom/health-library/2026/11/09/testosterone-therapy-doesnt-help-menopause-brain-fog-review-concludes"
+       "name": "TCTMD",
+       "url": "https://www.tctmd.com/news/full-lpahorizon-results-affirm-lack-pelacarsen-benefit-secondary-prevention"
       },
       {
-       "name": "MedicineNet",
-       "url": "https://www.medicinenet.com/testosterone_therapy_help_menopause_brain_fog/news.htm"
+       "name": "Medical Dialogues (NEJM)",
+       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUW90aERTcF84N1BXMjZaSDQxZWItc1ZnNWRHUTdzb1FrZjFKam9Ia2NQWS1yMWR0anpmQmxiLXUwekNobWFfcHFBWkhqalNiSlJwalljbTNWZjl1bWRQTmpCVWhQcG9rNEw1Vmw2OTM4SlRDempmOFBPMFcyUVVndEsyLVY0ZUhHTEtiOXVYdF9GZWN5RGFyb01FOFh2MmF0NWRDUlduQUx2bm9IMjRPTmZUU2Y2S2lYaGtsVmRnT0RVd1ZidldpbWE0UGdFcHPSAc8BQVVfeXFMTVFvdGhEU3BfODdQVzI2Wkg0MWViLXNWZzVkR1E3c29Ra2YxSmpvSGtjUFktcjFkdGp6ZkJsYi11MHpDaG1hX3BxQVpIampTYkpScGpZY20zVmY5dW1kUE5qQlVoUHBvazRMNVZsNjkzOEpUQ3pqZjhQTzBXMlFVZ3RLMi1WNGVIR0xLYjl1WHRfRmVjeURhcm9NRThYdjJhdDVkQ1JXbkFMdm5vSDI0T05mVFNmNktpWGhrbFZkZ09EVXdWYnZXaW1hNFBnRXBz?oc=5"
       }
      ],
      "desk": "health"
@@ -137,40 +358,81 @@
   {
    "id": "gaming",
    "name": "Gaming & PlayStation",
-   "status": "quiet",
-   "note": "No new verified news; GTA VI launches Thursday."
+   "status": "story",
+   "stories": [
+    {
+     "headline": "GTA VI launch week: 212GB install, reported $1bn pre-orders, some players in early on 18 Nov",
+     "why": "Launch is days away, so storage space, preload and regional unlock times matter now. Sales and soundtrack items are press or leak reports, not Rockstar statements.",
+     "points": [
+      "Thread record: preload live, launch 19 Nov. VICE (15 Nov) explains why some players can play on 18 Nov (time zones; exact times not verified).",
+      "NDTV reports a 212GB download and pre-orders passing $1bn; the figures are unconfirmed by Rockstar in the sources seen.",
+      "Rumour: a 34-song tracklist for 'GTA 6: The Album' leaked; Complex says the leaked soundtrack was 'confirmed real'.",
+      "Reported (Mezha.net): story roughly 50 hours, PS5 platinum about 200 hours. EA added a 'don't delete' prompt to Madden NFL 27."
+     ],
+     "next": "Launch 19 Nov (early access in some regions 18 Nov); Game Awards nominees announced next week.",
+     "confidence": "reported",
+     "impact": "high",
+     "thread": {
+      "id": "gta6-launch",
+      "name": "GTA VI launch",
+      "status": "changed",
+      "day": 21
+     },
+     "sources": [
+      {
+       "name": "VICE",
+       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WbWlZZV9ISEtNU1d4WG1KcHlFNDVLX3Vwemw2cU5UUjBkU1hISUJCSG1RZlVTbENwWG9zbzNpVHE1TWFuNHpXa1g1OF9sbWt3b191TWk0cEhrVXZFSm95cmtsQ0Fpdw?oc=5"
+      },
+      {
+       "name": "NDTV",
+       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ0tqMDBZb1dRNkNuOXJybTc0UXlUU2xselhOT1pIV2poX0EwLXJmaTRCVlI0T1JrWU5Lc2drcnJ3SDJncEJJQkFVbjRHbW9RUWJBaVRGMTdwQ1gxRHRnVXd5RVBHZldtRDZfdmljMGtXT3FSU0hSdFdoTXFJTVVSb0c5emphSmhtTXZ2TlBIQ3UwazNBWmlnMEt0STgwYXY5d3VyNnBtU1NPSFRuaEkzSkVpY1PSAbwBQVVfeXFMT0t1eHNSNVlka0dCZWRrOW1VU190d3poTk9lYVRUUGlIbGZXSkhneUN0eF95YVdHTFZrUkc0anJYRzV5TlVBb0ZUSElRb1E3ZHMwc2ZTM05kZEZxTXQyczR0UlhfaEV2eG9Qd0x0SUpHMlpMQURMUndLM2Y0OUNhOVYwX2NIbXo0NmFBeU53VW40amRLNy1UTDFEYnNXZEtDQzRndks3aURhOFZEWmZMWWJfX1ZoRHNBdW9GNzg?oc=5"
+      },
+      {
+       "name": "VGC / IGN",
+       "url": "https://www.ign.com/articles/ea-adds-dont-delete-message-to-madden-nfl-27-in-bid-to-keep-players-from-making-room-ahead-of-gta-6"
+      }
+     ],
+     "desk": "gaming"
+    }
+   ]
   },
   {
    "id": "expand",
    "name": "Expand My World",
-   "status": "failed",
-   "note": "Search returned only aggregator pages; nothing verifiable, so nothing invented."
+   "status": "quiet",
+   "stories": [],
+   "note": "Candidates (Nature, Quanta) could not be opened this run; skipped rather than padded."
   }
  ],
  "watching": [
   {
-   "thread": "hormuz",
-   "line": "Iranian mine claims still unverified; attacks continue."
+   "thread": "pochettino-era",
+   "line": "Pochettino on USA duty (beat Haiti); starts at Carrington 18 Nov, Liverpool away 22 Nov."
   },
   {
-   "thread": "ukraine-talks",
-   "line": "POW exchange agreed in principle; no movement on territory."
+   "thread": "baleba-injury",
+   "line": "No club update since 6 Nov; doubt for Liverpool (22 Nov)."
   },
   {
    "thread": "senate-leadership",
-   "line": "Van Hollen vs Schumer vote expected in December."
+   "line": "Van Hollen claims Schumer backers pledged to him; Schumer allies expect 40+ votes. Secret ballot in December."
   },
   {
    "thread": "fed-december",
-   "line": "Warsh speaks Monday; FOMC minutes Wednesday."
+   "line": "Hammack backs gradual hikes (13 Nov); FOMC minutes Wed 18 Nov."
+  },
+  {
+   "thread": "frontier-agents",
+   "line": "Claude Meetings enters beta (reported); agent work continues across labs."
   }
  ],
+ "close_threads": [],
  "expand": null,
- "generated_at": "2026-11-15T19:10:55Z",
+ "generated_at": "2026-11-15T19:34:47Z",
  "updates": [],
  "status": {
-  "story": 1,
-  "quiet": 8,
-  "failed": 1
+  "story": 6,
+  "quiet": 4,
+  "failed": 0
  }
 }

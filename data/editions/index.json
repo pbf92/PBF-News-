@@ -4,11 +4,15 @@
   {
    "date": "2026-11-15",
    "type": "weekend",
-   "top": [],
+   "top": [
+    "Nvidia reports Tue 17 Nov, first results since Jensen Huang's departure, with 10-yr yield above 5.15%",
+    "Anthropic IPO nears: reported pricing 18 Nov, trading 19 Nov",
+    "Trump, Xi and Putin plan first three-way meeting at APEC, White House and Kremlin say"
+   ],
    "status": {
-    "story": 1,
-    "quiet": 8,
-    "failed": 1
+    "story": 6,
+    "quiet": 4,
+    "failed": 0
    },
    "updates": 0
   }
