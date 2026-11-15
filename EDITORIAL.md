@@ -18,7 +18,7 @@ Personal Intelligence Journal brief and his decisions on 15 Nov 2026.
 
 ## Desk specifics
 1. **Manchester United & Football**: manager, transfers, injuries, tactics, results, wider football. Transfer gossip is `rumour` unless a reliable outlet confirms.
-2. **Futures & Prop Firms**: watchlist ONLY: Lucid Trading, Topstep, Tradeify, Take Profit Trader, Apex Trader Funding. Other firms only for industry-wide changes (CME, regulators, data fees). Rule changes: effective dates, who is grandfathered, practical impact.
+2. **Futures & Prop Firms**: watchlist ONLY: Lucid Trading, Topstep, Tradeify, Take Profit Trader, Apex Trader Funding, MyFundedFutures, FuturesElite, Tradesea (all equal priority). Other firms only for industry-wide changes (CME, regulators, data fees). Rule changes: effective dates, who is grandfathered, practical impact.
 3. **Trading Technology**: TradingView, Pine Script, Quantower, non-repainting indicators, AI-assisted trading research and automation.
 4. **Artificial Intelligence**: OpenAI, Anthropic, Gemini, agents, coding, autonomous workflows, image/video generation, AI gaming. Benchmarks from a company are company claims.
 5. **Business & E-commerce**: DTC, Meta ads, creative strategy, CRO, acquisition, AI-powered small businesses. Practical implications.

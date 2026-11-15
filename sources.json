@@ -52,6 +52,9 @@
     {"id": "tradeify", "desk": "prop", "name": "Tradeify", "tier": 1, "gn": ["Tradeify"]},
     {"id": "tpt", "desk": "prop", "name": "Take Profit Trader", "tier": 1, "gn": ["\"Take Profit Trader\""]},
     {"id": "apex", "desk": "prop", "name": "Apex Trader Funding", "tier": 1, "gn": ["\"Apex Trader Funding\""]},
+    {"id": "mff", "desk": "prop", "name": "MyFundedFutures", "tier": 1, "gn": ["MyFundedFutures"]},
+    {"id": "futureselite", "desk": "prop", "name": "FuturesElite", "tier": 1, "gn": ["\"FuturesElite\" prop firm"]},
+    {"id": "tradesea", "desk": "prop", "name": "Tradesea", "tier": 1, "gn": ["Tradesea futures"]},
     {"id": "propindustry", "desk": "prop", "name": "Prop industry (aggregators)", "tier": 2, "status": "Unsure", "gn": ["futures prop firm rules change"]},
 
     {"id": "tradingview", "desk": "tradetech", "name": "TradingView blog", "tier": 1, "gn": ["site:tradingview.com/blog", "TradingView new feature"]},
