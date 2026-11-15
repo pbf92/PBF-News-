@@ -35,7 +35,7 @@
     {"id": "australian", "desk": "world", "name": "The Australian", "tier": 3, "side": "R", "lean": "~Lean Right", "paywall": true, "gn": ["site:theaustralian.com.au"]},
     {"id": "smh", "desk": "world", "name": "Sydney Morning Herald", "tier": 3, "side": "L", "lean": "~Lean Left", "feeds": ["https://www.smh.com.au/rss/feed.xml"]},
 
-    {"id": "blscal", "desk": "markets", "name": "BLS release schedule", "tier": 1, "lean": "official", "pages": ["https://www.bls.gov/schedule/news_release/current_month.htm"]},
+    {"id": "blscal", "desk": "markets", "name": "BLS release schedule", "tier": 1, "lean": "official", "pages": ["https://www.bls.gov/schedule/"], "gn": ["BLS release schedule this week"]},
     {"id": "fedcal", "desk": "markets", "name": "Federal Reserve calendar", "tier": 1, "lean": "official", "pages": ["https://www.federalreserve.gov/newsevents/calendar.htm"]},
     {"id": "cme", "desk": "markets", "name": "CME Group notices", "tier": 1, "lean": "official", "gn": ["site:cmegroup.com Nasdaq-100 futures"]},
     {"id": "earnings", "desk": "markets", "name": "Earnings dates", "tier": 1, "lean": "official", "gn": ["Nvidia earnings date", "earnings this week Nasdaq"]},
@@ -54,7 +54,7 @@
     {"id": "apex", "desk": "prop", "name": "Apex Trader Funding", "tier": 1, "gn": ["\"Apex Trader Funding\""]},
     {"id": "propindustry", "desk": "prop", "name": "Prop industry (aggregators)", "tier": 2, "status": "Unsure", "gn": ["futures prop firm rules change"]},
 
-    {"id": "tradingview", "desk": "tradetech", "name": "TradingView blog", "tier": 1, "feeds": ["https://www.tradingview.com/blog/en/feed/"]},
+    {"id": "tradingview", "desk": "tradetech", "name": "TradingView blog", "tier": 1, "gn": ["site:tradingview.com/blog", "TradingView new feature"]},
     {"id": "quantower", "desk": "tradetech", "name": "Quantower", "tier": 1, "gn": ["Quantower"]},
     {"id": "pinescript", "desk": "tradetech", "name": "Pine Script", "tier": 1, "gn": ["\"Pine Script\""]},
 
@@ -71,7 +71,7 @@
     {"id": "shopify", "desk": "business", "name": "Shopify", "tier": 1, "gn": ["Shopify announces"]},
     {"id": "modernretail", "desk": "business", "name": "Modern Retail", "tier": 2, "feeds": ["https://www.modernretail.co/feed/"]},
     {"id": "marketingbrew", "desk": "business", "name": "Marketing Brew", "tier": 2, "gn": ["site:marketingbrew.com"]},
-    {"id": "ppcland", "desk": "business", "name": "PPC Land / Search Engine Land", "tier": 2, "status": "Unsure", "feeds": ["https://ppc.land/rss/", "https://searchengineland.com/feed"]},
+    {"id": "ppcland", "desk": "business", "name": "PPC Land / Search Engine Land", "tier": 2, "status": "Unsure", "feeds": ["https://searchengineland.com/feed"], "gn": ["site:ppc.land Meta"]},
 
     {"id": "iaa", "desk": "faith", "name": "Israel Antiquities Authority", "tier": 1, "gn": ["\"Israel Antiquities Authority\""]},
     {"id": "bas", "desk": "faith", "name": "Biblical Archaeology Society", "tier": 2, "feeds": ["https://www.biblicalarchaeology.org/feed/"]},

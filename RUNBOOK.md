@@ -101,7 +101,7 @@ message must be exactly:
 ```
 <PUSH_TITLE>
 <PUSH_BODY>
-Open: {APP_URL}
+Open: https://pbf92.github.io/PBF-News-/
 ```
 If the run failed before publishing, your final message starts with
 `PIJ FAILED:` and says in one line what broke.
@@ -126,4 +126,4 @@ If the run failed before publishing, your final message starts with
    `{"updates": [ ...stories... ]}` to `data/work/update.json` and run
    `python3 scripts/publish.py midday`. Commit and push `data`.
 6. If there were stories, send one notification per story (the `PUSH_` pairs),
-   and end with those lines and `Open: {APP_URL}`. If none, end with `No update.`
+   and end with those lines and `Open: https://pbf92.github.io/PBF-News-/`. If none, end with `No update.`
