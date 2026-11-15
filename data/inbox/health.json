@@ -1,0 +1,609 @@
+{
+ "updated": "2026-11-15T19:24:27Z",
+ "new_this_run": 633,
+ "failed_sources": [
+  "blscal",
+  "ppcland",
+  "tradingview"
+ ],
+ "sources": [
+  {
+   "id": "abcau",
+   "desk": "world",
+   "ok": true,
+   "fetched": 25,
+   "new": 15,
+   "errors": []
+  },
+  {
+   "id": "abs",
+   "desk": "world",
+   "ok": true,
+   "fetched": 8,
+   "new": 5,
+   "errors": []
+  },
+  {
+   "id": "aeon",
+   "desk": "expand",
+   "ok": true,
+   "fetched": 1,
+   "new": 1,
+   "errors": []
+  },
+  {
+   "id": "anthropic",
+   "desk": "ai",
+   "ok": true,
+   "fetched": 107,
+   "new": 15,
+   "errors": []
+  },
+  {
+   "id": "ap",
+   "desk": "world",
+   "ok": true,
+   "fetched": 200,
+   "new": 15,
+   "errors": []
+  },
+  {
+   "id": "apex",
+   "desk": "prop",
+   "ok": true,
+   "fetched": 0,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "id": "ars",
+   "desk": "ai",
+   "ok": true,
+   "fetched": 20,
+   "new": 15,
+   "errors": []
+  },
+  {
+   "id": "arxiv",
+   "desk": "ai",
+   "ok": true,
+   "fetched": 0,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "id": "athletic",
+   "desk": "united",
+   "ok": true,
+   "fetched": 43,
+   "new": 15,
+   "errors": []
+  },
+  {
+   "id": "atlantic",
+   "desk": "world",
+   "ok": true,
+   "fetched": 25,
+   "new": 15,
+   "errors": []
+  },
+  {
+   "id": "australian",
+   "desk": "world",
+   "ok": true,
+   "fetched": 100,
+   "new": 15,
+   "errors": []
+  },
+  {
+   "id": "bas",
+   "desk": "faith",
+   "ok": true,
+   "fetched": 1,
+   "new": 1,
+   "errors": []
+  },
+  {
+   "id": "bbc",
+   "desk": "world",
+   "ok": true,
+   "fetched": 73,
+   "new": 15,
+   "errors": []
+  },
+  {
+   "id": "bbcsport",
+   "desk": "united",
+   "ok": true,
+   "fetched": 55,
+   "new": 15,
+   "errors": []
+  },
+  {
+   "id": "bls",
+   "desk": "world",
+   "ok": true,
+   "fetched": 1,
+   "new": 1,
+   "errors": []
+  },
+  {
+   "id": "blscal",
+   "desk": "markets",
+   "ok": false,
+   "fetched": 0,
+   "new": 0,
+   "errors": [
+    "page: HTTPError: HTTP Error 404: Not Found"
+   ]
+  },
+  {
+   "id": "boe",
+   "desk": "world",
+   "ok": true,
+   "fetched": 1,
+   "new": 1,
+   "errors": []
+  },
+  {
+   "id": "charisma",
+   "desk": "faith",
+   "ok": true,
+   "fetched": 0,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "id": "cme",
+   "desk": "markets",
+   "ok": true,
+   "fetched": 13,
+   "new": 13,
+   "errors": []
+  },
+  {
+   "id": "cochrane",
+   "desk": "health",
+   "ok": true,
+   "fetched": 34,
+   "new": 15,
+   "errors": []
+  },
+  {
+   "id": "ct",
+   "desk": "faith",
+   "ok": true,
+   "fetched": 6,
+   "new": 6,
+   "errors": []
+  },
+  {
+   "id": "df",
+   "desk": "gaming",
+   "ok": true,
+   "fetched": 12,
+   "new": 12,
+   "errors": []
+  },
+  {
+   "id": "earnings",
+   "desk": "markets",
+   "ok": true,
+   "fetched": 53,
+   "new": 15,
+   "errors": []
+  },
+  {
+   "id": "eurekalert",
+   "desk": "health",
+   "ok": true,
+   "fetched": 54,
+   "new": 15,
+   "errors": []
+  },
+  {
+   "id": "examine",
+   "desk": "health",
+   "ok": true,
+   "fetched": 9,
+   "new": 9,
+   "errors": []
+  },
+  {
+   "id": "fed",
+   "desk": "world",
+   "ok": true,
+   "fetched": 1,
+   "new": 1,
+   "errors": []
+  },
+  {
+   "id": "fedcal",
+   "desk": "markets",
+   "ok": true,
+   "fetched": 0,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "id": "google",
+   "desk": "ai",
+   "ok": true,
+   "fetched": 0,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "id": "guardian",
+   "desk": "world",
+   "ok": true,
+   "fetched": 77,
+   "new": 15,
+   "errors": []
+  },
+  {
+   "id": "guardianmu",
+   "desk": "united",
+   "ok": true,
+   "fetched": 6,
+   "new": 6,
+   "errors": []
+  },
+  {
+   "id": "iaa",
+   "desk": "faith",
+   "ok": true,
+   "fetched": 9,
+   "new": 9,
+   "errors": []
+  },
+  {
+   "id": "information",
+   "desk": "ai",
+   "ok": true,
+   "fetched": 32,
+   "new": 15,
+   "errors": []
+  },
+  {
+   "id": "journals",
+   "desk": "health",
+   "ok": true,
+   "fetched": 60,
+   "new": 15,
+   "errors": []
+  },
+  {
+   "id": "lucid",
+   "desk": "prop",
+   "ok": true,
+   "fetched": 2,
+   "new": 2,
+   "errors": []
+  },
+  {
+   "id": "manutd",
+   "desk": "united",
+   "ok": true,
+   "fetched": 12,
+   "new": 10,
+   "errors": []
+  },
+  {
+   "id": "marketingbrew",
+   "desk": "business",
+   "ok": true,
+   "fetched": 3,
+   "new": 3,
+   "errors": []
+  },
+  {
+   "id": "men",
+   "desk": "united",
+   "ok": true,
+   "fetched": 100,
+   "new": 15,
+   "errors": []
+  },
+  {
+   "id": "meta",
+   "desk": "business",
+   "ok": true,
+   "fetched": 22,
+   "new": 15,
+   "errors": []
+  },
+  {
+   "id": "mittr",
+   "desk": "expand",
+   "ok": true,
+   "fetched": 4,
+   "new": 4,
+   "errors": []
+  },
+  {
+   "id": "modernretail",
+   "desk": "business",
+   "ok": true,
+   "fetched": 4,
+   "new": 4,
+   "errors": []
+  },
+  {
+   "id": "natreview",
+   "desk": "world",
+   "ok": true,
+   "fetched": 20,
+   "new": 15,
+   "errors": []
+  },
+  {
+   "id": "nature",
+   "desk": "expand",
+   "ok": true,
+   "fetched": 5,
+   "new": 5,
+   "errors": []
+  },
+  {
+   "id": "ons",
+   "desk": "world",
+   "ok": true,
+   "fetched": 3,
+   "new": 2,
+   "errors": []
+  },
+  {
+   "id": "openai",
+   "desk": "ai",
+   "ok": true,
+   "fetched": 3,
+   "new": 3,
+   "errors": []
+  },
+  {
+   "id": "pinescript",
+   "desk": "tradetech",
+   "ok": true,
+   "fetched": 1,
+   "new": 1,
+   "errors": []
+  },
+  {
+   "id": "pl",
+   "desk": "united",
+   "ok": true,
+   "fetched": 25,
+   "new": 15,
+   "errors": []
+  },
+  {
+   "id": "polls",
+   "desk": "world",
+   "ok": true,
+   "fetched": 58,
+   "new": 15,
+   "errors": []
+  },
+  {
+   "id": "ppcland",
+   "desk": "business",
+   "ok": false,
+   "fetched": 100,
+   "new": 15,
+   "errors": [
+    "feed: HTTPError: HTTP Error 403: Forbidden"
+   ]
+  },
+  {
+   "id": "premier",
+   "desk": "faith",
+   "ok": true,
+   "fetched": 17,
+   "new": 15,
+   "errors": []
+  },
+  {
+   "id": "propindustry",
+   "desk": "prop",
+   "ok": true,
+   "fetched": 2,
+   "new": 2,
+   "errors": []
+  },
+  {
+   "id": "psblog",
+   "desk": "gaming",
+   "ok": true,
+   "fetched": 4,
+   "new": 4,
+   "errors": []
+  },
+  {
+   "id": "quanta",
+   "desk": "expand",
+   "ok": true,
+   "fetched": 1,
+   "new": 1,
+   "errors": []
+  },
+  {
+   "id": "quantower",
+   "desk": "tradetech",
+   "ok": true,
+   "fetched": 0,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "id": "rba",
+   "desk": "world",
+   "ok": true,
+   "fetched": 0,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "id": "reuters",
+   "desk": "world",
+   "ok": true,
+   "fetched": 300,
+   "new": 15,
+   "errors": []
+  },
+  {
+   "id": "rns",
+   "desk": "faith",
+   "ok": true,
+   "fetched": 10,
+   "new": 10,
+   "errors": []
+  },
+  {
+   "id": "rockstar",
+   "desk": "gaming",
+   "ok": true,
+   "fetched": 100,
+   "new": 15,
+   "errors": []
+  },
+  {
+   "id": "shopify",
+   "desk": "business",
+   "ok": true,
+   "fetched": 13,
+   "new": 13,
+   "errors": []
+  },
+  {
+   "id": "smh",
+   "desk": "world",
+   "ok": true,
+   "fetched": 20,
+   "new": 15,
+   "errors": []
+  },
+  {
+   "id": "stat",
+   "desk": "health",
+   "ok": true,
+   "fetched": 17,
+   "new": 15,
+   "errors": []
+  },
+  {
+   "id": "telegraph",
+   "desk": "world",
+   "ok": true,
+   "fetched": 8,
+   "new": 8,
+   "errors": []
+  },
+  {
+   "id": "thehill",
+   "desk": "world",
+   "ok": true,
+   "fetched": 100,
+   "new": 15,
+   "errors": []
+  },
+  {
+   "id": "topic-ai-2",
+   "desk": "ai",
+   "ok": true,
+   "fetched": 200,
+   "new": 15,
+   "errors": []
+  },
+  {
+   "id": "topic-gaming-1",
+   "desk": "gaming",
+   "ok": true,
+   "fetched": 230,
+   "new": 15,
+   "errors": []
+  },
+  {
+   "id": "topic-united-0",
+   "desk": "united",
+   "ok": true,
+   "fetched": 200,
+   "new": 15,
+   "errors": []
+  },
+  {
+   "id": "topstep",
+   "desk": "prop",
+   "ok": true,
+   "fetched": 5,
+   "new": 4,
+   "errors": []
+  },
+  {
+   "id": "tpt",
+   "desk": "prop",
+   "ok": true,
+   "fetched": 0,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "id": "tradeify",
+   "desk": "prop",
+   "ok": true,
+   "fetched": 5,
+   "new": 5,
+   "errors": []
+  },
+  {
+   "id": "tradingview",
+   "desk": "tradetech",
+   "ok": false,
+   "fetched": 0,
+   "new": 0,
+   "errors": [
+    "feed: HTTPError: HTTP Error 500: Internal Server Error"
+   ]
+  },
+  {
+   "id": "verge",
+   "desk": "ai",
+   "ok": true,
+   "fetched": 10,
+   "new": 8,
+   "errors": []
+  },
+  {
+   "id": "vgc",
+   "desk": "gaming",
+   "ok": true,
+   "fetched": 29,
+   "new": 15,
+   "errors": []
+  },
+  {
+   "id": "willison",
+   "desk": "ai",
+   "ok": true,
+   "fetched": 5,
+   "new": 5,
+   "errors": []
+  },
+  {
+   "id": "wsj",
+   "desk": "world",
+   "ok": true,
+   "fetched": 0,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "id": "xboxwire",
+   "desk": "gaming",
+   "ok": true,
+   "fetched": 9,
+   "new": 9,
+   "errors": []
+  }
+ ]
+}
