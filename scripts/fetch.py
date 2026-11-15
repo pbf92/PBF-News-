@@ -130,6 +130,11 @@ def run_source(src, cutoff, hours):
 
 
 DISCORD_API = "https://discord.com/api/v10"
+# One channel can carry several followed feeds; route each post by who posted it.
+AUTHOR_DESKS = [
+    (("manchester united", "man utd", "man united", "manutd", "mufc"), "united"),
+    (("tradingview", "quantower", "pine script"), "tradetech"),
+]
 
 
 def discord_get(path, token):
@@ -171,9 +176,15 @@ def fetch_discord(cutoff):
             if not text:
                 continue
             author = (m.get("author") or {}).get("username", "announcement")
+            low = author.lower()
+            msg_desk = desk
+            for words, d in AUTHOR_DESKS:
+                if any(w in low for w in words):
+                    msg_desk = d
+                    break
             first = text.split(". ")[0]
             out["items"].append({
-                "uid": f"discord-{m['id']}", "desk_override": desk,
+                "uid": f"discord-{m['id']}", "desk_override": msg_desk,
                 "title": clean(first, 200), "link": f"https://discord.com/channels/{chan.get('guild_id')}/{cid}/{m['id']}",
                 "outlet": f"Discord · {author}", "published": iso(ts), "summary": text, "via": "discord",
             })
