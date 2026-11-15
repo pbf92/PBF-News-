@@ -40,6 +40,10 @@ def check_story(s, where, errs):
     for src in s.get("sources", []):
         if not str(src.get("url", "")).startswith("http"):
             errs.append(f"{where}: source without a real url ({src.get('name')})")
+    weak = ("aggregator", "unconfirmed", "tip-off", "tip off")
+    srcs = s.get("sources", [])
+    if srcs and all(any(w in str(x.get("name", "")).lower() for w in weak) for x in srcs):
+        errs.append(f"{where}: only tip-off/aggregator sources. Confirm with a core source, or move it to the desk note")
     if s.get("confidence") and s["confidence"] not in CONFIDENCE:
         errs.append(f"{where}: confidence must be one of {sorted(CONFIDENCE)}")
     th = s.get("thread")

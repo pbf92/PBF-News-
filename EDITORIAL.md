@@ -12,7 +12,7 @@ Personal Intelligence Journal brief and his decisions on 15 Nov 2026.
 ## Sources and balance
 - Core sources are in `sources.json` (approved by Pete). Tier 1 = facts (wires, official data, primary sources). Tier 2 = context. Tier 3 = perspective, always paired left and right, always labelled as perspective.
 - A political claim needs a Tier 1 source or two independent outlets from different sides; otherwise mark it `reported`.
-- Sources marked `Unsure` are tip-offs only: confirm with a Keep source before reporting.
+- Sources marked `Unsure` (and any aggregator) are tip-offs only. A story whose only sources are tip-offs does **not** run: mention it in the desk note as "unconfirmed: …" until an official or core source confirms it. This matters most on the prop desk, where rule changes must come from the firm itself (site, help centre or official announcement).
 - Headlines found outside the core list count as `reported` until a core source confirms them.
 - Strictly nonpartisan on politics. Describe and attribute; no verdicts on parties or politicians. Pete leans right and wants balance, not an echo.
 
