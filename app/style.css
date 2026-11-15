@@ -111,3 +111,10 @@ button:focus-visible, a:focus-visible { outline: 2px solid var(--accent); outlin
 .empty { padding: 60px 0; text-align: center; color: var(--muted); font-size: 15px; line-height: 1.6; }
 .toast { position: fixed; left: 50%; bottom: calc(env(safe-area-inset-bottom) + 18px); transform: translateX(-50%); background: var(--box); color: var(--box-ink); font-size: 13px; padding: 10px 16px; border-radius: 999px; z-index: 20; opacity: 0; transition: opacity .2s; pointer-events: none; }
 .toast.show { opacity: 1; }
+
+/* notifications panel */
+.notif { border-top: 3px double var(--ink); border-bottom: 1px solid var(--rule); padding: 8px 0 14px; margin-bottom: 4px; display: grid; gap: 8px; }
+.notif h3 { margin: 6px 0 0; font-family: var(--serif); font-size: 17px; }
+.notif .why { margin: 0; font-size: 13px; }
+.btn { background: var(--ink); color: var(--paper); border: 0; border-radius: 10px; min-height: 44px; padding: 10px 14px; font-weight: 600; cursor: pointer; }
+#notif-json { width: 100%; font: 11px/1.4 ui-monospace, Menlo, monospace; background: var(--paper-2); color: var(--ink); border: 1px solid var(--rule); border-radius: 8px; padding: 8px; resize: none; }

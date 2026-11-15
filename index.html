@@ -40,9 +40,20 @@
     </button>
   </div>
   <p class="why" style="margin:0 0 8px;font-size:13px">Tip: swipe left or right on the paper to change day.</p>
+  <section class="notif" aria-label="Notifications">
+    <h3>Notifications</h3>
+    <p id="notif-status" class="why">Checking…</p>
+    <button class="btn" id="notif-btn" type="button" hidden>Turn on notifications</button>
+    <div id="notif-code" hidden>
+      <p class="why">Last step: copy this code into GitHub as the <b>PUSH_SUBSCRIPTIONS</b> secret (Claude will tell you where).</p>
+      <textarea id="notif-json" readonly rows="5"></textarea>
+      <button class="btn" id="notif-copy" type="button">Copy code</button>
+    </div>
+  </section>
   <div id="archive-list"></div>
 </aside>
 <div class="toast" id="toast" role="status"></div>
+<script>window.PIJ_VAPID = "BP3rCp-0ucqHI_-IOZa8BKixIuihGV90mca_juygqSWGBPzmFVGVip1V7TuEQCEfmzyCTqISn5owWPmTaPBI_PM";</script>
 <script src="app/app.js"></script>
 </body>
 </html>

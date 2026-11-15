@@ -205,7 +205,53 @@
     if (Math.abs(dx) > 80 && Math.abs(dx) > Math.abs(dy) * 2) step(dx < 0 ? 1 : -1);
   }, { passive: true });
 
+  // ---- push notifications ----
+  function b64ToBytes(b64) {
+    const pad = "=".repeat((4 - (b64.length % 4)) % 4);
+    const raw = atob((b64 + pad).replace(/-/g, "+").replace(/_/g, "/"));
+    return Uint8Array.from(raw, (c) => c.charCodeAt(0));
+  }
+  function showCode(sub) {
+    $("#notif-json").value = JSON.stringify(sub);
+    $("#notif-code").hidden = false;
+  }
+  async function notifInit() {
+    const status = $("#notif-status"), btn = $("#notif-btn");
+    const standalone = window.matchMedia("(display-mode: standalone)").matches || navigator.standalone;
+    if (!("serviceWorker" in navigator) || !("PushManager" in window)) {
+      status.textContent = standalone ? "This device doesn't support web push." :
+        "Add PIJ to your Home Screen (Share → Add to Home Screen), then open it from the icon to turn on notifications.";
+      return;
+    }
+    const reg = await navigator.serviceWorker.ready;
+    const sub = await reg.pushManager.getSubscription();
+    if (sub && Notification.permission === "granted") {
+      status.textContent = "On. Morning headlines and breaking updates arrive here.";
+      btn.textContent = "Show setup code again"; btn.hidden = false;
+      btn.onclick = () => showCode(sub);
+    } else {
+      status.textContent = "Off. Turn on to get the morning headlines and breaking updates.";
+      btn.hidden = false;
+      btn.onclick = async () => {
+        try {
+          const perm = await Notification.requestPermission();
+          if (perm !== "granted") { status.textContent = "Notifications were not allowed. You can allow them in iPhone Settings → Notifications → PIJ."; return; }
+          const s = await reg.pushManager.subscribe({ userVisibleOnly: true, applicationServerKey: b64ToBytes(window.PIJ_VAPID) });
+          status.textContent = "On. One last step below.";
+          showCode(s);
+        } catch (err) { status.textContent = "Couldn't turn on notifications: " + err.message; }
+      };
+    }
+  }
+  document.addEventListener("click", async (ev) => {
+    if (!ev.target.closest("#notif-copy")) return;
+    const v = $("#notif-json").value;
+    try { await navigator.clipboard.writeText(v); toast("Copied"); }
+    catch { $("#notif-json").select(); toast("Select all and copy"); }
+  });
+
   document.addEventListener("visibilitychange", () => { if (!document.hidden) refresh(true); });
-  if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(() => {});
+  if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").then(() => notifInit()).catch(() => {});
+  else notifInit();
   refresh(false);
 })();

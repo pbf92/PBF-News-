@@ -1,5 +1,5 @@
 /* PIJ service worker: app shell cache-first, editions network-first (falls back offline). */
-const VERSION = "pij-v1";
+const VERSION = "pij-v2";
 const SHELL = ["./", "index.html", "app/style.css", "app/app.js", "manifest.webmanifest",
   "icons/icon-192.png", "icons/apple-touch-icon.png"];
 
@@ -33,4 +33,23 @@ self.addEventListener("fetch", (e) => {
       return hit || net;
     }));
   }
+});
+
+/* Push notifications sent by the free GitHub "Push notifications" workflow. */
+self.addEventListener("push", (e) => {
+  let d = {};
+  try { d = e.data ? e.data.json() : {}; } catch { d = { title: "PIJ", body: e.data ? e.data.text() : "" }; }
+  e.waitUntil(self.registration.showNotification(d.title || "PIJ", {
+    body: d.body || "", tag: d.tag || "pij", icon: "icons/icon-192.png", badge: "icons/icon-192.png",
+    data: { url: d.url || "./" },
+  }));
+});
+
+self.addEventListener("notificationclick", (e) => {
+  e.notification.close();
+  const target = new URL(e.notification.data?.url || "./", self.registration.scope).href;
+  e.waitUntil(self.clients.matchAll({ type: "window", includeUncontrolled: true }).then((wins) => {
+    for (const w of wins) { if ("focus" in w) { w.navigate(target); return w.focus(); } }
+    return self.clients.openWindow(target);
+  }));
 });

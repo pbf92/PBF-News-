@@ -1,0 +1,38 @@
+name: Push notifications
+
+# Sends the app's own push notifications (free, no Claude usage).
+# - when an edition or midday update lands (publish.py writes data/push/latest.json)
+# - a 6:15 AM watchdog (PST; 7:15 in summer) that warns if no edition published
+# - manual "test" from the Actions tab
+on:
+  push:
+    branches: [main]
+    paths:
+      - "data/push/latest.json"
+  schedule:
+    - cron: "15 14 * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "send | watchdog | test"
+        default: "test"
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pywebpush==2.5.0
+      - name: Send
+        env:
+          VAPID_PRIVATE_KEY: ${{ secrets.VAPID_PRIVATE_KEY }}
+          PUSH_SUBSCRIPTIONS: ${{ secrets.PUSH_SUBSCRIPTIONS }}
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ]; then MODE=watchdog;
+          elif [ "${{ github.event_name }}" = "workflow_dispatch" ]; then MODE="${{ inputs.mode }}";
+          else MODE=send; fi
+          python scripts/notify.py "$MODE"

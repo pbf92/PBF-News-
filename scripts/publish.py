@@ -113,6 +113,12 @@ def all_stories(ed):
     return out
 
 
+def write_push(messages, stamp):
+    """notify.yml watches this file and sends the app's own push notifications."""
+    (DATA / "push").mkdir(parents=True, exist_ok=True)
+    (DATA / "push" / "latest.json").write_text(json.dumps({"created": stamp, "messages": messages}, indent=1, ensure_ascii=False))
+
+
 def write_index():
     eds = sorted((p for p in ED.glob("20*.json")), reverse=True)
     index = []
@@ -152,8 +158,11 @@ def main(mode):
         (ED / f"{ed['date']}.json").write_text(json.dumps(ed, indent=1, ensure_ascii=False))
         state.update({"last_morning_at": stamp, "last_edition_at": stamp, "last_date": ed["date"]})
         heads = [s["headline"] for s in ed.get("top", [])][:3]
-        print("PUSH_TITLE: PIJ · " + datetime.fromisoformat(ed["date"]).strftime("%a %-d %b"))
-        print("PUSH_BODY: " + (" · ".join(heads) if heads else "Quiet morning — nothing cleared the bar."))
+        title = "PIJ · " + datetime.fromisoformat(ed["date"]).strftime("%a %-d %b")
+        body = "\n".join(f"• {h}" for h in heads) if heads else "Quiet morning: nothing cleared the bar."
+        write_push([{"title": title, "body": body, "url": f"./#{ed['date']}", "tag": f"pij-{ed['date']}"}], stamp)
+        print("PUSH_TITLE: " + title)
+        print("PUSH_BODY: " + body.replace("\n", " "))
     else:
         up = load(DATA / "work" / "update.json", None)
         if up is None:
@@ -186,9 +195,13 @@ def main(mode):
                 s["thread"]["day"] = threads[s["thread"]["id"]]["day"]
         path.write_text(json.dumps(ed, indent=1, ensure_ascii=False))
         state.update({"last_edition_at": stamp, "last_midday_at": stamp})
-        for s in stories:
+        msgs = []
+        for i, s in enumerate(stories):
+            msgs.append({"title": f"PIJ update · {local}", "body": s["headline"],
+                         "url": f"./#{ed['date']}", "tag": f"pij-u-{stamp}-{i}"})
             print(f"PUSH_TITLE: PIJ update · {local}")
             print(f"PUSH_BODY: {s['headline']}")
+        write_push(msgs, stamp)
     (DATA / "state.json").write_text(json.dumps(state, indent=1))
     write_index()
     print("PUBLISHED_OK")

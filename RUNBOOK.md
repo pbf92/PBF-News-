@@ -95,9 +95,9 @@ git add data && git commit -qm "Edition $(TZ=America/Los_Angeles date +%F)" && \
 The push triggers the app's publish workflow automatically.
 
 ### 6. Notify Pete
-publish.py prints `PUSH_TITLE:` and `PUSH_BODY:`. If a PushNotification tool is
-available (load it with ToolSearch), send them as the notification. Your final
-message must be exactly:
+publish.py also writes `data/push/latest.json`; committing `data` (step 5) makes
+GitHub send the app's own push notification automatically. Do not send any other
+notification. Your final message must be exactly:
 ```
 <PUSH_TITLE>
 <PUSH_BODY>
@@ -125,5 +125,5 @@ If the run failed before publishing, your final message starts with
 5. Check its stories against the bar yourself, then write
    `{"updates": [ ...stories... ]}` to `data/work/update.json` and run
    `python3 scripts/publish.py midday`. Commit and push `data`.
-6. If there were stories, send one notification per story (the `PUSH_` pairs),
-   and end with those lines and `Open: https://pbf92.github.io/PBF-News-/`. If none, end with `No update.`
+6. If there were stories, the committed `data/push/latest.json` sends the app's
+   push automatically. End with the `PUSH_` lines and `Open: https://pbf92.github.io/PBF-News-/`. If none, end with `No update.`

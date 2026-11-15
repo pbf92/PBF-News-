@@ -129,7 +129,60 @@ def run_source(src, cutoff, hours):
     return out
 
 
+DISCORD_API = "https://discord.com/api/v10"
+
+
+def discord_get(path, token):
+    req = urllib.request.Request(DISCORD_API + path, headers={
+        "Authorization": f"Bot {token}", "User-Agent": "DiscordBot (https://github.com/pbf92/PBF-News-, 1.0)"})
+    with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
+        return json.loads(r.read())
+
+
+def fetch_discord(cutoff):
+    """Read Pete's private server channels, where prop firms' announcement channels are Followed.
+
+    Secrets: DISCORD_BOT_TOKEN, and DISCORD_CHANNELS like "123456789:prop,987654321:tradetech".
+    """
+    import os
+    token = os.environ.get("DISCORD_BOT_TOKEN", "").strip()
+    spec = os.environ.get("DISCORD_CHANNELS", "").strip()
+    out = {"id": "discord", "desk": "prop", "items": [], "errors": [], "pages": {}, "configured": bool(token and spec)}
+    if not out["configured"]:
+        return out
+    for part in spec.split(","):
+        if ":" not in part:
+            continue
+        cid, desk = (x.strip() for x in part.split(":", 1))
+        try:
+            chan = discord_get(f"/channels/{cid}", token)
+            msgs = discord_get(f"/channels/{cid}/messages?limit=50", token)
+        except Exception as exc:  # noqa: BLE001
+            out["errors"].append(f"channel {cid}: {exc.__class__.__name__}: {str(exc)[:120]}")
+            continue
+        for m in msgs:
+            ts = datetime.fromisoformat(m["timestamp"].replace("Z", "+00:00"))
+            if ts < cutoff:
+                continue
+            parts = [m.get("content", "")]
+            for emb in m.get("embeds", []):
+                parts += [emb.get("title", ""), emb.get("description", "")]
+            text = clean("\n".join(p for p in parts if p), 1500)
+            if not text:
+                continue
+            author = (m.get("author") or {}).get("username", "announcement")
+            first = text.split(". ")[0]
+            out["items"].append({
+                "uid": f"discord-{m['id']}", "desk_override": desk,
+                "title": clean(first, 200), "link": f"https://discord.com/channels/{chan.get('guild_id')}/{cid}/{m['id']}",
+                "outlet": f"Discord · {author}", "published": iso(ts), "summary": text, "via": "discord",
+            })
+    return out
+
+
 def key_for(item):
+    if item.get("uid"):
+        return item["uid"]
     basis = re.sub(r"[^a-z0-9 ]", "", item["title"].lower())
     basis = WS_RE.sub(" ", basis).strip()
     return hashlib.sha1(basis.encode()).hexdigest()[:16]
@@ -168,6 +221,11 @@ def main():
         for f in cf.as_completed(futs):
             results.append(f.result())
 
+    disc = fetch_discord(cutoff)
+    if disc["configured"]:
+        results.append(disc)
+        meta["discord"] = {"id": "discord", "desk": "prop", "name": "Discord announcements (official)", "tier": 1, "max": 40}
+
     new_items, health = [], []
     (INBOX / "pages").mkdir(parents=True, exist_ok=True)
     for r in sorted(results, key=lambda r: r["id"]):
@@ -183,7 +241,7 @@ def main():
                 continue
             fresh += 1
             new_items.append({
-                "key": k, "desk": r["desk"], "source_id": r["id"], "source": s["name"],
+                "key": k, "desk": item.pop("desk_override", r["desk"]), "source_id": r["id"], "source": s["name"],
                 "tier": s.get("tier"), "side": s.get("side"), "status": s.get("status", "Keep"),
                 "paywall": s.get("paywall", False), "first_seen": iso(now), **item,
             })

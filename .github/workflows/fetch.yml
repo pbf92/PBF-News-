@@ -35,6 +35,9 @@ jobs:
           python-version: "3.12"
       - run: pip install feedparser==6.0.11
       - run: python scripts/fetch.py
+        env:
+          DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
+          DISCORD_CHANNELS: ${{ secrets.DISCORD_CHANNELS }}
       - name: Commit inbox
         run: |
           git config user.name "pij-fetcher"
