@@ -248,7 +248,9 @@ def resolve_link(item):
             res = gnewsdecoder(link, timeout=15)
         finally:
             _GN_LAST[0] = time.time()
-    return res.get("decoded_url") if res.get("status") else None
+    if not res.get("status"):
+        raise RuntimeError(str(res.get("message", res))[:160])
+    return res.get("decoded_url")
 
 
 def extract_text(url):
@@ -276,17 +278,26 @@ def enrich_articles(items, now):
             by_desk[i["desk"]].append(i)
     picks = [i for d in by_desk.values() for i in d][:ARTICLE_TOTAL]
     start = time.time()
-    resolved = []
-    for i in picks:  # decoding Google links is sequential and polite
+    resolved, errors = [], []
+    direct = [i for i in picks if "news.google.com" not in i.get("link", "")]
+    google = [i for i in picks if "news.google.com" in i.get("link", "")]
+    for i in direct:
+        i["resolved_url"] = i["link"]
+        resolved.append(i)
+    for i in google:  # decoding Google links is sequential and polite
         if time.time() - start > ARTICLE_BUDGET_S / 2:
+            errors.append("decode time budget used up")
             break
         try:
             url = resolve_link(i)
-        except Exception:  # noqa: BLE001
+        except Exception as exc:  # noqa: BLE001
+            errors.append(f"{exc.__class__.__name__}: {exc}")
             url = None
         if url:
             i["resolved_url"] = url
             resolved.append(i)
+    if errors:
+        print(f"decode problems ({len(errors)}), first: {errors[0][:200]}")
 
     def grab(i):
         try:
@@ -306,7 +317,8 @@ def enrich_articles(items, now):
                 i, path = res
                 i["article"] = str(path.relative_to(ROOT))
                 got += 1
-    print(f"articles: {len(picks)} picked, {len(resolved)} links resolved, {got} full texts saved")
+    print(f"articles: {len(picks)} picked ({len(direct)} direct, {len(google)} via Google), "
+          f"{len(resolved)} links resolved, {got} full texts saved")
 
 
 def track_outlets(items, now):
