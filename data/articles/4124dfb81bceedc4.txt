@@ -1,0 +1,21 @@
+URL: https://www.fool.com/investing/2026/11/16/this-is-a-huge-week-for-the-stock-market-nvidia-earnings-fed-minutes-and-anthropics-ipo/
+TITLE: This Is a Huge Week for the Stock Market: Nvidia Earnings, Fed Minutes, and Anthropic’s IPO
+OUTLET: The Motley Fool
+
+Elon Musk wants Jensen Huang back in charge of Nvidia (NVDA -4.12%). On Friday, a day after Huang resigned as CEO, Musk posted on X that a petition to reinstate him was underway and that he was signing it.
+Space Exploration Technologies Corp. (SPCX -1.26%) is building its AI data centers exclusively on Nvidia chips, and Nvidia holds a roughly $17 billion stake in SpaceX, so Musk has real skin in the game here.
+Why Jensen Huang left Nvidia and who wants him back
+Huang was pushed out on Nov. 12 after Nvidia's board opened an investigation into reports that he was targeted by a foreign intelligence effort as part of one of now three alleged extramarital affairs. The board named Nvidia CFO Colette Kress as interim CEO as it begins a critical search for a permanent chief executive to replace Huang.
+But now, a petition signed by nearly 200,000 people, including CEOs like Musk, Tim Sweeney of Epic Games and Tobias Lütke of Shopify (SHOP +0.49%), is demanding that the board "bring Jensen back while an independent investigation establishes the facts." At the same time, a Financial Times report claims that Huang has been discussing such a return, though just hours ago, CNBC reported a source has told the news outlet that the board isn't considering a return at all.
+SpaceX and Nvidia's two-way stake and chip ties
+The financial ties between SpaceX and Nvidia run both ways: Nvidia owns 122.8 million SpaceX shares, worth about $17 billion today, while SpaceX is a major customer -- Musk said in September that its two Colossus data centers in Memphis were running about 780,000 Nvidia chips, with hundreds of thousands more due by the end of the year. Musk said on SpaceX's second-quarter earnings call in August that he expects a "significant allocation" of Vera Rubin GPUs -- Nvidia's newest and most advanced chips -- next year.
+Could Colette Kress's Nvidia financing pullback help SpaceX?
+Colette Kress is widely expected to rein in the industrywide financing Nvidia has been handing out, especially to neoclouds -- the upstart data center companies that buy Nvidia chips, install them in (often) leased data centers, and rent them out. If that spigot tightens, the consequences for SpaceX may actually be positive.
+Image source: Getty Images.
+The company ended Q3 with about $89.9 billion in cash and marketable securities, and has the ability to access traditional financing in a way that some neoclouds cannot, and if Nvidia starts rationing GPUs toward buyers who can actually pay upfront, SpaceX shouldn't have a problem being one of them. That means that the field of competition could narrow, keeping demand for SpaceX's compute high.
+Why Anthropic's neocloud reliance could be a financial problem
+That said, SpaceX's AI unit's biggest customer is the AI model builder Anthropic, set to go public later this week. Anthropic depends in part on Neoclouds for the compute capacity it needs to deliver the growth investors expect. Anthropic's own filing warns that if partner financing dries up, contracted capacity could be delayed, repriced, or cut. Though it would likely increase Anthropic's reliance on SpaceX, it wouldn't have the capacity to spare in the short to medium term, and that could put Anthropic in a tough spot financially.
+Where to invest $1,000 right now
+When our analyst team has a stock tip, it can pay to listen. After all, Stock Advisor's total average return is 823%* — a market-crushing outperformance compared to 209% for the S&P 500.
+They just revealed what they believe are the 10 best stocks for investors to buy right now, available when you join Stock Advisor.
+*Stock Advisor returns as of November 16, 2026.

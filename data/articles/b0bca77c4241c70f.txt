@@ -1,0 +1,24 @@
+URL: https://www.eurekalert.org/news-releases/1152059
+TITLE: Scientists identify key immune driver of pancreatic cancer, suggest combination treatment to slow progression
+OUTLET: EurekAlert!
+
+- Researchers identified a specific inflammatory protein as a key driver of pancreatic cancer growth and immune evasion
+- Reducing the protein reprogrammed the tumor microenvironment, slowed tumor progression and extended survival in preclinical models
+- Targeting this protein also improved responses to KRAS inhibitors, meriting further examination as a potential combination treatment strategy for patients
+HOUSTON, NOVEMBER 16, 2026 ― Researchers from The University of Texas MD Anderson Cancer Center have discovered that the IL-18 inflammatory protein helps pancreatic tumors grow and evade the immune system, highlighting its potential as a therapeutic target for pancreatic cancer.
+Reducing levels of IL-18 in preclinical models reshaped the tumor microenvironment, slowed tumor growth, improved survival and enhanced the effects of KRAS-targeted therapies. The study, published in Gastroenterology, was co-led by Yang Chen, Ph.D., assistant professor of Translational Molecular Pathology, and Xinlei Sun, Ph.D., postdoctoral fellow of Translational Molecular Pathology.
+“Our results show that IL-18 helps pancreatic tumors stay hidden from the immune system and significantly contributes to disease progression and reduced survival,” Chen said. “Finding a way to safely target IL-18 in humans could have tremendous potential for enhancing the benefits of KRAS-targeted therapies and improving patient outcomes.”
+What is IL-18 and why does it matter in pancreatic cancer?
+IL-18 is a pro-inflammatory protein that helps regulate the immune response. It is known to be elevated in pancreatic cancer and is typically associated with poor patient outcomes. To understand its role, the researchers created genetically engineered models of pancreatic cancer with reduced IL-18 protein levels and examined the resulting tumor microenvironment. Reducing IL-18 delayed disease progression and extended survival in these models.
+Further single-cell analyses revealed that IL-18 increases levels of CD47, a protein that is known as the “don’t eat me” signal because it helps cancer cells avoid being cleared by macrophage immune cells. Without IL-18, macrophages were better able to identify and destroy tumor cells. These results suggest that IL-18 somehow influences macrophage recruitment, retention or survival within the tumor microenvironment.
+How does IL-18 affect KRAS-targeted treatments?
+KRAS inhibitors are promising therapies for pancreatic cancer, but some patients can develop treatment resistance. The researchers found that KRAS inhibition increased IL-18 levels, which appears to help tumors survive treatment.
+Interestingly, adding KRAS inhibition to preclinical models without IL-18 improved the antitumor response. These findings suggest that targeting IL-18 may enhance macrophage response and may improve responses to KRAS inhibitor therapies in patients with pancreatic cancer.
+What’s next for this research?
+These results are preclinical, and further studies are needed to develop and test IL-18-targeted therapies to determine how best to safely combine them with KRAS inhibitors or other treatment approaches.
+***
+This work was supported in part by Concern Foundation, the National Institutes of Health, the American Pancreatic Association Foundation, the Phi Beta Psi Charity Trust, the Hirschberg Foundation for Pancreatic Cancer Research, and UT MD Anderson institutional funding. For a full list of collaborating authors, disclosures and funding sources, see the full paper in Gastroenterology.
+Journal
+Gastroenterology
+Article Title
+Depletion of Endogenous IL-18 Suppresses Pancreatic Cancer Progression, Reprograms the Tumor Microenvironment, and Enhances KRAS Inhibitor Efficacy

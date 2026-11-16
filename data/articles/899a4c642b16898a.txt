@@ -1,0 +1,12 @@
+URL: https://www.gamereactor.eu/gta-6-spectrum-free-gigabit-upgrade-212gb-download/
+TITLE: Spectrum is giving US customers free gigabit internet upgrades so they can download GTA 6 faster
+OUTLET: Gamereactor UK
+
+Grand Theft Auto VI will need up to 212GB of console storage when it launches on 19 November 2026, and one American broadband provider has built a marketing campaign around that number: Spectrum is giving eligible customers a free speed upgrade, called the 'Gig Speed Lift', so the huge download takes less than half an hour.
+Charter Communications, Spectrum's parent company, announced the promotion on 4 November, timed to GTA 6's pre-load period, which Rockstar opened on 10 November on PlayStation 5 and Xbox Series X|S. Qualifying customers' speeds are boosted at no extra cost until 30 November, after which they return to their normal plans.
+How fast is fast enough?
+Spectrum claims its 1 Gig service can deliver the full game in under 30 minutes, and the company puts it in marketing language: "With Spectrum Internet Gig, customers can start playing Grand Theft Auto VI in less than 30 minutes, so game day is for cruising, not downloading."
+That estimate assumes ideal conditions: pulling 212GB at a steady 1Gbps works out at roughly 28 minutes with no overhead at all. Real-world speeds rarely hold at that level for half an hour straight, so players should expect somewhat longer, and Rockstar advises making "sure you've got ample space to begin pre-loading as soon as possible". Storage matters too, since the install size may need temporary free space beyond the headline figure.
+The offer is aimed squarely at the game's launch, but Charter frames it as a broader customer appreciation initiative around Thanksgiving, Black Friday and Cyber Monday, and it is not limited to GTA 6 players.
+A European footnote
+The 'Gig Speed Lift' is a US-only promotion, so European players downloading GTA 6 will have to rely on their own broadband. The game itself launches worldwide on 19 November for $79.99 on PS5 and Xbox Series X|S, with physical copies containing just a download code rather than a disc.

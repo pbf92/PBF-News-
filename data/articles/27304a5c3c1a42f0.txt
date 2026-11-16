@@ -1,0 +1,17 @@
+URL: https://www.pymnts.com/news/artificial-intelligence/2026/alibaba-takes-on-anthropic-with-new-qwen-ai-model/
+TITLE: Alibaba Takes on Anthropic With New Qwen AI Model
+OUTLET: PYMNTS.com
+
+China’s Alibaba has introduced the newest and what it says is the “most capable” version of its Qwen family of AI models.
+Qwen4-Max features “2.4 trillion total parameters, native vision capabilities, and a one-million-token context window,” and “excels at complex tasks across work, creativity, and research,” the tech giant said in a Monday (Nov. 16) news release.
+“Qwen4-Max achieves top rankings across leading benchmarks, particularly in coding, agentic tasks and visual reasoning,” the release said, adding that the model ranked sixth “on Code Arena, a real-world coding leaderboard, and posted strong scores across specialized benchmarks for agent workflows, workplace productivity, and visual reasoning.”
+The company cites findings from Work360 — a proprietary benchmark gauging performance on challenging industry tasks across 721 specialized fields — which shows that Qwen4-Max outperforms its predecessor, Qwen3.8-Max, overall while using 35% fewer tokens at high effort reasoning mode and lowering the average cost per task by roughly 60%.
+Alibaba said the new Qwen outperformed rivals such as Anthropic’s Claude Fable 5.1, Moonshot’s Kimi K3.1 Pro and the Muse Wonder Full model.
+A report on the launch by Bloomberg News says that the Qwen series is thus far the world’s most-downloaded open-weight model family after an effort by Alibaba CEO Eddie Wu to push into the technology.
+Wu said in September that Alibaba’s T-Head chipmaking division, which recently filed to go public in Hong Kong, would introduce China’s most powerful AI chips domestically, the report added. The company has also made achieving artificial general intelligence, or AGI, its primary goal, Bloomberg said.
+In other AI news, PYMNTS spoke Monday with Advait Sinha, global head of product at Nuvei, who said that the biggest obstacle to agentic AI adoption is establishing trust throughout the payments ecosystem.
+Existing payment practices offer procedures for tracing transactions, spotting fraud and assessing chargeback evidence. Delegated purchasing brings in another participant whose instructions and actions must be understood.
+“What is the protection that’s offered both to the consumers as well as the merchants in those situations?” Sinha told PYMNTS.
+He gave examples of purchases that fail to meet ordinary expectations, like the wrong shoe size or a product that won’t ship for months. Improving language models should prevent errors, Sinha said, but mistakes will still happen, and consumers and merchants need confidence in the arrangements for handling them.
+“Technology can move much faster than habits,” he said.
+To bridge the gap between available tech and the actual use of that technology in day-to-day financial life, trust must be upheld with each interaction.

@@ -1,0 +1,14 @@
+URL: https://www.ons.gov.uk/releases/producerpriceinflationukmarch2027includingservicesjanuarytomarch2027timeseries
+TITLE: Producer price inflation, UK: March 2027, including services, January to March 2027 time series
+OUTLET: Office for National Statistics
+
+Release
+Producer price inflation, UK: March 2027, including services, January to March 2027 time series
+          Release date:
+          21 April 2027 7:00am
+        
+              Important information: 
+              
+                This release is not yet published
+Summary
+The time series datasets connected to the Producer price inflation, UK: March 2027, including services, January to March 2027 bulletin.

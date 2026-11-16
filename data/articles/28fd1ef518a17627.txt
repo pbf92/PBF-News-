@@ -1,0 +1,13 @@
+URL: https://9to5google.com/2026/11/16/gemini-skills-files-sharing/
+TITLE: Gemini skills add file support and sharing ahead of Gems deprecation
+OUTLET: 9to5Google
+
+Ahead of the Gems shutdown that starts rolling out tomorrow, Google is adding two key features to Gemini skills.
+These “reusable, custom instructions” now support files from your device, Google Drive, Gemini Notebook, and Google Photos that can be used as context. You can upload files, up to 100 MB, when you create a skill.
+Gemini will “reference these files every time the skill runs in chats and tasks.” Files from Drive and Notebooks will “update in real time so your skill always works from the latest version.”
+Meanwhile, skills can now be shared. Go to the Gemini app’s Customize > Skills page on the web to grant View or Edit permissions. Recipients will receive an email and can review the skill before adding it.
+Use cases for these new capabilities include:
+- A marketing team can share a brand-voice skill that references their brand guidelines doc in Drive.
+- A team lead can share an onboarding skill grounded in the team handbook.
+- A teacher can share a lesson-planning skill built on a notebook containing their curriculum.
+File support and sharing for Gemini skills are rolling out over the coming weeks for everyone: “Available to all Google Workspace customers and users with personal Google accounts.”
