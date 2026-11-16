@@ -1,0 +1,51 @@
+URL: https://beinsure.com/news/rockstar-games-hacker-arion-kurtaj-pleads-guilty-over-gta-6-hack/
+TITLE: Rockstar Games hacker Arion Kurtaj pleads guilty over $5 mn GTA 6 hack
+OUTLET: Beinsure
+
+Arion Kurtaj, the 21-year-old hacker responsible for leaking early Grand Theft Auto 6 footage, pleaded guilty at Woolwich Crown Court in London on November 16 to a series of cybercrimes involving Rockstar Games, Uber, Revolut and telecommunications companies BT and EE.
+Kurtaj carried out the attacks in 2022, when he was 16 and 17, as a member of the Lapsus$ hacking group. Prosecutors described him as a leading figure in the organization, which targeted major technology and financial services companies through social engineering and unauthorized access to corporate systems.
+- Arion Kurtaj, 21, pleaded guilty at Woolwich Crown Court on November 16 to the 2022 Rockstar Games hack and other cybercrimes committed as a teenager with Lapsus$.
+- The GTA 6 breach exposed 90 development clips containing nearly 60 minutes of gameplay and cost Rockstar Games approximately $5 mn in recovery expenses.
+- Kurtaj was moved from a secure hospital to prison after being found fit to stand trial. His sentencing date has not been announced.
+His guilty plea follows a change in his legal circumstances, according to BBC. In December 2023, Kurtaj was placed in a secure hospital indefinitely after medical assessments determined that he was unfit to participate in a conventional criminal trial.
+A subsequent assessment found him fit to stand trial, and he was transferred to an ordinary prison in January 2026. Kurtaj admitted the charges during Monday’s hearing. The court has not announced a sentencing date.
+How Arion Kurtaj hacked Rockstar Games and leaked GTA 6
+Kurtaj breached Rockstar Games in September 2022 while on bail for separate hacking offenses and under police protection.
+Authorities had placed him in a Travelodge hotel in Bicester after rival hackers threatened him over cryptocurrency holdings.
+Despite having his computer confiscated, Kurtaj reportedly used an Amazon Fire Stick connected to the hotel television, together with a Bluetooth keyboard and mouse, to gain unauthorized access to Rockstar’s systems. He obtained internal company information, including 90 video clips containing nearly 60 minutes of unfinished Grand Theft Auto 6 gameplay.
+The footage appeared before Rockstar had released the game’s first official trailer and revealed details the developer had intended to keep confidential.
+Among those details was the inclusion of Lucia, a female playable protagonist, alongside another lead character, Jason.
+Kurtaj also accessed Rockstar’s internal Slack messaging platform and threatened to publish the game’s source code unless the company contacted him.
+After Rockstar refused to cooperate, Kurtaj published stolen material on an online forum using the username TeaPotUberHacker.
+Rockstar estimated that recovering from the intrusion cost approximately £3.79 mn, excluding thousands of hours spent by employees responding to the incident.
+The unauthorized disclosure also interfered with the developer’s planned marketing strategy by revealing gameplay and character information before its official announcements.
+Lapsus$ attacks caused an estimated £10 mn in damage
+The Rockstar intrusion formed part of a wider series of attacks attributed to Kurtaj and other Lapsus$ members.
+The group targeted BT, EE, Revolut and Uber, frequently using social engineering techniques to obtain credentials or persuade employees to provide access to internal systems.
+During the Uber breach, Kurtaj posted an explicit image as part of his efforts to pressure the company into paying a ransom.
+The combined damage associated with attacks against the companies was estimated at approximately £10 mn.
+Prosecutors also alleged that Lapsus$ members used information stolen from corporate victims to target cryptocurrency investors, obtaining at least $300,000 from individual victims.
+Kurtaj admitted additional offenses involving assaults on staff while in custody, including multiple biting incidents.
+He was also caught possessing a mobile phone in prison after sending a taunting message to police and posting photographs and updates on Snapchat. These incidents form part of the broader criminal proceedings that will be considered before sentencing.
+Why the GTA 6 hacker was released from a secure hospital
+Kurtaj’s case has followed an unusual legal process because of assessments concerning his ability to participate in court proceedings.
+During the original 2023 case, doctors determined that the severity of his autism prevented him from standing trial in the conventional manner. Instead, the court conducted a trial of the facts.
+Under that procedure, jurors were asked whether Kurtaj had committed the alleged acts, rather than whether he possessed the criminal intent necessary for a conviction.
+The court subsequently imposed a hospital order in December 2023, requiring him to remain in a secure psychiatric facility unless medical professionals determined that he no longer presented the relevant risk.
+A routine assessment in late 2025 concluded that Kurtaj was capable of standing trial. He was transferred to prison in January 2026, allowing conventional criminal proceedings to resume.
+At Woolwich Crown Court on November 16, Kurtaj pleaded guilty to the offenses rather than contesting the allegations before a jury.
+What sentence could Arion Kurtaj receive?
+Kurtaj’s sentence has not been determined, and the exact sentencing date remains unknown. The court will need to consider the offenses admitted, their consequences and the fact that Kurtaj committed the hacking crimes while under 18.
+Under English law, adult convictions for blackmail can carry a maximum sentence of 14 years’ imprisonment. Certain offenses involving unauthorized acts intended to impair computer operations carry maximum sentences of 10 years when tried in the Crown Court.
+These statutory maximums do not establish the sentence Kurtaj will receive.
+Sentencing guidance requires courts to take account of an offender’s age when the crimes occurred, including cases where the defendant has become an adult before conviction.
+The judge must also consider relevant medical evidence and the circumstances surrounding Kurtaj’s previous hospital order.
+A hospital order remains legally possible where the statutory medical requirements are satisfied and the court considers hospital treatment the appropriate disposal.
+No public report from hearing established whether prosecutors or defense lawyers intend to seek another hospital order. It is also unclear how the court will account for the time Kurtaj has already spent in hospital and prison.
+Former Lapsus$ associate Thalha Jubair received prison sentence
+Another member of Lapsus$, Thalha Jubair, was convicted in the original proceedings in 2023.
+Jubair, who was 17 at the time, received an 18-month Youth Rehabilitation Order involving intensive supervision and restrictions on using virtual private networks.
+He subsequently continued cybercriminal activity associated with another hacking group, Scattered Spider.
+In July 2026, Jubair and fellow hacker Owen Flowers were each sentenced to five years and six months in prison for their involvement in the 2024 cyberattack on Transport for London.
+The incident disrupted the transport authority’s operations and resulted in substantial financial losses. The National Crime Agency reported approximately £29 mn in losses, while other reporting has cited figures as high as £39 mn.
+Jubair’s later sentence concerned separate criminal conduct and does not establish a likely punishment for Kurtaj.

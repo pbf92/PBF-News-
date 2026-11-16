@@ -1,0 +1,18 @@
+URL: https://www.aafp.org/afp/2026/1100/mbtn-pharmacotherapy-mild-hypertension
+TITLE: Pharmacotherapy for Mild Hypertension
+OUTLET: American Academy Of Family Physicians | AAFP
+
+DETAILS FOR THIS REVIEW
+Study Population: 9,124 nonpregnant adults (18 years or older) with mild hypertension (systolic blood pressure 140–159 mm Hg or diastolic blood pressure 90–99 mm Hg) and no previous hypertensive treatment or underlying cardiovascular disease (CVD)
+Efficacy End Points: All-cause mortality, total cardiovascular events, stroke, and coronary heart disease
+Harm End Points: Study withdrawal due to medication adverse effects
+Narrative: As quality measures in health care become increasingly numerous and complex, hypertension management has emerged as a key indicator of care quality. However, the benefits of primary prevention and treatment of mild hypertension in patients without prior CVD remain poorly understood. In particular, the financial and clinical implications of initiating lifelong medication in otherwise asymptomatic individuals have not been well studied.
+Previous Cochrane reviews examined patients already being treated for mild hypertension, but this review assessed the effects of pharmacologic treatment for hypertension initiated as primary prevention in patients without underlying CVD. Examined outcomes included all-cause mortality, total cardiovascular events, stroke, coronary heart disease, and treatment withdrawal due to adverse effects.1
+Low-certainty evidence demonstrated that pharmacotherapy for mild hypertension likely reduced stroke risk compared with placebo (relative risk = 0.41; 95% CI, 0.20–0.84; absolute risk difference = 0.4%; number needed to treat = 250; n = 7,292; four randomized controlled trials [RCTs]).
+Low-certainty evidence demonstrated that pharmacotherapy increased study withdrawals due to medication adverse effects compared with placebo (relative risk = 4.80; 95% CI, 4.14–5.57; absolute risk difference = 8.7%; number needed to harm = 11; n = 17,354; one RCT).
+THE NUMBERS
+The studies showed little to no difference in all-cause mortality, total cardiovascular events, and coronary heart disease between pharmacotherapy and placebo.
+Caveats: Recent studies on hypertensive pharmacotherapy have included patients with higher systolic or diastolic blood pressure values (moderate to severe or resistant hypertension) and underlying cardiovascular conditions (eg, previous history of myocardial infarction, stroke, or coronary artery disease).2 Additional reviews have noted more severe adverse effects with antihypertensive pharmacotherapy, including syncope and acute kidney injury.3
+The small number of strokes in the current Cochrane review (35 total) limit generalizability. Additional limitations include underpowered RCTs, use of older studies (most recent from 2004), and lack of equity-based assessments. Only one RCT examined study withdrawals, and a detailed evaluation of preexisting CVD for each participant was not possible.1
+The antihypertensive medications in this Cochrane review (eg, bendrofluazide, propranolol, methyldopa) are no longer available in the United States or are not first-line antihypertensive medications per the American College of Cardiology/American Heart Association or the American Academy of Family Physicians clinical practice guidelines.1,4,5 This further limits clinical applicability.
+Conclusion: Given the low-certainty evidence and small number of adverse events, we have assigned a color recommendation of yellow (unclear benefits) for pharmacologic interventions in adults with mild hypertension and no known CVD. Further research and use of more guideline-recommended medications would aid in validating pharmacotherapy in this population.

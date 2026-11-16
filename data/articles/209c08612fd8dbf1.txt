@@ -1,0 +1,74 @@
+URL: https://ppc.land/googles-search-console-api-now-splits-brand-traffic-back-to-february-21/
+TITLE: Google's Search Console API now splits brand traffic, back to February 21
+OUTLET: PPC Land
+
+Google today opened three of its newer search reporting features to developers, adding branded query classification, a search type for Google Lens and Circle to Search, and filters that accept several countries or devices at once to the Search Analytics API. Until now the three had lived only inside the Performance report of Search Console, the free tool in which site owners track how their pages appear in Google Search. The post on the Google Search Central Blog carries the names of Daniel Waisberg, Nati Yosephian and Karin Gadasi of the Search Console team, and the API's reference page for the query method was updated on the same day.
+According to Google, the change follows "ecosystem requests to make this data available for custom reporting and automated workflows." That is a polite way of describing a gap of up to a year. Agencies, publishers and the software companies that build products on Search Console data had watched the features arrive in the web interface while the API, which feeds their dashboards, stayed behind.
+In Short
+Google today made three Search Console reporting features available through the Search Analytics API: a split of queries into branded and non-branded, a search type covering Google Lens, Circle to Search and image uploads, and filters that take several countries or devices in one request. The change matters to agencies, international brands and SEO software companies that pull Search Console figures into their own dashboards, because one call can now do what used to take hand-built brand lists or a request per market. The fine print sits in the documentation: branded data starts on February 21, 2026, covers only top-level properties with enough volume, and cannot be combined with a query filter in the same request.
+Three features, one endpoint
+The update touches a single method, searchanalytics.query, which answers a POST request with rows of clicks, impressions, click-through rate and average position. Google's announcement lists the additions as three new options.
+The first is branded queries. Requests can now "group or filter your data by brandedClassification to compare branded and non-branded performance," according to the post. The second is web multimodal: setting the type parameter to webMultimodal returns "performance data from Google Lens, Circle to Search on Android, and image uploads in Google Search." The third is a new field, filterLists, which Google describes as a way "to filter by several countries or devices in a single request."
+Google frames the practical gain in terms of work saved. "Instead of stitching together separate requests or maintaining complex keyword regex lists, you can now query a group of countries (such as EMEA, LATAM, or DACH) and device combinations in a single API call, and automatically segment branded from non-branded traffic in your dashboards," the post states.
+It also says the pieces can be stacked. "Because these filters work together, you can slice your data even further, such as monitoring brand growth across specific regional hubs or seeing which pages perform best in multimodal search across key markets and devices." The reference page, as the sections below show, sets limits on how far that stacking goes.
+None of this is new data in the strict sense. Each capability had already been introduced in the Performance report over the past year, a point Google makes in its opening paragraph. What changes today is who can reach it without a browser, and at what scale.
+Branded queries: what the reference page allows
+The most consequential of the three is also the most fenced in. The reference page defines brandedClassification as a filter dimension and lists two values, BRANDED and NON_BRANDED. The definitions are short, and each clause carries a restriction.
+According to the documentation, the dimension will "Filter results against the specified branded query classification (only the "equals" operator is supported)." The operators contains, notContains, notEquals and the two regular expression operators therefore do not apply to it. A second sentence rules out a combination that many analysts would reach for first: "Filtering or grouping by "brandedClassification" can't be combined with a "query" filter in the same request." A request cannot, in other words, ask for the branded share of queries containing a given product name. Grouping by query alongside brandedClassification is not addressed by that sentence, which refers only to a query filter.
+The third condition concerns time and eligibility. "Data is available starting February 21, 2026, and only for top-level properties with sufficient query and impression volume," the page states. By PPC Land's calculation, that gives the API 268 days of branded history as of today. Google introduced the branded queries filter in the Search Console interface in November 2025, so the API's history begins roughly three months after the feature first appeared.
+What happens to properties that do not qualify? The blog post answers plainly: "As in Search Console, this data is only available for eligible properties. For other properties, the response won't include any rows." Elsewhere the reference page describes a request that runs past the end of the results as "a successful response with zero rows." Neither document describes an error message or a field that tells a caller its property is ineligible.
+Then there is the question of who decides what counts as a brand. Under the old method, which Google's post calls "maintaining complex keyword regex lists," a site owner wrote the rule. Under brandedClassification, Google applies the label, and the reference page gives no mechanism for reviewing or editing it. Microsoft took a different route with its own analytics product: Microsoft Clarity lets site owners edit the Brand Terms behind its branded and non-branded split of AI traffic, including abbreviations, spellings, translations and typos, 57 days after it introduced that split on August 3, 2026.
+Web multimodal: a seventh search type
+The type parameter decides which Google surface the figures come from. With today's change it accepts seven values, and the reference page defines each one. The older searchType parameter is still listed but marked "Deprecated, use type instead."
+The interface version of this report arrived recently. On September 24, 2026, Google began rolling out a Multimodal option under Web in the Performance report's search type filter, splitting Web into text-based and multimodal results. That rollout came with a notable omission: the queries dimension is not available in the interface when the multimodal type is selected. The description recorded then also named Chrome's "Search this image" among the covered entry points, while the API reference names three surfaces only.
+Google adds one commitment beyond the API itself. "This data will also be available in BigQuery for properties with an active bulk data export," the blog post says. The sentence is in the future tense, and no date is attached.
+The scale of the behavior being measured is still largely described by Google itself. In July 2025, Robby Stein, who leads Google's AI Search team, said visual searching was up 65% year over year, without publishing a base period or method. An API feed of Lens and Circle to Search clicks gives site owners a way to check a slice of that trend against their own traffic, at least for the pages Google sends visitors to.
+filterLists: one request, several markets
+The third addition is the most mechanical, and possibly the most used. Before today, a request could contain filter groups, but the reference page still defines groupType as "Whether all filters in this group must return true ("and"), or one or more must return true (not yet supported)." Only "and" is accepted. A list of countries in one request had no documented "any of" form.
+The new field supplies one, for two dimensions. According to the reference page, filterLists holds "Zero or more multi-value dimension filters to test against the row," and "A row matches a filter list if its value for the specified dimension equals any of the provided expressions." The dimension must be "country," expressed as ISO 3166-1 alpha-3 codes, or "device," which takes DESKTOP, MOBILE or TABLET. Page, query and search appearance are not listed for filterLists.
+One rule prevents overlap: "Note that a single request cannot filter on the same dimension in both filters and filterLists at the same time." A request can therefore pair a list of countries in filterLists with a device filter in filters, but not a country list with a separate country exclusion.
+The interface side of this feature had a less tidy history. On October 6, 2026, Google Search Console began letting sites view several countries as one total, according to a Google Search Central post on LinkedIn; before that, comparisons were limited to two items. PPC Land's report at the time described the country change and left any device change unconfirmed. Today's blog post refers to "multi-country and multi-device filtering" as already introduced, and links to the same LinkedIn post.
+How a request is built
+The reference page describes the structure of a call in detail. According to Google's documentation, a request to the method is assembled from the following parts.
+- Endpoint. A POST request goes to https://www.googleapis.com/webmasters/v3/sites/siteUrl/searchAnalytics/query, where siteUrl is "The URL of the property as defined in Search Console," for example http://www.example.com/ for a URL-prefix property or sc-domain:example.com for a Domain property.
+- Authorization. The request requires one of two OAuth scopes: https://www.googleapis.com/auth/webmasters.readonly or https://www.googleapis.com/auth/webmasters.
+- Date range. startDate and endDate are required, in YYYY-MM-DD format, "in PT time (UTC - 7:00/8:00)." The start date "Must be less than or equal to the end date."
+- Grouping. dimensions[] is optional. "There is no limit to the number of dimensions that you can group by, but you cannot group by the same dimension twice." Valid names are the filter dimensions plus "date" and "hour." "If no dimensions are specified, all values will be combined into a single row."
+- Search type. type is optional and defaults to "web." Setting it to "webMultimodal" returns Lens, Circle to Search and image upload data.
+- Filters. dimensionFilterGroups[] holds filters (a dimension, an operator and an expression, with a "Max length 4096 characters") and, from today, filterLists (a dimension and a list of expressions).
+- Aggregation and paging. aggregationType defaults to "auto." rowLimit is "Valid range is 1-25,000; Default is 1,000," and startRow is a zero-based offset for paging.
+- Freshness. dataState defaults to "final." "all" includes fresh data, and "hourly_all" includes an hourly breakdown that the page says "includes partial data."
+- Response. Each row returns keys, clicks, impressions, ctr and position. The response also reports responseAggregationType and, for fresh data, a metadata object with first_incomplete_date or first_incomplete_hour, given in the America/Los_Angeles time zone.
+The request body structure, as published in the reference page, now reads:
+{
+    "startDate": string,
+    "endDate": string,
+    "dimensions": [
+       string
+    ],
+    "type": string,
+    "dimensionFilterGroups": [
+       {
+         "groupType": string,
+         "filters": [
+            {
+              "dimension": string,
+              "operator": string,
+              "expression": string
+            }
+         ],
+         "filterLists": [
+            {
+              "dimension": string,
+              "expressions": [
+                string
+              ]
+            }
+         ]
+       }
+    ],
+    "aggregationType": string,
+    "rowLimit": integer,
+    "startRow": integer
+}
+The operators available to ordinary filters are unchanged. According to the reference page, "contains" mea

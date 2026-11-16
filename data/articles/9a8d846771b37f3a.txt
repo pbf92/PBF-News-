@@ -1,0 +1,20 @@
+URL: https://medicaldialogues.in/amp/ophthalmology/news/hal-spectacle-lenses-slow-myopia-progression-in-children-jama-183333
+TITLE: HAL Spectacle Lenses Slow Myopia Progression in Children: JAMA
+OUTLET: Medical Dialogues
+
+Myopia, or nearsightedness, is becoming increasingly common among children in the United States, raising concerns about the long-term risk of vision complications associated with excessive eye elongation. HAL spectacle lenses are designed with small aspherical lenslets that alter peripheral retinal image signals and may help regulate abnormal eye growth. While previous studies have demonstrated their effectiveness in Asian populations, evidence from US children has been limited.
+The double-masked randomized clinical trial enrolled 159 children aged 6 to 12 years at nine US investigational sites. Participants had myopia ranging from −0.75 to −4.50 diopters and had not previously received myopia-control treatment. They were randomly assigned to wear either HAL spectacle lenses or conventional single-vision lenses (SVL).
+At the 24-month assessment, 135 children, or 84.9% of those enrolled, completed follow-up. The researchers evaluated changes in cycloplegic spherical equivalent refraction (cSER) and axial length, which are important measures of myopia progression.
+Key findings included:
+- Children wearing HAL lenses experienced an adjusted mean myopia progression of −0.25 diopters, compared with −0.90 diopters among those wearing conventional single-vision lenses.
+- The difference between groups was 0.64 diopters, corresponding to a 71% relative reduction in myopia progression with HAL lenses.
+- Axial elongation was also substantially lower with HAL lenses, measuring 0.21 mm compared with 0.45 mm in the single-vision group.
+- This represented a 53% relative reduction in axial elongation.
+- Best-corrected visual acuity was comparable between the two groups.
+- Ocular adverse events occurred in 11.7% of children in the HAL group and 14.6% in the SVL group. None were considered serious or related to the lenses.
+- Subjective symptoms were reported 19 times in the HAL group compared with 25 reports in the SVL group.
+The investigators concluded that HAL spectacle lenses reduced both refractive myopia progression and axial eye growth over 24 months, supporting their use as a myopia-control strategy in children.
+However, the researchers noted that the study had several limitations. The two-year follow-up may not adequately establish the durability of treatment effects, and longer-term data, including outcomes after treatment is stopped, are needed. Children with high myopia were also excluded because of the limited prescription range studied. In addition, although the lenslets are designed to be unobtrusive, complete masking of participants could not be guaranteed.
+Overall, the results extend evidence from previous international research to a US pediatric population and support HAL spectacle lenses as a promising approach to slowing childhood myopia progression.
+Reference:
+Shen J, Hunt C, Young G, Drobe B. Spectacle Lenses With Highly Aspherical Lenslets for Myopia Control: A Randomized Clinical Trial. JAMA Ophthalmol. Published online August 20, 2026. doi:10.1001/jamaophthalmol.2026.3288

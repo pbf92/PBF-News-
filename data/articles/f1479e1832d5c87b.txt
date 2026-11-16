@@ -1,0 +1,69 @@
+URL: https://casrai.org/guides/cochrane-search-strategy-example
+TITLE: Cochrane Search Strategy Example: Syntax & Steps
+OUTLET: CASRAI
+
+On this page
+A Cochrane search strategy example demonstrates how systematic review teams combine controlled vocabulary and free-text keywords into reproducible, highly sensitive search strings across major biomedical databases. Governed by Chapter 4 of the Cochrane Handbook for Systematic Reviews of Interventions and Methodological Expectations of Cochrane Intervention Reviews (MECIR) standards, a typical strategy links a Population concept block and an Intervention concept block using Boolean AND logic, appending a validated study-design filter—such as the Cochrane Highly Sensitive Search Strategy—in databases like MEDLINE while deliberately omitting outcome filters to maximize sensitivity.
+Ask CASRAI · free to tryQuestion about this guide? Ask CASRAI answers with linked sources. 2 free questions a day, no account.
+What a Cochrane search strategy is and how it functions
+A Cochrane search strategy is an exhaustive, transparent, and reproducible bibliographic query developed to identify all published, unpublished, and ongoing studies relevant to a systematic review question. Unlike searches conducted for clinical practice or narrative literature reviews—which prioritize precision to retrieve a small set of relevant articles—a Cochrane search prioritizes sensitivity (recall). The objective is to minimize the probability of omitting eligible trials, particularly smaller studies or negative trials, thereby mitigating publication bias and systematic retrieval errors.
+Every Cochrane search strategy relies on a conceptual building-block architecture. Review authors break their research question into core operational components derived from the PICO framework (Population, Intervention, Comparison, and Outcome). Standard methodological practice dictates that search strings incorporate only the Population and Intervention concepts joined by the Boolean operator AND. Comparisons are rarely indexed distinctly in bibliographic records, and restricting search strings by specific outcomes drastically reduces retrieval sensitivity because trial titles, abstracts, and indexing terms frequently omit secondary endpoints, adverse effects, or surrogate markers.
+To capture all published evidence regardless of variable terminology, each concept block within a Cochrane search strategy incorporates two complementary layers of vocabulary:
+- Controlled vocabulary: Standardized subject headings assigned by professional indexers, such as Medical Subject Headings (MeSH) in MEDLINE and Emtree in Embase. Controlled headings group conceptual synonyms and enable the explosion of hierarchical subheadings to capture narrower terms automatically.
+- Free-text keywords (text words): Search terms searched across titles, abstracts, author keywords, and publication records. Text words capture recently published articles that have not yet undergone indexing, trials published in journals not using standardized vocabularies, and novel clinical terminology that lacks an established descriptor.
+Who oversees Cochrane search standards and what they cover
+Methodological standards for Cochrane search strategies are established and maintained by the Cochrane Information Retrieval Methods Group (IRMG) in coordination with the Cochrane Editorial and Methods Department. These expectations are codified in Chapter 4 of the Cochrane Handbook for Systematic Reviews of Interventions and the Methodological Expectations of Cochrane Intervention Reviews (MECIR). For detailed contextual guidance on how search standards interact with review protocols and subsequent synthesis stages, review authors consult Cochrane Handbook chapter guidance across each stage of review execution.
+MECIR standards distinguish between mandatory conduct requirements and highly desirable practices. The core search-related standards include:
+- Standard C19 (Preliminary searches): Review teams must conduct exploratory searches during protocol development to assess existing literature, evaluate eligibility criteria, and identify candidate search terms.
+- Standard C24 (Mandatory bibliographic databases): Authors must search three primary bibliographic databases: the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, and Embase (where institutional or national access is available).
+- Standard C27 (Trials registers and ongoing studies): Teams must search international trial registries, minimally comprising ClinicalTrials.gov and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) portal, to identify unpublished, in-progress, or prematurely terminated clinical trials.
+- Standard C34 (Search filter discipline): Authors must use validated, evidence-based methodological filters (such as the Cochrane Highly Sensitive Search Strategies for MEDLINE) when restricting results by study design, but must never apply study-design filters within pre-filtered registers such as CENTRAL.
+- Standard C37 (Search currency and rerunning): Searches across all mandatory databases and registers must be rerun within 12 months prior to publication, with all retrieved records screened and new eligible studies integrated into the final manuscript.
+- Standard R34 (Reproducible documentation): Cochrane reviews must present the full, unedited, line-by-line search strategies for every searched database in an appendix, documenting the platform interface, date of execution, and record yield.
+How to develop and run a Cochrane search strategy: Step-by-step workflow
+Developing a Cochrane-compliant search strategy requires a disciplined, multistage process coordinated by an experienced health librarian or information specialist. The following seven steps outline the workflow from initial conceptualization to final documentation.
+Step 1: Deconstruct the clinical question into concept blocks
+Begin by isolating the essential components of the systematic review question using the PICO framework. Identify the primary clinical population (e.g., adult patients with chronic obstructive pulmonary disease) and the specific intervention under evaluation (e.g., inhaled corticosteroids). Exclude the Comparison group unless the review is strictly limited to an active head-to-head comparison where placebo-controlled trials are explicitly ineligible. Exclude the Outcome component entirely from the bibliographic search query, as outcomes introduce substantial reporting and indexing bias.
+Step 2: Harvest controlled vocabulary and text-word synonyms
+Compile a comprehensive list of synonyms, acronyms, trade names, anatomical descriptors, and spelling variations (such as British versus American spellings). Identify appropriate controlled vocabulary terms using the database thesaurus (e.g., MeSH Browser). Inspect the indexing of 5 to 10 known eligible benchmark studies (“gold-standard” articles) to confirm which descriptors indexers assigned. For text words, identify word roots suitable for truncation (e.g., bronchodilat* to capture bronchodilator, bronchodilators, and bronchodilation).
+Step 3: Construct line-by-line syntax in the primary database
+Build the search strategy line-by-line within a primary development database, typically Ovid MEDLINE. Create individual numbered lines for each controlled vocabulary heading and each text-word phrase. Use field qualifiers to restrict text-word searching to title, abstract, and author keyword fields (.tw.,kf. in Ovid). Combine all synonyms for the Population concept with Boolean OR. In a separate sequence of lines, build the Intervention concept and combine its terms with Boolean OR. Join the Population and Intervention summary lines with Boolean AND.
+Step 4: Integrate validated study-design filters
+When searching bibliographic databases that index all publication types (such as MEDLINE, Embase, or CINAHL), append a validated study-design filter to isolate the target methodology. For systematic reviews of interventions, Cochrane mandates the use of the Cochrane Highly Sensitive Search Strategies (HSSS) for identifying randomized trials in MEDLINE. Reviewers select either the sensitivity-maximizing version (for comprehensive retrieval) or the sensitivity-and-precision-maximizing version (which eliminates higher-noise text words like “groups” to improve screening efficiency). Combine the substantive PICO query and the filter lines using Boolean AND.
+Step 5: Translate syntax to secondary databases and CENTRAL
+Translate the finalized MEDLINE strategy into the syntax and controlled vocabularies of all other target databases. Subject headings do not transfer directly: MeSH headings must be mapped to Emtree terms in Embase and CINAHL Subject Headings in CINAHL. Field codes, truncation symbols, and proximity operators must be adapted to each host platform. When translating for searching the Cochrane Library, the strategy is entered into the Search Manager tab. Crucially, remove any study-design filter lines when running searches in CENTRAL, as CENTRAL contains exclusively controlled trials and applying an external filter inadvertently eliminates unindexed trial records.
+Step 6: Subject the strategy to formal peer review (PRESS)
+Before executing the final production searches, submit the complete search strategies to an independent health sciences librarian for structured evaluation. The Peer Review of Electronic Search Strategies (PRESS) guideline provides a standardized evidence-based checklist assessing question translation, Boolean logic, controlled vocabulary selections, text-word coverage, spelling and syntax, and filter implementation. Peer review catches syntax errors, missing truncation, and unintentional logical omissions before screening begins.
+Step 7: Execute, export, and document per PRISMA-S
+Run the peer-reviewed strategies across all databases, export full bibliographic citations into a reference management or screening tool (such as Covidence or Rayyan), and document every operational parameter. In compliance with the PRISMA-S (PRISMA for Searching) reporting guideline, record the exact platform provider (e.g., Ovid, Wiley, Elsevier), database coverage dates, the exact calendar date the search was executed, any limiters applied, and the total raw record count retrieved from each source.
+Worked example of a Cochrane search strategy
+To understand how individual search lines interact in a live bibliographic environment, consider a realistic Cochrane systematic review evaluating inhaled corticosteroids for chronic obstructive pulmonary disease (COPD). The primary search strategy is developed in Ovid MEDLINE (ALL, 1946 to present) using a three-block structure: Population (Lines 1–7), Intervention (Lines 8–13), and the Cochrane Highly Sensitive Search Strategy sensitivity-maximizing filter (Lines 15–25).
+Ovid MEDLINE line-by-line strategy
+1. exp Pulmonary Disease, Chronic Obstructive/
+2. (chronic obstructive pulmonary disease or COPD or COAD).tw,kf.
+3. (chronic bronchitis or emphysema).tw,kf.
+4. (chronic airflow obstruction or chronic airflow limitation).tw,kf.
+5. (chronic airway* obstruction or chronic airway* limitation).tw,kf.
+6. (airflow obstruction* or airway* obstruction*).tw,kf.
+7. 1 or 2 or 3 or 4 or 5 or 6
+8. exp Adrenal Cortex Hormones/
+9. (corticosteroid* or steroid* or glucocorticoid*).tw,kf.
+10. (beclomethasone or budesonide or fluticasone or mometasone or ciclesonide).tw,kf.
+11. (triamcinolone or dexamethasone or methylprednisolone).tw,kf.
+12. (inhal* adj3 (corticosteroid* or steroid* or glucocorticoid*)).tw,kf.
+13. 8 or 9 or 10 or 11 or 12
+14. 7 and 13
+15. randomized controlled trial.pt.
+16. controlled clinical trial.pt.
+17. randomized.ab.
+18. placebo.ab.
+19. drug therapy.fs.
+20. randomly.ab.
+21. trial.ab.
+22. groups.ab.
+23. 15 or 16 or 17 or 18 or 19 or 20 or 21 or 22
+24. exp animals/ not humans.sh.
+25. 23 not 24
+26. 14 and 25
+Line-by-line anatomical explanation
+- Line 1: The controlled vocabulary term Pulmonary Disease, Chronic Obstructive/ is exploded (exp), retrieving the base heading and all narrower te
