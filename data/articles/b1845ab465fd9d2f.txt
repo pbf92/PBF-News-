@@ -1,0 +1,22 @@
+URL: https://www.complex.com/pop-culture/a/bernadette-giacomazzo/gta6-hacker-pleads-guilty
+TITLE: ‘GTA 6’ Hacker Pleads Guilty After Using Hotel TV to Pull Off $5M Rockstar Breach
+OUTLET: Complex
+
+Key Takeaways
+- Arion Kurtaj, 21, pleaded guilty in London to hacking Rockstar Games and other cybercrimes after doctors found him fit to stand trial following secure psychiatric care.
+- Kurtaj used a hotel TV, Amazon Fire Stick and Bluetooth accessories to breach Rockstar in 2022 while on bail, then leaked 90 clips of unfinished GTA 6 gameplay.
+- Rockstar estimated that the breach cost $5 million and thousands of employee work hours, while prosecutors described Kurtaj as a “leading light” in the hacking group Lapsus$.
+The hacker behind one of the biggest GTA 6 leaks in history has pleaded guilty to breaching Rockstar Games, years after pulling off a multimillion-dollar cyberattack using little more than a hotel television and an Amazon Fire Stick. Arion Kurtaj, 21, admitted to multiple hacking offenses on Monday, November 16, at Woolwich Crown Court in London after being released from a secure psychiatric hospital earlier this year.
+According to the BBC, Kurtaj was transferred from the hospital to a regular prison in January after doctors found him fit to stand trial. He had previously been ordered to remain in secure psychiatric care indefinitely following a 2023 court proceeding.
+His latest guilty pleas cover the Rockstar breach and several other cybercrimes he committed at 16 and 17.
+The circumstances surrounding the original GTA 6 hack were unusual. In 2022, Kurtaj was staying at a Travelodge hotel in Bicester, England, while on bail for other hacking offenses. Authorities had placed him there for his protection after rival hackers reportedly threatened him over stolen Bitcoin.
+Despite having his computer confiscated, Kurtaj accessed Rockstar's systems using an Amazon Fire Stick connected to the hotel television, along with a Bluetooth keyboard and mouse.
+Once inside, Kurtaj obtained internal company information, including 90 clips containing nearly an hour of unfinished GTA 6 gameplay. He also accessed Rockstar's internal Slack messaging system and issued an ultimatum: "If Rockstar does not contact me on Telegram within 24 hours, I will start releasing the source code."
+Rockstar refused to comply.
+Kurtaj subsequently published the stolen material online under the username TeaPotUberHacker, exposing gameplay footage and revealing that the upcoming title would feature a female playable protagonist.
+Rockstar later estimated that the breach cost approximately $5 million to address, in addition to thousands of employee work hours.
+Prosecutors described Kurtaj as a "leading light" in Lapsus$, a hacking group responsible for attacks against major companies including Uber, Revolut and telecommunications provider BT/EE.
+The group's activities reportedly caused approximately £10 million in damage, while prosecutors alleged its members stole at least $300,000 from cryptocurrency investors.
+Kurtaj also pleaded guilty to assaulting workers while in custody, including multiple biting incidents. Authorities previously discovered he had obtained a mobile phone in prison after he sent a taunting message to police and posted on Snapchat.
+The guilty pleas mark another chapter in Rockstar's long-running battle with unauthorized GTA 6 disclosures. The company has faced additional leaks and threats from hackers as it prepares to release the game, currently scheduled for November 19.
+Kurtaj's former Lapsus$ associate, Thalha Jubair, was separately sentenced to five years and six months in prison after continuing his cybercriminal activities with another group.

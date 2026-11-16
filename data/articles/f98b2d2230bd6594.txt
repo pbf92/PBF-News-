@@ -1,0 +1,37 @@
+URL: https://today.rtl.lu/news/business-and-tech/stocks-extend-losses-as-traders-digest-nvidia-fallout-709611903
+TITLE: Key figures: Tech shares slide ahead of Nvidia earnings, Anthropic IPO
+OUTLET: RTL Today
+
+Technology stocks struggled on Monday to recover from the crisis engulfing Nvidia after its chief Jensen Huang quit, with the latest earnings from the AI chip giant as well as Anthropic's huge market debut arguing for caution.
+Wall Street indices opened lower after last week's roller-coaster performance, while European stocks closed slightly down after losses across the board in Asia.
+Nvidia shares fell around 1.2 percent at the opening ahead of its quarterly earnings after the Wall Street close on Tuesday, which will offer a fresh chance to assess the outlook for a bellwether AI company whose value has plunged since Huang's shock resignation last week.
+He quit following revelations of extramarital affairs, including with a woman suspected of being a Chinese spy trying to get banned Nvidia chips into China, and another with an Nvidia executive who reported directly to him.
+His exit raised concerns about the chip titan at the centre of a buildout that has helped propel global markets to record highs and boosted economic growth around the world.
+"Nvidia's financial results will certainly be a litmus test for the market," said Russ Mould, investment director at AJ Bell.
+"The results themselves may show a business at the top of its game, but the prime focus will be on what Jensen Huang's departure means for strategy," he added.
+Nvidia expects third-quarter revenue to surge to around $108 billion.
+Another key moment for the AI trade comes on Thursday, when shares in Claude-maker Anthropic are expected to start trading.
+Analysts expect it to raise around $65 billion in the IPO, which could value the five-year-old start-up at $1.3 trillion, making it one of the world's most valuable companies.
+Investors may also be selling down other AI-related holdings to buy into the IPO, amid uncertainty about stricter oversight of US data centre openings following the Democratic sweep of the US Congress last week.
+"A strong launch could revive confidence across the sector, supporting chipmakers, cloud providers and data centre operators as investors become more comfortable financing the next phase of expansion, despite rising costs and growing unease," said Ipek Ozkardeskaya, senior analyst at Swissquote.
+In Asia, tech-heavy indices struggled at the start of the week, with Taipei plunging six percent, Seoul down more than three percent and Tokyo losing over two percent.
+European markets also felt the breeze of tech wobbles, with London's FTSE 100 closing down 0.1 percent, Paris losing 0.2 percent and Frankfurt 0.6 percent.
+Also in view this week are US retail sales data and the minutes of the Federal Reserve's October meeting, which could provide signals on the outlook for US interest rates.
+In company news, New World Development plunged almost 50 percent in Hong Kong after the heavily indebted property firm unveiled plans for a $3.2 billion rights issue that reignited concerns about its financial health.
+New York - DOW: DOWN 0.8 percent at 51,932.98 points
+New York - S&P 500: DOWN 1.2 percent at 7,412.10
+New York - Nasdaq: DOWN 1.6 percent at 24,733.24
+London - FTSE 100: DOWN 0.1 percent at 10,892.93
+Paris - CAC 40: DOWN 0.2 percent at 8,352.00
+Frankfurt - DAX: DOWN 0.6 percent at 26,598.64
+Tokyo - Nikkei 225: DOWN 2.4 percent at 59,662.02 (close)
+Seoul - Kospi: DOWN 3.6 percent at 5,100.50 (close)
+Hong Kong - Hang Seng Index: UP 0.5 percent at 23,753.84 (close)
+Shanghai - Composite: DOWN 0.9 percent at 3,602.57 (close)
+Brent North Sea crude: DOWN 2.4 percent at $93.41 per barrel
+West Texas Intermediate: DOWN 2.1 percent at $86.45 per barrel
+Euro/dollar: DOWN at $1.1003 from $1.1021 on Friday
+Pound/dollar: DOWN at $1.3187 from $1.3210
+Dollar/yen: DOWN at 159.62 yen from 159.83 yen
+Euro/pound: UP at 83.44 from 83.43 pence
+burs-pdw/sbk

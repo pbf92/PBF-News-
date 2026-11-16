@@ -1,0 +1,20 @@
+URL: https://www.miragenews.com/mayo-study-blood-biomarker-may-predict-1778197/
+TITLE: Mayo Study: Blood Biomarker May Predict Cognitive Impairment Risk
+OUTLET: Mirage News
+
+ROCHESTER, Minn. — A blood biomarker for Alzheimer's disease may help estimate a cognitively healthy person's risk of developing mild cognitive impairment or dementia over the next five or 10 years, according to a new Mayo Clinic study in JAMA Neurology .
+The approach combines a blood measure of phosphorylated Tau 217 (p-tau217), a biomarker associated with Alzheimer's disease, with age, sex and genetic risk to estimate a person's future risk of cognitive impairment. Higher p-tau217 levels and older age were associated with greater risk.
+"The goal is to provide a personalized estimate of the risk of developing cognitive impairment that is more meaningful than simply reporting whether a blood test is positive or negative for amyloid pathology," says Alicia Algeciras-Schimnich, Ph.D. , a Mayo Clinic laboratory medicine and pathology researcher and first author of the study.
+Building on earlier risk-prediction research
+The study builds on previous Mayo Clinic research that used PET brain scans to measure amyloid, a protein that accumulates in the brain in Alzheimer's disease, and predicts future cognitive impairment. The new work applies a similar approach using a blood biomarker, which is less invasive and potentially more scalable.
+Researchers analyzed 1,644 cognitively unimpaired participants in the Mayo Clinic Study of Aging and 534 participants in the Alzheimer's Disease Neuroimaging Initiative. Participants were ages 60 to 90 and had p-tau217 blood measurements, genetic testing and repeated cognitive assessments over time.
+Using the Mayo Clinic Study of Aging data, researchers estimated the likelihood of developing mild cognitive impairment (MCI) or dementia within five and 10 years. They then used the Alzheimer's Disease Neuroimaging Initiative data to confirm the association between higher p-tau217 levels and greater risk of cognitive decline.
+For example, a 75-year-old woman who did not carry APOE e4 , a common genetic risk variant for Alzheimer's disease, had an estimated five-year risk of MCI of 5% with a relatively low p-tau217 level and 16% with a higher level. Her estimated 10-year risk rose from 12% to 35%.
+Age made a substantial difference as well. At the same high p-tau217 level, the estimated five-year MCI risk ranged from 6% at age 65 to 37% at age 85.
+Putting risk into a clinical context
+The findings could become especially relevant if therapies now being studied can prevent or delay cognitive decline before symptoms appear.
+"A person may want to know: What is my risk of developing cognitive impairment in the next five or 10 years, and how does this blood test change that risk?" says Ronald Petersen, M.D., Ph.D. , a Mayo Clinic neurologist and director of the Mayo Clinic Study of Aging . "If preventive therapies prove effective, those numbers could become very important in treatment decisions."
+Ongoing prevention trials, including AHEAD 3-45 and TRAILBLAZER-ALZ 3, are testing whether amyloid-targeting therapies can delay cognitive decline before symptoms appear. Both used blood biomarkers to help identify participants, underscoring the potential role of tests such as p-tau217 in earlier stages of Alzheimer's disease .
+"Absolute risk gives the biomarker result clinical context," says Clifford Jack Jr., M.D. , a Mayo Clinic neuroradiologist and senior author of the study. "If preventive treatments become available, this kind of information could help patients and clinicians have more informed conversations about the potential benefits and risks of treatment."
+The researchers note that the risk estimates were developed in the Mayo Clinic Study of Aging and will need further study in more diverse populations and with other p-tau217 blood tests. Alzheimer's biomarker testing is not currently recommended for people without cognitive symptoms.
+For a complete list of authors, disclosures and funding, review the study .

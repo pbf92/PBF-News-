@@ -1,0 +1,15 @@
+URL: https://www.eurekalert.org/news-releases/1151998
+TITLE: Rethinking protein: Scientists explore the hidden “dark proteome”
+OUTLET: EurekAlert!
+
+For decades, scientists have viewed proteins as one of the fundamental building blocks of life — molecules encoded by genes that carry out essential tasks inside cells.
+But what if that definition is too narrow? A study published this year in Nature helps answer the question, suggesting the human genome may produce thousands of previously overlooked protein-like molecules hidden within what researchers call the “dark proteome,” a vast collection of genetic activity that scientists are only beginning to understand.
+The findings raise another provocative question at the center of the research: Are there important biological molecules the scientific community has not yet accounted for?
+“For a long time, it was assumed that each mRNA produces just a single protein,” said Stowers Institute Associate Investigator Ariel Bazzini, Ph.D. “We now know that this picture is far too simple.”
+The international consortium analyzed billions of pieces of biological data from nearly 100,000 experiments. Their work uncovered 1,785 previously unknown microproteins generated from understudied regions of DNA once thought unlikely to produce proteins at all. Many of the molecules were extremely small, sometimes only about 20 amino acids long, making them difficult for scientists to detect with traditional methods.
+In earlier work, researchers had predicted the existence of many of these hidden protein-coding regions by tracking where ribosomes, the cell’s protein-making machinery, attach to RNA. In the new study, researchers used mass spectrometry to directly confirm that thousands of these small proteins are indeed produced in human cells and tissues.
+The Bazzini lab identified several small regions in human cells and zebrafish embryos where these microproteins appear to play a functional role. Bazzini’s lab is working to understand how cells actually build these microproteins.
+The implications could extend far beyond redefining proteins. Researchers found that some of the newly identified molecules appear essential for cancer cell survival, while others are displayed on the surfaces of cells, making them potential targets for future cancer immunotherapies and vaccines.
+“The human body produces many more proteins than we thought, including a large hidden layer of small proteins that had been overlooked for decades,” Bazzini said. “Beyond rewriting biology textbooks, this matters for human health.
+Many of these newly recognized proteins are visible to the immune system, making them attractive targets for cancer vaccines and immune-based therapies, and several sit in regions of the genome where disease-causing mutations occur, opening new avenues for understanding and treating human disease.”
+Disclaimer: AAAS and EurekAlert! are not responsible for the accuracy of news releases posted to EurekAlert! by contributing institutions or for the use of any information through the EurekAlert system.

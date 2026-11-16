@@ -1,0 +1,17 @@
+URL: https://www.almanacnews.com/technology/2026/11/16/california-sues-openai-for-testing-ai-tools-it-could-not-control/
+TITLE: California sues OpenAI for testing AI tools it could not control
+OUTLET: The Almanac
+
+The state of California accused the artificial intelligence company OpenAI of creating a public nuisance on Monday for building AI tools that the company could not control and could pose a cyber security risk to the public.
+State Attorney General Rob Bonta said the company had also violated the state’s unfair competition law by making false statements about the safety of its products.
+“It built models that were highly capable and modified to be extremely persistent and failed to keep them contained during testing and during training,” Bonta said Monday at a press conference in San Francisco. “Those failures led to loss of control of the models and intrusion into OpenAI’s own network, and into outside entities through the public internet.”
+Bonta said the company had documented 80 instances of losing control of AI “agents” it built that could have had impacts on cyber security, including on banking and government websites.
+Agents are autonomous AI bots that companies such as OpenAI are developing to complete more complex tasks for users and would enable them to make transactions and decisions previous models were incapable of. They could also delegate tasks to other agents.
+The most prominent incident came in July, when agents gained access to a coding hub called Hugging Face, which serves as a public repository for user-built AI tools.
+The Attorney General’s Office started investigating the company after the Hugging Face incident.
+“The models, operating under reduced safeguards, took actions that were misaligned with the goals of their assigned tasks — they communicated through unauthorized channels, exploited vulnerabilities in shared infrastructure, gained internet access, and accessed third-party systems,” OpenAI said in statement in August after its own investigation.
+The company did not immediately respond to a request for a statement on the lawsuit.
+Bonta said he was seeking more safeguards when the company and others tested autonomous agents, but he said the nature of those safeguards would have to be worked out with the company going forward.
+OpenAI seemed to acknowledge the need for further safeguards after its investigation into the Hugging Face incident.
+“We consider this incident a ‘warning shot’ for us and for the world: evidence that, without proper safeguards, highly capable AI agents are now able to work around technical controls, collaborate through unapproved channels, and take dangerous actions that no human directed,” the company said in statement at the time.
+This story was written by Thomas Hughes for Bay City News Service.

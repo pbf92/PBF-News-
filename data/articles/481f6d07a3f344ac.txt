@@ -1,0 +1,50 @@
+URL: https://thenevadaglobe.com/702times/apple-and-openevidence-launch-200000-person-conversational-health-ai-study-and-app-at-hlth-2026-in-las-vegas/
+TITLE: Apple and OpenEvidence Launch 200,000-Person Conversational Health AI Study and App at HLTH 2026 in Las Vegas
+OUTLET: Nevada Globe
+
+LAS VEGAS, NV — Apple has unveiled a landmark virtual research initiative—accompanied by a dedicated standalone iPhone application—designed to evaluate how everyday consumers interact with, comprehend, and trust conversational artificial intelligence for medical and wellness questions.
+Announced at the HLTH 2026 healthcare innovation conference in Las Vegas, the Apple Health AI Usage Study is being conducted in partnership with OpenEvidence, an AI-powered clinical decision support platform currently utilized by more than 40% of U.S. physicians.
+Rather than immediately deploying an unverified consumer diagnostic chatbot into Siri or the native Apple Health app, Apple is executing a 12-month, Institutional Review Board-governed study inviting up to 200,000 eligible U.S. adults to test a clinically grounded conversational assistant.
+Through the dedicated Health AI Study App, participants can ask plain-language questions covering everyday symptoms, post-procedure recovery, fitness, and general wellness.
+Unlike general-purpose large language models that pull from unverified internet forums, OpenEvidence’s engine generates approachable answers grounded directly in peer-reviewed medical literature and clinical guidelines licensed from The New England Journal of Medicine (NEJM), JAMA, Nature, Cochrane, and the National Comprehensive Cancer Network (NCCN)—complete with clickable source citations.
++--------------------------------------------------------+
+|       APPLE & OPENVIDENCE HEALTH AI STUDY DOSSIER      |
++--------------------------------------------------------+
+|  - Launch Venue: HLTH 2026 Conference (Las Vegas, NV)  |
+|  - Partners: Apple & OpenEvidence (Clinical AI Engine) |
+|  - Official Study Title: Apple Health AI Usage Study   |
+|  - Target Enrollment: Up to 200,000 U.S. Adults (21+)  |
+|  - Study Duration: 12+ Months (Virtual / App-Based)    |
+|  - Hardware Eligibility: Apple Intelligence-Enabled    |
+|    iPhone (iPhone 15 Pro or Newer) Running iOS 26+     |
+|  - Clinical Data Sources: NEJM, JAMA, Nature, Cochrane,|
+|    and NCCN Peer-Reviewed Medical Literature           |
+|  - Privacy Guardrails: Zero AI Model Training on User  |
+|    Data; OpenEvidence Deletes Queries Within 24 Hours  |
++--------------------------------------------------------+
+Clinical Guardrails, Doctor Visit Prep, and Strict Privacy Protections
+Speaking on the launch, Dr. Sumbul Desai, Apple’s Vice President of Health and Fitness, emphasized that scientific validation must precede widespread consumer health AI deployment.
+“At Apple, we believe responsible innovation starts with scientific rigor and clinical grounding,” Desai stated. “Health is deeply personal, and conducting a dedicated research study is the most thoughtful way to understand how people engage with, comprehend, and evaluate health AI in everyday life.”
+Key operational features and safeguards built into the study include:
+- Optional HealthKit Context: Participants can choose whether to share existing Health app metrics—such as resting heart rate, activity levels, sleep patterns, and clinical lab records—to test whether personal biometric context improves answer relevance.
+- Appointment Preparation: The app includes structured tools helping patients organize questions ahead of doctor visits and evaluate how AI guidance complements—rather than replaces—in-person physician care. When concerning symptoms are raised, built-in clinical guardrails actively direct users toward healthcare professionals.
+- 24-Hour Data Deletion: Apple confirmed that study data will never be used to train AI models. All personal information is anonymized prior to cloud processing, and OpenEvidence permanently deletes user query and response logs within 24 hours.
+Eligibility and Enrollment Requirements
+The Apple Health AI Study App is available for immediate download across the United States for adults aged 21 and older who own an Apple Intelligence-compatible iPhone (iPhone 15 Pro or newer) running iOS 26 or later.
+Enrolled participants rate AI responses on clarity and usefulness inside the app while completing baseline and monthly research surveys.
++--------------------------------------------------------+
+|             STUDY RESEARCH OBJECTIVES & BENCHMARKS     |
++--------------------------------------------------------+
+|  • Consumer Trust & Comprehension: Measure how plain-  |
+|    language explanations and peer-reviewed citations   |
+|    impact user understanding of complex medical topics |
+|  • Behavioral Impact: Track whether AI guidance prompts|
+|    healthy habit shifts or timely doctor appointments  |
+|  • Future Product Blueprint: Findings will inform how  |
+|    Apple designs safe, clinically validated health AI  |
++--------------------------------------------------------+
+Source: Apple Newsroom Dispatches, HLTH 2026 Conference Proceedings (Las Vegas, NV), OpenEvidence Clinical Communications.
+© 2026 Nevada Globe. All Rights Reserved.
+- Assembly Democrats Select Elaine Marzola as Speaker-Designate as Federal Prosecutors Signal Death Penalty Pursuit in Driveway Carjacking Case - November 16, 2026
+- Apple and OpenEvidence Launch 200,000-Person Conversational Health AI Study and App at HLTH 2026 in Las Vegas - November 16, 2026
+- Suspect Arrested in East Valley Hit-and-Run Crash That Killed 21-Year-Old Woman and Left Man Critically Injured - November 16, 2026

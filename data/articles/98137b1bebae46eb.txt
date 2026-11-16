@@ -1,0 +1,33 @@
+URL: https://www.eurekalert.org/news-releases/1151976
+TITLE: International review sets out diagnosis and management of pancreatic SPN
+OUTLET: EurekAlert!
+
+Solid pseudopapillary neoplasm (SPN) of the pancreas is a low-grade malignant tumor, accounting for 0.2% to 2.7% of all pancreatic tumors. Due to its rarity, most available evidence comes from case series and cohort studies.
+SPN occurs predominantly in young females, with a median age of 27 to 31 years and a male-to-female ratio of about 1:4 to 1:8. It is often asymptomatic but may present as an abdominal mass causing abdominal pain. Computed tomography (CT) and magnetic resonance imaging (MRI) typically show a well-circumscribed mass with both solid and cystic components. Pathological diagnosis is the gold standard, combining histomorphology with immunohistochemistry including positive nuclear β-catenin, CD10 and progesterone receptor; CTNNB1 mutations are present in over 95% of cases, mostly in exon 3.
+SPN is currently considered insensitive to chemotherapy and radiotherapy, and complete surgical resection is crucial for cure. The review, published in Volume 9, Issue 3 of the Journal of Pancreatology in September 2026, recommends radical surgery for resectable cases, aiming for negative surgical margins (R0 resection) while avoiding tumor capsule rupture using a no-touch isolation technique. Organ-preserving procedures, such as enucleation and spleen-preserving distal pancreatectomy, are viable in experienced high-volume centers. Reported lymph node metastasis rates are 0% for tumors of 0 to 2 cm, 0.5% for 2 to 4 cm and 8.9% for tumors larger than 4 cm, so routine lymph node dissection is not recommended in patients without metastatic evidence and with tumors smaller than 4 cm. Routine adjuvant therapy after R0 resection is not recommended.
+The 10-year survival rate exceeds 95%, and even patients with unresectable SPN can achieve long-term survival with the tumor. Reported prognostic risk factors include tumor diameter over 5 cm, lymphovascular invasion, Ki-67 of 3% or higher and intraoperative rupture. Follow-up with contrast-enhanced CT or MRI every 6 months for the first 3 years and annually for the subsequent 2 years is recommended, with imaging every 3 months for the first 3 years in tumors larger than 5 cm.
+***
+Reference 
+DOI: 10.1097/JP9.0000000000000257 
+About Journal of Pancreatology 
+Journal of Pancreatology (The JP) is an international, peer-reviewed, open-access medical journal focusing on pancreatic diseases. The JP is the official journal of the Chinese Association of Pancreatology (CAP), sponsored by the Chinese Medical Association (CMA), and published quarterly in English both in print and online issues by Chinese Medical Journals Publishing House Co., Ltd. The JP is distributed globally by Lippincott Williams & Wilkins. 
+Why Publish with the JP
+- Focus on pancreatic disease-related epidemiology, clinical, translational research, and frontiers.
+- The journal has been indexed by ESCI, DOAJ, Scopus, Embase, CSTPC, etc.
+- Rapid decision-making: First decision within 14 days, online publication within 2 months.
+- Fully open access and free overseas media promotion (including X, LinkedIn, EurekAlert, etc).
+Website: https://www.ovid.com/jnls/jpancreatology
+Author Introduction 
+Guopei Luo, Department of Pancreatic Surgery, Fudan University Shanghai Cancer Center, No. 270, Dong’An Rd, Xuhui District, Shanghai 200032, China. E-mail: luoguopei@fudanpci.org 
+Journal
+Journal of Pancreatology
+Method of Research
+Literature review
+Subject of Research
+Not applicable
+Article Title
+Solid pseudopapillary neoplasm of the pancreas
+Article Publication Date
+1-Sep-2026
+COI Statement
+The authors declare no conflicts of interest.
