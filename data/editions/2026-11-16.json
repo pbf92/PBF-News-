@@ -397,7 +397,36 @@
  "close_threads": [],
  "expand": null,
  "generated_at": "2026-11-16T13:30:04Z",
- "updates": [],
+ "updates": [
+  {
+   "desk": "world",
+   "headline": "Trump says he wouldn't mind Huang returning to Nvidia as an ally campaign passes 175,000 signatures",
+   "why": "The White House has now weighed in on who runs Nvidia on the eve of its first results without Huang, which turns a boardroom question into a political one.",
+   "points": [
+    "Trump said he would not mind seeing Huang return as Nvidia CEO (BBC, 16 Nov).",
+    "An open letter, 'Stand with Jensen', urging the board to reinstate Huang while an independent probe runs has 175,000+ signatures, Elon Musk and Tim Sweeney among them.",
+    "The BBC understands reinstatement is unlikely while Nvidia's internal investigations continue; the FBI is also investigating, and Huang has agreed to testify to Congress.",
+    "The scandal has opened Treasury–Commerce tension over Nvidia chip shipments to Megaspeed, Alice Huang's former firm, and whether they reached China."
+   ],
+   "next": "Nvidia results Tue 17 Nov after the close, the first without Huang; watch for any board statement on CEO succession.",
+   "confidence": "reported",
+   "region": "US",
+   "impact": "high",
+   "thread": {
+    "id": "nvidia-earnings-nov",
+    "name": "Nvidia earnings 17 Nov",
+    "status": "changed",
+    "day": 2
+   },
+   "sources": [
+    {
+     "name": "BBC News",
+     "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go"
+    }
+   ],
+   "time": "12:12 PM"
+  }
+ ],
  "status": {
   "story": 5,
   "quiet": 5,
