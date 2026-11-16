@@ -16,7 +16,7 @@ check). Run everything from the repo root.
 date -u +%Y-%m-%dT%H:%M:%SZ > data/requests/fetch.txt
 git add data/requests/fetch.txt && git commit -qm "Request fetch" && git push -q
 ```
-Then poll for up to 5 minutes: every 30 s run `git pull -q --rebase` and check
+Then poll for up to 12 minutes (the fetch now reads full articles too): every 30 s run `git pull -q --rebase` and check
 whether `data/inbox/health.json` → `updated` is later than the time you wrote.
 If it never updates, carry on with the inbox you have and set the edition
 `note` to "Headline fetch was late; desks leaned on web search."

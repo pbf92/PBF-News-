@@ -11,6 +11,9 @@ and writes:
   data/seen.json            dedupe memory (14 days)
 """
 import concurrent.futures as cf
+import threading
+import time
+import urllib.error
 import hashlib
 import html
 import json
@@ -57,6 +60,29 @@ def get(url):
         return r.read()
 
 
+_GN_LOCK = threading.Lock()
+_GN_LAST = [0.0]
+GN_GAP = 1.5            # seconds between Google News requests (it throttles bursts)
+GN_BACKOFF = (8, 25, 60)
+
+
+def gn_get(url):
+    """Google News, one request at a time, politely spaced, retrying when it pushes back."""
+    with _GN_LOCK:
+        for attempt in range(len(GN_BACKOFF) + 1):
+            wait = GN_GAP - (time.time() - _GN_LAST[0])
+            if wait > 0:
+                time.sleep(wait)
+            try:
+                return get(url)
+            except urllib.error.HTTPError as exc:
+                if exc.code not in (429, 503) or attempt == len(GN_BACKOFF):
+                    raise
+                time.sleep(GN_BACKOFF[attempt])
+            finally:
+                _GN_LAST[0] = time.time()
+
+
 def gn_url(query, hours):
     days = max(1, round(hours / 24))
     q = f"{query} when:{days}d"
@@ -73,7 +99,7 @@ def entry_time(e):
 
 
 def fetch_feed(src, url, kind, cutoff):
-    raw = get(url)
+    raw = gn_get(url) if kind == "gn" else get(url)
     parsed = feedparser.parse(raw)
     if parsed.bozo and not parsed.entries:
         raise ValueError(f"unparseable feed ({parsed.bozo_exception.__class__.__name__})")
@@ -203,6 +229,86 @@ def key_for(item):
     return hashlib.sha1(basis.encode()).hexdigest()[:16]
 
 
+ARTICLES = DATA / "articles"
+ARTICLE_PER_DESK = 10
+ARTICLE_TOTAL = 90
+ARTICLE_BUDGET_S = 420   # stop enriching after 7 minutes so the paper is never late
+
+
+def resolve_link(item):
+    link = item.get("link", "")
+    if "news.google.com" not in link:
+        return link
+    from googlenewsdecoder import gnewsdecoder
+    with _GN_LOCK:  # same politeness as the searches
+        wait = GN_GAP - (time.time() - _GN_LAST[0])
+        if wait > 0:
+            time.sleep(wait)
+        try:
+            res = gnewsdecoder(link, timeout=15)
+        finally:
+            _GN_LAST[0] = time.time()
+    return res.get("decoded_url") if res.get("status") else None
+
+
+def extract_text(url):
+    import trafilatura
+    html_doc = get(url).decode("utf-8", "replace")
+    text = trafilatura.extract(html_doc, include_comments=False, include_tables=False, favor_precision=True)
+    return (text or "").strip()
+
+
+def enrich_articles(items, now):
+    """Save the full text of the most promising new headlines so desk workers can read and confirm them.
+
+    Picks tier-1 first, then newest, a few per desk. Paywalled pages usually yield nothing; that is fine.
+    """
+    ARTICLES.mkdir(parents=True, exist_ok=True)
+    for f in ARTICLES.glob("*.txt"):  # keep three days
+        if f.stat().st_mtime < time.time() - 3 * 86400:
+            f.unlink()
+    by_desk = {}
+    for i in sorted(items, key=lambda i: (i.get("tier") or 3, -(datetime.fromisoformat(i["published"].replace("Z", "+00:00")).timestamp() if i.get("published") else 0))):
+        if i.get("via") == "discord" or i.get("paywall"):
+            continue
+        by_desk.setdefault(i["desk"], [])
+        if len(by_desk[i["desk"]]) < ARTICLE_PER_DESK:
+            by_desk[i["desk"]].append(i)
+    picks = [i for d in by_desk.values() for i in d][:ARTICLE_TOTAL]
+    start = time.time()
+    resolved = []
+    for i in picks:  # decoding Google links is sequential and polite
+        if time.time() - start > ARTICLE_BUDGET_S / 2:
+            break
+        try:
+            url = resolve_link(i)
+        except Exception:  # noqa: BLE001
+            url = None
+        if url:
+            i["resolved_url"] = url
+            resolved.append(i)
+
+    def grab(i):
+        try:
+            text = extract_text(i["resolved_url"])
+        except Exception:  # noqa: BLE001
+            return None
+        if len(text) < 400:
+            return None
+        path = ARTICLES / f"{i['key']}.txt"
+        path.write_text(f"URL: {i['resolved_url']}\nTITLE: {i['title']}\nOUTLET: {i['outlet']}\n\n{text[:12000]}")
+        return i, path
+
+    got = 0
+    with cf.ThreadPoolExecutor(max_workers=8) as pool:
+        for res in pool.map(grab, resolved):
+            if res and time.time() - start < ARTICLE_BUDGET_S:
+                i, path = res
+                i["article"] = str(path.relative_to(ROOT))
+                got += 1
+    print(f"articles: {len(picks)} picked, {len(resolved)} links resolved, {got} full texts saved")
+
+
 def track_outlets(items, now):
     """Daily tally of which outlets keep surfacing, for the bi-weekly source-candidates review."""
     path = DATA / "outlets.json"
@@ -254,6 +360,16 @@ def main():
         for f in cf.as_completed(futs):
             results.append(f.result())
 
+    failed = [r for r in results if r["errors"]]
+    if len(failed) > 0.25 * len(results):
+        print(f"{len(failed)}/{len(results)} sources failed; waiting 2 minutes and retrying them once")
+        time.sleep(120)
+        retry_ids = {r["id"] for r in failed}
+        results = [r for r in results if r["id"] not in retry_ids]
+        with cf.ThreadPoolExecutor(max_workers=6) as pool:
+            for f in cf.as_completed([pool.submit(run_source, meta[i], cutoff, hours) for i in retry_ids]):
+                results.append(f.result())
+
     disc = fetch_discord(cutoff)
     if disc["configured"]:
         results.append(disc)
@@ -285,6 +401,7 @@ def main():
                        "fetched": len(r["items"]), "new": fresh, "errors": r["errors"]})
 
     track_outlets(new_items, now)
+    enrich_articles(new_items, now)
     all_items = old_items + new_items
     INBOX.mkdir(parents=True, exist_ok=True)
     (INBOX / "rolling.json").write_text(json.dumps(

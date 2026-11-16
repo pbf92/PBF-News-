@@ -1,108 +1,776 @@
 {
-  "version": 1,
-  "note": "Pete's approved source list (from the PIJ Source List sheet, 15 Nov 2026). 'feeds' are RSS/Atom URLs. 'gn' are Google News RSS searches, used where a source has no public feed. 'status' Unsure sources are fetched but flagged so the editor treats them as tip-offs only.",
-  "desks": {
-    "united":   {"name": "Manchester United & Football", "short": "United"},
-    "world":    {"name": "World Affairs & Politics", "short": "World"},
-    "markets":  {"name": "Markets calendar", "short": "Markets"},
-    "prop":     {"name": "Futures & Prop Firms", "short": "Prop firms"},
-    "tradetech":{"name": "Trading Technology", "short": "Trading tech"},
-    "ai":       {"name": "Artificial Intelligence", "short": "AI"},
-    "business": {"name": "Business & E-commerce", "short": "Business"},
-    "faith":    {"name": "Christianity & Theology", "short": "Faith"},
-    "health":   {"name": "Health & Wellness", "short": "Health"},
-    "gaming":   {"name": "Gaming & PlayStation", "short": "Gaming"},
-    "expand":   {"name": "Expand My World", "short": "Expand"}
+ "version": 1,
+ "note": "Pete's approved source list (from the PIJ Source List sheet, 15 Nov 2026). 'feeds' are RSS/Atom URLs. 'gn' are Google News RSS searches, used where a source has no public feed. 'status' Unsure sources are fetched but flagged so the editor treats them as tip-offs only. Watchlist firms with no own entry for searching are covered by the combined 'propwatch' search (Google News throttles many separate searches).",
+ "desks": {
+  "united": {
+   "name": "Manchester United & Football",
+   "short": "United"
   },
-  "sources": [
-    {"id": "reuters", "desk": "world", "name": "Reuters", "tier": 1, "lean": "Center (AllSides, checked)", "gn": ["site:reuters.com world", "site:reuters.com politics", "site:reuters.com markets"]},
-    {"id": "ap", "desk": "world", "name": "AP News", "tier": 1, "lean": "Lean Left (AllSides, checked)", "gn": ["site:apnews.com politics", "site:apnews.com world"]},
-    {"id": "fed", "desk": "world", "name": "Federal Reserve", "tier": 1, "lean": "official", "feeds": ["https://www.federalreserve.gov/feeds/press_all.xml"]},
-    {"id": "bls", "desk": "world", "name": "BLS", "tier": 1, "lean": "official", "feeds": ["https://www.bls.gov/feed/bls_latest.rss"]},
-    {"id": "boe", "desk": "world", "name": "Bank of England", "tier": 1, "lean": "official", "feeds": ["https://www.bankofengland.co.uk/rss/news"]},
-    {"id": "ons", "desk": "world", "name": "ONS / OBR", "tier": 1, "lean": "official", "gn": ["site:ons.gov.uk", "site:obr.uk"]},
-    {"id": "rba", "desk": "world", "name": "RBA", "tier": 1, "lean": "official", "feeds": ["https://www.rba.gov.au/rss/rss-cb-media-releases.xml"]},
-    {"id": "abs", "desk": "world", "name": "ABS", "tier": 1, "lean": "official", "gn": ["site:abs.gov.au"]},
-    {"id": "polls", "desk": "world", "name": "Polls (Reuters/Ipsos, YouGov, Gallup)", "tier": 1, "lean": "official", "gn": ["Reuters/Ipsos poll", "YouGov poll", "Gallup poll"]},
-    {"id": "bbc", "desk": "world", "name": "BBC News", "tier": 2, "lean": "~Center", "feeds": ["https://feeds.bbci.co.uk/news/world/rss.xml", "https://feeds.bbci.co.uk/news/uk/rss.xml", "https://feeds.bbci.co.uk/news/business/rss.xml"]},
-    {"id": "abcau", "desk": "world", "name": "ABC News (Australia)", "tier": 2, "lean": "~Lean Left", "feeds": ["https://www.abc.net.au/news/feed/51120/rss.xml"]},
-    {"id": "thehill", "desk": "world", "name": "The Hill", "tier": 2, "lean": "~Center", "feeds": ["https://thehill.com/feed/"]},
-    {"id": "wsj", "desk": "world", "name": "Wall Street Journal", "tier": 2, "lean": "~Center", "paywall": true, "feeds": ["https://feeds.a.dj.com/rss/RSSWorldNews.xml", "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml"]},
-    {"id": "natreview", "desk": "world", "name": "National Review", "tier": 3, "side": "R", "lean": "~Right", "feeds": ["https://www.nationalreview.com/feed/"]},
-    {"id": "atlantic", "desk": "world", "name": "The Atlantic", "tier": 3, "side": "L", "lean": "Left (AllSides, checked)", "feeds": ["https://www.theatlantic.com/feed/all/"]},
-    {"id": "telegraph", "desk": "world", "name": "The Telegraph", "tier": 3, "side": "R", "lean": "~Lean Right", "paywall": true, "feeds": ["https://www.telegraph.co.uk/rss.xml"]},
-    {"id": "guardian", "desk": "world", "name": "The Guardian", "tier": 3, "side": "L", "lean": "~Left", "feeds": ["https://www.theguardian.com/uk-news/rss", "https://www.theguardian.com/us-news/rss", "https://www.theguardian.com/australia-news/rss"]},
-    {"id": "australian", "desk": "world", "name": "The Australian", "tier": 3, "side": "R", "lean": "~Lean Right", "paywall": true, "gn": ["site:theaustralian.com.au"]},
-    {"id": "smh", "desk": "world", "name": "Sydney Morning Herald", "tier": 3, "side": "L", "lean": "~Lean Left", "feeds": ["https://www.smh.com.au/rss/feed.xml"]},
-
-    {"id": "blscal", "desk": "markets", "name": "BLS release schedule", "tier": 1, "lean": "official", "pages": ["https://www.bls.gov/schedule/"], "gn": ["BLS release schedule this week"]},
-    {"id": "fedcal", "desk": "markets", "name": "Federal Reserve calendar", "tier": 1, "lean": "official", "pages": ["https://www.federalreserve.gov/newsevents/calendar.htm"]},
-    {"id": "cme", "desk": "markets", "name": "CME Group notices", "tier": 1, "lean": "official", "gn": ["site:cmegroup.com Nasdaq-100 futures"]},
-    {"id": "earnings", "desk": "markets", "name": "Earnings dates", "tier": 1, "lean": "official", "gn": ["Nvidia earnings date", "earnings this week Nasdaq"]},
-
-    {"id": "manutd", "desk": "united", "name": "Manchester United official", "tier": 1, "lean": "official", "gn": ["site:manutd.com"]},
-    {"id": "pl", "desk": "united", "name": "Premier League official", "tier": 1, "lean": "official", "gn": ["site:premierleague.com Manchester United"]},
-    {"id": "bbcsport", "desk": "united", "name": "BBC Sport", "tier": 2, "lean": "~Center", "feeds": ["https://feeds.bbci.co.uk/sport/football/teams/manchester-united/rss.xml", "https://feeds.bbci.co.uk/sport/football/rss.xml"]},
-    {"id": "athletic", "desk": "united", "name": "The Athletic", "tier": 2, "paywall": true, "gn": ["The Athletic Manchester United"]},
-    {"id": "guardianmu", "desk": "united", "name": "The Guardian football", "tier": 2, "feeds": ["https://www.theguardian.com/football/manchester-united/rss"]},
-    {"id": "men", "desk": "united", "name": "Manchester Evening News", "tier": 2, "status": "Unsure", "gn": ["site:manchestereveningnews.co.uk Manchester United"]},
-
-    {"id": "lucid", "desk": "prop", "name": "Lucid Trading", "tier": 1, "gn": ["\"Lucid Trading\" prop firm"]},
-    {"id": "topstep", "desk": "prop", "name": "Topstep", "tier": 1, "gn": ["Topstep"]},
-    {"id": "tradeify", "desk": "prop", "name": "Tradeify", "tier": 1, "gn": ["Tradeify"]},
-    {"id": "tpt", "desk": "prop", "name": "Take Profit Trader", "tier": 1, "gn": ["\"Take Profit Trader\""]},
-    {"id": "apex", "desk": "prop", "name": "Apex Trader Funding", "tier": 1, "gn": ["\"Apex Trader Funding\""]},
-    {"id": "mff", "desk": "prop", "name": "MyFundedFutures", "tier": 1, "gn": ["MyFundedFutures"]},
-    {"id": "futureselite", "desk": "prop", "name": "FuturesElite", "tier": 1, "gn": ["\"FuturesElite\" prop firm"]},
-    {"id": "tradesea", "desk": "prop", "name": "Tradesea", "tier": 1, "gn": ["Tradesea futures"]},
-    {"id": "propindustry", "desk": "prop", "name": "Prop industry (aggregators)", "tier": 2, "status": "Unsure", "gn": ["futures prop firm rules change"]},
-
-    {"id": "tradingview", "desk": "tradetech", "name": "TradingView blog", "tier": 1, "gn": ["site:tradingview.com/blog", "TradingView new feature"]},
-    {"id": "quantower", "desk": "tradetech", "name": "Quantower", "tier": 1, "gn": ["Quantower"]},
-    {"id": "pinescript", "desk": "tradetech", "name": "Pine Script", "tier": 1, "gn": ["\"Pine Script\""]},
-
-    {"id": "anthropic", "desk": "ai", "name": "Anthropic", "tier": 1, "gn": ["site:anthropic.com", "Anthropic Claude"]},
-    {"id": "openai", "desk": "ai", "name": "OpenAI", "tier": 1, "feeds": ["https://openai.com/news/rss.xml"]},
-    {"id": "google", "desk": "ai", "name": "Google DeepMind / Google AI", "tier": 1, "feeds": ["https://deepmind.google/blog/rss.xml", "https://blog.google/technology/ai/rss/"]},
-    {"id": "arxiv", "desk": "ai", "name": "arXiv cs.AI", "tier": 1, "max": 10, "feeds": ["https://rss.arxiv.org/rss/cs.AI"]},
-    {"id": "willison", "desk": "ai", "name": "Simon Willison", "tier": 2, "feeds": ["https://simonwillison.net/atom/everything/"]},
-    {"id": "ars", "desk": "ai", "name": "Ars Technica", "tier": 2, "lean": "~Lean Left", "feeds": ["https://feeds.arstechnica.com/arstechnica/index"]},
-    {"id": "verge", "desk": "ai", "name": "The Verge", "tier": 2, "lean": "~Lean Left", "feeds": ["https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"]},
-    {"id": "information", "desk": "ai", "name": "The Information", "tier": 2, "status": "Unsure", "paywall": true, "gn": ["site:theinformation.com AI"]},
-
-    {"id": "meta", "desk": "business", "name": "Meta for Business", "tier": 1, "gn": ["Meta ads update advertisers", "site:facebook.com/business/news"]},
-    {"id": "shopify", "desk": "business", "name": "Shopify", "tier": 1, "gn": ["Shopify announces"]},
-    {"id": "modernretail", "desk": "business", "name": "Modern Retail", "tier": 2, "feeds": ["https://www.modernretail.co/feed/"]},
-    {"id": "marketingbrew", "desk": "business", "name": "Marketing Brew", "tier": 2, "gn": ["site:marketingbrew.com"]},
-    {"id": "ppcland", "desk": "business", "name": "PPC Land / Search Engine Land", "tier": 2, "status": "Unsure", "feeds": ["https://searchengineland.com/feed"], "gn": ["site:ppc.land Meta"]},
-
-    {"id": "iaa", "desk": "faith", "name": "Israel Antiquities Authority", "tier": 1, "gn": ["\"Israel Antiquities Authority\""]},
-    {"id": "bas", "desk": "faith", "name": "Biblical Archaeology Society", "tier": 2, "feeds": ["https://www.biblicalarchaeology.org/feed/"]},
-    {"id": "ct", "desk": "faith", "name": "Christianity Today", "tier": 2, "feeds": ["https://www.christianitytoday.com/feed/"]},
-    {"id": "rns", "desk": "faith", "name": "Religion News Service", "tier": 2, "feeds": ["https://religionnews.com/feed/"]},
-    {"id": "premier", "desk": "faith", "name": "Premier Christian News", "tier": 2, "gn": ["site:premierchristian.news"]},
-    {"id": "charisma", "desk": "faith", "name": "Charisma News", "tier": 3, "status": "Unsure", "gn": ["site:charismanews.com"]},
-
-    {"id": "journals", "desk": "health", "name": "NEJM / JAMA / Lancet / BMJ", "tier": 1, "gn": ["NEJM study", "JAMA study", "Lancet study", "BMJ study"]},
-    {"id": "cochrane", "desk": "health", "name": "Cochrane", "tier": 1, "gn": ["Cochrane review"]},
-    {"id": "eurekalert", "desk": "health", "name": "EurekAlert", "tier": 2, "gn": ["site:eurekalert.org health"]},
-    {"id": "stat", "desk": "health", "name": "STAT News", "tier": 2, "feeds": ["https://www.statnews.com/feed/"]},
-    {"id": "examine", "desk": "health", "name": "Examine.com", "tier": 2, "gn": ["site:examine.com"]},
-
-    {"id": "psblog", "desk": "gaming", "name": "PlayStation Blog", "tier": 1, "feeds": ["https://blog.playstation.com/feed/"]},
-    {"id": "xboxwire", "desk": "gaming", "name": "Xbox Wire", "tier": 1, "feeds": ["https://news.xbox.com/en-us/feed/"]},
-    {"id": "rockstar", "desk": "gaming", "name": "Rockstar Newswire", "tier": 1, "gn": ["Rockstar Games GTA 6"]},
-    {"id": "df", "desk": "gaming", "name": "Digital Foundry", "tier": 2, "gn": ["\"Digital Foundry\""]},
-    {"id": "vgc", "desk": "gaming", "name": "VGC / IGN", "tier": 2, "feeds": ["https://www.videogameschronicle.com/feed/", "https://feeds.ign.com/ign/all"]},
-
-    {"id": "quanta", "desk": "expand", "name": "Quanta Magazine", "tier": 2, "feeds": ["https://www.quantamagazine.org/feed/"]},
-    {"id": "nature", "desk": "expand", "name": "Nature News", "tier": 1, "max": 10, "feeds": ["https://www.nature.com/nature.rss"]},
-    {"id": "aeon", "desk": "expand", "name": "Aeon", "tier": 2, "feeds": ["https://aeon.co/feed.rss"]},
-    {"id": "mittr", "desk": "expand", "name": "MIT Technology Review", "tier": 2, "status": "Unsure", "feeds": ["https://www.technologyreview.com/feed/"]}
-  ],
-  "watch_topics": [
-    {"desk": "united", "gn": ["Manchester United", "Pochettino Manchester United"]},
-    {"desk": "gaming", "gn": ["GTA 6", "PS5 Pro", "PS6", "Warzone", "EA Sports FC"]},
-    {"desk": "ai", "gn": ["AI agents", "Gemini Google AI model"]}
-  ]
+  "world": {
+   "name": "World Affairs & Politics",
+   "short": "World"
+  },
+  "markets": {
+   "name": "Markets calendar",
+   "short": "Markets"
+  },
+  "prop": {
+   "name": "Futures & Prop Firms",
+   "short": "Prop firms"
+  },
+  "tradetech": {
+   "name": "Trading Technology",
+   "short": "Trading tech"
+  },
+  "ai": {
+   "name": "Artificial Intelligence",
+   "short": "AI"
+  },
+  "business": {
+   "name": "Business & E-commerce",
+   "short": "Business"
+  },
+  "faith": {
+   "name": "Christianity & Theology",
+   "short": "Faith"
+  },
+  "health": {
+   "name": "Health & Wellness",
+   "short": "Health"
+  },
+  "gaming": {
+   "name": "Gaming & PlayStation",
+   "short": "Gaming"
+  },
+  "expand": {
+   "name": "Expand My World",
+   "short": "Expand"
+  }
+ },
+ "sources": [
+  {
+   "id": "reuters",
+   "desk": "world",
+   "name": "Reuters",
+   "tier": 1,
+   "lean": "Center (AllSides, checked)",
+   "gn": [
+    "site:reuters.com"
+   ]
+  },
+  {
+   "id": "ap",
+   "desk": "world",
+   "name": "AP News",
+   "tier": 1,
+   "lean": "Lean Left (AllSides, checked)",
+   "gn": [
+    "site:apnews.com"
+   ]
+  },
+  {
+   "id": "fed",
+   "desk": "world",
+   "name": "Federal Reserve",
+   "tier": 1,
+   "lean": "official",
+   "feeds": [
+    "https://www.federalreserve.gov/feeds/press_all.xml"
+   ]
+  },
+  {
+   "id": "bls",
+   "desk": "world",
+   "name": "BLS",
+   "tier": 1,
+   "lean": "official",
+   "feeds": [
+    "https://www.bls.gov/feed/bls_latest.rss"
+   ]
+  },
+  {
+   "id": "boe",
+   "desk": "world",
+   "name": "Bank of England",
+   "tier": 1,
+   "lean": "official",
+   "feeds": [
+    "https://www.bankofengland.co.uk/rss/news"
+   ]
+  },
+  {
+   "id": "ons",
+   "desk": "world",
+   "name": "ONS / OBR",
+   "tier": 1,
+   "lean": "official",
+   "gn": [
+    "site:ons.gov.uk OR site:obr.uk"
+   ]
+  },
+  {
+   "id": "rba",
+   "desk": "world",
+   "name": "RBA",
+   "tier": 1,
+   "lean": "official",
+   "feeds": [
+    "https://www.rba.gov.au/rss/rss-cb-media-releases.xml"
+   ]
+  },
+  {
+   "id": "abs",
+   "desk": "world",
+   "name": "ABS",
+   "tier": 1,
+   "lean": "official",
+   "gn": [
+    "site:abs.gov.au"
+   ]
+  },
+  {
+   "id": "polls",
+   "desk": "world",
+   "name": "Polls (Reuters/Ipsos, YouGov, Gallup)",
+   "tier": 1,
+   "lean": "official",
+   "gn": [
+    "poll (Reuters/Ipsos OR YouGov OR Gallup)"
+   ]
+  },
+  {
+   "id": "bbc",
+   "desk": "world",
+   "name": "BBC News",
+   "tier": 2,
+   "lean": "~Center",
+   "feeds": [
+    "https://feeds.bbci.co.uk/news/world/rss.xml",
+    "https://feeds.bbci.co.uk/news/uk/rss.xml",
+    "https://feeds.bbci.co.uk/news/business/rss.xml"
+   ]
+  },
+  {
+   "id": "abcau",
+   "desk": "world",
+   "name": "ABC News (Australia)",
+   "tier": 2,
+   "lean": "~Lean Left",
+   "feeds": [
+    "https://www.abc.net.au/news/feed/51120/rss.xml"
+   ]
+  },
+  {
+   "id": "thehill",
+   "desk": "world",
+   "name": "The Hill",
+   "tier": 2,
+   "lean": "~Center",
+   "feeds": [
+    "https://thehill.com/feed/"
+   ]
+  },
+  {
+   "id": "wsj",
+   "desk": "world",
+   "name": "Wall Street Journal",
+   "tier": 2,
+   "lean": "~Center",
+   "paywall": true,
+   "feeds": [
+    "https://feeds.a.dj.com/rss/RSSWorldNews.xml",
+    "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml"
+   ]
+  },
+  {
+   "id": "natreview",
+   "desk": "world",
+   "name": "National Review",
+   "tier": 3,
+   "side": "R",
+   "lean": "~Right",
+   "feeds": [
+    "https://www.nationalreview.com/feed/"
+   ]
+  },
+  {
+   "id": "atlantic",
+   "desk": "world",
+   "name": "The Atlantic",
+   "tier": 3,
+   "side": "L",
+   "lean": "Left (AllSides, checked)",
+   "feeds": [
+    "https://www.theatlantic.com/feed/all/"
+   ]
+  },
+  {
+   "id": "telegraph",
+   "desk": "world",
+   "name": "The Telegraph",
+   "tier": 3,
+   "side": "R",
+   "lean": "~Lean Right",
+   "paywall": true,
+   "feeds": [
+    "https://www.telegraph.co.uk/rss.xml"
+   ]
+  },
+  {
+   "id": "guardian",
+   "desk": "world",
+   "name": "The Guardian",
+   "tier": 3,
+   "side": "L",
+   "lean": "~Left",
+   "feeds": [
+    "https://www.theguardian.com/uk-news/rss",
+    "https://www.theguardian.com/us-news/rss",
+    "https://www.theguardian.com/australia-news/rss"
+   ]
+  },
+  {
+   "id": "australian",
+   "desk": "world",
+   "name": "The Australian",
+   "tier": 3,
+   "side": "R",
+   "lean": "~Lean Right",
+   "paywall": true,
+   "gn": [
+    "site:theaustralian.com.au"
+   ]
+  },
+  {
+   "id": "smh",
+   "desk": "world",
+   "name": "Sydney Morning Herald",
+   "tier": 3,
+   "side": "L",
+   "lean": "~Lean Left",
+   "feeds": [
+    "https://www.smh.com.au/rss/feed.xml"
+   ]
+  },
+  {
+   "id": "blscal",
+   "desk": "markets",
+   "name": "BLS release schedule",
+   "tier": 1,
+   "lean": "official",
+   "pages": [
+    "https://www.bls.gov/schedule/"
+   ],
+   "gn": [
+    "BLS release schedule this week"
+   ]
+  },
+  {
+   "id": "fedcal",
+   "desk": "markets",
+   "name": "Federal Reserve calendar",
+   "tier": 1,
+   "lean": "official",
+   "pages": [
+    "https://www.federalreserve.gov/newsevents/calendar.htm"
+   ]
+  },
+  {
+   "id": "cme",
+   "desk": "markets",
+   "name": "CME Group notices",
+   "tier": 1,
+   "lean": "official",
+   "gn": [
+    "site:cmegroup.com Nasdaq-100 futures"
+   ]
+  },
+  {
+   "id": "earnings",
+   "desk": "markets",
+   "name": "Earnings dates",
+   "tier": 1,
+   "lean": "official",
+   "gn": [
+    "earnings this week Nasdaq Nvidia"
+   ]
+  },
+  {
+   "id": "manutd",
+   "desk": "united",
+   "name": "Manchester United official",
+   "tier": 1,
+   "lean": "official",
+   "gn": [
+    "site:manutd.com"
+   ]
+  },
+  {
+   "id": "bbcsport",
+   "desk": "united",
+   "name": "BBC Sport",
+   "tier": 2,
+   "lean": "~Center",
+   "feeds": [
+    "https://feeds.bbci.co.uk/sport/football/teams/manchester-united/rss.xml",
+    "https://feeds.bbci.co.uk/sport/football/rss.xml"
+   ]
+  },
+  {
+   "id": "athletic",
+   "desk": "united",
+   "name": "The Athletic",
+   "tier": 2,
+   "paywall": true,
+   "gn": [
+    "The Athletic Manchester United"
+   ]
+  },
+  {
+   "id": "guardianmu",
+   "desk": "united",
+   "name": "The Guardian football",
+   "tier": 2,
+   "feeds": [
+    "https://www.theguardian.com/football/manchester-united/rss"
+   ]
+  },
+  {
+   "id": "men",
+   "desk": "united",
+   "name": "Manchester Evening News",
+   "tier": 2,
+   "status": "Unsure",
+   "gn": [
+    "site:manchestereveningnews.co.uk Manchester United"
+   ]
+  },
+  {
+   "id": "lucid",
+   "desk": "prop",
+   "name": "Lucid Trading",
+   "tier": 1
+  },
+  {
+   "id": "topstep",
+   "desk": "prop",
+   "name": "Topstep",
+   "tier": 1
+  },
+  {
+   "id": "tradeify",
+   "desk": "prop",
+   "name": "Tradeify",
+   "tier": 1
+  },
+  {
+   "id": "tpt",
+   "desk": "prop",
+   "name": "Take Profit Trader",
+   "tier": 1
+  },
+  {
+   "id": "apex",
+   "desk": "prop",
+   "name": "Apex Trader Funding",
+   "tier": 1
+  },
+  {
+   "id": "mff",
+   "desk": "prop",
+   "name": "MyFundedFutures",
+   "tier": 1
+  },
+  {
+   "id": "futureselite",
+   "desk": "prop",
+   "name": "FuturesElite",
+   "tier": 1
+  },
+  {
+   "id": "tradesea",
+   "desk": "prop",
+   "name": "Tradesea",
+   "tier": 1
+  },
+  {
+   "id": "propindustry",
+   "desk": "prop",
+   "name": "Prop industry (aggregators)",
+   "tier": 2,
+   "status": "Unsure",
+   "gn": [
+    "futures prop firm rules change"
+   ]
+  },
+  {
+   "id": "tradingview",
+   "desk": "tradetech",
+   "name": "TradingView blog",
+   "tier": 1
+  },
+  {
+   "id": "quantower",
+   "desk": "tradetech",
+   "name": "Quantower",
+   "tier": 1
+  },
+  {
+   "id": "pinescript",
+   "desk": "tradetech",
+   "name": "Pine Script",
+   "tier": 1
+  },
+  {
+   "id": "anthropic",
+   "desk": "ai",
+   "name": "Anthropic",
+   "tier": 1,
+   "gn": [
+    "Anthropic Claude"
+   ]
+  },
+  {
+   "id": "openai",
+   "desk": "ai",
+   "name": "OpenAI",
+   "tier": 1,
+   "feeds": [
+    "https://openai.com/news/rss.xml"
+   ]
+  },
+  {
+   "id": "google",
+   "desk": "ai",
+   "name": "Google DeepMind / Google AI",
+   "tier": 1,
+   "feeds": [
+    "https://deepmind.google/blog/rss.xml",
+    "https://blog.google/technology/ai/rss/"
+   ]
+  },
+  {
+   "id": "arxiv",
+   "desk": "ai",
+   "name": "arXiv cs.AI",
+   "tier": 1,
+   "max": 10,
+   "feeds": [
+    "https://rss.arxiv.org/rss/cs.AI"
+   ]
+  },
+  {
+   "id": "willison",
+   "desk": "ai",
+   "name": "Simon Willison",
+   "tier": 2,
+   "feeds": [
+    "https://simonwillison.net/atom/everything/"
+   ]
+  },
+  {
+   "id": "ars",
+   "desk": "ai",
+   "name": "Ars Technica",
+   "tier": 2,
+   "lean": "~Lean Left",
+   "feeds": [
+    "https://feeds.arstechnica.com/arstechnica/index"
+   ]
+  },
+  {
+   "id": "verge",
+   "desk": "ai",
+   "name": "The Verge",
+   "tier": 2,
+   "lean": "~Lean Left",
+   "feeds": [
+    "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+   ]
+  },
+  {
+   "id": "information",
+   "desk": "ai",
+   "name": "The Information",
+   "tier": 2,
+   "status": "Unsure",
+   "paywall": true,
+   "gn": [
+    "site:theinformation.com AI"
+   ]
+  },
+  {
+   "id": "meta",
+   "desk": "business",
+   "name": "Meta for Business",
+   "tier": 1,
+   "gn": [
+    "Meta ads advertisers"
+   ]
+  },
+  {
+   "id": "shopify",
+   "desk": "business",
+   "name": "Shopify",
+   "tier": 1,
+   "gn": [
+    "Shopify announces"
+   ]
+  },
+  {
+   "id": "modernretail",
+   "desk": "business",
+   "name": "Modern Retail",
+   "tier": 2,
+   "feeds": [
+    "https://www.modernretail.co/feed/"
+   ]
+  },
+  {
+   "id": "marketingbrew",
+   "desk": "business",
+   "name": "Marketing Brew",
+   "tier": 2,
+   "gn": [
+    "site:marketingbrew.com"
+   ]
+  },
+  {
+   "id": "ppcland",
+   "desk": "business",
+   "name": "PPC Land / Search Engine Land",
+   "tier": 2,
+   "status": "Unsure",
+   "feeds": [
+    "https://searchengineland.com/feed"
+   ],
+   "gn": [
+    "site:ppc.land Meta"
+   ]
+  },
+  {
+   "id": "iaa",
+   "desk": "faith",
+   "name": "Israel Antiquities Authority",
+   "tier": 1,
+   "gn": [
+    "\"Israel Antiquities Authority\""
+   ]
+  },
+  {
+   "id": "bas",
+   "desk": "faith",
+   "name": "Biblical Archaeology Society",
+   "tier": 2,
+   "feeds": [
+    "https://www.biblicalarchaeology.org/feed/"
+   ]
+  },
+  {
+   "id": "ct",
+   "desk": "faith",
+   "name": "Christianity Today",
+   "tier": 2,
+   "feeds": [
+    "https://www.christianitytoday.com/feed/"
+   ]
+  },
+  {
+   "id": "rns",
+   "desk": "faith",
+   "name": "Religion News Service",
+   "tier": 2,
+   "feeds": [
+    "https://religionnews.com/feed/"
+   ]
+  },
+  {
+   "id": "premier",
+   "desk": "faith",
+   "name": "Premier Christian News",
+   "tier": 2,
+   "gn": [
+    "site:premierchristian.news"
+   ]
+  },
+  {
+   "id": "charisma",
+   "desk": "faith",
+   "name": "Charisma News",
+   "tier": 3,
+   "status": "Unsure",
+   "gn": [
+    "site:charismanews.com"
+   ]
+  },
+  {
+   "id": "journals",
+   "desk": "health",
+   "name": "NEJM / JAMA / Lancet / BMJ",
+   "tier": 1,
+   "gn": [
+    "study (NEJM OR JAMA OR Lancet OR BMJ)"
+   ]
+  },
+  {
+   "id": "cochrane",
+   "desk": "health",
+   "name": "Cochrane",
+   "tier": 1,
+   "gn": [
+    "Cochrane review"
+   ]
+  },
+  {
+   "id": "eurekalert",
+   "desk": "health",
+   "name": "EurekAlert",
+   "tier": 2,
+   "gn": [
+    "site:eurekalert.org health"
+   ]
+  },
+  {
+   "id": "stat",
+   "desk": "health",
+   "name": "STAT News",
+   "tier": 2,
+   "feeds": [
+    "https://www.statnews.com/feed/"
+   ]
+  },
+  {
+   "id": "examine",
+   "desk": "health",
+   "name": "Examine.com",
+   "tier": 2,
+   "gn": [
+    "site:examine.com"
+   ]
+  },
+  {
+   "id": "psblog",
+   "desk": "gaming",
+   "name": "PlayStation Blog",
+   "tier": 1,
+   "feeds": [
+    "https://blog.playstation.com/feed/"
+   ]
+  },
+  {
+   "id": "xboxwire",
+   "desk": "gaming",
+   "name": "Xbox Wire",
+   "tier": 1,
+   "feeds": [
+    "https://news.xbox.com/en-us/feed/"
+   ]
+  },
+  {
+   "id": "rockstar",
+   "desk": "gaming",
+   "name": "Rockstar Newswire",
+   "tier": 1,
+   "gn": [
+    "Rockstar Games GTA 6"
+   ]
+  },
+  {
+   "id": "df",
+   "desk": "gaming",
+   "name": "Digital Foundry",
+   "tier": 2,
+   "gn": [
+    "\"Digital Foundry\""
+   ]
+  },
+  {
+   "id": "vgc",
+   "desk": "gaming",
+   "name": "VGC / IGN",
+   "tier": 2,
+   "feeds": [
+    "https://www.videogameschronicle.com/feed/",
+    "https://feeds.ign.com/ign/all"
+   ]
+  },
+  {
+   "id": "quanta",
+   "desk": "expand",
+   "name": "Quanta Magazine",
+   "tier": 2,
+   "feeds": [
+    "https://www.quantamagazine.org/feed/"
+   ]
+  },
+  {
+   "id": "nature",
+   "desk": "expand",
+   "name": "Nature News",
+   "tier": 1,
+   "max": 10,
+   "feeds": [
+    "https://www.nature.com/nature.rss"
+   ]
+  },
+  {
+   "id": "aeon",
+   "desk": "expand",
+   "name": "Aeon",
+   "tier": 2,
+   "feeds": [
+    "https://aeon.co/feed.rss"
+   ]
+  },
+  {
+   "id": "mittr",
+   "desk": "expand",
+   "name": "MIT Technology Review",
+   "tier": 2,
+   "status": "Unsure",
+   "feeds": [
+    "https://www.technologyreview.com/feed/"
+   ]
+  },
+  {
+   "id": "propwatch",
+   "desk": "prop",
+   "name": "Prop firm watchlist search",
+   "tier": 1,
+   "max": 40,
+   "gn": [
+    "\"Lucid Trading\" OR Topstep OR Tradeify OR \"Take Profit Trader\" OR \"Apex Trader Funding\"",
+    "MyFundedFutures OR FuturesElite OR Tradesea OR \"futures prop firm\""
+   ]
+  },
+  {
+   "id": "techwatch",
+   "desk": "tradetech",
+   "name": "Trading tech search",
+   "tier": 1,
+   "gn": [
+    "TradingView OR Quantower OR \"Pine Script\""
+   ]
+  }
+ ],
+ "watch_topics": [
+  {
+   "desk": "united",
+   "gn": [
+    "\"Manchester United\" OR Pochettino"
+   ]
+  },
+  {
+   "desk": "gaming",
+   "gn": [
+    "\"GTA 6\" OR \"PS5 Pro\" OR PS6 OR Warzone OR \"EA Sports FC\""
+   ]
+  },
+  {
+   "desk": "ai",
+   "gn": [
+    "\"AI agents\" OR Gemini OR OpenAI"
+   ]
+  }
+ ]
 }

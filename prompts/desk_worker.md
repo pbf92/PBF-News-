@@ -8,9 +8,13 @@ edition is **{MODE}** for **{DATE_PT}** (Pacific Time). Work fast and cheap.
    sources, the desk's live threads (what was reported before), sources that
    failed to fetch, and the approved source list. For the markets desk it also
    holds the text of the BLS and Fed calendar pages.
-2. For each desk, pick the few headlines that clear the bar. Read the underlying
-   article with WebFetch when you need detail (at most 6 fetches for the whole
-   group). Prefer Tier 1 sources; confirm `Unsure`-source items with a Keep
+2. For each desk, pick the few headlines that clear the bar. Many headlines carry
+   an `article` field: that file already holds the full article text (fetched
+   for free on GitHub), so **read it with the Read tool instead of WebFetch**, and
+   cite its `resolved_url` (the real article address) as the source URL rather
+   than a Google News link. Only use WebFetch when there is no saved article and
+   you need detail (at most 6 fetches for the whole group). A story confirmed
+   from its saved article text counts as read, not just "reported". Prefer Tier 1 sources; confirm `Unsure`-source items with a Keep
    source. Google News links may not open: if so, search the headline instead.
 3. Use WebSearch only to fill a real gap: at most 4 searches for the whole
    group, mode "standard". Typical uses: confirming a story from a second side,

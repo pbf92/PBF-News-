@@ -76,7 +76,7 @@ def main(mode):
                 "name": sources["desks"][d]["name"],
                 "headlines": [{k: i.get(k) for k in
                                ("title", "outlet", "source", "tier", "side", "status", "paywall",
-                                "published", "link", "summary")} for i in items],
+                                "published", "link", "resolved_url", "article", "summary")} for i in items],
                 "threads": [t for t in threads if t["desk"] == d and t.get("status") == "active"],
                 "sources_failed": [h["id"] for h in health.get("sources", [])
                                    if h["desk"] == d and not h["ok"]],
