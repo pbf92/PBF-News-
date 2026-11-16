@@ -1,8 +1,51 @@
 {
- "updated": "2026-11-15T21:27:06Z",
- "new_this_run": 209,
+ "updated": "2026-11-16T13:21:11Z",
+ "new_this_run": 161,
  "failed_sources": [
-  "ppcland"
+  "abs",
+  "anthropic",
+  "ap",
+  "apex",
+  "athletic",
+  "australian",
+  "blscal",
+  "charisma",
+  "cme",
+  "cochrane",
+  "df",
+  "earnings",
+  "eurekalert",
+  "examine",
+  "futureselite",
+  "google",
+  "iaa",
+  "information",
+  "journals",
+  "lucid",
+  "manutd",
+  "marketingbrew",
+  "men",
+  "meta",
+  "mff",
+  "ons",
+  "pinescript",
+  "pl",
+  "polls",
+  "ppcland",
+  "premier",
+  "propindustry",
+  "quantower",
+  "reuters",
+  "rockstar",
+  "shopify",
+  "topic-ai-2",
+  "topic-gaming-1",
+  "topic-united-0",
+  "topstep",
+  "tpt",
+  "tradeify",
+  "tradesea",
+  "tradingview"
  ],
  "sources": [
   {
@@ -16,105 +59,119 @@
   {
    "id": "abs",
    "desk": "world",
-   "ok": true,
-   "fetched": 8,
+   "ok": false,
+   "fetched": 0,
    "new": 0,
-   "errors": []
+   "errors": [
+    "gn: HTTPError: HTTP Error 503: Service Unavailable"
+   ]
   },
   {
    "id": "aeon",
    "desk": "expand",
    "ok": true,
-   "fetched": 1,
-   "new": 0,
+   "fetched": 2,
+   "new": 2,
    "errors": []
   },
   {
    "id": "anthropic",
    "desk": "ai",
-   "ok": true,
-   "fetched": 106,
-   "new": 7,
-   "errors": []
+   "ok": false,
+   "fetched": 0,
+   "new": 0,
+   "errors": [
+    "gn: HTTPError: HTTP Error 503: Service Unavailable",
+    "gn: HTTPError: HTTP Error 503: Service Unavailable"
+   ]
   },
   {
    "id": "ap",
    "desk": "world",
-   "ok": true,
-   "fetched": 200,
-   "new": 9,
-   "errors": []
+   "ok": false,
+   "fetched": 0,
+   "new": 0,
+   "errors": [
+    "gn: HTTPError: HTTP Error 503: Service Unavailable",
+    "gn: HTTPError: HTTP Error 503: Service Unavailable"
+   ]
   },
   {
    "id": "apex",
    "desk": "prop",
-   "ok": true,
+   "ok": false,
    "fetched": 0,
    "new": 0,
-   "errors": []
+   "errors": [
+    "gn: HTTPError: HTTP Error 503: Service Unavailable"
+   ]
   },
   {
    "id": "ars",
    "desk": "ai",
    "ok": true,
-   "fetched": 19,
-   "new": 0,
+   "fetched": 18,
+   "new": 2,
    "errors": []
   },
   {
    "id": "arxiv",
    "desk": "ai",
    "ok": true,
-   "fetched": 0,
-   "new": 0,
+   "fetched": 276,
+   "new": 10,
    "errors": []
   },
   {
    "id": "athletic",
    "desk": "united",
-   "ok": true,
-   "fetched": 45,
-   "new": 2,
-   "errors": []
+   "ok": false,
+   "fetched": 0,
+   "new": 0,
+   "errors": [
+    "gn: HTTPError: HTTP Error 503: Service Unavailable"
+   ]
   },
   {
    "id": "atlantic",
    "desk": "world",
    "ok": true,
    "fetched": 25,
-   "new": 1,
+   "new": 4,
    "errors": []
   },
   {
    "id": "australian",
    "desk": "world",
-   "ok": true,
-   "fetched": 100,
-   "new": 15,
-   "errors": []
+   "ok": false,
+   "fetched": 0,
+   "new": 0,
+   "errors": [
+    "gn: HTTPError: HTTP Error 503: Service Unavailable"
+   ]
   },
   {
    "id": "bas",
    "desk": "faith",
    "ok": true,
    "fetched": 1,
-   "new": 0,
+   "new": 1,
    "errors": []
   },
   {
    "id": "bbc",
    "desk": "world",
    "ok": true,
-   "fetched": 67,
-   "new": 3,
+   "fetched": 73,
+   "new": 15,
    "errors": []
   },
   {
    "id": "bbcsport",
    "desk": "united",
    "ok": true,
-   "fetched": 56,
-   "new": 5,
+   "fetched": 58,
+   "new": 15,
    "errors": []
   },
   {
@@ -128,90 +185,107 @@
   {
    "id": "blscal",
    "desk": "markets",
-   "ok": true,
-   "fetched": 8,
+   "ok": false,
+   "fetched": 0,
    "new": 0,
-   "errors": []
+   "errors": [
+    "gn: HTTPError: HTTP Error 503: Service Unavailable"
+   ]
   },
   {
    "id": "boe",
    "desk": "world",
-   "ok": true,
-   "fetched": 1,
-   "new": 0,
-   "errors": []
-  },
-  {
-   "id": "charisma",
-   "desk": "faith",
    "ok": true,
    "fetched": 0,
    "new": 0,
    "errors": []
   },
   {
+   "id": "charisma",
+   "desk": "faith",
+   "ok": false,
+   "fetched": 0,
+   "new": 0,
+   "errors": [
+    "gn: HTTPError: HTTP Error 503: Service Unavailable"
+   ]
+  },
+  {
    "id": "cme",
    "desk": "markets",
-   "ok": true,
-   "fetched": 14,
-   "new": 2,
-   "errors": []
+   "ok": false,
+   "fetched": 0,
+   "new": 0,
+   "errors": [
+    "gn: HTTPError: HTTP Error 503: Service Unavailable"
+   ]
   },
   {
    "id": "cochrane",
    "desk": "health",
-   "ok": true,
-   "fetched": 33,
-   "new": 2,
-   "errors": []
+   "ok": false,
+   "fetched": 0,
+   "new": 0,
+   "errors": [
+    "gn: HTTPError: HTTP Error 503: Service Unavailable"
+   ]
   },
   {
    "id": "ct",
    "desk": "faith",
    "ok": true,
-   "fetched": 6,
-   "new": 0,
+   "fetched": 4,
+   "new": 2,
    "errors": []
   },
   {
    "id": "df",
    "desk": "gaming",
-   "ok": true,
-   "fetched": 13,
-   "new": 1,
-   "errors": []
+   "ok": false,
+   "fetched": 0,
+   "new": 0,
+   "errors": [
+    "gn: HTTPError: HTTP Error 503: Service Unavailable"
+   ]
   },
   {
    "id": "discord",
    "desk": "prop",
    "ok": true,
-   "fetched": 11,
-   "new": 11,
+   "fetched": 0,
+   "new": 0,
    "errors": []
   },
   {
    "id": "earnings",
    "desk": "markets",
-   "ok": true,
-   "fetched": 53,
-   "new": 5,
-   "errors": []
+   "ok": false,
+   "fetched": 0,
+   "new": 0,
+   "errors": [
+    "gn: HTTPError: HTTP Error 503: Service Unavailable",
+    "gn: HTTPError: HTTP Error 503: Service Unavailable"
+   ]
   },
   {
    "id": "eurekalert",
    "desk": "health",
-   "ok": true,
-   "fetched": 54,
-   "new": 3,
-   "errors": []
+   "ok": false,
+   "fetched": 0,
+   "new": 0,
+   "errors": [
+    "gn: HTTPError: HTTP Error 503: Service Unavailable"
+   ]
   },
   {
    "id": "examine",
    "desk": "health",
-   "ok": true,
-   "fetched": 9,
+   "ok": false,
+   "fetched": 0,
    "new": 0,
-   "errors": []
+   "errors": [
+    "gn: HTTPError: HTTP Error 503: Service Unavailable"
+   ]
   },
   {
    "id": "fed",
@@ -230,99 +304,141 @@
    "errors": []
   },
   {
-   "id": "google",
-   "desk": "ai",
-   "ok": true,
+   "id": "futureselite",
+   "desk": "prop",
+   "ok": false,
    "fetched": 0,
    "new": 0,
-   "errors": []
+   "errors": [
+    "gn: HTTPError: HTTP Error 503: Service Unavailable"
+   ]
+  },
+  {
+   "id": "google",
+   "desk": "ai",
+   "ok": false,
+   "fetched": 0,
+   "new": 0,
+   "errors": [
+    "feed: ValueError: unparseable feed (SAXParseException)"
+   ]
   },
   {
    "id": "guardian",
    "desk": "world",
    "ok": true,
-   "fetched": 77,
-   "new": 8,
+   "fetched": 78,
+   "new": 15,
    "errors": []
   },
   {
    "id": "guardianmu",
    "desk": "united",
    "ok": true,
-   "fetched": 6,
+   "fetched": 3,
    "new": 0,
    "errors": []
   },
   {
    "id": "iaa",
    "desk": "faith",
-   "ok": true,
-   "fetched": 9,
+   "ok": false,
+   "fetched": 0,
    "new": 0,
-   "errors": []
+   "errors": [
+    "gn: HTTPError: HTTP Error 503: Service Unavailable"
+   ]
   },
   {
    "id": "information",
    "desk": "ai",
-   "ok": true,
-   "fetched": 30,
-   "new": 4,
-   "errors": []
+   "ok": false,
+   "fetched": 0,
+   "new": 0,
+   "errors": [
+    "gn: HTTPError: HTTP Error 503: Service Unavailable"
+   ]
   },
   {
    "id": "journals",
    "desk": "health",
-   "ok": true,
-   "fetched": 59,
-   "new": 2,
-   "errors": []
+   "ok": false,
+   "fetched": 0,
+   "new": 0,
+   "errors": [
+    "gn: HTTPError: HTTP Error 503: Service Unavailable",
+    "gn: HTTPError: HTTP Error 503: Service Unavailable",
+    "gn: HTTPError: HTTP Error 503: Service Unavailable",
+    "gn: HTTPError: HTTP Error 503: Service Unavailable"
+   ]
   },
   {
    "id": "lucid",
    "desk": "prop",
-   "ok": true,
-   "fetched": 2,
+   "ok": false,
+   "fetched": 0,
    "new": 0,
-   "errors": []
+   "errors": [
+    "gn: HTTPError: HTTP Error 503: Service Unavailable"
+   ]
   },
   {
    "id": "manutd",
    "desk": "united",
-   "ok": true,
-   "fetched": 13,
+   "ok": false,
+   "fetched": 0,
    "new": 0,
-   "errors": []
+   "errors": [
+    "gn: HTTPError: HTTP Error 503: Service Unavailable"
+   ]
   },
   {
    "id": "marketingbrew",
    "desk": "business",
-   "ok": true,
-   "fetched": 2,
+   "ok": false,
+   "fetched": 0,
    "new": 0,
-   "errors": []
+   "errors": [
+    "gn: HTTPError: HTTP Error 503: Service Unavailable"
+   ]
   },
   {
    "id": "men",
    "desk": "united",
-   "ok": true,
-   "fetched": 100,
-   "new": 9,
-   "errors": []
+   "ok": false,
+   "fetched": 0,
+   "new": 0,
+   "errors": [
+    "gn: HTTPError: HTTP Error 503: Service Unavailable"
+   ]
   },
   {
    "id": "meta",
    "desk": "business",
-   "ok": true,
-   "fetched": 20,
-   "new": 1,
-   "errors": []
+   "ok": false,
+   "fetched": 0,
+   "new": 0,
+   "errors": [
+    "gn: HTTPError: HTTP Error 503: Service Unavailable",
+    "gn: HTTPError: HTTP Error 503: Service Unavailable"
+   ]
+  },
+  {
+   "id": "mff",
+   "desk": "prop",
+   "ok": false,
+   "fetched": 0,
+   "new": 0,
+   "errors": [
+    "gn: HTTPError: HTTP Error 503: Service Unavailable"
+   ]
   },
   {
    "id": "mittr",
    "desk": "expand",
    "ok": true,
-   "fetched": 3,
-   "new": 0,
+   "fetched": 1,
+   "new": 1,
    "errors": []
   },
   {
@@ -330,96 +446,112 @@
    "desk": "business",
    "ok": true,
    "fetched": 4,
-   "new": 0,
+   "new": 2,
    "errors": []
   },
   {
    "id": "natreview",
    "desk": "world",
    "ok": true,
-   "fetched": 20,
-   "new": 0,
+   "fetched": 19,
+   "new": 5,
    "errors": []
   },
   {
    "id": "nature",
    "desk": "expand",
    "ok": true,
-   "fetched": 5,
-   "new": 0,
+   "fetched": 3,
+   "new": 3,
    "errors": []
   },
   {
    "id": "ons",
    "desk": "world",
-   "ok": true,
-   "fetched": 5,
+   "ok": false,
+   "fetched": 0,
    "new": 0,
-   "errors": []
+   "errors": [
+    "gn: HTTPError: HTTP Error 503: Service Unavailable",
+    "gn: HTTPError: HTTP Error 503: Service Unavailable"
+   ]
   },
   {
    "id": "openai",
    "desk": "ai",
    "ok": true,
-   "fetched": 2,
-   "new": 0,
+   "fetched": 5,
+   "new": 4,
    "errors": []
   },
   {
    "id": "pinescript",
    "desk": "tradetech",
-   "ok": true,
-   "fetched": 1,
+   "ok": false,
+   "fetched": 0,
    "new": 0,
-   "errors": []
+   "errors": [
+    "gn: HTTPError: HTTP Error 503: Service Unavailable"
+   ]
   },
   {
    "id": "pl",
    "desk": "united",
-   "ok": true,
-   "fetched": 28,
-   "new": 4,
-   "errors": []
+   "ok": false,
+   "fetched": 0,
+   "new": 0,
+   "errors": [
+    "gn: HTTPError: HTTP Error 503: Service Unavailable"
+   ]
   },
   {
    "id": "polls",
    "desk": "world",
-   "ok": true,
-   "fetched": 55,
-   "new": 3,
-   "errors": []
+   "ok": false,
+   "fetched": 0,
+   "new": 0,
+   "errors": [
+    "gn: HTTPError: HTTP Error 503: Service Unavailable",
+    "gn: HTTPError: HTTP Error 503: Service Unavailable",
+    "gn: HTTPError: HTTP Error 503: Service Unavailable"
+   ]
   },
   {
    "id": "ppcland",
    "desk": "business",
    "ok": false,
-   "fetched": 83,
-   "new": 11,
+   "fetched": 0,
+   "new": 0,
    "errors": [
-    "feed: HTTPError: HTTP Error 403: Forbidden"
+    "feed: HTTPError: HTTP Error 403: Forbidden",
+    "gn: HTTPError: HTTP Error 503: Service Unavailable"
    ]
   },
   {
    "id": "premier",
    "desk": "faith",
-   "ok": true,
-   "fetched": 17,
+   "ok": false,
+   "fetched": 0,
    "new": 0,
-   "errors": []
+   "errors": [
+    "gn: HTTPError: HTTP Error 503: Service Unavailable"
+   ]
   },
   {
    "id": "propindustry",
    "desk": "prop",
-   "ok": true,
-   "fetched": 1,
+   "ok": false,
+   "fetched": 0,
    "new": 0,
-   "errors": []
+   "errors": [
+    "gn: HTTPError: HTTP Error 503: Service Unavailable"
+   ]
   },
   {
    "id": "psblog",
    "desk": "gaming",
    "ok": true,
-   "fetched": 4,
+   "fetched": 2,
    "new": 0,
    "errors": []
   },
@@ -434,10 +566,12 @@
   {
    "id": "quantower",
    "desk": "tradetech",
-   "ok": true,
+   "ok": false,
    "fetched": 0,
    "new": 0,
-   "errors": []
+   "errors": [
+    "gn: HTTPError: HTTP Error 503: Service Unavailable"
+   ]
   },
   {
    "id": "rba",
@@ -450,56 +584,64 @@
   {
    "id": "reuters",
    "desk": "world",
-   "ok": true,
-   "fetched": 300,
-   "new": 15,
-   "errors": []
+   "ok": false,
+   "fetched": 0,
+   "new": 0,
+   "errors": [
+    "gn: HTTPError: HTTP Error 503: Service Unavailable",
+    "gn: HTTPError: HTTP Error 503: Service Unavailable",
+    "gn: HTTPError: HTTP Error 503: Service Unavailable"
+   ]
   },
   {
    "id": "rns",
    "desk": "faith",
    "ok": true,
-   "fetched": 10,
-   "new": 0,
+   "fetched": 8,
+   "new": 1,
    "errors": []
   },
   {
    "id": "rockstar",
    "desk": "gaming",
-   "ok": true,
-   "fetched": 100,
-   "new": 8,
-   "errors": []
+   "ok": false,
+   "fetched": 0,
+   "new": 0,
+   "errors": [
+    "gn: HTTPError: HTTP Error 503: Service Unavailable"
+   ]
   },
   {
    "id": "shopify",
    "desk": "business",
-   "ok": true,
-   "fetched": 13,
+   "ok": false,
+   "fetched": 0,
    "new": 0,
-   "errors": []
+   "errors": [
+    "gn: HTTPError: HTTP Error 503: Service Unavailable"
+   ]
   },
   {
    "id": "smh",
    "desk": "world",
    "ok": true,
    "fetched": 20,
-   "new": 10,
+   "new": 15,
    "errors": []
   },
   {
    "id": "stat",
    "desk": "health",
    "ok": true,
-   "fetched": 17,
-   "new": 0,
+   "fetched": 20,
+   "new": 10,
    "errors": []
   },
   {
    "id": "telegraph",
    "desk": "world",
    "ok": true,
-   "fetched": 8,
+   "fetched": 7,
    "new": 1,
    "errors": []
   },
@@ -508,87 +650,118 @@
    "desk": "world",
    "ok": true,
    "fetched": 100,
-   "new": 3,
+   "new": 15,
    "errors": []
   },
   {
    "id": "topic-ai-2",
    "desk": "ai",
-   "ok": true,
-   "fetched": 196,
-   "new": 15,
-   "errors": []
+   "ok": false,
+   "fetched": 0,
+   "new": 0,
+   "errors": [
+    "gn: HTTPError: HTTP Error 503: Service Unavailable",
+    "gn: HTTPError: HTTP Error 503: Service Unavailable"
+   ]
   },
   {
    "id": "topic-gaming-1",
    "desk": "gaming",
-   "ok": true,
-   "fetched": 237,
-   "new": 14,
-   "errors": []
+   "ok": false,
+   "fetched": 0,
+   "new": 0,
+   "errors": [
+    "gn: HTTPError: HTTP Error 503: Service Unavailable",
+    "gn: HTTPError: HTTP Error 503: Service Unavailable",
+    "gn: HTTPError: HTTP Error 503: Service Unavailable",
+    "gn: HTTPError: HTTP Error 503: Service Unavailable",
+    "gn: HTTPError: HTTP Error 503: Service Unavailable"
+   ]
   },
   {
    "id": "topic-united-0",
    "desk": "united",
-   "ok": true,
-   "fetched": 200,
-   "new": 15,
-   "errors": []
+   "ok": false,
+   "fetched": 0,
+   "new": 0,
+   "errors": [
+    "gn: HTTPError: HTTP Error 503: Service Unavailable",
+    "gn: HTTPError: HTTP Error 503: Service Unavailable"
+   ]
   },
   {
    "id": "topstep",
    "desk": "prop",
-   "ok": true,
-   "fetched": 5,
+   "ok": false,
+   "fetched": 0,
    "new": 0,
-   "errors": []
+   "errors": [
+    "gn: HTTPError: HTTP Error 503: Service Unavailable"
+   ]
   },
   {
    "id": "tpt",
    "desk": "prop",
-   "ok": true,
+   "ok": false,
    "fetched": 0,
    "new": 0,
-   "errors": []
+   "errors": [
+    "gn: HTTPError: HTTP Error 503: Service Unavailable"
+   ]
   },
   {
    "id": "tradeify",
    "desk": "prop",
-   "ok": true,
-   "fetched": 5,
+   "ok": false,
+   "fetched": 0,
    "new": 0,
-   "errors": []
+   "errors": [
+    "gn: HTTPError: HTTP Error 503: Service Unavailable"
+   ]
+  },
+  {
+   "id": "tradesea",
+   "desk": "prop",
+   "ok": false,
+   "fetched": 0,
+   "new": 0,
+   "errors": [
+    "gn: HTTPError: HTTP Error 503: Service Unavailable"
+   ]
   },
   {
    "id": "tradingview",
    "desk": "tradetech",
-   "ok": true,
-   "fetched": 28,
-   "new": 3,
-   "errors": []
+   "ok": false,
+   "fetched": 0,
+   "new": 0,
+   "errors": [
+    "gn: HTTPError: HTTP Error 503: Service Unavailable",
+    "gn: HTTPError: HTTP Error 503: Service Unavailable"
+   ]
   },
   {
    "id": "verge",
    "desk": "ai",
    "ok": true,
    "fetched": 10,
-   "new": 1,
+   "new": 2,
    "errors": []
   },
   {
    "id": "vgc",
    "desk": "gaming",
    "ok": true,
-   "fetched": 28,
-   "new": 1,
+   "fetched": 27,
+   "new": 15,
    "errors": []
   },
   {
    "id": "willison",
    "desk": "ai",
    "ok": true,
-   "fetched": 5,
-   "new": 0,
+   "fetched": 9,
+   "new": 5,
    "errors": []
   },
   {
@@ -603,8 +776,8 @@
    "id": "xboxwire",
    "desk": "gaming",
    "ok": true,
-   "fetched": 7,
-   "new": 0,
+   "fetched": 4,
+   "new": 1,
    "errors": []
   }
  ]
