@@ -425,6 +425,37 @@
     }
    ],
    "time": "12:12 PM"
+  },
+  {
+   "desk": "world",
+   "headline": "Nvidia board is not weighing Huang's return as CEO, a source tells The Hill, as AI stocks drag the S&P 500 down about 2%",
+   "why": "This reverses this morning's line that Huang was discussing a comeback, and it lands as an AI-led sell-off hits the market the day before Nvidia's first results without him.",
+   "points": [
+    "The Hill, citing a source familiar, reports Nvidia's board is not considering Jensen Huang's return as CEO.",
+    "This morning FT/Reuters reported Huang was discussing a return; President Trump said Monday he would not mind it.",
+    "AP: further drops in Nvidia and other AI stocks pulled the S&P 500 down about 2% this afternoon; final closing levels not confirmed here.",
+    "Single anonymous source on the board; Nvidia had not commented in the material seen."
+   ],
+   "next": "Nvidia reports Q3 results Tue 17 Nov after the close; Anthropic IPO pricing reported for 18 Nov.",
+   "confidence": "reported",
+   "impact": "high",
+   "thread": {
+    "id": "nvidia-earnings-nov",
+    "name": "Nvidia earnings and Huang",
+    "status": "changed",
+    "day": 2
+   },
+   "sources": [
+    {
+     "name": "The Hill",
+     "url": "https://thehill.com/policy/technology/6223454-nvidia-board-rejects-huang-return/"
+    },
+    {
+     "name": "AP News",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYXdFLTA2eFh1c1k5N2ZnWnBXdkpYX3ZzMkNaUC03SjBXeDlVcHplSm1fUnRnVzJsaGhFb0I2eHp2Si1uaTNRaEotekFyYlZYRVlxdzNydUhEaXZaa0c5dW1ybEp5T2wyWUN2eVhGaTdpdVV5bkRuRDJxQVd0X2wySmFhQXNiaWROVmRJRXdIRDVtSC1CN3c?oc=5"
+    }
+   ],
+   "time": "1:47 PM"
   }
  ],
  "status": {
