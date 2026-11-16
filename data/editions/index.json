@@ -1,6 +1,20 @@
 {
- "latest": "2026-11-15",
+ "latest": "2026-11-16",
  "editions": [
+  {
+   "date": "2026-11-16",
+   "type": "weekday",
+   "top": [
+    "Cursor says stolen Fireworks AI key led to malicious Claude Code extension in its marketplace",
+    "GTA VI gets another day-one patch, about 1GB bigger on Xbox, days before launch"
+   ],
+   "status": {
+    "story": 5,
+    "quiet": 5,
+    "failed": 0
+   },
+   "updates": 0
+  },
   {
    "date": "2026-11-15",
    "type": "weekend",

@@ -1,0 +1,406 @@
+{
+ "date": "2026-11-16",
+ "type": "weekday",
+ "read_minutes": 3,
+ "note": "Many feeds and article pages failed to open, so several stories rest on headlines and are marked reported. Repeats from Sunday (Nvidia, Anthropic IPO, Trump–Xi–Putin) moved to Watching.",
+ "before_open": [
+  {
+   "time": "All day",
+   "what": "No BLS releases today",
+   "detail": "Next: Import/Export Price Indexes Tue 17 Nov 5:30 AM PT.",
+   "url": "https://www.bls.gov/schedule/"
+  },
+  {
+   "time": "Overnight",
+   "what": "Gulf bourses fell on Hormuz tension; 10-yr yield above 5.15% after a 30 bp weekly jump",
+   "detail": "Futures indicated lower into the week (IBD, 15 Nov). Nvidia reports Tue 17 Nov after the close.",
+   "url": "https://www.federalreserve.gov/newsevents/calendar.htm"
+  }
+ ],
+ "week_ahead": [],
+ "top": [
+  {
+   "headline": "Cursor says stolen Fireworks AI key led to malicious Claude Code extension in its marketplace",
+   "why": "A fake 'Claude Code' extension got into Cursor's marketplace. If you install coding-agent extensions, check what you have and rotate any API keys.",
+   "points": [
+    "Cursor confirmed a security breach on 14 Nov (BleepingComputer, The Hacker News headlines).",
+    "Cursor attributes it to an API key exposed at Fireworks AI, used to plant a trojanised extension impersonating Claude Code.",
+    "Scope of installs and exposed data not established in the material I saw."
+   ],
+   "next": "Cursor post-incident details and any Fireworks AI statement; no date",
+   "confidence": "reported",
+   "impact": "medium",
+   "thread": {
+    "id": "agent-tooling-security",
+    "name": "Coding-agent supply-chain security",
+    "status": "new",
+    "day": 1
+   },
+   "sources": [
+    {
+     "name": "BleepingComputer",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZGZ6cDY2N1VKakpFcW9sN0NqTkJBck9xMGxNbGdzTDJQUmt0cmNmdzlBdWdaQ2tzbEF4U1JoZVBsWGFQTWxuZUN4WHVNcGhTMjBCOE85eWVLdFZnRk9JV0c3QWRXUnl1Y0JkM3dPNGlyNHNnR29PT3J6eU95cHZ3SW1WOHEwcUM4ZG1FR3BPSHkzaUdDc0Z0TExMSHRlV2c1OFg4REhaeGphZHd6cTR1YUliWnBFRFVlWUE?oc=5"
+    },
+    {
+     "name": "The Hacker News",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ0pVd0VKNnk2Vmpxalp6amtSaFlvX0Vpd0NOQkNZVldpTjRYdzQyZHZ3c2IwdmhEdm5RNElZWXJ6bWtMVGhlemhGX0FqM0d3Vnp3MWRvWUNxTGJwMnV3Ymx0cy1TbWJJMVliVi1HM0xaUExCZ0FQU3NOMEJWWHJhaGZ3?oc=5"
+    }
+   ],
+   "desk": "ai"
+  },
+  {
+   "headline": "GTA VI gets another day-one patch, about 1GB bigger on Xbox, days before launch",
+   "why": "Leave room on the drive and expect a download on launch night.",
+   "points": [
+    "IGN (16 Nov): a further day-one patch is coming, roughly 1GB larger on Xbox than on other platforms; full sizes not confirmed.",
+    "Launch is 19 Nov, with some regions able to play from 18 Nov because of unlock times (VICE, 15 Nov).",
+    "Unconfirmed: GAMINGbible reports boxed-copy codes were stolen; no Rockstar statement seen."
+   ],
+   "next": "Launch 19 Nov (18 Nov in some regions); check Rockstar's channels for exact unlock time.",
+   "confidence": "reported",
+   "impact": "high",
+   "thread": {
+    "id": "gta6-launch",
+    "name": "GTA VI launch",
+    "status": "changed",
+    "day": 22
+   },
+   "sources": [
+    {
+     "name": "IGN",
+     "url": "https://www.ign.com/articles/gta-6-gets-another-day-one-patch-bigger-on-xbox"
+    },
+    {
+     "name": "Xbox Wire",
+     "url": "https://news.xbox.com/en-us/2026/11/13/next-week-on-xbox-new-games-for-november-16-to-20/"
+    },
+    {
+     "name": "VICE via Google News",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WbWlZZV9ISEtNU1d4WG1KcHlFNDVLX3Vwemw2cU5UUjBkU1hISUJCSG1RZlVTbENwWG9zbzNpVHE1TWFuNHpXa1g1OF9sbWt3b191TWk0cEhrVXZFSm95cmtsQ0Fpdw?oc=5"
+    }
+   ],
+   "desk": "gaming"
+  }
+ ],
+ "desks": [
+  {
+   "id": "united",
+   "name": "Manchester United & Football",
+   "status": "quiet",
+   "note": "Checked: no new club news since Pochettino's appointment (13 Nov). Athletic, manutd.com, MEN and PL feeds failed; Baleba search found nothing new.",
+   "stories": []
+  },
+  {
+   "id": "world",
+   "name": "World Affairs & Politics",
+   "status": "story",
+   "note": "Trump–Xi–Putin APEC meeting unchanged since yesterday (Thu 19 Nov); see Watching.",
+   "stories": [
+    {
+     "headline": "Gulf markets slide on Hormuz tension as a Yemeni government force retreats from the strait",
+     "why": "Shipping-lane risk is back in the price of Gulf assets and oil headlines, a live input for index futures this week.",
+     "points": [
+      "Reuters (15 Nov): Gulf bourses slid on Hormuz tensions and Houthi strikes.",
+      "Reuters (15 Nov): a Yemeni government force retreated from the strait, described as a major setback against the Houthis.",
+      "Context: Trump has reportedly told advisers he may hold off on Iran strikes barring new provocations (Reuters via Korea Times, 14 Nov; anonymous sources)."
+     ],
+     "next": "Monday's oil and Gulf trading; any new attack would revive US strike options.",
+     "confidence": "reported",
+     "region": "Global",
+     "impact": "high",
+     "thread": {
+      "id": "hormuz",
+      "name": "Strait of Hormuz attacks",
+      "status": "changed",
+      "day": 15
+     },
+     "sources": [
+      {
+       "name": "Reuters",
+       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ1U5SnRYV0N6dE01QU1sOFNRWHR0WndCRG05bDl3UEhURE1jR01ZZ2p4dmFpb1llajB6QzdpRmp3WUZYSkhRRmhHT0tKY2hfWjN1b0U3UzJuUkZ3N3ZpWlU1Sk1pOWJvZ3cxcVVRVmhycW9ON2R1Um5nR3ZSQUtzTHE5aHlMb28wM2xyMzQtdnZHNUFfMWR4ZVZwN2pfc2RmcTRMTEtfY0NHbEh0dUo4N0g5UHNGTGJ3c1E?oc=5"
+      },
+      {
+       "name": "Reuters",
+       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVW9oR0pfVGQ2U3NYTWdTRktiZ1Z4TUFnb0UyUHJ0MTJ0ejVtQU12anZRTDg1ZmQ1cGlaS3VaUWYtM3MzdlBEcVRnVVZ1T2RONmtzMVg2SFRHeWRGQXVHb01WR1NCd1pwNXo3R0c3dWRwTHlaSXFYWlctYjhSWlVWb3BXSGNqdEdlMERpYVNQaEVfRUpmRFhWSURlcVFhNmNMekNlMy1XbDNEZVphNDJEQlA4T0pkYmFQZjlHdlBFaEtfYnpBRTE3X0E1elZXQQ?oc=5"
+      },
+      {
+       "name": "Korea Times",
+       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMVk1M0YtN2c5UldQTFE1T3lGMHBhMEs4eF9JWW1nTTFRVC01cjlrWFVDbFYxenkyQUJYbDloeXdjZ0VkZkhYaWh2c21UTmRKc0cwTTFzZFVnYmkxcWM1aDA5N3UtczJnY3Y0bVVHR0EzZkltSndrM3BXQ2hyekR3T0pPNFo4MTlmVVRXTG1wcWNmRXdHNHlfM1JwSmNtMFZXSFlEQlJpWDQ4akxlbFp3MU5nTGlqaWxBNjBuMlBaUWdtdzdlZHNDZThaOTlpZ9IB0wFBVV95cUxPRmlFajRXZEhZNFU5a3FzQXRvSkJGWG5KZ01zMk1TVTlWMktmZGpFY21tT1JEc09PLU1VNjZOVUVzQ2R0bHo4VkptUGN2UGd3ZWc1S0FHZVVEcnFZcEtmalpPYVI1djdVcjRKUFhnWFdSVjVyWC15ZVZYNURUU0VNVmFnbGxnOHY0VUFvdVc5bnNOYmJXSmlSUGg2SXJDeFpaZ0pvSmNwT2JISHBqenVHNTlNNGtmYkhER21xdFZnSnd1WmZjUzBDMHI2TFFpNzFrdXV3?oc=5"
+      }
+     ],
+     "desk": "world"
+    }
+   ]
+  },
+  {
+   "id": "prop",
+   "name": "Futures & Prop Firms",
+   "status": "quiet",
+   "note": "All firm sources failed to fetch; one search found no official Topstep Nov 2026 change. Unconfirmed: Topstep November payout/Live funding changes (third-party trackers only). Tradeify sponsorships (Inter Miami, Israel Adesanya) are marketing, not rule changes.",
+   "stories": []
+  },
+  {
+   "id": "tradetech",
+   "name": "Trading Technology",
+   "status": "quiet",
+   "note": "TradingView, Pine Script and Quantower sources failed to fetch; no new items beyond the 13 Nov tick-based Footprint/CVD update (yesterday's story).",
+   "stories": []
+  },
+  {
+   "id": "ai",
+   "name": "Artificial Intelligence",
+   "status": "story",
+   "note": "Anthropic IPO: nothing new confirmed; see Watching.",
+   "stories": [
+    {
+     "headline": "OpenAI says GPT-6 Astra helped prove a lattice definition of the Standard Model",
+     "why": "A concrete claim of an AI model contributing to theoretical physics proof work, published alongside a new OpenAI science blog. It is a company claim until independent physicists review it.",
+     "points": [
+      "OpenAI post dated 15 Nov: a candidate nonperturbative lattice definition of the Standard Model, with GPT-6 Astra said to help turn the idea into a detailed proof.",
+      "Launched same day: a new OpenAI blog for science with findings and researcher accounts.",
+      "Not independently verified; I could not open the full post, so details are from OpenAI's feed summary."
+     ],
+     "next": "Independent expert reaction and any arXiv preprint; no date set",
+     "confidence": "claim",
+     "impact": "medium",
+     "thread": {
+      "id": "ai-science-claims",
+      "name": "AI contributions to science",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "OpenAI",
+       "url": "https://openai.com/index/step-toward-defining-the-standard-model"
+      },
+      {
+       "name": "OpenAI",
+       "url": "https://openai.com/index/our-new-blog-for-science"
+      }
+     ],
+     "desk": "ai"
+    }
+   ]
+  },
+  {
+   "id": "business",
+   "name": "Business & E-commerce",
+   "status": "quiet",
+   "note": "Checked Meta thread: Ad Week tools (dated 6 Oct per Relevant Audience) are old news; recent headlines are secondary or Unsure-source. Unconfirmed: Italy fines Meta EUR805m over photo galleries (PPC Land only); Meta stock rally on Muse (TradingKey). Sources failed: meta, shopify, ppcland, marketingbrew.",
+   "stories": []
+  },
+  {
+   "id": "faith",
+   "name": "Christianity & Theology",
+   "status": "story",
+   "note": "Article fetches were blocked this run; stories rest on RNS/BAS headlines and summaries only.",
+   "stories": [
+    {
+     "headline": "Pope Leo's Peru visit: 500,000 at Chiclayo Mass, abuse survivors press for more on Sodalitium",
+     "why": "Leo's first return to the diocese where he served as bishop mixes the pastoral (huge crowds, justice themes) with an unresolved abuse accountability question.",
+     "points": [
+      "RNS (14 Nov): Vatican estimates put the Chiclayo desert Mass at about 500,000, in temperatures near 90F, with some waiting 14 hours.",
+      "Premier Christian News (15 Nov) reports Leo saying cries for justice are going 'unanswered' in remote Peru.",
+      "RNS (13 Nov): he was due to return to Zaña, where he helped found a school, to celebrate a Peruvian saint and meet marginalised groups.",
+      "RNS (13 Nov): survivors say Sodalitium's suppression stays a declaration without concrete Vatican follow-through to dismantle the group."
+     ],
+     "next": "Remaining Peru itinerary dates not confirmed in sources seen; watch for any Vatican statement on Sodalitium follow-through.",
+     "confidence": "reported",
+     "impact": "medium",
+     "thread": {
+      "id": "pope-leo-peru-trip",
+      "name": "Pope Leo's Peru trip",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Religion News Service",
+       "url": "https://religionnews.com/2026/11/14/waiting-on-the-pope-in-the-desert-for-14-hours-the-mass-in-chiclayo-required-endurance/"
+      },
+      {
+       "name": "Religion News Service",
+       "url": "https://religionnews.com/2026/11/13/as-he-heads-to-peru-sodalitium-abuse-survivors-want-more-from-leo/"
+      },
+      {
+       "name": "Religion News Service",
+       "url": "https://religionnews.com/2026/11/13/zana-is-the-cry-of-the-oppressed-pope-leo-to-return-to-peruvian-agricultural-town/"
+      }
+     ],
+     "desk": "faith"
+    },
+    {
+     "headline": "Israel opens Bar Kokhba-era hiding tunnels and a Byzantine church to the public",
+     "why": "Rare public access to physical evidence of the second Jewish revolt against Rome and of Byzantine Christianity in the Judean foothills.",
+     "points": [
+      "Haaretz and the Jewish Chronicle (13 Nov) report Jewish revolt tunnels and a Byzantine church opened to visitors.",
+      "Jerusalem Post (14-15 Nov) names the Horvat Burgin complex and a new visitors centre at the site.",
+      "Sources were Google News listings only; I could not open the articles, so site details and dating are unverified here."
+     ],
+     "next": "No date given; confirm opening details with the Israel Antiquities Authority.",
+     "confidence": "reported",
+     "impact": "low",
+     "thread": {
+      "id": "horvat-burgin-opening",
+      "name": "Horvat Burgin site opening",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Haaretz via Google News",
+       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOX0czVGt5dnVCaU8wM3dyRDhsNUNYa3N0TzJWRHlEb3pkbUdDc1hPRlk1emRWR0F0d3dlN0xwcDVSTVVjRWU1bHdaRndDMmhjQlBMeVdQYkR2U1pmUVpJUzRHVHBycXc4eDZxODFSc0ZPUlAwWEE2QlJraS1rWlpTdGJ2QnJEa0cxTWtIUnlKNks0NWVtVVFFWklPR3RBZEtUaC1jWm5KSHRyNEJ4MFNPOGtLTmtTWUNjWFVCeU8wRFRKZ1psLTBxVEQxVUs0d2tlb2FSdHBoVURRaFFjczRaeVpWOTVBb3NNRXpDcTNfbWh5MDlndFhBN2ZQdlo5SHhGamxXcjJB?oc=5"
+      },
+      {
+       "name": "Jerusalem Post via Google News",
+       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wVDBhQjJsVWpmcGRyWHlxYzVFNWFidXBidEFsQjhacTdUSUN3dTVJTlpqY1dNRW5MalBpOWUwVy1kY0ktRUVZLWszdUh1TkcyekQ4dmdiYmNhZnFP?oc=5"
+      }
+     ],
+     "desk": "faith"
+    }
+   ]
+  },
+  {
+   "id": "health",
+   "name": "Health & Wellness",
+   "status": "story",
+   "note": "Article fetches blocked; items rest on STAT summaries, so graded provisionally.",
+   "stories": [
+    {
+     "headline": "Helus psychedelic improves depression in trial but serious adverse events raise safety questions",
+     "why": "A late-stage psychedelic antidepressant signal, but safety is the open issue before any regulatory path.",
+     "points": [
+      "STAT (16 Nov): Helus Pharma's drug improved depression in a study.",
+      "STAT says a number of serious adverse events were reported.",
+      "URL indicates a phase 3 trial; sample size and effect size not seen."
+     ],
+     "next": "Full data and regulatory plans not yet seen; check Helus release.",
+     "confidence": "reported",
+     "grade": "B",
+     "study": "Industry-reported (apparently phase 3) trial; n and population not seen; key limitation: safety signal and sponsor-reported data, details unverified",
+     "impact": "medium",
+     "thread": {
+      "id": "helus-psychedelic-depression",
+      "name": "Helus psychedelic depression trial",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "STAT News",
+       "url": "https://www.statnews.com/2026/11/16/helus-psychedelics-depression-phase-3-trial/?utm_campaign=rss"
+      }
+     ],
+     "desk": "health"
+    },
+    {
+     "headline": "CG Oncology bladder cancer immunotherapy cuts tumour recurrence risk by 68%",
+     "why": "A large reported effect in non-muscle-invasive bladder cancer that STAT says may change treatment for some patients.",
+     "points": [
+      "STAT (16 Nov): recurrence risk reduced by 68%.",
+      "Company-reported results; trial design, n and follow-up not seen."
+     ],
+     "next": "Full data presentation and regulatory steps not confirmed in sources seen.",
+     "confidence": "claim",
+     "grade": "B",
+     "study": "Company-reported trial; n and design not seen; key limitation: sponsor claim, unreviewed",
+     "impact": "medium",
+     "thread": {
+      "id": "cg-oncology-bladder",
+      "name": "CG Oncology bladder cancer immunotherapy",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "STAT News",
+       "url": "https://www.statnews.com/2026/11/16/bladder-cancer-immunotherapy-reduced-tumor-recurrence-cg-oncology/?utm_campaign=rss"
+      }
+     ],
+     "desk": "health"
+    }
+   ]
+  },
+  {
+   "id": "gaming",
+   "name": "Gaming & PlayStation",
+   "status": "story",
+   "note": "Rockstar site and Digital Foundry feeds failed to fetch. IGN and Xbox Wire pages could not be opened (permission), so the patch story rests on the IGN summary.",
+   "stories": [
+    {
+     "headline": "PlayStation brings QSSR upscaling to six more PS5 games; Black Friday sale is live",
+     "why": "PS5 image quality is improving via software, and PlayStation's Black Friday sale has started, including a UK Ghost of Yotei price.",
+     "points": [
+      "PlayStation Blog (13 Nov): QSSR (Quick Spectral Super Resolution, AI-guided upscaling, introduced last month) is coming to Marvel's Spider-Man 2, Control Resonant, The Finals, Arc Raiders, No Man's Sky and Hell Let Loose: Vietnam.",
+      "IGN (16 Nov): DualSense Edge is $169 in PlayStation's sale, a $30 cut.",
+      "IGN (16 Nov): Ghost of Yotei disc is £28 at Amazon UK, down from £54.99.",
+      "Performance gains are PlayStation's own claims; none were verified here."
+     ],
+     "next": "Sale end date not stated in sources seen.",
+     "confidence": "confirmed",
+     "impact": "medium",
+     "thread": {
+      "id": "ps5-qssr",
+      "name": "PS5 QSSR rollout",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "PlayStation Blog",
+       "url": "https://blog.playstation.com/2026/11/13/qssr-arrives-in-marvels-spider-man-2-control-resonant-the-finals-arc-raiders-and-hell-let-loose-vietnam/"
+      },
+      {
+       "name": "IGN",
+       "url": "https://www.ign.com/articles/ps5-dualsense-edge-controller-deal-playstation-black-friday-sale-2026"
+      },
+      {
+       "name": "IGN",
+       "url": "https://www.ign.com/articles/ghost-of-yotei-playstation-black-friday-sale-uk"
+      }
+     ],
+     "desk": "gaming"
+    }
+   ]
+  },
+  {
+   "id": "expand",
+   "name": "Expand My World",
+   "status": "quiet",
+   "note": "Nothing verified this run (article fetches blocked). Candidates: Nature on imaginary friends (16 Nov); Quanta Q&A with Barabási on network science of health.",
+   "stories": []
+  }
+ ],
+ "watching": [
+  {
+   "thread": "nvidia-earnings-nov",
+   "line": "Nvidia reports Tue 17 Nov after the close; FT/Reuters say Huang is discussing a return as CEO."
+  },
+  {
+   "thread": "anthropic-ipo",
+   "line": "Pricing reported for 18 Nov and first trade 19 Nov; figures still unconfirmed against the prospectus."
+  },
+  {
+   "thread": "ukraine-talks",
+   "line": "Trump–Xi–Putin meeting planned at APEC Thu 19 Nov; Quad leaders meet in Manila Tue 17 Nov (Reuters)."
+  },
+  {
+   "thread": "fed-december",
+   "line": "FOMC minutes Wed 18 Nov 11:00 AM PT; yields up sharply on the week."
+  },
+  {
+   "thread": "pochettino-era",
+   "line": "Pochettino starts at Carrington 18 Nov; Liverpool away 22 Nov; Baleba still a doubt."
+  }
+ ],
+ "close_threads": [],
+ "expand": null,
+ "generated_at": "2026-11-16T13:30:04Z",
+ "updates": [],
+ "status": {
+  "story": 5,
+  "quiet": 5,
+  "failed": 0
+ }
+}
