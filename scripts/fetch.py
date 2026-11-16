@@ -248,7 +248,7 @@ def resolve_link(item):
             res = gnewsdecoder(link, timeout=15)
         finally:
             _GN_LAST[0] = time.time()
-    if not res.get("status"):
+    if not (res.get("status") or res.get("success")):
         raise RuntimeError(str(res.get("message", res))[:160])
     return res.get("decoded_url")
 
