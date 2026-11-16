@@ -1,0 +1,13 @@
+URL: https://www.cdomagazine.tech/aiml/openai-releases-ai-image-classifier-and-safety-tools-to-help-detect-child-abuse-material
+TITLE: OpenAI Releases AI Image Classifier and Safety Tools to Help Detect Child Abuse Material
+OUTLET: CDO Magazine
+
+Artificial Intelligence
+Written by: Tathagata Sen
+Updated 4:28 PM EST, November 16, 2026
+OpenAI has introduced a new image classifier designed to detect child sexual abuse material (CSAM), including AI-generated images, alongside additional safeguards for ChatGPT users, developer resources and investigative tools for law enforcement, according to an OpenAI release.
+Announced November 16, the measures are intended to help organizations identify previously unseen abusive material and strengthen responses to online child exploitation.
+The classifier looks for visual indicators of potential abuse and assigns scores to help reviewers prioritize images for examination.
+OpenAI says it trained, evaluated and designed the tool for real-world deployment with assistance from the National Center for Missing and Exploited Children (NCMEC). Vetted organizations can access it through the OpenAI API at no cost.
+For chief data officers (CDOs), the announcement highlights the importance of reliable classification systems, human review and clear escalation procedures when AI is used to identify harmful content. Organizations developing or deploying AI-powered services need processes to evaluate detection accuracy, manage false positives and ensure sensitive information is handled appropriately.
+The initiative also demonstrates how AI safety increasingly depends on collaboration between technology providers, developers, specialist organizations and law enforcement. Establishing these controls is part of the broader challenge of operationalizing enterprise AI governance.

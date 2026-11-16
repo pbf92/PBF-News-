@@ -1,0 +1,20 @@
+URL: https://www.fool.com/investing/2026/11/16/anthropic-launches-claude-sheets-is-microsoft-s-stock-in-trouble/
+TITLE: Anthropic Launches Claude Sheets. Is Microsoft's Stock in Trouble?
+OUTLET: The Motley Fool
+
+Anthropic is expanding its business as it looks to unlock more growth opportunities. Recently, it announced multiple productivity tools, including Claude Sheets, which may provide users with an alternative to Microsoft (MSFT -1.12%)'s Office products, including Excel.
+The tech stock has been trading lower on the news. However, here's why I wouldn't be concerned if I were a Microsoft shareholder.
+Image source: Getty Images.
+Enterprise clients trust Microsoft's software and likely wouldn't switch easily
+I've worked in accounting for several companies, ranging from small to large, including government, private, and public organizations. Time and time again, I've seen the same trend: businesses relying on Microsoft's products for their ease of use and simplicity. Even with large enterprise resource planning (ERP) systems, users inevitably end up exporting data to an Excel spreadsheet because it's easier to analyze there and create reports.
+Alphabet already has a competing product with its own office software, including Google Sheets. Many businesses, however, aren't eager to load their financial data into it simply because of the perceived risk of storing it online.
+Meanwhile, at a time when there are growing concerns about artificial intelligence (AI) companies and how well they safeguard data, I don't see Anthropic's office software doing much better.
+It may be appealing for individual users or smaller companies, but there's a reason Microsoft has managed to grow its business so effectively over the years, even though there have been rival products for companies to choose from, and that's trust. Organizations trust Microsoft's software, and it's often the default option for many businesses, and it's not simply because there is a lack of alternatives.
+Microsoft makes for a terrific long-term buy due to its strong position in the corporate world
+I've used spreadsheets for decades and can admit that Google Sheets has come a long way in rivaling Microsoft Excel, but it still falls well short of the capabilities and needs of many businesses.
+When combined with its broader suite of products, including Outlook and Word, the familiarity of these products and the value proposition that Microsoft's Office software offers to both individual consumers and enterprise customers will make it difficult for any company to take significant market share in this area of its business. Demand remains robust, with Microsoft 365’s paid commercial seats topping more than 450 million.
+Microsoft has a strong competitive advantage in this area, and its strength in the corporate world is why I think it makes for an excellent long-term buy.
+Where to invest $1,000 right now
+When our analyst team has a stock tip, it can pay to listen. After all, Stock Advisor's total average return is 823%* — a market-crushing outperformance compared to 209% for the S&P 500.
+They just revealed what they believe are the 10 best stocks for investors to buy right now, available when you join Stock Advisor.
+*Stock Advisor returns as of November 16, 2026.

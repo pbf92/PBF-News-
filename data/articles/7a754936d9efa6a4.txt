@@ -1,0 +1,36 @@
+URL: https://www.malaymail.com/news/money/2026/11/16/an-unprecedented-test-of-gullibility-why-anthropics-us1-trillion-ipo-is-rattling-wall-street/243455
+TITLE: An ‘unprecedented test of gullibility’: Why Anthropic’s US$1 trillion IPO is rattling Wall Street
+OUTLET: Malay Mail
+
+SAN FRANCISCO, Nov 16 — Anthropic has become an AI giant valued at US$1 trillion (RM4.1 trillion) and it is now aiming for a record-breaking stock market debut, even if its original ambitions have been watered down somewhat.
+The San Francisco-based firm faces three threats: rivals that are catching up, prices that are collapsing, and bills that keep climbing.
+Anthropic spelled out the risks in its Wall Street prospectus, the document that lays out its vision to potential investors.
+The first is commoditization: “the degree of differentiation among advanced AI models may narrow,” the company warns.
+Additionally, Anthropic says that “substantially all” of its revenue comes from its AI tools. Unlike Google or Meta, it has no advertising empire to fall back on if business takes a hit, and no cloud business like Microsoft’s.
+Investors have already grown nervous.
+In mid-August, shareholders were floating a valuation of US$2 trillion. But quarter-on-quarter growth slowed from 145 per cent in the second quarter to 45 per cent in the third, cooling expectations to around US$1.3 trillion.
+Cheap and open
+So-called open AI models, which anyone can download and modify, are approaching the capabilities of closed models such as Claude or ChatGPT, which are available only through their owners’ services.
+Open models lag their closed counterparts by only about four months on average, according to research institute Epoch AI.
+They include Kimi K3.1 Pro from Chinese company Moonshot, which costs half as much as Claude Opus 5.5, Anthropic’s current flagship.
+And among paid models from Anthropic, OpenAI and Google, none has stayed on top for long.
+Anthropic also acknowledges it is holding itself back: its safety measures “could slow our capability gains relative to competitors that do not adopt similar constraints.”
+Still, the company says each new version of Claude has boosted sales. More than 80 per cent of its revenue last quarter came from models less than six months old.
+Prices collapsing
+When products look alike, prices fall. According to Morningstar, the price of having AI process the same amount of text at the same level of performance has dropped 97 per cent, from US$17 at the end of 2024 to 50 cents today.
+Anthropic itself cut the price of Claude Opus by 20 per cent in September, and OpenAI cut the price of one of its flagship models by a factor of five in July.
+The effect is already visible at Vercel, a developer platform that routes requests across AI models.
+In August, more than half of the text it handled was processed by open models, up from 13 per cent in April.
+Even so, Anthropic still captured nearly two-thirds of spending on the platform.
+Even a 90 per cent price cut would not shrink total spending on AI as long as usage keeps growing at its current pace, said Malik Ahmed Khan, a senior equity analyst at Morningstar.
+‘Triple whammy’
+Anthropic’s costs, by contrast, are largely locked in. To stay ahead, each new Claude model has to be bigger than the last, trained on more data using more computing power.
+Since late 2025, the company has committed to paying at least US$417 billion to rent chips and servers.
+That is nearly 13 years of sales at its first-half 2026 pace, and the total could nearly double if cancellable or planned contracts are included.
+These commitments are due no matter the state of its business, Anthropic warns.
+The bet involves the entire industry: Google and Amazon are at once Anthropic’s shareholders, its suppliers and its resellers.
+If AI turns out to be less profitable than expected, the International Monetary Fund fears a “triple whammy” from these intertwined investments: falling stock prices, debts that are harder to repay, and promised revenue that never materializes.
+The independent research firm New Constructs called the listing “an unprecedented test of investor gullibility.”
+To pay these bills, Anthropic is counting on money from the stock market, which is not unlimited.
+SpaceX, Elon Musk’s rocket and AI company, raised record sums there in June, while Google and Meta, which are pouring fortunes into data centres, are also seeking fresh capital.
+OpenAI, whose chief Sam Altman called a listing “ill-advised” this year, has chosen to wait until 2027, giving it time to see how Wall Street treats its big rival. — AFP

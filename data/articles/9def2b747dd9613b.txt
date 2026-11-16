@@ -1,0 +1,20 @@
+URL: https://www.tweaktown.com/news/114717/ps5-hacker-gezine-claims-to-have-dumped-a-game-on-firmware-14-22-the-same-update-gta-vi-reportedly-requires/index.html
+TITLE: PS5 hacker Gezine claims to have dumped a game on firmware 14.22, the same update GTA VI reportedly requires
+OUTLET: TweakTown
+
+Three days out from GTA VI, the PS5 scene has had a curveball. Well-known hacker Gezine says he has dumped a game binary on firmware 14.22, the console update from November 2nd that GTA VI reportedly needs to run. He announced it in a single line on X with a smiley face.
+Go ad-free with SupporterSee plans and prices
+Gezine hasn't said which game it was, how he did it, or whether the method would work on every title. There are no files, no payload, and no tools, so this is a claim and not a release. The firmware requirement hasn't been confirmed by Sony or Rockstar either, though the GTA VI preload is already live with its files still encrypted until launch. In theory, a method that pulls an executable off 14.22 could be applied to GTA VI once it's out, but that remains separate from a working jailbreak.
+It also doesn't look like the breakthrough people were waiting for. Another member of the scene, Echo Stretch, replied that no hypervisor was needed, which matters because Gezine said on October 19 that the old dumping method no longer worked on 14.xx and that a hypervisor exploit might be required.
+If that's right, he has found a different way around the block, which still counts as progress on the latest firmware, even if it isn't the clean dump route people usually want.
+That said, Gezine tends to keep what he finds private, reports through bug bounty programmes, and mostly shows that something works. His 14.10 debug settings demo last month followed the same pattern. Sony has also tended to answer each bit of progress with another update, which may be why he's cautious.
+The most recent firmware that doesn't block the Relapse kernel exploit and Hypervisor-Reborn is 13.60, so anyone wanting to run homebrew has to choose between that and playing GTA VI on day one.
+Story Q&A
+Powered by TweakBot
+From TweakTown's coverage of this story.
+What would need to be released for Gezine's PS5 firmware 14.22 game dump to become a usable jailbreak?
+How is dumping a PS5 game executable different from accessing GTA VI's encrypted preload files?
+What is known about why GTA VI reportedly requires PS5 firmware 14.22, and have Sony or Rockstar confirmed it?
+How does Gezine's 14.22 claim relate to his earlier statement that the old dumping method stopped working on firmware 14.xx?
+Got another question? Ask TweakBot.
+Take-Two doesn't sound too worried yet. CEO Strauss Zelnick told the Wall Street Journal that GTA VI's huge file size and online features make piracy harder, and the publisher has technical and legal measures ready if someone does break through.

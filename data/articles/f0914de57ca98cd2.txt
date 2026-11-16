@@ -1,0 +1,18 @@
+URL: https://www.tradingview.com/news/stockstory:dfbd87d7c094b:0-why-nvidia-stock-is-down-today/
+TITLE: Why Nvidia stock is down today
+OUTLET: TradingView
+
+Why Nvidia stock is down today
+What happened?
+Shares of leading designer of graphics chips Nvidia NVDA fell 4.2% in the afternoon session after the U.S. Commerce Department tightened AI chip export rules and CNBC reported the board is not considering reinstating former CEO Jensen Huang.
+The Bureau of Industry and Security issued an interim rule, directed by Treasury and the National Security Council, requiring licenses for advanced semiconductor shipments to Singapore, Malaysia, Indonesia, Thailand, and Brazil—with exemptions for compliant U.S.-parent firms—and curbing overseas data-center compute access for companies in China and other restricted jurisdictions.
+Even as President Donald Trump said he was open to Huang returning, CNBC reported Nvidia's board is focused on a Wachtell Lipton probe into whether Huang's conduct compromised national security or company secrets. Huang resigned last week and CFO Colette Kress became interim CEO, a Form 8-K showed, ahead of its earnings report.
+The shares closed the day at $156.14, down 4.1% from the previous close.
+What is the market telling us
+Nvidia’s shares are not very volatile and have only had 9 moves greater than 5% over the last year. In that context, today’s move indicates the market considers this news meaningful, although it might not be something that would fundamentally change its perception of the business.
+The previous big move we wrote about was 4 days ago when the stock dropped 7.8% on the news that the company announced that co-founder and Chief Executive Officer Jensen Huang has resigned, with Chief Financial Officer Colette Kress appointed interim chief.
+Huang's departure follows an emergency board review prompted by disclosures of two extramarital relationships, one of which was with a direct report, CNBC and The New York Times reported.According to CNBC, Bernstein downgraded Nvidia to Market Perform from Outperform and halved its price target to $200 from $400, identifying executive turnover as the dominant corporate risk.
+Having directed Nvidia's silicon roadmaps, proprietary CUDA software ecosystem, and customer alliances for 33 years, Huang could be considered a key architect anchoring its valuation. While an experienced finance chief provides administrative stability, the absence of a permanent technical leader could raise concerns relating to execution continuity just as cloud hyperscalers seek second-source suppliers and accelerate custom processor deployments.
+Nvidia is down 17.3% since the beginning of the year, and at $156.15 per share, it is trading 34.7% below its 52-week high of $239.24 from October 2026. Despite the year-to-date decline, investors who bought $1,000 worth of Nvidia’s shares 5 years ago would now be looking at an investment worth $5,170.
+ONE MORE THING: 3 Hidden Platforms Growing 3X Faster than Amazon, Google, and PayPal. Amazon, Google, and Meta all followed the same playbook: Dominate an ignored market. Build an unbeatable moat. Scale until you’re unstoppable.
+These three platforms are running that exact playbook right now. The early investors in Amazon made fortunes. The early investors in these could do the same.
