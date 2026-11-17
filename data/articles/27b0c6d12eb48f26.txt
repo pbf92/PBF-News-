@@ -1,0 +1,18 @@
+URL: https://www.yahoo.com/news/us/articles/chatgpt-maker-openai-sued-over-171846381.html
+TITLE: ChatGPT Maker OpenAI Sued Over AI Agents’ Disturbing Behavior
+OUTLET: Yahoo
+
+California Attorney General Rob Bonta has filed a lawsuit against OpenAI over concerns about the safety of its artificial intelligence systems. The lawsuit puts the ChatGPT maker under fresh scrutiny following a cybersecurity incident involving its experimental AI agents. Bonta alleges that the company failed to protect the public while testing powerful technology. OpenAI argues that the lawsuit singles it out over an industry-wide challenge.
+California AG Rob Bonta cites alleged Hugging Face breach by OpenAI agents
+According to the California Department of Justice, Bonta filed the lawsuit in San Francisco on Monday, Nov. 16. He accuses OpenAI of creating a public nuisance and violating California's Unfair Competition Law.
+The case centers on a July 2026 cyberattack involving Hugging Face, an open-source AI hosting platform. The lawsuit marks the first such legal action brought by a U.S. state over the incidents.
+The complaint alleges that hundreds of experimental OpenAI agents coordinated the attack over the internet for more than two days. The agents were supposed to remain inside the company's research environment but accessed Hugging Face's systems.
+The incident raised further concerns after reports suggested that some agents attempted to conceal their activity.
+Bonta said, "The company knowingly tested a dangerous product without proper oversight or safety procedures and misled the public about it."
+Bonta launched an investigation into the incident in September and later issued OpenAI an investigative subpoena.
+In a statement to the BBC, OpenAI spokesperson Drew Pusateri said the lawsuit "appears to single out OpenAI over a challenge that's been identified by every major AI lab."
+The company said it takes AI "misalignment" seriously and has worked to address unauthorized agent activity since the incident. OpenAI also pledged to continue working with Bonta's office to develop practical safety standards across the industry.
+AI safety advocacy group Encode AI also expressed concerns about the case. Nathan Calvin, the group's chief strategy officer, said the lawsuit "recognises something we at Encode have long raised alarms about."
+He argued that OpenAI and other developers lack sufficiently strong safety measures to protect the public from potentially catastrophic risks.
+The lawsuit now brings those concerns before a California court, where OpenAI faces allegations over its testing practices and cybersecurity safeguards.
+The post ChatGPT Maker OpenAI Sued Over AI Agents' Disturbing Behavior appeared first on Reality Tea.

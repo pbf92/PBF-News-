@@ -1,0 +1,8 @@
+URL: https://www.marketscreener.com/news/harness-announces-linked-billing-integration-with-anthropic-claude-platform-for-cosmos-software-fact-ce785edcdc8bf42c
+TITLE: Harness Announces Linked Billing Integration with Anthropic Claude Platform for Cosmos Software Factory Agent
+OUTLET: www.marketscreener.com
+
+Harness announced that the Harness Cosmos Software Factory Agent now supports Anthropic's linked billing. Linked billing lets customers connect their Claude Platform organization to Cosmos, with no API key to share. Claude API usage in Cosmos is billed directly to that organization, on the customer's existing terms. With this integration, Anthropic bills Claude API usage in Cosmos directly to the customer's Claude organization.
+Admins approve the link, can set a monthly spend limit, and can unlink at any time. Teams can use their Claude organization in Cosmos, with no API key to share, store or rotate. API keys are still supported.
+An Owner, Admin or Billing admin in the customer's Claude organization reviews and approves the link. Admins can set a monthly spend limit or unlink Cosmos at any time in the Claude Console. Anthropic bills the customer's Claude organization for Claude API usage in Cosmos, on their existing terms. The Cosmos subscription remains billed separately.
+Linked billing is available to Cosmos by Harness customers with a Claude Platform organization billed directly by Anthropic.
