@@ -1,0 +1,713 @@
+{
+ "date": "2026-11-17",
+ "type": "weekday",
+ "read_minutes": 7,
+ "note": "UK ONS labour figures out today were not read; Pochettino start details rest on Sports Mole and BBC.",
+ "before_open": [
+  {
+   "time": "5:30 AM",
+   "what": "US Import and Export Price Indexes (October)",
+   "detail": "BLS release; consensus not found.",
+   "url": "https://www.bls.gov/schedule/"
+  },
+  {
+   "time": "After the close",
+   "what": "Nvidia Q3 earnings (first without Jensen Huang; Kress interim CEO)",
+   "detail": "Revenue expected near $108.7bn (Fiscal.ai estimate); exact time not confirmed in sources read.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-end-lower-as-investors-hold-back-ahead-of-nvidia-earnings-anthropic-ipo/cNbaf4PR9gk"
+  },
+  {
+   "time": "Overnight",
+   "what": "Asia shares slid on tech weakness; world markets mostly lower on AI stock pressure (Reuters, AP). US futures roughly flat to +0.1%.",
+   "detail": "Gulf (Bahrain/IRGC) and Crimea bridge strikes are the geopolitical backdrop.",
+   "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-17/"
+  },
+  {
+   "time": "Fed",
+   "what": "No scheduled Fed event confirmed on the Fed calendar page for today; Fed's Warsh spoke Monday on emerging technologies (Reuters). CME flagged 'Fed remarks' in a headline.",
+   "detail": "FOMC minutes expected tomorrow, 11:00 AM PT.",
+   "url": "https://www.federalreserve.gov/newsevents/calendar.htm"
+  }
+ ],
+ "week_ahead": [],
+ "top": [
+  {
+   "headline": "Nasdaq 100 down about 2.7% as Nvidia earnings and Anthropic IPO loom; futures steady",
+   "why": "The AI trade is at its most stretched point of the year going into Nvidia's first report without Jensen Huang, so after-the-bell results tonight can set the tone for Nasdaq futures tomorrow.",
+   "points": [
+    "Monday close: S&P 500 -1.9%, Nasdaq 100 nearly -2.7%, Dow -1.4%; Nasdaq Composite -2.49% (Stocktwits, Eurasia Business News). Chip ETFs fell about 5%.",
+    "Nvidia fell 4.1% to $156.14, a third straight down session, after CNBC reported the board is not considering reinstating Huang; Kress is interim CEO.",
+    "Nvidia is expected to report revenue near $108.7bn (Fiscal.ai estimate) after the close today.",
+    "Tuesday morning futures were roughly flat (Dow +0.03%, S&P and Nasdaq-100 +0.1%) after the selloff (Stocktwits)."
+   ],
+   "next": "Nvidia Q3 results after the close Tue 17 Nov; Anthropic prices Wed 18 Nov and is expected to trade on Nasdaq as ANT on Thu 19 Nov.",
+   "confidence": "reported",
+   "impact": "high",
+   "thread": {
+    "id": "nvidia-earnings-nov",
+    "name": "Nvidia earnings and AI sell-off",
+    "status": "changed",
+    "day": 3
+   },
+   "sources": [
+    {
+     "name": "Stocktwits",
+     "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-end-lower-as-investors-hold-back-ahead-of-nvidia-earnings-anthropic-ipo/cNbaf4PR9gk"
+    },
+    {
+     "name": "Eurasia Business News",
+     "url": "https://eurasiabusinessnews.com/2026/11/17/stock-market-today-nasdaq-slides-2-5-as-nvidia-turmoil-and-chip-restrictions-hit-tech/"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/business/sp-500-nasdaq-futures-slide-nvidia-earnings-anthropic-debut-loom-2026-11-16/"
+    }
+   ],
+   "desk": "world"
+  },
+  {
+   "headline": "Anthropic IPO prices Wednesday: 825M shares at $70-78, demand reported 6x, trading Thursday as ANT",
+   "why": "The first listing of a frontier lab is a read on appetite for AI valuations, landing in a Nasdaq correction and a day before Nvidia's results effect is priced in. Founders keep 50.1% of votes.",
+   "points": [
+    "Terms: 825M shares at $70-78 (up to about $64.4B base); pricing expected Wed 18 Nov, Nasdaq trading Thu 19 Nov under ANT.",
+    "Valuation about $1T on outstanding shares, up to $1.4T fully diluted; Reuters-sourced demand figure of about 6x supply dates from last Thursday.",
+    "Separate $26B private placement from Nvidia, AMD, Broadcom, Google, Micron, Microsoft and TSMC Partners at the IPO price.",
+    "Reported Q3 revenue $16.96B (+47% q/q), run rate about $81B; filing discloses up to $120.5B of SpaceX compute commitments through 2029 (secondary report). Nasdaq fell 2.5% Monday into correction territory."
+   ],
+   "next": "Pricing Wed 18 Nov; first trade Thu 19 Nov; Nvidia earnings after the bell Tue 17 Nov.",
+   "confidence": "reported",
+   "impact": "high",
+   "thread": {
+    "id": "anthropic-ipo",
+    "name": "Anthropic IPO",
+    "status": "changed",
+    "day": 3
+   },
+   "sources": [
+    {
+     "name": "TradingView",
+     "url": "https://www.tradingview.com/news/tradingview:c9875aad3094b:0-ant-anthropic-heads-for-ipo-pricing-with-demand-at-six-times-supply/"
+    },
+    {
+     "name": "TradingView key facts",
+     "url": "https://www.tradingview.com/news/tradingview:a7b6fea959b49:0-key-facts-anthropic-s-60b-ipo-q3-revenue-17b-opus-cuts-costs-40/"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-17/anthropic-ipo-hedge-fund-coatue-has-10-billion-stake-in-claude-maker"
+    }
+   ],
+   "desk": "ai"
+  },
+  {
+   "headline": "GTA VI launch is 48 hours away: unlock times, no multiplayer, reviews unconfirmed",
+   "why": "Launch-night planning: it unlocks at local midnight on 19 Nov, so New Zealand players start first and early impressions may appear from about 3 AM PT on 18 Nov.",
+   "points": [
+    "Unlocks midnight local time on 19 Nov in each store region; Auckland midnight is 3 AM PT on 18 Nov (VICE).",
+    "Launches single-player only on PS5 and Xbox Series X|S; no online date announced.",
+    "Rockstar has not confirmed a review embargo; Bloomberg's Jason Schreier hosts a live Q&A 18 Nov, 8 AM PT.",
+    "Sensor Tower estimates nearly 15m pre-orders and about $1.5bn; it tops PlayStation Store charts in 46 countries (not Japan)."
+   ],
+   "next": "Early NZ unlock about 3 AM PT 18 Nov; Schreier Q&A 8 AM PT 18 Nov; global release 19 Nov.",
+   "confidence": "reported",
+   "impact": "high",
+   "thread": {
+    "id": "gta6-launch",
+    "name": "GTA VI launch",
+    "status": "changed",
+    "day": 23
+   },
+   "sources": [
+    {
+     "name": "VICE",
+     "url": "https://www.vice.com/en/article/gta-6-review-embargo-date/"
+    },
+    {
+     "name": "ThePCEnthusiast",
+     "url": "https://thepcenthusiast.com/gta-6-online-release-date-multiplayer/"
+    },
+    {
+     "name": "OpenCritic (Sensor Tower)",
+     "url": "https://opencritic.com/news/39839/gta-6-tops-playstation-store-charts-in-every-country-but-one"
+    }
+   ],
+   "desk": "gaming"
+  }
+ ],
+ "desks": [
+  {
+   "id": "united",
+   "name": "Manchester United & Football",
+   "status": "story",
+   "note": "",
+   "stories": [
+    {
+     "headline": "Pochettino's United start nears: assistants sent ahead, Carrington on 18 Nov, Liverpool 22 Nov",
+     "why": "The managerial change is now in its handover phase; the first test is a Premier League trip to Liverpool four days after he starts work.",
+     "points": [
+      "Appointed 13 Nov on a two-and-a-half-year deal after Michael Carrick's sacking; officially starts 18 Nov.",
+      "Yahoo and BBC report he has sent trusted assistants to Manchester ahead of his arrival and played down quick-turnaround concerns.",
+      "Still coaching USMNT until his final match this week; he urged Pep Guardiola to take the US job.",
+      "Reported (Yahoo, not confirmed by a core source): United made contact with a World Cup-winning manager before choosing him."
+     ],
+     "next": "Starts at Carrington 18 Nov; Liverpool away 22 Nov; Sporting Lisbon away 25 Nov.",
+     "confidence": "reported",
+     "impact": "high",
+     "thread": {
+      "id": "pochettino-era",
+      "name": "Pochettino era begins",
+      "status": "changed",
+      "day": 5
+     },
+     "sources": [
+      {
+       "name": "Sports Mole (start date, contract, fixtures)",
+       "url": "https://www.sportsmole.co.uk/football/man-utd/news/pochettinos-official-start-date-revealed-as-man-united-confirm-argentines-arrival_609049.html"
+      },
+      {
+       "name": "BBC Sport",
+       "url": "https://www.bbc.co.uk/sport/football/articles/c6ge39lgyzzzo?at_medium=RSS&at_campaign=rss"
+      }
+     ],
+     "desk": "united"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "name": "World Affairs & Politics",
+   "status": "story",
+   "note": "Lead story (Nvidia and the Nasdaq sell-off): see top.",
+   "stories": [
+    {
+     "headline": "December Fed hike is fully priced going into Wednesday's FOMC minutes",
+     "why": "With a hike priced, the minutes' count of October hike supporters is the main Fed read for rate-sensitive Nasdaq futures this week.",
+     "points": [
+      "Fed held at 3.75-4.00% on 28 Oct after a September hike; Cook and Hammack dissented in favour of a 25bp rise (per Admirals, citing the Fed statement).",
+      "CME FedWatch showed a December hike fully priced at 05:12 GMT on 17 Nov (Admirals, citing Anadolu).",
+      "Minutes of the 27-28 Oct meeting expected Wed 18 Nov, 2:00 PM ET (11:00 AM PT); Admirals notes the Fed calendar had not yet posted the date.",
+      "Next rate decision is 9 Dec, with new projections."
+     ],
+     "next": "FOMC minutes Wed 18 Nov 11:00 AM PT (date unconfirmed on Fed calendar); FOMC decision 9 Dec.",
+     "confidence": "reported",
+     "impact": "high",
+     "thread": {
+      "id": "fed-december",
+      "name": "Fed December decision",
+      "status": "changed",
+      "day": 13
+     },
+     "sources": [
+      {
+       "name": "Admirals",
+       "url": "https://admiralmarkets.com/analytics/traders-blog/fomc-minutes-november-2026"
+      }
+     ],
+     "desk": "world"
+    },
+    {
+     "headline": "Gulf tension widens: Bahrain reports Iranian air attacks, US reports a possible dirty-bomb plot",
+     "why": "Gulf shipping and security risk stays a live input for oil and index futures; the dirty-bomb item is an unverified report that Tehran denies.",
+     "points": [
+      "Reuters (17 Nov): Bahrain says it intercepted Iranian air attacks; the IRGC says it targeted US radar.",
+      "Reuters (17 Nov): Trump says the US is taking seriously a report of a possible Iranian dirty-bomb plot in Washington; Tehran denies it.",
+      "AP (16 Nov): a third US aircraft carrier has arrived in the Middle East as Trump keeps options open in the Iran war."
+     ],
+     "next": "No dated catalyst found; watch Gulf headlines and oil into the US open (6:30 AM PT).",
+     "confidence": "reported",
+     "region": "Global",
+     "impact": "high",
+     "thread": {
+      "id": "hormuz",
+      "name": "Strait of Hormuz attacks",
+      "status": "changed",
+      "day": 16
+     },
+     "sources": [
+      {
+       "name": "Reuters",
+       "url": "https://www.reuters.com/world/middle-east/tehran-denies-report-potential-iranian-plan-detonate-dirty-bomb-washington-2026-11-17/"
+      }
+     ],
+     "desk": "world"
+    },
+    {
+     "headline": "Chip-export curbs tighten: China data-centre limit advances, Nvidia forms export-control committee",
+     "why": "Policy risk is adding to the Nvidia leadership story and is part of why chips led Monday's drop.",
+     "points": [
+      "Reuters exclusive (17 Nov): Trump's China data-centre curb advances despite Amazon, Google and Meta lobbying.",
+      "Reuters (17 Nov): Nvidia formed a board committee on national security and export controls.",
+      "AP (16 Nov): the administration moved to block China from indirect access to US AI technology."
+     ],
+     "next": "Nvidia commentary on export controls on tonight's call (17 Nov).",
+     "confidence": "reported",
+     "impact": "medium",
+     "thread": {
+      "id": "nvidia-earnings-nov",
+      "name": "Nvidia earnings and AI sell-off",
+      "status": "changed",
+      "day": 3
+     },
+     "sources": [
+      {
+       "name": "Reuters",
+       "url": "https://www.reuters.com/world/trumps-china-data-center-curb-advances-despite-amazon-google-meta-lobbying-2026-11-17/"
+      },
+      {
+       "name": "Reuters",
+       "url": "https://www.reuters.com/business/nvidia-board-forms-committee-national-security-export-control-oversight-2026-11-17/"
+      }
+     ],
+     "desk": "world"
+    },
+    {
+     "headline": "Ukraine hits Crimean bridge for a second day; Russia pounds Kyiv's bridges",
+     "why": "Escalation on both sides lands while the trilateral-meeting idea is still unsettled, so it cuts against near-term de-escalation hopes.",
+     "points": [
+      "Reuters (17 Nov): Ukraine damaged the Crimean bridge in a major strike as Russia pounded bridges in Kyiv.",
+      "Russia says it was Ukraine's second day of strikes on the bridge and its biggest drone attack of the war (Russian claim, per Reuters).",
+      "Reuters (16 Nov): the IMF says it is near a $1.6bn deal with Ukraine once financing assurances are secured."
+     ],
+     "next": "No dated catalyst found; watch for any date for the three-power meeting and the IMF board decision.",
+     "confidence": "reported",
+     "region": "Global",
+     "impact": "medium",
+     "thread": {
+      "id": "ukraine-talks",
+      "name": "Russia–Ukraine talks",
+      "status": "changed",
+      "day": 7
+     },
+     "sources": [
+      {
+       "name": "Reuters",
+       "url": "https://www.reuters.com/world/europe/ukraine-strikes-crimean-bridge-second-day-russia-pounds-kyiv-bridges-2026-11-17/"
+      },
+      {
+       "name": "Reuters",
+       "url": "https://www.reuters.com/world/imf-says-it-is-near-deal-with-ukraine-16-billion-once-financing-assurances-2026-11-16/"
+      }
+     ],
+     "desk": "world"
+    },
+    {
+     "headline": "Trump opens Asia trip in Manila with Quad talks, ahead of China visit and APEC",
+     "why": "Trade and security deals on this trip, and any Trump-Xi or Trump-Kim contact, can move tariff and chip-export expectations.",
+     "points": [
+      "AP and Reuters (17 Nov): Trump arrived in the Philippines with economic deals and talks with allies; Quad talks in Manila come before his China visit.",
+      "Reuters: a Trump-Kim meeting on the APEC sidelines appears more likely, per analysts (analyst view, not confirmed).",
+      "Reuters: Shenzhen has banned horns and drones for Trump's visit and APEC."
+     ],
+     "next": "Quad talks in Manila, then China and APEC in Shenzhen this week (exact dates not in sources read).",
+     "confidence": "reported",
+     "region": "US",
+     "impact": "medium",
+     "thread": {
+      "id": "trump-asia-trip",
+      "name": "Trump Asia trip",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "AP News",
+       "url": "https://apnews.com/article/trump-asia-manila-asean-xi-putin-c94386cd092482d94dca38fc8b8d51a7"
+      }
+     ],
+     "desk": "world"
+    }
+   ]
+  },
+  {
+   "id": "prop",
+   "name": "Futures & Prop Firms",
+   "status": "story",
+   "note": "Topstep country list and offboarding terms come via Tokenpost/Finance Magnates; check Topstep help centre for the final word.",
+   "stories": [
+    {
+     "headline": "Topstep bars new traders from 13 countries over coordinated fraud activity",
+     "why": "Topstep is on your watchlist and has moved from account-level bans to country-level restrictions, a tougher stance on ID bypass and hedging rings. Other firms are likely to watch this approach.",
+     "points": [
+      "Topstep announced on X on 16 Nov that restrictions apply this week; it says fewer than 1,000 current traders are affected (Tokenpost counts 967 active).",
+      "Countries listed by Tokenpost: Andorra, Cambodia, Ethiopia, Guinea, Kyrgyzstan, Laos, Macao, Mozambique, Namibia, Senegal, Serbia, Uzbekistan, Zimbabwe.",
+      "Topstep cited attempts to bypass ID verification and payment safeguards and coordinated trading across accounts that kept returning under new profiles.",
+      "Tokenpost reports existing affected traders have until the end of 2026 to offboard; I could not confirm this on a Topstep page."
+     ],
+     "next": "Topstep said it will share more detail on affected countries and next steps on its socials this week; check its help centre for the final list and offboarding terms.",
+     "confidence": "reported",
+     "impact": "medium",
+     "thread": {
+      "id": "topstep-country-restrictions",
+      "name": "Topstep country restrictions",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Finance Magnates",
+       "url": "https://www.financemagnates.com/forex/topstep-blocks-13-countries-following-surge-in-coordinated-prop-fraud/"
+      },
+      {
+       "name": "Tokenpost",
+       "url": "https://www.tokenpost.com/news/business/59279"
+      }
+     ],
+     "desk": "prop"
+    }
+   ]
+  },
+  {
+   "id": "tradetech",
+   "name": "Trading Technology",
+   "status": "quiet",
+   "note": "Brief headlines were stock-market noise; a search for the TradingView tick-based order-flow thread found no new announcement. Nothing cleared the bar.",
+   "stories": []
+  },
+  {
+   "id": "ai",
+   "name": "Artificial Intelligence",
+   "status": "story",
+   "note": "Lead story (Anthropic IPO): see top. Fable 5.2 / Mythos 5.2 coverage cut as already reported 13 Nov.",
+   "stories": [
+    {
+     "headline": "Anthropic roadshow says Mythos ported Claude to AMD chips in about three days",
+     "why": "If it holds up, AI-written kernels weaken Nvidia's CUDA lock-in and strengthen Anthropic's hand with chipmakers. It is a roadshow claim with a narrow test.",
+     "points": [
+      "Co-founder Tom Brown: Claude ran on AMD in about three days with almost no human intervention, versus 6-12 months for teams of dozens.",
+      "Slide footnote: test covered prompt processing on MI355X; reached a 'usable performance level' only.",
+      "AMD has a July deal for up to 2GW of MI450 chips with up to $5B investment into Anthropic; Nvidia is also in the $26B placement."
+     ],
+     "next": "Nvidia earnings tonight (17 Nov) and ANT debut Thu 19 Nov.",
+     "confidence": "claim",
+     "impact": "medium",
+     "thread": {
+      "id": "anthropic-ipo",
+      "name": "Anthropic IPO",
+      "status": "changed",
+      "day": 3
+     },
+     "sources": [
+      {
+       "name": "Trending Topics",
+       "url": "https://www.trendingtopics.eu/anthropic-mythos-amd-chips-cuda-moat/"
+      }
+     ],
+     "desk": "ai"
+    }
+   ]
+  },
+  {
+   "id": "business",
+   "name": "Business & E-commerce",
+   "status": "story",
+   "note": "",
+   "stories": [
+    {
+     "headline": "Meta pauses updated ad and commerce terms that would let it crawl merchant sites for AI training",
+     "why": "If you run Meta catalogue or ads, the paused terms would have made data access for AI a condition of service. The pause is not a withdrawal, so audit what Meta can take.",
+     "points": [
+      "Changes to Commercial, Product Catalog, Self-Serve Ad and Ad Creative Generative AI terms were due 30 Oct 2026; Meta paused after backlash (NiemanLab/Reuters, via a secondary outlet).",
+      "Commentator advice: track what Meta sends you via UTMs, check server logs for Meta crawlers, and build owned channels (email, site).",
+      "Meta is reportedly testing a fee for Pages posting outside links."
+     ],
+     "next": "No date given for the terms to return; watch for a revised notice before BFCM.",
+     "confidence": "reported",
+     "impact": "medium",
+     "thread": {
+      "id": "meta-semantic-ads",
+      "name": "Meta semantic ad delivery",
+      "status": "changed",
+      "day": 21
+     },
+     "sources": [
+      {
+       "name": "The Business Manual",
+       "url": "https://thebusinessmanual.ph/news/meta-pauses-facebook-ad-terms-ai-scraping/"
+      }
+     ],
+     "desk": "business"
+    }
+   ]
+  },
+  {
+   "id": "faith",
+   "name": "Christianity & Theology",
+   "status": "story",
+   "note": "",
+   "stories": [
+    {
+     "headline": "Pope Leo rules out married priests for now, keeps Latin Mass limits",
+     "why": "His first public word on a long-debated reform: no change to priestly celibacy in the near term, with unity as the stated priority. It sets the tone of his papacy on two flashpoints for traditionalists and reformers alike.",
+     "points": [
+      "Said on the flight back to Rome after a 12-day South America tour, reported Tuesday 17 Nov",
+      "Called married clergy 'a solution which in certain areas of the Church can cause division' but said 'it may be in the future that some things will change'",
+      "Will not reverse Francis's limits on the old Latin Mass, citing unity for the majority of Catholics",
+      "Francis also declined to act on a Vatican synod request to ordain married men in remote regions such as the Amazon"
+     ],
+     "next": "No date set; Leo said he wants time for Catholics to weigh the Church's priorities.",
+     "confidence": "reported",
+     "impact": "medium",
+     "thread": {
+      "id": "pope-leo-peru-trip",
+      "name": "Pope Leo's Peru trip",
+      "status": "changed",
+      "day": 2
+     },
+     "sources": [
+      {
+       "name": "Premier Christian News (wire report)",
+       "url": "https://premierchristian.news/en/news/article/pope-leo-says-no-to-proposals-for-married-catholic-priests-for-now"
+      }
+     ],
+     "desk": "faith"
+    },
+    {
+     "headline": "Apologist Wes Huff faces plagiarism allegations over 2016 seminary paper",
+     "why": "A prominent popular apologist is under board review after scholars alleged uncredited borrowing; a test of integrity standards in public apologetics. Allegations so far, not findings.",
+     "points": [
+      "Dan McClellan's 8 Nov video alleged Huff's 2016 Tyndale Seminary paper on John's Gospel copied large parts of Brian J. Wright's 2010 paper without citation",
+      "Stephen C. Carlson (Australian Catholic University) also alleged copying of his work",
+      "Huff said he takes the concerns 'seriously', is stepping back from public comment, and Apologetics Canada's board is reviewing",
+      "Wright told The Blaze he extends grace but that forgiveness does not remove accountability"
+     ],
+     "next": "Outcome of the Apologetics Canada board review; no date given.",
+     "confidence": "reported",
+     "impact": "medium",
+     "sources": [
+      {
+       "name": "Premier Christian News",
+       "url": "https://premierchristian.news/en/news/article/christian-apologist-wes-huff-responds-to-claims-of-plagiarism-in-his-papers"
+      }
+     ],
+     "desk": "faith"
+    },
+    {
+     "headline": "Megiddo dig finds Canaanite ritual pit with ram-shaped vessel, 5,000-year-old winepress",
+     "why": "Gives rare physical evidence of non-elite worship outside the temple at the site behind 'Armageddon', and early proof of winemaking in the region.",
+     "points": [
+      "IAA salvage excavation along a highway beside Megiddo found a favissa from the end of the Late Bronze Age (c. 3,300 years ago)",
+      "Finds include a model shrine, Cypriot imports and an intact ram-shaped libation vessel",
+      "Rock-cut Early Bronze Age winepress (c. 5,000 years ago) described by directors Amir Golani and Barak Tzin as a 'smoking gun' for ancient wine",
+      "Interpretation that worshippers were kept outside the temple is the researchers' inference"
+     ],
+     "next": "No date; full excavation publication pending.",
+     "confidence": "reported",
+     "impact": "low",
+     "sources": [
+      {
+       "name": "Biblical Archaeology Society",
+       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/canaanite-folk-worship-at-megiddo/"
+      }
+     ],
+     "desk": "faith"
+    }
+   ]
+  },
+  {
+   "id": "health",
+   "name": "Health & Wellness",
+   "status": "story",
+   "note": "",
+   "stories": [
+    {
+     "headline": "Wegovy cuts BMI 13.5% in children aged 6 to 11, but vomiting common and BMI rebounds off drug",
+     "why": "First phase 3 data in under-12s with obesity: effective, but side effects and rebound suggest long-term treatment, and it is not approved for this age in the US.",
+     "points": [
+      "STEP Young, NEJM 16 Nov: 167 children, 68 weeks; BMI -13.5% on semaglutide vs +2.7% on placebo (treatment-policy estimate; company's on-treatment figure -17.4%)",
+      "38.4% no longer classed as obese vs 2.1% on placebo",
+      "Vomiting 70% vs 29%; diarrhoea 62% vs 35%; nausea 58% vs 24%; serious adverse events 9% in both",
+      "BMI rose during a seven-week off-drug break; long off-drug data not yet available"
+     ],
+     "next": "Regulatory filings for under-12s not reported; watch for any FDA/EMA submission.",
+     "confidence": "reported",
+     "grade": "B",
+     "study": "Phase 3 double-blind RCT, n=167, children 6-11 with obesity (mostly class II-III); industry-funded, modest size, limited off-treatment follow-up",
+     "impact": "high",
+     "sources": [
+      {
+       "name": "Medical Daily",
+       "url": "https://www.medicaldaily.com/semaglutide-children-step-young-trial-results-481319"
+      }
+     ],
+     "desk": "health"
+    },
+    {
+     "headline": "Cochrane: kangaroo care probably cuts deaths and infections in small babies",
+     "why": "Strongest evidence yet for a free, low-tech intervention; the unanswered question is how many hours a day are needed.",
+     "points": [
+      "Updated review of 49 RCTs, 7,724 low-birthweight or preterm newborns, more than doubling the 2016 review",
+      "Probably reduces in-hospital death, hospital-acquired infection and sepsis; may increase exclusive breastfeeding and reduce hypothermia",
+      "Effect clearest in low-resource settings",
+      "Insufficient evidence on whether longer than WHO's 8 hours a day helps more"
+     ],
+     "next": "WHO guidance may be revisited; no date given.",
+     "confidence": "official data",
+     "grade": "A",
+     "study": "Cochrane systematic review of 49 RCTs, n=7,724 newborns; varied definitions of kangaroo care, most evidence from low- and middle-income countries",
+     "impact": "medium",
+     "sources": [
+      {
+       "name": "Cochrane",
+       "url": "https://www.cochrane.org/about-us/news/kangaroo-care-can-save-small-babies"
+      }
+     ],
+     "desk": "health"
+    },
+    {
+     "headline": "Cochrane: daily iron prevents anaemia in children, with little effect on common illnesses",
+     "why": "Reassures on a common worry that iron raises infection risk; useful context for supplementing children and adolescents.",
+     "points": [
+      "Review of 114 studies, over 50,000 children and adolescents, led by Cornell",
+      "Iron alone probably reduces iron deficiency anaemia versus none or placebo",
+      "No effect on height or weight, or on cough, fever or respiratory illness",
+      "Many trials in Asia in under-fives; certainty for other combinations moderate to very low"
+     ],
+     "next": "WHO guidelines (last updated 2016) may be reviewed; no date given.",
+     "confidence": "official data",
+     "grade": "A",
+     "study": "Cochrane systematic review, 114 studies, >50,000 children/adolescents; heterogeneous trials, mostly Asian under-5s",
+     "impact": "medium",
+     "sources": [
+      {
+       "name": "Cochrane",
+       "url": "https://www.cochrane.org/about-us/news/daily-iron-supplements-reduce-iron-deficiency-anaemia-children-and-adolescents"
+      }
+     ],
+     "desk": "health"
+    },
+    {
+     "headline": "Blood p-tau217 plus age, sex and APOE gives 5- and 10-year cognitive decline risk estimate",
+     "why": "Moves Alzheimer's blood testing from positive/negative to a personalised risk figure, relevant as preventive therapies are studied.",
+     "points": [
+      "Mayo Clinic, JAMA Neurology: 1,644 cognitively healthy people (Mayo Study of Aging), validated in 534 from ADNI, aged 60-90",
+      "Example: 75-year-old non-APOE e4 woman, 5-year MCI risk 5% at low p-tau217 vs 16% at high; 10-year 12% vs 35%",
+      "At high p-tau217, 5-year MCI risk ranged from 6% at 65 to 37% at 85"
+     ],
+     "next": "Needs validation in more diverse groups before clinical use.",
+     "confidence": "reported",
+     "grade": "B",
+     "study": "Prospective cohort with external validation, n=2,178 total, ages 60-90; largely research cohorts, not tested in routine care",
+     "impact": "medium",
+     "sources": [
+      {
+       "name": "Mirage News (Mayo Clinic release)",
+       "url": "https://www.miragenews.com/mayo-study-blood-biomarker-may-predict-1778197/"
+      }
+     ],
+     "desk": "health"
+    }
+   ]
+  },
+  {
+   "id": "gaming",
+   "name": "Gaming & PlayStation",
+   "status": "story",
+   "note": "Lead story (GTA VI launch): see top. Unconfirmed: PS5 hacker Gezine claims a game dump on firmware 14.22 (TweakTown; no files or method released).",
+   "stories": [
+    {
+     "headline": "Xbox Black Friday sale runs 19 Nov to 2 Dec, US discounts up to 80%",
+     "why": "Minor, but relevant to next-gen Xbox watchers and deal hunters; US-only discounts.",
+     "points": [
+      "Starts 19 Nov, 9 PM PST; more than 2,000 games on sale.",
+      "Examples: Gears of War: E-Day Premium 30% off, Forza Horizon 6 Premium 25% off, NBA 2K27 55% off.",
+      "More offers from 23 Nov."
+     ],
+     "next": "Sale starts 19 Nov, 9 PM PST.",
+     "confidence": "confirmed",
+     "impact": "low",
+     "thread": {
+      "id": "xbox-black-friday",
+      "name": "Xbox Black Friday sale",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Xbox Wire",
+       "url": "https://news.xbox.com/en-us/2026/11/16/xbox-black-friday-sale-2026/"
+      }
+     ],
+     "desk": "gaming"
+    }
+   ]
+  },
+  {
+   "id": "expand",
+   "name": "Expand My World",
+   "status": "story",
+   "note": "",
+   "stories": [
+    {
+     "headline": "A Neanderthal-inherited gene variant shrinks visual brain areas and lowers schizophrenia risk",
+     "why": "A single inherited deletion with an unusually strong effect on brain anatomy, tracing to interbreeding, and a link to a disease risk. A neat window into what we carry from other humans.",
+     "points": [
+      "PNAS study by Hugo Zeberg and Svante Pääbo (Max Planck, Leipzig), reported 16 Nov",
+      "Four-nucleotide deletion on chromosome 14 found in all five detailed Neanderthal genomes, absent in Denisovans, present only in people of non-African ancestry",
+      "Sits in a 59.7 kb chunk of DNA, too long to be from a shared ancestor, pointing to interbreeding",
+      "Carriers have reduced occipital (visual processing) lobe volume and lower schizophrenia risk"
+     ],
+     "next": "Follow-up work on why reduced visual cortex relates to lower schizophrenia risk.",
+     "confidence": "reported",
+     "impact": "low",
+     "sources": [
+      {
+       "name": "Nature News",
+       "url": "https://www.nature.com/articles/d41586-026-03762-0"
+      }
+     ],
+     "desk": "expand"
+    }
+   ]
+  }
+ ],
+ "watching": [
+  {
+   "thread": "uk-economy",
+   "line": "ONS published the November labour-market release today (earnings, employment, vacancies); figures not read, check before relying on the BoE-hike picture."
+  },
+  {
+   "thread": "baleba-injury",
+   "line": "No new club update; still a doubt for Liverpool on 22 Nov."
+  },
+  {
+   "thread": "topstep-nov-2026-rules",
+   "line": "No official Topstep confirmation of the third-party November payout and Live funding changes seen today; still unverified."
+  },
+  {
+   "thread": "tv-tick-orderflow",
+   "line": "No new announcement found; plan requirements and rollout still unconfirmed."
+  },
+  {
+   "thread": "frontier-agents",
+   "line": "Fable 5.2 / Mythos 5.2 now shipping; Anthropic reports Mythos finds 10.2% more vulnerabilities than Opus 5.5 (company claim)."
+  }
+ ],
+ "close_threads": [],
+ "expand": {
+  "headline": "A Neanderthal-inherited gene variant shrinks visual brain areas and lowers schizophrenia risk",
+  "why": "A single inherited deletion with an unusually strong effect on brain anatomy, tracing to interbreeding, and a link to a disease risk. A neat window into what we carry from other humans.",
+  "points": [
+   "PNAS study by Hugo Zeberg and Svante Pääbo (Max Planck, Leipzig), reported 16 Nov",
+   "Four-nucleotide deletion on chromosome 14 found in all five detailed Neanderthal genomes, absent in Denisovans, present only in people of non-African ancestry",
+   "Sits in a 59.7 kb chunk of DNA, too long to be from a shared ancestor, pointing to interbreeding",
+   "Carriers have reduced occipital (visual processing) lobe volume and lower schizophrenia risk"
+  ],
+  "next": "Follow-up work on why reduced visual cortex relates to lower schizophrenia risk.",
+  "confidence": "reported",
+  "impact": "low",
+  "sources": [
+   {
+    "name": "Nature News",
+    "url": "https://www.nature.com/articles/d41586-026-03762-0"
+   }
+  ],
+  "desk": "expand"
+ },
+ "generated_at": "2026-11-17T13:27:51Z",
+ "updates": [],
+ "status": {
+  "story": 9,
+  "quiet": 1,
+  "failed": 0
+ }
+}

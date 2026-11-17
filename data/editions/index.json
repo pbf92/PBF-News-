@@ -1,6 +1,21 @@
 {
- "latest": "2026-11-16",
+ "latest": "2026-11-17",
  "editions": [
+  {
+   "date": "2026-11-17",
+   "type": "weekday",
+   "top": [
+    "Nasdaq 100 down about 2.7% as Nvidia earnings and Anthropic IPO loom; futures steady",
+    "Anthropic IPO prices Wednesday: 825M shares at $70-78, demand reported 6x, trading Thursday as ANT",
+    "GTA VI launch is 48 hours away: unlock times, no multiplayer, reviews unconfirmed"
+   ],
+   "status": {
+    "story": 9,
+    "quiet": 1,
+    "failed": 0
+   },
+   "updates": 0
+  },
   {
    "date": "2026-11-16",
    "type": "weekday",

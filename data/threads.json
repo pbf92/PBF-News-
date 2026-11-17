@@ -5,10 +5,11 @@
    "name": "Pochettino era begins",
    "desk": "united",
    "started": "2026-11-13",
-   "last_changed": "2026-11-13",
+   "last_changed": "2026-11-17",
    "status": "active",
-   "last_line": "Starts at Carrington 18 Nov; Liverpool away 22 Nov.",
-   "day": 4
+   "last_line": "The managerial change is now in its handover phase; the first test is a Premier League trip to Liverpool four days after he starts work.",
+   "day": 5,
+   "last_seen": "2026-11-17"
   },
   {
    "id": "baleba-injury",
@@ -18,7 +19,7 @@
    "last_changed": "2026-11-13",
    "status": "active",
    "last_line": "No club update since 6 Nov; doubt for Liverpool.",
-   "day": 11
+   "day": 12
   },
   {
    "id": "senate-leadership",
@@ -28,17 +29,18 @@
    "last_changed": "2026-11-13",
    "status": "active",
    "last_line": "Van Hollen challenge; secret ballot expected in December.",
-   "day": 4
+   "day": 5
   },
   {
    "id": "fed-december",
    "name": "Fed December decision",
    "desk": "world",
    "started": "2026-11-05",
-   "last_changed": "2026-11-13",
+   "last_changed": "2026-11-17",
    "status": "active",
-   "last_line": "Firm CPI/PPI keep a December hike on the table.",
-   "day": 12
+   "last_line": "With a hike priced, the minutes' count of October hike supporters is the main Fed read for rate-sensitive Nasdaq futures this week.",
+   "day": 13,
+   "last_seen": "2026-11-17"
   },
   {
    "id": "uk-economy",
@@ -48,7 +50,7 @@
    "last_changed": "2026-11-13",
    "status": "active",
    "last_line": "BoE at 4%, sees CPI near 5% by mid-2027.",
-   "day": 5
+   "day": 6
   },
   {
    "id": "rba-rates",
@@ -58,7 +60,7 @@
    "last_changed": "2026-11-13",
    "status": "active",
    "last_line": "Cash rate 4.85%, fifth rise of 2026.",
-   "day": 13
+   "day": 14
   },
   {
    "id": "au-visas",
@@ -68,40 +70,40 @@
    "last_changed": "2026-11-13",
    "status": "active",
    "last_line": "Government reviewing ballot and caps.",
-   "day": 4
+   "day": 5
   },
   {
    "id": "hormuz",
    "name": "Strait of Hormuz attacks",
    "desk": "world",
    "started": "2026-11-02",
-   "last_changed": "2026-11-16",
+   "last_changed": "2026-11-17",
    "status": "active",
-   "last_line": "Shipping-lane risk is back in the price of Gulf assets and oil headlines, a live input for index futures this week.",
-   "day": 15,
-   "last_seen": "2026-11-16"
+   "last_line": "Gulf shipping and security risk stays a live input for oil and index futures; the dirty-bomb item is an unverified report that Tehran denies.",
+   "day": 16,
+   "last_seen": "2026-11-17"
   },
   {
    "id": "ukraine-talks",
    "name": "Russia–Ukraine talks",
    "desk": "world",
    "started": "2026-11-11",
-   "last_changed": "2026-11-15",
+   "last_changed": "2026-11-17",
    "status": "active",
-   "last_line": "A first joint meeting of the three nuclear powers could shift the Ukraine and arms-control picture, but Beijing looks lukewarm and nothing is settled.",
-   "day": 6,
-   "last_seen": "2026-11-15"
+   "last_line": "Escalation on both sides lands while the trilateral-meeting idea is still unsettled, so it cuts against near-term de-escalation hopes.",
+   "day": 7,
+   "last_seen": "2026-11-17"
   },
   {
    "id": "gta6-launch",
    "name": "GTA VI launch",
    "desk": "gaming",
    "started": "2026-10-26",
-   "last_changed": "2026-11-16",
+   "last_changed": "2026-11-17",
    "status": "active",
-   "last_line": "Leave room on the drive and expect a download on launch night.",
-   "day": 22,
-   "last_seen": "2026-11-16"
+   "last_line": "Launch-night planning: it unlocks at local midnight on 19 Nov, so New Zealand players start first and early impressions may appear from about 3 AM PT on 18 Nov.",
+   "day": 23,
+   "last_seen": "2026-11-17"
   },
   {
    "id": "frontier-agents",
@@ -111,17 +113,18 @@
    "last_changed": "2026-11-13",
    "status": "active",
    "last_line": "Fable 5.2 / Mythos 5.2 and Gemini 4 Carbon aimed at extended agent work.",
-   "day": 8
+   "day": 9
   },
   {
    "id": "meta-semantic-ads",
    "name": "Meta semantic ad delivery",
    "desk": "business",
    "started": "2026-10-28",
-   "last_changed": "2026-11-13",
+   "last_changed": "2026-11-17",
    "status": "active",
-   "last_line": "Andromeda / GEM / GenRecs; check backend vs reported conversions through BFCM.",
-   "day": 20
+   "last_line": "If you run Meta catalogue or ads, the paused terms would have made data access for AI a condition of service. The pause is not a withdrawal, so audit what Meta can take.",
+   "day": 21,
+   "last_seen": "2026-11-17"
   },
   {
    "id": "testosterone-beyond-deficiency",
@@ -132,7 +135,7 @@
    "last_changed": "2026-11-15",
    "last_line": "A cautious null: too little evidence to say either way. Relevant to the wider debate on testosterone outside classic deficiency.",
    "last_seen": "2026-11-15",
-   "day": 2
+   "day": 3
   },
   {
    "id": "nvidia-earnings-nov",
@@ -140,10 +143,10 @@
    "desk": "world",
    "started": "2026-11-15",
    "status": "active",
-   "last_changed": "2026-11-16",
-   "last_line": "This reverses this morning's line that Huang was discussing a comeback, and it lands as an AI-led sell-off hits the market the day before Nvidia's first results without him.",
-   "last_seen": "2026-11-16",
-   "day": 2
+   "last_changed": "2026-11-17",
+   "last_line": "Policy risk is adding to the Nvidia leadership story and is part of why chips led Monday's drop.",
+   "last_seen": "2026-11-17",
+   "day": 3
   },
   {
    "id": "anthropic-ipo",
@@ -151,10 +154,10 @@
    "desk": "ai",
    "started": "2026-11-15",
    "status": "active",
-   "last_changed": "2026-11-15",
-   "last_line": "A listing of a frontier lab would be a major market event and a read on appetite for AI valuations; details below are secondary-source and unconfirmed.",
-   "last_seen": "2026-11-15",
-   "day": 2
+   "last_changed": "2026-11-17",
+   "last_line": "If it holds up, AI-written kernels weaken Nvidia's CUDA lock-in and strengthen Anthropic's hand with chipmakers. It is a roadshow claim with a narrow test.",
+   "last_seen": "2026-11-17",
+   "day": 3
   },
   {
    "id": "topstep-nov-2026-rules",
@@ -165,7 +168,7 @@
    "last_changed": "2026-11-15",
    "last_line": "Topstep is on your watchlist and several November changes touch payouts and Live funding. These come from a third-party change tracker, not Topstep, so check Topstep's help pages before relying on the",
    "last_seen": "2026-11-15",
-   "day": 2
+   "day": 3
   },
   {
    "id": "tv-tick-orderflow",
@@ -176,7 +179,7 @@
    "last_changed": "2026-11-15",
    "last_line": "Tick-level order-flow data should make delta and CVD readings on TradingView more accurate for futures day trading. I could not open the announcement, so plan requirements and rollout are unconfirmed.",
    "last_seen": "2026-11-15",
-   "day": 2
+   "day": 3
   },
   {
    "id": "agent-payments",
@@ -187,7 +190,7 @@
    "last_changed": "2026-11-15",
    "last_line": "Agents that can pay are the missing step for autonomous shopping and workflows; it also puts OpenAI into checkout, where merchants must decide whether to let agents through.",
    "last_seen": "2026-11-15",
-   "day": 2
+   "day": 3
   },
   {
    "id": "lpa-pelacarsen",
@@ -198,7 +201,7 @@
    "last_changed": "2026-11-15",
    "last_line": "The first big outcomes test of lowering Lp(a), a genetically set heart-risk factor, came back neutral, so Lp(a) lowering is not yet a proven way to cut events. Conventional risk-factor control stays t",
    "last_seen": "2026-11-15",
-   "day": 2
+   "day": 3
   },
   {
    "id": "agent-tooling-security",
@@ -209,7 +212,7 @@
    "last_changed": "2026-11-16",
    "last_line": "A fake 'Claude Code' extension got into Cursor's marketplace. If you install coding-agent extensions, check what you have and rotate any API keys.",
    "last_seen": "2026-11-16",
-   "day": 1
+   "day": 2
   },
   {
    "id": "ai-science-claims",
@@ -220,7 +223,7 @@
    "last_changed": "2026-11-16",
    "last_line": "A concrete claim of an AI model contributing to theoretical physics proof work, published alongside a new OpenAI science blog. It is a company claim until independent physicists review it.",
    "last_seen": "2026-11-16",
-   "day": 1
+   "day": 2
   },
   {
    "id": "pope-leo-peru-trip",
@@ -228,10 +231,10 @@
    "desk": "faith",
    "started": "2026-11-16",
    "status": "active",
-   "last_changed": "2026-11-16",
-   "last_line": "Leo's first return to the diocese where he served as bishop mixes the pastoral (huge crowds, justice themes) with an unresolved abuse accountability question.",
-   "last_seen": "2026-11-16",
-   "day": 1
+   "last_changed": "2026-11-17",
+   "last_line": "His first public word on a long-debated reform: no change to priestly celibacy in the near term, with unity as the stated priority. It sets the tone of his papacy on two flashpoints for traditionalist",
+   "last_seen": "2026-11-17",
+   "day": 2
   },
   {
    "id": "horvat-burgin-opening",
@@ -242,7 +245,7 @@
    "last_changed": "2026-11-16",
    "last_line": "Rare public access to physical evidence of the second Jewish revolt against Rome and of Byzantine Christianity in the Judean foothills.",
    "last_seen": "2026-11-16",
-   "day": 1
+   "day": 2
   },
   {
    "id": "helus-psychedelic-depression",
@@ -253,7 +256,7 @@
    "last_changed": "2026-11-16",
    "last_line": "A late-stage psychedelic antidepressant signal, but safety is the open issue before any regulatory path.",
    "last_seen": "2026-11-16",
-   "day": 1
+   "day": 2
   },
   {
    "id": "cg-oncology-bladder",
@@ -264,7 +267,7 @@
    "last_changed": "2026-11-16",
    "last_line": "A large reported effect in non-muscle-invasive bladder cancer that STAT says may change treatment for some patients.",
    "last_seen": "2026-11-16",
-   "day": 1
+   "day": 2
   },
   {
    "id": "ps5-qssr",
@@ -275,6 +278,39 @@
    "last_changed": "2026-11-16",
    "last_line": "PS5 image quality is improving via software, and PlayStation's Black Friday sale has started, including a UK Ghost of Yotei price.",
    "last_seen": "2026-11-16",
+   "day": 2
+  },
+  {
+   "id": "trump-asia-trip",
+   "name": "Trump Asia trip",
+   "desk": "world",
+   "started": "2026-11-17",
+   "status": "active",
+   "last_changed": "2026-11-17",
+   "last_line": "Trade and security deals on this trip, and any Trump-Xi or Trump-Kim contact, can move tariff and chip-export expectations.",
+   "last_seen": "2026-11-17",
+   "day": 1
+  },
+  {
+   "id": "topstep-country-restrictions",
+   "name": "Topstep country restrictions",
+   "desk": "prop",
+   "started": "2026-11-17",
+   "status": "active",
+   "last_changed": "2026-11-17",
+   "last_line": "Topstep is on your watchlist and has moved from account-level bans to country-level restrictions, a tougher stance on ID bypass and hedging rings. Other firms are likely to watch this approach.",
+   "last_seen": "2026-11-17",
+   "day": 1
+  },
+  {
+   "id": "xbox-black-friday",
+   "name": "Xbox Black Friday sale",
+   "desk": "gaming",
+   "started": "2026-11-17",
+   "status": "active",
+   "last_changed": "2026-11-17",
+   "last_line": "Minor, but relevant to next-gen Xbox watchers and deal hunters; US-only discounts.",
+   "last_seen": "2026-11-17",
    "day": 1
   }
  ]
