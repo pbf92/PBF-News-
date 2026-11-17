@@ -1,0 +1,26 @@
+URL: https://siliconangle.com/2026/11/17/autonomous-orchestration-helps-kubernetes-keep-up-ai-agents-kubeconna/
+TITLE: Autonomous orchestration helps Kubernetes keep up with AI agents
+OUTLET: SiliconANGLE
+
+Idle, then spiking: Why AI agents are breaking Kubernetes resource planning
+AI agents are changing the economics of cloud infrastructure, and autonomous orchestration is becoming the way platform teams keep up. Agentic workloads sit idle and then spike without warning. That pattern leaves static resource settings either wasteful or likely to fail.
+Container orchestration for AI is fast becoming the backbone of production AI, and agents are adding a new layer of strain. Compute costs are climbing and reliability problems are harder to contain because everything an agent does ultimately runs on CPU and memory, according to Yodar Shafrir (pictured), founder and chief executive officer of ScaleOps Inc.
+“Agents and all the agent workloads pretty much made everything way more complex when managing infrastructure,” Shafrir said. “Eventually, all the complexity that existed before just got much worse. Today, the compute cost has grown dramatically. Everything that agents execute eventually runs on compute.”
+Shafrir spoke with theCUBE Research’s Paul Nashawaty and Rebecca Knight at KubeCon + CloudNativeCon NA, during an exclusive broadcast on theCUBE, SiliconANGLE Media’s livestreaming studio. They discussed how autonomous orchestration lets ScaleOps adjust resources in real time as AI agents spike, cutting both costs and crashes. (* Disclosure below.)
+Why autonomous orchestration fits the agentic era
+Agents behave differently from traditional microservices. An agent waits for a human or another agent, checks with a large language model and then runs its task in a burst. Teams must provision for the highest spike while the agent holds its memory the whole time, Shafrir explained. When resources fall short, a crashed step has to rerun and burns tokens all over again.
+“We actually see that agents crash due to not having enough resources 80% more often compared with traditional microservices,” Shafrir said. “The reliability is much harder to manage.”
+For ScaleOps, the answer is to make resource decisions in real time. It adjusts allocations, replicas and node placement for every application, agent and Model Context Protocol server, which the company says cuts cloud costs by 70% to 80%. Customers such as Adobe Inc. and Salesforce Inc. build trust by first running the platform in read-only mode on their hardest environments, according to Shafrir.
+“We understand for every application: What is it connected to? What does it communicate with? What is the business state of every application?” Shafrir said. “We learn from historical patterns.”
+ScaleOps has also added a capability that lets other workloads use an agent’s resources while it sits idle. It also uses memory swap so an agent gets memory only when it needs it. The company says this makes running agents 90% more cost-efficient without moving off Kubernetes. Given the cost of always-on agents, Shafrir sees autonomous orchestration as the only workable model.
+“We are now in a phase where humans and all the traditional scaling capabilities that existed in the past are pretty much irrelevant for today’s world because they’re too static and they require a human to go and configure them,” Shafrir said. “When things are so dynamic, it no longer works the same way.”
+Here’s the complete video interview, part of SiliconANGLE’s and theCUBE’s coverage of KubeCon + CloudNativeCon NA:
+(* Disclosure: ScaleOps sponsored this segment of theCUBE. Neither ScaleOps nor other sponsors have editorial control over content on theCUBE or SiliconANGLE.)
+Photo: SiliconANGLE
+A message from John Furrier, co-founder of SiliconANGLE:
+Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE’s Alumni Trust Network, where technology leaders connect, share intelligence and create opportunities.
+- 15M+ viewers of theCUBE videos, powering conversations across AI, cloud, cybersecurity and more
+- 11.4k+ theCUBE alumni — Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network
+Are you an AWS customer? Support SiliconANGLE financially by buying your AWS services from our Marketplace portal page and links: https://siliconangle.com/aws-marketplace/
+About SiliconANGLE Media
+Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.

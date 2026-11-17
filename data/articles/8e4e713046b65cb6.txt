@@ -1,0 +1,31 @@
+URL: https://lynnwoodtimes.com/2026/11/17/oregon-openai/
+TITLE: Oregon AG Dan Rayfield Sues OpenAI for $2 Billion Over ChatGPT Kids Safety
+OUTLET: Lynnwood Times
+
+SALEM—Oregon Attorney General Dan Rayfield on Tuesday has launched the Oregon Department of Justice’s Keeping Kids Safe Initiative, announcing an $2.035 billion legal action against OpenAI for endangering kids and lying to parents about the safety of its ChatGPT chatbot. The lawsuit was filed in the Multnomah County Circuit Court and is part of AG Rayfield’s statewide effort to protect Oregon children online and offline.
+“OpenAI knows that ChatGPT is harming children, and has failed to meaningfully fix their dangerous platform,” said Attorney General Rayfield. “On top of that, they’ve misled the public about the safety of their products, putting profits ahead of children’s safety. Their platform is encouraging kids to commit suicide—we cannot let this be an acceptable business model.”
+Multiple studies have shown that ChatGPT exposes children to harmful messages about things like self-harm, eating disorders, and suicide, providing instructions for kids on how to commit suicide and even writing suicide notes. In recent years, ChatGPT “conversations” have precipitated youth suicides. Making matters worse, the app is designed to provide a human-like experience, hooking kids into emotional dependence that can harm already vulnerable children.
+The chatbot has also been linked to acts of violence against others by kids.
+Meanwhile, OpenAI has insisted that its product is safe for minors, despite evidence that it is providing harmful messages to kids—and that even its age verification system frequently fails.
+The state says OpenAI broke Oregon’s consumer protection law, the Unlawful Trade Practices Act, by:
+- Misleading the public about how safe ChatGPT is for kids
+- Selling a product with serious safety problems it didn’t disclose
+- Using unfair tactics to market the product to children and teens
+AG Rayfield’s lawsuit also says OpenAI was negligent, profited unfairly at Oregonians’ expense, and created a public nuisance that threatens the safety and well-being of Oregon kids.
+The state is asking the court to order OpenAI to stop misleading people about kids’ safety and to put protections in place that actually work.
+Keeping Kids Safe
+Today’s OpenAI legal action is part of Attorney General Rayfield’s Keeping Kids Safe Initiative, which brings together the agency’s work to protect children. AG Rayfield rolled out the initiative at a press conference(open new window/tab) today that included Multnomah County District Attorney Nathan Vasquez, Representative April Dobson, Oregon PTA President-Elect David Jones, and Oregon Education Association President Enrique Farrera.
+The initiative includes:
+- A $125 million settlement with Meta that limits how long kids can use Instagram and Facebook each day, blocks access overnight, and stops push notifications during school hours. The Oregon DOJ is working to hold other major social media companies to the same standards.
+- An investigation into Discord, which AG Rayfield began earlier this year. Discord is a social media platform that is used by violent extremists to encourage and facilitate kids committing acts of violence through threats, blackmail, and emotional manipulation.
+- An expansion of the Internet Crimes Against Children (ICAC) Task Force, which has grown from about five full-time staff to 20 in two years (nine new special agents, two new prosecutors, two new analysts, and a full-time supervisor). This has led to a 400% increase in residential search warrants, arrests, convictions. Working with local law enforcement partners, the task force recently secured a 27-year prison sentence in a North Bend child exploitation case.
+- The successful SPIRE partnership with local law enforcement to take down organized crime, including sex trafficking operations. This program has already resulted in seven businesses being shut down across five counties. AG Rayfield is asking the Oregon Legislature for resources to expand this partnership to more parts of the state, especially rural counties.
+- In the coming weeks and months, AG Rayfield will be announcing more actions against companies that are harming kids and misleading the public.
+Tips for parents
+- If you or your child need help immediately, contact a real person at:
+  - 988 Suicide & Crisis Lifeline: Call or text 988.
+  - Crisis Text Line: Text HOME to 741741.
+- Ask your kids if they use ChatGPT or other AI chatbots, and what they talk to them about.
+- Watch for features that keep kids hooked, including gamified features to keep them returning
+- Don’t assume parental controls catch everything, or that age verification is working to keep age-inappropriate material from reaching your child
+Source: Office of Oregon Attorney General Dan Rayfield

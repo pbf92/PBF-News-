@@ -1,0 +1,44 @@
+URL: https://www.eurekalert.org/news-releases/1152254
+TITLE: Blood-brain barrier dysfunction linked to altered brain metabolism in Alzheimer’s disease
+OUTLET: EurekAlert!
+
+BUFFALO, NY — November 17, 2026 — A new research paper was published in Volume 18 of Aging on November 3, 2026, titled “Brain glucose metabolism and blood-brain barrier permeability in Alzheimer’s disease continuum.”
+The study examines the relationship between blood-brain barrier integrity and brain glucose metabolism in Alzheimer's disease. Researchers found that patients with different Alzheimer's biomarker profiles showed similar patterns of reduced brain metabolism, but the biological factors associated with these changes differed between groups.
+The study's first author is Francesco Ricci, affiliated with the the Non Invasive Brain Stimulation Unit at IRCCS Santa Lucia and the Dementia Center at Policlinico Tor Vergata, University of Rome Tor Vergata, Italy. The corresponding author is Alessandro Martorana, affiliated with the Dementia Center at Policlinico Tor Vergata, University of Rome Tor Vergata, Italy.
+Alzheimer's disease is characterized by the accumulation of amyloid-beta and tau proteins in the brain, which contribute to neuronal dysfunction and cognitive decline. However, not all patients show the same biological patterns, suggesting that different mechanisms may contribute to disease progression.
+The blood-brain barrier is a protective system that regulates the movement of substances between the bloodstream and brain tissue. When its function is impaired, changes in vascular permeability and the brain's internal environment may affect neuronal health and glucose metabolism.
+To investigate these relationships, researchers analyzed 66 patients along the Alzheimer's disease continuum and 41 cognitively healthy controls. The patients were divided into two groups based on biomarkers of amyloid accumulation, tau pathology and neurodegeneration. One group showed evidence of all three abnormalities, while the other had amyloid pathology and neurodegeneration without elevated phosphorylated tau.
+The researchers used fluorodeoxyglucose positron emission tomography (FDG-PET) to assess brain glucose metabolism and cerebrospinal fluid biomarkers to evaluate Alzheimer's-related changes. They also measured the cerebrospinal fluid-to-serum albumin ratio as an indicator of blood-brain barrier integrity.
+Both Alzheimer's groups showed reduced glucose metabolism in brain regions involved in memory and cognitive processing, particularly the temporoparietal areas. However, the factors associated with these metabolic changes differed between the groups.
+In patients with elevated tau biomarkers, glucose metabolism was associated with tau-related measures, consistent with the involvement of tau pathology in brain dysfunction.
+In contrast, among patients without elevated phosphorylated tau, reduced metabolism in posterior brain regions was associated with higher albumin ratios and amyloid-related changes. This group also showed higher average albumin ratios than the tau-positive group, suggesting more pronounced blood-brain barrier dysfunction.
+“The A+T−N+ subgroup differs substantially from the A+T+N+ one.”
+These findings suggest that similar patterns of reduced brain metabolism may arise alongside different biological processes. While tau-related changes appear important in one subgroup, blood-brain barrier dysfunction may contribute to metabolic abnormalities in patients without elevated phosphorylated tau.
+The study also highlights the importance of considering vascular health when evaluating Alzheimer's disease. Hypertension was associated with metabolic changes in certain frontal brain regions, although these associations differed between patient groups.
+However, the research was retrospective and observational, involving a relatively small number of patients. The findings demonstrate associations rather than direct causal relationships, and further studies are needed to clarify how blood-brain barrier dysfunction contributes to Alzheimer's progression.
+Overall, the study provides new insights into the biological differences underlying Alzheimer's disease. Understanding how vascular dysfunction, amyloid pathology and tau-related changes interact with brain metabolism could help guide future research into more personalized diagnostic and therapeutic approaches.
+Paper DOI: https://doi.org/10.18632/aging.206393       
+Corresponding author: Alessandro Martorana - martorana@med.uniroma2.it       
+Keywords: Alzheimer’s disease continuum, AD biomarkers, blood-brain-barrier, brain metabolism, FDG-PET
+Click here to sign up for free Altmetric alerts about this article.
+______
+To learn more about the journal, please visit www.Aging-US.com and connect with us on social media:
+- Bluesky
+- ResearchGate
+- X
+- YouTube
+- Spotify, and available wherever you listen to podcasts
+Click here to subscribe to Aging publication updates.
+For media inquiries, please contact media@impactjournals.com.
+Journal
+Aging-US
+Method of Research
+News article
+Subject of Research
+People
+Article Title
+Brain glucose metabolism and blood-brain barrier permeability in Alzheimer’s disease continuum
+Article Publication Date
+3-Nov-2026
+COI Statement
+The authors declare that they have no conflicts of interest.
