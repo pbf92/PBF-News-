@@ -1,0 +1,17 @@
+URL: https://en.koreadaily.com/chatgpt-wallet-openai-ai-agent-payment/
+TITLE: ChatGPT Wallet — OpenAI Launches AI Agent Payment System
+OUTLET: The Korea Daily
+
+OpenAI has introduced a new service that enables users to purchase and pay for products directly through ChatGPT’s AI agent.
+OpenAI announced last week the launch of ‘ChatGPT Wallet’, a new payment feature developed in collaboration with American Express, Mastercard, and Visa.
+ChatGPT Wallet is a service designed to allow OpenAI’s personal AI agent, ‘dots’, to search for and purchase products on behalf of users.
+Once users register their credit card information once, they can ask the AI agent to find desired products and approve payments after a security verification process at the final checkout stage. Existing credit card points and various consumer protection benefits are applied as usual.
+Particularly, to enhance security, the system is designed so that the AI agent cannot directly access the user’s actual card information. Instead, the card payment network provides a one-time payment token containing a card number, security code, and expiration date valid only for that specific transaction.
+This service emerged as personal AI agents evolved to handle daily tasks such as scheduling and travel booking.
+OpenAI unveiled dots at its annual developer event in late September, and Meta also introduced its personal AI agent ‘Muse’, expanding competition among major tech companies.
+OpenAI revised its strategy after its ‘Instant Checkout’ feature, introduced last autumn to let users purchase products directly within ChatGPT, failed to meet expectations.
+Following this, the company launched a shopping service with enhanced product search and comparison features in March, and has now expanded the service to support actual purchasing and payment.
+ChatGPT Wallet is initially available to ChatGPT Pro paid subscribers aged 18 and older residing in the domestic market. OpenAI plans to expand the user base after verifying safety and stability during the initial service operation phase.
+Initially, OpenAI does not plan to charge separate fees for transactions through ChatGPT Wallet, focusing instead on establishing cooperative relationships between merchants and payment providers.
+Meanwhile, concerns are also emerging in the distribution industry regarding the entry of AI agents into the e-commerce market.
+United Airlines announced on the 11th that it would block AI agents from accessing its system to book flights, and Amazon is also restricting external AI agents from purchasing products within its platform.

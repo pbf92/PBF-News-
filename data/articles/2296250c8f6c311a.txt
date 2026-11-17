@@ -1,0 +1,9 @@
+URL: https://foro3d.com/en/2026/noviembre/claude-tag-sale-de-slack-anthropic-planea-llevar-su-bot-a-mas-platafor.html
+TITLE: Claude Tag leaves Slack: Anthropic plans to bring its bot to more platforms
+OUTLET: Foro3D
+
+Claude Tag, the feature that lets you tag @Claude in Slack channels, has been in beta for Team and Enterprise plans since June 23, 2026. Anthropic officially states that it wants to expand the places where it is available. One outlet mentions Microsoft Teams, email, and project management tools, although none of this is confirmed. The actual status is planned expansion, with no platforms or dates finalized.
+How the Claude integration in Slack works and what expanding it implies 🚀
+The mechanics of Claude Tag are simple: you type @Claude in a channel and the assistant replies in the thread with the context of the conversation. For Team and Enterprise, this involves per-workspace permissions, access control to messages, and usage limits depending on the plan contracted. Bringing that model to Teams or email requires solving authentication in each ecosystem, mapping threads and attachments, and defining what data enters the model's context. None of that appears in the public documentation for now. The source is scarce and the official announcement only talks about expanding availability.
+Soon you'll be able to tag Claude in email and regret it faster 😅
+The promise sounds good: an @Claude in any tool and done. The reality will be another round of permissions, half-finished integrations, and that email you ask it to summarize that ends up replying to the whole chain with an overly enthusiastic tone. While Anthropic confirms platforms and dates, it's worth enjoying Slack: at least there the bot knows which channel it's in. In email, neither it nor we are clear on who is cc'd.

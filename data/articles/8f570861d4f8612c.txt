@@ -1,0 +1,9 @@
+URL: https://foro3d.com/en/2026/noviembre/claude-design-lleva-el-diseno-visual-al-lienzo-de-anthropic.html
+TITLE: Claude Design brings visual design to the Anthropic canvas
+OUTLET: Foro3D
+
+Anthropic Labs confirmed on April 17, 2026, the launch of Claude Design, a tool that combines chat and canvas to create designs, interactive prototypes, presentations, and one-page sheets. The proposal separates the conversation from the visual workspace: you ask in the chat and see the result on the canvas, without switching between tabs or copying screenshots.
+From the team's code to the design system applied to each project 🎨
+During onboarding, Claude Design builds a design system from the team's code and design files, and applies it to each project. The work can be exported and passed to Claude Code with the /design-sync or /design commands. The official page presents it as a beta product with an editor, design system import, and more connected apps. At launch it worked with Opus 4.7, and in Enterprise accounts it came disabled by default.
+The chat designs, the canvas obeys, and the team reviews the system 🖌️
+The promise is that the design system applies itself, although in practice someone will have to explain why the button has had the same radius for three years. The chat on one side and the canvas on the other sounds orderly until the team discovers that the canvas also has opinions. And with Enterprise disabled by default, more than one person will enable the beta just to check whether the design can defend itself in the meeting.

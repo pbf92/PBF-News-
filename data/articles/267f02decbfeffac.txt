@@ -1,0 +1,12 @@
+URL: https://futurism.com/future-society/openai-board-member-warns-dead-enslaved-ai-doomsday
+TITLE: OpenAI Board Member Warns Public They Could Be "Dead or Enslaved" in One Year
+OUTLET: Futurism
+
+A coin toss may be the best odds we get for averting a world-ending AI takeover over the next year or so — at least according to OpenAI Foundation board member Paul Christiano.
+In a bizarre appearance at the Hinton Lectures 2026 — an AI ethics summit hosted by Nobel laureate and computer scientist Geoffrey Hinton — Christiano warned that inscrutable “AI accidents” will become the most likely cause of death in a matter of months.
+“For most people in this room, the most likely reason they will die is because of an AI accident,” Christiano told attendees, according to Gizmodo. “My feeling is if we try to develop AI along the most rapid trajectory, if we said we’re just going to build this as quickly as we can, in the easiest way we can, we would be looking at something like a coin flip of an AI takeover.”
+“Overall, I think there’s a very real possibility — maybe 20 percent — that within a year, AI misalignment issues prevent you from going about life normally, because you are dead or enslaved or because of collateral damage related to all this,” Christiano continued. “Even with realistic policy responses, the risk remains exceptionally high.”
+Christiano’s comments would be right at home on the LessWrong forums, an online community of cynics, many of whom are convinced that the development of machine learning will inevitably lead to human-level artificial intelligence, which they view as an extinction-level threat. But the comments make less sense coming from somebody in Christiano’s position, a man who has decision-making power at one of the top AI labs in the world.
+Put another way, Christiano’s theoretical position is undermined by his actions — giving high-profile AI ethics talks as a sitting member of OpenAI’s board, for example. (Imagine if in “Terminator 2,” the character of Miles Dyson learns that he eventually becomes responsible for the annihilation of humankind and decides to keep clocking into the office anyway.)
+If AI researchers like Christiano truly believe their company’s products could someday wipe out humanity, then why wouldn’t they spend every waking hour ripping the wires out of the walls?
+More on OpenAI: OpenAI Leadership Gets Fooled by Pranksters Pretending to be Ukrainian Officials, Discusses Military Secrets With Them

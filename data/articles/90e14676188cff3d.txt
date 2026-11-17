@@ -1,0 +1,45 @@
+URL: https://www.eurekalert.org/news-releases/1152107
+TITLE: Oncomine Assay shows strong agreement in ovarian cancer DNA repair deficiency testing
+OUTLET: EurekAlert!
+
+“In summary, the OCA Plus assay uses a combined approach to measure HRD cause and consequence in a single workflow.”
+BUFFALO, NY - November 16, 2026 – A new research paper was published in Volume 17 of Oncotarget on November 5, 2026, titled “Assessment of genomic instability and homologous recombination repair in ovarian cancer using the Oncomine Comprehensive Assay Plus.”
+The study evaluates the Oncomine Comprehensive Assay Plus (OCA Plus), a genomic testing platform used to identify genetic alterations in cancer. Researchers found that the assay showed strong agreement with an established test for detecting homologous recombination deficiency (HRD), a condition that affects how cancer cells repair damaged DNA and can help predict responses to certain targeted treatments.
+The study's first author is Isabell Goetting, and the corresponding author is Annette Staebler. Both are affiliated with the Institute of Pathology and Neuropathology and Comprehensive Cancer Center Tübingen at Eberhard Karls University of Tübingen, Germany.
+Ovarian cancer treatment increasingly relies on understanding the genetic changes driving tumor growth. One important biomarker is HRD, which occurs when cancer cells lose the ability to accurately repair certain types of DNA damage. Tumors with HRD may be particularly sensitive to treatments called PARP inhibitors, which interfere with DNA repair mechanisms and can limit cancer cell survival.
+HRD testing typically examines mutations in the BRCA1 and BRCA2 genes alongside broader patterns of genomic instability. However, testing often requires specialized laboratories, which can delay results and use valuable tumor tissue. Comprehensive genomic profiling offers a potential way to assess multiple biomarkers within a single test.
+To evaluate this approach, researchers analyzed 58 ovarian cancer samples, most of which were high-grade serous ovarian carcinomas. They used OCA Plus to assess BRCA1/2 mutations and genomic instability, comparing its performance with MyChoice CDx, an established companion diagnostic test.
+The results showed 86% agreement between the two assays in classifying tumors as HRD-positive or HRD-negative, while agreement for BRCA1/2 alterations reached 91.4%. Using OCA Plus, researchers identified HRD in 33 samples and detected BRCA1/2 mutations in 11 samples.
+The assay also identified alterations in other cancer-associated genes, including ATM, PTEN, FANCE and CDK12, providing additional molecular information beyond BRCA testing. These findings suggest that comprehensive genomic profiling could support a broader assessment of DNA repair abnormalities in ovarian cancer.
+In a smaller, exploratory group of patients with available follow-up data, those with HRD-positive tumors who received PARP inhibitors showed longer recurrence-free survival than patients with HRD-negative tumors. Notably, some HRD-positive tumors without detectable BRCA1/2 mutations also showed clinical benefit, highlighting the importance of assessing genomic instability beyond BRCA mutations alone.
+“The OCA Plus assay demonstrated robust analytical performance in the detection of HRD in FFPE samples from ovarian tumors.”
+The findings suggest that OCA Plus could support HRD testing within local molecular pathology laboratories, potentially reducing the need to send samples to specialized centers and helping clinicians obtain molecular information more efficiently.
+However, the study involved a relatively small number of samples, and some classifications differed between the two assays. The clinical outcome analysis was also limited, meaning further research is needed to confirm the assay's clinical performance and its ability to guide treatment decisions.
+Overall, the study supports the feasibility of using comprehensive genomic profiling to assess HRD and other molecular alterations in ovarian cancer. Bringing these analyses together in a single testing workflow could help improve access to molecular testing and support more personalized treatment decisions.
+DOI: https://doi.org/10.18632/oncotarget.28925
+Correspondence to: Annette Staebler - annette.staebler@med.uni-tuebingen.de
+Keywords: HRD assessment, ovarian cancer, BRCA, genomic instability, homologous recombination repair
+Click here to sign up for free Altmetric alerts about this article.
+________
+To learn more about the journal, visit Oncotarget.com and connect with us on social media:
+X
+Facebook
+YouTube
+Instagram
+LinkedIn
+Pinterest
+Spotify, and available wherever you listen to podcasts
+Click here to subscribe to Oncotarget publication updates.
+For media inquiries, please contact media@impactjournals.com.
+Journal
+Oncotarget
+Method of Research
+News article
+Subject of Research
+Not applicable
+Article Title
+Assessment of genomic instability and homologous recombination repair in ovarian cancer using the Oncomine Comprehensive Assay Plus
+Article Publication Date
+5-Nov-2026
+COI Statement
+IG received travel fees from Novartis and AstraZeneca, honoraria for advisory board participation from Stemline Therapeutics, Inc. and consumables from Thermo Fisher Scientific for the study. IB received speaker fees from Thermo Fisher Scientific, Novartis, Bayer, Pfizer, Takeda, Stemline Therapeutics, Inc., Lilly and AstraZeneca, honoraria for advisory board participation from BMS and Novartis and consumables from Thermo Fisher Scientific for the study. FF received research grants from Stemline Therapeutics, Inc. and Thermo Fisher, honoraria for advisory board participation from Stemline Therapeutics, Inc., Astra Zeneca, aetherAI and EUSAPharma and consumables from Thermo Fisher Scientific for the study. AS received research support from Thermo Fisher and Astra Zeneca, speaker honorarium from Thermo Fisher, Astra Zeneca, AbbVie and Roche and consumables from Thermo Fisher Scientific for the study. AR, SK, MG, TE, SB, CD, FM, AH: no conflicts of interest. PJ, CD, UK: NGS-analyses were sponsored by Thermo Fisher Scientific.
