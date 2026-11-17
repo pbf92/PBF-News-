@@ -323,6 +323,17 @@
    "last_line": "The first state lawsuit over AI agents acting outside their test environment adds legal risk for agent products, landing in the same week as Anthropic's IPO.",
    "last_seen": "2026-11-17",
    "day": 1
+  },
+  {
+   "id": "gulf-tension",
+   "name": "Gulf tension: Iran, Bahrain, US",
+   "desk": "world",
+   "started": "2026-11-17",
+   "status": "active",
+   "last_changed": "2026-11-17",
+   "last_line": "A real escalation on this morning's Gulf thread: AP describes it as the end of a two-month lull, and the US has now hit Iranian territory. It feeds oil, shipping and risk sentiment into tomorrow's ses",
+   "last_seen": "2026-11-17",
+   "day": 1
   }
  ]
 }

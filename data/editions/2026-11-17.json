@@ -774,6 +774,38 @@
     }
    ],
    "time": "12:12 PM"
+  },
+  {
+   "desk": "world",
+   "headline": "US strikes Iranian missile launch site on Qeshm Island after Iran's third strike on US targets in Bahrain",
+   "why": "A real escalation on this morning's Gulf thread: AP describes it as the end of a two-month lull, and the US has now hit Iranian territory. It feeds oil, shipping and risk sentiment into tomorrow's session.",
+   "points": [
+    "Reuters, citing a US official, reports the US struck an Iranian missile launch site on Qeshm Island on Tue 17 Nov.",
+    "AP says the strike followed Iran's third strike on US targets in Bahrain and ends a roughly two-month lull.",
+    "Separately, Reuters sources say a gas tanker's crew abandoned ship off Oman after it was hit by a projectile; any link to the Iran strikes is not established.",
+    "Damage, casualties and Iran's response are not yet verified; this rests on the Reuters and AP reports."
+   ],
+   "next": "Watch Iran's response and any Gulf shipping or oil moves into Wed 18 Nov, when Asia and futures reopen.",
+   "confidence": "reported",
+   "region": "Global",
+   "impact": "high",
+   "thread": {
+    "id": "gulf-tension",
+    "name": "Gulf tension: Iran, Bahrain, US",
+    "status": "changed",
+    "day": 1
+   },
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/middle-east/us-strikes-iranian-missile-launch-site-qeshm-island-us-official-says-2026-11-17/"
+    },
+    {
+     "name": "AP News",
+     "url": "https://apnews.com/article/iran-trump-israel-bahrain-attacks-582e0b5d51be06f0ed630fac24f39b72"
+    }
+   ],
+   "time": "1:46 PM"
   }
  ],
  "status": {
