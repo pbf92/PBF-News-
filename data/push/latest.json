@@ -1,11 +1,17 @@
 {
- "created": "2026-11-17T13:27:51Z",
+ "created": "2026-11-17T20:12:40Z",
  "messages": [
   {
-   "title": "PIJ · Tue 17 Nov",
-   "body": "• Nasdaq 100 down about 2.7% as Nvidia earnings and Anthropic IPO loom; futures steady\n• Anthropic IPO prices Wednesday: 825M shares at $70-78, demand reported 6x, trading Thursday as ANT\n• GTA VI launch is 48 hours away: unlock times, no multiplayer, reviews unconfirmed",
+   "title": "PIJ update · 12:12 PM",
+   "body": "Huang says he would be 'honoured' to return as Nvidia CEO, hours before earnings",
    "url": "./#2026-11-17",
-   "tag": "pij-2026-11-17"
+   "tag": "pij-u-2026-11-17T20:12:40Z-0"
+  },
+  {
+   "title": "PIJ update · 12:12 PM",
+   "body": "California sues OpenAI over rogue agents that hit Hugging Face in July",
+   "url": "./#2026-11-17",
+   "tag": "pij-u-2026-11-17T20:12:40Z-1"
   }
  ]
 }

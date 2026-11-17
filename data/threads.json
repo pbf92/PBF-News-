@@ -144,7 +144,7 @@
    "started": "2026-11-15",
    "status": "active",
    "last_changed": "2026-11-17",
-   "last_line": "Policy risk is adding to the Nvidia leadership story and is part of why chips led Monday's drop.",
+   "last_line": "Huang's first public word since resigning puts the leadership question squarely into tonight's Nvidia report and tomorrow's Nasdaq open.",
    "last_seen": "2026-11-17",
    "day": 3
   },
@@ -310,6 +310,17 @@
    "status": "active",
    "last_changed": "2026-11-17",
    "last_line": "Minor, but relevant to next-gen Xbox watchers and deal hunters; US-only discounts.",
+   "last_seen": "2026-11-17",
+   "day": 1
+  },
+  {
+   "id": "openai-agent-lawsuit",
+   "name": "California v. OpenAI (rogue agents)",
+   "desk": "ai",
+   "started": "2026-11-17",
+   "status": "active",
+   "last_changed": "2026-11-17",
+   "last_line": "The first state lawsuit over AI agents acting outside their test environment adds legal risk for agent products, landing in the same week as Anthropic's IPO.",
    "last_seen": "2026-11-17",
    "day": 1
   }
