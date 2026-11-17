@@ -1,0 +1,60 @@
+URL: https://www.mediapost.com/publications/article/419396/ai-fever-creates-cottage-industry-for-small-agenci.html
+TITLE: AI Fever Creates Cottage Industry For Small Agencies, Firms 11/17/2026
+OUTLET: MediaPost
+
+OpenAI and Anthropic are newcomers supporting smaller
+brands -- similar to the way Amazon, Google, Microsoft, and Meta Platforms grew vast advertising businesses by giving small companies the ability to build and run their own ad campaigns.
+Generative AI now hands those same businesses the creative power and optimization tools of a full-service Madison Avenue agency.
+There is a shift underway in the organic optimization and
+media-buying industries. While there have always been smaller search engine optimization ( SEO) agencies, independent consultants, and boutique media buyers, the trend has accelerated with the
+introduction of AI.
+It could be called a cottage industry of smaller companies helping other smaller companies using AI to optimize content and organize media buys. 
+The shift
+continues to accelerate due to rapid changes in search algorithms, AI integration, and the way brands choose to spend their ad dollars.  
+    
+advertisement
+advertisement
+Smaller companies are winning over the brands, as AI hands
+small agencies the tools to grow their businesses.
+Robert Nance, founder and AI marketing consultant at the small agency Push AI Marketing, has been providing SEO and digital
+advertising services since 2011.
+AI has given him a bigger opportunity to support all types of business, from small local companies to large national brands.
+“The biggest change
+is how much more thoroughly we can work on each account,” Nance told MediaPost. “Tasks that were previously too time-consuming to fit within a client’s budget are becoming
+practical.”
+Over the past couple of months, Push AI Marketing expanded its client programs to include generative engine optimization (GEO) with the goal of improving their visibility in
+AI-generated answers alongside traditional search results.
+Nance estimates his small agency produces “roughly five times the work while investing about 25% more time overall”
+because the agency can address more options for clients.
+“These figures describe our estimated workload and output, rather than a measured increase in client revenue or marketing
+results,” he said, adding that has tried AI tools from Grok, Claude, Meta and others.
+Meta Platforms now offers the agentic AI agent Muse, with new capabilities especially designed for
+small businesses, to automate daily workloads.
+“Muse for Small Business,” released in late September, can connect with Facebook Pages, Instagram professional accounts and Meta ad
+accounts, as well as third-party platforms such as Shopify, Stripe, QuickBooks, Canva, Slack, Klaviyo and Zoom.
+Companies can use Muse to analyze sales and marketing performance, create growth
+plans, improve ads and content, review financial performance and handle routine administrative tasks.
+Meta said actions such as publishing, sending or spending still require user approval, but
+the platform is free for many of the functions it offers. Additional capabilities are available through subscription services.
+Meta wants to integrate AI into all of its platforms to help
+small businesses operate rather than limit them AI functions and ad creation.
+The company is connecting Muse directly with a across social accounts, advertising data, storefronts, financial
+systems and productivity applications. 
+It also released a nationwide TV ad campaign that features its Muse animated character performing various tasks, such as scheduling events,
+operating smart home features, and registering a user's child for fall sports.
+The ads also feature Muse researching and ordering school supplies, with many different versions.
+The
+Motley Fool reported that not everyone was favorable about the commercials, with some saying it made the product appear too similar to Amazon's Alexa and didn't fully capture what makes
+Muse different.
+As Meta has rapidly shifted to national TV advertising, a major shift is taking place to reach smaller companies with the same services as larger agencies
+This includes
+Kargo, an ad platform that combines creative and media, which launched "Karlo," a self-serve agentic media-buying platform built for smaller businesses.
+The idea behind “Karlo” is
+to lower the barrier to entry and provide smaller companies the resources they have historically lacked.
+Karlo has two features. “Creative Science,” which is supported by decades
+of proprietary cross-platform performance data, and “Media Intelligence” that combines premium audience data with Karlo's contextual signals. Karlo launched with general availability
+on Oct. 1, 2026.
+Small teams can use the platform to plan, create, and activate campaigns across the open web, connected (TV), and social from one system.
+This column was previously
+published in Performance Marketing Insider 
+on Oct. 5, 2026.

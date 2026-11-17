@@ -1,0 +1,30 @@
+URL: https://www.wealthmanagement.com/alternative-investments/etfs-swaps-perps-offer-back-door-to-anthropic-stock-pre-ipo
+TITLE: Retail Traders Find New Ways To Bet on Anthropic
+OUTLET: Wealth Management
+
+ETFs, Swaps, Perps Offer Back Door to Anthropic ‘Stock’ Pre-IPO
+Investors are turning to a growing array of alternatives to ensure they get exposure.
+(Bloomberg) -- Anthropic PBC’s much-anticipated Nasdaq debut isn’t expected until later this week, but retail traders are already finding ways to get a piece of the AI giant.
+The Claude AI model firm and its co-founders are seeking to raise as much as $90 billion this week in potentially the biggest initial public offering of all time, with orders for the stock exceeding the shares available by more than six times. The IPO has drawn multiple orders of $10 billion or more, according to people familiar with the matter.
+The sale will serve as a crucial barometer of the AI trade and bellwether of demand, especially after the recent tumult around key chipmaker Nvidia Corp., and as concerns continue to simmer around the technology’s costs and payoff. Animal spirits appear to be running high: analytics firm Vanda Research estimates there will be a record $250 million in retail buying on the first day of trading — more than double the previous record set by SpaceX this year.
+Even before then, though, investors are turning to a growing array of alternatives to ensure they get exposure, from publicly traded funds with Anthropic holdings to crypto derivatives platforms offering synthetic bets.
+“The game-changer for retail in the last couple of years has been the rise of these alternative venues,” said Viraj Patel, global macro strategist at Vanda Research. “It allows them to make the same bet without having to wait for the cash market to list the company or actually own the stock.”
+The trend highlights Wall Street’s expanding effort to package private-market and other hot assets into vehicles accessible to everyday investors. The structures can be complex, and often come with substantial costs and risks. But for many investors, in a case like Anthropic, the potential rewards outweigh the downsides.
+Here are some of the more popular ways that investors are gaining early exposure to Anthropic:
+ETFs
+In the growing world of exchange-traded funds, a number of vehicles now offer exposure to private shares, including Anthropic’s. Flows into funds tied to stock in the AI giant have surged in recent months, with the total approaching $14 billion in November, according to data tracked by Bloomberg Intelligence analyst Athanasios Psarofagis.
+Investors are effectively using these kinds of funds as proxies for a stock they can’t yet buy directly, a pattern that was also seen with SpaceX earlier this year, he said. Some traders use the vehicles as part of an IPO arbitrage strategy, which involves putting cash into an ETF before an offering and then pulling it out once the stock begins trading, he added.
+Not all funds offer the same exposure or access, and investors may end up paying vastly different prices for a slice of the AI giant, said John Cole Scott, president and chief investment officer at CEF Advisors. His firm tracks about 19 retail-accessible funds, spanning ETFs, listed closed-end funds and interval funds, with roughly $1.2 billion in Anthropic exposure.
+Read More: Retail Traders Chase Anthropic IPO With Tactics Honed on SpaceX
+For example, BlackRock’s Technology and Private Equity Term Trust (BTX) owns Anthropic shares directly. In contrast, Tema Photonics & Optical ETF (LAZR) gains exposure through a special purpose vehicle, or SPV that holds actual preferred shares.
+The SPV structure is controversial. Anthropic has previously cracked down on share sales it deems to be unauthorized. SPVs also add an extra layer of cost. “So imagine if there’s more fees. It’s like a fund of funds when you do it that way,” Scott said.
+Different fund structures come with different tradeoffs. Listed closed-end funds can trade at substantial premiums or discounts to the value of their underlying assets. For ETFs, meanwhile, flows can affect the portfolio weighting of those investments. The valuation of the private shares also depends on how funds mark their positions.
+Swaps
+Other funds offer a more unconventional route, using derivatives to gain synthetic exposure without buying the underlying shares. Such arrangements, however, can introduce additional liquidity and counterparty risks.
+In the US, the Leverage Shares MANGOS ETF (MGOL) and Corgi MANGOS ETF (MN) use so-called total-return swaps to track the performance of a basket of prominent private technology companies, including Anthropic and its rival OpenAI.
+In Europe, the approach goes a step further. The 21shares Anthropic Synthetic ETP (CLAU) offers 100% exposure to Anthropic through a structure involving swaps and perpetual futures.
+Perps
+Also popular are perpetual futures, another type of derivatives. Trading volume in Anthropic pre-IPO perpetual futures surged to a record $270 million last week, the day the company proposed an IPO price range of $70 to $78 a share. That was nearly triple the daily volume recorded late last week, according to Vanda Research.
+Unlike traditional futures, perp contracts have no expiration date, allowing traders to speculate on price movements without owning the underlying shares. The instruments trade around the clock on alternative venues such as Hyperliquid, which have been gaining traction beyond their cryptocurrency roots.
+For many retail traders, the appeal of perps in an IPO situation is that the event represents a defined catalyst and timeline: Traders have a finite investment horizon, speculating on the price leading up the IPO and the first few days after, he said.
+“Retail always struggles with exiting or realizing their trade. For example, if they buy Bitcoin, they don’t know when to sell,” said David Jeong, chief executive officer of algorithmic trading technology provider Tread.fi. “If they trade pre-IPO, they know exactly when to sell.”

@@ -1,0 +1,24 @@
+URL: https://www.news-medical.net/news/20261117/Kangaroo-care-reduces-newborn-mortality-and-serious-hospital-infections.aspx
+TITLE: Kangaroo care reduces newborn mortality and serious hospital infections
+OUTLET: News-Medical
+
+Kangaroo care, an approach to care in which low birthweight and preterm babies are held skin-to-skin against a caregiver's chest, receive frequent and exclusive breastfeeding and are discharged early from hospital when appropriate, probably reduces deaths and serious infections compared with conventional neonatal care. This effect was especially clear in low-resource settings.
+The updated Cochrane review included 49 randomized controlled trials involving 7,724 low birthweight or preterm newborns, more than doubling the number of studies included in the 2016 version of the review, which informed World Health Organizations guidelines.
+Benefits for vulnerable babies
+The findings suggest that kangaroo care provides clinically important benefits compared to standard care, improving a number of key health metrics. It probably reduces the risk of death in hospital and lowers the risk of hospital-acquired infections and sepsis. It may also increase exclusive breastfeeding and reduce episodes of hypothermia.
+The idea of kangaroo care has been around for decades, but this review doubled the number of trials compared to our last update, and therefore strengthens the evidence supporting it. The most striking finding is the reduction in mortality among some of the most vulnerable newborns."
+Dr. Emma Olsson, first author, Örebro University, Sweden
+Evidence for kangaroo care strengthens
+Originally developed as a low-cost approach in resource-limited settings, kangaroo care has since been adopted around the world. Although the definition varies, it generally involves early, continuous and prolonged skin-to-skin contact between a caregiver and their newborn; frequent and exclusive breastfeeding; and early discharge from hospital when appropriate.
+The review's findings suggest the benefits can be substantial, particularly in low- and middle-income countries, where much of the evidence was generated.
+However, the authors caution that many important questions remain unanswered.
+Current World Health Organization guidance recommends at least eight hours of kangaroo care per day and encourages prolonged skin-to-skin contact where possible. However, the review found insufficient evidence to determine whether longer durations provide greater benefits, or exactly how much kangaroo care is needed for optimal outcomes.
+"We know that kangaroo care is beneficial," says Dr Roger Soll, co-author from the University of Vermont, USA. "What we still don't know with confidence is how much is enough, whether more is always better, and how best to deliver it in different healthcare settings."
+The authors note that prolonged daily skin-to-skin contact may not be realistic for all parents and caregivers, highlighting the need for research into how kangaroo care can be implemented effectively in different family and healthcare contexts.
+While the review found that kangaroo care reduced mortality across all settings, the certainty of the evidence was lower in high-income settings.
+The authors also highlighted that while the effect was generally consistent, more evidence is needed to understand how well findings translate to high-resource neonatal intensive care settings, where mortality rates are already very low.
+Centring parent and baby into neonatal care
+The authors argue that kangaroo care should be viewed not simply as skin-to-skin contact, but as part of a broader system of care centred on keeping parents and babies together.
+"People often think of kangaroo care as simply skin-to-skin contact, but it's much more than that," continues Dr Soll. "It's an approach to care that places parents at the centre of their baby's treatment and often requires hospitals to rethink how neonatal care is organized."
+The researchers say future studies should focus on understanding when kangaroo care works best, which infants benefit most, how it can be implemented across different health systems, and whether outcomes vary according to the timing and duration of care.
+Olsson, E., et al. (2026). Kangaroo mother care to reduce morbidity and mortality in low birthweight infants. Cochrane Database of Systematic Reviews. DOI: 10.1002/14651858.CD002771.pub5. https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002771.pub5/full

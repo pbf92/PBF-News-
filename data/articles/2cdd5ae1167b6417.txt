@@ -1,0 +1,19 @@
+URL: https://www.theglobeandmail.com/investing/markets/stocks/SPCX/pressreleases/8877965/anthropics-quarterly-revenue-jumped-47-to-17-billion-ahead-of-its-ipo/
+TITLE: Anthropic's Quarterly Revenue Jumped 47% to $17 Billion Ahead of Its IPO
+OUTLET: The Globe and Mail
+
+Key Points
+- Anthropic's quarterly revenue is seeing huge sequential growth.
+- Sales momentum reflects strong demand for the company's Claude AI models.
+- Companies including SpaceX, Nvidia, and Micron are poised to benefit from Anthropic's scaling.
+Anthropic is set to price its IPO Wednesday and begin trading Thursday. The stage is set for what could be one of this year's most important stock market events.
+The highly anticipated IPO isn't just an important moment for the company and its shareholders -- it also represents a test of the health of the broader artificial intelligence (AI) trade.
+Missed AI’s "Act 1"? Act 2 Could Be 15x Bigger. Most investors think they missed the AI boat because they didn't buy Nvidia in 2005. But according to our analysts, we’re only at the end of "Act 1"—the R&D phase. "Act 2" is the global rollout. Continue »
+AI stocks have been volatile recently due to macroeconomic dynamics, funding concerns, and news related to the resignation of Nvidia CEO Jensen Huang -- and the market's appetite for Anthropic's IPO could provide a valuable indicator of what investors can expect in valuation moves within the category. While it's impossible to say with certainty exactly where AI stocks will go in the near term, it's clear that there is strong appetite for Anthropic's technologies and services.
+Anthropic posted a huge sequential sales increase in Q3
+In the lead-up to its IPO, Anthropic filed an amended S-1 form with the Securities and Exchange Commission (SEC) that added a breakdown of its business performance to supplement its previously disclosed results across the first half of the year. Strikingly, Anthropic's revenue rose from $11.6 billion in the second quarter to roughly $17 billion in the third quarter -- representing approximately 47% sequential growth.
+The Q3 revenue numbers show rapid scaling for service sales from the company's Claude software suite. For context, the company recorded roughly $16.3 billion in revenue across this year's first two quarters. Sales in the third quarter alone exceeded the combined revenue from the first and second quarters.
+The performance suggests that demand for the company's tech continues to surge -- and that Anthropic is pulling monetization levers that are driving greater spending from its clients. Along those lines, the company's most recent update said that the artificial intelligence business now had more than 11,900 customers generating at least $100,000 in revenue over the past 12 months.
+With the rapid scaling of Anthropic's Claude models, there are clear winners in the artificial intelligence hardware and services space. The most obvious and direct example is Space Exploration Technologies(NASDAQ: SPCX), which has a massive contract to provide compute to the frontier AI model leader. According to Anthropic's S-1 filing, the company has a deal in place to purchase up to $120.5 billion in compute from SpaceX through 2029. Either side can cancel on 90 days' notice after early 2027, but it's a substantial agreement.
+Leading hardware providers that source the key components that power SpaceX's compute and other data centers are also poised to win business as Anthropic scales. These companies include Nvidia, Micron, and Broadcom. So while Anthropic's IPO will likely have important near-term implications for valuations in the AI space, the extent of the company's long-term scaling will ultimately be far more important for buy-and-hold investors.
+Keith Noonan has positions in Micron Technology. The Motley Fool has positions in and recommends Broadcom, Micron Technology, Nvidia, and Space Exploration Technologies. The Motley Fool has a disclosure policy.

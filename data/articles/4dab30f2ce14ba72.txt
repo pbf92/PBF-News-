@@ -1,0 +1,73 @@
+URL: https://admiralmarkets.com/analytics/traders-blog/why-is-the-stock-market-down-today-17-november-2026
+TITLE: Why Is the Stock Market Down Today? The AI Selloff Before Nvidia Earnings (17 November 2026)
+OUTLET: Admirals
+
+Why Is the Stock Market Down Today? The AI Selloff Before Nvidia Earnings (17 November 2026)
+US stocks are set for another weak session on Tuesday 17 November 2026. At 09:18 London time (04:18 ET), S&P 500 futures were down 0.5% and Nasdaq 100 futures were down 0.6%. That followed heavy losses in technology shares on Monday (Bloomberg via SWI swissinfo).
+This explainer sets out the four main reasons for the selloff. It then looks at the events traders watch before and after Nvidia's results tonight.
+The information in this article is provided for educational purposes only and does not constitute financial advice. Consult a financial advisor before making investment decisions.
+Risk warning: The value of shares can fall as well as rise, and you may get back less than you invest. CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money. This article is general information and should not be treated as investment advice.
+Why Is the Stock Market Down Today? The Short Answer
+The stock market is down today because new US curbs on AI chip exports and a sudden leadership change at Nvidia have hit technology shares. Those shares drive the main indices. Expectations of a December Fed rate hike and doubts over AI valuations add to the pressure.
+On Monday 16 November the S&P 500 posted its third straight loss, AP reported (AP via The Manila Times). The global stock selloff spread on Tuesday, as stocks in Asia bore the brunt of the new chip measures (Bloomberg).
+- The US Commerce Department issued a rule on 16 November that tightens access to advanced AI chips for data centres in five countries.
+- Nvidia reports results after the US close today, five days after its chief executive stepped down.
+- Markets price a Fed rate hike in December, and the 10-year Treasury yield is close to 5.1%.
+- Investors are questioning whether heavy AI spending will pay off, with a large AI listing due this week.
+How Far Have US Stocks Fallen?
+Monday's falls were broad. The Nasdaq took the heaviest hit as chip stocks sold off.
+Source: AP via The Manila Times, Saxo; percentage changes for the three stock indices calculated from AP's point changes. Closing levels on 16 November 2026. Past performance is not a reliable indicator of future results.
+The VIX is often called Wall Street's fear gauge. It uses S&P 500 option prices to show how much movement traders expect over the next 30 days. Readings in the mid-teens are typical of calm markets. Readings above 20 suggest traders are paying more to protect their portfolios, so Monday's close of 22.91 points to rising nerves.
+Measured from the record closes of 6 October 2026, the S&P 500 is about 5.1% lower and the Nasdaq Composite about 11.2% lower (Portfolio Terminal). A fall of 10% from a record is usually called a correction. The Nasdaq is in that zone, while the S&P 500 is still above it.
+For a longer view, the S&P 500 rose in four of the last five full calendar years and fell 18.11% in 2022. The Nasdaq Composite showed the same pattern, with a fall of 33.10% in 2022.
+Source: Slickcharts, Nasdaq Composite factsheet. Calendar-year returns for 2021 to 2025 (S&P 500 including dividends, Nasdaq Composite price only), shown before taxes and costs, which may vary. Past performance is not a reliable indicator of future results.
+Reason 1: New US Curbs on AI Chip Exports to China
+On Monday 16 November, the US Commerce Department issued an interim rule on access to advanced AI chips (Fortune). Licences are now needed to ship these chips to data centres in five named countries, among them Singapore and Malaysia. A licence is also needed when large data-centre operators anywhere give China-headquartered companies access to big chip clusters (TECHi).
+The rule takes effect on publication in the Federal Register, scheduled for 19 November. Customers outside the US, Taiwan and China made up about 1.3% of Nvidia's revenue in the quarter to 26 July 2026, TECHi reported. It added that real end-use exposure may be larger (TECHi).
+Markets also reacted beyond Nvidia. Bloomberg reported that Asian stocks bore the brunt of the new measures (Bloomberg).
+Reason 2: Nvidia's Leadership Change Before Earnings
+Nvidia led Monday's tech losses, and its shares fell 4.1% at the close on 16 November (AP).
+On 12 November, Jensen Huang resigned as chief executive with immediate effect. He also left the board, where he was chairman. Chief financial officer Colette Kress became interim CEO and keeps her finance role (Paperjam). A US Senate committee has asked Huang and Commerce Secretary Howard Lutnick to testify at a public hearing on 3 December (Al Jazeera).
+Third-quarter results are due after the US close today, with the release expected around 16:20 ET (TECHi). Analysts expect earnings per share of $2.47 on revenue of $108.85bn, according to Investing.com (Investing.com). Forecasts are not a reliable indicator of future performance. Options pricing implied a move of about 7.8% after the report, UBS said, as cited by Reuters (Reuters via Investing.com).
+Reason 3: A December Fed Hike, High Yields and a Strong Dollar
+The Fed's target range stands at 3.75% to 4.00% after a hike in September. After a hot October inflation report, CME FedWatch showed a 100% chance of another hike at the meeting of 8 to 9 December, as of 10 November (MPA).
+Rate expectations have lifted Treasury yields. The 10-year yield was 5.10% at 09:18 London time on 17 November (Bloomberg).
+High yields lower the present value of profits expected far in the future, which weighs on growth shares. The dollar index stood at 103.61 during Asian trading hours on 17 November, near its highest since April 2025 (Reuters via Investing.com). A strong dollar can trim the overseas earnings of large US companies.
+The selloff started in chip shares. Higher yields and a firm dollar now weigh on the wider market as well.
+Our review of the October Fed meeting and the preview of Kevin Warsh's speech on 16 November give more background. Our earlier note on how inflation data and Treasury yields move the Nasdaq 100 shows how rates feed into tech.
+Reason 4: Doubts Over AI Valuations
+Worries about an AI bubble were already building, AP reported. Monday's losses hit stocks tied to AI spending hardest, with AMD down 5.6% and GE Vernova down 4.9% at the close on 16 November (AP). Investors also want to know whether debt-fuelled AI spending can continue into 2027, Reuters reported (Reuters via Investing.com).
+The Anthropic IPO is seen as a test of demand. It is set to price on 18 November at $70 to $78 a share and start trading on 19 November. The company is seeking to raise up to $64.4bn (Newsquawk).
+Company profits offer a counterweight. S&P 500 earnings per share are on track to be nearly 32% higher than a year earlier, AP reported, citing FactSet (AP). Our analysis of the AI capex stock selloff looks at the spending debate in more detail.
+Is the Selloff Spreading Beyond Tech?
+It has reached other regions. The MSCI Asia Pacific Index was down 1.5% at 09:18 London time on 17 November, with South Korea and Taiwan leading losses (Bloomberg). Around 05:00 CET, Saxo put Taiwan's Taiex down about 2.5% and South Korea's Kospi down 2.6% (Saxo).
+In Europe, the Stoxx 600 was down 0.8% at 09:18 London time (Bloomberg). Shortly after the European open at 08:00 London time, Germany's DAX was down 0.9% and chip equipment maker ASML was 1.2% lower (Investing.com).
+In the US, Monday's losses went beyond chip makers, and the Dow Jones Industrial Average fell 1.41% (AP). Some shares rose. Tyson Foods gained 8.7% on 16 November after a profit beat (AP).
+What Traders Watch Next: Key Events This Week
+The next 72 hours bring US data and the Fed minutes. Nvidia's results come first, after the close tonight.
+Source: Federal Reserve calendar, Saxo, TECHi, Investing.com, Newsquawk. Scheduled or expected times, subject to change. ET is UTC-5, UK is GMT, Kyiv is UTC+2.
+The economic calendar lists the full set of releases. Our guide to stock market trading hours covers session times.
+Saxo UK strategist Neil Wilson told Bloomberg that strong Nvidia numbers may not be enough to support the market, given everything else going on (Bloomberg). In one illustrative case, a firm outlook and easing yields could ease the pressure on chip stocks. In another, a weak outlook or hawkish Fed minutes could add to it. Both cases are illustrations, and either outcome is uncertain.
+Some traders follow these markets through CFDs on indices or CFDs on shares, where leverage magnifies losses as well as gains.
+Frequently Asked Questions
+Why is the stock market down today?
+US stocks are under pressure from new AI chip export curbs and Nvidia's leadership change. Fed hike bets add pressure.
+Why are tech stocks down today?
+Chip stocks are falling on US export curbs and caution before Nvidia's results, due after the US close today.
+Is the stock market crashing?
+At the 16 November close, the S&P 500 was about 5.1% below its record and the Nasdaq about 11.2%.
+What does a rising VIX mean?
+A rising VIX means traders expect bigger S&P 500 swings over the next 30 days. It often climbs in selloffs.
+When does Nvidia report earnings?
+Nvidia reports third-quarter results after the US close on 17 November, expected around 16:20 ET, or 23:20 Kyiv time.
+Is the stock market open on Thanksgiving 2026?
+US stock markets are closed on Thursday 26 November 2026 and close early, at 13:00 ET, on Friday 27 November.
+Some of the content on this page was created with the help of automated tools. All final text has been reviewed by Admirals and is under its editorial responsibility.
+The given data provides additional information regarding all analysis, estimates, prognosis, forecasts, market reviews, weekly outlooks or other similar assessments or information (hereinafter “Analysis”) published on the websites of Admirals investment firms operating under the Admirals trademark (hereinafter “Admirals”) Before making any investment decisions please pay close attention to the following:
+- This is a marketing communication. The content is published for informative purposes only and is in no way to be construed as investment advice or recommendation. It has not been prepared in accordance with legal requirements designed to promote the independence of investment research, and that it is not subject to any prohibition on dealing ahead of the dissemination of investment research.
+- Any investment decision is made by each client alone whereas Admirals shall not be responsible for any loss or damage arising from any such decision, whether or not based on the content.
+- With view to protecting the interests of our clients and the objectivity of the Analysis, Admirals has established relevant internal procedures for prevention and management of conflicts of interest.
+- The Analysis is prepared by an analyst (hereinafter “Author”). The Author Admirals is an employee /a contractor for Admirals. This content is a marketing communication and does not constitute independent financial research.
+- Whilst every reasonable effort is taken to ensure that all sources of the content are reliable and that all information is presented, as much as possible, in an understandable, timely, precise and complete manner, Admirals does not guarantee the accuracy or completeness of any information contained within the Analysis.
+- Any kind of past or modelled performance of financial instruments indicated within the content should not be construed as an express or implied promise, guarantee or implication by Admirals for any future performance. The value of the financial instrument may both increase and decrease and the preservation of the asset value is not guaranteed.
+- Leveraged products (including contracts for difference) are speculative in nature and may result in losses or profit. Before you start 
