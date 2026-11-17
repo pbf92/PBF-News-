@@ -1,0 +1,7 @@
+URL: https://www.scworld.com/brief/anthropic-updates-claude-models-with-enhanced-cybersecurity-capabilities
+TITLE: Anthropic updates Claude models with enhanced cybersecurity capabilities
+OUTLET: SC Media
+
+Following insights from Bleeping Computer, Anthropic has released Claude Mythos 5.2 and Fable 5.2, introducing significant advancements in coding, reasoning and cybersecurity research.
+Mythos 5.2 is positioned as the company's most capable model for cybersecurity engineering. Data indicates it detects 10.2% more vulnerabilities than Claude Opus 5.5 and 14.4% more than its predecessor, Mythos 5.1. Security partners reported that one in six bugs identified by Mythos 5.2 were missed by all other tested frontier models. Conversely, Fable 5.2 includes strict safeguards to prevent high-risk activities like exploit generation and unauthorized penetration testing. When the system detects potentially dangerous requests, it automatically redirects tasks to the Opus 4.8 model. While users previously reported frustration with these restrictions, Anthropic claims to have reduced unnecessary blocks by 60% compared to Fable 5.1. The company continues to refine these models, though it acknowledges that as AI capabilities grow, detecting potential failures during pre-release evaluations becomes increasingly complex. These updates highlight the industry shift toward specialized AI models that balance high-level security research utility with safety guardrails for general users.
+Source: Bleeping Computer

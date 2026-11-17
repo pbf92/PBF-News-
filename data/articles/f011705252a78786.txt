@@ -1,0 +1,36 @@
+URL: https://www.tradingkey.com/analysis/stocks/us-stocks/261951081-anthropic-ipo-claude-ai-tradingkey
+TITLE: What you Need to Know AboutClaude's Maker, Anthropic IPO
+OUTLET: TradingKey
+
+What you Need to Know AboutClaude's Maker, Anthropic IPO
+Anthropic has filed a confidential IPO with the SEC, potentially valuing the AI startup at one trillion dollars. Co-founded by former OpenAI members, Anthropic develops AI systems like the Claude series, competing with ChatGPT. Following significant valuation growth and revenue surges, exceeding $44 billion annualized by May 2026, the company aims for profitability by 2028. Anthropic's enterprise market share now surpasses OpenAI's. Major tech firms and VCs have invested, funding infrastructure expansion. However, risks include computing power bottlenecks, supply chain scrutiny by the Department of Defense, and potential AI sector bubble risks due to its high valuation.
+TradingKey - On June 1, ET, Anthropic officially filed for a confidential IPO with the U.S. Securities and Exchange Commission (SEC), potentially becoming the first AI startup with a trillion-dollar valuation.
+Anthropic was co-founded in 2021 by former OpenAI Vice President of Research Dario Amodei, his sister Daniela Amodei, and several former OpenAI core members. Headquartered in San Francisco, the company focuses on developing safe, interpretable, and controllable AI systems.
+Its flagship Claude series of large language models—which encompasses the Claude 3/4 series, the programming-specific Claude Code, the enterprise-grade Claude Enterprise, and API services—is a primary competitor to ChatGPT. Renowned for its low hallucination rate, robust ethical alignment, and ultra-long context window, the series is widely popular among the enterprise and developer communities.
+According to multiple media reports, Anthropic could officially list on the Nasdaq or NYSE as early as October 2026. The company’s valuation growth has been a Silicon Valley miracle: valued at approximately $61.5 billion in March 2025, it reached about $965 billion just over a year later, surpassing its main competitor OpenAI (which was valued at approximately $852 billion in its March funding round).
+Funding History Review:
+Anthropic's annualized revenue saw explosive growth in 2026, surging from $9 billion at the end of 2025 to over $44 billion by May, representing a more than fivefold increase.
+Regarding its revenue structure, approximately 80% comes from enterprise customers, including eight of the Fortune 10 companies; growth in million-dollar-tier clients has been particularly robust, with the number of corporate customers paying over $1 million annually rising from 500 in February 2026 to more than 1,000 by April.
+In terms of profitability expectations, Anthropic posted a loss of roughly $5.6 billion in 2024, but it aims to reach $70 billion in revenue and $17 billion in free cash flow by 2028. By comparison, its main rival OpenAI is not expected to turn a profit until 2030.
+In April 2026, Anthropic's enterprise AI market share reached 34.4%, surpassing OpenAI's 32.3% for the first time. OpenAI lost 13.7 percentage points in a single month, marking its largest-ever decline. As enterprise AI adoption broke 50.6% for the first time, the market has entered a duopolistic competitive landscape.
+Anthropic has raised a cumulative total of over $129 billion, with its latest Series H-1 round completed in May 2026, raising approximately $65 billion. The investor lineup is nothing short of prestigious:
+Tech Giants: Google parent Alphabet ( GOOGL ), Amazon ( AMZN ), Microsoft ( MSFT ), Nvidia ( NVDA )
+Top-tier VCs: Sequoia Capital, Accel, Lightspeed, Bessemer Venture Partners
+Major Asset Managers: BlackRock, Blackstone, Fidelity, JPMorgan
+Sovereign Wealth Funds: Qatar Investment Authority, Singapore's Temasek, GIC
+Furthermore, the world's three largest memory chip manufacturers—Micron ( MU ), Samsung, and SK Hynix also participated as "strategic infrastructure partners."
+The primary objective of this funding round is to expand computing infrastructure and global data center construction. Anthropic plans to allocate the majority of the funds toward purchasing Nvidia's next-generation GPUs and Google TPUs, while accelerating the deployment of its proprietary data centers across the United States, Europe, and Asia.
+Before Anthropic officially goes public, investments can also be made through the following methods:
+Pre-IPO
+Secondary market platforms (such as Forge, EquityZen, and Nasdaq Private Market) typically only allow participation by accredited investors.
+Anthropic completed its Series H funding round in May 2026, with the secondary market platform Forge showing a trading price of approximately $589. However, the company issued a statement in May 2026 prohibiting secondary market stock transfers without board approval. It specifically warned eight platforms, including Forge, Hiive, and Sydecar, that they are unauthorized, stating that related transactions will be deemed invalid and will not be recorded on the company's books.
+Forge responded that it was "mistakenly listed" and is communicating with Anthropic to have its name removed. Overall, investing in Anthropic through the secondary market currently faces high compliance and legal rights risks.
+Strategic Shareholders Investing in Anthropic
+According to public data, Anthropic has undergone multiple funding rounds since its inception, with major shareholders including Google, Amazon, Nvidia, Microsoft, GIC, Sequoia, and Coatue.
+For tech giants like Amazon and Google, investing in Anthropic might be an insignificant non-core item on their financial statements, but for Zoom ( ZM ), SK Telecom ( SKM) for them, the significance is entirely different. Zoom currently has a market capitalization of only about $30 billion; once its Anthropic holding reaches a valuation of billions of dollars, it could become a key variable influencing a market re-evaluation of its asset value.
+Investing in AI-Themed ETFs
+The following ETFs explicitly state in their prospectuses that they invest in AI-related companies and may include Anthropic in their holdings once it goes public:
+In March 2026, Anthropic suffered at least five major outages following intensive product launches, exposing computing power bottlenecks and an over-reliance on AWS.
+In February, the U.S. Department of Defense placed Anthropic on its supply chain risk list and prohibited federal contractors from using its services after the company refused to allow Claude to be used for mass surveillance and fully autonomous weaponry; oral arguments for the related lawsuit were held on May 19, with judges expressing divided opinions (one questioning the government and another leaning toward support). In contrast, seven competitors, including OpenAI, were authorized to work with the Pentagon.
+Regarding valuation, Anthropic reached a valuation of $965 billion after completing a $65 billion funding round; based on annualized revenue of over $44 billion, its price-to-sales ratio is approximately 22x, and its valuation race with OpenAI toward the trillion-dollar mark has heightened bubble risks in the AI sector.
+This content was translated using AI and reviewed for clarity. It is for informational purposes only.

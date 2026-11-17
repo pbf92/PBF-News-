@@ -1,0 +1,28 @@
+URL: https://medicine.washu.edu/news/progress-toward-a-blood-test-for-disease-caused-by-brain-injury/
+TITLE: Progress toward a blood test for CTE
+OUTLET: WashU Medicine
+
+In Brief
+- A biomarker in blood indicates advanced chronic traumatic encephalopathy (CTE).
+- CTE is currently diagnosed only after death.
+- If the findings are confirmed, clinicians could use such a blood test to monitor people at risk, such as former football players.
+A blood test that tracks toxic protein clumps tied to Alzheimer’s disease can also point to signs of advanced chronic traumatic encephalopathy (CTE), according to a study led by researchers at Washington University School of Medicine in St. Louis.
+Chronic traumatic encephalopathy is a degenerative brain disease linked to repetitive blows to the head. Currently, it can only be confirmed by examining the brain after death, and the new findings are a step toward identifying the disease in living people — an urgent unmet need as an appreciation of the risk for CTE among athletes, military veterans and others mounts.
+The study, published Nov. 13 in JAMA, shows that a protein fragment in the blood is elevated not only in Alzheimer’s disease but also in other brain diseases that share the same type of toxic protein buildup, including chronic traumatic encephalopathy and some inherited forms of frontotemporal dementia. Such measurable signs of disease are known as biomarkers.
+“Many pharmaceutical companies are developing therapies that could potentially treat CTE, but we do not have biomarkers to identify the disease and to rapidly see if a treatment is working,” said co-senior author Kanta Horie, PhD, a research associate professor of neurology at WashU Medicine. “We are potentially opening a new door for diagnosing and treating CTE in living patients.”
+If large studies confirm the findings, clinicians could use such a blood test to monitor people at risk of CTE, such as former football players, boxers and combat veterans. It could also enable trials of drugs that target the harmful brain protein.
+What do Alzheimer’s disease and CTE have in common?
+Both Alzheimer’s disease and CTE involve clumps of a protein called tau that build up in the brain. Tau normally helps support the internal structure of nerve cells. Tau comes in two main forms. In some tau diseases, only one form clumps. In others, including Alzheimer’s and CTE, both forms clump.
+Horie; co-senior author Chihiro Sato, PhD, an assistant professor of neurology at WashU Medicine; co-author Randall J. Bateman, MD, the Charles F. and Joanne Knight Distinguished Professor of Neurology; and colleagues previously showed that blood levels of a tau fragment known as eMTBR-tau243 reflect the buildup of tau clumps in the brains of people with Alzheimer’s. Horie and Sato set out to see if the biomarker was specific to Alzheimer’s, or common to other tau-related diseases, called tauopathies.
+How did researchers discover the link to CTE?
+Horie, Sato and collaborators at UC San Francisco discovered the link between the biomarker and CTE while testing eMTBR-tau243 in samples from more than 80 people with brain diseases that were confirmed at autopsy, along with healthy volunteers. As expected, levels of eMTBR-tau243 were very high in people with Alzheimer’s disease and low in neurodegenerative diseases where only one form of tau accumulates.
+Unexpectedly, one person stood out: a patient whose autopsy showed no signs of Alzheimer’s, but whose eMTBR-tau243 level was unexpectedly high. Combing through their autopsy records, Horie found that this person’s brain also showed advanced CTE.
+The researchers then tested blood from 11 people whose CTE was confirmed at autopsy. Levels of eMTBR-tau243 were higher than in healthy people and rose with the severity of the brain disease.
+“Our study shows that an Alzheimer’s disease biomarker can be applied to other tauopathies, including CTE,” Sato said.
+The test distinguished people with advanced CTE from healthy people with high accuracy but could not reliably identify early-stage CTE. Levels of eMTBR-tau243 in CTE were also much lower than in Alzheimer’s disease.
+Overall, the study included 229 participants from several biorepositories, including at WashU Medicine, and samples were analyzed using the WashU Medicine Tracy Family SILQ Center’s mass spectrometry assay.
+Can patients get tested for CTE now?
+WashU has licensed the technology to measure eMTBR-tau243 in blood to C2N Diagnostics, a WashU startup that also developed an FDA-cleared blood test to aid in diagnosing Alzheimer’s disease. The test has not been validated for diagnosing CTE.
+Larger studies are needed to confirm the findings before it can be used clinically for this purpose. Because the protein is also high in Alzheimer’s disease, which often occurs alongside CTE, the biomarker alone cannot tell the two apart.
+“This is not going to be a standalone biomarker,” Sato said. “But if someone has a history of repeated head injury, tests negative for Alzheimer’s, and this biomarker comes up, it might be CTE.”
+“My dream is to clear tauopathies all over the world,” Horie said. “This work broadens therapeutic opportunities beyond Alzheimer’s disease.”
