@@ -1,0 +1,9 @@
+URL: https://www.tokenpost.com/news/business/59279
+TITLE: Topstep Plans to Bar New Traders From 13 Countries Over Coordinated Activity
+OUTLET: www.tokenpost.com
+
+Topstep plans to stop accepting new traders from 13 countries this week after the futures trading firm cited rising coordinated activity and efforts to bypass identity and payment safeguards.
+There were 967 active traders in the affected countries. They are Andorra, Cambodia, Ethiopia, Guinea, Kyrgyzstan, Laos, Macao, Mozambique, Namibia, Senegal, Serbia, Uzbekistan and Zimbabwe.
+Topstep cited a recent increase in coordinated conduct from some regions, including attempts to get around identity checks and payment protections and coordinated trading across accounts. The firm said it had been shutting down accounts involved, while similar activity returned through new profiles and changing methods.
+Topstep’s rules bar traders from coordinating to pool risk or hedge positions, using separate accounts to hedge positions held by the same user, or trying to evade geographic restrictions.
+As of Sept. 4, Ethiopia, Laos, Namibia, Serbia and Zimbabwe were eligible for Topstep’s Trading Combine and Express Funded Accounts, but not Live Funded Accounts. Those eligibility terms predate the restriction announcement. Affected existing traders have until the end of 2026 to offboard.

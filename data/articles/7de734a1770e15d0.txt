@@ -1,0 +1,25 @@
+URL: https://www.tradingview.com/news/financemagnates:a31fa4685094b:0-exclusive-metrotrade-rebuilds-with-kraken-owner-payward-adds-crypto-contracts/
+TITLE: Exclusive: MetroTrade Rebuilds With Kraken Owner Payward, Adds Crypto Contracts
+OUTLET: TradingView
+
+Exclusive: MetroTrade Rebuilds With Kraken Owner Payward, Adds Crypto Contracts
+MetroTrade relaunched its US retail futures brokerage today (Tuesday) on technology from Kraken owner Payward. The Chicago-based broker built its new trading platform, account portal and funding process with Payward Services Derivatives, formerly NinjaTrader Connect.
+The relaunch widens what MetroTrade sells. Alongside CME Group futures, it will offer crypto derivatives from Coinbase, with prediction markets planned for a later release.
+That last segment reached $44 billion in trading volume in 2025, as FinanceMagnates.com reported when NinjaTrader opened its brokerage technology to outside firms in March.
+London's trading industry is coming home!
+MetroTrade, founded by Ingmar Mattus and futures industry veteran David Klotz, secured US registration as an introducing broker in April 2024.
+It is backed by Andromeda Capital Partners Suisse, the Swiss investment firm Mattus runs alongside Tickmill, the retail broker he co-founded and one of those whose trading volumes are tracked by FM Intelligence.
+Payward Signs Up Another Outside Broker
+Ingmar Mattus, Co-Founder at MetroTrade, Source: LinkedIn
+Mattus said the new platform runs "on infrastructure that already supports serious volume in the retail futures space." He added that clients get faster onboarding and funding while MetroTrade keeps its low-cost pricing.
+Payward has been adding outside brokers since NinjaTrader began offering the service in March. In May, the futures prop firm Tradeify launched its retail brokerage Slay Markets with NinjaTrader Clearing as its sole futures commission merchant.
+At MetroTrade, the new platform "is now our primary onboarding channel," Mattus told FinanceMagnates.com, so new accounts clear through Payward by default. Existing clients keep trading through the broker's established clearing firms.
+That puts MetroTrade at least second among US introducing brokers to sign on publicly.
+Both deals run through assets Payward bought over the past two years. Kraken completed its $1.5 billion purchase of NinjaTrader in 2025, and Payward added Chicago-based Bitnomial for up to $550 million in May, one of four moves in six weeks that also included a $200 million Deutsche Börse stake.
+Max Shanbrom, executive vice president and general manager of Payward Services Derivatives, said the unit was built so a broker can reach markets, onboarding, funding and risk controls through one application programming interface.
+Single-Stock and E-nano Futures on the New Platform
+MetroTrade, which added options on CME futures in July, said the proprietary trading platform covers newer CME products as well.
+These include single-stock futures, which CME launched on July 27 and which brokers such as TradeStation, Schwab and Plus500 have since added.
+E-nano index futures, which started trading on August 24, are also on the list. Each E-nano contract is one-tenth the size of a Micro E-mini, according to CME.
+Klotz, president of MetroTrade, said the two teams worked together on clearing, funding and risk controls, and called that partnership "what made a launch of this scope possible on our timeline."
+MetroTrade remains registered with the Commodity Futures Trading Commission (CFTC) as an introducing broker and is a member of the National Futures Association (NFA). Its trading software runs on web and mobile.

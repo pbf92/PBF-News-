@@ -1,0 +1,16 @@
+URL: https://www.financemagnates.com/forex/kalshi-buys-a-broker-adds-stocks-to-a-menu-that-already-has-perps/
+TITLE: Kalshi Buys a Broker, Adds Stocks to a Menu That Already Has Perps
+OUTLET: Finance Magnates
+
+Kalshi, the prediction market operator, has acquired a small New York broker and plans to begin equity trading within two months, the Wall Street Journal reported, citing people familiar with the matter.
+The prediction market giant bought FB Securities in July. According to Finra filings cited by the WSJ, the broker was established in 2024 and is led by CEO John Rosanelli. Some FB Securities employees are staying on with Kalshi. It plans to offer stocks, exchange-traded funds and similar products as part of a broader effort to build a multiasset exchange, the WSJ said.
+From Perps to Equities
+The move follows Kalshi’s push into perpetual futures, contracts that never expire, trade around the clock and allow leverage. Kalshi has rolled out perps tied to cryptocurrencies, precious metals and commodities this year. Earlier this month, it launched perps tied to more than 50 single stocks, including McDonald’s, SpaceX and Meta.
+Kalshi’s crypto perpetual futures generated more than $5.5 billion in trading volume in their first two weeks, which the company described as the fastest-growing product launch in its history. In October, Kalshi took perpetual futures into US equities after CFTC approval, with a no-expiry contract tracking the MerQube US Large Cap Index, giving exposure to 500 large US companies.
+Tarek Mansour is co-founder and CEO of Kalshi.
+- Kalshi Taps 40 Years of Artnet Data to Power Art Market Event Contracts
+- Kalshi Tops $5 Billion in Daily Trading Two Days Running, Mostly on Parlays
+- S&P to Turn Kalshi Probabilities into Indices under Benchmark Deal
+Legal Pressure and Funding Talks
+Prediction market platforms, including Kalshi, remain in legal disputes with multiple states over whether event contracts amount to gambling regulated at state level, the WSJ reported. The newspaper said regulatory pressure has increased since Democrats won control of Congress in the 2026 midterm elections. On Monday morning, nine Democratic senators sent a letter to the Commodity Futures Trading Commission asking it to halt efforts to assert its regulatory authority over prediction markets.
+Separately, Kalshi is in talks with investors on a funding round that would value the company at $65 billion, according to the WSJ’s sources. The company also plans to launch compute futures in the coming months. These contracts would let investors and companies trade and hedge the rental price of AI computing power.

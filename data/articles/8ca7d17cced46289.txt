@@ -1,0 +1,23 @@
+URL: https://thebusinessmanual.ph/news/meta-pauses-facebook-ad-terms-ai-scraping/
+TITLE: Meta Pauses Facebook Ad Terms Over AI Data Scraping Rules
+OUTLET: The Business Manual
+
+Meta Puts a Pause on Facebook’s Updated Commercial and Advertising Terms
+Meta halts controversial policy updates that would have allowed the tech conglomerate to scrape publisher websites and train its AI models on merchant data without explicit consent.
+Meta, the social media and artificial intelligence (AI) conglomerate, put a pause on Facebook’s updated commercial and advertising terms that it initially planned to roll out on October 30, 2026, after a backlash from publishers, regulatory bodies, and the public.
+Spotted by NiemanLab and reported by Reuters, among others, the company’s planned changes to its Meta Commercial Terms, Product Catalog Terms, Self-Serve Ad Terms, and Ad Creative Generative AI Terms would’ve allowed it to scrape publishers’ websites, as well as use the content to train its AI models without permission.
+Consent to crawl your website for product development should be an opt-in choice, and not a condition for running advertisements or managing a Page, according to Dominic Ligot, an expert on AI and digital transformationDigital TransformationThe process of integrating digital tools and technologies, such as cloud software, automation, and analytics, into every part of a business to improve efficiency and customer experience. Digital transformation isGo to Digital Transformation Glossary and founder of consulting company CirroLytix.
+Meta has an edge, he emailed on November 4, 2026, because – while local marketplaces would have to negotiate for data – the social media platform would’ve gotten pooled data from merchants as a condition of service.
+Under Philippine antitrust law (Republic Act 10667 or the Philippine Competition Act), it is illegal for a dominant market player to attach unrelated demands to a sale or agreement.
+How Can a Business Determine Whether the Free Traffic Is Worth it?
+Put numbers on both sides, advised Ligot.
+“On the benefit side, measure what Meta actually sends you,” he said.
+That includes visits, conversions, and revenue from organic Meta posts, tracked with UTM tags (or labels added to links).
+“On the cost side, list what you’re handing over: product photos, descriptions, pricing, reviews and how often each changes,” Ligot said. “Ask what it would cost to license that data or to rebuild it. Also check your server logs for Meta’s crawlers so you can see how much is being taken.”
+The part that is free is narrowing, he told The Business Manual, given that Meta is testing a fee for Pages that post outside links.
+“If losing Meta would hurt most of your sales, you aren’t negotiating as an equal,” he added. “Building your own channels – like an email list, your website, and marketplaces – is the hedge.”
+Frequently Asked Questions
+The company paused the policy rollout following backlash from publishers, regulatory bodies, and the public over clauses that would have let the company scrape websites and train AI models using business content without permission.
+The planned changes covered four core agreements: the Meta Commercial Terms, Product Catalog Terms, Self-Serve Ad Terms, and Ad Creative Generative AI Terms.
+Under Republic Act 10667, also known as the Philippine Competition Act, dominant market players are prohibited from attaching unrelated demands to a sale or service agreement.
+Businesses should weigh the revenue and conversions driven by organic posts against the licensing or rebuilding cost of the product photos, pricing, reviews, and server bandwidth consumed by Meta’s web crawlers.

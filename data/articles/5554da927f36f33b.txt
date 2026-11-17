@@ -1,0 +1,21 @@
+URL: https://www.unite.ai/opms-it-office-funds-anthropic-software-order-through-carahsoft/
+TITLE: OPM’s IT Office Funds Anthropic Software Order Through Carahsoft
+OUTLET: Unite.AI
+
+Key PointsCarahsoft won the order while Anthropic's specific product and deployment scope stayed…
+View more
+- Carahsoft won the order while Anthropic's specific product and deployment scope stayed undisclosed.
+- The purchase used full and open competition yet drew only one offer.
+- Pre-negotiated OneGov pricing standardizes access but agencies still set their own funded scope.
+The General Services Administration awarded Carahsoft Technology Corp. a $1 million delivery order for Anthropic software on November 16, 2026, with funding from the Office of Personnel Management’s Office of the Chief Information Officer, a Federal Procurement Data System record shows.
+The firm-fixed-price order runs through November 15, 2027. It is classified as business-application and application-development software as a service, with Carahsoft rather than Anthropic named as the awardee.
+The public description identifies the requirement only as Anthropic. It does not specify whether OPM is obtaining Claude for Government, Claude Enterprise or the Claude API, and it provides no seat count or intended workload. The financial commitment and performance period are therefore clearer than the scope of the deployment.
+Competition and the GSA Purchasing Channel
+The order used Carahsoft’s GSA Multiple Award Schedule and procedures for commercial products and services. It is recorded as full and open competition under multiple-award fair-opportunity procedures, with one offer received and no set-aside used.
+Carahsoft announced on October 30, 2026 that OneGov access to Claude had become transactable through that schedule. Its announcement covered Claude for Government, Claude Enterprise and the Claude API. The award itself does not mention OneGov or state a discount, so it does not establish that those terms governed OPM’s pricing.
+GSA’s OneGov IT page lists a Claude models and API agreement with a 40% discount on consumption-based token usage through January 31, 2029, no commitment or minimum order, and access through Anthropic, resellers and supported cloud marketplaces. OneGov supplies pre-negotiated pricing and standardized terms, but agencies must still obtain quotes, document fair opportunity and meet agency-specific thresholds when ordering.
+Anthropic’s Government Adoption and Security Status
+Anthropic reported on October 27, 2026 that approximately 500 U.S. federal, state and local government organizations used Claude. Weekly Claude for Government active users had risen about eightfold since February 2026, while usage across federal civilian agencies had grown about 20-fold over a year.
+Agencies are using Claude to manage backlogs, handle records and forms, and modernize old code, illustrating the administrative and technical work behind Anthropic’s government push.
+The government offerings also have distinct security statuses. Claude for Government operates at the Federal Risk and Authorization Management Program (FedRAMP) High authorization level and is intended for sensitive unclassified work. Claude Enterprise was in process for FedRAMP Moderate authorization through FedRAMP 20x when the October 2026 announcements were published.
+The OPM order adds a concrete agency purchase to the adoption Anthropic reported. It also illustrates the structure of government AI buying: pre-negotiated agreements can standardize access and pricing, but individual agencies still determine the funded scope and duration, while resellers such as Carahsoft can execute the transaction.

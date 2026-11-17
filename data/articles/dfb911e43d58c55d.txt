@@ -1,0 +1,15 @@
+URL: https://www.calcalistech.com/ctechnews/article/ylka3lf7q
+TITLE: Anthropic IPO could make its employees worth an average of $41 million
+OUTLET: CTech
+
+Anthropic IPO could make its employees worth an average of $41 million
+A SaaStr analysis estimates that employee stock options and restricted stock units could be worth a combined $216 billion if the AI company's shares are priced at $78. The wealth would be concentrated among early employees, with some potentially holding equity worth more than $100 million.
+Anthropic’s expected IPO could generate enormous paper wealth for its investors, founders, and employees. According to calculations by the platform SaaStr, the offering could leave employees with equity worth as much as $216 billion, assuming the shares are priced at the top of the projected range.
+The AI company has approximately 3,500 employees, which would put the average value of their equity at around $41 million per person. According to the draft prospectus, 825 million shares are expected to be offered at a price range of $70 to $78 apiece. At the top of that range, the shares would be worth approximately $64.4 billion.
+SaaStr’s analysis, based on the draft prospectus, estimates that employees hold roughly 1.77 billion stock options with an average exercise price of $2.91. At a share price of $78, the options would have a gross value of approximately $138 billion, or about $133 billion after deducting the cost of exercising them.
+Unvested restricted stock units (RSUs) add an estimated $84 billion to the calculation. Together, the options and RSUs would have a net value of approximately $216 billion at a share price of $78. At $70 per share, the estimated value would fall to around $194 billion.
+That wealth, however, would be far from evenly distributed. According to SaaStr, the roughly 1,000 employees who joined Anthropic before 2025 are likely to hold substantially larger equity grants, with many potentially worth $100 million or more. The approximately 3,000 other employees are estimated to hold smaller grants, averaging around $20 million.
+The prospectus also sets aside approximately 2.05 billion shares for future allocation through the 2026 compensation plan and employee stock purchase plan. At $78 per share, those shares would have a notional value of roughly $160 billion.
+That pool could become a powerful recruiting tool in the increasingly competitive AI talent market. Startups seeking to hire AI engineers will have to contend with Anthropic's equity packages, which could become more readily tradable following an IPO, as well as the company's substantial reserves of shares for future compensation.
+SaaStr argues that such a concentration of potential wealth could reshape the talent market in AI and enterprise software over the coming years. It could even encourage some Anthropic employees to leave and establish their own companies in 2027 and 2028.
+Anthropic's seven founders are also poised for a substantial windfall. Their stakes are estimated to be worth approximately $18 billion apiece following an IPO.

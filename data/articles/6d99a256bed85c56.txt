@@ -1,0 +1,20 @@
+URL: https://www.financemagnates.com/forex/topstep-blocks-13-countries-following-surge-in-coordinated-prop-fraud/
+TITLE: Topstep Blocks 13 Countries Following Surge in Coordinated Prop Fraud
+OUTLET: Finance Magnates
+
+Topstep is restricting access for users in 13 countries across Africa, Asia, and Europe to combat what the firm has described as a surge in fraud rings.
+The restriction, which includes Cambodia, Ethiopia, Serbia, and Uzbekistan, will affect fewer than 1,000 current traders, the prop firm giant stressed.
+“Lately,” the prop firm giant noted on X, “we’ve seen a rise in coordinated activity from certain regions, including attempts to bypass ID verification and payment safeguards, and coordinated trading across accounts.”
+This week, we’ll be restricting access in a handful of countries. This will impact less than 1,000 current Topstep Traders but we want to be transparent with you all about why. Protecting the integrity of our program and the security of our community is our responsibility. Lately we’ve seen a rise in coordinated activity from certain regions, including attempts to bypass ID verification and payment safeguards, and coordinated trading across accounts. We’ve been shutting down the accounts involved, but the activity keeps returning through new profiles and new tactics. Topstep exists to help traders grow and prepare for live markets, and we’ve avoided country-level restrictions wherever possible. Given the recent surge in fraud rings, we’re taking a harder step. Watch our socials for more details about which countries will be impacted and next steps.
+— Topstep (@Topstep) November 16, 2026
+Not an Isolated Incident
+Hedging groups, which are driving Topstep’s most recent ban, have been an ongoing industry problem.
+- RZR Funded Adds Prediction-Market Challenges after Hantec Trader Rebrand
+- Coinhub Brand Enters Simulated Prop Trading Through Nevis Firm
+- 2 Dozen Brands, One Background Tab: How Prop Firm Match’s Affiliate Redirect Slipped Past Its Partners
+These groups use multiple coordinated accounts to take opposing positions on the same asset. This guarantees a profit on one side while willingly blowing up a burner account on the other, effectively draining the firm’s capital.
+Topstep explained that despite shutting down the individual accounts involved, the activity persisted through new profiles and tactics, requiring country-wide restrictions.
+Different Approaches to Combat Hedging Groups
+In a recent interview with Finance Magnates, FMTO’s co-founder Marek Vašíček noted that hedging groups are “something we need to take care of, but we built a lot of human capital and know-how on how it needs to be handled.”
+In November, Funded Trader Markets decided to cap Pakistani account allocation at US$50,000, rather than imposing a country-wide ban. The firm claimed repeated cases of alleged hedging, coordinated cheating and rule violations linked to groups operating in Pakistan.
+Meanwhile, Funding Pips publicly threatened to ban Pakistan for similar reasons, although at the time of writing, the country is not restricted by the prop firm.

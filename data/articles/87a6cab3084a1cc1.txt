@@ -1,0 +1,28 @@
+URL: https://www.tradingview.com/news/stocktwits:708e01e5d094b:0-anthropic-ipo-puts-spacex-in-spotlight-why-cathie-wood-s-ark-thinks-the-ai-lab-could-pay-musk-obscene-prices-for-compute/
+TITLE: Anthropic IPO Puts SpaceX In Spotlight — Why Cathie Wood’s ARK Thinks The AI Lab Could Pay Musk ‘Obscene’ Prices For Compute
+OUTLET: TradingView
+
+Anthropic IPO Puts SpaceX In Spotlight — Why Cathie Wood’s ARK Thinks The AI Lab Could Pay Musk ‘Obscene’ Prices For Compute
+- ARK chief futurist Brett Winton says paying SpaceX a premium for computing power could help Anthropic win customers before OpenAI.
+- Anthropic expects to pay SpaceX about $3.1 billion a month at full capacity.
+- Anthropic’s Q3 revenue rose 47% from the prior quarter to $17 billion, but computing and infrastructure costs grew faster.
+As Anthropic seeks an IPO valuation of up to $1.4 trillion, Cathie Wood’s ARK Investment Management says paying SpaceX a premium for computing power could help the Claude maker win customers before OpenAI does.
+Cathie Wood’s ARK Venture Fund (ARKVX) had nearly 18% of its portfolio invested in the three companies as of Oct.31, with 7.7% in OpenAI, 5.8% in SpaceX (SPCX) and 4.4% in Anthropic.
+SpaceX’s Pricing Power In A $40 Trillion AI Race
+Brett Winton, chief futurist at ARK Investment Management, said on X that Anthropic and OpenAI could justify paying SpaceX a premium for computing power if it helps them win customers who stay for years. For Anthropic, the sums are already substantial.
+The company expects to pay SpaceX about $3.1 billion a month once the full capacity under its agreements becomes available, according to its IPO filing.
+Winton sees three or four companies competing for a potential $40 trillion market for AI-powered knowledge work. In his view, SpaceX has pricing power because it can rent additional capacity to either lab when it needs more computing power or use those same chips to train and run its own competing models.
+“in a $40 trillion market with 3 and perhaps 4 players, that SpaceX can provide the key supply input at the margin at scale (and can alternatively use that supply to directly compete in the market), results in an equilibrium where the marginal price per compute can get to obscene levels,” Winton said.
+Anthropic and OpenAI have already reserved computing power elsewhere, but waiting for it could give a rival time to win customers who may be reluctant to switch, he added. Paying SpaceX more now could help each lab secure those accounts and serve them more profitably once its reserved capacity comes online.
+Inside Anthropic’s $120.5B SpaceX Deal
+In May, as demand for Claude Code strained Anthropic’s computing capacity, the company announced a deal to use more than 220,000 Nvidia processors at SpaceX’s Colossus 1 data center in Memphis. The same day, Anthropic doubled Claude Code’s five-hour usage limits across several paid plans.
+Under deals signed and amended between May and October, Anthropic could spend up to $120.5 billion with SpaceX’s AI unit through 2029. Anthropic expects the full capacity to be available in December. Either company can end the agreements with 90 days’ notice once their respective minimum terms expire in January and March 2027, according to Anthropic’s IPO filing.
+Anthropic has also reserved computing power from Microsoft, committing to spend at least $47.2 billion between November 2026 and June 2033 regardless of how much it uses. SpaceX, meanwhile, uses its Colossus infrastructure both to supply Anthropic and to train Grok, its own competing AI model.
+Anthropic’s Compute Bill Grew Faster Than Sales
+Anthropic’s revenue rose 47% from the previous quarter to $17 billion in the third quarter, but its computing and infrastructure costs grew even faster. As more capacity came online, the costs reached $9.9 billion, or 58% of revenue, up from 48% in the second quarter. Anthropic said its newer Opus 5.5 model also cut customers’ cost per task by about 40% compared with Opus 5
+Growth continued ahead of the IPO. Anthropic’s annualized revenue run rate rose from $71 billion at the end of September to $81 billion a month later. The company and existing shareholders are offering 825 million shares at $70 to $78 per share, valuing the offering at up to $64.4 billion. Anthropic has applied to list on Nasdaq under ANT and is expected to price the shares on Wednesday.
+Why ARK Sees SpaceX’s Software Overtaking Chip Rentals
+In ARK’s scenario, SpaceX earns 29% of the combined gross profit of SpaceX, Anthropic and OpenAI in 2028. Most of SpaceX’s profit comes from renting out computing power, while Anthropic and OpenAI serve most of the customers.
+By 2034, SpaceX’s own software generates more gross profit than its compute rentals. A year later, SpaceX overtakes Anthropic and OpenAI combined, accounting for 55% of the trio’s gross profit. Its share reaches 63% in 2037.
+Winton said that paying a premium now could still make sense for both AI labs. Customers they win today could stay with them long enough to be served more profitably using computing power they have already reserved.
+“Even knowing that they won't be able to occupy the majority of the market due to spaceX's compute dominance, they overpay in the near term to maximize their long-term profitability serving a meaningful minority of the market with the compute they do have secured,” Winton said.

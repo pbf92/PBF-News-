@@ -1,0 +1,106 @@
+URL: https://admiralmarkets.com/education/articles/shares/shopify-stock
+TITLE: Shopify Stock (SHOP): What the Company Does and Key Risks
+OUTLET: Admirals
+
+Shopify Stock: What the Company Does and What Drives the Shares
+Shopify Inc. is a Canadian company that sells software merchants use to run online and in-store sales. Its shares trade under the ticker SHOP on Nasdaq in US dollars and on the Toronto Stock Exchange (TSX) in Canadian dollars. In the third quarter of 2026, about 78% of revenue came from payments and other merchant services, with the rest from subscriptions.
+This profile explains the business behind Shopify stock and its main risks, with a date for every figure.
+The information in this article is provided for educational purposes only and does not constitute financial advice. Consult a financial advisor before making investment decisions.
+Risk warning: The value of shares can fall as well as rise, and you may get back less than you invest. CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money. This article is general information and should not be treated as investment advice.
+What is Shopify?
+Shopify was founded in Ottawa in 2004 and is still headquartered there. Co-founder Tobi Lütke is the chief executive, according to the StockAnalysis company profile. The company says millions of businesses in more than 175 countries use its platform, according to its Q3 2026 results release.
+Shopify key facts
+Sources: StockAnalysis, Shopify and Shopify Q3 2026 release, accessed 16 November 2026.
+What Shopify does and how it makes money
+Shopify gives merchants the tools to sell online and in physical shops. Revenue comes from two segments. The Shopify business model links most of its income to how much its merchants sell.
+Subscription Solutions
+Merchants pay monthly fees for plans, from basic shops up to Shopify Plus for large brands. Apps and themes also sit here. Monthly recurring revenue reached $230 million in Q3 2026, up from $193 million a year earlier, as stated in the Q3 2026 release.
+Merchant Solutions
+This larger segment is mainly payment processing through Shopify Payments and Shop Pay. It also includes shipping and merchant loans. These fees grow with gross merchandise volume (GMV), the total value of sales made on the platform.
+Shopify revenue breakdown
+Source: Shopify Q3 2026 results release and Shopify FY2025 results release. Shares calculated from reported revenue. Past performance is not a reliable indicator of future results.
+Merchant Solutions carries a lower gross margin than subscriptions: about 39% against 79% in Q3 2026, calculated from the Q3 2026 release. A growing payments share can therefore lift revenue faster than profit.
+Trading involves risk.
+Shopify stock: ticker, exchange and how it is traded
+The shares listed on 21 May 2015 at $17 each, according to Renaissance Capital. That price came before the 2022 ten-for-one Shopify stock split. The US listing moved from the NYSE to Nasdaq on 31 March 2025, and the TSX listing stayed in place, as Shopify announced. The shares joined the Nasdaq-100 index in May 2025, replacing MongoDB, according to Nasdaq.
+Market snapshot
+Source: StockAnalysis, snapshot at 11:39 ET (16:39 UK) on 16 November 2026. Past performance is not a reliable indicator of future results.
+A trailing price earnings ratio above 90 usually points to high growth expectations. Our guide to the P/E ratio explains how this measure is read.
+How shares like SHOP are accessed
+Admirals lists Shopify Inc (SHOP) as a share on its Invest.MT5 account for stocks and ETFs. The contract specifications show long positions only, with the full position value paid upfront. Other shares are listed separately. Readers new to the process can start with how to start investing in stock markets.
+Recent results and news
+Revenue has grown above 30% in each of the last four quarters. Net income swings more, because it includes changes in the value of Shopify's stakes in other companies.
+Sources: Shopify Q4 2025, EcomCrew on Q1 2026, Shopify Q2 2026 and Shopify Q3 2026. Past performance is not a reliable indicator of future results.
+Full year 2025
+In 2025, revenue rose 30% to $11.556 billion. GMV reached $378.4 billion. Free cash flow was $2.007 billion, a 17% margin, according to the FY2025 results release.
+Shopify Q3 2026 results and the share reaction
+Free cash flow rose to $816 million in Q3 2026, a 22% margin. For Q4 2026, the company guided to revenue growth at a low-thirties percentage rate, as stated in the Q3 release. GMV and subscription revenue came in slightly below analyst estimates, as Stocktwits reported. The shares closed 8.7% lower at $142.57 on 3 November 2026, according to Trefis.
+Dated share price moves in 2026
+Source: Trefis, 4 November 2026. Past performance is not a reliable indicator of future results.
+The highest close of 2026 was almost 90% above the lowest, so Shopify shares have moved sharply within a single year.
+Five-year performance
+Source: ChartRow annual returns for SHOP in US dollars, calendar years 2021 to 2025, accessed 16 November 2026. The shares were down 8.6% in 2026 up to the 13 November close. Figures are before taxes and costs, which may vary. Past performance is not a reliable indicator of future results.
+Other 2026 news
+On 2 June 2026, the board raised its share repurchase programme by $3 billion to $5 billion in total, as stated in the buyback release.
+Shopify and the ecommerce market
+Both reported segments serve merchants, so all of Shopify's revenue comes from commerce software and related services, as the segment table above shows.
+Payments now bring in most of Shopify's revenue, so its results follow consumer spending closely.
+The main growth areas discussed with the Q3 2026 results are listed below, as summarised by PPC Land.
+- International sales are adding to GMV growth.
+- Offline sales through Shopify's point-of-sale system are expanding.
+- Business-to-business sales have grown from a small base.
+- AI shopping assistants are sending more orders to Shopify stores.
+Fast sales growth with high valuation multiples is typical of growth investing. Our article on different types of stocks explains how growth shares differ from value and income shares.
+Trading involves risk.
+Main competitors
+Source: Red Stag Fulfillment, accessed 16 November 2026.
+Shopify merchants own their store and customer data. Amazon sellers trade inside a marketplace that Amazon controls.
+Risks to keep in mind
+The main Shopify stock risks are summarised below.
+Volatility
+The shares fell 74.8% in 2022 and rose 124.4% in 2023. In 2026 alone, single sessions brought a gain of 17.0% and a fall of 8.7%.
+Valuation and profitability
+A trailing P/E above 90 can make the shares sensitive to any slowdown in growth. Small misses against estimates have moved the stock sharply. Reported profit can also turn into a loss when the value of equity investments drops, as in Q1 2026.
+Dependence on merchants
+Revenue depends on the sales of millions of mostly small and mid-sized merchants. Merchant failures in a downturn could reduce GMV. Shopify's merchant loans also carry credit risk.
+Competition
+Large platforms and cheaper website builders compete for the same merchants. Price pressure could slow growth or squeeze margins.
+Macro and trade rules
+Weaker consumer spending could reduce merchant sales. Tariffs and changes to trade rules can also raise costs for cross-border sellers.
+These factors sit at the core of fundamental analysis of stocks.
+Frequently Asked Questions
+What does Shopify do?
+Shopify sells software that lets businesses run online stores and shop tills. It also processes payments for those merchants.
+Where is Shopify stock traded?
+Shopify shares trade on Nasdaq in US dollars and on the Toronto Stock Exchange in Canadian dollars.
+What is Shopify's ticker symbol?
+The ticker is SHOP on both Nasdaq and the TSX. Canadian data services often show the Toronto line as SHOP.TO.
+Is Shopify profitable?
+Yes, on an operating basis in every 2026 quarter. Investment losses pushed net income into a loss in Q1 2026.
+What drives Shopify's share price?
+Quarterly GMV and revenue growth have moved the shares around results. Consumer spending and technology share valuations also matter.
+Some of the content on this page was created with the help of automated tools. All final text has been reviewed by Admirals and is under its editorial responsibility.
+The given data provides additional information regarding all analysis, estimates, prognosis, forecasts, market reviews, weekly outlooks or other similar assessments or information (hereinafter “Analysis”) published on the websites of Admirals investment firms operating under the Admirals trademark (hereinafter “Admirals”) Before making any investment decisions please pay close attention to the following:
+- This is a marketing communication. The content is published for informative purposes only and is in no way to be construed as investment advice or recommendation. It has not been prepared in accordance with legal requirements designed to promote the independence of investment research, and that it is not subject to any prohibition on dealing ahead of the dissemination of investment research.
+- Any investment decision is made by each client alone whereas Admirals shall not be responsible for any loss or damage arising from any such decision, whether or not based on the content.
+- With view to protecting the interests of our clients and the objectivity of the Analysis, Admirals has established relevant internal procedures for prevention and management of conflicts of interest.
+- The Analysis is prepared by an analyst (hereinafter “Author”). The Author Admirals is an employee /a contractor for Admirals. This content is a marketing communication and does not constitute independent financial research.
+- Whilst every reasonable effort is taken to ensure that all sources of the content are reliable and that all information is presented, as much as possible, in an understandable, timely, precise and complete manner, Admirals does not guarantee the accuracy or completeness of any information contained within the Analysis.
+- Any kind of past or modelled performance of financial instruments indicated within the content should not be construed as an express or implied promise, guarantee or implication by Admirals for any future performance. The value of the financial instrument may both increase and decrease and the preservation of the asset value is not guaranteed.
+- Leveraged products (including contracts for difference) are speculative in nature and may result in losses or profit. Before you start trading, please ensure that you fully understand the risks involved.
+Sources
+- Q3 2026 results release, Shopify, accessed 16 November 2026.
+- Q2 2026 results release, Shopify, accessed 16 November 2026.
+- Q4 and FY2025 results release, Shopify, accessed 16 November 2026.
+- Share repurchase increase, Shopify, accessed 16 November 2026.
+- Transfer of US listing to Nasdaq, Shopify, accessed 16 November 2026.
+- Shopify added to the Nasdaq-100 Index, Nasdaq, accessed 16 November 2026.
+- Shopify prices IPO at $17, Renaissance Capital, accessed 16 November 2026.
+- Shopify stock overview, StockAnalysis, accessed 16 November 2026.
+- Shopify company profile, StockAnalysis, accessed 16 November 2026.
+- Shopify Q1 2026 results, EcomCrew, accessed 16 November 2026.
+- Why is SHOP stock falling today, Stocktwits, accessed 16 November 2026.
+- What is behind the move in Shopify stock, Trefis, accessed 16 November 2026.
+- SHOP returns by year, ChartRow, accessed 16 November 2026.
+- Shopify revenue gains 32% to $3.7bn as AI-referred orders rise 3.3x, PPC Land, accessed 16 November 2026.
+- Shopify market share, Red Stag Fulfillment, accessed 16 November 2026.

@@ -1,0 +1,21 @@
+URL: https://finance.yahoo.com/technology/ai/articles/infobip-expands-relationship-anthropic-verified-090000445.html
+TITLE: Infobip Expands Relationship With Anthropic With Verified Claude Connector for Global Messaging
+OUTLET: Yahoo Finance
+
+New integration enables Claude users to send and track messages across SMS, RCS, MMS and Viber through Infobip.
+VODNJAN, Croatia, November 17, 2026--(BUSINESS WIRE)--Global AI-first cloud communications platform Infobip has expanded its collaboration with Anthropic with the launch of the Infobip Message connector in the Claude Marketplace. The Anthropic-verified connector enables developers, enterprises and builders using Claude to add global messaging capabilities to AI agents without building separate integrations for individual communication channels.
+The integration connects Claude with Infobip's global communications infrastructure, enabling AI agents to send messages across SMS, RCS, MMS and Viber through a single connector. Using Infobip's send and check status tools, agents can trigger outbound messages and track their delivery status, allowing them to incorporate real-world communication into automated workflows.
+For businesses building agentic AI applications, the connector can support use cases such as order confirmations, delivery updates and appointment reminders. Instead of developing and maintaining individual messaging integrations, users can add Infobip's communication capabilities directly to their Claude workflows.
+"AI agents are moving beyond answering questions to taking meaningful action on behalf of businesses and their customers. For that to happen at scale, they need a reliable way to reach people on the channels they already use. By bringing Infobip's global messaging capabilities directly into Claude, we're making it much simpler for developers and businesses to turn intelligent AI workflows into real-world customer interactions," said Adrian Benić, Chief Product Officer at Infobip.
+The integration went live in the Claude Marketplace in September 2026 and builds on Infobip's broader strategy of working with AI-native companies to provide the communications infrastructure connecting AI agents with customers globally.
+The Infobip Message connector is available through the Claude Marketplace as an Anthropic-verified connector.
+Infobip is also a member of the Agentic AI Foundation (AAIF), supporting the development of open standards and collaboration around agentic AI.
+About Infobip
+Global AI-first cloud communications platform Infobip enables businesses to build connected experiences across all stages of the customer journey, with AI as the driving force of innovation.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20261117322376/en/
+Contacts
+For more information, contact:
+Marcelo Nahime
+Marcelo.Nahime@infobip.com  
+Bojana Mandić
+Bojana.Mandic1@infobip.com

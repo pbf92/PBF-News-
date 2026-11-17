@@ -1,0 +1,14 @@
+URL: https://80.lv/articles/hacker-behind-gta-6-leak-pleads-guilty-to-rockstar-games-breach
+TITLE: Hacker Behind GTA 6 Leak Pleads Guilty to Rockstar Games Breach
+OUTLET: 80 Level
+
+The Lapsus$ member, initially ruled unfit to stand trial, admitted to the hack that leaked early GTA 6 footage and source code.
+Rockstar
+A hacker behind the 2022 Rockstar Games breach, which led to the leak of unfinished GTA 6 footage and source code, has pleaded guilty to a series of offenses, according to a BBC report.
+Arion Kurtaj, a 21-year-old from Oxford, carried out the hack in 2022. He was initially ruled unfit to stand trial because of the severity of his autism and was sentenced to remain in a secure hospital. He was later assessed as fit to stand trial and moved to a regular prison in January. On Monday, he pleaded guilty at Woolwich Crown Court to the Rockstar Games hack and several other offenses, which he committed when he was 16 and 17 as a member of the Lapsus$ hacking gang.
+According to the Crown Prosecution Service (CPS), as reported by The Independent, Kurtaj's attack on Uber caused more than $2.8 million (£2.1 million) in damage, his Revolut breach exposed the details of thousands of customers, and his BT/EE intrusion led to a rise in unauthorized SIM swaps. Kurtaj will be sentenced on November 23 at Woolwich Crown Court.
+In 2022, Lapsus$ released a 3 GB folder of files and documents related to the development of Rockstar's upcoming Grand Theft Auto 6, revealing the title's work-in-progress gameplay, characters, setting, and more. The group was also responsible for attacking Microsoft, NVIDIA, Uber, and many other companies. After the GTA 6 leak, the group said it had more of Rockstar's confidential documents in its possession and tried to sell GTA 5 and 6's source code, Rockstar's employee details, invoices, and contracts, primarily to Rockstar itself. The studio acknowledged the leak and stated that the "work on the next Grand Theft Auto game will continue as planned". Kurtaj reportedly obtained the game files through a phishing email.
+The cyberattack on Rockstar was further investigated by the FBI, which identified two individuals – Kurtaj and an unnamed 17-year-old, described as significant figures within Lapsus$. Following that, Kurtaj was deemed unfit to stand trial.
+Recently, a GTA 6 leaker known as Cyberleek shared allegedly genuine footage from Rockstar's upcoming blockbuster and threatened to release an entire GTA 6 game build if its memecoin's market cap passes the $30 million mark.
+Subscribe to our Newsletter, join our 80 Level Talent platform, Discord, and follow us on Twitter, LinkedIn, Telegram, and Instagram, where we share breakdowns, the latest news, awesome artworks, and more.
+Are you a fan of what we do here at 80 Level? Then make sure to set us as a Preferred Source on Google to see more of our content in your feed.
