@@ -1,0 +1,19 @@
+URL: https://finance.yahoo.com/markets/stocks/articles/nasdaq-soars-last-week-without-130000922.html
+TITLE: Nasdaq Soars Last Week Without NVIDIA: ETFs in Focus
+OUTLET: Yahoo Finance
+
+Wall Street ended lower on Friday, Nov. 13, as continued weakness in NVIDIA NVDA weighed on technology stocks. However, all three major indexes managed to post solid weekly gains, marking their strongest performances since early August, as quoted on CNBC. The Nasdaq Composite soared 2.3% last week.
+Softer Wholesale Inflation Data Initially Lifts Sentiment
+Stocks initially moved higher after October's Producer Price Index (PPI) report showed wholesale prices rising 0.3% month over month, below economists' expectations of a 0.4% increase.
+However, the annual picture was less encouraging. Producer prices climbed 6.5% from a year earlier, marking their biggest annual increase since November 2022. This suggests that inflationary pressures remain persistent despite the softer monthly reading.
+NVIDIA Extends Losses Amid Leadership Uncertainty
+NVIDIA shares fell another 2% on Friday, extending the more than 4% decline recorded in the previous session. The stock has come under pressure following the departure of founder and CEO Jensen Huang amid a scandal.
+Investors are also concerned about the potential implications of the leadership change for NVIDIA's business relationships, including its financing arrangements, suppliers and customers.
+Investors Look Beyond AI Stocks
+Despite the recent weakness, some market strategists believe much of the negative news may already be reflected in NVIDIA's share price. However, volatility could persist as investors assess the company's leadership transition.
+Investors are also likely to continue rotating into areas of the market beyond artificial intelligence (AI). Concerns about AI-related capital expenditure returns and the possibility of tighter regulations following a Democratic sweep in the U.S. midterm elections are adding to the headwinds facing AI stocks.
+Nasdaq Appears Steady Despite Big Tests This Week
+Anthropic, the maker of the popular Claude chatbot, is targeting a valuation of roughly $1.33 trillion or more, with its shares expected to begin trading on Thursday, per Wall Street Journal.
+The IPO has drawn about six times the orders for the shares available, potentially making it the largest initial public offering (IPO) ever, per Bloomberg News, as quoted on Reuters.
+NVIDIA will take the center stage once again this week as it is about to release third quarter earnings. The company is scheduled to report results on Nov. 17, 2026, after the market closes.
+Investors should note that the tech-heavy Nasdaq is diversified across several Big Tech companies and hyperscalers. Roundhill Investments CEO Dave Mazza said that "[hyperscalers] may continue to benefit from the [NVDA issue] because they have the compute available. It's going to be more valuable if the demand is there," as mentioned on CNBC.

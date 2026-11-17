@@ -1,0 +1,15 @@
+URL: https://www.androidauthority.com/google-gemini-tasks-update-3736266/
+TITLE: Gemini can now handle task requests for free, including calls to businesses on your behalf
+OUTLET: Android Authority
+
+Gemini can now handle task requests for free, including calls to businesses on your behalf
+Nov 17, 2026 — 4:02 PM ET
+- Google expands Tasks to call businesses on a user’s behalf, schedule appointments, and make purchases.
+- Users can also text and email tasks to Gemini outside the app.
+- Tasks is now free in six countries.
+Google is turning Tasks in Gemini from a feature that was only for paid subscribers into something that’s free, while also expanding Tasks to let Gemini act as a more independent assistant.
+Gemini Tasks started life as Gemini Spark back in May and got a name change just last month. With this update today, it can call businesses on a user’s behalf, schedule appointments, and make purchases. It can also do these things outside of the app, with the ability for people to email or text Gemini.
+In a blog post, Google Labs Vice President Josh Woodward gave examples of some of the ways that he’s used Tasks himself. Woodward said that when his minivan’s check engine light came on, he tasked it with scheduling a service appointment, which it did by calling two nearby dealerships and finding an appointment time that matched up with his availability on Google Calendar. Woodward said he also used Tasks to analyze what had caused an unusually high electric bill and to purchase a USB-C charger for the best price.
+Woodward said there are guardrails for Gemini acting maybe a little too independently when it comes to purchasing and handling sensitive information. Users can set a budget, and Gemini requires human approval before giving out payment or private account info. Receipts and tracking information will be viewable in Google Wallet. Credit card points and protections are still in place when Gemini is used for transactions.
+There is one potential hiccup Tasks could face when interacting with businesses. On the call with the car dealerships, Woodward said Gemini disclosed that it was AI and that business can opt out of such interactions. That’s something they’re increasingly doing, with Amazon blocking Meta’s Muse from shopping on its site, as reported by GeekWire, and United Airlines announcing a policy to restrict AI agents from accessing its platform.
+Tasks is now free for everyone in the US, Japan, Korea, Canada, Australia, and India. To have Gemini handle tasks for you, open the app, on the home screen toggle from Chat to Tasks, and then prompt Gemini with what tasks you need done. You can also give Gemini tasks by emailing it at gemini.google.com or texting it. To set up texting, open the Gemini app, go to Settings > Channels > Text with Gemini > Set up and then verify your phone number.

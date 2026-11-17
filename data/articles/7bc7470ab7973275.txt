@@ -1,0 +1,17 @@
+URL: https://www.latimes.com/business/story/2026-11-17/amazon-google-will-own-more-than-quarter-of-anthropic-after-its-ipo
+TITLE: Amazon and Google will own more than a quarter of Anthropic after its IPO
+OUTLET: Los Angeles Times
+
+Amazon and Google will own more than a quarter of Anthropic after its IPO
+(Bloomberg) -- Two of Anthropic PBC’s biggest customers will have more than 28% of its stock in aggregate after it goes public, adding to the close links between the companies powering the artificial intelligence boom.
+Amazon.com Inc. and Alphabet Inc.’s Google are set to own nearly 15% and 14% of Anthropic’s outstanding capital stock respectively following the IPO and private placement, according to a filing Tuesday with the US Securities and Exchange Commission.
+Google’s stake includes the 135.1 million non-voting shares it agreed to buy for about $10 billion as part of the roughly $26 billion private placement being arranged concurrently with the IPO, according to the filing.
+Anthropic and its co-founders are seeking to raise as much as $64.4 billion in the IPO. Together with the private placement, it would be the biggest-ever first-time share sale, surpassing SpaceX’s $75 billion base deal in June.
+The disclosure shows the tight relationships between the companies. Anthropic says in its filing that Amazon, Google and Microsoft Corp. “simultaneously serve as our investors, customers, distribution partners, and competitors.”
+Amazon, Google and Microsoft customers can buy access to Anthropic’s Claude AI models through their existing cloud accounts. The cloud providers bill the customer, keep a fee and pass the rest to Anthropic. That business accounted for approximately 44% of the AI startup’s revenue in the first nine months of 2026, the filing shows.
+Anthropic’s IPO has drawn orders for close to seven times the shares available, Bloomberg News reported Sunday. Bankers have told prospective investors that existing backers will be prioritized by the company, and some would-be buyers will receive smaller allocations than they expect, people familiar with the matter have said.
+Google will have 1.79 billion shares or 32% of the Claude chatbot maker’s non-voting stock after the IPO, the filing shows.
+Amazon will have 1.92 billion non-voting Anthropic shares, or 34% of the Class N stock, according to the filing. The e-commerce company would have 24% of Anthropic’s total outstanding shares if it waived its ownership cap and converted all of its outstanding notes. The agreement states that Amazon will only exercise convertible notes if doing so doesn’t raise its overall stake above 12%, the filing shows. Amazon has agreed not to waive the cap.
+The IPO is set to price on Wednesday, Nov. 18 and trade the following day, according to terms of the deal reviewed by Bloomberg.
+Goldman Sachs Group Inc. and Morgan Stanley are leading Anthropic’s IPO, with participation from 20 other banks, the filing shows. The stock is expected to trade on the Nasdaq Global Select Market under the symbol ANT.
+Morris writes for Bloomberg.

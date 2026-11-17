@@ -1,0 +1,36 @@
+URL: https://www.euronews.com/2026/11/16/five-things-you-need-to-know-before-anthropic-goes-public
+TITLE: Five things you need to know ahead of Anthropic's IPO
+OUTLET: Euronews.com
+
+The maker of Claude wants investors to value it at more than $1 trillion (€909 billion), despite paper losses in the tens of billions and a set-up that leaves shareholders with little say.
+Anthropic is expected to set the final price of its shares on Wednesday 18 November and begin trading on the Nasdaq exchange in New York, United States, the following day under the symbol ANT.
+The company has proposed a price of $70 to $78 (€64 to €71) a share, which would value it at about $1.2 trillion (€1.1trn) in the middle of that range. The listing will be the biggest test yet of whether investors believe artificial intelligence can make money over the long term.
+Not everyone is convinced. At a briefing organised by the Interfaith Center on Corporate Responsibility, SOC Investment Group and Americans for Financial Reform Education Fund, governance and legal experts warned of “red flags” in the company’s filings.
+“Anthropic is rushing toward an IPO without answering fundamental questions about its readiness to operate as a publicly traded company,” said New York City’s chief financial and accountability officer Mark Levine. He said the company had yet to show how it was tackling what it has itself called potential “catastrophic or existential risks to humanity” from AI.
+Here are five things you need to know ahead of the launch.
+1. The split with OpenAI
+Anthropic was founded in early 2021 by a group of researchers who walked out of OpenAI, the maker of ChatGPT, where they had made their names working on AI safety.
+Dario Amodei joined OpenAI in 2016, when it was still a nonprofit. He led its safety team and its research into “scaling laws”, the pattern by which AI models become more capable as they are trained on more data. His younger sister, Daniela Amodei, joined in 2018 and rose to vice president of safety and policy.
+The siblings and several colleagues left in December 2020 after disagreeing with OpenAI’s leadership over how AI should be built. They set up Anthropic about four weeks later. The two companies, both based in San Francisco, have been bitter rivals ever since.
+2. It has been backed by Big Tech
+Anthropic’s filing shows Amazon and Google’s parent company Alphabet among its largest backers. Microsoft, Nvidia and Founders Fund, the investment firm started by Peter Thiel, have also invested. In May, Anthropic raised $65 billion (€59 billion) from investors who valued it at $965 billion (€877 billion). It was the first time a funding round had valued it above OpenAI.
+Dario Amodei’s thinking was shaped by two overlapping movements. One is rationalism, associated with AI writer Eliezer Yudkowsky, who has long warned that advanced AI could pose a catastrophic risk to humanity. The other is effective altruism, which uses evidence to work out how money and time can do the most good.
+Donors linked to effective altruism supplied much of Anthropic’s early funding. Facebook cofounder Dustin Moskovitz and Skype cofounder Jaan Tallinn backed its first round, alongside former Google chief executive Eric Schmidt.
+3. Shareholders get a stake in the profits, not control
+Anthropic is offering 825 million shares to the public at $70 to $78 (€64 to €71) each. Of those, about 801 million are new shares sold by the company and about 24 million are sold by existing shareholders. At the middle of the price range, that would raise roughly $61 billion (€55 billion), making it one of the largest stock market listings ever.
+Separately, seven companies including Nvidia, Google and Microsoft have agreed to buy $26 billion (€24 billion) of shares without voting rights in a private deal alongside the listing.
+What public buyers will not get is much influence. Anthropic is a public benefit corporation, a type of US company legally required to pursue a stated purpose as well as profit. Its purpose is to “responsibly develop and maintain advanced AI for the long-term benefit of humanity”.
+The founders hold 50.1% of shareholder votes, while an independent body, the Long-Term Benefit Trust, chooses four of the seven members of the company’s board.
+The trust has five trustees, including former US Federal Reserve chair Ben Bernanke. None of them has a financial stake in the company.
+Critics say the result leaves outside investors powerless. “Anthropic has built a governance structure that would leave shareholders with almost no voice,” said Josh Zinner, chief executive of the Interfaith Center on Corporate Responsibility. “Anthropic is shielding itself against outside accountability, while the decisions made inside the company will affect every person on earth.”
+4. It is anchored to a vast infrastructure gamble
+Anthropic has committed to spend at least $518 billion (€471 billion) with six suppliers over roughly a decade, to secure the chips, data centres and electricity its AI needs. About 80% of that cannot be cancelled and must be paid whether or not the capacity is used.
+These commitments are not formally debt, but they work like it. Many of Anthropic’s biggest customers, by contrast, can cut or stop their spending at any time. The company is betting that demand for AI will keep outstripping the computing power available to run it.
+Anthropic also depends heavily on a few partners. Nearly half its 2025 revenue came through Amazon and Google, which sell access to its AI through their cloud services. The same companies supply much of its computing power, and the filing says they would not provide all the capacity Anthropic asked for. It also warns that a catastrophic AI incident could cause damages too large to insure.
+5. It faces rivals in Washington, San Francisco and China
+In January, the US Department of Defense, under President Donald Trump, asked for unrestricted use of Claude. Anthropic refused to allow two uses: mass surveillance of Americans and fully autonomous lethal weapons.
+In February, Trump ordered federal agencies to stop using Anthropic’s technology. Defence Secretary Pete Hegseth then had the company labelled a supply-chain risk, a designation usually reserved for foreign adversaries.
+Direct competitor OpenAI has pushed its own listing back to 2027 at the earliest and was recently valued at about $1.25 trillion (€1.14 trillion) in a private round, according to reports. That is close to Anthropic’s price tag.
+OpenAI is private, so its figures have not been checked by independent auditors, and the two companies count sales made through cloud partners differently. The gap may therefore be smaller than it looks.
+A price war could come from Chinese AI models such as DeepSeek, Alibaba’s Qwen, Moonshot’s Kimi and Z.ai’s GLM. Anyone can download them for free and they are much cheaper to run, and some US start-ups have moved routine work to them. Chinese open models accounted for about 30% of usage on the AI marketplace OpenRouter by early 2026.
+Anthropic has accused several Chinese labs of using tens of thousands of fake accounts to copy Claude’s answers to train their own models. Analysts see the main danger as cheaper rivals forcing Anthropic to cut its prices and accept thinner profits, rather than overtaking it at the top end.

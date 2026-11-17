@@ -1,0 +1,20 @@
+URL: https://katu.com/news/local/oregon-attorney-general-dan-rayfield-sues-openai-for-2-billion-over-child-teens-safety-on-chatgpt-lawsuit-generative-artificial-intelligence-keeping-kids-safe-initiative-internet-crimes-children
+TITLE: Oregon AG Rayfield sues OpenAI for $2 billion over kids' safety on ChatGPT
+OUTLET: KATU
+
+Oregon AG Rayfield sues OpenAI for $2 billion over kids' safety on ChatGPT
+PORTLAND, Ore. (KATU) — Oregon’s attorney general is taking aim at some of the biggest companies in tech, launching a new campaign to protect kids and holding OpenAI responsible in court with a $2 billion lawsuit.
+Attorney General Dan Rayfield announced the “Keeping Kids Safe” initiative at a press conference Tuesday alongside Multnomah County District Attorney Nathan Vasquez, Representative April Dobson, and representatives from the state education system.
+The attorney general’s office filed a $2.035 billion lawsuit against OpenAI in Multnomah County Circuit Court, accusing the company of putting children at risk and making false claims about the safety of its ChatGPT chatbot.
+“OpenAI knows that ChatGPT is harming children, and has failed to meaningfully fix their dangerous platform,” said Rayfield. He added, “On top of that, they’ve misled the public about the safety of their products, putting profits ahead of children’s safety. Their platform is encouraging kids to commit suicide—we cannot let this be an acceptable business model.”
+Rayfield’s office points to studies showing ChatGPT exposes children to dangerous messages, including information about self-harm, eating disorders and suicide. The state says there have been cases in recent years in which ChatGPT conversations contributed to youth suicides.
+Officials also point out the platform’s “human-like experience” can cause kids to become emotionally dependent, and that there have been instances where it was linked to violence committed by young users.
+The lawsuit says OpenAI not only misrepresented how safe its product is, but also failed to disclose serious safety problems and used unfair marketing tactics directed toward children and teenagers.
+“I'd like to believe that there's power in parents and across this country, if all of us as parents stood up and said, ‘absolutely not’ that would change the behavior of some of these organizations. But sometimes it isn't enough,” Rayfield said. “Sometimes it’s with the legal tools that we have in partnership with parents to get the change.”
+Rayfield’s office also accused OpenAI of violating Oregon's Unlawful Trade Practices Act, acting negligently and profiting while endangering children. The attorney general wants the court to order OpenAI to tell the truth about its products and put working protections in place for minors.
+He said their office arrived at the more than $2 billion number based on the number of kids in Oregon who are using or have access to the ChatGPT tools.
+Rayfield highlighted several other steps included in the Keeping Kids Safe Initiative. The state recently secured a $125 million settlement with Meta, the parent company of Instagram and Facebook. The settlement limits how long kids can use those platforms each day, blocks access at night and stops push notifications during school hours.
+Authorities are now working to hold other social media companies to that standard.
+The attorney general is also investigating Discord. Rayfield’s office says Discord is a platform used by violent extremists to manipulate and threaten kids into committing acts of violence.
+Local and federal partners have expanded the Internet Crimes Against Children Task Force, which now has 20 full-time staff members, resulting in a 400 percent increase in search warrants, arrests and convictions. That work led to a 27-year prison sentence for a North Bend child exploitation case.
+Rayfield announced more actions will follow in coming weeks and months targeting companies accused of harming kids and misleading the public.
