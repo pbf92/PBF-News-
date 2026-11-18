@@ -1,0 +1,13 @@
+URL: https://insider-gaming.com/ps5-pros-cpu-upgrade-is-not-enough-for-gta-6-at-60-fps/
+TITLE: PS5 Pro’s CPU Upgrade Is Not Enough for GTA 6 at 60 FPS
+OUTLET: Insider Gaming
+
+GTA 6 on PS5 Pro adds ray-traced shadows and PSSR improvements, but Rockstar says CPU limits prevent the game from reaching higher FPS.
+After more than a decade of waiting, Grand Theft Auto 6 is finally available, and its global rollout is continuing. There’s no doubt GTA looks graphically impressive, but some were disappointed that the game’s frame rate is locked at 30 FPS, even on a Sony PlayStation 5 Pro. In a new interview, Rockstar Games explains why even the PS5 Pro couldn’t deliver 60 frames per second.
+GTA 6 Simulation Too Demanding for PS5 Pro at Higher FPS
+In an interview with Kotaku, Rockstar Games’ Technology Production Director Marc Chambers explained why, even though the PS5 Pro enhances the game’s graphics, it wasn’t powerful enough to increase the frame rate.
+On the PS5 Pro, this is enhanced with the addition of ray-traced shadows, as well as overall added clarity through the use of PlayStation Spectral Super Resolution (PSSR). The PS5 Pro features an upgraded graphics processor and upscaling technology that we leverage to increase the game’s visual fidelity. While the PS5 Pro’s central processor is slightly better than the PS5 base console, it is not powerful enough to run the game’s complex simulation at higher frame rates.
+There you have it. Rockstar played it safe, and early review scores suggest it hasn’t hurt GTA 6 at all.
+Grand Theft Auto 6 is also breaking streaming records. The title shattered all launch streaming records before it was even available worldwide. Learn more about that at this link.
+What are your thoughts on GTA 6 being locked at 30 FPS? Share your thoughts on this story and others like it in our official Discord server.
+For more Insider Gaming coverage, learn about everything you need to do to 100% Grand Theft Auto 6 and earn the “A Long Road” trophy.  Don’t forget to sign up for our weekly newsletter, too.

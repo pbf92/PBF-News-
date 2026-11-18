@@ -1,0 +1,28 @@
+URL: https://cryptobriefing.com/gemini-4-neon-google-ai-studio/
+TITLE: Gemini 4 Neon reportedly goes live in Google AI Studio after days of leaks
+OUTLET: Crypto Briefing
+
+A post on X says the newest Gemini 4 model is available in Studio, following code references, cloud billing listings and published pricing
+A post on X says Gemini 4 Neon is now available in Google’s AI Studio. If that holds, Google has added a fourth model to its Gemini 4 lineup in roughly one season.
+Google itself had not made an official announcement or confirmed API availability as of the latest reports on the model.
+The breadcrumb trail
+The name Gemini 4 Neon first appeared on November 16, 2026, inside code for the Gemini web app. It sat next to Argon and Carbon, two Gemini 4 models that had already shipped.
+Two days later, on November 18, 2026, the model showed up in Google Cloud SKU listings. A SKU is a billing line item, the entry a cloud provider uses to charge customers for a specific product.
+The same day, Logan Kilpatrick of Google posted a single word on X: “Gemini.” The timing lined up with the SKU disclosures.
+What Neon costs
+The listed pricing puts Gemini 4 Neon at $3 per million input tokens and $15 per million output tokens. The listing also showed lower rates for certain tiers.
+Tokens are the small chunks of text an AI model reads and writes. Input tokens cover what you send the model. Output tokens cover what it sends back.
+AI, tech, and the markets they move—in one daily briefing.
+Daily. Free. Join 34,000+ readers across crypto, finance, and policy.
+Under these rates, generating text costs five times as much as feeding text in.
+A periodic table of models
+Neon is not arriving alone. Google released three other Gemini 4 models, Argon, Carbon and Hydrogen, between September and mid-November 2026.
+That is three launches in roughly two and a half months. Neon would make four.
+The naming scheme borrows from chemistry. Hydrogen, Carbon, Argon and Neon are all elements, and Neon joins Argon in the noble gas family.
+Neon has followed that pattern closely. Code reference first, then billing, then pricing, then a cryptic post, and now a claim of availability in Studio.
+What this means for developers
+For developers, AI Studio access is the practical milestone. It is where they can try a model, run test prompts and judge whether it is worth wiring into a product before committing real budget.
+Until Google publishes official documentation, developers are working without a full spec sheet. Features, limits and even final pricing could shift between a quiet rollout and a formal launch.
+There are a few things worth watching closely. First, whether Neon reaches the Gemini API, not just Studio. Second, whether the live pricing matches the $3 and $15 figures from the SKU listings. Third, which customers qualify for the lower tier rates, since that will shape real-world costs more than the headline numbers.
+For now, the evidence points in one direction. The code mentioned it, the billing system listed it, the pricing was published, and a post on X says it is live in Studio. The only thing missing is Google saying so in an official announcement.
+Disclosure: This article was edited by Diego Almada Lopez. For more information on how we create and review content, see our Editorial Policy.

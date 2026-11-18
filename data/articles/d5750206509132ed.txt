@@ -1,0 +1,13 @@
+URL: https://www.exchangewire.com/blog/2026/11/18/digest-italy-fines-meta-e805m-over-facebook-photo-access-walmart-closes-in-on-amazon-as-ad-business-accelerates/
+TITLE: Digest: Italy Fines Meta €805m Over Facebook Photo Access; Walmart Closes in on Amazon as Ad Business Accelerates
+OUTLET: ExchangeWire
+
+In today’s Digest, we discuss Italy fining Meta €805m over Facebook’s access to Android users’ photos, WARC finding Walmart’s advertising business surging behind Amazon, and Bolt’s Malaysia rides increasing by 250% in its second year as it adds business and family features.
+Italy fines Meta €805m
+Italy’s data protection authority has fined Meta €805m (£703m) for accessing users’ photos, videos and related metadata through the Facebook app for Android without specific consent and without properly informing them. The case centres on a gallery suggestions feature, available since 2023, that offers photos and videos from a user’s phone as post ideas. The regulator said Facebook sought access through a single app-wide permission, preceded by a generic notice about enabling other features, so users could not tell they were also approving gallery suggestions.
+Meta must now request consent separately for the feature, say clearly what it does and explain how to turn it off. The authority weighed the roughly 20 million Android users affected in Italy, the duration of the infringement and what it called Meta’s lack of cooperation in the investigation. Meta said it strongly disagrees with the finding and the fine, and will appeal.
+Walmart closes in on Amazon as ad business accelerates
+WARC’s latest Platform Insights report puts Walmart’s global advertising revenue at $6.4bn (£4.9bn) in fiscal 2026, up 46% year on year. In the US, spend rose 24.8% to $6.0bn (£4.6bn), which WARC says cements Walmart Connect as the second-largest retail media network. It still trails Amazon, whose annual ad revenue is $68bn (£51.7bn), but sits well ahead of other US rivals such as Target’s Roundel and a combined Instacart and DoorDash, which together come to about $3.7bn (£2.8bn).
+According to platform benchmarks cited in the report, the average cost per click on Walmart is 55% lower than on Amazon, click-through rates are roughly three times higher, and average return on ad spend is 25% higher.
+Bolt’s Malaysia rides surge 250% in second year
+Bolt says rides in Malaysia grew 250% in its second year in the market. Having entered through the Klang Valley, it competes with Grab. Over the period, it broadened its offering beyond standard rides, launching Bolt Business in August 2025 to help companies manage employee travel and transport spending and adding upfront toll pricing, flight tracking for airport trips, and family accounts.

@@ -1,0 +1,11 @@
+URL: https://the-decoder.com/google-ships-gemini-4-neon-its-fourth-new-gemini-model-in-a-month/
+TITLE: Google ships Gemini 4 Neon, its fourth new Gemini model in a month
+OUTLET: The Decoder
+
+Google ships Gemini 4 Neon, its fourth new Gemini model in a month
+Google released Gemini 4 Neon, promising "frontier-level intelligence with fast end-to-end task completion across complex software engineering, knowledge work, and science workflows." The model is live today through the API at $3 per million input tokens and $15 per million output tokens, above Carbon and Argon's introductory rate of $2/$10 (doubling to $4/$20 on December 1) and twice the price of Hydrogen at $1.50/$7.50.
+Neon offers a context window of about one million tokens and can produce up to one million output tokens. It handles text, images, video, audio, and PDFs, with support for Computer Use, code execution, file search, and grounding via Google Search and Maps. Image and audio generation aren't supported.
+Full specs are in the documentation. Benchmarks should follow in the next few hours. If Carbon and Argon are Google's counterparts to OpenAI's Astra or Anthropic's Fable, Neon is likely its Claude Opus or Sol equivalent. It's also Google's fourth new Gemini 4 model in four weeks.
+AI News Without the Hype – Curated by Humans
+Subscribe to THE DECODER for ad-free reading, a weekly AI newsletter, our exclusive "AI Radar" frontier report six times a year, full archive access, and access to our comment section.
+Subscribe now

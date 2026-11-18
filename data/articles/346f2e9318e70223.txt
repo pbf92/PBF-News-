@@ -1,0 +1,41 @@
+URL: https://www.mediapost.com/publications/article/419522/microsoft-unveils-biggest-bidding-upgrade-in-a-dec.html
+TITLE: Microsoft Unveils Biggest Bidding Upgrade In A Decade 11/18/2026
+OUTLET: MediaPost
+
+Microsoft Advertising on Wednesday began rolling out what the company calls its biggest upgrade to automated bidding models in a decade -- promising faster optimization, more consistent performance
+and better budget pacing.
+The company outlined the rollout in a blog post on Wednesday, adding that internal global data tracked the redesign as powering 10% more conversion value per click
+for advertisers globally using value-based bidding strategies. The measurement for the bidding models took place in August 2026.
+This is the first phase of the upgrade, and more advertisers
+will see the technology over time. Additional bidding improvements are planned for 2027.
+These upgraded bidding models aim to deliver three major improvements such as consistent performance in
+campaigns that meet cost per acquisition (CPA) and return on ad spend (ROAS) targets more consistently without sacrificing conversion volume or value.
+Because of the way Microsoft engineers
+designed the changes, bidding systems should respond nearly twice as quickly when advertisers change their CPA or ROAS targets, providing rapid optimization.
+advertisement
+advertisement
+Budgets are intended to pace more
+evenly throughout the day, so campaigns can reach full budget use more rapidly to gain more predictable delivery of campaigns.
+Microsoft also shared data around how the upgraded bidding models
+impacted campaigns. The company said that when advertisers use "Maximize Conversion Value" or "Target ROAS," these improvements have delivered on average 10% more conversion value per click at a
+similar ROAS. 
+Each bid depends on a prediction of the likelihood that a click will convert into a sale, and the projected value of that purchase.
+To sharpen those estimates, the
+company has overhauled its core prediction model, integrating new user signals alongside a new method for valuing each conversion.
+The prediction model was rebuilt with new user signals and
+what Microsoft called "a better way of valuing each conversion." Following the change, Microsoft said, advertisers have been experiencing stronger results.
+Internal data suggests that
+advertisers that switched their Search campaigns from Target CPA to Target ROAS saw 8% greater conversion value on average, while maintaining a similar return on ad spend following the
+switch. The strongest improvements came when advertisers optimized using actual transaction values like purchase revenue. This test was run globally between August and
+September in 2026.
+Microsoft also reported an additional improvement, with 18% more conversions. Advertisers that are switching from "Enhanced CPC" (eCPC) to Maximize
+Conversions with a CPA target saw an average 18% increase in conversions.
+Microsoft did not include information in the post on the number of advertisers or campaigns included in the
+analysis, sample sizes used to calculate the averages, specific industries or advertiser categories that benefited most, distribution of results across individual campaigns. and
+if smaller advertisers experienced similar improvements to larger accounts
+Microsoft's latest automated bidding upgrade signals a continued push toward autonomous-driven campaign
+management, with a greater emphasis on conversion value, faster optimization and more predictable budget delivery.
+While the reported performance gains are based on Microsoft's internal data
+and may vary across advertisers, the changes highlight the growing importance of accurate conversion tracking and value-based bidding.
+For advertisers, the biggest opportunity may be in moving
+beyond simply generating conversions and focusing on actual revenue, bidding improvements and the business value that those conversions deliver.

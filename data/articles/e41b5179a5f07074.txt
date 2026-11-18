@@ -1,0 +1,32 @@
+URL: https://defirate.com/news/novig-sues-ohio-arguing-new-cftc-rules-change-sports/
+TITLE: Novig Sues Ohio Over Sports Event Contract Restrictions
+OUTLET: DeFi Rate
+
+Novig has sued Ohio’s attorney general and gambling regulators to block enforcement against its sports event contracts, arguing that federal commodities law overrides state restrictions and that Ohio’s licensing framework discriminates against interstate commerce.
+Ludlow Exchange LLC, the federally registered exchange doing business as Novig, filed the lawsuit Monday in the Northern District of Ohio. It seeks declaratory and injunctive relief against Attorney General Andy Wilson and Ohio Casino Control Commission officials. No injunction or change to customer access has been verified.
+The case follows an Oct. 2 cease-and-desist notice accusing Novig of offering unlicensed sports gambling. But it also faces a tougher obstacle: the Sixth Circuit Court of Appeals, whose decisions bind federal district courts in Ohio, has already ruled against Kalshi’s request for preliminary protection from enforcement in Ohio and Tennessee. Novig argues that subsequent Commodity Futures Trading Commission (CFTC) rulemaking changes the legal analysis.
+Novig argues that subsequent Commodity Futures Trading Commission (CFTC) rulemaking changes the legal analysis.
+Ohio’s crackdown brings another exchange to court
+Ohio’s October enforcement campaign targeted 10 prediction markets operators, including Novig. The state maintains that sports event contracts constitute sports gambling and require state authorization. Its notices warned of potential illegal gambling and bookmaking charges, along with financial penalties.
+By early November, five targeted platforms had stopped offering sports event contracts in Ohio or agreed to do so. Novig remained among the operators discussing the matter with the commission before filing its lawsuit.
+Novig’s position is that its federal exchange status places the transactions under the CFTC’s jurisdiction, not Ohio’s sports betting licensing regime. The company received its designated contract market status in June and launched its near-nationwide prediction-market platform in August.
+Novig says the CFTC changed the legal landscape
+The most immediate challenge is the Sixth Circuit’s decision in Schuler, the litigation involving Kalshi’s efforts to block enforcement in Ohio and Tennessee.
+Novig acknowledges that unfavorable decision but argues it does not settle the new case. Its complaint points to the CFTC’s Oct. 9 interim final rule and accompanying proposed rulemaking, which the company says support treating sports event contracts as swaps within the agency’s exclusive jurisdiction.
+According to the complaint, those developments “undermine the premise on which Schuler rested,” and the earlier case “was decided against a different legal landscape.”
+Novig also points to pending requests for further review.
+“But Schuler is not final: a petition for rehearing en banc is pending before the Sixth Circuit, and three petitions for certiorari presenting the same preemption question are pending before the Supreme Court,” its attorneys wrote.
+A separate claim targets Ohio’s in-state requirements
+Novig is also challenging Ohio’s framework under the dormant Commerce Clause, the constitutional doctrine limiting state discrimination against interstate commerce.
+The complaint alleges that Ohio’s in-state business, server-location and customer-location requirements discriminate against interstate trading. That theory challenges the structure of the state’s regime, rather than relying solely on the argument that federal commodities law preempts it.
+Novig is not simply asking the judge to classify its contracts as federally regulated swaps. It is also arguing that Ohio places unconstitutional geographic barriers around the business.
+A New York setback complicates the rulemaking argument
+The Ohio complaint comes less than a week after Novig lost a request for preliminary protection in New York.
+On Nov. 10, U.S. District Judge Colleen McMahon denied Novig’s motion to block New York gambling law enforcement. At that preliminary stage, she concluded that the sports event contracts at issue were not swaps under the Commodity Exchange Act and rejected the company’s express, field and conflict preemption arguments. She also explained why the challenged state laws would not be displaced even if the contracts qualified as swaps.
+McMahon was sharply critical of the CFTC’s October rulemaking, describing it as “inherently contradictory” and “calculated to influence the outcome” of pending litigation.
+That creates a direct tension with Novig’s Ohio strategy. The company is relying on the agency’s recent actions to distinguish an adverse appellate decision, while another federal judge has already questioned those actions in litigation involving Novig itself.
+The case lands amid federal lawsuits and Senate scrutiny
+Novig’s filing adds another company-led challenge as the CFTC brings its own cases against states.
+As DeFi Rate reported on the federal government’s Arkansas lawsuit, the United States and CFTC are seeking to stop that state’s case against Kalshi and prevent similar enforcement against other federally regulated market participants.
+The agency then sued Louisiana after its prediction-market restraining order. Novig is among the businesses named in Louisiana’s action, which reaches specified sports, election and awards contracts and requires geofencing.
+At the same time, nine Democratic senators are challenging the CFTC’s push for nationwide access. As DeFi Rate reported in its Monday letter, they want the agency to withdraw or suspend its geographic access interpretation and preserve records relevant to the policy.

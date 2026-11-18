@@ -1,0 +1,10 @@
+URL: https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/privaterentpricemedianandquartilesenglandandwales
+TITLE: Private rent price median and quartiles, England and Wales
+OUTLET: Office for National Statistics
+
+Dataset Private rent price median and quartiles, England and Wales
+About this Dataset
+The quartile and median rent prices in this dataset have been derived from the PIPR-model predicted prices in PIPR's monthly dataset, which approximates the private rental stock at a given point in time.
+Edition in this dataset
+Important notes and usage information
+These monthly rent price estimates apply to a given monthly time period and are not directly comparable with estimates for other time periods because no adjustment has been made to account for changes in the rental sector or collected rents over time.
