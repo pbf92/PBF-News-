@@ -37,11 +37,11 @@
    "name": "Fed December decision",
    "desk": "world",
    "started": "2026-11-05",
-   "last_changed": "2026-11-17",
+   "last_changed": "2026-11-18",
    "status": "active",
-   "last_line": "With a hike priced, the minutes' count of October hike supporters is the main Fed read for rate-sensitive Nasdaq futures this week.",
+   "last_line": "The minutes confirm the Fed leans towards further tightening, and the hike-supporter count was the main Fed read for rate-sensitive Nasdaq futures this week. Almost all participants saw further hikes ",
    "day": 14,
-   "last_seen": "2026-11-17"
+   "last_seen": "2026-11-18"
   },
   {
    "id": "uk-economy",
@@ -333,9 +333,9 @@
    "desk": "world",
    "started": "2026-11-17",
    "status": "active",
-   "last_changed": "2026-11-17",
-   "last_line": "A real escalation on this morning's Gulf thread: AP describes it as the end of a two-month lull, and the US has now hit Iranian territory. It feeds oil, shipping and risk sentiment into tomorrow's ses",
-   "last_seen": "2026-11-17",
+   "last_changed": "2026-11-18",
+   "last_line": "This takes the Gulf escalation on this morning's watch list beyond Bahrain to a US base in Kuwait, a live input for oil, shipping and risk sentiment. Detail is thin: the AP article could not be opened",
+   "last_seen": "2026-11-18",
    "day": 2
   },
   {

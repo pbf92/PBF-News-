@@ -888,7 +888,76 @@
   "desk": "expand"
  },
  "generated_at": "2026-11-18T13:33:55Z",
- "updates": [],
+ "updates": [
+  {
+   "desk": "world",
+   "headline": "FOMC minutes: some wanted an October hike; a couple float more than 25bp in December",
+   "why": "The minutes confirm the Fed leans towards further tightening, and the hike-supporter count was the main Fed read for rate-sensitive Nasdaq futures this week. Almost all participants saw further hikes as likely appropriate, so December is live.",
+   "points": [
+    "October 27-28 meeting ended 10-2 to hold (Cook and Hammack dissenting); some participants favoured a 25bp hike and a few holders called it a close call",
+    "A couple of participants said a rise of more than 25bp could warrant consideration in December if inflation data came in unfavourable",
+    "Almost all participants judged further hikes likely appropriate; the vast majority saw upside inflation risks and many called the AI buildout a 'material source of inflation risk'",
+    "Per Investing.com's account, markets price about 27bp of hikes for December and about 62bp over the next three meetings"
+   ],
+   "next": "December FOMC decision; next inflation data prints before it (date not confirmed in sources seen)",
+   "confidence": "official data",
+   "region": "US",
+   "impact": "high",
+   "thread": {
+    "id": "fed-december",
+    "name": "Fed December decision",
+    "status": "changed",
+    "day": 14
+   },
+   "sources": [
+    {
+     "name": "Federal Reserve (minutes release)",
+     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm"
+    },
+    {
+     "name": "Investing.com / investingLive",
+     "url": "https://investinglive.com/central-banks/fomc-minutes-a-couple-of-participants-noted-a-hike-of-more-than-25-bps-could-warrant-consideration-in-december/"
+    }
+   ],
+   "time": "12:17 PM"
+  },
+  {
+   "desk": "world",
+   "headline": "Iran widens Gulf attacks to a US air base in Kuwait and sites in Bahrain",
+   "why": "This takes the Gulf escalation on this morning's watch list beyond Bahrain to a US base in Kuwait, a live input for oil, shipping and risk sentiment. Detail is thin: the AP article could not be opened, so casualties and damage are unverified.",
+   "points": [
+    "AP reports Iran fired on a US air base in Kuwait and at targets in Bahrain on 18 Nov",
+    "Separately, Reuters reports the US intelligence director saying threats from Iran have increased substantially",
+    "Reuters also reports (citing sources) an Israeli spy chief lobbied for joint Iran strikes on a US visit; unconfirmed beyond that headline",
+    "Casualties, damage and US response not confirmed in sources read"
+   ],
+   "next": "US response and any oil or futures reaction at tonight's open; no scheduled date found",
+   "confidence": "reported",
+   "region": "Global",
+   "impact": "high",
+   "thread": {
+    "id": "gulf-tension",
+    "name": "Gulf tension: Iran, Bahrain, US",
+    "status": "changed",
+    "day": 2
+   },
+   "sources": [
+    {
+     "name": "AP News",
+     "url": "https://apnews.com/article/iran-us-kuwait-gulf-attacks-bahrain-b1f0b530cffe951e6fcc1e27b2e1af94"
+    },
+    {
+     "name": "US News (AP)",
+     "url": "https://www.usnews.com/news/world/articles/2026-11-18/iran-widens-gulf-attacks-firing-on-a-us-air-base-in-kuwait-and-at-targets-in-bahrain"
+    },
+    {
+     "name": "The Hill",
+     "url": "https://thehill.com/policy/defense/6227812-iran-attacks-us-air-base-kuwait/"
+    }
+   ],
+   "time": "12:17 PM"
+  }
+ ],
  "status": {
   "story": 9,
   "quiet": 1,
