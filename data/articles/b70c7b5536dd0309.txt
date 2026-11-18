@@ -1,0 +1,37 @@
+URL: https://streamlinefeed.co.ke/news/small-uk-study-links-weight-loss-drugs-to-nutrient-gaps
+TITLE: Small UK Study Links Weight Loss Drugs to Nutrient Gaps
+OUTLET: streamlinefeed.co.ke
+
+People using prescription appetite-suppressing drugs such as Wegovy and Mounjaro may unintentionally develop severe calorie drops and micronutrient shortfalls when dietary guidance is lacking, a small exploratory UK study has found. Published on November 17 in the open-access journal BMJ Nutrition, Prevention and Health, the observational evaluation examined 14 patients at a single general practice in England.
+Researchers reported that 10 of the 14 participants fell below two-thirds of UK government Reference Nutrient Intakes (RNIs) across several essential nutrients, even though average protein intake exceeded targets. While the small single-clinic sample cannot measure deficiency rates nationwide, it highlights oversight gaps at a time when strict NHS eligibility rules leave many patients paying privately.
+What the exploratory diet audit found
+To examine how glucagon-like peptide-1 (GLP-1) and dual GIP/GLP-1 therapies alter real-world eating habits, researchers surveyed 14 patients (10 prescribed privately and four via the NHS) and asked them to record two days of food intake using the validated myfood24 dietary diary. Analysts assessed 28 nutrients against sex-specific UK RNIs and defined a clinically relevant shortfall as intake below two-thirds of the benchmark.
+Average daily energy intake stood at 1,231 kilocalories, equal to 58.5% of estimated sex-adjusted requirements, with three participants consuming fewer than 800 kilocalories a day and more than half eating under two-thirds of estimated needs. Over three-quarters of participants fell below two-thirds of the RNI for both fibre and vitamin D, while half fell below that threshold for iron.
+Eight participants fell short on three or more of six focus nutrients (fibre, iron, vitamin D, potassium, protein, and magnesium), and one fell short on all six. Every participant consumed less than the recommended 400 grams of fruit and vegetables per day.
+By contrast, protein intake averaged 153% of the RNI, with only one participant falling short, while ultra-processed foods accounted for an average 33% of energy, reaching 84% in one case.
+Private prescribing outpaces wrap-around care
+Under National Institute for Health and Care Excellence (NICE) guidance TA1026 for tirzepatide, sold as Mounjaro, NHS clinicians are instructed to prescribe the medication only alongside a reduced-calorie diet, increased physical activity, and structured wrap-around care.
+NICE sets baseline eligibility at a body mass index (BMI) of 35 or higher, or 32.5 for certain minority ethnic groups, with at least one weight-related condition.
+Yet NHS England is phasing access over up to 12 years, starting with patients who have a BMI of at least 40 (37.5 for minority ethnic groups) and at least four qualifying conditions such as type 2 diabetes or hypertension. In the study sample itself, 10 of the 14 patients had obtained their prescriptions privately rather than through the NHS.
+In interviews embedded in the study, patients reported receiving sparse nutritional advice and patchy clinical monitoring regardless of whether they used private or NHS routes. Some experienced dizziness or low blood pressure without clear follow-up, prompting them to adjust doses independently or seek advice from online peer groups rather than clinicians.
+NICE's own discussion aid for tirzepatide cautions that the long-term effects on health and nutrition remain unknown, and notes that stopping treatment typically leads to weight regain unless lasting dietary and activity changes are maintained.
+Study limits and unanswered clinical questions
+The authors emphasised that the study is hypothesis-generating rather than definitive proof of widespread harm. The mixed-methods service evaluation also lacked a comparison control group. It drew from just 14 patients at one GP surgery in a relatively affluent area of England, relied on two days of self-reported food logging, and did not test blood biomarkers or track long-term clinical outcomes such as bone loss or anaemia.
+The researchers concluded that clinical services prescribing weight-loss medications should pair them with proactive nutritional guidance centred on nutrient-dense whole foods, higher dietary fibre, and sustained protein intake rather than relying solely on portion reduction. Larger longitudinal studies incorporating blood tests and body-composition tracking are still needed to determine how often low dietary intake leads to clinical deficiency.
+In the meantime, clinicians advising patients on GLP-1 drugs must monitor calorie thresholds and micronutrient gaps directly rather than assuming appetite suppression produces balanced weight loss.
+How did this story land?
+No sign-in required. Choose up to two. This captures your response to the story—it is not a vote on whether the reporting is true.
+Sources & evidence
+Sources linked in this article’s evidence ledger. Open the original material to assess the supporting claims and their context. A reference listing is not an independent verification badge.
+3 references are marked as primary in the evidence ledger
+- 01BMJ Nutrition, Prevention & HealthResearchPrimaryUncovering nutritional deficiencies and the adequacy of wrap-around care for patients on GLP-1 and dual GIP/GLP-1 receptor agonistsBy Milou Ottolini, Dhanush Ammineni, Emily Owen-Boukra, Ellen Fallows et al. Published 17 Nov 2026Accessed 18 Nov 2026 10.1136/bmjnph-2026-001622 Evidence used 
+  - • Observational evaluation of 14 patients (10 private, 4 NHS) at one GP practice in England using 2-day myfood24 dietary recall
+  - • Average intake was 1,231 kcal/day (58.5% estimated requirement), 3 consumed under 800 kcal/day, 10 fell below two-thirds RNI across multiple nutrients, over three-quarters fell short on fibre and vitamin D, half on iron, and all 14 below 40
+  - • Protein averaged 153% RNI and ultra-processed foods averaged 33% of energy (up to 84%); patients reported sparse dietary advice and side effects without formal follow-up
+- 02National Institute for Health and Care ExcellenceOfficial statementPrimaryTirzepatide for managing overweight and obesity (TA1026)By National Institute for Health and Care Excellence Published 23 Dec 2024Accessed 18 Nov 2026 TA1026 Evidence used 
+  - • Recommends tirzepatide alongside a reduced-calorie diet and increased physical activity for adults with BMI >= 35 (32.5 for certain minority ethnic groups) and at least one weight-related comorbidity
+  - • Phased NHS rollout extends up to 12 years; discussion guide notes long-term effects on health and nutrition are not yet known and stopping often leads to weight regain
+- 03NHS EnglandOfficial statementPrimaryNHS prescriptions for weight loss injections (Tirzepatide)By NHS England Published 24 Aug 2026Accessed 18 Nov 2026 Evidence used 
+  - • NHS England initially prioritises patients with BMI >= 40 (37.5 for minority ethnic backgrounds) and at least four qualifying conditions including type 2 diabetes, hypertension, dyslipidaemia, cardiovascular disease, and obstructive sleep a
+Continue reading
+These are the latest published stories from Health.

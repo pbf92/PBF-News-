@@ -1,0 +1,35 @@
+URL: https://www.medicaldaily.com/retatrutide-apnee-sommeil-essais-nejm-481363
+TITLE: Retatrutide Brought Up to Half of Nondiabetic Sleep Apnea Patients to Mild or No Disease in NEJM Trials
+OUTLET: Medical Daily
+
+In peer-reviewed trials of Eli Lilly's experimental weekly injection retatrutide, 51.6% of adults with obesity and moderate-to-severe obstructive sleep apnea who took the 9-milligram dose reached mild or no sleep apnea after 80 weeks, compared with 12.5% on placebo. The results, from trials published in The New England Journal of Medicine, were detailed by Healio.
+Lilly presented its own results at ObesityWeek on Nov. 15, citing a sleep apnea reduction of up to 60.6%. The journal data add what that presentation left out: placebo comparisons, safety counts and the number of people who improved enough to change their diagnosis.
+For adults who struggle with nightly CPAP masks, the question is whether a shot could replace the machine. The data are promising but do not answer that yet. Retatrutide is not approved for any use, and the trials were funded by Lilly.
+Update Note: This article reports new information on retatrutide's sleep apnea trials following MedicalDaily's earlier coverage. The newest information comes from the trial results published in The New England Journal of Medicine and detailed by Healio on Nov. 11, 2026, and from Lilly's Nov. 14, 2026, ObesityWeek release.
+Placebo-Adjusted Results and the 60.6% Figure
+Sleep apnea severity is measured with the apnea-hypopnea index, or AHI, which counts how often breathing stops or becomes shallow per hour of sleep. An AHI of 15 to 29 is moderate, and 30 or more is severe. Participants in the trial without diabetes started at an average of 58.6 events per hour.
+In that trial, people on the 9-mg dose had about 34 fewer events per hour after 80 weeks. But the placebo group also improved by about 10 events per hour, possibly helped by the lifestyle counseling participants received. After subtracting placebo, the drug's added benefit was about 24 fewer events per hour.
+That explains the gap with Lilly's figures. Lilly's ObesityWeek release reported a reduction of up to 36.1 events per hour, or 60.6%, without stating whether it was adjusted for placebo. Both numbers come from the trial, but the journal's placebo-adjusted figure better reflects what the drug itself added.
+MedicalDaily previously reported on retatrutide's weight-loss results and regulatory timeline. This report focuses on what the peer-reviewed sleep apnea data show.
+Results for People With Type 2 Diabetes
+The second trial enrolled 448 adults who also had type 2 diabetes, compared with 243 in the first. Their responses were smaller. The placebo-adjusted reduction was about 14 to 15 fewer events per hour at the two higher doses, and 39.5% on the 9-mg dose reached mild or no disease, compared with 12.6% on placebo.
+Other measures pointed the same way. Hypoxic burden, a measure of how long and how deeply oxygen levels drop during sleep, fell by about 75% in participants without diabetes and 65% in those with it, and sleep apnea resolved completely in about 25% and 15%, respectively, Fox News reported.
+Weight loss followed a similar pattern. Participants without diabetes lost 12.5% to 22.2% of body weight on retatrutide, versus 4.8% on placebo, while those with diabetes lost 12.1% to 18.5%, versus 5.6%.
+Participants also saw reductions in systolic blood pressure, LDL cholesterol, and markers of inflammation, benefits that matter because sleep apnea and obesity both strain the heart. In the trial with diabetes, sleep-related impairment scores improved significantly at the two higher doses. The 9-mg and 12-mg doses were needed to meet the trial's main goals, according to independent commentary.
+Safety Findings and Open Questions
+Side effects resembled those of other drugs in the GLP-1 class, mainly digestive problems such as nausea, diarrhea, and vomiting. Adverse events led 9 people on retatrutide to stop treatment in the trial without diabetes, versus 4 on placebo, and 15 versus 4 in the trial with diabetes. Serious adverse events occurred in 8% of people on retatrutide and 10% on placebo in both trials. There were no deaths on retatrutide in the trial without diabetes, versus two on placebo. In the trial with diabetes, one person on retatrutide and one on placebo died. The trials were too small to draw firm conclusions about rare harms.
+Lead author Dr. Ronald Grunstein, a professor of sleep medicine at the Woolcock Institute of Medical Research in Sydney who has consulted for Lilly, told Healio that drugs in this class could potentially replace CPAP for most patients.
+No trial has compared retatrutide directly with CPAP. The trials lasted 80 weeks, and Dr. Andrew Namen of Wake Forest University School of Medicine, a sleep specialist who was not involved in the research, said longer studies are needed. It is also not known whether patients keep the benefit after stopping the drug, and the drug has not been tested for sleep apnea in people without excess weight.
+Sleep Apnea Patients Weighing Their Options
+Untreated sleep apnea is linked to high blood pressure, heart rhythm problems, stroke, and daytime sleepiness that raises crash risk. People using CPAP should not stop it based on these results.
+Zepbound, Lilly's tirzepatide drug, already carries an FDA approval for moderate-to-severe sleep apnea in adults with obesity. Patients interested in a drug option can ask their sleep specialist whether it fits and whether their insurance covers it for that use.
+Retatrutide cannot be legally sold to consumers. The FDA has warned that unapproved versions are being marketed illegally online, and such products may contain the wrong ingredient or dose. MedicalDaily will report on Lilly's regulatory filings and the FDA's review.
+Much remains unknown even if the drug is approved. Lilly has not announced a price, insurers have not said how they would cover it for sleep apnea, and the trials did not show whether people keep their gains after stopping the shots.
+Key Questions Answered
+What did the NEJM trials find? Retatrutide reduced sleep apnea severity more than placebo, and up to 51.6% of people without diabetes reached mild or no sleep apnea.
+Why is the benefit smaller than Lilly's 60.6% figure? The journal compared results with placebo, which also improved. The drug added about 24 fewer events per hour at the 9-mg dose.
+Did people with diabetes benefit? Yes, but less, with about 14 to 15 fewer events per hour beyond placebo.
+Is retatrutide approved? No. It is investigational and cannot be legally sold.
+Can it replace CPAP? Not yet. No trial has compared it directly with CPAP.
+Is there an approved drug for sleep apnea? Zepbound is FDA-approved for moderate-to-severe sleep apnea in adults with obesity.
+Published by Medicaldaily.com

@@ -1,0 +1,17 @@
+URL: https://www.financemagnates.com/forex/bots-dont-get-a-pass-asic-adds-ai-failures-to-2027-enforcement-list/
+TITLE: Bots Don’t Get a Pass: ASIC Adds AI Failures to 2027 Enforcement List
+OUTLET: Finance Magnates
+
+Australian Securities and Investments Commission (ASIC) Chair Sarah Court has named consumer harm from poorly implemented technologies, including AI and automated systems, as one of nine enforcement priorities for 2027. She announced the list at the ASIC Annual Forum in Sydney on 18 November.
+AI, reporting and licensing
+Court said AI, automated decision-making and chatbots do not alter a firm’s legal obligations. ASIC will focus on poorly designed or inadequately supervised systems that produce misleading information, make inappropriate decisions or stop customers from reaching effective support. She said access to human review matters when customers are complaining, responding to a scam, pursuing an insurance claim or seeking financial assistance.
+Another priority covers failures to meet financial reporting, licensing and record-keeping obligations. Court said ASIC will target persistent or serious non-compliance rather than isolated errors that are promptly corrected, and will extend this work to a wider range of entities in 2027.
+She added that naming a priority does not mean every failure will lead to litigation. ASIC will distinguish isolated failures that are quickly remedied from repeated or systemic misconduct, and will consider remediation and cooperation.
+Court became ASIC chair on 1 June 2026, succeeding Joe Longo, having served as deputy chair since 2021.
+- ASIC Warns Advice Firms That Lead Generators Could Cost Them Their Licenses
+- ASIC Collects A$4.36 Million From 22 Companies Over Late Financial Reports
+- Former iSignthis CEO Loses Appeal Against Six-Year Australian Director Ban
+The CFD Backdrop
+The speech did not name CFD brokers among the 2027 priorities. It did cite CFD outcomes from the past year: penalties above A$300 million against Union Standard and its former authorised representatives, and nearly A$40 million paid to investors after ASIC’s review of the CFD sector.
+The Federal Court ordered A$156.7 million against Union Standard’s Australian entity, A$114.1 million against EuropeFX and A$29.4 million against TradeFred. The conduct took place between 2018 and 2020. Union Standard entered voluntary administration in mid-2020 and had its licence cancelled that September.
+In 2023, ASIC said seven CFD brokers operating in Australia (Capital.com, CMC Markets, Eightcap, IG, Pepperstone, Saxo Markets and City Index) breached leverage rules, with the matter returning A$4.3 million. Finance Magnates reported in November 2025 that financial reporting misconduct was among ASIC’s ten priorities for 2026.

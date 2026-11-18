@@ -1,0 +1,18 @@
+URL: https://www.financemagnates.com/forex/ask-before-you-leverage-new-zealands-fma-tightens-suitability-rules-for-derivatives/
+TITLE: Ask Before You Leverage: New Zealand’s FMA Tightens Suitability Rules for Derivatives
+OUTLET: Finance Magnates
+
+New Zealand’s Financial Markets Authority (FMA) is tightening the rules on how derivatives issuers onboard retail clients. From 18 November 2027, derivatives issuers must obtain enough information to assess whether a product is suitable for a retail investor before allowing them to trade it.
+Furthermore, brokers must ensure investors understand the product and its risks. They must not permit trading where a product is unsuitable or not understood.
+The FMA has also introduced additional protections for firms that offer highly leveraged derivatives. The measures are designed to reduce the risk of significant investor losses, while preserving access to higher-risk products where appropriate safeguards are in place.
+Years in the Making
+The changes follow a consultation that opened in June 2024. At the time, the regulator proposed a CFD leverage restriction of up to 30:1 and sought to strengthen the suitability assessment of retail investors.
+The FMA’s reasoning centred on speculation. It said its monitoring showed most retail investors use OTC derivatives to speculate, and that high leverage creates “a greater chance of losing money”.
+“Derivatives can be useful financial products, but they can also expose investors to significant risks, particularly where leverage is involved,” said FMA General Counsel Liam Mason.
+- New Zealand Court Winds Up 23 More Companies in NZ$45 Million Investment Collapse
+- New Zealand Moves to Expand Serious Fraud Office's Digital Search Powers
+- New Zealand Regulator to Broaden FinTech Sandbox, Develop New “On-Ramp” License
+What the FMA Found in the Sector
+The proposals drew on the regulator’s derivatives issuer sector risk assessment. That assessment rated suitability risk as high and found that up to 25% of firms may not be taking reasonable steps to assess whether derivatives are suitable for retail investors. The FMA also reported that some issuers had offered leverage as high as 500:1.
+The regulator had raised suitability concerns before. In 2022, it censured CTRL Investments for breaching its derivatives issuer licence conditions, and FMA Director of Supervision James Greig said insufficient client suitability checks continued to be a problem in the sector.
+The 2024 proposal would have required brokers to determine whether a retail investor understands a derivative before entering into it. The new requirement now applies that standard to issuers from November 2027.

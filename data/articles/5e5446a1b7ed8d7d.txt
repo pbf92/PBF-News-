@@ -1,0 +1,24 @@
+URL: https://news.lavx.hu/article/shopify-moves-mobile-ai-development-to-remote-macs-and-linux-vms
+TITLE: Shopify moves mobile AI development to remote Macs and Linux VMs
+OUTLET: news.lavx.hu
+
+Shopify built Remote Dev, a remote environment where AI agents build, test, and maintain iOS and Android apps in parallel without tying up developer laptops. Shopify reports that River's share of merged pull requests rose from 6% to 61% after internal adoption efforts.
+Shopify built Remote Dev, a remote mobile development environment that lets AI agents build, test, and maintain iOS and Android apps in parallel. The work runs on shared infrastructure instead of developer laptops.
+Why laptops could not keep up
+Shopify engineers found that agentic workflows drain a developer machine fast. "Three or four workflows were enough to max out a laptop," they wrote. The load comes on top of what compilers, simulators, and emulators already consume. A closed laptop lid also stopped the work entirely.
+Shopify had already solved a similar problem for web and backend development with River, an environment that runs on Linux. That design could not carry over to iOS. Building and testing iOS apps requires Xcode, which runs only on macOS, so Shopify needed a different foundation for mobile work.
+How Remote Dev is built
+Remote Dev runs on a fleet of remote Macs. Each Mac hosts Shopify's development environment and iOS simulators, and developers and agents reach them over SSH. Android emulators run on separate Linux virtual machines. A single SSH session can build and test both iOS and Android, which keeps the workflow consistent across platforms.
+Each River session gets its own environment. One agent can debug an Android issue while another works on an iOS feature and a third tests a pull request. Agents can also receive tasks through a Slack channel backed by River.
+What the agents do
+Remote Dev can change code, build the app, run tests, drive the simulators, collect screenshots, and open a pull request. When a step fails, the agent reads the logs, fixes the problem, and tries again while the engineer works on something else.
+The platform also runs automated jobs. Overnight runs look for bugs, implement fixes, and submit pull requests. Agents can check a build by navigating the UI, reproducing a bug, recording the current behavior, applying a fix, and repeating the same steps to confirm the result.
+Shopify reports that River's share of merged pull requests rose from 6% to 61% after the company promoted adoption through demonstrations and internal storytelling.
+Outside skepticism
+Raiyan Jugbhery, who leads software infrastructure and founded SpendMe, commented on Shopify's article on LinkedIn. He argued that Remote Dev's main advantage is its integration with Xcode and the iOS Simulator. "A PR you still have to pull and verify on a Mac isn't really autonomous," he wrote. He also pointed out that the article does not explain how builds avoid queuing when several agents request a Mac at the same time.
+Junaid Raza, a solutions architect at Hoboetech, raised a concern about test integrity. If agents run simulators and tests, he warned, they may produce unreliable results. "Give [the agent] a red test and enough retries and it'll sometimes rewrite the test until it passes," he wrote. His proposed fix is to stop runner agents from modifying the tests they execute.
+What comes next
+Shopify plans to extend the platform with continuous application health monitoring, automated crash detection and fixes, and pull request generation for issues it finds. The company has not announced timelines.
+What teams can take from this
+Shopify's design separates heavy build and simulator work from the developer's machine and makes that environment reachable by any agent. Teams that want to copy the approach need to plan for Mac capacity, because iOS builds depend on it, and for scheduling, so agents do not stall waiting for the same machine. Teams should also decide early which agents may edit tests and which may only run them. Android's emulator documentation covers the Android side of the setup for teams planning a similar split across platforms.
+Source:How Shopify Orchestrates AI-Powered Mobile App Development Without Overloading Developers' Machines, by Sergio De Simone, InfoQ,

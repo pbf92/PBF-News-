@@ -1,0 +1,16 @@
+URL: https://www.techjuice.pk/meta-removes-placement-exclusions-ads-manager/
+TITLE: Meta Takes Away Placement Control for Advertisers
+OUTLET: TechJuice
+
+Meta is eliminating a core advertiser control feature. Meta is alerting advertisers that it will soon be removing the Placements option from ad sets.
+Meta’s ad placements option enables advertisers to exclude certain Meta ad placements from their campaign. According to Meta ads expert Jon Loomer’s analysis shared with advertisers, Meta is additionally removing the option to exclude platforms as well. This means advertisers can no longer selectively prevent their ads from appearing in specific locations across Meta’s ecosystem.
+If an advertiser doesn’t want their ad shown in search results on Facebook, or via in-stream ads between Reels, they can choose to opt out of these placements. The feature gives marketers more control over their brand presence across Meta’s apps, which is at an end now.
+The scope of the removal extends beyond individual placements. Exclusions by device and operating system will also be eliminated. Excluding placements, platforms, devices and operating systems will no longer be available for your ad sets.
+No timeline has been announced for when this change takes effect. Though no timeline has been announced yet, advertisers have begun receiving notifications from Meta about the upcoming change. The removal appears to apply to all advertiser accounts as part of a broader strategy shift.
+This follows an earlier placement removal. As part of the update, Messenger Stories will be permanently removed as an ad placement from August 27. Advertisers currently using Messenger Stories in eligible placement pools will have delivery automatically redistributed after the placement is removed.
+The changes reduce advertiser-level control significantly. The updates further reduce the number of placement-level decisions available within individual ad sets, with value rules and account-level controls becoming the primary alternatives for advertisers seeking to influence ad delivery.
+As Loomer explains:
+How you approach this really doesn’t change. If you have a specific placement-related problem that needs to be solved, you can still solve it. But instead of removing a placement, you’ll use a value rule instead.
+The problem is that the vast majority of advertisers who are removing placements now are doing it when it isn’t necessary. There are times when it’s necessary, but those times are almost always when Meta can get cheap (and often low-quality) optimized actions from a placement. The most common examples are related to Audience Network.
+This represents Meta’s continued push toward algorithmic control over ad distribution. Instead of advertisers deciding where ads appear, Meta’s system will automatically determine placement across all available options. Advertisers lose the ability to exclude placements based on brand safety concerns, quality concerns, or historical performance data.
+Brands that previously excluded specific placements for brand protection reasons now face limited alternatives. The company’s stated position is that automated placement decisions deliver better performance, but removing advertiser control prevents testing and validation of that claim on individual accounts.

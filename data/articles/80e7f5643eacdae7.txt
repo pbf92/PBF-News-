@@ -1,0 +1,93 @@
+URL: https://explodingtopics.com/blog/anthropic-revenue
+TITLE: Anthropic Revenue and Valuation Statistics (Nov 2026)
+OUTLET: Exploding Topics
+
+Exploding Topics
+Secops search volume grew from 2,475 to 9,900 monthly searches between October 2024 and September 2026.
+Secops
++300%
+Preply search volume grew from 822,581 to 1,500,000 monthly searches between December 2024 and November 2026.
+Preply
++82%
+Loop Earplugs search volume grew from 370,150 to 673,000 monthly searches between October 2024 and September 2026.
+Loop earplugs
++82%
+Keyword Research
+Performance Tracking
+Competitor Intelligence
+Fix Your Site’s SEO Issues in 30 Seconds
+Find technical issues blocking search visibility. Get prioritized, actionable fixes in seconds.
+Powered by data from
+Latest Blog Posts
+Featured Case Studies
+See what's trending before everyone else
+Each week, we'll send you our best Exploding Topics. Plus, expert insight and analysis.
+Anthropic Revenue and Valuation Statistics (November 2026)
+Anthropic made $33.2 billion in revenue in the first nine months of 2026, according to its amended IPO prospectus (S-1). That’s up from $2.5 billion in the first nine months of 2025.
+Anthropic made nearly $4.6 billion in revenue in 2025. As of November 2026, Anthropic is valued at $965 billion, after its Series H round in May 2026.
+Anthropic, the maker of Claude, launched its IPO roadshow on November 10, 2026, with a price range of $70 to $78 per share. At the top of the range, Anthropic would be worth about $1.02 trillion, or up to $1.405 trillion on a fully diluted basis. It plans to list on Nasdaq under the ticker ANT.
+In this article, we'll break down Anthropic's revenue, profits, valuation, IPO, funding and customers, and what the numbers mean for investors.
+Top Anthropic Statistics
+- Anthropic made $33.2 billion in revenue in the first nine months of 2026, up from $2.5 billion in the same period of 2025 (Anthropic S-1, November 2026)
+- Anthropic’s Q3 2026 revenue was $17.0 billion, up 1,127% from $1.38 billion in Q3 2025 (Anthropic S-1, November 2026)
+- Anthropic made an operating loss of $567 million in Q3 2026, after an operating profit of $974 million in Q2 2026 (Anthropic S-1, November 2026)
+- Anthropic has committed to spend about $895.4 billion, almost all of it on compute and infrastructure (Anthropic S-1, November 2026)
+- Anthropic’s annualized revenue run rate reached about $65 billion at the end of July 2026, up from just over $5 billion in August 2025 (Anthropic, Bloomberg)
+- Anthropic was valued at $965 billion after its Series H round in May 2026 (Anthropic)
+- Anthropic set an IPO price range of $70 to $78 per share, which would value it at up to $1.02 trillion, or $1.405 trillion fully diluted (Anthropic S-1, November 10, 2026; Reuters; CNBC)
+- More than 1,900 customers spent $1 million or more with Anthropic in the 12 months to September 30, 2026 (Anthropic S-1, November 2026)
+- Searches for "Anthropic" grew 1,533% between October 2024 and September 2026, faster than searches for "OpenAI" (+200%) (Exploding Topics)
+How Much Revenue Does Anthropic Make?
+Anthropic made $33.2 billion in revenue in the first nine months of 2026, including $17.0 billion in Q3 2026. The company’s annualized revenue run rate was about $65 billion at the end of July 2026.
+Anthropic usually shares its growth as a run rate. A run rate is current revenue projected over a full year, so it shows momentum rather than revenue already earned.
+At the start of 2025, Anthropic's run rate was about $1 billion. By February 2026, Anthropic's run rate had reached $14 billion. Two months later, it passed $30 billion.
+Here's how Anthropic's run-rate revenue has grown, from the start of 2025 to July 2026:
+According to Anthropic, its run-rate revenue grew over 10x a year in each of the three years to February 2026.
+Anthropic's growth may not be slowing down. In September 2026, the New York Times reported that Anthropic is on track to pass a $100 billion run rate this year, citing unnamed sources.
+For investors, the run rate shows momentum, not booked revenue. Anthropic's run rate at the end of 2025 (about $9 billion) was roughly double the revenue Anthropic booked that year (nearly $4.6 billion).
+What Was Anthropic's Revenue in 2025 and 2026?
+Anthropic made nearly $4.6 billion in revenue in 2025, according to its IPO prospectus as seen by Reuters. That’s nearly 12x its 2024 revenue of $386 million, and up from just $41 million in 2023.
+Anthropic’s quarterly revenue is still climbing. Anthropic made $17.0 billion in Q3 2026, its biggest quarter yet, according to its amended S-1. That’s up 1,127% from the $1.38 billion it made in Q3 2025.
+Growth is slowing from one quarter to the next, though. Revenue rose about 47% from Q2 to Q3 2026, after rising about 144% from Q1 to Q2, according to Fortune.
+The S-1 says price cuts that came with new model versions, along with contract discounts, took about $600 million off Q3 revenue.
+Here’s a breakdown of Anthropic’s quarterly revenue, from Q1 2025 to Q3 2026:
+The quarterly figures are the better guide to Anthropic’s real size. Anthropic’s Q3 2026 revenue alone was more than 3.5x its revenue for the whole of 2025.
+How Does Anthropic Make Money?
+Anthropic makes most of its money from usage-based fees, where customers pay for the amount of AI they use. According to its S-1, usage-based revenue was $26.3 billion, or 79% of Anthropic’s revenue, in the first nine months of 2026.
+Subscriptions, such as Claude plans for businesses and individuals, made up the other $6.9 billion, or 21% of its total revenue. Most usage-based revenue comes from customers building apps on Claude or using Anthropic’s own apps.
+There are investment risks to revenue tied to usage. It can grow quickly when the momentum is favorable, but it can also fall as fast. Anthropic’s S-1 also notes that much of this revenue isn’t tied to long-term contracts.
+Is Anthropic Profitable?
+Anthropic made an operating loss of $567 million in Q3 2026, after an operating profit of $974 million in Q2 2026, according to its amended S-1. Its operating loss for the first nine months of 2026 was $1.3 billion, down from $5.2 billion in the same period of 2025.
+The S-1 puts the Q3 loss down to two costs. Anthropic bought $5.0 billion of compute under short-term commitments, which currently costs significantly more than comparable compute bought under multi-year deals. It also took $2.0 billion of non-cash charges for its donation matching program.
+Anthropic made a net loss of $23.3 billion in Q3 2026. Most of that came from a $21.9 billion non-cash charge, which reflects the rising value of convertible notes and similar funding instruments as Anthropic’s valuation climbed.
+That follows a net loss of $80.7 billion in the first half of 2026, which included $72.4 billion of similar charges. The same pattern shows up in 2025: a net loss of nearly $42 billion, including a $34.3 billion non-cash charge.
+Anthropic’s operating loss in 2025 was $8.1 billion, including a $1.5 billion settlement of a copyright class action.
+On an adjusted basis, which leaves out stock-based pay, non-cash charitable contributions and the copyright settlement, Anthropic made $2.46 billion in operating income in Q3 2026. That’s up from $2.24 billion in Q2 2026, but the adjusted operating margin fell from 19% to 15%.
+Here’s a breakdown of Anthropic’s operating results by quarter, from Q1 2025 to Q3 2026:
+Compute is Anthropic’s biggest cost. Anthropic spent $9.9 billion on compute and infrastructure in Q3 2026, up 77% from $5.6 billion in Q2 2026. Revenue rose about 47% over the same period, so compute costs went from 48% of revenue in Q2 to 58% in Q3.
+Over a full year, revenue is still growing much faster than compute costs. Anthropic’s Q3 2026 revenue was up 1,127% from Q3 2025, while its compute and infrastructure costs rose 382%.
+Anthropic has also committed to spend about $895.4 billion in the coming years, substantially all of it on compute and infrastructure, according to its amended S-1. It expects to spend about $447.5 billion of that before the end of 2030, and substantially all of the rest between 2031 and 2045.
+Not all of it is fixed yet. About $213.8 billion of the total can still be cancelled or depends on conditions being met. The biggest named deals include at least $121.3 billion with Google, at least $110 billion with Amazon, up to $120.5 billion with SpaceX.AI and at least $44.9 billion with Microsoft.
+The Q3 loss shows how quickly compute costs can catch up with revenue. Compute commitments run for years, so the bet depends on revenue growth continuing.
+What Is Anthropic's Valuation?
+As of November 2026, Anthropic is valued at $965 billion, following its $65 billion Series H round in May 2026.
+Anthropic's valuation is up from $61.5 billion in March 2025, a rise of nearly 16x in just over a year.
+The Series H valuation also makes Anthropic more valuable than OpenAI, which was valued at $852 billion in March 2026. OpenAI is now negotiating a new round of up to $30 billion at a $1.25 trillion pre-money valuation, but that round hadn’t closed as of October 22, 2026.
+Here's how Anthropic's valuation has grown, from March 2025 to May 2026:
+Anthropic’s IPO price range points to a public valuation not far above its last private round. At $78 per share, Anthropic would be worth up to $1.02 trillion, according to Reuters, as reported by NBC News. That matches the roughly 13.1 billion shares Anthropic will have after the IPO, according to its amended S-1. On a fully diluted basis, it could be worth up to $1.405 trillion, according to CNBC.
+That’s below earlier hopes. Anthropic had been looking toward a $2 trillion valuation until recently, CNBC reported.
+Anthropic’s $965 billion valuation is about 15x its end-of-July run rate of $65 billion. An IPO valuation of $1.02 trillion to $1.405 trillion would be about 29x to 40x the $35.3 billion Anthropic made in revenue over the past four quarters, according to Fortune.
+For comparison, see our list of decacorn companies.
+When Is Anthropic's IPO?
+Anthropic’s IPO is expected to price on November 18, 2026, with shares starting to trade on November 19, according to people familiar with the details who spoke to CNBC. Anthropic hasn’t confirmed the dates.
+Anthropic set its price range at $70 to $78 per share in its second amended S-1, filed on November 10, 2026. It plans to sell 825 million Class A shares, including about 23.6 million sold by existing stockholders. At $78 per share, that would raise up to $64.4 billion, before the banks’ option to buy 123.75 million more shares.
+The shares will list on the Nasdaq Global Select Market under the ticker ANT. Goldman Sachs and Morgan Stanley are leading the offering.
+At the top of the range, Anthropic’s IPO valuation of $1.02 trillion to $1.405 trillion would be about 1.1x to 1.5x its $965 billion private valuation from May 2026. Anthropic is pricing its IPO after a sharp fall in AI stocks following the US midterm elections. For more on the sell-off, see our AI bubble statistics.
+Anthropic first submitted its IPO filing confidentially in June 2026. Earlier in October 2026, Bloomberg reported that Anthropic was aiming to start trading before Thanksgiving on November 26, at a valuation of $1.8 trillion to $2 trillion.
+Here's a breakdown of what we know about Anthropic's IPO so far:
+Anthropic’s seven co-founders will control 50.1% of the votes after the IPO, through a single Class F share held by a new company called the Founder LLC. That gives them control of shareholder votes, even if they own a much smaller share of the company.
+For investors, the S-1 gives the first full view of Anthropic’s finances. The final share price is usually set the evening before trading starts.
+For another big 2026 tech IPO, see our SpaceX revenue and valuation statistics.
+How Much Funding Has Anthropic Raised?
+Anthropic had raised a total of $141.1 billion in capital as of September 30, 2026. On the same date, Anthropic had $95.6 billion in cash and cash equivalents, plus $36.3 billion in short-term investments, according to its amended S-1.
+Amazon and

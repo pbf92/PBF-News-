@@ -1,0 +1,60 @@
+URL: https://www.cnn.com/2026/11/18/tech/anthropic-ipo-cofounders
+TITLE: Your guide to the people who matter at Anthropic
+OUTLET: CNN
+
+Anthropic’s CEO Dario Amodei has become one of the most well-known faces of the AI boom, even becoming the subject of parody on Saturday Night Live.
+But Dario and his sister — company president Daniela Amodei — are just two of several key figures that have played a critical role in shaping the company. Anthropic’s other co-founders and leaders specialize in everything from securing enough computing power to examining AI’s impact on the economy to trying to prevent Claude from being misused.
+Here are the top players who have helped propel Anthropic toward what is expected to be a record-breaking market debut.
+Dario Amodei, CEO
+Known for his curly dark hair, glasses and professorial sweaters, Dario Amodei is Anthropic’s leader and figurehead. With a background in computational neuroscience, Amodei worked at Google and then OpenAI, joining the company in its early years and rising to become vice president of research. He and his six fellow co-founders left OpenAI to form Anthropic in 2021 due to what he says was a “breakdown of trust” with OpenAI’s leadership – namely its CEO, Sam Altman.
+Amodei is known for his philosophical approach and stark warnings about the technology his company is building. He has written lengthy essays about AI and technology, which Anthropic turns into little bound books that it hands out to visitors at its offices. Every two weeks, Amodei has said, he holds hour-long free-wheeling conversations in front of the entire company, which have become known as “Dario vision quests.”
+Amodei has dedicated his career to building safe AI, not only because he is worried it could lead to catastrophic doom for humanity but also because he says he wants the world to experience the upsides of AI.
+But despite holding the CEO title, he does little management compared to his sister Daniela, who runs the day-to-day of the company.
+Daniela Amodei, president
+Daniela Amodei, Dario’s sister, is the company’s president and the one making sure the company actually functions.
+“Dario makes us ambitious, I make us successful,” she told biographer Walter Isaacson on his podcast.
+Unlike her science-minded brother, Daniela’s background is rooted in the humanities and arts. A classically-trained flautist, she briefly worked in politics and international development before she went to work at Stripe in risk management and compliance. She joined OpenAI several years after her brother, where she became vice president of safety and policy.
+Tom Brown, chief compute officer
+Tom Brown is Anthropic’s chief compute officer – responsible for negotiating deals for the computing power and hardware that Anthropic runs on. But this year, he’s also turned into Anthropic’s political fixer, sent to Washington to help smooth over relations with the Trump administration after several dustups. That includes being blacklisted and labeled a “supply chain risk” by the Pentagon due to a disagreement over how Anthropic’s models can be used by the military.
+Brown attended MIT and, while he studied computer and cognitive science, he’s said in interviews that he’s self-taught when it comes to machine learning and AI. He jumped at the chance to join OpenAI when it first started, becoming one of the company’s first 20 employees.
+While working at OpenAI, Brown served as a lead author on the seminal paper that introduced the GPT-3 language model. But like his co-founders, he decided to leave and start Anthropic over concerns that this transformative technology would be in the right hands.
+Jack Clark, head of public benefit
+Jack Clark spent years covering tech earlier in his career. But he left journalism to jump into the industry himself, potentially setting himself up for a massive windfall in the process.
+As the head of the Anthropic Institute, Clark’s role involves using the company’s research and data to examine AI’s impact on the economy, cybersecurity and other critical areas. The goal, according to Anthropic, is to help the public understand the real-world impacts of the fast-moving AI industry.
+But the findings also shape the company’s own work, including initiatives like Anthropic’s Project Glasswing cybersecurity program, which seeks to proactively build defenses against vulnerabilities that AI could help exploit.
+Like his cofounders, Clark spent time at OpenAI but worked in communications and policy.
+He’s compared the evolution of AI to having “thousands of new colleagues” that companies suddenly had to learn how to work with. It could take a while to figure out how to trust them and whether they work in the ways the company would expect, he told CNN’s Anderson Cooper earlier this year. That’s why he believes the industry needs some sort of “brake pedal.”
+“But when I look down at the car we’re driving, all I have is a gas pedal,” he said. “I don’t have a brake pedal, and surely at some point in the future we might want that option.”
+Chris Olah, interpretability research lead
+Chris Olah leads the company’s research on “interpretability” – understanding how and why AI, often considered a sort of “black box,” works the way it does.
+Prior to his time at Anthropic, Olah worked in AI research at Google and OpenAI.
+Helping people understand how AI works is considered key to making the technology controllable and safe. If people can understand why AI does something, the thinking goes, the better shot they have at training it to prevent problematic behavior. Olah is also heavily engaged in some of the biggest questions surrounding AI, including what it could mean for human jobs and the controversial idea that AI models might be conscious.
+He spoke at the Vatican earlier this year to mark the release of Pope Leo XIV’s encyclical on AI, during which he called for the religious community’s help in guiding and managing the technology’s development.
+“Some might believe that matters of AI are best handled by computer scientists like myself. They are mistaken,” Olah said in his speech. “The questions raised by AI are bigger than the AI research community, not just in their implications, but also in their nature.”
+Jared Kaplan, chief science officer
+Jared Kaplan is another trained theoretical physicist at Anthropic who leads safety protocols as the company’s chief science officer. He’s been friends with Dario Amodei since grad school and helped pioneer Anthropic’s constitution, calling for AI models to follow principles rather than rules.
+Kaplan also helped pioneer with fellow co-founder Sam McCandlish the idea of scaling laws, which hold that AI models get better in a predictable way when you make them bigger and feed them more data. The idea helps guide how most frontier labs plan model development.
+At the Anthropic co-founders round table in 2024, Kaplan described Anthropic’s ethos as trying to balance being careful with the technology while not “crying wolf.”
+“We need to sort of find a way to make AI useful, innovative, delightful for customers, but also figure out what the constraints really have to be that we can stand behind,” he said.
+Sam McCandlish, chief architect
+Chief Architect Sam McCandlish has framed leaving OpenAI to start Anthropic as a “duty.”
+“This is the way we’re going to make things go better with AI,” he said in 2024.
+McCandlish previously served as Anthropic’s chief technology officer and now leads much of the company’s work on “responsible scaling,” figuring out how to safely expand the size of its AI models – and, therefore, what they’re capable of.
+He oversees the implementation of Anthropic’s responsible scaling policy, which lays out how to identify, evaluate and manage potential “catastrophic risks” from AI. He’s also discussed how AI itself is increasingly contributing to training and improving AI models.
+McCandlish is less public than many of Anthropic’s other co-founders and leaders, some of whom have warned that AI carries some risk of causing humanity’s extinction. McCandlish, for his part, has said he believes AI safety is a “solvable problem, it’s just a very, very hard problem that’s going to take tons and tons of work.”
+Boris Cherny, head of core apps and creator of Claude Code
+Cherny is the creator of Claude Code, the wildly popular AI coding agent that gave Anthropic an early foothold in the workplace. The tool also paved the way for the company’s AI tools to play a larger role in industries like finance, legal work, marketing and more.
+Anthropic’s expected more than trillion-dollar initial public offering hinges on whether it can succeed in making Claude indispensable to office work.
+“When people think about the IPO, they’re thinking, ‘Okay, how much room left does Claude Code have to grow?’” Willy Lee, principal at venture capital firm Neostellar, whose portfolio includes OpenAI and CoreWeave, told CNN.
+Cherny joined Anthropic in 2024 after a nearly seven-year run at Meta, where he worked in various divisions, including Instagram, Facebook Groups and the code quality team, according to his LinkedIn. Claude Code started as one of Cherny’s side projects but has become one of the company’s most important products.
+Amanda Askell, philosopher, head of the personality alignment team
+Philosopher and ethicist Amanda Askell left academia in 2018 to work on what she saw as the next important wave of technology: artificial intelligence.
+She started working in policy at OpenAI and moved to Anthropic shortly after its founding in 2021. She now leads the company’s effort to shape the personality and values embedded in its core model, Claude, in hopes of ensuring it benefits humanity.
+“I try to think about what Claude’s character should be like and articulate that to Claude and try to train Claude to be more like that,” Askell said on the Hard Fork podcast earlier this year.
+That involves spending a lot of time interacting with Claude, testing out edge cases and prompting the model to adjust as needed.
+Askell was the lead writer of Claude’s Constitution, which outlines Anthropic’s vision for Claude and is used to train the model. The document describes what Claude is (it’s Anthropic’s “best attempt to deploy a model that is both safe and beneficial for the world” and also “central to Anthropic’s commercial success”) and how it should behave (“exceptionally helpful while also being honest, thoughtful, and caring about the world”).
+Dave Orr, head of safeguards
+Orr leads the team that builds safeguards for Claude and prevents misuse of Anthropic’s technology. He was one of the people Anthropic sent to Washington to help end export restrictions on the company’s models in June, according to The Wall Street Journal, and he also appeared before a parliamentary inquiry in Australia on artificial intelligence.
+Anthropic has always positioned itself as a safety-first company, and that has perhaps never been as important as it has over the last few months. A string of incidents that involved AI models from OpenAI, Anthropic and Meta breaking out of their testing environments over the summer has raised concerns about AI’s capabilities, and whether the technology is advancing too quickly.
+Anthropic’s IPO filing included dozens of pages outlining the potential risks of AI, including that the technology could be used in the development of bioweapons or that humanity could lose control of it.
+“We’re driving down a cliff road. A mistake will kill you,” Orr told Time magazine in March. “Now we’re driving at 75 instead of 25.”
