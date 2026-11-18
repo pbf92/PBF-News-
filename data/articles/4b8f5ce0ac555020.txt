@@ -1,0 +1,39 @@
+URL: https://abcnews.com/Business/anthropic-public/story?id=138174650
+TITLE: What to know before Anthropic goes public - ABC News
+OUTLET: Breaking News, Latest News and Videos
+
+What to know before Anthropic goes public
+The company responsible for chatbot Claude is eyeing a $1.4 trillion valuation.
+Artificial intelligence giant Anthropic stands poised to go public at a valuation north of $1 trillion, marking a major test for the AI boom as everyday investors weigh the promise and risk of a top frontier model fueling much of the technology.
+The company behind popular chatbot Claude is eyeing a valuation of $1.4 trillion, which would immediately vault Anthropic into rarefied air among the twelve largest public companies in the world.
+The IPO will arrive at a tumultuous moment for the AI industry, however.
+Public concern over potential catastrophic risks posed by AI has grown in recent months, resulting in part from security incidents disclosed by Anthropic as well as the high-profile resignation of a researcher at the company.
+Nvidia, a high-flying AI firm and a partner of Anthropic, suffered a leadership shakeup last week as CEO Jensen Huang stepped down over allegations of an affair with a suspected Chinese intelligence asset. The tech-heavy Nasdaq is down about 4% since Huang resigned.
+Huang admitted in an internal message to Nvidia staff that he had been "unfaithful to his wife," though he did not name the person with whom he had been involved.
+Here's what to know about the Anthropic IPO:
+Why is Anthropic moving forward with an IPO?
+The IPO will pull in fresh funds for the San Francisco-based firm, which aims to compete in a potentially lucrative but cost-intensive section of the AI industry centered on advanced models and the tools they empower.
+"Building and scaling frontier intelligence is one of the most important and capital-intensive endeavors in history," Anthropic said in a filing with the Securities and Exchange Commission (SEC).
+Anthropic said it will offer 825 million shares at a price range of $70 to $78 each, meaning the IPO could raise as much as $64.3 billion. Anthropic will trade under the ticker symbol "ANT."
+The company significantly expanded its revenue at the outset of 2026, but it continued to suffer losses.
+Anthropic earned $16.3 billion in revenue over the first six months of this year, growing nearly 14-fold from the same period a year earlier, according to a government filing.
+Still, the company reported a net loss of $80.7 billion over the first six months of this year, indicating the scale of its spending over that period.
+Will the Anthropic IPO make the company's founders billionaires?
+Anthropic boasts seven co-founders, and each of them is expected to become a multi-billionaire after the company goes public.
+The most well-known co-founder is CEO Dario Amodei, who has drawn attention for repeated warnings about the risks posed by AI.
+The company's other founders are Daniela Amodei, the company's chair, president and Dario's sister; Tom Brown, chief compute officer; Jack Clark, head of public benefit; Jared Kaplan, chief science officer; Sam McCandlish, chief architect; and Christopher Olah, interpretability research lead.
+The founders each hold a stake of 3.6% to 3.7% of the company's voting common shares, and they each plan to sell a small portion of their stake when the company goes public, according to a financial filing.
+At the anticipated share price, the portion of the stake to be sold by each one will amount to about $250 million. The remaining stake held by each -- about 3.2% -- will be valued at more than $17 billion.
+Will Anthropic stock be in your 401(k)?
+Anthropic will all but certainly become a part of people's 401(k) accounts soon. Those accounts often hold index funds, which are pegged to major indexes like the Nasdaq.
+Until recently, newly listed companies were barred from major indexes until after an extended waiting period. But the Nasdaq issued a rule change in May permitting "fast entry" to the Nasdaq-100 for some major IPOs. Over the ensuing weeks, some other top exchanges also tweaked their rules, though their eligibility requirements vary.
+"Although Anthropic is unlikely to join the S&P 500 before late 2027 because of eligibility requirements, it is expected to be added to other indexes relatively soon after listing," Brian Therien, senior analyst at Edward Jones, told ABC News in a statement.
+As such, it won't take long for Anthropic to become a part of 401(k) holdings.
+What do analysts think of the stock?
+In the run-up to its IPO, Anthropic touted AI as a transformational and lucrative technology, while warning about possible catastrophic risk that could bring financial fallout for shareholders.
+A financial filing last month presents AI as "one of the most consequential technologies in human history. If managed well, it could rapidly accelerate scientific innovation, greatly increase economic growth rates, bring cures for major diseases within reach, and solve problems that have resisted generations of human effort."
+In the same document, Anthropic warned of the possibility its AI models could pose a "catastrophic or existential risk to humanity."
+Investing in the company's stock "involves a high degree of risk," Anthropic added.
+In a report ahead of the IPO, financial research firm Morningstar voiced optimism about the stock but also cautioned about a very high degree of uncertainty surrounding the firm's prospects.
+"We have a positive outlook on Anthropic's ability to remain at the frontier of artificial intelligence model research," Morningstar said, adding that the company could monetize such research by "selling primarily to enterprise customers."
+Still, Morningstar said its warning about uncertainty "reflects our view on the wide range of financial outcomes for a business investing heavily in large language models, a nascent technology."

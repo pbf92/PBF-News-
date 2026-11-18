@@ -1,0 +1,9 @@
+URL: https://www.tradingview.com/news/gurufocus:79339754a094b:0-what-s-going-on-with-nvidia-stock-wednesday/
+TITLE: What's Going On With Nvidia Stock Wednesday
+OUTLET: TradingView
+
+What's Going On With Nvidia Stock Wednesday
+Nvidia NVDA stock rose 3% early Monday, but fell about 1% in morning trading after delivering quarterly results above Wall Street expectations and issued an upbeat revenue forecast, supported by continued demand for its data center chips. The company also expanded its stock buyback authorization and lifted its longer-term growth outlook.
+Adjusted earnings came in at $2.68 per share on revenue of $115.84 billion, up 103% year over year. Analysts had expected earnings of $2.48 per share and revenue of $109.33 billion. Data center sales reached $107.6 billion, exceeding the $101.87 billion consensus estimate. Adjusted gross margin was 74.9%, while free cash flow totaled $43.77 billion.
+For the current quarter, Nvidia expects revenue of $130 billion, plus or minus 3%, above Wall Street's $125.3 billion forecast. However, the company does not expect to generate revenue from China. It projected GAAP gross margins of 71% to 72% and operating expenses of $11 billion, with non-GAAP operating expenses expected at $10.7 billion.
+Nvidia also added $150 billion to its share repurchase authorization and raised its fiscal 2028 revenue growth outlook to about 75% from 70%. The board also ruled out reinstating Jensen Huang as CEO despite his openness to returning.

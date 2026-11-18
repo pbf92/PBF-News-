@@ -1,0 +1,29 @@
+URL: https://coinpaper.com/39043/anthropic-ipo-moves-closer-as-nasdaq-certification-arrives-ahead-of-november-19-debut
+TITLE: Anthropic IPO Moves Closer as Nasdaq Certification Arrives Ahead of November 19 Debut
+OUTLET: Coinpaper
+
+Key takeaways
+- Nasdaq certifies Anthropic's proposed ANT stock listing
+- Claude developer targets November 19 trading debut
+- Nvidia and Google support massive AI offering
+Anthropic's anticipated initial public offering has moved closer after Nasdaq submitted a formal listing certification to the Securities and Exchange Commission on November 18, marking another procedural milestone before the Claude developer's planned stock market debut.
+The company is targeting November 19 for its first trading session under the ticker ANT, with a preliminary offering price of $70–$78 per share.
+However, strong investor demand has raised expectations that the final price could exceed the indicated range.
+Nasdaq Certification Brings Anthropic Closer to Trading
+According to the November 18 SEC filing, Nasdaq submitted its formal certification concerning Anthropic's registration of securities for exchange listing.
+The document follows Anthropic's November 17 amended prospectus, which confirms that its Class A common shares have been approved for listing on the Nasdaq Global Select Market under ANT.
+The company plans to offer 825 million shares, including newly issued stock and shares sold by existing investors. At the preliminary $70–$78 price range, the offering would represent approximately $57.8 billion to $64.4 billion in gross share sales.
+That would place the transaction among the largest public offerings ever, with Anthropic's targeted valuation approaching $1.4 trillion. The deal's scale reflects the broader IPO fundraising boom, even as technology stocks face renewed valuation pressure.
+Importantly, Nasdaq certification does not establish the final offering price or guarantee that trading will begin on the scheduled date.
+Nvidia and Google Commit Billions to Anthropic IPO
+Anthropic's public offering is accompanied by a separate $26 billion private placement involving several major technology companies, including Nvidia, Google, Microsoft, AMD, Broadcom and Micron.
+Nvidia and Google have each committed approximately $10 billion, making their combined investment a significant component of the financing package. These commitments have also attracted attention amid Nvidia's recent stock rally.
+The arrangement highlights an increasingly interconnected AI industry, where infrastructure providers are also financing companies that purchase their computing products and services.
+Anthropic's growth has been substantial, although its reliance on major technology partners presents additional considerations. Earlier financial disclosures showed that Amazon and Google's cloud platforms accounted for a significant share of its sales distribution.
+These relationships could become increasingly important as investors assess whether Anthropic's revenue growth can justify its considerable infrastructure spending.
+What Happens When Anthropic Stock Begins Trading?
+Anthropic's Nasdaq debut could attract substantial institutional and retail activity, particularly given growing investor interest in artificial intelligence companies.
+Asset managers have already started preparing specialized investment products, including a proposed 2X leveraged Anthropic ETF designed to amplify the stock's daily performance.
+Potential index inclusion could eventually create another source of demand, although eligibility and timing will depend on index-provider requirements rather than the IPO alone.
+Investors will also need to consider Anthropic's governance structure. Its prospectus gives a special founder-controlled share class 50.1% of aggregate voting power on most shareholder matters, allowing founders to retain considerable influence after the listing.
+Meanwhile, the company's enormous AI infrastructure commitments remain central to questions about future profitability and valuation.

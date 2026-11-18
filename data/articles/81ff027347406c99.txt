@@ -1,0 +1,11 @@
+URL: https://www.eurekalert.org/news-releases/1152392
+TITLE: Chemical risk assessment: How can we achieve a future without animal experiments?
+OUTLET: EurekAlert!
+
+Topics at the stakeholder conference include the implementation of the roadmap, new developments in chemicals and environmental assessment, and artificial intelligence (AI) as a tool for alternative methods to animal testing.
+The roadmap sets out a series of measures designed to promote research and innovation. It also aims to support the validation (testing), standardisation and qualification of non-animal approaches, as well as to encourage cooperation both within the European Union (EU) and with third countries.
+Further development is based on a ‘three-basket’ model. Basket one contains animal-free methods that are ready for application and are to be brought into practice as a matter of urgency. Basket two contains forward-looking approaches such as organ-on-a-chip technologies or AI, where much research and development still needs to be carried out. Basket three covers domains where no alternatives are currently available. Here, the focus is on European and global cooperation to find solutions together.
+Further information on the BfR website regarding the PARC project
+https://www.bfr.bund.de/en/research/partnership-for-the-assessment-of-risk-from-chemicals-parc/
+About the BfR
+The German Federal Institute for Risk Assessment (BfR) is a scientifically independent institution within the portfolio of the German Federal Ministry of Agriculture, Food and Regional Identity (BMLEH). It protects people's health preventively in the fields of public health and veterinary public health. The BfR provides advice to the Federal Government as well as the Federal States (‘Laender’) on questions related to food, feed, chemical and product safety. The BfR conducts its own research on topics closely related to its assessment tasks.

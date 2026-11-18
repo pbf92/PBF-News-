@@ -1,0 +1,35 @@
+URL: https://www.aol.com/articles/anthropic-ipo-tomorrow-buy-ant-190502000.html
+TITLE: Anthropic’s IPO is Tomorrow. Should You Buy ANT at a $1.4 Trillion Valuation?
+OUTLET: AOL.com
+
+Key Points
+- Anthropic is set to begin trading on the Nasdaq tomorrow under the ticker ANT, with the final price expected tonight and reports suggesting it could come in above the $70 to $78 range.
+- Revenue hit $17 billion in the third quarter, up 1,127% from a year earlier, but quarter-to-quarter growth has already slowed from about 144% to about 47%, and spending commitments sit at roughly $900 billion.
+- I don’t see a real moat or what stops customers from moving to cheaper models once those are good enough, so I won’t be buying at this price.
+Anthropic (NASDAQ:ANT), the artificial intelligence (AI) lab behind Claude, is set to begin trading on the Nasdaq tomorrow, Nov. 19, under the ticker ANT. At the top of its $70 to $78 price range, the company would be valued at about $1.4 trillion. The final pricing could be even higher.
+Here's what investors should know before deciding whether to buy.
+Missed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a "Double Down" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same "Total Conviction" signal is flashing for a company 1/100th the size of Nvidia. Continue »
+How Anthropic makes money from Claude
+For the uninitiated: Anthropic is a frontier AI lab and developer of Claude, a family of large language models. The company's best are consistently some of the most advanced and powerful models on the market -- often by a considerable amount.
+The company sells access to Claude primarily through subscriptions -- users pay a set amount each month for a fixed amount of usage -- and through an application programming interface (API) -- basically a backend connection that lets a company's systems send work to Claude and get results back directly. API usage is billed more like a utility: you pay per "token" -- the basic unit of AI usage -- with no fixed cap.
+While Anthropic sells a whole lot of subscriptions to consumers, the lion's share of the company's revenue comes from enterprise customers.
+Anthropic's revenue growth and the bull case
+The bull case is pretty clear. Anthropic's growth has been nothing short of incredible. The company brought in $386 million in revenue in 2024, $4.6 billion in 2025, and then $33.2 billion in the first nine months of 2026. In the third quarter alone, revenue hit $17 billion, up 1,127% from a year earlier.
+One of the most convincing numbers is Anthropic's net revenue retention -- a measure of how much existing business customers are spending compared with a year ago. That sits at about 900%. That means the average customer decides the product is so useful they are willing to pay nine times what they were a year earlier.
+That's a great benefit of the model: Anthropic can grow without adding a single new customer if the businesses it sells to keep finding more for Claude to do.
+Anthropic stock risks: slowing growth, spending commitments, and moat concerns
+There is a lot to be skeptical about as well. First, while the revenue growth has been explosive, there is a sort of assumption that it will continue apace. But the rate of that growth is already slowing, considerably. Revenue grew about 144% from the first quarter to the second of this year, but only about 47% from the second to the third.
+There's also the basic unit economics -- essentially what it costs Anthropic to produce each dollar of revenue. While they have been improving immensely, I think it's still far from proven that over time, the company can spend less than a dollar for every dollar it makes. This is an incredibly expensive business, and while it posted a positive operating income in Q2, that reversed once again in Q3, reporting a $567 million loss.
+Advertisement
+The company has signed up for roughly $900 billion in compute and lease commitments, with about half promised before 2030.
+And finally, the biggest issue in my mind: I don't see a real moat. The company's primary advantage comes from offering the best models available. But I think over time, customers will come to find that most of their AI needs can be met with non-frontier models that cost a tiny fraction of what Anthropic's latest models cost. And with a large portion of the business being API based, the switching costs are almost non-existent. There is very little in the way of "lock-in."
+Why I won't buy Anthropic stock at this valuation
+Anthropic's growth is real. I don't want to take anything away from that. But at a $1.4 trillion valuation (or more), investors are paying about 20 times what the company would bring in over a full year at its current Q3 pace. That price only makes sense if revenue keeps climbing at something close to the current rate for years while the costs come down considerably.
+I'm skeptical it will. For many reasons, but the biggest: I don't see what stops customers from moving to cheaper models once those are good enough. I won't be buying at this price.
+Should you buy stock in Anthropic right now?
+Before you buy stock in Anthropic, consider this:
+The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Anthropic wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years.
+Consider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you’d have $321,850!* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you’d have $955,232!*
+Now, it’s worth noting Stock Advisor’s total average return is 793% — a market-crushing outperformance compared to 203% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor, and join an investing community built by individual investors for individual investors.
+*Stock Advisor returns as of November 18, 2026.
+Johnny Rice has no position in any of the stocks mentioned. The Motley Fool has no position in any of the stocks mentioned. The Motley Fool has a disclosure policy.
