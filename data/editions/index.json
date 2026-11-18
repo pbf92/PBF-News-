@@ -1,6 +1,21 @@
 {
- "latest": "2026-11-17",
+ "latest": "2026-11-18",
  "editions": [
+  {
+   "date": "2026-11-18",
+   "type": "weekday",
+   "top": [
+    "Nvidia beats and guides to $130bn, lifting Nasdaq futures; governance risks remain",
+    "Trump lands in China as Xi pushes open trade and Putin attacks sanctions",
+    "GTA VI reviews land ahead of Thursday launch: near-universal acclaim from major outlets"
+   ],
+   "status": {
+    "story": 9,
+    "quiet": 1,
+    "failed": 0
+   },
+   "updates": 0
+  },
   {
    "date": "2026-11-17",
    "type": "weekday",

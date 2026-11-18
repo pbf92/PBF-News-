@@ -1,0 +1,897 @@
+{
+ "date": "2026-11-18",
+ "type": "weekday",
+ "read_minutes": 8,
+ "before_open": [
+  {
+   "time": "7:00 AM",
+   "what": "BLS: Employer-Reported Workplace Injuries and Illnesses (annual, 2025)",
+   "detail": "Low market relevance. Listed 10:00 AM ET on the BLS calendar.",
+   "url": "https://www.bls.gov/schedule/"
+  },
+  {
+   "time": "11:00 AM",
+   "what": "FOMC minutes, 27-28 Oct meeting",
+   "detail": "2:00 PM ET per a third-party calendar (not the Fed page). Rates were held at 3.75%-4.00% with two voters preferring a quarter-point hike; watch the count of hike supporters.",
+   "url": "https://www.financecalendar.com/event/fomc-minutes-november-2026/"
+  },
+  {
+   "time": "Overnight",
+   "what": "Nvidia beat and $130bn Q4 guide lifted Nasdaq futures about 1.3% after hours",
+   "detail": "NQ 27,365 at 02:30 AM PT; resistance 27,410-27,500 and 27,609.75; support 27,260-27,320; overnight low 27,093.",
+   "url": "https://investinglive.com/stocks/nasdaq-analysis-after-the-much-anticipated-nvidia-earnings/"
+  },
+  {
+   "time": "Overnight",
+   "what": "Reuters: Nvidia stops shipping US-approved AI chips to China; WSJ reports SEC probe of Nvidia",
+   "detail": "Headline only; details not read. Trump is in China today.",
+   "url": "https://www.reuters.com/world/china/nvidia-stops-shipping-us-approved-ai-chips-china-2026-11-18/"
+  },
+  {
+   "time": "6:30 AM",
+   "what": "US cash open (RTH)",
+   "detail": "First regular session after Nvidia's report; E-mini Nasdaq-100 futures hit a 7-month low on 17 Nov per CME.",
+   "url": "https://www.cmegroup.com/videos/2026/11/17/e-mini-nasdaq-100-futures-hit-7-month-low-as-equities-slide-11-.html"
+  }
+ ],
+ "week_ahead": [],
+ "top": [
+  {
+   "headline": "Nvidia beats and guides to $130bn, lifting Nasdaq futures; governance risks remain",
+   "why": "Demand worries eased, but the rally has to survive the 6:30 AM PT cash open, with a reported SEC probe, a delayed 10-Q and the CEO search as open risks.",
+   "points": [
+    "Q3 revenue about $116bn (+103% y/y) vs about $109bn expected; Q4 guided to $130bn plus or minus 3% vs about $125bn expected",
+    "NQ peaked at 27,609.75 after the report, fell to 27,093, then recovered to 27,365 by 02:30 AM PT; Nvidia about +3.4% pre-market",
+    "Board will not reinstate Huang; Heidrick & Struggles hired; WSJ reports an SEC probe; Bessent wants board answers within 10 days",
+    "10-Q not yet filed with results; due by early December"
+   ],
+   "next": "US cash open 6:30 AM PT today; 10-Q due early December; Bessent's 10-day deadline (about 27 Nov).",
+   "confidence": "reported",
+   "impact": "high",
+   "thread": {
+    "id": "nvidia-earnings-nov",
+    "name": "Nvidia earnings 17 Nov",
+    "status": "changed",
+    "day": 4
+   },
+   "sources": [
+    {
+     "name": "investingLive",
+     "url": "https://investinglive.com/stocks/back-to-the-future-nvidia-earnings-forecast-lifts-nasdaq-futures-1-3/"
+    },
+    {
+     "name": "investingLive",
+     "url": "https://investinglive.com/stocks/nasdaq-analysis-after-the-much-anticipated-nvidia-earnings/"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/business/view-nvidia-earnings-beat-estimates-attention-turns-call-2026-11-17/"
+    }
+   ],
+   "desk": "world"
+  },
+  {
+   "headline": "Trump lands in China as Xi pushes open trade and Putin attacks sanctions",
+   "why": "Any trade or chip-export signal from Trump-Xi talks feeds straight into tariff expectations and Nasdaq. Putin's presence at the same summit adds a Russia angle.",
+   "points": [
+    "AP, 18 Nov: Trump arrives in China; Xi says Asia-Pacific needs open trade",
+    "Putin condemned sanctions at the same event, per AP",
+    "AP describes Trump as betting on 'unscripted diplomacy' with Xi and Putin",
+    "Reuters, 18 Nov: Nvidia has stopped shipping US-approved AI chips to China"
+   ],
+   "next": "Trump-Xi talks during the China visit; no dated outcome yet in sources.",
+   "confidence": "reported",
+   "region": "Global",
+   "impact": "high",
+   "thread": {
+    "id": "trump-asia-trip",
+    "name": "Trump Asia trip",
+    "status": "changed",
+    "day": 2
+   },
+   "sources": [
+    {
+     "name": "AP News",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaDAtWFFGbDFuZ1pfbzdfUHUyYmM5QktTRkR5WndiUXpoenF6cE9VbGQ4ZE84MzY0czJoZFE3cWJXYm81ZDZtUlJzZU5sS3lueWFVV2ZBT2NtVXlkTVJ4N0NUXzhkaXRxUWRVRldGRUFTMERMcXVYcGtaWFI2bnFfY3U0YUFlenRnajRaZ2hOc3h3OFcteFYySg?oc=5"
+    },
+    {
+     "name": "AP News",
+     "url": "https://apnews.com/article/trump-xi-marcos-apec-china-philippines-3fc8110f4b4414bfb2c03596f61da862"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/china/nvidia-stops-shipping-us-approved-ai-chips-china-2026-11-18/"
+    }
+   ],
+   "desk": "world"
+  },
+  {
+   "headline": "GTA VI reviews land ahead of Thursday launch: near-universal acclaim from major outlets",
+   "why": "The embargo has lifted and early scores and write-ups from IGN, Guardian, VGC and others are strongly positive, which supports the launch and Game of the Year narrative.",
+   "points": [
+    "IGN calls it 'one of the most impressive games ever made' after 100+ hours; VGC calls it 'the game of the generation'.",
+    "The Guardian praises the detailed world and the Jason and Lucia love story; VICE calls it Rockstar's 'magnum opus'.",
+    "Critics single out the open world and story; reviews are from outlets given early access, so treat as critic opinion, not player reception.",
+    "GTA VI leads The Game Awards 2026 nominations, including Game of the Year (outlets differ on the exact count)."
+   ],
+   "next": "Launch on PS5 and Xbox Series X|S on Thu 19 Nov; The Game Awards on Thu 10 Dec (voting until 9 Dec, 6 PM PT).",
+   "confidence": "confirmed",
+   "impact": "high",
+   "thread": {
+    "id": "gta6-launch",
+    "name": "GTA VI launch",
+    "status": "changed",
+    "day": 24
+   },
+   "sources": [
+    {
+     "name": "IGN",
+     "url": "https://www.ign.com/articles/grand-theft-auto-vi-review"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/games/2026/nov/18/grand-theft-auto-vi-gta-6-review-playstation-rockstar"
+    },
+    {
+     "name": "VGC",
+     "url": "https://www.videogameschronicle.com/review/grand-theft-auto-6/"
+    },
+    {
+     "name": "VICE",
+     "url": "https://www.vice.com/en/article/gta-6-review/"
+    },
+    {
+     "name": "Billboard",
+     "url": "https://www.billboard.com/music/awards/2026-game-awards-nominations-list-grand-theft-auto-vi-1236384541/"
+    }
+   ],
+   "desk": "gaming"
+  }
+ ],
+ "desks": [
+  {
+   "id": "united",
+   "name": "Manchester United & Football",
+   "status": "story",
+   "note": "",
+   "stories": [
+    {
+     "headline": "Pochettino lands in Manchester as United boss; first match is Liverpool away on Sunday",
+     "why": "The handover is complete: Pochettino has left the USMNT after a final win and starts at Carrington today, with a Liverpool trip as his first test.",
+     "points": [
+      "Pochettino's last USMNT game was a 2-0 win over Haiti on 17 Nov (8-0 on aggregate) in the Concacaf Nations League quarter-finals.",
+      "He flew by private jet straight to Manchester, landing around midday on Wednesday 18 Nov, and is expected at Carrington immediately.",
+      "On Manchester being 'blue': 'You will see. Give me time.' He signalled fitness and work rate as a priority.",
+      "FotMob/Opta data cited by SI has United 19th in the Premier League for total distance (112.5 km) and high-speed running this season."
+     ],
+     "next": "Liverpool v Man United, Sunday 22 Nov (first game in charge, per Yahoo Sports).",
+     "confidence": "confirmed",
+     "impact": "high",
+     "thread": {
+      "id": "pochettino-era",
+      "name": "Pochettino era begins",
+      "status": "changed",
+      "day": 6
+     },
+     "sources": [
+      {
+       "name": "Sports Business Journal",
+       "url": "https://www.sportsbusinessjournal.com/Articles/2026/11/18/pochettino-leaves-usmnt-with-a-victory-in-rare-positive-send-off/"
+      },
+      {
+       "name": "Sports Illustrated",
+       "url": "https://www.si.com/soccer/mauricio-pochettino-arrives-man-utd-with-message-man-city"
+      },
+      {
+       "name": "Yahoo Sports",
+       "url": "https://sports.yahoo.com/articles/pictured-mauricio-pochettino-arrives-airport-123338937.html"
+      },
+      {
+       "name": "Manchester United official",
+       "url": "https://www.manutd.com/en/news/mauricio-pochettino-signs-off-from-usa-with-victory"
+      }
+     ],
+     "desk": "united"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "name": "World Affairs & Politics",
+   "status": "story",
+   "note": "Several Reuters/AP items rest on headlines only (article pages could not be opened), so they are marked reported.",
+   "stories": [
+    {
+     "headline": "US outages and air-travel ground stop: cause still unknown as Congress presses officials",
+     "why": "A nationwide aviation shutdown with no identified root cause is a continuing political and operational story, and the cyber-attack question is still open.",
+     "points": [
+      "Reuters, 17 Nov: Transport Secretary Duffy says the root cause of the aviation shutdown is not yet determined",
+      "AP, 17 Nov: FAA temporarily stops router installations connected to the air-travel stoppage",
+      "AP, 18 Nov: Rubio says there is 'zero' information that outages are linked or caused by a malign actor",
+      "AP, 18 Nov: Mullin goes to Congress today to face questions on flight disruptions, a football trip and immigration"
+     ],
+     "next": "Mullin's congressional questioning today, 18 Nov.",
+     "confidence": "reported",
+     "region": "US",
+     "impact": "medium",
+     "thread": {
+      "id": "us-outages-ground-stop",
+      "name": "US outages and ground stop",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Reuters",
+       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWXRMSHA4bzJZN2d4aDhraDgyZVJDSkZ3alhjeTZVZGx3WWwza1BxYm4zWTBQdmJsVndNM3Fic1NxQmFhZ2NHZXJXQTBkS0FqTGdNVDhDVEFOaEhDZEZCVkpnb2VqbkhlQTd0a0Jkb0pQX25td1hJeDNYQU9qdk5EMXpkM1A4dk1kbFNBYW50WmJEczZMaDJJc0hfT0tWYVhUR2RCN1lLYm4xN2RqYlUwTm9DckRGVXVpLUE?oc=5"
+      },
+      {
+       "name": "AP News",
+       "url": "https://apnews.com/article/nationwide-ground-stop-trump-air-travel-faa-a638c9651f1fabe8f95d20353779ee5b"
+      },
+      {
+       "name": "AP News",
+       "url": "https://apnews.com/article/trump-conservatives-maga-internet-outages-ec4d88860b54e280c6e6c19dce7899ae"
+      },
+      {
+       "name": "AP News",
+       "url": "https://apnews.com/article/mullin-congress-ground-stop-cyber-threats-immigration-ce63a22797c61ee53d88678000236c37"
+      }
+     ],
+     "desk": "world"
+    },
+    {
+     "headline": "Democrats flip 9 Senate seats, most in almost 70 years; Peltola beats Sullivan in Alaska",
+     "why": "Reshapes the Senate balance and puts pressure on Democratic leadership, with Schumer facing a Van Hollen challenge.",
+     "points": [
+      "AP, 18 Nov: Democrats flipped 9 US Senate seats, the most in almost 70 years",
+      "AP called Alaska for Democrat Mary Peltola over incumbent Republican Dan Sullivan",
+      "AP, 17 Nov: Van Hollen's bid to replace Schumer as leader is pressing Democrats to take sides",
+      "Earlier thread note: secret ballot for leader expected in December"
+     ],
+     "next": "Democratic leadership secret ballot, expected December (date not yet in sources).",
+     "confidence": "reported",
+     "region": "US",
+     "impact": "high",
+     "thread": {
+      "id": "senate-leadership",
+      "name": "Schumer leadership challenge",
+      "status": "changed",
+      "day": 6
+     },
+     "sources": [
+      {
+       "name": "AP News",
+       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTkVLZlFfMk1SeWVQNGxXcHhCZjJ5M3pKUm4tQWxkbHQyaHJRbGZ3dlpyNkZYRnIxczFMdm85LW01UWQtckpmeUs4NTl5OXcybnlvUVZYUmY2VDZYcVZEM2xVUUphMFlyRXlhSlRrYjNmRFc5TXkyaElqczBQLVRkZFJaMm5mOFoyT3N4RTEwUjA?oc=5"
+      },
+      {
+       "name": "AP News",
+       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVkFROVltMWlvNVFIRVN4MTZTb1lWM04xUGRtM05odzZYUk9zNWxxZnVKZlluYnVfeG5PX3lYOTZTejdVSEIzS3A5b291STRFeW1seWM1cWJKU2ZoNm1kSHp3MW1Pa1p1bV9ZY2NNZEgyNzhGRnlKa1pMNXFOR3k2bThMWXk5ZHdYTmlrb1RDS19OWVZ2dU9wRDN4dmd1SWpF?oc=5"
+      },
+      {
+       "name": "AP News",
+       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOVhlS2ZMY2tvQ25UY3FfUWU5YjhEb0FKMVQwY1g3TW0zLS1jb19tWXhJY3hTR2YxQkdQUmFNVVljcmNPdjRVYWtXeS1GLTZFUk5tZXdNeDdhbGVmem5Kc3BiMWVqTFg4TDN5UlBjZXUzbE56TllSdS1GdkZkSU90NEtkZVRJUEdiamlOaG1BOE1lWlh4LUFzYmh6TQ?oc=5"
+      }
+     ],
+     "desk": "world"
+    },
+    {
+     "headline": "EU proposes €45bn Ukraine loan for 2027, repayable only after Russia pays reparations",
+     "why": "Shows Europe planning Ukraine funding into 2027 even as talks remain unsettled; the repay-after-reparations design ties the loan to Russia's liability.",
+     "points": [
+      "Reuters, 18 Nov: EU proposes a new €45 billion loan to Ukraine for 2027",
+      "To be repaid only after Russia pays reparations, per the headline",
+      "Thread context: trilateral-meeting idea still unsettled and escalation on both sides (17 Nov)"
+     ],
+     "next": "Member-state response to the proposal; no date in sources.",
+     "confidence": "reported",
+     "region": "Global",
+     "impact": "medium",
+     "thread": {
+      "id": "ukraine-talks",
+      "name": "Russia–Ukraine talks",
+      "status": "changed",
+      "day": 8
+     },
+     "sources": [
+      {
+       "name": "Reuters",
+       "url": "https://www.reuters.com/world/eu-proposes-new-45-billion-loan-ukraine-2027-be-repaid-by-russia-2026-11-18/"
+      }
+     ],
+     "desk": "world"
+    },
+    {
+     "headline": "UK inflation edges up to 3.6% in October on record fuel costs",
+     "why": "Inflation moving away from target keeps pressure on the Bank of England, which is at 4% and sees CPI near 5% by mid-2027.",
+     "points": [
+      "ONS, 18 Nov: CPI 3.6% in October, up from 3.5% in September; +0.5% on the month",
+      "Motor fuels up 33.2% on the year, the largest annual rise since July 2022",
+      "Services inflation 3.7%; goods inflation 3.5%, highest since September 2023",
+      "CPIH 3.7% (from 3.6%); core CPI 2.8%"
+     ],
+     "next": "Next Bank of England decision (date not in sources).",
+     "confidence": "official data",
+     "region": "UK",
+     "impact": "medium",
+     "thread": {
+      "id": "uk-economy",
+      "name": "UK growth vs inflation",
+      "status": "changed",
+      "day": 7
+     },
+     "sources": [
+      {
+       "name": "ONS",
+       "url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/october2026"
+      }
+     ],
+     "desk": "world"
+    },
+    {
+     "headline": "Australian wages grow 1.1% in the quarter, the strongest since late 2023",
+     "why": "Firmer wage growth adds to the case the RBA has been tightening on (cash rate 4.85% after five rises this year).",
+     "points": [
+      "ABS, 18 Nov: Wage Price Index +1.1% in September quarter 2026, +3.5% annually",
+      "Annual growth was 3.4% a year earlier; peak was 4.3% in late 2023",
+      "Private sector +3.4% y/y; public sector +3.9% y/y",
+      "ABS cites the Fair Work Commission's 4.75% award rise as a key driver"
+     ],
+     "next": "Next RBA decision (date not in sources).",
+     "confidence": "official data",
+     "region": "AU",
+     "impact": "medium",
+     "thread": {
+      "id": "rba-rates",
+      "name": "RBA tightening",
+      "status": "changed",
+      "day": 15
+     },
+     "sources": [
+      {
+       "name": "ABS",
+       "url": "https://www.abs.gov.au/media-centre/media-releases/highest-quarterly-wage-growth-december-quarter-2023"
+      }
+     ],
+     "desk": "world"
+    }
+   ]
+  },
+  {
+   "id": "prop",
+   "name": "Futures & Prop Firms",
+   "status": "quiet",
+   "note": "No watchlist-firm announcements in the feed; a Topstep search found only third-party explainers, nothing new from Topstep. Unconfirmed: Topstep November rule changes and country restrictions still rest on third-party trackers. ASIC AI-enforcement and NZ FMA items are regulator news for CFD/forex brokers, not prop firms.",
+   "stories": []
+  },
+  {
+   "id": "tradetech",
+   "name": "Trading Technology",
+   "status": "story",
+   "note": "",
+   "stories": [
+    {
+     "headline": "TradingView adds tick-based Footprint, Volume Delta and CVD on the Ultimate plan",
+     "why": "Delta and CVD classified from real trade data rather than candle direction should be more trustworthy for futures order-flow work. It is gated to Ultimate, so check whether the cost is worth it for you.",
+     "points": [
+      "TradingView blog post dated 13 Nov (updated 17 Nov); feature is off by default and available on the Ultimate plan.",
+      "Trades are classified by exchange aggressor side first, then bid/ask comparison, then tick movement.",
+      "Aggressor data covers CME, CBOT, NYMEX, COMEX and EUREX futures plus major crypto venues.",
+      "Limits: timeframes up to 1D, up to 3 million ticks; incomplete data shows a warning or an error."
+     ],
+     "next": "No dated catalyst; watch TradingView release notes for wider plan availability.",
+     "confidence": "confirmed",
+     "impact": "medium",
+     "thread": {
+      "id": "tv-tick-orderflow",
+      "name": "TradingView tick-based order flow",
+      "status": "changed",
+      "day": 4
+     },
+     "sources": [
+      {
+       "name": "TradingView Blog",
+       "url": "https://www.tradingview.com/blog/en/tick-based-calculations-footprint-volume-delta-cvd-62523/"
+      }
+     ],
+     "desk": "tradetech"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "name": "Artificial Intelligence",
+   "status": "story",
+   "note": "",
+   "stories": [
+    {
+     "headline": "OpenAI launches GPT-6.2 Astra and Sol, undercutting Claude on price on Anthropic's IPO eve",
+     "why": "Frontier agent pricing is dropping fast, and OpenAI's own cost-per-task claim against Claude Fable 5.2 lands just as Anthropic goes public. Independent testing shows a smaller gap than the headline.",
+     "points": [
+      "Launched 17-18 Nov: Astra API price $8/$40 per million tokens (down 20%); Sol stays at $2/$10.",
+      "OpenAI claim: 78.3% on Agents' Last Exam at about $2.89 per task vs $60.05 for Claude Fable 5.2 (company benchmark, specified configuration; OpenAI notes 9 Fable tasks excluded).",
+      "Artificial Analysis Intelligence Index: Astra 62, Fable 5.2 65, Sol 57; Decrypt reports no gain in coding-agent performance.",
+      "Astra is OpenAI's first public model rated High for AI self-improvement; both models meet its Critical cyber threshold."
+     ],
+     "next": "Anthropic IPO trading begins Thu 19 Nov; watch for a Claude price response.",
+     "confidence": "reported",
+     "impact": "high",
+     "thread": {
+      "id": "openai-gpt-6-2",
+      "name": "OpenAI GPT-6.2 launch",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Decrypt",
+       "url": "https://decrypt.co/383488/openai-gpt-6-2-astra-challenges-anthropic-price-but-not-every-benchmark"
+      },
+      {
+       "name": "36Kr",
+       "url": "https://eu.36kr.com/en/p/4074370835977092"
+      }
+     ],
+     "desk": "ai"
+    },
+    {
+     "headline": "Anthropic IPO prices today, may top $80 a share; Nasdaq trading starts Thursday",
+     "why": "The biggest AI listing so far is a test of AI-bubble nerves after a sharp slide in Nvidia and other AI stocks. Strong demand versus a spooked market is the thing to watch.",
+     "points": [
+      "Ticker ANT on Nasdaq; pricing expected 18 Nov ET, trading 19 Nov. Range $70-$78, WSJ-sourced reports say above $80.",
+      "Order book reported near 7x oversubscribed; valuation talk $1.5-1.6 trillion; raise targeted above $60bn (AP via SFist).",
+      "Claude run-rate revenue about $81bn against $900.9bn of compute commitments (TradingKey, from filings).",
+      "Amazon and Google to own nearly 30% post-IPO (TechCrunch); Nvidia reportedly buying $10bn of stock (AP via SFist)."
+     ],
+     "next": "Final pricing 18 Nov; first trade Thu 19 Nov.",
+     "confidence": "reported",
+     "impact": "high",
+     "thread": {
+      "id": "anthropic-ipo",
+      "name": "Anthropic IPO",
+      "status": "changed",
+      "day": 4
+     },
+     "sources": [
+      {
+       "name": "TradingKey",
+       "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262310789-anthropic-ipo-set-nov-19-what-investors-know-ahead-nasdaq-debut-tradingkey"
+      },
+      {
+       "name": "SFist",
+       "url": "https://sfist.com/2026/11/17/anthropic-is-pressing-on-with-thursday-ipo-despite-a-spooked-market/"
+      },
+      {
+       "name": "CBS News",
+       "url": "https://www.cbsnews.com/news/anthropic-ipo-ai-boom-nasdaq-debut/"
+      }
+     ],
+     "desk": "ai"
+    },
+    {
+     "headline": "Anthropic opens Linked billing beta so app customers can pay for their own Claude usage",
+     "why": "If you build on the Claude API, you can now pass usage costs to the end customer per request instead of absorbing them. It makes resale and SaaS pricing simpler.",
+     "points": [
+      "Beta launched 17 Nov; per request, bill_to: \"user_profile\" charges the linked customer, \"self\" charges the developer.",
+      "Execution stays in the developer's org, so the developer's rate limits and model access still apply.",
+      "Not supported for Message Batches or billable code execution; marketplace and subscription-billed orgs cannot be charged.",
+      "Harness and Tessera announced integrations the same day."
+     ],
+     "next": "Beta; no GA date given.",
+     "confidence": "reported",
+     "impact": "low",
+     "thread": {
+      "id": "claude-linked-billing",
+      "name": "Claude linked billing",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Unite.AI",
+       "url": "https://www.unite.ai/anthropic-launches-linked-billing-beta-for-claude-api-apps/"
+      }
+     ],
+     "desk": "ai"
+    }
+   ]
+  },
+  {
+   "id": "business",
+   "name": "Business & E-commerce",
+   "status": "story",
+   "note": "",
+   "stories": [
+    {
+     "headline": "Instagram adds Amazon affiliate links to Reels and posts with no platform cut",
+     "why": "Creator-led product discovery now sits inside Instagram with a frictionless Amazon path, which helps affiliate-style content but may pull Meta ad budgets towards its own commerce funnel. DTC brands competing with Amazon listings should expect more creator links.",
+     "points": [
+      "Creators link Amazon Influencer accounts and add affiliate links to Reels, feed posts and carousels.",
+      "Amazon still handles checkout; Instagram takes no commission.",
+      "Trade commentary says purchase attribution gives Meta better ad-targeting signal (opinion of agency founders).",
+      "Reported 17 Nov; no rollout schedule seen."
+     ],
+     "next": "No date; watch for rollout and Meta shopping ad changes.",
+     "confidence": "reported",
+     "impact": "medium",
+     "thread": {
+      "id": "instagram-amazon-affiliate",
+      "name": "Instagram Amazon affiliate links",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Storyboard18",
+       "url": "https://www.storyboard18.com/influencer-marketing/instagrams-amazon-play-could-reshape-creator-commerce-as-meta-eyes-a-bigger-share-of-advertising-budgets-114979.htm"
+      }
+     ],
+     "desk": "business"
+    },
+    {
+     "headline": "Meta to remove placement, platform and device exclusions from ad sets",
+     "why": "Advertisers lose a basic brand-safety and efficiency lever; value rules become the workaround. Check which exclusions your campaigns rely on.",
+     "points": [
+      "Meta is notifying advertisers it will remove the Placements option and exclusions by platform, device and OS (per Jon Loomer analysis via TechJuice).",
+      "No effective date announced.",
+      "Loomer's view: you can still solve placement problems using value rules.",
+      "Separately, one Meta ad can now carry up to 5 existing posts, with Meta picking per person (PPC Land, from an agency LinkedIn post; no Meta announcement cited)."
+     ],
+     "next": "Effective date not announced.",
+     "confidence": "reported",
+     "impact": "medium",
+     "thread": {
+      "id": "meta-ad-controls",
+      "name": "Meta ad controls removal",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "TechJuice",
+       "url": "https://www.techjuice.pk/meta-removes-placement-exclusions-ads-manager/"
+      },
+      {
+       "name": "PPC Land",
+       "url": "https://ppc.land/one-meta-ad-can-now-carry-up-to-5-existing-posts/"
+      }
+     ],
+     "desk": "business"
+    },
+    {
+     "headline": "Field test: Google AI Mode cut clicks to websites by 18.8 points",
+     "why": "Two randomised studies now point to fewer outbound clicks from Google's AI search, a risk to organic traffic for DTC and content sites ahead of Q4.",
+     "points": [
+      "Preregistered experiment, 1,100 US users, one week in March 2026 (Penn and Northeastern; arXiv preprint, not peer reviewed).",
+      "AI Mode users clicked out 18.8 points less than standard Search and used Bing, DuckDuckGo and Yahoo more.",
+      "Limits: young, left-leaning sample; AI Overviews-removal estimate (+8.8 points) relies on a post-hoc adjustment."
+     ],
+     "next": "None scheduled.",
+     "confidence": "reported",
+     "impact": "low",
+     "thread": {
+      "id": "ai-search-clicks",
+      "name": "AI search and publisher clicks",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "PPC Land",
+       "url": "https://ppc.land/googles-ai-mode-cuts-clicks-to-websites-by-18-8-points-field-test-finds/"
+      }
+     ],
+     "desk": "business"
+    }
+   ]
+  },
+  {
+   "id": "faith",
+   "name": "Christianity & Theology",
+   "status": "story",
+   "note": "",
+   "stories": [
+    {
+     "headline": "Six arrested digging a 9m ancient cistern at Horvat Adash, a Second Temple-era site",
+     "why": "Looting of Judean sites destroys the stratigraphic context that biblical archaeology depends on. The IAA says social-media treasure stories are driving it.",
+     "points": [
+      "IAA announced the arrests on 18 Nov; the group was caught last weekend in the Judean Hills digging in a cistern about 9m deep, while others sat by a bonfire as cover.",
+      "They had a generator, electric jackhammer, drilling gear and a ladder; ancient plaster layers were broken through.",
+      "Inspectors found hundreds of pottery fragments, stone vessels and part of an animal-shaped vessel dated to the Early Muslim period (7th-10th centuries).",
+      "Horvat Adash has remains from the Second Temple period to the early Muslim period; the offence carries up to five years in prison and prosecutors will decide on indictment."
+     ],
+     "next": "Prosecutors to decide on indictments once the police investigation ends (no date given).",
+     "confidence": "confirmed",
+     "impact": "low",
+     "thread": {
+      "id": "horvat-adash-looting",
+      "name": "Horvat Adash antiquities looting",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "JNS (citing IAA)",
+       "url": "https://www.jns.org/news/israel-news/6-suspects-arrested-while-allegedly-excavating-ancient-cistern-in-judean-hills"
+      },
+      {
+       "name": "i24NEWS (citing IAA)",
+       "url": "https://www.i24news.tv/en/news/israel/archeology/artc-six-suspects-caught-digging-into-ancient-water-pit-at-horvat-adash-posed-as-picnickers-beside-bonfire"
+      }
+     ],
+     "desk": "faith"
+    },
+    {
+     "headline": "YouVersion founder shelved a Bible-app chatbot over 'spiritual authority' fears",
+     "why": "A major Bible-app maker is publicly declining to make AI a spiritual guide, a useful marker for how AI and scripture are meeting.",
+     "points": [
+      "Bobby Gruenewald told Christianity Today that people treat AI as a trusted 'oracle' and lose sight that it could be wrong.",
+      "YouVersion dropped a prototype with a chatbot, fearing it would be seen as a spiritual authority.",
+      "He flagged crisis situations such as suicidal thoughts, where people should be directed to human support.",
+      "He also fears subtle drift in Bible translations over a generation; he says he is not 'anti AI'."
+     ],
+     "next": "No dated catalyst.",
+     "confidence": "reported",
+     "impact": "low",
+     "thread": {
+      "id": "youversion-ai-oracle",
+      "name": "YouVersion and AI guidance",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Premier Christian News (citing Christianity Today)",
+       "url": "https://premierchristian.news/us/news/article/don-t-treat-ai-as-a-trusted-oracle-says-youversion-founder"
+      }
+     ],
+     "desk": "faith"
+    },
+    {
+     "headline": "Pope Leo in Peru: nations have done 'very little' since the 2019 Amazon synod",
+     "why": "Continues the Peru trip thread; adds an environmental theme to the earlier word on celibacy and unity.",
+     "points": [
+      "RNS reports Leo mourned that 'very little has been done' seven years on from the 2019 Vatican Amazon gathering.",
+      "Climate change and its impact on the most vulnerable was a recurring theme of the trip, the first papal trip since that synod.",
+      "Detail comes from RNS summary only; full text not read."
+     ],
+     "next": "Remaining Peru trip events; no dated item in sources.",
+     "confidence": "reported",
+     "impact": "medium",
+     "thread": {
+      "id": "pope-leo-peru-trip",
+      "name": "Pope Leo's Peru trip",
+      "status": "changed",
+      "day": 3
+     },
+     "sources": [
+      {
+       "name": "Religion News Service",
+       "url": "https://religionnews.com/2026/11/17/seven-years-after-the-vaticans-amazon-synod-pope-leo-mourned-very-little-has-been-done/"
+      }
+     ],
+     "desk": "faith"
+    }
+   ]
+  },
+  {
+   "id": "health",
+   "name": "Health & Wellness",
+   "status": "story",
+   "note": "",
+   "stories": [
+    {
+     "headline": "Retatrutide NEJM sleep apnea trials: placebo-adjusted gain about 24 events per hour",
+     "why": "The peer-reviewed numbers are more modest than Lilly's headline 60.6%, which did not say whether it was placebo-adjusted. The drug is unapproved and trials were Lilly-funded.",
+     "points": [
+      "Non-diabetic trial (n=243): 51.6% on 9mg reached mild or no apnea at 80 weeks vs 12.5% placebo.",
+      "About 34 fewer events per hour on drug, about 10 on placebo, so roughly 24 net.",
+      "Diabetes trial (n=448): 39.5% on 9mg reached mild or no disease vs 12.6%; net reduction about 14-15 per hour.",
+      "Not approved for any use; not shown to replace CPAP."
+     ],
+     "next": "Regulatory timeline not confirmed in the source.",
+     "confidence": "reported",
+     "grade": "B",
+     "study": "Two phase 3 RCTs reported in NEJM, n=243 and n=448, adults with obesity and moderate-to-severe OSA; sponsor-funded, 80 weeks, secondary report via Medical Daily/Healio",
+     "impact": "medium",
+     "thread": {
+      "id": "retatrutide-sleep-apnea",
+      "name": "Retatrutide sleep apnea trials",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Medical Daily",
+       "url": "https://www.medicaldaily.com/retatrutide-apnee-sommeil-essais-nejm-481363"
+      }
+     ],
+     "desk": "health"
+    },
+    {
+     "headline": "Stopping GLP-1 drugs linked to about double the heart events in Italian diabetes cohort",
+     "why": "Relevant to anyone on or considering GLP-1s: stopping may carry cardiovascular cost, though this is observational and confounding is likely.",
+     "points": [
+      "Lancet Regional Health Europe cohort: 301 Italian diabetes clinics, 2004-2024, matched groups of 28,713 each.",
+      "Heart attack, stroke or death: 3.94 vs 1.96 per 100 person-years after stopping vs staying on.",
+      "All-cause deaths: 2.23 vs 0.48 per 100 person-years; weight regain and glycaemic change were modest.",
+      "Type 2 diabetes only, no prior CV event; tirzepatide not included; unmeasured health factors may explain mortality."
+     ],
+     "next": "No dated catalyst.",
+     "confidence": "reported",
+     "grade": "C",
+     "study": "Retrospective cohort, 57,426 matched adults with type 2 diabetes in Italy; key limitation: observational, confounding by illness and reasons for stopping",
+     "impact": "medium",
+     "thread": {
+      "id": "glp1-discontinuation-heart",
+      "name": "GLP-1 discontinuation and heart risk",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "News-Medical",
+       "url": "https://www.news-medical.net/news/20261117/What-happens-to-heart-health-when-you-stop-taking-GLP-1-drugs.aspx"
+      }
+     ],
+     "desk": "health"
+    },
+    {
+     "headline": "Nature study backs Lancet 'clinical obesity' framework over BMI alone in 840,000 adults",
+     "why": "Supports moving from BMI to organ-function-based diagnosis, and suggests many with excess fat but no organ impairment rarely progress.",
+     "points": [
+      "Four cohorts (China, Britain, US, Spain), over 840,000 adults.",
+      "BMI underestimated obesity in 5.2-8.6% of people and overestimated in 1.2-3.1%.",
+      "77-91% of preclinical obesity cases did not progress to clinical obesity over 10+ years in three cohorts.",
+      "Mortality risk rose 19% for preclinical and 69% for clinical obesity versus neither."
+     ],
+     "next": "No dated catalyst.",
+     "confidence": "reported",
+     "grade": "B",
+     "study": "Multi-cohort observational validation, 840,000+ adults; limitation: observational, based on press summary via Xinhua, not the paper",
+     "impact": "medium",
+     "thread": {
+      "id": "obesity-beyond-bmi",
+      "name": "Obesity diagnosis beyond BMI",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Xinhua via Big News Network",
+       "url": "https://www.bignewsnetwork.com/news/279440596/new-study-validates-global-clinical-obesity-standards-beyond-bmi"
+      }
+     ],
+     "desk": "health"
+    }
+   ]
+  },
+  {
+   "id": "gaming",
+   "name": "Gaming & PlayStation",
+   "status": "story",
+   "note": "",
+   "stories": [
+    {
+     "headline": "GTA VI launch-day strain: 212 GB download, ISP congestion warnings, PC only rumoured for Q1 2027",
+     "why": "If you are playing Thursday, expect network and server hiccups; PC players have no confirmed date.",
+     "points": [
+      "Preloads opened 10 Nov for the 212 GB game; some ISPs said traffic spikes congested their networks (Polygon).",
+      "Rockstar staggered patches before launch to spread server load; Polygon expects day-one network problems are likely.",
+      "Rockstar has confirmed no PC version at launch; a GamesBeat report (anonymous sources) points to Q1 2027, which is unconfirmed.",
+      "The game unlocks at local midnight on 19 Nov, so New Zealand players start first."
+     ],
+     "next": "Unlock from local midnight 19 Nov (PT evening of 18 Nov for early time zones).",
+     "confidence": "reported",
+     "impact": "medium",
+     "thread": {
+      "id": "gta6-launch",
+      "name": "GTA VI launch",
+      "status": "changed",
+      "day": 24
+     },
+     "sources": [
+      {
+       "name": "Polygon",
+       "url": "https://www.polygon.com/gta-6-release-apple-down-outages-microsoft-chase-bank-issues/"
+      },
+      {
+       "name": "Mashable",
+       "url": "https://mashable.com/entertainment/gta-6-pc-launch-date"
+      }
+     ],
+     "desk": "gaming"
+    }
+   ]
+  },
+  {
+   "id": "expand",
+   "name": "Expand My World",
+   "status": "story",
+   "note": "",
+   "stories": [
+    {
+     "headline": "Voyager 1 reaches one light-day from Earth on 18 Nov",
+     "why": "A human-made object's signal now takes a full 24 hours to arrive, a vivid scale marker for a 49-year-old probe that is still returning interstellar data.",
+     "points": [
+      "Nature says Voyager 1 reaches 25.9 billion km at 5:16 a.m. EST on 18 Nov, farther than any human-made object.",
+      "Launched in 1977, it left the heliosphere in 2012 and Voyager 2 followed six years later.",
+      "Instruments are being switched off to conserve plutonium power; Voyager 1 is expected to lose communications in 2029, Voyager 2 in 2031.",
+      "Still the only direct measurements of interstellar space, showing solar particle storms reach far further than expected."
+     ],
+     "next": "Voyager 1 comms expected to end around 2029.",
+     "confidence": "confirmed",
+     "impact": "low",
+     "thread": {
+      "id": "voyager-1-light-day",
+      "name": "Voyager 1 one light-day",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Nature News",
+       "url": "https://www.nature.com/articles/d41586-026-03672-1"
+      }
+     ],
+     "desk": "expand"
+    }
+   ]
+  }
+ ],
+ "watching": [
+  {
+   "thread": "gulf-tension",
+   "line": "Bahrain says its air defences intercepted further Iranian attacks late on 17 Nov; no new US response reported this morning."
+  },
+  {
+   "thread": "fed-december",
+   "line": "FOMC minutes at 11:00 AM PT today; the count of October hike supporters is the key read with a December hike priced."
+  },
+  {
+   "thread": "baleba-injury",
+   "line": "ESPN reports a long hamstring absence; no club confirmation yet. Treat as reported."
+  },
+  {
+   "thread": "topstep-nov-2026-rules",
+   "line": "Still no official Topstep confirmation of the November rule changes; check the help centre before relying on them."
+  },
+  {
+   "thread": "meta-semantic-ads",
+   "line": "Meta's updated ad and commerce terms (due 20 Nov) remain paused; no new date seen."
+  }
+ ],
+ "close_threads": [],
+ "expand": {
+  "headline": "Voyager 1 reaches one light-day from Earth on 18 Nov",
+  "why": "A human-made object's signal now takes a full 24 hours to arrive, a vivid scale marker for a 49-year-old probe that is still returning interstellar data.",
+  "points": [
+   "Nature says Voyager 1 reaches 25.9 billion km at 5:16 a.m. EST on 18 Nov, farther than any human-made object.",
+   "Launched in 1977, it left the heliosphere in 2012 and Voyager 2 followed six years later.",
+   "Instruments are being switched off to conserve plutonium power; Voyager 1 is expected to lose communications in 2029, Voyager 2 in 2031.",
+   "Still the only direct measurements of interstellar space, showing solar particle storms reach far further than expected."
+  ],
+  "next": "Voyager 1 comms expected to end around 2029.",
+  "confidence": "confirmed",
+  "impact": "low",
+  "thread": {
+   "id": "voyager-1-light-day",
+   "name": "Voyager 1 one light-day",
+   "status": "new"
+  },
+  "sources": [
+   {
+    "name": "Nature News",
+    "url": "https://www.nature.com/articles/d41586-026-03672-1"
+   }
+  ],
+  "desk": "expand"
+ },
+ "generated_at": "2026-11-18T13:33:55Z",
+ "updates": [],
+ "status": {
+  "story": 9,
+  "quiet": 1,
+  "failed": 0
+ }
+}
