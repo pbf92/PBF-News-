@@ -1,0 +1,26 @@
+URL: https://www.tradingview.com/news/benzinga:7285adc30094b:0-what-s-going-on-with-nebius-group-stock-wednesday/
+TITLE: What's Going On With Nebius Group Stock Wednesday?
+OUTLET: TradingView
+
+What's Going On With Nebius Group Stock Wednesday?
+Nebius Group N.V. NBIS stock traded nearly flat Wednesday, reversing earlier gains as investors weighed NVIDIA Corp.’s NVDA strong quarterly results against concerns about future financing for AI cloud infrastructure providers.
+Nebius climbed about 4% in premarket trading before giving up those gains during the regular session.
+On Tuesday, NVIDIA reported revenue of $115.84 billion, exceeding the $109.08 billion analyst estimate. Adjusted earnings of $2.68 per share beat the Wall Street estimate of $2.48.
+Experts Split on Neocloud Financing Outlook
+Futurum analyst Rolf Bulk expects NVIDIA to scrutinize new neocloud financing deals more closely while continuing to support existing customers such as CoreWeave, Inc. CRWV and OpenAI.
+Cantor Fitzgerald analyst C.J. Muse similarly said NVIDIA could scale back its investments, potentially forcing some neocloud partners to seek alternative financing.
+However, investor Steve Eisman, host of “The Real Eisman Playbook” podcast, offered a more bearish assessment.
+Eisman told CNBC Tuesday that Huang had created what he described as a “virtual vertical holding company” that is now unwinding.
+He warned that neocloud operators could face significant challenges as they risk losing financial support.
+Eisman also said tighter restrictions on Southeast Asian computing infrastructure serving China could disrupt the broader AI ecosystem.
+However, he argued that a 10% to 30% slowdown in AI data center construction could benefit hyperscalers by helping them restore positive cash flow.
+In contrast, Susquehanna analyst Chris Rolland said NVIDIA’s post-earnings disclosures indicated that the company was still expanding its financing commitments rather than broadly retreating.
+Technical Analysis
+Nebius remains under significant technical pressure despite Wednesday’s relative resilience.
+The stock trades 25% below its 20-day simple moving average (SMA) of $141.41 and 40.9% below its 200-day SMA of $179.63.
+Meanwhile, the moving average convergence divergence (MACD) indicator remains below its signal line, with a negative histogram. Both indicators suggest continued bearish momentum.
+Nebius reached a 52-week high of $299.86 in June before retreating sharply. The stock now trades closer to its 52-week low of $73.52.
+- Key Resistance: $110.50
+- Key Support: $89.50
+A sustained move above resistance could signal improving investor sentiment. However, a break below support could expose the stock to further losses.
+NBIS Stock Price Activity: Nebius Group shares were down 0.02% at $106.01 at the time of publication on Wednesday, according to Benzinga Pro data.Disclaimer Preview Image via Shutterstock

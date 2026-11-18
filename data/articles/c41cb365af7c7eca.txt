@@ -1,0 +1,18 @@
+URL: https://www.retailbrew.com/stories/why-no-one-wants-you-to-click-on-a-retail-website-anymore
+TITLE: Why no one wants you to click on a retail website anymore
+OUTLET: Retail Brew
+
+Tech companies have started rolling out AI tools that let shoppers make purchases without ever going to a retailer’s website.
+On Oct. 15, Google rolled out its AI-powered Universal Cart that uses AI to find, compare, track prices, and check out on Google Pay with a few taps. Users also have the option of transferring items from the Universal Cart directly to merchants’ carts to finish buying on their sites. Still, the Universal Cart hints at an emerging trend where users have the option to buy items online before hitting a retailer’s actual page.
+Social media giant Meta’s AI assistant Muse, introduced in September, offers a similar checkout functionality in partnership with Shopify and Stripe, but “checks” with the user before making a purchase. Separately, Shopify is also letting AI agents shop within its Shop app after the user approves the purchase in Shop Pay without needing to click on the merchant’s site.
+Meanwhile, Amazon’s own AI assistant Alexa for Shopping works in the same way. Alexa for Shopping can research and compare products, track deals, and offer checkout in a single tap on Amazon and other stores. It also offers shopping via text message, but the checkout remains within Amazon.
+For retailers, the biggest impact of tools like Universal Cart is that “we’re moving from competing to win the click to competing to be chosen on platforms we don’t own,” Carl Hewitt, group CEO and co-founder at UK-based digital marketing Hewitt Matthews Group, said in an email.
+Retailers including Nike, Sephora, Target, Ulta Beauty, Walmart, Wayfair, and many Shopify merchants have announced partnerships with Google’s Universal Cart.
+“None of this works very well right now for a broad swath of consumer needs,” Sky Canaves, eMarketer analyst for retail and e-commerce, told Retail Brew. The way Canaves sees it, these tech giants are preparing for the next evolution of e-commerce and how users engage with digital channels to buy anywhere. “It’s just that we’re not quite there yet,” she said.
+According to Adobe, AI traffic to US retail sites (measured by users clicking on a link) grew 71% YoY in September 2026. AI traffic is projected to rise 159% YoY on Thanksgiving, 95% YoY on Black Friday, and 88% YoY on Cyber Monday.
+Much of the shopping journey traditionally was aimed at getting a buyer to a retailer’s website, but that is beginning to change.
+“That’s still a very open question,” Bryan Gildenberg, CEO and founder of Confluencer Commerce, told Retail Brew. “People have tried to put an overlay on top of retail and replace it for a long time. It’s really hard to do.”
+Guard rails: Amazon, which has a thriving ad business, is adding more agentic capabilities to Alexa for Shopping as a way to navigate the “direct threat” of external AI agents on their ad business, Andy Szanger, director of strategy at CDW, told Retail Brew.
+“They’re trying to put a wall around their business, and that’s really because of the fact that it’s a direct threat to their advertising business, the way that they sell the promotion of products within their website,” Szanger said.
+Still, Google and Amazon risk losing advertising dollars from search due to impact from AI conversations, Canaves pointed out. “Their traditional search-based advertising will shrink,” Canaves said. “It’s just a matter of [if] can they supplant it with other sources of ad revenue quickly enough.”
+Ultimately, tech companies will try and incorporate the experience of buying items into the AI experience. “I just don’t know how that’s going to translate,” Gildenberg said.

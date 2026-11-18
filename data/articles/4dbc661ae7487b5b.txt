@@ -1,0 +1,20 @@
+URL: https://bioengineer.org/kangaroo-mother-care-may-speed-breastfeeding-initiation-for-south-asian-infants/
+TITLE: Kangaroo Mother Care May Speed Breastfeeding Initiation for South Asian Infants
+OUTLET: Bioengineer.org
+
+Kangaroo Mother Care was associated with earlier initiation of breastfeeding among low-birth-weight and very-low-birth-weight infants compared to conventional care in South Asia, according to a systematic review and meta-analysis published in BMC Pediatrics. Synthesizing data across clinical studies, researchers evaluated diverse interventions intended to establish and promote breastfeeding practices in these vulnerable infant groups.
+The systematic search retrieved 2,524 records across five electronic databases: PubMed, Web of Science, Embase, CINAHL, and the Cochrane Library. Following formal screening against eligibility criteria, 16 individual studies conducted in India and Bangladesh met the inclusion standards for synthesis.
+In most evaluated trials, Kangaroo Mother Care was delivered in combination with other supportive interventions.
+Across the identified literature, interventions designed to enhance infant feeding largely produced positive outcomes, specifically improving the initiation of breastfeeding and rates of exclusive breastfeeding. To estimate the overall magnitude of effect on breastfeeding practices, investigators conducted a meta-analysis using a random-effects model.
+The meta-analysis demonstrated that mothers receiving Kangaroo Mother Care achieved earlier initiation of breastfeeding than mothers receiving conventional care, resulting in a pooled standardized mean difference of -1.08 with a 95 percent confidence interval from -2.15 to -0.01.
+Study quality and risk of bias were appraised using the RoB2 tool, the ROBINS-I instrument, and the National Institutes of Health Quality Assessment tools, while heterogeneity was explored through subgroup and meta-regression analyses. The authors noted that substantial heterogeneity, significant publication bias, risk-of-bias concerns, and limited evidence for individual outcomes restrict overall confidence in the findings.
+A primary analytical objective involved synthesizing evidence to estimate the duration to establish breastfeeding practices among Low Birth Weight and Very Low Birth Weight infants across South Asia.
+In their methodological approach, the researchers assessed the risk of bias and strength of evidence specifically considering the study design of the selected articles.
+Published in BMC Pediatrics on 18 November 2026, the paper was made available as an open access research article.
+Subject of Research: Breastfeeding interventions for low-birth-weight infants in South Asia
+Article Title: Breastfeeding interventions for low-birth weight and very low birth weight infants in South Asia: a systematic review and meta-analysis
+Article References: Sarkar, P., Rifat, M. A., Ali, M., Chakrabarty, M., Alam, S. S., Nasrin, S. S., Singh, A., & Saha, S. (2026). Breastfeeding interventions for low-birth weight and very low birth weight infants in South Asia: a systematic review and meta-analysis. BMC Pediatrics, 26(1), Article 1197. https://doi.org/10.1186/s12887-026-08060-2
+Image Credits: AI Generated
+DOI: 10.1186/s12887-026-08060-2
+Keywords: breastfeeding interventions, low birth weight, very low birth weight, Kangaroo Mother Care, South Asia, India, Bangladesh, breastfeeding initiation, exclusive breastfeeding, non-nutritive suckling, premature infant oromotor intervention, nutrition education, Mother Baby Friendly Initiatives Plus, systematic review, meta-analysis, RoB2, ROBINS-I, publication bias
+News Source: Harold Sullivan. (November 18, 2026). Kangaroo Mother Care May Speed Breastfeeding Initiation for South Asian Infants. Scienmag.

@@ -1,0 +1,23 @@
+URL: https://africa.businessinsider.com/local/leaders/anthropics-7-founders-close-in-on-a-combined-dollar130-billion-fortune-as-their-ai/7j3l4qx
+TITLE: Anthropic’s 7 founders close in on a combined $130 billion fortune as their AI company expands through major partnerships in Africa
+OUTLET: Business Insider Africa
+
+- Anthropic's seven founders may each achieve fortunes over $18.5 billion if the company's IPO reaches the top price range, with a combined stake over $129 billion.
+- The founders collectively hold significant stakes, each with about 1.4% of the company, depending on the final IPO outcome.
+- Anthropic is expanding across Africa, notably partnering with the Rwandan government to apply AI in healthcare, education, and public services.
+- The company is working with partners like ALX in eight countries and the International Rescue Committee in Nigeria, using AI for education and health data analysis.
+According to the BBC, each founder’s remaining shareholding could be worth at least $18.5 billion if Anthropic’s shares reach the top of the proposed $70–$78 price range, putting the combined value of their stakes at more than $129 billion.
+The seven are chief executive Dario Amodei, his sister and company president Daniela Amodei, chief compute officer Tom Brown, head of public benefit Jack Clark, chief science officer Jared Kaplan, interpretability research lead Chris Olah and chief architect Sam McCandlish.
+Anthropic’s IPO filing indicates that each founder holds approximately 1.4% of the company, although the precise value of their stakes will depend on the final share price and the number of shares retained after the offering.
+Together, their holdings represent a substantial economic interest in the AI business they established in 2021 after leaving OpenAI.
+Rwanda, Nigeria and other African markets become part of Anthropic’s expansion
+The company’s African expansion has increasingly involved governments, technology training providers and development organisations, with Rwanda emerging as its most prominent government partner.
+In February 2026, Anthropic signed a three-year memorandum of understanding with the Rwandan government covering the use of AI in healthcare, education and public services. The agreement includes support for national efforts to reduce malaria and maternal mortality and eliminate cervical cancer, as well as access to Claude and Claude Code for government developers.
+The arrangement builds on a November 2025 partnership with African technology training provider ALX.
+Through the initiative, Anthropic’s Claude-powered learning companion, Chidi, is being deployed across ALX programmes in eight African countries, giving students and young professionals access to AI-assisted learning in areas such as data analytics and cloud computing. The Rwandan government also incorporated the tool into its national education programme.
+Nigeria is another focus of the company's healthcare work. In its November 2026 IPO prospectus, Anthropic disclosed that it is working with the International Rescue Committee to explore using Claude to digitise and analyse children's health records in Nigeria.
+The proposed application is intended to help health workers identify children at risk of malnutrition and make better use of limited resources.
+Anthropic also cited the World Health Organization’s Regional Office for Africa, which used Claude during the 2026 Ebola outbreak in the Democratic Republic of Congo to reduce the time required to prepare daily situation reports from a full day to less than an hour.
+The company is also working with the Gates Foundation on the use of health data to deploy medical workers, manage supply chains and detect disease outbreaks.
+Its commercial reach is expanding through Zimbabwe-founded Cassava Technologies, which announced in October 2026 that it had become an authorised reseller of Claude through Amazon Bedrock. The arrangement gives businesses and institutions across Africa another route to access Anthropic’s AI models.
+These partnerships place African governments, businesses and education systems among the markets Anthropic is targeting as it expands the reach of its technology.

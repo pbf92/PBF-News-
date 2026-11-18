@@ -1,0 +1,22 @@
+URL: https://www.storyboard18.com/digital/inmobi-launches-ai-powered-ad-platform-to-help-businesses-manage-campaigns-across-google-meta-and-chatgpt-ws-l-115040.htm
+TITLE: InMobi launches AI-powered ad platform to help businesses manage campaigns across Google, Meta and ChatGPT
+OUTLET: Storyboard18
+
+InMobi has launched an agentic AI-powered advertising platform that aims to help small and medium-sized businesses (SMBs) and agencies plan, execute and measure campaigns across multiple digital advertising platforms from a single dashboard.
+Called InMobi Accelerate, the self-serve platform uses seven specialised AI agents to handle different stages of an advertising campaign, including business analysis, audience strategy, media planning, copywriting, creative design, campaign launch and optimisation.
+The launch comes as businesses increasingly run advertising campaigns across multiple platforms but face challenges in measuring their overall performance and returns.
+Research conducted by NewtonX for InMobi among 800 US-based SMB advertisers and agencies in May 2026 found that 93% of respondents could not confidently measure performance across the platforms they use. More than 70% said they run campaigns on three or more platforms, while only 4% could launch a campaign on the same day they decided to run it.
+Seven AI agents to manage campaign execution
+With Accelerate, businesses can begin by sharing their website and campaign objective. The platform then analyses the business, identifies target audiences, develops a media plan and creates campaign assets and budgets for approval.
+The seven AI agents work across these functions, reducing the need for businesses to hire separate specialists for different aspects of digital advertising.
+“AI agents change the economics of expertise. A growing business should be able to run a disciplined advertising program without hiring seven specialists first, and an agency should be able to take on more clients without adding repetitive work at the same rate,” said Rohit Dosi, VP and GM of InMobi Accelerate.
+Focus on cross-platform measurement
+A key feature of the platform is its ability to provide a consolidated view of campaign performance across advertising channels.
+InMobi said Accelerate uses its first-party pixel and universal conversion tracking to deduplicate conversion events across connected platforms. The system then calculates what the company calls True ROAS (return on ad spend), offering advertisers a cross-channel view of campaign returns.
+The platform is also integrated with Mobius, InMobi's unified intelligence system for agentic advertising decision-making. Mobius uses campaign history and performance signals to forecast advertising options and recommend or execute changes based on advertisers' objectives.
+InMobi said Mobius processes more than 25 trillion predictions and evaluates over 200 billion advertising opportunities on an average day.
+Campaigns across major ad platforms
+At launch, Accelerate supports Google Ads, Meta Ads, Microsoft Advertising, TikTok Ads and ChatGPT Ads. Integrations with Glance, InMobi's AI-powered personal shopping platform, and other major platforms are planned.
+The platform allows advertisers to approve campaign plans, creative assets and budgets before they go live. They can also use plain-English instructions to make changes, such as shifting budgets between channels or revising creatives.
+Advertisers can choose to authorise continuous optimisation within predefined parameters, while approval workflows and role-based access controls are designed to keep campaign changes within those limits.
+InMobi introduced Accelerate at Glance Forward in New York on November 18, positioning the platform as a way for smaller businesses and agencies to manage increasingly complex digital advertising operations through AI.

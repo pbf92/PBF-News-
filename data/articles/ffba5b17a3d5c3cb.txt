@@ -1,0 +1,16 @@
+URL: https://finance.yahoo.com/markets/stocks/articles/prediction-stock-market-big-move-100802869.html
+TITLE: Prediction: The Stock Market Will Make a Big Move on Nov. 18 (Hint: Nvidia Will Be the Catalyst)
+OUTLET: Yahoo Finance
+
+Nvidia (NASDAQ:NVDA) has been one of the market's most influential companies during the artificial intelligence boom, but the stock has struggled in 2026. Shares have declined 16% year to date, while the S&P 500 (SNPINDEX:^GSPC) has added 8% and the Nasdaq Composite (NASDAQINDEX:^IXIC) has added 5%.
+Investor uncertainty intensified last week when Nvidia announced the sudden resignation of CEO Jensen Huang. The company will announce its third-quarter fiscal 2027 financial results after the market closes on Tuesday, Nov. 17. Those results could trigger substantial volatility across the stock market the next day.
+Missed AI's "Act 1"? Act 2 Could Be 16x Bigger. Most investors think they missed the AI boat because they didn't buy Nvidia in 2005. But according to our analysts, we're only at the end of "Act 1"—the R&D phase. "Act 2" is the global rollout. Continue »
+Image source: Getty Images.
+What Wall Street expects from Nvidia's earnings report
+Nvidia's revenue growth has accelerated in five consecutive quarters amid strong demand for artificial intelligence (AI) infrastructure, and the company beat Wall Street's consensus earnings estimate in each of those quarters. But the bar is especially high for the upcoming report, given growing skepticism about the durability of the AI boom.
+Here's what Wall Street expects when Nvidia announces its financial results for the third quarter of fiscal 2027 after the market closes on Tuesday, Nov. 17:
+- Revenue will increase 91% to $109 billion.
+- Non-GAAP earnings will increase 91% to $2.48 per diluted share.
+Beyond the headline numbers, investors should pay attention to management's guidance for the fourth quarter. Nvidia's outlook will provide important clues about demand for AI infrastructure, particularly as technology companies continue to invest enormous sums of money in data centers.
+Investors should also listen for commentary concerning the next-generation Vera Rubin compute platform (which started shipping in the last few months), competition from custom AI chips, and whether Nvidia customers are generating sufficient returns to justify their capital expenditures.
+Finally, this will be the first earnings call since former CEO and co-founder Jensen Huang resigned. Interim CEO Colette Kress will likely face questions about the board's search for a permanent successor and whether the leadership change will disrupt Nvidia's technology roadmap or relationship with major suppliers and customers.

@@ -1,0 +1,36 @@
+URL: https://www.businessinsider.com/anthropic-ipo-claude-code-startups-splurge-on-ai-2026-11
+TITLE: Meet 4 Silicon Valley engineering leaders whose hefty Claude bills explain Anthropic's rise
+OUTLET: Business Insider
+
+Anthropic is targeting a $1.4 trillion valuation in its initial public offering this week, and that's possible because of some very spendy customers.
+Anthropic's thousands of business customers and the popularity of Claude Code are funneling huge sums into its coffers.
+Months after the so-called "token-maxxing" craze, some engineering leaders told Business Insider they're still racking up Claude bills worth tens of thousands of dollars on individual projects. Others have come to expect that some of their engineers will occasionally spend more on tokens, the units of AI's output, than they make in salary.
+Customers who didn't use Claude Code on their business accounts spent less than $75 a month on average, Anthropic's IPO prospectus said, while the top 5% of users using the coding tool averaged around $1,500 a month.
+All told, Anthropic reported having 11,900 business customers that'd spent $100,000 over the previous year, and 250 that'd spent $10 million or more.
+Business Insider spoke with several big Anthropic spenders: engineering leaders at companies that have embraced AI for coding and largely favored Claude over its competitors.
+Tom Wilkie, Chief Technology Officer at Grafana Labs
+Grafana Labs, an observability startup last valued at $9 billion, has no problem with pouring cash into AI coding tools. Its chief technology officer, Tom Wilkie, told Business Insider that the company's token bills have jumped into the tens of millions-a-year range. It spends about two-thirds on Claude, with the rest mostly going to OpenAI's Codex, he said.
+"We're not worried about the spend," Wilkie said. "We're not worried about controlling it, just yet."
+One of Wilkie's teams spent tens of thousands of dollars on tokens in a single month to improve the performance of one of Grafana's services — resulting in a six-figure cut to the company's Amazon Web Services bill.
+He also saw a non-engineer route customer feedback to Anthropic's Fable model, spend more than $30,000 dollars on tokens, and get a cluster of successful changes into the product. Engineers have gotten more comfortable switching projects because the coding language barrier feels lower now, Wilkie said.
+After a data analyst accidentally racked up tens of thousands of dollars in token spend by leaving a model running, Wilkie said Grafana now gives access to the most powerful AI models in 24-hour increments. Still, it's "no questions asked," he said.
+"We really want to be careful with the chilling effect of budgets and access control to models because you just don't know where the next big piece of innovation is going to come from," Wilkie said.
+Bryan Bischof, Head of AI at Theory Ventures
+Bryan Bischof, who runs AI at Theory Ventures, leads a team of six engineers who build custom software for investors, heads of talent and relationships, and intelligence leads at the San Francisco venture firm.
+He has personally racked up six figures of token spend in one month, mostly on Claude, and said he could easily crack $1 million if he spent more time running simulations.
+He and his engineers sometimes use open-weight models, which are far cheaper than Anthropic's top-end options. Bischof said that since time is so valuable, he's often happy for his team to spend on premium tools.
+"If a very intelligent model is going to dramatically reduce the cycle time, then that's absolutely worth it," he said.
+Bischof says his firm may also invest in their own always-running AI agents, similar to Meta's Muse and OpenAI's Dots.
+Chris Yang, Cofounder and Chief AI Officer of Menos AI
+At Menos AI, a startup running an AI-powered research software for investors, the engineering team uses Claude Code or Claude models through the coding tool Cursor, cofounder Chris Yang told Business Insider.
+"Because Claude has been evolving so, so well in terms of coding capabilities, I don't even have much opportunity or willingness to try out Codex," he said.
+The company's investor software consumes around 90% of its token costs, Yang said, as it routes users' inquiries to different models depending on their difficulty.
+Yang called himself one of the company's "hero users," since he spends $3,000 to $4,000 on Claude tokens in a month running several AI agents at a time.
+"We do spend a lot of expenses on the Claude Code use, but when we compare it to a human resources hire, it's still a big benefit," Yang said. "It's still much cheaper than human labor."
+Kiran Gangadharappa, Senior Director of Software Engineering at Harness
+Harness, a software development startup worth $5.5 billion, has more than 500 engineers. Kiran Gangadharappa, a senior director of software engineering, told Business Insider that in a recent week, his staff used 265 billion AI tokens, with Claude Code and Cursor being the most popular tools among his engineers.
+"We definitely see it improving and taking a bigger and bigger chunk of the manual work of writing code," he said.
+The biggest token-guzzlers, Gangadharappa said, are gigantic one-off tasks like rebuilding an existing software architecture or conducting security research.
+He said that using Sonnet, one of Anthropic's cheaper models, helped the company cut spending, as did creating a soft $125-a-week budget for engineers. He expects the company has reached a "steady" level of AI expenses.
+"Agents never get tired," Gangadharappa said.
+Have a tip? Contact this reporter via email at scouncil@businessinsider.com, or over text, Signal, Telegram, or WhatsApp at 415-757-8198. Use a personal email address, a non-work WiFi network, and a non-work device; here's our guide to sharing information securely.

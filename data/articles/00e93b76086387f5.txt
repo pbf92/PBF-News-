@@ -1,0 +1,32 @@
+URL: https://www.tradingview.com/news/invezz:3512776b5094b:0-cathie-wood-was-right-on-the-money-about-these-2-stocks/
+TITLE: Cathie Wood was right on the money about these 2 stocks
+OUTLET: TradingView
+
+Cathie Wood was right on the money about these 2 stocks
+Every new artificial intelligence (AI) data center needs chips.
+The AI agents running on those chips need to fetch data, call software tools, and interact with websites.
+Cathie Wood’s ARK Investment Management found winners on both sides of that buildout.
+AMD and Cloudflare have seen explosive rallies since the famed investor first gained exposure to both.
+They are proving a perfect example of how AI demand is spreading from the companies that supply the hardware to those that keep the applications running.
+AMD turned a server-chip foothold into an AI business
+ARK first bought about 640,000 AMD shares in the third quarter of 2018. At the time, they were going for about $31 only.
+The firm later exited its position in Advanced Micro Devices, only to reestablish it in early 2023, at roughly $98 each.
+As of writing, those same shares are trading at about $507 – suggesting Cathie Wood has secured a more than 5x gain on AMD.
+The business behind that massive rally sells two kinds of chips into the same data center.
+EPYC server processors handle general computing, while Instinct accelerators do the heavy lifting for AI models.
+Demand for both pushed Q3 data center revenue up 97% to $8.5 billion.
+The division’s operating profit climbed to $2.9 billion from $1.1 billion a year earlier – showing how much of the sales growth is reaching the bottom line.
+CEO Lisa Su expects data center chips to account for about 80% of AMD’s revenue in 2027.
+That gives AMD more to gain as cloud companies expand capacity and more exposure if they slow the pace of new deployments.
+Cloudflare found a way to turn developer adoption into revenue
+Cloudflare first appeared in ARK’s reported holdings in the fourth quarter of 2020, when the stock traded at roughly $76.
+In comparison, it’s now going for roughly $285, representing about 3.75x return on Cathie Wood’s initial investment.
+The company now gives developers a place to run applications and AI agents through Workers – expanding what it can sell to businesses that already depend on its network for both security and performance.
+Cloudflare passed 10 million active developers and added a record 158,000 paying customers in its fiscal Q3.
+Revenue soared 39% to $782.5 million, and dollar-based net retention reached 122%.
+That means the same group of customers generated 22% more revenue over a year after accounting for customers that cut spending or left.
+Management also expects GAAP profitability in the fourth quarter, ahead of its earlier target of reaching that milestone by 2028.
+The margin story helps explain why.
+Workers carries a lower gross margin than some Cloudflare products, but it costs less to sell.
+That gives Cloudflare a path to higher operating margins as developers turn experiments into applications they pay to run.
+AI disclosure: AI tools assisted with research and drafting of this piece. An Invezz editor reviewed the facts, sources and wording before publication. Any opinions or analysis are Invezz’s, not those of an automated system.

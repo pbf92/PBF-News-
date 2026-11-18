@@ -1,0 +1,39 @@
+URL: https://beinsure.com/news/meta-appeals-35mn-fine-to-us-supreme-court/
+TITLE: Meta appeals $35 mn fine to US Supreme Court over political ad disclosure law
+OUTLET: Beinsure
+
+Meta Platforms, the parent company of Facebook, has asked the US Supreme Court to overturn at least part of Washington state’s political advertising disclosure law as it challenges a $35 mn judgment for repeated violations of campaign finance transparency requirements.
+In a petition filed on November 13, 2026, Meta argues that the state’s disclosure rules impose excessive obligations on digital advertising platforms and discourage them from accepting political advertisements.
+The case follows a June 18 ruling by the Washington Supreme Court that left the $35 mn judgment in place. The dispute concerns 822 violations involving Meta’s failure to provide information about political advertisements displayed on Facebook.
+Meta argues that Washington’s requirements violate the First Amendment by making political advertising economically and operationally difficult for online platforms.
+Washington officials maintain that the law serves the public interest by ensuring transparency around political advertising and campaign spending.
+Washington’s political advertising law requires detailed disclosures
+Washington’s campaign finance disclosure requirements originated in legislation approved by voters in 1972. The law requires sellers of political advertising, including digital platforms, newspapers, radio stations and television broadcasters, to maintain and disclose specified records about their political advertisements.
+These records include the names and addresses of political advertising purchasers, information about intended audiences and the number of times advertisements were viewed. Advertising sellers must make the required information available within two business days of receiving a request.
+Meta argues that the requirements place a disproportionate burden on digital platforms because online advertising involves large volumes of individually targeted advertisements. Unlike newspapers and broadcast outlets, digital platforms must also compile demographic information about audiences targeted by political advertisements.
+The company maintains that online advertising systems generally do not require platforms to review each advertisement before publication, making compliance more complicated.
+In its Supreme Court petition, Meta argues that the cumulative requirements have caused major advertising platforms to withdraw from political advertising in Washington. The company says the resulting restrictions on available advertising channels raise constitutional questions about political expression.
+Washington courts upheld $35 mn penalty for 822 violations
+The dispute began in 2017, when three individuals requested political advertising information from Facebook and Google under Washington’s disclosure law.
+After both companies failed to fully satisfy the requests, then-Washington Attorney General Bob Ferguson brought enforcement actions against them. The companies subsequently paid penalties and announced that they would stop accepting political advertisements in Washington, arguing that the disclosure requirements were too burdensome.
+However, both platforms continued to carry some political advertisements in the state. Ferguson filed another lawsuit against Facebook in 2020, alleging repeated violations of Washington’s campaign finance transparency requirements.
+In 2022, a King County Superior Court judge found that Meta had committed 822 disclosure violations. The court imposed penalties of $10,000 per violation, tripled after determining that the violations were intentional.
+The financial judgment included approximately $25 mn in civil penalties and $10 mn in legal fees payable to the state. The Washington Supreme Court reviewed the case and, in a divided decision issued on June 18, 2026, left the $35 mn judgment in place. The penalty has been described as the largest campaign finance disclosure judgment in US history.
+Meta argues political ad rules violate the First Amendment
+Meta’s Supreme Court petition challenges the constitutionality of Washington’s political advertising disclosure framework. The company argues that the law’s administrative requirements can effectively eliminate political advertising from digital platforms, even without explicitly prohibiting such advertisements.
+Meta maintains that disclosure rules producing this result should be subject to constitutional scrutiny because political advertising is protected expression under the First Amendment.
+The petition also argues that Washington’s Supreme Court did not adequately address the specific constitutional problems created by disclosure obligations imposed on third-party advertising platforms.
+Meta is represented by Paul Clement, a former US solicitor general under President George W. Bush and an experienced Supreme Court litigator.
+The company contends that Washington’s rules are substantially more burdensome than comparable disclosure requirements elsewhere in the United States. Its appeal seeks Supreme Court review of the state court’s decision and the constitutional limits on campaign finance disclosure obligations.
+The Washington Supreme Court’s June decision rejected Meta’s First Amendment challenge as applied to the company. The court concluded that Washington’s interest in campaign transparency supported its disclosure requirements.
+The justices also considered Meta’s argument that the financial penalty violated constitutional protections against excessive fines. The court’s divided opinions left the judgment intact.
+Washington attorney general defends campaign finance transparency
+Washington Attorney General Nick Brown welcomed the state Supreme Court’s June ruling, describing it as an important decision for election transparency.
+Washington’s disclosure requirements apply to all businesses selling political advertisements, regardless of their size. The state’s position differs from Meta’s argument that compliance costs discourage political expression.
+Washington officials contend that disclosure requirements support informed participation in elections by making political advertising spending more transparent.
+Meta maintains that the same requirements can restrict access to digital advertising platforms and thereby reduce opportunities for political communication.
+Supreme Court appeal could affect digital political advertising rules
+The case raises questions about how states can regulate political advertising transparency without imposing unconstitutional burdens on digital platforms.
+The dispute also highlights the differences between traditional advertising and online systems that distribute large numbers of advertisements to narrowly defined audiences.
+For Meta, the immediate issue is the $35 mn judgment arising from its failure to comply with Washington’s disclosure requirements.
+The broader legal question concerns whether states can impose detailed recordkeeping and disclosure obligations on digital advertising intermediaries when those obligations may influence whether platforms accept political advertising.

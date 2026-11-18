@@ -1,0 +1,29 @@
+URL: https://www.emjreviews.com/en-us/amj/cardiology/news/triglyceride-glucose-index-predicts-cardiovascular-risk/
+TITLE: Triglyceride-Glucose Index Predicts Cardiovascular Risk
+OUTLET: EMJ
+
+HIGHER triglyceride-glucose index values were generally associated with increased cardiovascular risk and adverse clinical outcomes among patients with hypertension, according to a narrative review examining the marker’s potential role in cardiovascular risk stratification.
+The findings suggested that this readily available measure of insulin resistance could help identify cardiometabolic vulnerability, although further research is needed to establish its predictive value beyond conventional cardiovascular risk factors.
+Triglyceride-Glucose Index Examined in Hypertension
+Researchers investigated the prognostic relevance of the triglyceride-glucose (TyG) index, a surrogate marker of insulin resistance, among patients with hypertension.
+The narrative review examined associations between TyG values and all-cause mortality, cardiovascular mortality, and fatal or non-fatal cardiovascular events.
+Literature searches were conducted across PubMed, Embase and the Cochrane Library, including evidence available through 5 October 2026, without restrictions on publication date or language.
+Hypertension frequently coexists with metabolic abnormalities that contribute to cardiovascular risk, highlighting the potential importance of identifying markers that capture both metabolic and cardiovascular vulnerability.
+The review explored whether the TyG index could provide clinically useful prognostic information beyond its established role as an indicator of insulin resistance.
+Higher TyG Index Linked to Adverse Outcomes
+Evidence from primary cohorts of patients with hypertension generally supported associations between elevated TyG values and adverse cardiovascular outcomes.
+However, researchers identified considerable variation in the strength and pattern of these relationships.
+Both linear and nonlinear associations were reported, suggesting that cardiovascular risk may not increase uniformly across TyG values.
+The most consistent findings were observed among patients with hypertension and diabetes, where higher TyG values were more reliably associated with adverse outcomes.
+By contrast, evidence from other high-risk clinical populations and hypertension-specific subgroup analyses was more heterogeneous.
+Researchers also highlighted methodological differences that complicated comparisons between studies.
+These included variations in TyG calculation, statistical modelling, glycaemic status, clinical settings and overlapping study populations.
+Cardiovascular Risk Stratification Requires Further Validation
+The review suggested that the TyG index could represent a low-cost, accessible marker of early cardiometabolic and cardiovascular vulnerability in patients with hypertension.
+Its potential value lies in identifying metabolic risk that may not be fully reflected by conventional cardiovascular assessments.
+However, the researchers emphasised that existing evidence does not establish whether incorporating TyG measurements improves clinical risk prediction.
+Further prospective studies are needed to determine whether the index provides meaningful additional prognostic information beyond established cardiovascular risk factors and validated risk scores.
+Such research should also clarify how differences in glycaemic status and clinical characteristics influence its predictive performance.
+Overall, the review identified the TyG index as a promising candidate for refining cardiovascular risk stratification in hypertension, while emphasising that its routine clinical application requires further validation.
+Reference 
+D’Elia L et al. The prognostic value of the triglyceride-glucose index in individuals with hypertension. Future Cardiology. 2026.
