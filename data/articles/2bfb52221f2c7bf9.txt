@@ -1,0 +1,21 @@
+URL: https://timesofindia.indiatimes.com/technology/aiq/inmobi-launches-ai-advertising-tool-for-small-businesses-and-agencies-all-details/amp_articleshow/135966763.cms
+TITLE: InMobi launches AI advertising tool for small businesses and agencies: All details
+OUTLET: The Times of India
+
+InMobi launches AI advertising tool for small businesses and agencies: All details
+A business can start by entering its website address and a campaign goal. The platform then analyses the business, identifies target audiences and puts together a media plan, ad materials and a proposed budget. Advertisers can review and revise these before a campaign goes live. At launch, Accelerate supports Google Ads, Meta Ads, Microsoft Advertising, TikTok Ads and ChatGPT Ads.
+InMobi AI advertising tool: Availability
+InMobi Accelerate is available now and is free to start. InMobi says it plans to add support for Glance, its backed AI shopping platform, and other advertising platforms. InMobi Accelerate · InMobi’s launch announcement
+How the seven AI agents build and manage campaigns
+The agents handle business analysis, audience strategy, media planning, copywriting, creative design, campaign setup and optimisation. InMobi says advertisers approve each plan, ad asset and budget before launch. Once a campaign is running, they can use plain-English instructions to revise an ad or move spending between channels from the same dashboard.
+Advertisers can also authorise the platform to make ongoing adjustments within limits they set. InMobi’s Mobius system uses campaign history and performance data to recommend changes or carry them out when the advertiser has given permission.
+How Accelerate measures results across platforms
+InMobi says Accelerate uses a website tracking tag and conversion tracking to identify when connected ad platforms report the same outcome, such as a purchase or sign-up. The system aims to count each outcome once and use that combined view to calculate return on ad spend, a measure of how much revenue a campaign generates for each dollar spent on ads. InMobi calls the measure True ROAS.
+In a May 2026 survey that NewtonX conducted for InMobi, 93% of 800 U.S. small and midsize business advertisers and agencies said they could not confidently measure performance across the platforms they use. More than 70% said they ran campaigns on at least three platforms.
+Your child uses AI every day. But do they understand it? Find out in the TOI AI Masterclass.
+- In 2016, Jensen Huang and his wife funded trusts with about $51 million in Nvidia stock; 10 years later, nearly 59 million shares worth $10.5 billion moved into a family trust months before his exit
+- Intel IT Layoffs: Employees report possible global IT cuts; California filings show 222 layoffs
+- Billionaire Bill Ackman criticises Nvidia board for Jensen Huang's removal, says it is compounding its failures by…
+- Jeff Bezos says he was ‘heavily involved’ in choosing next James Bond, shares why team almost ‘rejected’ Robert Pattinson
+- Photo Mode: GTA 6 adds adjustable lighting; players can edit camera settings and filters
+- Anthropic Investment Regret: Son regrets passing on early stake; SoftBank plans AI infrastructure for rivals
