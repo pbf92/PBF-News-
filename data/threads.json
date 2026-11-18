@@ -113,10 +113,11 @@
    "name": "Long-running AI agents",
    "desk": "ai",
    "started": "2026-11-09",
-   "last_changed": "2026-11-13",
+   "last_changed": "2026-11-18",
    "status": "active",
-   "last_line": "Fable 5.2 / Mythos 5.2 and Gemini 4 Carbon aimed at extended agent work.",
-   "day": 10
+   "last_line": "A second frontier launch in 24 hours, priced against GPT-6.2 Astra and Claude, on Anthropic's IPO eve. Most benchmark claims are Google's own, so treat the rankings as company claims until independent",
+   "day": 10,
+   "last_seen": "2026-11-18"
   },
   {
    "id": "meta-semantic-ads",

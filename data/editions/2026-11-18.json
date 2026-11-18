@@ -956,6 +956,33 @@
     }
    ],
    "time": "12:17 PM"
+  },
+  {
+   "desk": "ai",
+   "headline": "Google launches Gemini 4 Neon: $3/$15 per million tokens, 1M context, rolling out today",
+   "why": "A second frontier launch in 24 hours, priced against GPT-6.2 Astra and Claude, on Anthropic's IPO eve. Most benchmark claims are Google's own, so treat the rankings as company claims until independent testing.",
+   "points": [
+    "Priced at $3 per million input tokens ($0.15 cached) and $15 per million output, with a 1M-token context window.",
+    "Google cites Artificial Analysis Intelligence Index 61 (#3 overall) and #1 on its Coding Agent Index (58.6), plus 65.2% on Terminal-Bench 4.1.",
+    "Rolling out today in the Gemini API/AI Studio, Gemini for business, Google Antigravity (paid Pro and Ultra) and the Gemini app (Pro and Ultra).",
+    "Aimed at long-running agent work, including orchestrating parallel subagents in Antigravity."
+   ],
+   "next": "Independent evaluations and pricing responses from OpenAI and Anthropic; Anthropic IPO trading starts Thu 19 Nov.",
+   "confidence": "claim",
+   "impact": "medium",
+   "thread": {
+    "id": "frontier-agents",
+    "name": "Long-running AI agents",
+    "status": "changed",
+    "day": 10
+   },
+   "sources": [
+    {
+     "name": "Google DeepMind",
+     "url": "https://deepmind.google/blog/introducing-gemini-4-neon/"
+    }
+   ],
+   "time": "1:47 PM"
   }
  ],
  "status": {
