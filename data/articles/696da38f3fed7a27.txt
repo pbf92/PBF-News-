@@ -1,0 +1,26 @@
+URL: https://www.tradingview.com/news/coinpedia:fad658cd9094b:0-why-analysts-still-rate-nvidia-overweight-despite-leadership-and-legal-turmoil/
+TITLE: Why Analysts Still Rate Nvidia Overweight Despite Leadership and Legal Turmoil
+OUTLET: TradingView
+
+Why Analysts Still Rate Nvidia Overweight Despite Leadership and Legal Turmoil
+Leading AI chipmaker Nvidia released its Q3 2026 earnings report, beating Wall Street expectations and issuing stronger-than-expected guidance for Q4 2026.
+Nvidia Outpaces Wall Street Expectations
+According to the financial results, Nvidia’s revenue hit $115.8 billion, beating analysts’ consensus of $109.15 billion while increasing by 20% quarter-over-quarter and 103% year-over-year (YoY).
+More specifically, the company reported data center revenue of $107.6 billion, up 110% YoY and outdoing the $101.85 billion projection.
+Meanwhile, edge computing revenue came in at $8.2 billion, representing a 14% increase from the previous quarter and a 42% surge YoY.
+Adjusted earnings per share (EPS) stood at $2.68, with GAAP EPS at $2.70, and both outperforming Wall Street’s estimate of $2.47.
+Importantly, Nvidia reported an adjusted gross margin of 74.9%, indicating that its customers are willing to pay for its premium product and that competitors are not forcing price cuts.
+Q4 Earnings Guidance
+Nvidia now projects revenue of $130.0 billion (give or take 3%) at the end of this quarter. This is well above Wall Street estimates of $124.4 billion to $125.0 billion.
+Differently, the company projects a temporary dip in non-GAAP gross margin to 71.0%-72.0%, citing high initial scaling costs for its new chip architecture Vera Rubin. The interim CEO and CFO Colette Kress noted that the chips are the fastest product ramp in the company’s history, with better performance and adoption compared to previous chip generations.
+In terms of capital returns, Nvidia paid out $28.1 billion to shareholders in the form of share buybacks and dividends, with Q3 dividends ($0.25 per share) payable on December 23, 2026.
+Nvidia stock performance following Q3 earnings report
+After closing the regular session down 0.44% at $155.46, Nvidia stock (Nasdaq: NVDA) climbed roughly 5.32% in extended trading, reaching $163.72.
+Positive sentiment surrounded the positive earnings report, alongside September’s approval of additional share repurchases totaling a historic $235 billion. However, the gains remained measured as compared to previous quarters due to leadership uncertainty and regulatory headwinds.
+Is Nvidia a Good Stock to Buy?
+Notably, this is the first time Nvidia has released a public earnings report without co-founder Jensen Huang at the helm as CEO. The board, chaired by Harvey C. Jones, is still searching for his replacement, while Huang says he is ready to resume his position should the board approve.
+In addition to these leadership uncertainties, an external council led by Joon H. Kim is yet to release its findings on its investigation into the espionage allegations against Huang.
+For now, Huang has agreed to testify in closed-door interviews before the House and Senate and committees on December 1 and 3, respectively. The company has also formed a new security committee amid rising concerns about exports to competing nations such as China.
+That said, while the stock is down 30% in the past month, top analysts give it an overweight recommendation with an average target price of $279.48.
+Source: MarketWatch
+Other than the positive earnings report, another reason for their rating is unbroken AI demand and attractive valuation following the recent sell-off.

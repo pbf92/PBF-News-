@@ -1,0 +1,28 @@
+URL: https://www.edtechinnovationhub.com/news/anthropic-extends-free-claude-for-teachers-access-for-us-k-12-educators-to-july-2028
+TITLE: Anthropic extends free Claude for Teachers access for U.S. K-12 educators to July 2028
+OUTLET: EdTech Innovation Hub
+
+Verified educators, schools and districts can continue accessing premium Claude features, following a union agreement covering AI safety, student data and teacher control
+Anthropic has extended free access to Claude for Teachers for verified U.S. K-12 educators through July 30, 2028. The offer also covers qualifying schools and districts using centrally managed accounts.
+The service includes premium Claude capabilities, teaching tools and a Learning Commons connection to curricula mapped to academic standards across all 50 states. Teachers can use it to draft lessons, adapt materials for different learning needs and prepare assessments for review.
+Anthropic introduced individual Claude for Teachers accounts in July 2026 and expanded the offering to schools and districts on August 28. The organizational version allows administrators to manage staff accounts, access permissions and shared policies through features including single sign-on.
+Detroit training focuses on tools teachers can build
+In a LinkedIn post discussing the extension, Elizabeth Kelly, Head of Beneficial Deployments at Anthropic, said the company had trained hundreds of teachers during a November visit to Detroit Public Schools Community District.
+Kelly described teachers creating materials and tools for their own classrooms during the sessions. One example was a phonics tracker developed by a second-grade teacher to reflect her students’ needs.
+She also quoted a teacher identified as Ms. Rice, who said: "My thinking and my voice guide the decisions."
+Kelly linked the extended access period to teachers having time to explore classroom uses while retaining confidence in how their information is handled.
+"To keep going, teachers need two things from us: trust and time," she wrote.
+Union agreement sets rules on data and instructional decisions
+The extension follows a November 10 announcement by the American Federation of Teachers (AFT) and New York City’s United Federation of Teachers (UFT) of a legally binding AI safety and privacy agreement with Anthropic.
+The unions say the agreement establishes protections for student and educator information, keeps educators responsible for instructional and other consequential decisions about students, and requires understandable information about how products work, their limitations and their safeguards.
+Under the signed standard, covered student and educator data cannot be used for general-purpose model training, sale or advertising. The agreement permits narrowly defined safety and security processing.
+Its Anthropic-specific provisions currently apply to Claude for Teachers, including protections for student information entered by educators.
+Anthropic separately states that conversations in verified Claude for Teachers accounts are not used to train its models. Its guidance also makes clear that using educational data depends on district and state policies, and that identifiable student records require school or district authorization.
+Access remains focused on adult educators
+Claude for Teachers is an educator-facing service, consistent with Anthropic’s policy that Claude.ai is unavailable to anyone under 18.
+In her LinkedIn post, Kelly connected that approach to uncertainty about AI’s effects on developing minds, while describing teachers as the people able to judge when students need additional support or a different explanation.
+Educators can apply for verification through Claude’s teacher page. School and district leaders can use the organizational sign-up route to establish centrally managed access under K-12 terms and a student data privacy agreement.
+ETIH Innovation Awards 2027 open for entries
+The ETIH Innovation Awards 2027 are now open for entries, with 26 categories recognising companies, institutions, projects and individuals making a measurable impact across education technology. The global awards span AI in education, digital learning, higher education, skills and workforce, inclusion, education operations, evidence and impact, with entries managed through ETIH’s new online awards platform.
+Entries are open worldwide, with the early-bird deadline on Friday 18 December 2026 and the final entry deadline on Friday 26 February 2027 at 23:59 UK time.
+Explore the 2027 categories and judging criteria, read the How to Enter guide or start an entry through the ETIH Innovation Awards 2027 platform.

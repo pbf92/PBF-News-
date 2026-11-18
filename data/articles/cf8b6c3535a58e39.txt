@@ -1,0 +1,37 @@
+URL: https://finance.yahoo.com/personal-finance/investing/article/anthropic-ipo-what-investors-should-know-about-buying-in-155852585.html
+TITLE: Anthropic IPO: What investors should know about buying in
+OUTLET: Yahoo Finance
+
+Anthropic is set to price its initial public offering on Wednesday, Nov. 18, and will begin trading the following day on the Nasdaq under the ticker symbol "ANT." The AI research company behind Claude launched its roadshow for its proposed IPO on Tuesday, Nov. 10.
+The company is targeting a valuation of up to about $1.4 trillion, according to an amended filing, a move that would make it one of the biggest stock market debuts in history. Anthropic (ANTH.PVT) said it plans to sell 825 million shares at a range of between $70 and $78 each.
+The filing also lays out risks. Anthropic has warned that its AI models could pose a "catastrophic or existential risk to humanity" and could potentially resist shutdown. Other risk factors cited in the prospectus include the lack of long-term client contracts, which exposes the company to income volatility, and the fact that nearly 25% of Anthropic's revenue for the first nine months of 2026 came from just five customers, though no single customer accounted for more than 10%.
+Read more: 5 unexpected risk factors Anthropic is worried about
+The new details are likely to spark further interest in Anthropic's highly anticipated IPO. Thinking about buying shares in the AI company? Here's how to get in on its IPO, when you can buy, and what risks to consider.
+Dig deeper: Create a stock-investing strategy in 3 steps
+How the Anthropic IPO investor process will work
+Fidelity posted instructions on how to invest in the Anthropic IPO, noting that customers with at least $25,000 in certain Fidelity assets may be eligible to participate.
+In addition to Fidelity, other brokerage firms participating in the Anthropic IPO include: E*Trade, Charles Schwab, and SoFi. Investor qualifications vary among each broker. SoFi has no client minimum balance to participate, while Schwab requires a $50,000 minimum account balance. E*Trade, owned by Morgan Stanley, hasn't publicly announced investor requirements.
+In general, the process works like this:
+- Complete an investor profile.
+- A prospectus will be made available, including a company profile and details of the stock offering.
+- Place a conditional offer (an "indication of interest") specifying the number of shares to be purchased (typically with a minimum of 100 shares) and the maximum price per share. This does not guarantee that shares will be allocated.
+- Ensure there is sufficient cash in an investment account to cover the cost of the stock purchase.
+Investors will learn if they are allocated any shares the night before or early on the morning of the IPO.
+Track your portfolio using AlphaSpace and track your finances with My Money
+Should you buy on day one?
+History suggests buying on IPO day is often a bad bet, writes Yahoo Finance's Jared Blikre.
+Of over 9,000 IPOs between 1975 and 2021, 60% were trading at or below their first-day closing price three years later, according to data from Jay Ritter's IPO research at the University of Florida.
+The first trade isn't your only chance to get in on Anthropic. Waiting could give you more information to work with before putting your money on the line.
+Anthropic says AI is 'building itself,' and there's lots of corporate jargon
+Anthropic says that AI skills are improving at an astounding rate. The company estimates that the number of tasks AI can reliably complete on its own is doubling about every four months.
+The company said that Claude can now be handed an underspecified engineering problem and figure out how to solve it, matching or outperforming human cognitive abilities, according to a recent blog post entitled "When AI builds itself."
+However, the company says that "if it were possible to effectively slow the development of this technology to give ourselves more time to deal with its immense implications, we think that would likely be a good thing," but also notes that it could allow others to catch up, leaving everyone less safe.
+As Yahoo Finance executive editor Brian Sozzi points out, Anthropic's IPO prospectus is packed with a lot of next-level corporate jargon that can be difficult for investors to decipher. The company listed 39 terms, and Yahoo Finance selected those most likely to trip up investors, including "context window," "interleaved thinking," and "RLHF," and explained them. Keep the list handy for IPO day.
+Read more: 12 new terms Anthropic says you must understand before investing in the company
+Anthropic's CEO has called for stronger AI oversight
+The prospectus filed Oct. 26 said that AI models might pose a "catastrophic or existential risk to humanity, particularly if such systems were misused, replicated, weaponized, or allowed to operate with a high degree of autonomy."
+CEO Dario Amodei, in a June blog post, urged AI companies to slow the release of new capabilities until they can better address those risks.
+Amodei also issued a plea for government regulation, warning of "the very real risks" that AI poses to cybersecurity. He noted "the potential for disruption of the financial sector, critical infrastructure, and national security," and even "biological risks" are possible. He referenced the "When AI builds itself" thesis noted above as evidence.
+He recommended serious and binding regulation of AI.
+"I believe the best analogy, at least at the current stage of the exponential, is to cars, airplanes, or drugs — powerful technologies essential to the modern economy, but capable of killing large numbers of people if designed or operated poorly."
+Amodei added that even more stringent oversight may be necessary, perhaps soon, "when the most powerful AI systems look less like airplanes or automobiles and more like weaponizable nuclear materials — a threat to humanity rather than 'just' a threat to public safety."

@@ -1,0 +1,21 @@
+URL: https://www.abs.gov.au/media-centre/media-releases/highest-quarterly-wage-growth-december-quarter-2023
+TITLE: Highest quarterly wage growth since December quarter 2023
+OUTLET: Australian Bureau of Statistics
+
+Highest quarterly wage growth since December quarter 2023
+The Wage Price Index (WPI) rose 1.1 per cent in the September quarter 2026 and 3.5 per cent annually (seasonally adjusted), according to data released by the Australian Bureau of Statistics (ABS) today.
+Rachael McCririck, ABS head of prices statistics, said: “At 1.1 per cent, this is the strongest quarterly wage growth since December quarter 2023.”
+”While annual wage growth of 3.5 per cent was slightly higher than the 3.4 per cent recorded at the same time last year, it remains significantly below the peak of 4.3 per cent in late 2023.“
+Private sector wages rose 3.4 per cent in annual terms, up from 3.2 per cent the same time last year.
+Public sector annual wage growth was 3.9 per cent, up from 3.8 per cent a year earlier. This marked the seventh quarter in a row in which annual wage growth in the public sector outpaced annual private sector growth.
+“Wage setting decisions made by the Fair Work Commission, including the Annual Wage Review increase of 4.75 per cent to modern awards, were a key driver of much of the growth in private sector wages this quarter,” said Ms McCririck.
+“The main driver of public sector wage growth was pay rises for state government front-line workers covered by enterprise agreements. This included groups like nurses, midwives and police officers.”
+Media notes
+- Please attribute the 'Australian Bureau of Statistics (ABS)' when using our data.
+- All figures in this release are seasonally adjusted, unless otherwise specified.
+- September quarter 2026 Wage Price Index data captures wages for the last pay period ending on or before the third Friday of the middle month (August) of the quarter.
+- The WPI is designed to measure the change over time in the price of wages and salaries (i.e. a pure price change, unaffected by the changes in the quality or quantity of work performed or the composition of the workforce).
+- To learn more about different measures of wages change, their purpose and how to use them, see our Earnings guide. It provides summary information on our various earnings measures including the Wage Price Index.
+- For any media requests, email media@abs.gov.au or call 1300 175 070 (9am–5pm Canberra time) with your questions and deadline.
+- Explore our Data Crash Course for guidance on finding and interpreting ABS data, and subscribe to our release notifications to stay updated.
+- Information on how the ABS will release market sensitive releases during a website or API outage.

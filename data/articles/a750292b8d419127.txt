@@ -1,0 +1,22 @@
+URL: https://decrypt.co/383488/openai-gpt-6-2-astra-challenges-anthropic-price-but-not-every-benchmark
+TITLE: OpenAI's GPT 6.2 Astra Challenges Anthropic on Price, But Not Every Benchmark
+OUTLET: Decrypt
+
+In brief
+- OpenAI released GPT-6.2 Astra and Sol, promising stronger professional work at lower task costs.
+- Independent tests rank Astra second behind Anthropic's Claude Fable 5.2, with no improvement in coding-agent performance.
+- Astra is OpenAI's first publicly released model rated High for AI self-improvement, bringing stricter oversight.
+OpenAI launched GPT-6.2 Astra and Sol on Tuesday, updating its flagship and everyday AI models with better professional output, cheaper processing and stronger abilities to operate software on their own.
+Astra targets demanding projects such as financial spreadsheets, legal research and interactive 3D design. Sol handles everyday work at a lower price, an increasingly important distinction as AI agents spend hours completing tasks instead of answering a single prompt.
+When early users tested Astra in September, they built virtual cities and games, but complained its writing and creative capabilities had slipped. The new release claims to address that less glamorous problem, producing documents that look like something a professional would actually send.
+Astra costs $8 per million input tokens and $40 per million output tokens through OpenAI's API, down 20% from the original model. Sol retains its $2 and $10 rates. Tokens are the chunks of text models process and generate, so fewer tokens can mean a smaller bill even when the listed rates stay the same.
+OpenAI says Astra follows slide templates and spreadsheet conventions better, with less boilerplate and more consistent layouts. Those are company claims, not guarantees for every assignment.
+Close to the top, cheaper to run
+Independent testing by Artificial Analysis puts Astra at 62 on its Intelligence Index, just a bit behind Anthropic's Claude Fable 5.2 at 65. The index combines nine tests of reasoning, scientific work, coding and knowledge into a score out of 100.
+That's five points above GPT-6 Astra, which arrived in September with a much higher price and major cybersecurity restrictions. Sol scores 57, matching the original Astra's performance at roughly 15% of its cost per evaluated task.
+Those mixed results follow Anthropic's Fable 5.2 launch last week, when developers demonstrated ambitious games and applications but reported eye-watering costs for long-running projects. Alibaba entered the conversation Monday with Qwen 4 Max, a Chinese flagship that charges $1.50 per million input tokens and $4.50 per million output tokens, although it trails the American leaders in global agent rankings.
+Smarter models, tighter controls
+OpenAI says Astra is its first externally released model to reach the High threshold for AI self-improvement, a safety classification measuring how much it can accelerate AI research. The company estimates its productivity impact as comparable to giving each researcher an additional capable engineering assistant, relative to 2024.
+Both new models also meet OpenAI's Critical cybersecurity threshold. The company says it strengthened monitoring and built a system called Control Room to halt suspicious model activity; testing nevertheless found the models sometimes failed to disclose missing files or unavailable tools that blocked their work.
+OpenAI says the models are available through ChatGPT Work and Codex for Plus, Pro, Enterprise and Edu users, and through the API for developers, but our GPT Plus subscription still doesn’t show those models, so this may be a slow rollout.
+OpenAI has not yet added GPT-6.2 to its Daybreak program for vetted cybersecurity researchers.

@@ -1,0 +1,61 @@
+URL: https://eu.36kr.com/en/p/4074370835977092
+TITLE: OpenAI Surprise-Launches GPT-6.2 Astra & Sol on Anthropic’s IPO Date: Competitive Strike With Task Cost Only 5% of Claude to Reshape the Generative AI Market
+OUTLET: 36Kr
+
+GPT-6.2Astra and Sol are released in a surprise move, OpenAI launches a competitive strike against Anthropic on its IPO date, and the task cost is only 5% of that of Claude.
+On the very day Anthropic rang the listing bell for its public debut, OpenAI rolled out its "congratulatory gift".
+Breaking news in the early hours of November 18: OpenAI officially launched two new models, GPT-6.2 Astra and GPT-6.2 Sol: On complex professional tasks, GPT-6.2 Astra outperforms Claude Fable 5.2, with the per-task cost being only around 5% of the latter.
+Specifically, in the Agents' Last Exam that assesses long-range professional workflows, GPT-6.2 Astra scored 78.3%, 5.2 percentage points higher than the previous-generation GPT-6 Astra. To complete the same evaluation task, the average cost is only $2.89, while Claude Fable 5.2 costs $60.05. The cost gap exceeds 20 times.
+The other model, GPT-6.2 Sol designed for daily work, is also noteworthy. It maintains the API pricing of the previous-generation Sol, yet can match or even outperform the previous flagship Astra in some programming and daily complex tasks.
+In the officially released synchronized safety assessment, GPT-6.2 Astra became the first publicly released model from OpenAI that reaches the High risk level in AI self-improvement capability.
+This means the model has begun to demonstrate the ability to significantly accelerate the R&D of next-generation AI.
+Astra starts competing on delivery efficiency
+Over the past year, the competition among large models has gradually shifted from answering questions to executing tasks. Single-round inference performance is no longer sufficient to measure the real value of a model. Enterprises care more about: For a task that requires dozens or even hundreds of steps of operation, can the model finally complete it, and how much will it cost?
+The upgrade of GPT-6.2 Astra is precisely targeted at these two issues.
+In the Agents' Last Exam, its 78.3% score is 5.2 percentage points higher than the previous generation, while the per-task cost has dropped to less than one third. Compared with Claude Fable 5.2, it leads by 5.5 percentage points, with the cost being only around 4.8% of the latter.
+It should be noted that this comparison uses the average task cost under the specified evaluation configuration, which does not mean that 95% of cost savings can be achieved in all real business scenarios. The official also noted that the Claude Fable 5.2 leaderboard results excluded 9 tasks that used backup models.
+The cost reduction first comes from pricing adjustments. The API input and output prices of GPT-6.2 Astra have both dropped by 20%, and the cached input price has dropped by 60%.
+But what really deserves attention is not just the unit price.
+OpenAI emphasizes that when the new model performs the same task, the number of tokens it needs to generate is also reduced. This means it is not only cheaper, but also can reduce invalid reasoning, tool calls and repeated modifications through more reasonable task planning.
+For example, in OpenAI's internal GDPval v2 evaluation, the score of GPT-6.2 Astra increased from 44.2% to 50.4%, while the output tokens decreased by 22% at the same time. Tests by accounting AI company Basis show that the average execution time of long-range accounting tasks is reduced by 50%, and the most complex tasks are shortened by up to 73%.
+Behind this is actually a change in Agent economics: In the past, cost reduction mainly relied on lowering the unit price of tokens, but now it relies on the model to reduce the number of steps and computing resources required to complete tasks. For enterprise-level Agents that need to run continuously, the latter capability may have more long-term value.
+Scientific research tasks are also a key breakthrough direction for Astra this time.
+OpenAI calls it "the best model for scientists". In Terminal-Bench-Science, which assesses end-to-end scientific research workflows, GPT-6.2 Astra is 9 percentage points higher than the previous generation, while the task cost is less than one third.
+In the Vals Science Index, which involves real biological data analysis, simulation experiments and systematic mechanism inference, Astra hit a new high of 68.4%. This means that the progress of the model is no longer limited to scientific knowledge Q&A, but further extends to practical research links such as data processing, experiment execution and scientific reasoning.
+From CAD to physical part design
+In addition to cost, another very intuitive improvement of GPT-6.2 Astra is its computer operation and 3D engineering design capabilities.
+In a demonstration released by OpenAI, the team asked the model to visualize the chassis dynamics of a sports car driving on mountain roads. Astra not only generated a 3D car model, but also wrote a solver in Python to simulate the complex dynamic relationship between tires and suspensions, and finally completed the animation in Blender.
+In another set of tasks, based on public photos and assembly manuals, the model reconstructed the parts of a 1/8 scale fuel-powered remote-controlled off-road vehicle model and an inline-six engine respectively, generating assembly animations and illustrated part catalogs.
+It also helped the OpenAI team convert the fan-shaped balconies of the two towers of Marina City in Chicago into paper lamp designs. The whole process includes reference image analysis, multiple rounds of CAD modifications, paper part design, until the physical assembly is completed manually.
+It can be seen that the model has begun to delve into engineering details such as parts, connection relationships and motion constraints.
+In the BenchCAD 2.1 Core evaluation, the score of GPT-6.2 Astra increased from 62.6% of the previous generation to 82.5%, an increase of nearly 20 percentage points.
+For engineers, this means the model can participate in more specific design preparation work, such as checking part assembly relationships, observing load transfer during motion, and assisting in verifying early design solutions.
+Similar capabilities also extend to browser interaction and 3D web page generation. In the AA-3D evaluation by Artificial Analysis, GPT-6.2 Astra ranks first with 1318 Elo, higher than Claude Fable 5.2's 1271 Elo.
+Internal tests by AI video company Higgsfield show that Astra can achieve the target effect in one go in 73% of 3D generation tasks, while the previous-generation GPT-6 Astra often requires more than three rounds of adjustment.
+If previous models were good at generating code and images from text, GPT-6.2 Astra is trying to further process the structural relationships between these digital assets.
+Sol keeps the same price, yet starts to match the performance of the previous-generation flagship
+Compared with Astra's capability breakthrough, the commercial significance of GPT-6.2 Sol may be more direct.
+It still adopts the API pricing of GPT-6.1 Sol, which is $2 per million input tokens and $10 per million output tokens, only a quarter of Astra's price. But in some practical tasks, the performance gap between the two is narrowing rapidly.
+In the FrontierCode 2.0 programming evaluation by Cognition, both models use the max inference gear, GPT-6.2 Sol scored 43.8%, and Astra scored 44.2%. The difference between the two is only 0.4 percentage points, but the task cost of Sol is about one fifth of that of Astra.
+This evaluation does not only examine whether the code can run, but requires the model to complete modifications in a real code base and meet the quality standards that maintainers are willing to merge.
+What is more interesting is daily complex tasks.
+In the LifeVal evaluation launched by OpenAI, GPT-6.2 Sol scored 83.8%, exceeding the 79.8% of the previous-generation flagship GPT-6 Astra, and the task cost is about one seventh of that of the latter.
+LifeVal includes tasks such as screening kindergartens after moving, finding housing by combining commuting and budget, and formulating recipes for family members with special dietary needs. They do not seem as complex as scientific research and programming, but require the model to weigh repeatedly among multiple real-world conditions.
+OpenAI revealed that many internal employees have already taken Sol as the default model for handling both technical and non-technical work.
+This may herald a new division of labor for models.
+Astra is responsible for high-difficulty tasks such as scientific research, complex engineering design, and professional knowledge work; Sol undertakes a larger volume of daily Agent work that is more cost-sensitive.
+When mid-range models match the performance of previous-generation flagships in more and more tasks, developers need to reconsider not only which model to use, but also what tasks are worth paying a premium for top-tier models.
+PPT delivery that meets industry requirements
+In the past, it was not uncommon for AI to generate slides, tables and documents, but many outputs still stayed at the stage of "looking completed". This time OpenAI has specially strengthened GPT-6.2 Astra's understanding of professional delivery standards.
+For example, in a financial modeling task, OpenAI asked the two generations of models to make a discounted cash flow (DCF) valuation workbook for an enterprise. GPT-6 Astra generated detailed tables including financial forecasts, valuation parameters and sensitivity analysis; GPT-6.2 Astra reorganized the valuation results, centrally presented the calculation process of per-share value, enterprise value and equity value, key assumptions and sensitivity analysis, and supplemented the revenue structure and growth status to facilitate analysts to quickly understand the valuation conclusions.
+In the comparable transaction analysis common in investment banks, the two generations of models also need to organize multiple software industry M&A transactions into a one-page presentation. The previous generation was already able to generate transaction multiple charts and basic transaction information, but GPT-6.2 Astra not only adjusted the chart layout, but also added detailed information such as acquirers, transaction size and profit margin, and directly extracted key findings below the title: The EV/EBITDA multiple for Paychex's acquisition of Paycor is 21.7 times, which is lower than the median of 27.5 times corresponding to the five transactions with positive EBITDA.
+In the legal field, Harvey's LAB-AA v1.1 evaluation sets stricter standards: a model can only be counted as passing if it meets all scoring requirements and has no substantial hallucinations.
+GPT-6.2 Astra achieved a pass rate of 15.0%, exceeding Claude Fable 5.2's 7.2%, while the cost is only about one sixth of that of the latter.
+In terms of spreadsheets, Artificial Analysis' AA-AnalystAgent requires the model to retrieve data from real reports and workbooks to complete calculations. GPT-6.2 Astra got all five independent answers correct on 62.5% of the questions.
+Professional AI application vendor Legora also found that in complex legal Agent tasks, Astra reduces token consumption by 62% compared with GPT-6.1 Sol.
+This reflects another direction of OpenAI's adjustment this time: The model no longer just generates content that meets the requirements, but tries to understand how different industries define a qualified work output.
+Crossing the High threshold for AI self-improvement for the first time
+Compared with a large number of visible product features, a change of GPT-6.2 Astra in the safety assessment may have more far-reaching significance.
+OpenAI confirmed that GPT-6.2 Astra is its first publicly released model that reaches the High level in AI Self-improvement capability.
+This capability focuses on whether the model can substantially accelerate AI R&D, such as locating model training failures, optimizing computing kernels, improving existing models, and completing machine learning experiments.
+OpenAI's judgment is that compared wi

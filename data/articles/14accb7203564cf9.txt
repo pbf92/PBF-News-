@@ -1,0 +1,11 @@
+URL: https://sg.news.yahoo.com/malaysia-seeks-details-from-anthropic-over-ai-influence-campaign-022515178.html
+TITLE: Malaysia seeks details from Anthropic over AI influence campaign
+OUTLET: Yahoo News Singapore
+
+By Danial Azhar
+(Bloomberg) – Malaysia is seeking further details from Anthropic PBC over the alleged use of its artificial intelligence models to power a political influence operation targeting voters in the country.
+Anthropic said in a September report it removed an account that used its Claude AI model to a run a commercial election manipulation platform primarily targeting Malaysian voters. The platform included about a thousand fake X social media accounts, a fake news outlet and fabricated dossiers, Anthropic said.
+The Malaysian Communications and Multimedia Commission has sought more information from Anthropic about its report, the communications ministry said in a written parliamentary reply Tuesday. MCMC will then determine if legal actions need to be taken, the ministry said.
+It also said Malaysia is drafting a bill to regulate AI usage to ensure accountability and risk management.
+More stories like this are available on bloomberg.com
+©2026 Bloomberg L.P.

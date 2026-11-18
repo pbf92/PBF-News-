@@ -1,0 +1,32 @@
+URL: https://www.stocktitan.net/news/WLY/wiley-and-abridge-partner-to-bring-the-evidence-that-informs-09vurohnb1yc.html
+TITLE: An AI assistant for doctors will draw on nearly 10,000 medical reviews.
+OUTLET: Stock Titan
+
+Wiley and Abridge Partner to Bring the Evidence that Informs Clinical Guidelines Worldwide into the Abridge Assistant
+Sentiment and the balance of points
+Rhea-AI Sentiment reads the wording of the document, how positive or negative its language is on a 1 to 5 scale. The balance of points shown with the takes weighs what the document actually discloses, so the two can disagree, for example when a trial that missed its main goal is described in upbeat language.
+Abridge will license from Wiley Cochrane's clinical evidence for the Abridge Assistant, which provides context-aware clinical decision support across more than 300 U.S. health systems
+    SAN FRANCISCO & HOBOKEN, N.J.--(BUSINESS WIRE)-- Wiley (NYSE: WLY), a global leader in authoritative content and research intelligence for the advancement of scientific discovery, innovation and learning, and Abridge, the first AI-native clinician intelligence platform, today announced a partnership to bring Cochrane evidence into clinical decision support enabled by the Abridge Assistant.
+Through the partnership, Wiley will license to Abridge the Cochrane Database of Systematic Reviews—the home of gold standard evidence syntheses, widely used to inform clinical guidelines worldwide—and Cochrane Clinical Answers—a curated collection of actionable clinical insights drawn from Cochrane reviews. That evidence will be integrated into responses within the Abridge Assistant, appearing as concise, cited summaries with full text accessible to Wiley subscribers.
+Clinicians face complex decisions under time pressure, alongside other demands that contribute to burnout. Each patient’s circumstances require them to search for relevant medical evidence and assess how it applies in real time. The Abridge Assistant helps by bringing context-aware clinical decision support into the conversation, drawing on the patient’s chart, the clinical conversation, and trusted medical evidence to provide cited responses tailored to the patient.
+“Trusted evidence becomes even more useful when it connects to the context of care,” said Shiv Rao, CEO and co-founder of Abridge, and a practicing cardiologist. “Our partnership with Wiley brings Cochrane’s rigorously vetted, up-to-date medical evidence directly into the Abridge Assistant, helping clinicians connect medical knowledge with the questions that arise in their daily practice within the existing security and governance framework of their organizations.”
+“Our partnership with Abridge, a leading provider of AI for health systems, reflects the growing role Wiley's evidence plays in leading-edge healthcare AI tools. As these tools become part of everyday practice, clinicians deserve evidence behind them they can trust, verify, and stand behind," said Armughan Rafat, chief AI and data analytics officer for Wiley.
+Under the agreement, Wiley will license Cochrane's library of nearly 10,000 systematic reviews and about 4,000 clinical answers to Abridge for use within the Assistant, adding to the other published evidence sources it already draws on inside the clinical encounter. Abridge is used across more than 300 U.S. health systems and will support more than 120 million patient encounters this year.
+“Promoting evidence-informed health decision-making, and advocating for equitable health, is core to Cochrane's mission. AI is changing how people access evidence, and partnerships like this help ensure that trustworthy evidence stays at the center of it," said Karla Soares-Weiser, CEO of Cochrane.
+The multi-year partnership covers the integration of Cochrane evidence into decision support within the Assistant for U.S. care-delivery organizations, and positions Wiley and Abridge to continue exploring ways to extend evidence-based content into clinical workflows.
+About Wiley
+Wiley (NYSE: WLY) is a global leader in authoritative content and research intelligence for the advancement of scientific discovery, innovation, and learning. With more than 200 years at the center of the scholarly ecosystem, Wiley combines trusted publishing heritage with AI-powered platforms to transform how knowledge is discovered, accessed, and applied. From individual researchers and students to Fortune 500 R&D teams, Wiley enables the transformation of scientific breakthroughs into real-world impact. From knowledge to impact: Wiley is redefining what's possible in science and learning. Visit us at Wiley.com and Investors.Wiley.com. Follow us on Facebook, X, LinkedIn and Instagram.
+About Abridge
+Founded in 2018, Abridge is the first AI-native clinician intelligence platform organized around the patient, built for clinicians, and designed to help health systems coordinate the clinical, financial, and evidence-based decisions for every moment of care. Powered by purpose-built AI for healthcare, Abridge connects patients, providers, payers, and life sciences companies. This year, the platform will support more than 120 million patient-clinician encounters across more than 300 of the largest and most complex health systems in the U.S. With deep workflow integration, the Abridge clinician intelligence platform has been validated to support encounters in 28+ languages across specialties and care settings.
+Abridge is setting the industry standard for the responsible deployment of AI across health systems with continual and transparent AI evaluation. The Abridge Assistant references and cites gold-standard sources of evidence. Features like Linked Evidence map AI-generated documentation and responses to source data, helping clinicians quickly trust and verify the output.
+Abridge was awarded Best in KLAS for Ambient AI in 2025 and 2026, in addition to other accolades, including TIME Best Inventions of 2024 and 2025, CNBC Disruptor 2025, and Fast Company's Most Innovative Companies 2025.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20261116095169/en/
+Abridge
+Katie Jennings, External Communications
+press@abridge.com
+Wiley
+Andrea Sherman, Media Relations
+asherman@wiley.com
+Brian Campbell, Investor Relations
+Brian.Campbell@wiley.com
+Source: Abridge

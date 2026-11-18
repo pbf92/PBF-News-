@@ -1,0 +1,40 @@
+URL: https://news.xbox.com/en-us/2026/11/17/millions-of-butt-slaps-last-pirates/
+TITLE: Millions of Butt Slaps: Last Pirates Sails into XBOX Game Preview
+OUTLET: Xbox Wire
+
+Summary
+- Online co-op comedy horror game for up to four players.
+- Out now in XBOX Game Preview with Steam crossplay.
+- The story of how it got here and what’s next.
+Ahoy, pirates! We’re RetroStyle Games, a team from Kyiv, Ukraine, and our online co-op horror game Last Pirates: Die Together is out today in XBOX Game Preview on XBOX Series X|S and PC. It has crossplay with Steam! So, a lobby can be half on console and half on PC and still lose their butts together.
+Up to four pirates land on a cursed island, grab treasure with stretchy arms and drag it back to the ship before the captain’s quota runs out. In practice monsters flip the cart, a monkey begs for coins (bro, we’re broke too), and somebody always wants to tear off a friend’s booty and slap it.
+Honestly, we had no idea what to write here. We’ve never done anything like this before. Making a game is a thousand small stories, and they won’t fit into 1,000 words. We could just write “butt” a thousand times, but we’d rather share a few favorites, so you get to know the crew behind the booty.
+Story 1: The Game Jam that Got out of Hand
+After Ocean Keeper, our pretty serious roguelike, we wanted something much lighter, so in January, 2026 we ran a game jam inside the studio. Once the pirate prototype was playable, the office never got quiet again. Why pirates? Yarr, who doesn’t love pirates?!
+Story 2: The Playtest Where the Butt Came off
+We wanted our pirates to be breakable, so at zero health they snap in half. In one playtest everybody kept trying to stick the bottom half back on, so we coded it, and the revive worked better than anything we had planned. Now monsters bite butts off, crewmates steal them, and a downed pirate comes back when a friend slaps a spare booty onto them.
+For Steam Next Fest in June we put a giant butt on the beach and asked players to slap it a million times to unlock an update. An average pirate lands about 1,000 slaps in five hours, so we expected it to take a while. But(t)… one crew of four did it alone in seven hours. We were not prepared.
+Story 3: The Mimic Learns to Talk
+For a long time the Mimic was our most boring monster: it only copied how a player looked, and we could spot it every time. Then streamers walked straight up to it, sure it was their buddy. Okay, the Mimic works. Time to make it worse. Now each Mimic picks any player in the lobby, copies their skin and borrows short shouts from their voice chat. Two Mimics on the map? Two pirates in the crew have evil twins. Today it’s our favorite monster (not counting the muscle-mice, they’re number one).
+Story 4: Our Favorite Bug, and Other Things Players Found that we Never Made
+Every streamer we’ve played with does the same two things on their first spawn: slaps a butt, then climbs into the cauldron and flies off the map, thanks to a bug they all find within seconds. Maybe we were all witches in a past life. The cauldron still flies, and we’re keeping it.
+Then a group on YouTube snuck up behind our monster who only moves when nobody’s looking (we call him Misha, short for Man In Shdows), sniffed his butt, and he vanished. Pure coincidence, but they were sure it was a secret mechanic and kept sniffing him for the rest of the video. It “worked” two times out of three. There’s no such mechanic, and it was so funny to watch.
+Story 5: A Bowling Prophecy
+We also dreamed of a certain YouTuber playing it, the one the internet pictures as a bag of milk in a propeller hat. One night the marketing team went bowling and made a bet: if each of us rolled a strike in a row, we’d email him. We all did. The email with the subject line “Bowling prophecy” went out, he answered, and he actually played Last Pirates. We’re still not over it.
+Story 6: Kyiv
+Some days the meeting moves to the shelter, or a playtest runs on the generator during blackouts. One morning a strike hit across the road, bent our windows inward and injured one of our teammates. That’s the scary reality for everyone who lives in Ukraine. It doesn’t stop us: this team and this silly pirate game keep us sane, and we want to bring a little joy. If people get scared, let it be of Misha or a jump scare and nothing else. We are so grateful to everyone who makes it possible for us to keep making games in Kyiv.
+Current Port: XBOX, and We’re Not Stopping
+On XBOX the game gets the same updates as Steam at the same time, and crews can mix both platforms. A new event is coming this winter, and after that, the full release.
+What’s in XBOX Game Preview
+• Online co-op for one to four players, with Steam crossplay.
+• Optimized for XBOX Series X|S.
+• XBOX Play Anywhere: buy once, play on XBOX Series X|S and PC.
+• In-game voice chat (the Mimic says thanks).
+• A lobby browser to find a crew.
+• Meta-progression: weapons, items and a wardrobe full of skins.
+• Regular updates in sync with Steam.
+See you on the Islands
+Last Pirates: Die Together is out now in XBOX Game Preview. Grab friends, slap booty, set sail and let us know what you think! Thank you from the bottom of our hearts.
+P.S. Butt, butt, butt. It would be a sin not to use this chance, hehe.
+Last Pirates: Die Together (Game Preview)
+RetroStyle Games
