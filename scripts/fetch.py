@@ -230,8 +230,8 @@ def key_for(item):
 
 
 ARTICLES = DATA / "articles"
-ARTICLE_PER_DESK = 10
-ARTICLE_TOTAL = 90
+ARTICLE_PER_DESK = 15
+ARTICLE_TOTAL = 140
 ARTICLE_BUDGET_S = 420   # stop enriching after 7 minutes so the paper is never late
 
 
@@ -277,6 +277,8 @@ def enrich_articles(items, now):
         if len(by_desk[i["desk"]]) < ARTICLE_PER_DESK:
             by_desk[i["desk"]].append(i)
     picks = [i for d in by_desk.values() for i in d][:ARTICLE_TOTAL]
+    for i in picks:
+        i["article_tried"] = True
     start = time.time()
     resolved, errors = [], []
     direct = [i for i in picks if "news.google.com" not in i.get("link", "")]
@@ -413,7 +415,10 @@ def main():
                        "fetched": len(r["items"]), "new": fresh, "errors": r["errors"]})
 
     track_outlets(new_items, now)
-    enrich_articles(new_items, now)
+    # back-fill: recent headlines from earlier fetches that never got their text saved
+    backfill = [i for i in old_items if not i.get("article") and not i.get("article_tried")
+                and datetime.fromisoformat(i["first_seen"].replace("Z", "+00:00")) > now - timedelta(hours=24)]
+    enrich_articles(new_items + backfill, now)
     all_items = old_items + new_items
     INBOX.mkdir(parents=True, exist_ok=True)
     (INBOX / "rolling.json").write_text(json.dumps(

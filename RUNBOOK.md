@@ -4,6 +4,11 @@ You are a scheduled run producing Pete's Personal Intelligence Journal. Pete is
 not watching: never stop to ask a question. Make the reasonable call, note it in
 the edition, and finish. All times are Pacific (America/Los_Angeles).
 
+**Never use WebFetch or any tool that opens a web page**, and never tell a
+worker to. Each new site would wait for Pete's approval, and he is not there to
+give it. Articles are read from the text GitHub saved (`article` fields in the
+briefs); everything else is checked with WebSearch.
+
 The prompt that started you says which job: **morning** (weekday full edition),
 **weekend** (light edition; Sunday adds the week ahead) or **midday** (update
 check). Run everything from the repo root.
@@ -126,13 +131,28 @@ If the run failed before publishing, your final message starts with
    push `data/state.json`, and end with the single line `No update.`
    Do not send a notification.
 4. Otherwise launch **one** worker (Agent tool, `model: "sonnet"`) with this
-   task: read `EDITORIAL.md` and every brief in `data/work/briefs/`, and return
-   at most 3 stories that are **genuinely new and material since this morning**:
-   breaking, market-moving, or a real change on a live thread. Use at most
-   3 WebFetch calls and 2 searches, in the same story format as the desk worker,
-   each with `"desk"`. Returning zero is the expected, normal outcome.
-5. Check its stories against the bar yourself, then write
+   task: read `EDITORIAL.md`, the **midday bar** below, and every brief in
+   `data/work/briefs/`; read saved `article` files where present; use at most
+   2 WebSearch calls and **never WebFetch**. Return 0–2 stories in the same story
+   format as the desk worker, each with `"desk"`. Returning zero is the
+   expected, normal outcome.
+5. Apply the midday bar yourself, strictly, then write
    `{"updates": [ ...stories... ]}` to `data/work/update.json` and run
    `python3 scripts/publish.py midday`. Commit and push `data`.
+### The midday bar (a push interrupts Pete at work: be stingy)
+A midday update is only for news that **cannot wait for tomorrow's paper**:
+- **Market-moving now**: a Fed or major data surprise, a big earnings shock
+  (e.g. Nvidia after the close), a geopolitical shock that moves Nasdaq futures.
+- **Official prop-firm rule change** at a watchlist firm, effective soon.
+- **Major confirmed United news**: manager change, completed signing, serious
+  injury to a key player. Not rumours, previews or press-conference quotes.
+- **Major breaking world event**: war or major attack, leader change, election
+  result, a major policy decision taking effect.
+Not: incremental updates on a live thread, analysis or commentary, previews,
+studies, product launches, gaming news, anything "reported" only.
+At most **2 updates per check**, and if today's edition already has 2 or more
+updates, only add one for something truly major. When unsure, leave it for the
+morning paper.
+
 6. If there were stories, the committed `data/push/latest.json` sends the app's
    push automatically. End with the `PUSH_` lines and `Open: https://pbf92.github.io/PBF-News-/`. If none, end with `No update.`

@@ -10,17 +10,20 @@ edition is **{MODE}** for **{DATE_PT}** (Pacific Time). Work fast and cheap.
    holds the text of the BLS and Fed calendar pages.
 2. For each desk, pick the few headlines that clear the bar. Many headlines carry
    an `article` field: that file already holds the full article text (fetched
-   for free on GitHub), so **read it with the Read tool instead of WebFetch**, and
-   cite its `resolved_url` (the real article address) as the source URL rather
-   than a Google News link. Only use WebFetch when there is no saved article and
-   you need detail (at most 6 fetches for the whole group). A story confirmed
-   from its saved article text counts as read, not just "reported". Prefer Tier 1 sources; confirm `Unsure`-source items with a Keep
-   source. Google News links may not open: if so, search the headline instead.
+   for free on GitHub), so read it with the Read tool and cite its
+   `resolved_url` (the real article address) as the source URL rather than a
+   Google News link. A story confirmed from its saved article text counts as
+   read, not just "reported". Prefer Tier 1 sources; confirm `Unsure`-source
+   items with a Keep source.
+   **Never use WebFetch** (or any tool that opens a web page). This run is
+   unattended and every new site would wait for Pete's approval. If a story has
+   no saved article, confirm it with WebSearch; if search can't confirm it,
+   mark it `reported` (or leave it out).
 3. Use WebSearch only to fill a real gap: at most 4 searches for the whole
    group, mode "standard". Typical uses: confirming a story from a second side,
    or a desk whose sources failed to fetch.
 4. **Quiet check**: before you mark a desk quiet, look at its most important live
-   thread and confirm nothing changed (one search or one fetch). A desk is
+   thread and confirm nothing changed (one search, or the saved articles). A desk is
    `failed` only if you genuinely could not check it.
 5. Threads: if a story continues a live thread, reuse that thread's `id` and set
    `status` to `changed` (or `no_change` with a one-line update for "still
