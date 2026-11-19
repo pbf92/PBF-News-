@@ -1,0 +1,39 @@
+URL: https://www.cbsnews.com/news/anthropic-ipo-founders-net-worth/
+TITLE: Anthropic's 7 co-founders are worth about $20 billion each in record IPO payday. Here's who they are.
+OUTLET: CBS News
+
+Anthropic's seven co-founders are in for a massive payday.
+Each of Anthropic's co-founders is now worth about $20 billion, based on their stock holdings and the $83-per-share price of its . Their individual wealth, at least on paper, will put them in the same ranks as Rupert Murdoch and his family, worth a combined $20 billion, and famed inventor James Dyson, who is worth $19.9 billion, according to the Bloomberg Billionaires Index.
+Anthropic, the AI developer behind the popular Claude chatbot, is set to start trading today on the Nasdaq stock exchange under the ticker symbol "ANT." Its shares priced Wednesday at $83 each, well above the targeted range of $70 to $78 apiece, suggesting strong investor demand. The IPO is now the largest in U.S. history, surpassing SpaceX's in June.
+The IPO will also turn many Anthropic employees into instant millionaires. The typical worker at the company could be worth more than $40 million after the initial stock sale, CNBC reported, citing regulatory filings and investors.
+Here's what to know about the seven Anthropic founders.
+Dario Amodei: $19.7 billion
+CEO Dario Amodei, 43, co-founded Anthropic in 2021 after working at OpenAI, its chief rival in the race to dominate the artificial intelligence space. He has said he was prompted to launch Anthropic because he wanted to build an AI model aligned with broader human goals, such as advancing scientific knowledge.
+His 237.3 million Class A shares are worth about $19.7 billion, based on the $83 per-share price reserved for Anthropic insiders and early investors.
+Amodei grew up in San Francisco's Mission District with his sister, Daniela, another co-founder set to realize billions in wealth. Their father was a leather craftsman, while their mother managed public library renovations, according to the New York Times.
+Amodei, who earned a Ph.D. in biophysics from Princeton and a bachelor's degree from Stanford, also completed a postdoctoral fellowship at Stanford's medical school, and also worked at Google Brain, the search giant's AI research lab.
+Daniela Amodei: $19.8 billion
+Daniela Amodei, 39, co-founded Anthropic with her brother after also working at OpenAI, where she held positions including vice president of safety and policy.
+Her 238 million shares will be worth about $19.8 billion, based on the $83 per-share IPO price.
+Amodei, who holds a bachelor's degree in English literature from the University of California, Santa Cruz, told Stanford University's business school that she hadn't planned to focus on AI. "I really think of myself as a generalist," she said.
+She told Stanford that she and her brother decided to leave OpenAI to form Anthropic based on their values.
+"We were running towards something versus running away from something. We had this vision in our heads of wanting to create an organization where the values that matter to us around safety and around responsibility were at the forefront of what we were doing," she said.
+Tom Brown: $20 billion
+Tom Brown, 39, another of the seven co-founders of Anthropic, serves as the company's chief compute officer.
+His 240.8 million shares are valued at $20 billion, based on the $83 per-share IPO price.
+Before co-founding Anthropic, Brown led the engineering of GPT-3 at OpenAI, according to his company bio. He has a master's degree from MIT, where he majored in computer science with a focus on how it applied to cognitive science.
+Jack Clark: $19.8 billion
+Clark, 37, co-founded Anthropic with Dario and Daniela Amodei, and now serves as the head of the Anthropic Institute, which the company describes as a think tank focused on researching the societal implications of AI.
+Clark's 242.3 million shares are worth about $19.8 billion.
+Clark served as policy director of OpenAI before co-founding Anthropic, and is a former tech journalist who covered supercomputers, neural networks and advanced technology for publications including BusinessWeek.
+Jared Kaplan: $19.8 billion
+Kaplan, 42, serves as Anthropic's chief science officer and is also an associate professor at Johns Hopkins University, where he has taught courses on the foundations of deep learning, according to his company bio.
+His 239 million shares are worth $19.8 billion, based on the IPO price.
+Kaplan, who has a Ph.D. in physics from Harvard University and a bachelor's degree in physics and math from Stanford, spent the first 15 years of his career in academia as a theoretical physicist, according to Anthropic. He was also "instrumental in building GPT-3 and Codex at OpenAI," his bio states.
+Sam McCandlish: $19.9 billion
+McCandlish, 36, is Anthropic's chief architect, focusing on large-scale AI model training, leading pretraining and research productivity, according to his company bio.
+His 240 million shares are worth about $19.9 billion, based on the IPO price.
+Before co-founding Anthropic, he led a team at OpenAI, where he focused on the science and scaling of machine learning. He has a Ph.D. in theoretical physics from Stanford University and a bachelor's degree in math and physics from Brandeis University.
+Christopher Olah: $19.9 billion
+Olah, who is in his early 30s, is the interpretability research lead at Anthropic. Olah previously led interpretability research at OpenAI, according to his company bio.
+His 239.5 million shares are worth about $19.9 billion, based on the IPO price.

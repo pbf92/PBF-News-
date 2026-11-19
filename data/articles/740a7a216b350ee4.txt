@@ -1,0 +1,49 @@
+URL: https://idw-online.de/de/news881217
+TITLE: First results from PARADIGM4TB, UNITE4TB’s flagship trial, published in The New England Journal of Medicine - idw
+OUTLET: Informationsdienst Wissenschaft
+
+Two of ten new tuberculosis treatment combinations advance to further testing in UNITE4TB’s international phase 2 trial
+    The first results from PARADIGM4TB, UNITE4TB's international tuberculosis (TB) clinical trial, have been published in The New England Journal of Medicine (NEJM). The trial has identified two promising new 16-week treatment regimens that will now undergo further clinical evaluation. One of the two selected regimens contains BTZ-043, developed by LMU University Hospital Munich and Leibniz-HKI, the other ganfeborole, developed by GSK. Both are investigational drugs with strong potential in TB treatment. 
+Tuberculosis remains one of the world's deadliest infectious diseases, causing more than one million deaths each year. The development of new therapeutic regimens remains slow, costly and complex, while treatment remains lengthy and treated patients face the burden of side effects. Accelerating the identification of safer, shorter and more effective treatment options is essential to achieving global TB elimination goals.
+The publication in the NEJM marks a major milestone for the consortium and reflects the extraordinary effort required to establish an international trial network on this scale—not only to evaluate novel drug combinations, but also to pioneer innovative clinical trial methodologies. This achievement reflects the successful collaboration between academic researchers, the pharmaceutical industry, and TB community representatives.
+Innovating trial design to accelerate the search for shorter TB treatments 
+PARADIGM4TB is UNITE4TB’s flagship Phase 2, multi-arm, multi-stage (MAMS) platform trial. The first stage of the trial assessed 4 ganfeborole-containing regimens, 5 BTZ-043-containing regimens, and a comparator regimen at a duration of 16 weeks against the 24-week standard-of-care control. The aim was to identify the regimens with the most favourable safety and efficacy profiles for evaluation in the second stage, which will assess their optimal treatment durations. The NEJM publication reports the 48-week outcomes of this first stage. University College London (UCL) sponsored the trial, whilst Radboud University Medical Center co-ordinates the UNITE4TB consortium overall.
+"By testing multiple regimens simultaneously within a single trial platform, we were able to evaluate more treatment options in less time than traditional approaches allow. This is the kind of innovation needed if we are to accelerate the development of better TB treatments for patients worldwide”. — Hanif Esmail, Professor of Infectious Diseases at UCL and clinical lead for the PARADIGM4TB trial
+PARADIGM4TB enrolled 401 adults with rifampicin-susceptible pulmonary TB at 14 sites in five countries. The regimens' efficacy was assessed by comparing sputum clearance rates for tuberculosis with those in the standard-treatment arm over the first 12 weeks, and by comparing the proportions of participants with a favourable clinical outcome (no treatment failure or relapse) at week 48.
+“Testing several regimens against a common control helped us see which combinations were most promising for further evaluation. We weighed the week 48 follow-up outcomes alongside the microbiology and safety data, because together they provide greater confidence in future success”.— Jodie Schildkraut, Radboud University Medical Center, the Netherlands, and co-lead of UNITE4TB’s Phase 2B/C Clinical Trials Work Package.
+The trial identified the regimen combining bedaquiline, pretomanid, moxifloxacin and ganfeborole as the most promising ganfeborole-containing regimen. The most promising BTZ-043-containing regimen combined bedaquiline, delamanid, moxifloxacin and BTZ-043. The regimen combining bedaquiline, pyrazinamide, moxifloxacin and BTZ-043 was associated with a safety signal for excess liver toxicity.
+The novel drugs ganfeborole and BTZ-043 inhibit distinct bacterial processes: ganfeborole (GSK3036656) inhibits leucyl-tRNA synthetase, stopping bacterial protein synthesis, while BTZ-043 inhibits DprE1, an essential enzyme for cell wall assembly. Both candidates previously demonstrated strong early bactericidal activity against Mycobacterium tuberculosis in early clinical studies.
+“As developers of BTZ-043, we are greatly encouraged by the PARADIGM4TB results, which support further evaluation of a regimen containing the compound. This study has been made possible by an outstanding collaboration: UCL’s leadership and sponsorship, together with the clinical trial expertise of the National University of Singapore team, have been essential.” — Prof Michael Hoelscher, Scientific Coordinator of UNITE4TB and Director of the Institute of Infectious Diseases and Tropical Medicine at LMU University Hospital Munich
+“TB treatment remains long and complex. These results are an encouraging step forward for ganfeborole and our shared ambition across GSK and UNITE4TB to develop shorter, simpler treatment regimens for people affected by TB.” — Dr. David Barros-Aguirre, Head of Global Health Medicines R&D, GSK, and UNITE4TB Project Lead
+What comes next 
+The next stage of PARADIGM4TB will test how much the treatment duration of the best-performing regimens can be shortened while maintaining long-term efficacy and preventing relapse. These findings will then need to be confirmed in potential future Phase 3 trials before the regimens could be made available to patients with TB.
+“We now have two priority combinations and a clear next question: how short can treatment be while maintaining a durable response? The Phase 2C stage will help us decide which treatment duration for each of these chosen regimens would be the best to take into larger Phase 3 trials.” — Nicholas Paton, Professor at the National University of Singapore and the London School of Hygiene & Tropical Medicine, Chief Investigator of PARADIGM4TB and corresponding author of the study.
+The UNITE4TB team will present these findings at The Union World Conference on Lung Health in Rio de Janeiro, Brazil, during the Late-Breaker Oral Abstracts session on 18 November 2026. A dedicated UNITE4TB symposium (SY08) will explore the trial results and methodology in detail on 19 November 2026. 
+About UNITE4TB  
+UNITE4TB (Academia and Industry United Innovation and Treatment for Tuberculosis) is a partnership of 30 organizations across 13 countries funded by the Innovative Medicines Initiative 2 Joint Undertaking (IMI2 JU), now the Innovative Health Initiative (IHI). The consortium is reshaping TB drug development through a unique collaborative model that brings together five drug developers to test multiple drug combinations in parallel under a single trial protocol.
+Funding and Acknowledgements 
+UNITE4TB is funded through the Innovative Medicines Initiative 2 Joint Undertaking (IMI2 JU), grant agreement No 101007873. Support is provided by the European Union’s Horizon 2020 research and innovation programme, the European Federation of Pharmaceutical Industries and Associations (EFPIA)—including pharmaceutical partners GSK, Janssen Pharmaceutica, and Otsuka Novel Products—Associated Partners, Deutsches Ze:
+Trial registration details: https://clinicaltrials.gov/study/NCT06114628
+    
+Media enquiries: 
+tina.shaw@med.uni-muenchen.de
+daniela.bonora@lygature.org
+Esmail H, Paton NI, Schildkraut JA, et al. Assessing Multiple Treatment Regimens for Tuberculosis. The New England Journal of Medicine, Nov. 19, 2026
+DOI: 10.1056/NEJMoa2611913
+https://www.nejm.org/doi/full/10.1056/NEJMoa2611913
+Laboratory work as part of UNITE4TB’s international tuberculosis research activities
+Quelle: UNITE4TB
+Copyright: UNITE4TB / Still from UNITE4TB project film
+    Merkmale dieser Pressemitteilung: 
+Journalisten, Wissenschaftler
+Ernährung / Gesundheit / Pflege, Medizin
+überregional
+Forschungsprojekte, Wissenschaftliche Publikationen
+Englisch  
+     
+    
+Sie können Suchbegriffe mit und, oder und / oder nicht verknüpfen, z. B. Philo nicht logie.
+Verknüpfungen können Sie mit Klammern voneinander trennen, z. B. (Philo nicht logie) oder (Psycho und logie).
+Zusammenhängende Worte werden als Wortgruppe gesucht, wenn Sie sie in Anführungsstriche setzen, z. B. „Bundesrepublik Deutschland“.
+Die Erweiterte Suche können Sie auch nutzen, ohne Suchbegriffe einzugeben. Sie orientiert sich dann an den Kriterien, die Sie ausgewählt haben (z. B. nach dem Land oder dem Sachgebiet).
+Haben Sie in einer Kategorie kein Kriterium ausgewählt, wird die gesamte Kategorie durchsucht (z.B. alle Sachgebiete oder alle Länder).

@@ -1,0 +1,33 @@
+URL: https://www.eurekalert.org/news-releases/1152564
+TITLE: A sugar made by a gut bacterium may help the body burn visceral fat
+OUTLET: EurekAlert!
+
+SINGAPORE, 19 NOVEMBER 2026—Scientists have discovered that a sugar produced by a gut bacterium can increase energy burning in visceral fat—the harmful fat that accumulates around internal organs—while reducing weight gain and improving metabolic health, offering a potential new approach to tackling obesity.
+Their findings come as concerns over rising obesity rates continue to grow, with half of the world’s population expected to be overweight or obese by 2035[1]. In Singapore, over 12 per cent of the country’s population is living with obesity[2].
+In the study, published in Cell Host & Microbe, researchers from Duke-NUS Medical School and Duke University School of Medicine identified a bacterium, Clostridium immunis (C. immunis), which lives in the gut. The team discovered that C. immunis produces a sugar molecule known as an exopolysaccharide (EPS). This sugar requires a small chemical group called phosphocholine for activity. This phosphocholine-modified sugar—like an “on switch”—catalyses the reduction of weight gain and visceral fat, which is closely linked to metabolic diseases such as type 2 diabetes and cardiovascular disease.
+The team also established the critical role that phosphocoline-modified molecules play by examining existing metagenomic data in 4,145 people globally. They found that people with obesity had fewer copies of a gene that adds phosphocoline as compared to those with a BMI below 25 (typically defined in international standards as within the healthy or normal weight range).
+First author of the study Dr Tan Chin Yee, who embarked on the research as an MD-PhD student at Duke-NUS and Duke University School of Medicine's Department of Molecular Genetics and Microbiology, and is currently with the SingHealth Internal Medicine Residency Programme, said:
+“What surprised us was that this bacterial sugar did not work by reducing food intake or increasing activity. Instead, it changed how visceral fat used energy. That gives us a completely different way of thinking about how gut bacteria can influence metabolism.”
+How a gut sugar helps burn visceral fat
+Further investigation revealed that phosphocoline-modified EPS reduced levels of a protein (IL-22), which helps the immune system communicate with tissues in the small intestine and visceral fat. This, in turn, increased the number of cells containing the UCP1 protein, which helps fat cells release energy in the form of heat. The higher the level of UCP1, the greater the amount of energy burnt in visceral fat.   
+Notably, this increased energy expenditure occurred specifically in visceral fat, which is typically resistant to signals that prompt fat cells to burn energy. The researchers also found that the change in energy expenditure was not caused by reduced food intake or being more physically active.
+Assistant Professor Neeraj Surana from the Department of Pediatrics at Duke University School of Medicine and SingHealth Duke-NUS Paediatrics Academic Clinical Programme at SingHealth Duke-NUS Academic Medical Centre, who is the senior author of the study, said: “Our findings reveal how some gut bacteria are able to uniquely communicate with the human body—they generate distinctive molecules by chemically modifying the sugars they produce. This opens up a new perspective on how the microbiome can influence human metabolism and points to new opportunities for developing treatments for metabolic diseases.”
+Professor Sheemei Lok, Interim Vice-Dean for Research at Duke-NUS, said: “This study moves us beyond simply knowing that the gut microbiome is associated with obesity. It identifies a specific molecule, a specific mechanism and a potential therapeutic pathway. That is the kind of translational insight needed if we are to turn microbiome science into new ways of preventing or treating metabolic health and tackle obesity.”
+The researchers have filed a patent on their discovery of C. immunis and the sugar it produces. They are now planning clinical trials in the US to evaluate whether targeting this gut bacterium could be an effective approach to treating obesity, with the longer-term goal of translating these findings into a potential new therapy.
+###
+DOI: 10.1016/j.chom.2026.08.018
+About Duke-NUS Medical School
+Duke-NUS is Singapore’s flagship graduate entry medical school, established in 2005 with a strategic, government-led partnership between two world-class institutions: Duke University and the National University of Singapore (NUS). Through an innovative curriculum, students at Duke-NUS are nurtured to become multi-faceted ‘Clinicians Plus’ poised to steer the healthcare and biomedical ecosystem in Singapore and beyond. A leader in ground-breaking research and translational innovation, Duke-NUS has gained international renown through its five Signature Research Programmes and ten Centres. The enduring impact of its discoveries is amplified by its successful Academic Medicine partnership with Singapore Health Services (SingHealth), Singapore’s largest healthcare group. This strategic alliance has led to the creation of 15 Academic Clinical Programmes, which harness multi-disciplinary research and education to transform medicine and improve lives.
+For more information, please visit www.duke-nus.edu.sg
+[1] World Obesity Federation. World Obesity Atlas 2023.
+[2] National Population Health Survey 2024 shows Singaporeans are adopting healthier lifestyles, but rising obesity is a concern. Ministry of Health. (2026, July 30). https://www.moh.gov.sg/newsroom/national-population-health-survey-2024-shows-singaporeans-are-adopting-healthier-lifestyles---but-rising-obesity-is-a-concern/
+Journal
+Cell Host & Microbe
+Method of Research
+Randomized controlled/clinical trial
+Subject of Research
+Cells
+Article Title
+A commensal-derived sugar protects against obesity by regulating immunometabolism
+Article Publication Date
+11-Nov-2026

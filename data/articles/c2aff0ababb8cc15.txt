@@ -1,0 +1,31 @@
+URL: https://www.thejournal.ie/anthropic-stock-market-shares-billions-claude-7231563-Nov2026/
+TITLE: Anthropic, the AI firm behind Claude, valued at $1.5 trillion after blockbuster stock market debut
+OUTLET: The Journal
+
+Sign in. It’s quick, free and it’s up to you.
+An account is an optional way to support the work we do. Find out more.
+ANTHROPIC SHARES HAVE begun trading on the Nasdaq this afternoon after the AI giant raised $81.3 billion (€74 billion) in a record-breaking initial public offering, as hot demand brushed aside market jitters over the Nvidia spy scandal and fears of a tech bubble.
+The company priced its shares at $83 (€76) on Wednesday, above its expected range, and sold 980 million shares, about 956 million of them new shares and the rest from existing shareholders. Anthropic itself will receive about $79.4 billion.
+The pricing values the maker of the Claude chatbot at about $1.5 trillion, including employee stock options and restricted shares.
+The listing, under the ticker “ANT,” gives ordinary investors their first chance to bet directly on a stand-alone AI giant.
+“Today puts the company in a stronger financial position, and in doing so, only strengthens our resolve to do the right thing,” chief executive Dario Amodei said at the Nasdaq in New York’s Times Square.
+Newly listed shares do not start publicly trading at the opening bell. Nasdaq and the lead investment banks first gather buy and sell orders, a process that can take several hours for a large listing.
+The offering surpasses the $75 billion that Elon Musk’s SpaceX raised in its June IPO at a valuation of $1.77 trillion.
+SpaceX’s total ultimately rose to $86 billion after its underwriters exercised an option to buy additional shares.
+Anthropic has granted its underwriters an option to buy up to 147 million more shares, which would lift its total to about $93.5 billion.
+We’ve priced our IPO at $83 per share, with trading expected to begin on Nasdaq tomorrow. https://t.co/NJxt2pILrh Legal disclaimer: A registration statement relating to the Class A common stock was declared effective by the Securities and Exchange Commission on November 18, 2026. The offering is being made only by means of a prospectus. Copies of the final prospectus may be obtained, when available, from: Goldman Sachs & Co. LLC, Attention: Prospectus Department, 200 West Street, New York, NY 10282, by telephone at (866) 471-2526, or by email at prospectus-ny@ny.email.gs.com; or Morgan Stanley & Co. LLC, Attention: Prospectus Department, 180 Varick Street, 2nd Floor, New York, NY 10014, or by email at prospectus@morganstanley.com
+— Anthropic (@AnthropicAI) November 18, 2026
+“Demand seems to be outstripping supply of this newly publicly traded company,” Art Hogan of B. Riley Wealth Management told AFP.
+“This may be the breath of fresh air that the tech trade needed to move beyond the fog of artificial intelligence that we’ve been living in for the last couple of weeks,” he added.
+The strong demand comes even as AI stocks have swung sharply, with investors questioning whether heavy spending on the technology will pay off.
+Nvidia, the chip giant at the centre of the AI investment boom and an investor in Anthropic and dozens of other AI companies, has been shaken by the resignation of chief executive Jensen Huang after he admitted to an affair with a woman reportedly believed by US intelligence to be a Chinese spy.
+“Anthropic’s IPO is a big near-term win for the tech sector and should help restore some investor confidence,” Dan Ives of Yorkville Ives & Co said in a note.
+Wall Street is also digesting the US midterm election results, which gave control of both chambers of Congress to Democrats, who are more wary of AI.
+Earlier estimates had put Anthropic’s valuation as high as $2 trillion, but they fell as AI stocks slid on Wall Street in recent months.
+Anthropic’s Claude models are among the most powerful in the world, hailed for their problem-solving potential but also feared for their capacity to destabilise societies and replace human workers.
+The five-year-old company’s revenue has surged at a pace few US companies have ever matched, reaching $17 billion (€15.48 billion) in the third quarter, up from $1.4 billion (€1.27 billion) a year earlier. Much of that revenue comes from customers paying to use its AI models for computer coding.
+Amodei and his sister Daniela, the company’s president, founded Anthropic with several colleagues in 2021 after leaving ChatGPT-maker OpenAI.
+Anthropic’s IPO filing goes into extensive detail on the risks of the technology, reflecting the company’s focus on safety even as it builds ever more powerful models. It warns that advanced AI systems “could pose catastrophic or existential risks to society if not developed and deployed responsibly.”
+US Democratic Senator Elizabeth Warren criticised the listing on X, saying the company “fails to answer for the potential threats to Americans’ retirements and the entire financial system if this IPO goes awry.”
+About a dozen protesters gathered outside the Nasdaq in New York’s Times Square on Thursday, chanting: “Why you doing IPO? This AI bubble’s about to blow!”
+To embed this post, copy the code below on your site

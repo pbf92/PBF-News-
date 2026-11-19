@@ -1,0 +1,26 @@
+URL: https://www.eurekalert.org/news-releases/1151438
+TITLE: Is low back pain linked to smaller abdominal muscles?
+OUTLET: EurekAlert!
+
+People with low back pain have about the same amount of abdominal muscle as people without it, but a lower ratio of abdominal muscle to fat, according to a new study published November 19th in the open access journal PLOS Digital Health by Kathryn Marusich of Stanford University, US, and colleagues.
+Low back pain is the leading cause of disability worldwide, and known risk factors include age, female sex, and higher body mass index (BMI). However, the exact role of muscle and fat has been unclear; studies making associations between back pain and abdominal muscles have generally been small, often with less than 100 low back pain subjects.
+In the new study, researchers used a machine learning tool to analyze abdominal CT scans and linked electronic health records from 23,508 patients at a single US hospital. The CT scans provided information on muscle, visceral fat (fat surrounding abdominal organs), and subcutaneous fat (fat under the skin) while the electronic health records showed diagnoses of lower back pain as well as demographic information.
+From the initial dataset, the team used 10,835 patients to establish normal body composition trends. Then, 2,622 patients diagnosed with low back pain were compared with 2,577 age-, sex-, and BMI-matched patients without the diagnosis.
+Muscle cross-sectional area did not differ between the low back pain and control groups (45.9 vs 46.2 cm²/m², p=0.0865), nor did the ratio of visceral to subcutaneous fat (p=0.792). The low back pain group did have a significantly lower ratio of muscle to total abdominal fat than controls (0.353 vs 0.376, p<0.0001), though the effect size was small.
+The authors note that low back pain diagnoses were identified from disease diagnosis codes from the patient’s health records, which do not capture pain severity and may be applied inconsistently between clinicians. However, they conclude that bulk abdominal muscle quantity does not distinguish people with low back pain from those without it in their studied cohort.
+“These results could direct future research toward more specific muscles and the consideration of more comprehensive body composition metrics in low back pain studies,” the authors say.
+Lead author Kathryn Marusich states, “In a large clinical population, we identified overall muscle and fat distribution trends with age and BMI matched those shown in small-scale healthy population studies. This opened the door for us to compare body composition differences in patients with low back pain. Even a few years ago, a similar imaging study would have been limited by the number of images a research team could manually analyze to identify muscle and fat extent. Modern AI tools now allow us to process entire databases of clinical images and link them with other health record data at unprecedented speed and scale.
+Marusich adds, “We were surprised that our low back pain group did not have less overall muscle than the controls. This finding doesn’t dismiss muscle as unimportant, but it does underscore the complexity of low back pain and how any differences in muscle size may be more localized.”
+Senior author Akshay Chaudhari, PhD, notes, “Creating and sharing open-source segmentation tools, such as our Comp2Comp that we use in the study, allows us and other researchers across the world to conduct population-scale studies that would previously have been unachievable.”
+In your coverage, please use this URL to provide access to the freely available paper in PLOS Digital Health: https://plos.io/47lASvO 
+Citation: Marusich KR, Gatti AA, Blankemeier L, Boutin RD, Smuck M, Gold GE, et al. (2026) Deep learning reveals relationships between muscle and adipose tissue and their associations with age, body mass index, and low back pain: A cross-sectional study in 10,835 subjects. PLOS Digit Health 5(11): e0001788. https://doi.org/10.1371/journal.pdig.0001788
+Author countries: United States of America
+Funding: This study was funded by National Institutes of Health grants (ASC) R01 HL167974, R01 AR077604, R01 EB002524, R01 AR079431, and P50HD118632. The funders played no role in study design, data collection, analysis and interpretation of data, or the writing of this manuscript.
+Journal
+PLOS Digital Health
+Method of Research
+Observational study
+Subject of Research
+People
+COI Statement
+Competing interests: The authors have declared that no competing interests exist.
