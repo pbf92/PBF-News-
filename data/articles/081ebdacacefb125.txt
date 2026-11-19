@@ -1,0 +1,33 @@
+URL: https://www.eurekalert.org/news-releases/1152247
+TITLE: Exocrine pancreatic insufficiency affects 40% of patients with chronic pancreatitis
+OUTLET: EurekAlert!
+
+Chronic pancreatitis (CP) is a progressive fibro-inflammatory disorder in which persistent inflammation causes acinar cell loss, ductal distortion, and interstitial fibrosis, culminating in impaired synthesis and secretion of digestive enzymes, a condition known as exocrine pancreatic insufficiency (EPI). EPI manifests through steatorrhea, weight loss, malnutrition, and micronutrient deficiencies. Previous studies have reported EPI incidence in CP ranging from 14% to 66%.
+This review, published in Volume 9, Issue 3 of the Journal of Pancreatology in September 2026, was registered in PROSPERO (CRD42024618687) and followed PRISMA guidelines. Searches covered PubMed, Embase, Cochrane Library, and Web of Science for English articles published from November 27, 2004, to November 27, 2024. Fourteen studies with 7,663 patients were synthesized with STATA 18.0 using random-effects meta-analysis, subgroup analyses by geography and diagnostic method, sensitivity analysis, and publication bias assessment.
+The pooled EPI prevalence was 40.0% (95% confidence interval [CI]: 33.5%–46.7%), with substantial heterogeneity (I² = 96.713%, P < 0.001). Diagnostic method significantly affected estimates: the fecal elastase-1 (FE-1) test yielded the highest rate (52.1%, 95% CI: 44.2%–59.9%), exceeding the steatorrhea or fecal fat test (21.1%) and the 13C-mixed triglyceride breath test (31.6%). Geographic differences were not statistically significant (Asia 31.3%, Europe 44.5%, and North America 39.8%). Smoking emerged as a risk factor (odds ratio = 1.51, 95% CI: 1.25–1.76) based on four studies. Other reported risk factors included low body mass index, male sex, and diabetes.
+The authors note that the higher FE-1 prevalence may reflect its sensitivity to mild-to-moderate dysfunction, while a key limitation is the dilution effect in watery diarrhea that can cause false-positive results; fecal fat tests are specific for overt malabsorption. Chinese cohorts showed a lower prevalence (21.1%), which the authors attribute to diagnostic methodology. Substantial heterogeneity persisted across subgroup analyses, and disease duration data were incomplete. They conclude that EPI prevalence in CP is globally high, that smoking is a risk factor, and that diagnostic variability calls for standardized screening.
+***
+Reference
+Title of original paper: Prevalence and risk factors of exocrine pancreatic insufficiency in patients with chronic pancreatitis: A systematic review and meta-analysis
+Journal: Journal of Pancreatology
+DOI: https://doi.org/10.1097/JP9.0000000000000263
+About Journal of Pancreatology
+Journal of Pancreatology (The JP) is an international, peer-reviewed, open-access medical journal focusing on pancreatic diseases. The JP is the official journal of the Chinese Association of Pancreatology (CAP), sponsored by the Chinese Medical Association (CMA), and published quarterly in English both in print and online issues by Chinese Medical Journals Publishing House Co., Ltd. The JP is distributed globally by Lippincott Williams & Wilkins.
+Why Publish with the JP
+- Focus on pancreatic disease-related epidemiology, clinical, translational research, and frontiers.
+- The journal has been indexed by ESCI, DOAJ, Scopus, Embase, CSTPC, etc.
+- Rapid decision-making: First decision within 14 days, online publication within 2 months.
+- Fully open access and free overseas media promotion (including X, LinkedIn, EurekAlert, etc).
+Website: https://www.ovid.com/jnls/jpancreatology
+Journal
+Journal of Pancreatology
+Method of Research
+Systematic review
+Subject of Research
+Not applicable
+Article Title
+Prevalence and risk factors of exocrine pancreatic insufficiency in patients with chronic pancreatitis: A systematic review and meta-analysis
+Article Publication Date
+1-Sep-2026
+COI Statement
+None.

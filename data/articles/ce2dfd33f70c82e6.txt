@@ -1,0 +1,11 @@
+URL: https://www.statnews.com/2026/11/18/epic-defends-competitive-practices-promises-ai-access-to-records/?utm_campaign=rss
+TITLE: STAT+: Epic Systems defends competitive practices, promises to let AI access its records
+OUTLET: STAT News
+
+Executives at Epic Systems Corp., the largest maker of electronic health records, said Wednesday they would make it easier for companies to use artificial intelligence to read data stored in the company’s platforms, and defended Epic against allegations of anticompetitive conduct.
+At a panel discussion on a STAT stage at HLTH, a health technology conference in Las Vegas, Epic’s executives for the first time responded directly to a STAT investigation that found the company is undercutting competition by selectively withholding data access needed by rival application developers. They said the company is seeking to build a more open ecosystem amid a deluge of requests for integration coming from third-party software vendors.
+Seth Howard, executive vice president of research and development at Epic, said the company received about 75,000 inquiries last year from organizations seeking to tap into its data systems, which hold records on more than 280 million Americans. “If we built a bespoke connection for every single one of those, that’s all we’d ever be [doing],” Howard said.
+“Our role is to let the free market make the choice of what apps — the free market being patient choice and health system choice — to decide what applications they want to have connected with their data,” Howard said at the panel moderated by STAT reporter Brittany Trang. “So we don’t select who is able to participate. You know, open.epic is available to anyone,” he said, referring to the company’s list of application programming interfaces or APIs, which allow software programs to talk to each other.
+This article is exclusive to STAT+ subscribers
+Unlock this article — and get additional analysis of the technologies disrupting health care — by subscribing to STAT+.
+Already have an account? Log in

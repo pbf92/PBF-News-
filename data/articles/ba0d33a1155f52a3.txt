@@ -1,0 +1,24 @@
+URL: https://aa.com.tr/en/science-technology/claude-maker-anthropic-prices-record-8134b-ipo-at-83-per-share/4129911
+TITLE: Claude maker Anthropic prices record $81.34B IPO at $83 per share
+OUTLET: Anadolu Ajansı
+
+Claude maker Anthropic prices record $81.34B IPO at $83 per share
+Offering surpasses SpaceX's $75B initial sale, values AI company at about $1.5T on fully diluted basis
+Mucahithan Avcioglu
+19 November 2026•Update: 19 November 2026
+ISTANBUL
+Anthropic, the US artificial intelligence company behind Claude, priced its initial public offering at $83 per share Wednesday, putting the 980 million-share sale at $81.34 billion and making it the world's largest IPO at initial pricing.
+The price, above the company's initial $70-$78 range, values Anthropic at approximately $1.5 trillion on a fully diluted basis. Its shares are expected to begin trading Thursday on the Nasdaq Global Select Market under the ticker ANT.
+The offering surpasses the $75 billion base IPO priced by SpaceX in June. SpaceX's completed offering subsequently reached approximately $86 billion following the exercise of its underwriters' option to purchase additional shares.
+Anthropic's offering comprises 956,351,354 shares sold by the company, generating approximately $79.38 billion before fees, and 23,648,646 shares sold by existing shareholders for about $1.96 billion.
+Anthropic will not receive proceeds from shares sold by existing shareholders.
+The company has also granted underwriters a 30-day option to purchase another 147 million shares, worth approximately $12.2 billion at the offering price. If fully exercised, the total public offering would reach $93.54 billion.
+Seven technology companies have separately agreed to invest a combined $26 billion in Anthropic through a private placement at the IPO price, according to its earlier prospectus. The investors are AMD, Broadcom, Google, Micron Technology, Microsoft, Nvidia and TSMC Partners.
+Together, the shares sold by Anthropic in the public offering and the separate private placement would generate approximately $105.38 billion for the company before fees, excluding any additional shares sold to underwriters.
+The IPO is expected to close Friday, Nov. 20, subject to customary closing conditions.
+Revenue rises 13-fold as computing commitments approach $900B
+Founded in 2021, San Francisco-based Anthropic began selling access to Claude in early 2023. It earns revenue from subscriptions and customers who pay according to how much they use its models.
+In the first nine months of 2026, usage-based revenue rose by $24.2 billion from a year earlier, while subscription revenue increased by $6.5 billion.
+Revenue reached about $17 billion in the third quarter alone, taking the nine-month total to $33.2 billion, roughly 13 times the level a year earlier. The company's five largest customers accounted for about a quarter of nine-month revenue, though no single customer contributed more than 10%.
+Anthropic reported a $104 billion net loss for the nine months. Of that, $94.3 billion reflected changes in the value of financing agreements, mainly convertible notes that became more valuable as the company's own valuation rose.
+The company also disclosed approximately $895.4 billion in commitments for computing capacity and infrastructure, including data centers. About $70 billion was due within 12 months.

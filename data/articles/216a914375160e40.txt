@@ -1,0 +1,21 @@
+URL: https://www.425business.com/news/anthropic-going-public-northwest-connection/article_25ad349a-9b57-41a5-8acd-9e8d80c37aee.html
+TITLE: AI Company Anthropic Going Public; Many in Northwest Watching Closely
+OUTLET: 425 Business
+
+Anthropic, the San Francisco-based company behind Claude AI, begins public trading Thursday with an initial public offering of 825-million shares that were initially expected to be priced between $70-78 and value the company at more than $1 trillion.
+Final share pricing, set after the market's close today, reportedly put the price per share at $83, according to initial media reports this afternoon. Shares will trade on Nasdaq under the symbol ANT.
+Anthropic, with about 5,300 employees globally as of Sept. 30, according to its S-1 Registration Statement, has local connections that include a Seattle engineering office and significant business ties to Puget Sound-based Amazon.
+Anthropic had not yet responded to an email today inquiring about its local employee count, but the company did expand its Seattle office footprint in the South Lake Union area this year, according to a July report in GeekWire, which said Anthropic opened a Seattle engineering office in 2024.
+From early investments in Anthropic, both Amazon and Alphabet, parent of Google, which also has a significant Puget Sound presence, will own a combined 28% of Anthropic after the IPO, according to Yahoo Finance.
+“Once Anthropic's IPO and concurrent private placement are completed, Amazon will hold 1.9 billion Class N shares, and Alphabet will hold 1.8 billion shares. That represents 14.7% and 13.7% of Anthropic's capital stock, respectively,” Yahoo Finance wrote.
+Anthropic has committed to buying significant compute through Amazon Web Services, or AWS, and Google Cloud, roughly $110 billion and $121 billion, respectively, over the next 10 years for AWS and seven years for Google Cloud, the report said.
+Anthropic is a public benefit corporation, or PBC.
+In its S-1, it says, “Consistent with our long-term commitment to AI safety and responsibility, we are incorporated as a PBC under Delaware law. PBCs are a class of corporations that are intended to produce a public benefit and operate in a responsible and sustainable manner.”
+It notes in the S-1 overview, “We are first and foremost a research lab — our mission is the responsible development and maintenance of advanced AI for the long-term benefit of humanity. This mission directs our focus — along with our talent and culture, our frontier and safety research, our approach to compute, and our enterprise strategy, it is one of the core advantages that set us apart. These advantages enable us to continuously advance frontier intelligence and shape the standards for its safe and responsible development."
+It continues, “Our frontier intelligence, Claude, is delivered to customers through our models, platform, and applications. Claude has experienced the fastest enterprise adoption of any technology in history, as demonstrated by revenue growing from $0 at commercial launch in the first quarter of 2023 to $17.0 billion for the three months ended September 30, 2026. This rapid and growing adoption generates two self-reinforcing dynamics — an improvement loop that advances Claude and an investment loop that helps fund our continued research at the frontier.”
+Anthropic, founded in 2021 and launched commercially in 2023, reported $41 million in revenue that year. Through Sept. 30 this year, it reported $33.2 billion, about half of that in the third quarter alone, $17 billion.
+Added Anthropic in its S-1, “The speed and depth of our enterprise customer adoption are powerful evidence of Claude’s position at the frontier of super intelligence.”
+It noted its customer base as of Sept. 30 included:
+• More than 11,900 customers with $100,000 or more of revenue on a TTM (trailing twelve-month) basis
+• More than 1,900 customers with $1 million or more of revenue on a TTM basis; and
+• Approximately 250 customers with $10 million or more of revenue on a TTM basis.
