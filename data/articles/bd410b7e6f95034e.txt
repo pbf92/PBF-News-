@@ -1,0 +1,20 @@
+URL: https://www.geekwire.com/2026/amazons-18b-bet-on-anthropic-tops-200b-in-the-claude-makers-historic-market-debut/
+TITLE: Amazon’s $18B bet on Anthropic tops $200B in the Claude maker’s historic market debut
+OUTLET: GeekWire
+
+Anthropic made its Nasdaq debut today in a record $81.3 billion initial public offering, with big financial stakes for the Seattle area’s two tech giants.
+For Amazon, the IPO is a paper windfall. The company started putting money into Anthropic in 2023, about $18 billion in all. At the $83 IPO price, its stake was worth about $161 billion. With Anthropic opening at $111.50 a share, that number was closer to $216 billion. The stock has since dropped below $100, which put Amazon’s stake under $200 billion.
+Beyond the value of the investment, Anthropic is a major customer for Amazon’s cloud platform. The Claude maker has committed to spend at least $110 billion on Amazon Web Services through 2036.
+For Microsoft, it’s more complicated. The Redmond company agreed in late 2025 to invest up to $5 billion but hasn’t disclosed the size of its stake. Microsoft is buying $1 billion of Anthropic stock alongside the IPO, one of seven tech companies buying a combined $26 billion. Anthropic has committed to spend at least $47 billion on Microsoft’s Azure cloud through 2033.
+But Microsoft is also pitching its own AI models against Anthropic’s, and it has been working to replace Anthropic’s models with OpenAI’s in some Copilot features, The Information reported this week.
+Listing Anthropic’s compute partners on CNBC this morning, co-founder Daniela Amodei named Nvidia, Amazon, Google and Broadcom, but not Microsoft. Whether it was a slip or something more significant, it was an interesting omission.
+A historic debut: The offering tops SpaceX’s $75 billion IPO in June, and it makes Anthropic the first standalone AI lab to go public, ahead of OpenAI.
+The five-year-old company was valued at about $1.5 trillion at the $83 IPO price, on a fully diluted basis that counts employee stock and other shares not yet issued. The stock opened at $111.50, valuing Anthropic at about $2 trillion on the same basis. It has since traded as low as about $95.
+Speaking before the opening bell, CEO Dario Amodei said Anthropic will slow the training and release of its AI models for as long as it takes to be confident they’re safe, and that going public only strengthens that resolve.
+“We will not bend to either business nor political pressure,” he said.
+In an interview with CNBC’s Andrew Ross Sorkin afterward, Amodei called the push and pull between growth and that kind of restraint “one of the central tensions at the heart of the company.”
+Anthropic is also a public benefit corporation, a structure that legally requires the company to balance shareholders’ interests with the public good.
+What’s next: Both Seattle-area giants have hedged their bets. Microsoft owns about 24% of OpenAI, and Amazon put $50 billion into OpenAI earlier this year.
+OpenAI, which confidentially filed for its own IPO in June, is still aiming to go public in 2027.
+Anthropic’s co-founders and some of its biggest shareholders are barred from selling for up to a year under the IPO’s lock-up rules, and Amazon has said it expects a customary lock-up period.
+Amazon will update the value of its Anthropic holdings in its fourth-quarter results, much of it through earnings, which means the paper windfall is likely to boost Amazon’s fourth-quarter profit even though it hasn’t sold a share.

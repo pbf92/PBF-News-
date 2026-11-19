@@ -1,0 +1,32 @@
+URL: https://www.reuters.com/graphics/ANTHROPIC-IPO/CHARTS/jnpwdeanxvw/
+TITLE: Anthropic joins SpaceX with a mega-IPO company
+OUTLET: Reuters
+
+Chart shows sums raised in the top global IPOs. The largest is SpaceX at $86 billion, Anthropic is second at $93.5 billion.
+Includes exercise of overallotment options. Anthropic’s have not been exercised yet and the $93.5 billion figure assumes they will be fully exercised.
+Anthropic has surpassed SpaceX in making the largest stock market debut on record, raising $81.3 billion in an initial public offering that could increase to as much as $93.5 billion if overallotment options are exercised.
+The AI developer of Claude also raised another $26 billion through a private placement of shares alongside the IPO offering, securities filings showed.
+SpaceX’s IPO in June had raised a total of $86 billion including the exercise of overallotment options.
+Anthropic’s owners plowed ahead with their decision to go public despite a recent selloff across the tech landscape, as investors question whether the AI boom’s returns will justify the massive spending and mounting debt costs in an elevated interest-rate environment.
+Unlike previous generations of major technology companies, Anthropic is going public with a business built almost entirely around generative AI, a technology that has only recently gained widespread commercial adoption. Its proprietary large language model, Claude, is at the center of that business.
+Anthropic is all AI
+Estimated shares of 2026 Q2 revenue from different sectors for four companies with significant AI investment
+A graphic showing the estimated share of revenue from AI for companies Anthropic, SpaceX, Salesforce and Amazon during the second quarter of 2026. Anthropic is 100% AI while AI makes up less than 50% of the others.
+Anthropic’s September prospectus detailed how the company has grown sharply in the last year — revenue grew twelvefold in 2025 to nearly $4.6 billion. However, compared with other major tech companies, such as those in the Magnificent 7, its revenue is still modest.
+Anthropic still posts relatively modest revenue
+Market value versus annual revenue in 2025 for select companies
+Chart showing market value versus annual revenue for select firms.
+Still, so far in 2026, Anthropic’s revenue has continued to grow, especially during the first two quarters. This growth has so far defied concerns over potential greater oversight and regulatory hurdles, propelled by surging demand for its products, particularly its viral Claude models.
+Anthropic’s revenue growth
+While quarterly revenue is increasing, the pace of growth slowed during the third quarter
+A chart shows the quarterly revenue amount for Anthropic and its quarterly growth. Its revenue has grown dramatically to $17 billion in the third quarter of this year, however the speed at which it is growing has slowed.
+Anthropic’s net loss narrowed to $23.29 billion in the third quarter of 2026 from $66.3 billion in the second quarter. Its net loss widened to $80.7 billion in the first half of 2026, largely reflecting an increase in the fair value of bonds convertible into company shares, up from $13 billion a year earlier.
+Its operating loss last year was $8.06 billion, larger than many companies with comparable revenue numbers.
+Anthropic lost money last year
+Annual revenue versus operating loss in 2025 for select AI and tech companies
+Chart showing annual revenue vs losses for firms in AI and tech industries.
+Anthropic’s stock will be closely watched when trading opens on the Nasdaq on Thursday — and long afterward.
+Notes
+AI revenue share for Amazon and Salesforce in the second quarter of 2026 was calculated by taking a quarter of annual revenue run-rate numbers mentioned for companies at the end of second quarter 2026.
+Edited by
+Ella Koeze, Matthew Lewis

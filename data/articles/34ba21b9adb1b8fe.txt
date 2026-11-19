@@ -1,0 +1,26 @@
+URL: https://www.modernretail.co/technology/in-graphic-detail-welcome-to-the-agentic-commerce-quarter/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss
+TITLE: In Graphic Detail: Welcome to the agentic commerce quarter
+OUTLET: Modern Retail
+
+This story was first published by our sister site, Digiday.
+Holiday 2026 is shaping up as the first season where the shopping agent actually pays — solidifying Q4 as the agentic commerce quarter.
+OpenAI launched ChatGPT wallet this week to push agent purchase through retailer checkouts, alongside a commerce partner playbook aimed at helping businesses prepare for a future of more agent-led purchase. Google began rolling its UCP-powered checkout in Canada through AI Mode and Gemini. Amazon blocked Meta’s Muse AI agent from its retail site. Walmart lets customers cap an agent’s spending at $50, $100 or $200. And Bain reckons roughly one in four online shoppers plan to start their holiday shopping journeys on an AI platform.
+Put together, agentic commerce is having a growth spurt even if it’s still a while from growing up.
+The money is starting to follow the agents
+Agentic commerce is moving from hypothetical to commercial opportunity, with platforms and retailers beginning to position themselves for a new way of shopping. U.S. retail e-commerce sales completed through end-to-end agentic commerce are forecast to reach $1.44 billion this year, according to eMarketer. That figure is expected to increase 10.6% to $1.59 billion in 2027, a further 11% increase to $1.76 billion in 2028 and reach $2.17 trillion by 2030.
+Discoverability first, checkout later
+Marketers are already adapting their strategies to account for AI agents, although the focus so far seems to be making brands discoverable, rather than enabling agents to buy from them.
+According to Gartner’s 2026 Marketing Strategy and Engagement Survey, 61% of senior marketing leaders have adapted content and SEO/AEO to improve machine interpretability. A further 42% are monitoring and correcting misinformation about their brands in AI-generated outputs, while 39% have tailored product information, pricing or offers for machine and agent decision-making.
+But the same survey found that fewer have taken proper steps yet to accommodate agent-led transactions. Around a third (30%) of marketers have designed interfaces or workflows for agent transactions, while 32% manage machines and agents as a distinct audience alongside human customers.
+Shoppers aren’t ready to hand over full control of the checkout just yet
+Brands might be getting ready for agents, but most consumers aren’t yet comfortable letting one spend their money unsupervised.
+According to U.S. identity and access management company Okta’s Customer Identity Trends Report 2026, when consumers were asked how likely they’d be to let an AI agent complete a purchase without reviewing it first, only a third (31%) said they were very or rather likely to. At the same time, 67% of those surveyed said they were unlikely to let an AI agent finish a purchase without review, while 41% said they wouldn’t at all.
+Of course, there are exceptions. Early adopters of the tech are far more trusting. Nearly two thirds (62%) said they’d let an AI agent complete a purchase without checking, and 42% said they’d be very likely to.
+The gap suggests the hard part of agentic commerce may not be getting the right tech, but instead building the right amount of trust.
+Shopper control
+Shoppers might not be handing over full control to the checkout just yet, but AI tools are already influencing where they go to buy, and the visitors those tools send are more likely to spend.
+In September, shoppers who arrived at U.S. retail e-commerce sites from AI tools converted 90% better than those from other channels, according to Adobe Digital Insights. That’s the highest level Adobe has recorded, and a sharp turnaround from August 2025 when AI traffic converted 9% worse than other channels.
+Amazon’s ad business could feel the squeeze
+For major e-commerce businesses, agentic commerce could have implications beyond how products are sold. It could also change how retailers make money from helping shoppers to discover them.
+Amazon, for example, generated $68.5 billion in net sales from its online stores during Q3 2026, alongside $46.5 billion from third-party seller services, and $20 billion from ad services, according to Enders Analysis.
+As agentic commerce becomes a more natural part of the consumer journey, shoppers may increasingly rely on agents to identify and recommend products rather than browse sponsored listings. It could affect Amazon’s business in different ways: its fulfilment infrastructure could support transactions initiated elsewhere, while its advertising business could face pressure if fewer shoppers encounter paid placements on its platform.

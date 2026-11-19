@@ -1,0 +1,16 @@
+URL: https://finance.yahoo.com/markets/article/anthropic-goes-public-as-ai-bug-hunters-push-cybersecurity-stocks-higher-chart-of-the-day-150054810.html
+TITLE: Anthropic goes public as AI bug hunters push cybersecurity stocks higher: Chart of the Day
+OUTLET: Yahoo Finance
+
+Anthropic's debut is the AI payday Wall Street has been waiting for. For the companies that fix broken software, the whole year has been a Y2K-style bonanza.
+Anthropic (ANT) priced its IPO at $83 a share, above its $70-$78 range. It arrives after weeks of outages at Microsoft (MSFT), JPMorgan Chase (JPM) and Apple (AAPL), each blamed on internal problems rather than hackers.
+Ben Emons of research firm FedWatch Advisors calls it the "Patchpocalypse." "A flood of AI-found bugs means a flood of patches, and every patch is a chance for something to break," he wrote Wednesday.
+Newly reported software security flaws in the federal National Vulnerability Database hit a record high of almost 17,500 in October, about four times the level a year earlier, according to Yahoo Finance calculations. This year's count, more than 100,000, already tops 2024 and 2025 combined.
+The surge took off after Anthropic unveiled Claude Mythos Preview on April 7, a bug hunter so strong that Anthropic limited its release to a small group of partners.
+Microsoft's models are finding flaws "which humans haven't found for years or even decades," Mustafa Suleyman, who runs Microsoft's AI unit, told Deirdre Bosa on Deirdre Bosa Live.
+Fixing them isn't cheap or optional.
+Since April 7, CrowdStrike (CRWD) and Palo Alto Networks (PANW) shares have doubled or better. The First Trust Nasdaq Cybersecurity ETF (CIBR) is up nearly 50%, more than twice tech's gain, and has fallen less since the Oct. 6 tech peak, about 11% vs. nearly 20% for tech (XLK).
+Palo Alto was surging early Thursday after raising its full-year outlook, lifting other cyber stocks. CEO Nikesh Arora told analysts "unintended consequences of patching and configuration changes" were partly behind the recent outages.
+Y2K, short for "year 2000," was the late-1990s fear that computers storing years as two digits would read 2000 as 1900. Fixing it cost US companies and governments more than $100 billion, according to a 1999 Commerce Department estimate. That spending stopped when the clock ran out. This bug hunt has no deadline, since the models keep getting better.
+The bug fixers have already been paid. Anthropic's new shareholders are still waiting. Twelve of the 15 larger US IPOs DataTrek Research tracked this year trade below their offer price, and the firm says Anthropic "at least needs a decent first-day gain."
+Last year, companies raced to use as much AI as they could, so-called "token maxing." Somesh Dash, a general partner at Anthropic investor IVP, sees this year's race in security operations centers (SOCs), the teams that watch for attacks around the clock.

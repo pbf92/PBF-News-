@@ -1,0 +1,79 @@
+URL: https://admiralmarkets.com/analytics/traders-blog/eur-usd-technical-analysis-november-2026
+TITLE: EUR/USD Technical Analysis: Key Vectors Before Fed, ECB
+OUTLET: Admirals
+
+EUR/USD Technical Analysis: Three Scenario Vectors Ahead of the Fed and ECB
+EUR/USD traded around 1.0965 to 1.0975 in the European morning of Thursday 19 November 2026. On Wednesday the pair touched 1.0953, its lowest level since April 2025, before closing at 1.0975 (Pound Sterling Live). The trend points lower on every time frame, from the weekly chart down to the 4-hour chart. Yet the daily RSI sits at 29 and the weekly RSI at 27, so the decline looks stretched (FXStreet via TMGM, 18 November).
+The key levels this week sit close together. Support lies at 1.0950 and then at the 61.8% Fibonacci retracement near 1.0904. Resistance starts at 1.1000 and then at 1.1072. US PCE inflation (25 November) and eurozone flash HICP (1 December) come first. The Fed decides on 9 December and the ECB on 17 December.
+The information in this article is provided for educational purposes only and does not constitute financial advice. Consult a financial advisor before making investment decisions.
+Risk warning: CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money. This article is general information and should not be treated as investment advice.
+EUR/USD Technical Analysis at a Glance
+ING links the November fall to the widening gap between US and eurozone interest rates (FXStreet, 16 November 2026). The table gathers the core readings.
+Sources: Pound Sterling Live, EUR/USD history 2026; FXStreet via TMGM (19 Nov); FXStreet via TMGM (18 Nov); Federal Reserve; GMK Center. Percentage changes calculated by Admirals from the quoted prices. Past performance is not a reliable indicator of future results.
+Key Takeaways for the Week of 19 November 2026
+- All time frames, from the weekly chart to the 4-hour chart, point lower.
+- Price sits below all four main moving averages, from the 20-day to the 200-day.
+- Daily and weekly RSI readings are in oversold territory, which some traders read as a sign that the decline is stretched.
+- The 61.8% Fibonacci retracement near 1.0904 is the main downside level on many charts.
+- A daily close back above 1.1072 would ease the bearish pressure, according to ActionForex.
+- The US to German 2-year yield gap of roughly 1.7 percentage points still favours the dollar (FXStreet, Trading Economics).
+- The 14-day average true range is about 70 pips, based on a calculation by Admirals from daily prices.
+Multi-Timeframe Trend Analysis
+A multi timeframe analysis starts with the slowest chart and works down. The weekly chart sets the direction, and the shorter charts help with timing.
+Weekly Chart: Unwinding the 2025 Rally
+EUR/USD peaked at 1.2081 on 27 January 2026, its highest level since June 2021 (Pound Sterling Live, 2021 history). Since then, it has given back a large part of the 2025 advance from 1.0176. ActionForex says the fall could be reversing the rise from the 2025 low, and possibly the rise from the 2022 low of 0.9534 (ActionForex, 19 November 2026).
+On the weekly chart the pair trades below its 10-period EMA at 1.1190. The weekly RSI reading of 27 is firmly oversold, which suggests the downside momentum is stretched (FXStreet via TMGM, 18 November 2026).
+Daily Chart: Below Every Major Moving Average
+The current leg lower began at 1.1711 on 21 August. From early October to 10 November, the pair traded in a range of roughly 1.1105 to 1.1285. A daily close at 1.1090 on 11 November broke the floor of that range (Pound Sterling Live).
+The pair has not closed above 1.1100 since then. The daily MACD is negative, and the ADX near 33 shows a trend that is still present, though fading (FXStreet, 16 November 2026).
+Short-Term Chart: Lower Highs, Slower Momentum
+Daily prices show a lower high and a lower low in every session from 11 to 18 November (Pound Sterling Live). Over that run, the daily high fell from 1.1170 to 1.0999. The 16 November session opened at its high of 1.1033, and the pair then slipped to 1.0953 on 18 November.
+Momentum has slowed, since daily ranges narrowed this week. Traders often watch the 4-hour chart for a bullish RSI divergence near support, which can come before a pause or a bounce.
+Sources: FXStreet via TMGM; FXStreet; Pound Sterling Live. Readings as of 16 to 19 November 2026. Past performance is not a reliable indicator of future results.
+EUR/USD Support and Resistance Levels This Week
+The EUR/USD support and resistance map combines published levels with levels calculated by Admirals. Distances are measured from 1.0970, the price on the morning of 19 November.
+Resistance Levels
+Sources: ActionForex; FXStreet via TMGM (19 Nov); FXStreet via TMGM (18 Nov); Pound Sterling Live. Pivot and distances calculated by Admirals from the quoted prices. Past performance is not a reliable indicator of future results.
+Support Levels
+Sources: FXStreet via TMGM (19 Nov); ActionForex; FXStreet (Societe Generale, 17 Nov); Pound Sterling Live. Pivots and distances calculated by Admirals from the quoted prices. Past performance is not a reliable indicator of future results.
+The first support zone is already under test. The 18 November low sits on the lower Bollinger Band, just above the weekly S1 pivot. A daily close beneath this cluster could put the 61.8% retracement in focus. Admirals explains how such zones are drawn in its guide to forex technical analysis.
+Trading involves risk.
+EUR/USD Moving Averages: Where the Trend Filters Sit
+Moving averages often act as dynamic resistance in a downtrend. The gap to the 200-day line is now about 5%, which shows how far the pair has moved from its longer-term mean.
+Sources: FXStreet via TMGM (19 Nov); FXStreet (16 Nov); Pound Sterling Live. Distances calculated by Admirals from the quoted prices. Past performance is not a reliable indicator of future results.
+Traders often treat the 20-day line as the first cap on a rebound. More detail on the method is in the Admirals guide to the moving average indicator.
+Momentum Indicators for EUR/USD
+Momentum indicators measure the speed of the move. The trend is still down. The pace, though, looks stretched.
+RSI: Oversold on the Daily and Weekly Charts
+The daily RSI (14) stood at 29 on 19 November, below the classic oversold line of 30 (FXStreet via TMGM). The weekly RSI was 27 a day earlier. Oversold readings have often been followed by a pause or a bounce, although strong trends can stay oversold for weeks. The Admirals guide to the RSI indicator covers these readings in more depth.
+MACD: Negative, With Momentum Still Down
+The daily MACD sits in negative territory, which points to persistent downside pressure (FXStreet, 16 November 2026). A bullish crossover of the MACD line above its signal line would be an early sign that selling is easing. The MACD guide from Admirals explains crossovers and histogram reads.
+The ADX was around 33 on 16 November. Readings above 25 usually describe a trending market.
+Sources: FXStreet via TMGM (19 Nov); FXStreet via TMGM (18 Nov); FXStreet (16 Nov). Past performance is not a reliable indicator of future results.
+Bollinger Bands: Price Riding the Lower Band
+On the daily chart, EUR/USD hovers just above the lower Bollinger Band (FXStreet via TMGM). Price that rides the lower band shows a strong trend. A daily close back inside the bands, followed by a move toward the middle line, has often marked the start of a correction.
+Source: FXStreet via TMGM, 19 November 2026. Band width calculated by Admirals from the quoted levels. Past performance is not a reliable indicator of future results.
+Here the bands are wide, which fits a market that has already moved. The Bollinger Bands strategies article on Admirals shows common ways to read them.
+EUR/USD Fibonacci Retracement Levels
+The 2025 to 2026 rally ran from 1.0176 to 1.2081. Admirals calculated the retracement levels below from those two prices. ActionForex flags the 61.8% level at 1.0904 as the next downside target, and a sustained break there as a signal toward the 2025 low (ActionForex, 19 November 2026).
+Calculated by Admirals from the 2025 low (1.0176) quoted by ActionForex and the 2026 high (1.2081) quoted by Pound Sterling Live. Pound Sterling Live shows the 2025 low at 1.0178, which barely changes the levels. Past performance is not a reliable indicator of future results.
+The 61.8% level is widely watched, so it may attract buyers on a first test. If it gives way on a closing basis, the next published supports sit at 1.0880 and then near 1.0800. The Fibonacci trading strategy guide explains how traders combine these levels with other signals.
+EUR/USD Pivot Points
+Pivot points use the prior period's range together with its closing price. Admirals calculated both sets below from Pound Sterling Live daily prices. The weekly set uses the week of 9 to 13 November (high 1.1251, low 1.1020, close 1.1023). The daily set for 19 November uses the 18 November session (high 1.0999, low 1.0953, close 1.0975).
+Classic pivots calculated by Admirals from prices quoted by Pound Sterling Live. Other data feeds give slightly different highs and lows. Past performance is not a reliable indicator of future results.
+Two overlaps stand out. The weekly S1 (1.0945) and the daily S1 (1.0952) both sit on the lower Bollinger Band. The daily S3 (1.0906) lands almost exactly on the 61.8% retracement. The Admirals guide to pivot point trading explains how these levels are used.
+Volatility: ATR and Implied-Volatility Ranges
+Volatility shapes stop distances and position sizes.
+Average True Range
+Admirals calculated a simple 14-day average true range of about 70 pips from Pound Sterling Live daily prices to 18 November. The five-day average is lower, at about 51 pips, because the last three sessions were calmer. On the same prices, the range of the week to 13 November was 231 pips, against 142 pips the week before.
+Implied-Volatility Ranges
+Commerzbank noted in early November that implied volatility had fallen again. It added that policy risks remain, even if they are hard to predict at present (FXStreet, 2 November 2026). A one-standard-deviation move can be estimated as spot × implied volatility × the square root of (trading days ÷ 252). The table applies this formula to three assumed volatility levels.
+Illustrative calculation by Admirals from a spot price of 1.0970 and assumed volatility levels. These are not market quotes. Price can move further than one standard deviation. Forecasts are not a reliable indicator of future performance.
+At 6% volatility, a one-standard-deviation move to the Fed decision would span roughly 1.0815 to 1.1125. Central bank days have often produced larger moves, and the ATR indicator guide shows how traders adapt stops to such swings.
+Trading involves risk.
+The Rate Differential Behind the Chart
+US rates are higher than eurozone rates, and the gap has widened this autumn. That has supported the dollar even when eurozone data surprised to the upside.
+Fed: Back in Hiking Mode
+The Fed raised its target range to 3.75% to 4.00% on 16 September 2026. It was the first increase since July 2023 (Euronews). On 28 October the Fed held rates in a 10 to 2 vote. Beth Hammack and Lisa Cook dissented in favour of a 25 basis point hike (Federal Reserve).
+The FOMC minutes released on 18 November leaned hawkish. Almost all members agreed that further hikes would likely be needed in the months ahead. Two policymakers said a hike of more than 25 basis points could be warranted in December if inflation data disappointed (FXStreet via TMGM). The Admirals blog reviews the FOMC minutes of November 2026 in more detail.
+US data support that stance. October CPI rose 0.4% on the month, and core CPI rose 0.3% (BLS). The PCE price index rose 3.6% from a year earlier in September, with the core measure at 3.1% (BEA). Traders expect a 25 basis point hike in December. On 16 November the CME FedWatch Tool showed an 8.3% chance of a 50 basis point hike in Decem

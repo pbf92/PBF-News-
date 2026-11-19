@@ -1,0 +1,16 @@
+URL: https://bioengineer.org/scoping-review-identifies-applications-and-gaps-of-generative-ai-in-nursing-simulation/
+TITLE: Scoping Review Identifies Applications and Gaps of Generative AI in Nursing Simulation
+OUTLET: Bioengineer.org
+
+A scoping review investigating the role of generative artificial intelligence in nursing simulation education indicates that the technology is actively applied across training workflows, yet evidence regarding its long-term educational effectiveness remains limited. The scoping review examined how generative artificial intelligence has been used in nursing simulation education and summarised reported outcomes and challenges.
+Published in BMC Nursing, the investigation addressed uncertainties surrounding generative artificial intelligence application patterns and educational effects. Researchers observed that while generative artificial intelligence offers new opportunities for nursing simulation education, evidence regarding sustained educational effectiveness remains limited.
+To map existing literature, the research team conducted comprehensive bibliographic searches across six major databases, including PubMed, Web of Science, Embase, the Cochrane Library, China National Knowledge Infrastructure, and Wanfang from their inception through August 20, 2026. The search and synthesis procedures were formally guided by the Arksey and O’Malley methodological framework and reported in adherence to PRISMA-ScR standards.
+The review identified forty-six eligible reports representing forty-five unique studies meeting formal inclusion criteria. These studies applied generative artificial intelligence across scenario development, virtual-patient interaction, learner support and feedback, and simulation assessment.
+Challenges included technical limitations, concerns about content accuracy and reliability, and limited evidence of long-term effectiveness.
+Subject of Research: Generative artificial intelligence applications and challenges in nursing simulation education
+Article Title: Generative artificial intelligence in nursing simulation education: a scoping review
+Article References: Huang, R., Liu, J., Li, D., Wang, Y., Shen, Y., & Wu, L. (2026). Generative artificial intelligence in nursing simulation education: a scoping review. BMC Nursing. https://doi.org/10.1186/s12912-026-05588-7
+Image Credits: AI Generated
+DOI: 10.1186/s12912-026-05588-7
+Keywords: generative artificial intelligence, nursing simulation education, scoping review, virtual-patient interaction, scenario development, simulation assessment, learner feedback, instructional design, content accuracy, technical limitations, Arksey and O'Malley framework, PRISMA-ScR, BMC Nursing, educational outcomes, clinical simulation, nursing education research
+News Source: Ophelia Keating. (November 19, 2026). Scoping Review Identifies Applications and Gaps of Generative AI in Nursing Simulation. Scienmag.

@@ -1,0 +1,80 @@
+URL: https://finance.yahoo.com/personal-finance/investing/article/how-does-anthropic-make-money-inside-the-business-of-ai-140000798.html
+TITLE: How does Anthropic make money? Inside the business of AI.
+OUTLET: Yahoo Finance
+
+AI companies make money mostly through subscriptions and model usage, and some also sell ads.
+According to the IPO filing with the Securities and Exchange Commission (SEC), Anthropic, the creator of Claude, earned $33.24 billion in revenue in the first nine months of 2026. About 79% of that came from usage fees paid by developers and businesses, and 21% came from subscriptions. Revenue is not profit: Anthropic reported a $1.26 billion operating loss over the same nine-month period, driven largely by high computing costs.
+Anthropic (ANT), which began trading on the Nasdaq under the ticker symbol ANT, opened at $111.50 per share on Nov. 19. The company's IPO filing gives us a rare look at how an AI company makes money and where that money goes.
+If you're considering investing in Anthropic or other AI companies, it's worth understanding how these companies earn money and what they spend it on.
+5 key ways AI companies earn revenue
+AI companies earn revenue by charging for access to their models or selling ads. The mix each company uses depends on who they're selling to and how customers use the service. Money raised from investors funds the business, but it doesn't count as revenue.
+1. AI assistant subscriptions
+Customers pay a monthly fee for more features or higher usage limits than the free plan offers. Claude Pro, for example, costs $20 a month when billed monthly.
+A flat fee keeps your bill predictable, but it doesn't necessarily buy unlimited use. If you're a heavy AI user, you may need a pricier plan or have to pay for extra usage, which brings in more revenue for the AI company.
+2. API usage fees
+An application programming interface (API) lets a business connect its software to an AI model. For example, an online store can use an AI model to answer shoppers' questions. The store pays for the work the model does behind the scenes.
+Text-based API bills often count tokens, which are small pieces of text. The store may pay different rates for the text it sends to the model and the answer it receives. Its choice of model, tools, and other features can also affect the bill.
+For example, if an AI model charges $2 per million tokens it receives and $10 per million tokens it sends, the store would pay $12 for 1 million tokens each way. As more shoppers use the assistant, the store's usage bill grows, increasing the AI company's revenue.
+3. Enterprise contracts and per-seat plans
+AI companies sell workplace plans, often called enterprise plans. These plans help companies manage employee access, connections to internal tools, and security.
+Businesses may pay per seat or negotiate usage charges and minimum spending commitments. Claude's Enterprise plan, for instance, combines seat fees with usage billed separately at API rates. More paid seats and usage can increase the revenue an AI company earns from each business customer.
+4. Cloud marketplaces
+Cloud marketplaces let businesses buy AI model usage through a cloud provider they already use. Amazon Bedrock, for example, offers models from multiple AI developers. An online store could buy model access through Amazon rather than directly from the AI developer.
+Amazon then collects the payment and passes the AI developer its share. That gives the AI developer another way to earn usage revenue without handling the sale directly.
+5. Advertising
+Some companies also sell ads. OpenAI, for example, has been testing Sponsored Agents, which let users chat with a business-sponsored assistant after clicking an ad.
+Anthropic, on the other hand, has said it won't put ads in Claude. For companies that offer ads, payments from advertisers add a revenue stream alongside fees paid by users.
+Read more: Anthropic: How to buy a company's stock when it IPOs
+Do AI companies turn a profit?
+Revenue is what a company earns from customers, not what it keeps. It makes a profit only when revenue exceeds expenses. For AI companies, expenses can run high because both developing models and answering users require costly computing resources.
+Every answer costs money
+Generating AI answers takes substantial computing power. Each time you send a prompt, the model performs many calculations to write its answer piece by piece. That process is called inference.
+Those inference computing costs grow with usage, which makes a flat monthly fee tricky for the AI company. Someone who runs coding tasks all afternoon can cost much more to serve than someone who asks for answers to a few questions, even if both pay the same subscription price.
+Cheaper answers don't always mean smaller bills
+More efficient chips and models can make AI cheaper to use, encouraging people to use it more. This is called the rebound effect. If that extra usage more than offsets the efficiency gains, total computing demand rises — a result known as Jevons paradox. If the cost per task drops by half while customers do four times as many tasks, total processing costs double.
+Efficiency doesn't guarantee higher profits, either. Competition may push AI companies to lower their prices, passing some of the savings to customers instead of keeping them as profit.
+The next model is always on the way
+Running today's model is only part of the costs an AI company has to balance. With competition running high, AI companies continually work to improve their flagship models by training them on larger datasets and examples. However, training requires substantial computing power and skilled staff before the model can be released to customers.
+AI companies often sign long-term contracts to secure the computing power needed to train and run their models. Reserving this compute capacity helps them prepare for growth. However, these contracts typically require minimum payments that remain due even when the company is losing money.
+Profitable models vs. profitable companies
+A model can bring in more money than it costs to answer customers' requests. But the company still has other bills to pay, including research, staff, advertising, and business operations.
+That's why covering a model's running costs doesn't guarantee a companywide profit. If total costs grow faster than revenue, profit can fall even as more customers sign up.
+Companies sometimes present an adjusted profit that leaves certain expenses out of the calculation. That can turn a reported loss into a profit on paper without changing what happened in the business. Before judging how profitable an AI company is, make sure to check which costs were left out and why.
+»Track your portfolio using AlphaSpace and track your finances with My Money
+How Anthropic makes money from Claude
+When Anthropic took steps toward going public, it filed a document called Form S-1 with the U.S. Securities and Exchange Commission (SEC). The filing shows how much money Anthropic brought in and where it came from.
+Where Anthropic's revenue comes from
+Here's Anthropic's revenue breakdown for January through September 2026:
+Source: Anthropic, PBC S-1, Amendment 2
+Most of Anthropic's money comes from usage, not monthly plans. Developers and businesses pay for the work Claude does, while subscriptions cover plans with included access and features.
+One customer can land in both buckets. A paid Claude plan counts as subscription revenue, while extra usage bought on top of it counts as usage revenue.
+Customers can buy Claude directly or through cloud marketplaces. Marketplace sales made up about 44% of revenue during the first nine months of 2026.
+For those sales, Anthropic counts the full customer payment as revenue. The cloud partner's share appears separately as a sales and marketing expense, so reported revenue includes money that ends up with partners.
+Learn more: Anthropic in your 401(k) or IRA? How you could get exposure.
+Does Anthropic make a profit?
+Anthropic brought in $33.24 billion in revenue during the first nine months of 2026, but its results look different depending on which costs you count:
+- Operating loss: Across the business, operating expenses totaled $34.5 billion during the nine months. That left a $1.26 billion operating loss under generally accepted accounting principles (GAAP), the standard U.S. accounting rules.
+- Adjusted operating profit: Anthropic reported $4.08 billion after leaving out $3.26 billion in pay through shares or options and $2.09 billion tied to matching employees' charitable donations with company shares. Anthropic says the exclusions make ongoing results easier to compare. These costs don't involve cash payments, but issuing shares can reduce existing investors' ownership.
+- Overall net loss: Anthropic reported a $104.04 billion net loss. About $94.32 billion came from earlier financing deals, mainly loans that can turn into shares. As the company's value rose, so did what those investors were entitled to receive. Accounting rules counted that increase as an expense, although no cash was paid out for it during the period.
+- Computing costs: The company recorded $18.81 billion in computing and infrastructure expenses, more than half its revenue. That includes developing models and running them for customers and is already included in its operating expenses.
+- Future commitments: Anthropic has committed roughly $900.9 billion to future payments, nearly all for computing and infrastructure. About $70.7 billion is due in the 12 months ending Sept. 30, 2027. These are future obligations, not expenses to add to the nine-month loss.
+Learn more: Anthropic IPO: What investors should know about buying in
+Who else makes money from AI?
+The companies that develop AI models aren't the only ones benefiting from AI spending. Companies that supply chips, memory, and computing power can also profit from AI. And businesses can make money by building products on top of existing models.
+Chipmakers
+Chipmakers such as Nvidia (NVDA) sell the processors used to train and run AI models. They get paid when customers buy hardware, whether or not those customers ever turn a profit.
+Read more: Buy Nvidia stock or wait? A guide to making the call on any stock.
+Memory makers
+AI processors also need fast memory working alongside them. Companies such as Micron (MU), SK hynix (SKHY), and Samsung sell specialized memory called high-bandwidth memory, or HBM.
+Micron pointed to AI-driven demand as it reported a roughly 256% rise in revenue to $133.19 billion for its 2026 fiscal year, which ran from late August 2025 through early September 2026.
+Cloud providers
+Cloud providers, such as Amazon (AMZN), Alphabet (GOOG, GOOGL) , and Microsoft (MSFT), rent out computing capacity to AI developers like Anthropic and OpenAI. They can also earn fees when customers buy AI model usage through their marketplaces.
+Companies built on AI models
+Many companies don't build their own models. They pay for access to someone else's and sell a product built around it, such as customer service software or a coding assistant.
+These companies avoid funding the model's entire training program but instead depend on their AI supplier's prices. They still need to charge enough to cover model access and their other costs.
+What to look for before investing in AI stocks
+Revenue growth alone doesn't give you a complete picture of whether an AI stock is a good investment. The costs behind the revenue can cut into profits, and the expectations built into the share price can affect its future price potential.
+Numbers worth watching
+These measures help show whether growth is turning into money the company keeps:
+- Revenue and run rate: Look at recent sales momentum as well as revenue already earned. Run rate stretches recent activity over a year, so it can highlight growth that a full-year total hasn't caught up with yet. Anthropic put its run-rate revenue at about $81 billion as of Oct. 31, 2026. Bringing in that amount over a full year would depend on maintaining that pace.
+- Margins: Track whether the company keeps more of each revenue dollar as it grows. An operating margin improving from -10% to -5% means an operating

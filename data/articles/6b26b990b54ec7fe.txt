@@ -1,0 +1,16 @@
+URL: https://www.tradingview.com/news/stockstory:80f947725094b:0-why-amd-stock-is-trading-lower-today/
+TITLE: Why AMD stock is trading lower today
+OUTLET: TradingView
+
+Why AMD stock is trading lower today
+What happened?
+Shares of computer processor maker AMD AMDfell 8.6% in the afternoon session after CNBC reported that investment firm Hunterbrook Media issued a short-seller report alleging China exposure and disclosed a short position in the company.
+According to CNBC's report, Hunterbrook claimed that Chinese server maker IEIT Systems continued receiving newer AMD firmware, which enables AMD chips to run in servers, after being blacklisted by the U.S., though CNBC did not independently verify the information. Hunterbrook also said that new export rules in Washington could tighten restrictions on AMD's foreign business, alleging that the company bills over 20% of its revenue to customers in China and Hong Kong and depends on a Chinese partner to finish most of its chips.
+The allegations came amid investigations into rival chipmaker Nvidia over its sales to companies in Asia with ties to China, as AMD had been viewed as a beneficiary of the uncertainty surrounding Nvidia. AMD did not immediately reply to CNBC's request for comment.
+What is the market telling us
+AMD’s shares are extremely volatile and have had 61 moves greater than 5% over the last year. In that context, today’s move indicates the market considers this news meaningful but not something that would fundamentally change its perception of the business.
+The previous big move we wrote about was 3 days ago when the stock dropped 4.5% on the news that the Commerce Department’s crackdown on Chinese companies leasing Nvidia computing power from third countries raised compute-pricing anxiety across chip designers, compounding Nvidia price-target cuts ahead of third-quarter earnings.
+AMD and Broadcom surged earlier the previous week on bets Jensen Huang’s departure would open GPU and custom-chip share before reversing, per CNBC.UBS trimmed its Nvidia target to $240 from $300 and Mizuho cut to $220 from $250, citing leadership transition and export risks, CNBC reported. Northland Capital Markets analyst Gus Richard also cautioned via CNBC that tighter China export curbs could hit 11% of GPU demand and compel Nvidia to unload inventory, pressuring pricing across rivals.What began as a share-gain rotation toward Nvidia’s competitors shifted into a sector-wide test of AI compute pricing power. Blocking third-country GPU leasing threatens to strand overseas demand and create inventory overhangs, putting margin pressure on rival chipmakers alongside Nvidia rather than an easy windfall.
+AMD is up 114% since the beginning of the year, but at $478.98 per share, it is still trading 26.2% below its 52-week high of $649.42 from October 2026. Investors who bought $1,000 worth of AMD’s shares 5 years ago would now be looking at an investment worth $3,083.
+WHILE YOU’RE HERE: The Next Palantir? One satellite company captures images of every point on Earth. Every single day. The Pentagon wants it. Hedge funds are using it to beat earnings. You’ve probably never heard of it.
+This is what the early days of Palantir looked like before it became a giant. Same playbook. Different technology. If you missed Palantir, you need to see this.

@@ -1,0 +1,8 @@
+URL: https://www.tradingview.com/news/gurufocus:1c288713b094b:0-okta-stocks-jump-8-14-as-cybersecurity-rally-extends-into-second-day/
+TITLE: Okta Stocks Jump 8.14% as Cybersecurity Rally Extends Into Second Day
+OUTLET: TradingView
+
+Okta Stocks Jump 8.14% as Cybersecurity Rally Extends Into Second Day
+Okta OKTA shares jumped 8.14% to $211.54 at 9:55 a.m. ET on November 19 in regular trading, as Palo Alto Networks' higher forecast sparked a broad cybersecurity rally, Reuters reported. The gain extends Wednesday's run, when Okta advanced sharply after the Cybersecurity and Infrastructure Security Agency urged organizations to patch a critical Java flaw known as Java4Shell.
+Okta's fundamentals are steadier than spectacular. Second-quarter fiscal 2027 revenue grew 11% to $805 million, subscription revenue rose 12%, and remaining performance obligations increased 17% to $4.858 billion. Free cash flow was $227 million. Third-quarter guidance calls for revenue of $813 million to $817 million, about 10% growth, and non-GAAP EPS of $0.92 to $0.94.
+At roughly 10% revenue growth, the rally is pricing a demand shift that has not yet appeared in guidance. GuruFocus gives Okta a GF Score of 62/100, with a strong balance sheet but weak profitability and momentum ranks. Shares trade about 94% above the GF Value of $109.14, a significantly overvalued label. The trailing P/E of about 128 on the GuruFocus page adds to the risk. Okta's next quarterly report must beat the 10% guide to justify the move.

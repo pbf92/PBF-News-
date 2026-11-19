@@ -1,0 +1,87 @@
+URL: https://admiralmarkets.com/analytics/traders-blog/newmarket-stock-pre-market-tic-flows-fed
+TITLE: NewMarket Stock Pre-Market: NEU in Focus as TIC Flows Slow and Fed Hike Bets Firm
+OUTLET: Admirals
+
+NewMarket Stock Pre-Market: NEU in Focus as TIC Flows Slow and Fed Hike Bets Firm
+NewMarket stock (NYSE: NEU) is in focus before the opening bell on Thursday, 19 November 2026. US futures point higher, though NEU had yet to trade pre-market. S&P 500 futures traded higher, according to Trading Economics. Two macro themes sit in the background. Net long-term TIC flows slowed sharply in September, and markets price a high chance of another Fed rate hike on 9 December.
+The 18 November gain was modest when set against the recent fall. NEU closed at $703.23 on 18 November, up 0.78%. That is still about 19.5% below the $873.27 close of 28 October, the day NewMarket Corporation released its third-quarter results. The stock has been holding in a narrow $686 to $713 band for two weeks.
+The information in this article is provided for educational purposes only and does not constitute financial advice. Consult a financial advisor before making investment decisions.
+Risk warning: The value of shares can fall as well as rise, and you may get back less than you invest. CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money. This article is general information and should not be treated as investment advice.
+NewMarket Stock Price Before the Open: The Key Facts
+The table below gathers the main numbers for NEU stock as of the morning of 19 November 2026. Prices are in US dollars. UK time is five hours ahead of New York time.
+Source: NewMarket (NEU) overview, Stock Analysis and NEU premarket page, StockMarketWatch. Past performance is not a reliable indicator of future results.
+The pre-market figure needs care. At 04:07 ET, StockMarketWatch showed NEU at $703.23, which equals the 18 November close. A real pre-market trade print had not appeared at that time. NEU is thinly traded before the open, so early quotes can be sparse.
+The chart below shows the daily price of NEU. The October gap and the recent base are both visible.
+What Is Driving NEU Stock Pre-Market?
+The main factor is the market tone. Any early move in the stock would likely follow the broader tape. Company news has been quiet since the October results and the dividend increase.
+US Futures Rebound After a Weak Run
+US stocks fell for several sessions this week. On 19 November, futures recovered. Two updates from Trading Economics that morning showed S&P 500 futures up between 0.4% and over 1%. Nasdaq 100 futures were up between nearly 1% and over 2%. A record AI listing revived demand for technology shares.
+The same source notes that debt-heavy companies were still under pressure from the outlook for more rate hikes. NEU carries modest leverage. Its net debt to EBITDA ratio was 1.0x at the end of September, per the Q3 2026 results release.
+A Small Bounce Inside a Larger Drawdown
+The 18 November gain of 0.78% left NEU close to the top of its two-week range. The intraday high was $713.40. That is just above the 13 November close of $709.19, which has acted as a cap.
+Source: own calculations from NEU price history, Stock Analysis and NEU price history, Digrin. Past performance is not a reliable indicator of future results.
+Why Did NewMarket Stock Fall After Earnings?
+The answer lies in volumes. NewMarket's profit rose year on year in the third quarter. Shipments of petroleum additives, its core business, fell again. The market focused on the second point.
+NewMarket stock earnings came out after the close on 28 October. The next day the shares lost 8.04% to $803.07 on volume of 227,039. The selling then ran for another five sessions, according to Stock Analysis.
+Q3 2026 Results in Numbers
+Source: NewMarket Corporation Reports Third Quarter and First Nine Months 2026 Results, Business Wire via Finviz. Changes are own calculations. Past performance is not a reliable indicator of future results.
+Higher operating profit and a lower effective tax rate drove the rise in net income, the company said in its Q3 release. Over the first nine months, net income reached $375.9 million, or $40.64 per share.
+Shipments Fell for a Third Quarter
+The volume trend is the main concern. The Q3 release came from Chairman and CEO Thomas E. Gottwald. It linked the drop to "broader market softness in lubricant additives that resulted in an 8% decline in shipments", per the company's results release.
+Source: NewMarket Q1 2026 earnings call transcript, The Motley Fool and Q3 2026 results release, Business Wire via Finviz. Past performance is not a reliable indicator of future results.
+Weaker lubricant additives demand matters because petroleum additives earn most of the group's profit. The segment is run through Afton Chemical. NewMarket also owns Ethyl.
+Surcharges Held Margins Up
+Pricing did the heavy lifting. The company said it "successfully implemented surcharges to offset higher costs incurred due to the supply chain disruptions in the Middle East", according to the Q3 release. Those surcharges remain in place.
+The open question is how long this lasts. If input costs ease, surcharges could be reduced. Margins would then depend more on volume, and volume has been falling.
+Specialty Materials Add Growth
+The specialty materials segment includes AMPAC. It makes ammonium perchlorate for solid rocket propulsion and high-purity hydrazine. It also includes Calca Solutions, bought on 1 October 2025. Capacity expansion for both products is expected to be completed by the end of 2026, per the Q3 release.
+Source: Q3 2026 results release, Business Wire via Finviz. Past performance is not a reliable indicator of future results.
+The company also flags that specialty materials results can vary a lot from quarter to quarter, per the Q3 release. In Q2 2026, segment operating profit was $22.3 million, per the Q2 2026 results release. In Q3 it was $16.4 million.
+TIC Flows: What the September Data Showed
+The US Treasury released its September data on 18 November at 4:00 PM ET (21:00 UK). Net long-term TIC flows came in at $155.3 billion, according to Trading Economics. That was down from a record $285.0 billion in August and slightly below the $160.7 billion consensus.
+What Are TIC Flows?
+TIC stands for Treasury International Capital. The monthly report tracks how much foreign investors buy and sell of US securities. Long-term flows cover bonds and equities with maturities over one year. Government and corporate debt are both included. The data offer a read on foreign demand for US assets.
+The report comes with a lag of about six weeks. The August data, for example, came out in October, as shown in the Treasury International Capital Data for August 2026 release.
+September 2026 in Numbers
+Source: United States Net Long-term TIC Flows, Trading Economics and US Capital Flow Surges in September, Trading Economics. Past performance is not a reliable indicator of future results.
+Why the Headline Drop Needs Context
+The long-term figure fell by about 45.5% from August. Total net flows, though, rose to about $261 billion. Foreign capital kept coming into the US in September. The fall in the long-term figure mostly reflects a return from a record month.
+Still, the trend matters for sentiment. A slower pace of foreign buying of long-dated US securities can add to pressure on bond prices when rates are rising. Higher yields raise the discount rate applied to company profits. That can weigh on equity valuations, including for steady earners like NEU.
+When Is the Next TIC Release?
+The October data are due on 15 December 2026 at 4:00 PM ET (21:00 UK). That is six days after the Fed decision, per the Trading Economics calendar. A consensus forecast for October had yet to be published at the time of writing.
+Fed Rate Hike December 2026: What Markets Price
+The Fed has raised rates once this cycle and paused once. The next meeting runs on 8 and 9 December, per the Federal Reserve meeting calendar. Markets lean strongly towards another 25 basis point increase.
+The Fed Path So Far
+Source: FOMC statement, 28 October 2026, Federal Reserve and FOMC minutes report, Securities.io. Past performance is not a reliable indicator of future results.
+In October, Lisa D. Cook and Beth M. Hammack voted against the hold. Both preferred a 25 bp hike, according to the October FOMC statement. The statement also said "Inflation remains elevated."
+The minutes of the October meeting came out on 18 November. They showed that nearly all policymakers supported further rate increases in the coming months, per Trading Economics.
+Inflation Keeps Pressure On
+October consumer prices rose 0.4% on the month, above the 0.3% forecast. Core prices rose 0.3%, according to Stock Analysis. The next CPI report is due on 10 December, a day after the Fed decision, per the BLS release schedule.
+What the FedWatch Tool Shows
+Source: CME FedWatch readings as reported by Gold news stream, Trading Economics. Forecasts are not a reliable indicator of future performance.
+For a full preview of the meeting, see our article on the Fed meeting in December 2026.
+How Do Rate Hikes Affect Stocks Like NEU?
+Rate hikes tend to hit stocks through three channels. Each one works differently.
+- Higher yields lower the present value of future profits, which tends to compress price to earnings multiples.
+- A stronger dollar reduces the value of sales earned abroad once they are converted back.
+- Slower growth can reduce industrial demand for lubricant additives.
+NEU has some cushions. Its P/E of about 14.3 is modest, and its debt load is moderate. That may limit the valuation effect. The volume channel may be the larger risk, given three quarters of falling shipments.
+Dollar Strength and the Wider Market
+The US dollar index advanced towards 104 on 19 November. That was its highest level since April 2025, according to Trading Economics. A firm dollar has been a theme all month.
+Source: US Dollar Index, Trading Economics, Gold news stream, Trading Economics and US stock market, Trading Economics. Past performance is not a reliable indicator of future results.
+A strong dollar can reduce the value of overseas sales for US companies that sell abroad. Our guide to trading the US dollar index explains how the index is built. EUR/USD offers a simple view of dollar strength.
+Gold has fallen as rate hike bets firmed. The chart below shows the spot gold CFD.
+NewMarket Stock Technical Analysis
+The daily chart shows a sharp gap lower after results, then a flat base. The figures below are own calculations from daily closes, unless stated otherwise.
+Support and Resistance Levels
+Source: own calculations from NEU price history, Stock Analysis. Past performance is not a reliable indicator of future results.
+NewMarket stock support and resistance levels are close together right now. A daily close above about $713 would break the top of the base. A close below $686 would break the floor. Our guide to pivot points and support levels covers how traders map such zones.
+Moving Averages and RSI
+Source: own calculations from NEU price history, Stock Analysis. Past performance is not a reliable indicator of future results.
+An oversold RSI reading shows how fast the price fell. It does not by itself signal a turn. Our article on the RSI indicator explains its limits.
+NEU's profit rose in the third quarter, yet the shares fell as volumes shrank. The Fed and the dollar may matter more for the stock before the company reports again.
+Recent Daily Closes
+Source: NEU price history, Stock Analysis. Selected sessions; daily changes are against the previous trading day. Past performance is not a reliable indicator of future results.
+NewMarket stock volume has stayed elevated. The average for the 13 sessions from 2 to 18 November was about 154,200 shares, own calculation from the same data. Volume on 18 November was about 8% above that average.
+NewMarket Stock History: The Last Five Years
+The recent fall comes after a strong run. N

@@ -1,0 +1,20 @@
+URL: https://theprint.in/science/surgery-lung-cancer-treatment-radiation/3103193/
+TITLE: Is surgery better at treating lung cancer than radiation? Only a little, finds US study
+OUTLET: ThePrint
+
+New Delhi: US-based researchers found that while surgery may offer better odds of survival than radiation for patients suffering from early-stage lung cancer, the advantage is much smaller than previously thought.
+The study, published in JAMA Surgery on 18 November, analysed the medical records of 4,251 patients with stage IA non-small cell lung cancer. The researchers found that differences in the patients’ underlying health before they underwent the procedures may have exaggerated the benefits in previous comparisons.
+Non-small cell lung cancer is the most common form of lung cancer and accounts for approximately 85 per cent of cases worldwide. Stage IA refers to when the cancer has only recently set in, with a small tumour that has not spread to nearby lymph nodes or other organs in the body.
+Surgery is the preferred mode of treatment for patients diagnosed at this stage, which involves simply removing the cancerous portion of the lung. But patients who are too weak to undergo surgery may instead receive stereotactic body radiation therapy (SBRT), which uses highly focused radiation to destroy cancer cells.
+Why surgery is considered better
+While previous studies established that surgery has higher survival rates, the researchers of the JAMA study struggled to identify whether the difference rose from the treatments themselves or the health of the patients receiving them.
+Radiation therapy is typically reserved for patients who are too weak to undergo surgery in the first place, generally being older, frailer, and more likely to have other compounding medical conditions. All of these factors make them more vulnerable to complications and death, regardless of the form of treatment they receive.
+To look at the difference in treatment survival rates from a more objective lens, the researchers analysed data from the US Surveillance, Epidemiology, and End Results (SEER)-Medicare database, which covers patients treated between 2010 and 2019.
+Of the 4,251 patients analysed, 2,558 received radiation therapy, while 1,693 underwent surgery to remove part of their lung. Their combined average age was 75.6 years.
+Also read: ‘Indian entrepreneurship getting its due,’ Skyroot co-founder on TIME Rising Stars list
+Differences in statistical approaches
+The researchers compared the treatments using three different statistical approaches. The first made no adjustments for differences between patients, while the second accounted for measurable factors such as age and other medical conditions.
+But the third one is the most interesting, employing a relatively new technique called proximal causal inference, which accounts for factors that are difficult to measure, such as frailty and underlying illnesses, using indirect indicators (past incidents or common habits).
+The first approach estimated that the difference in lung cancer mortality rates between radiation therapy and surgery was 4.7 person-years—a measure of deaths relative to the time patients were followed. The second approach, with more variables, revised this to 2.4 person-years, while the proximal causal inference approach further cut down the difference to 1.2 person-years. The final estimate still shows that patients who undergo surgery have a statistically significant, albeit now much smaller, advantage in surviving lung cancer.
+However, the researchers cautioned that differences in how cancers were diagnosed and staged could still influence the results. As an observational study, it cannot conclusively establish that surgery itself caused the better survival outcomes.
+(Edited by Prasanna Bachchhav)
