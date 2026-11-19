@@ -1,0 +1,46 @@
+URL: https://www.invenglobal.com/articles/28810/13-beginner-tips-for-gta-6-i-wish-i-knew-from-the-start
+TITLE: 13 Beginner Tips for GTA 6 I Wish I Knew from the Start
+OUTLET: Inven Global
+
+Are you ready to head to Vice City? 'Grand Theft Auto VI (GTA 6)' has finally launched. In the expanded state of Leonida, there is so much more to do, but some of the most useful features aren't made obvious until you're well into the game. Having played through the game early for review, I've compiled a list of tips that would have been great to know early on. Rather than story walkthroughs, this guide focuses on practical tips that improve quality of life—including controls, traversal and money-making, inventory management for both protagonists, workouts, and vehicle maintenance. If you're just starting out, jump straight to the tips you need most.
+※ Spoiler Warning This guide mentions feature unlock timings up through Chapter 3 and a few character names. Major story developments and plot twists are not covered. Controls are explained based on console controller D-pad and stick buttons.
+Take Chapters 1–2 easy; money-making starts in Chapter 3
+It's natural to want to start earning money as soon as you step foot into Vice City. You can certainly enjoy various activities in Chapters 1 and 2—saving cash, buying clothes, or changing your hairstyle. However, the opportunities for making serious money open up after reaching Chapter 3.
+In particular, once you reach Chapter 3, prioritize Jason's exclusive main missions. Establishing ties with fences Tyrone and Yasmani during this process will unlock a much wider array of money-making options. In short, there's no need to try and exhaust all content right from the start. Of course, you don't need to give up the simple pleasure of roaming around to take in the city, either.
+POINT If money comes slowly early on, don't panic. Prioritize Chapter 3 and Jason's main missions.
+Leonida's roads are wide, and there are plenty of destinations to visit. If you get tired of steering yourself, use auto-driving. There are two ways to do it.
+First, hold Down on the D-Pad (↓) to activate cinematic camera, which enables auto-driving. Second, when traveling with Lucia or Jason, ask your partner to take the wheel for you.
+A word of caution: auto-driving follows traffic laws surprisingly strictly. In heavily congested areas, you might find yourself watching your car sit motionless for quite some time. If your primary goal is arriving quickly, it's better to use the fast travel method explained below.
+If the minimap keeps disappearing, check settings first
+If you find it annoying that the minimap in the bottom left keeps popping up and disappearing during gameplay, take a look at the settings menu. You can change it to keep the minimap fixed on screen. You can also customize various UI display options to your liking, so we recommend checking this early on.
+What you shouldn't miss in particular is the unit settings. Switch distance (feet/meters), temperature (Fahrenheit/Celsius), and weight (pounds/kilograms) to your preferred units so you don't have to do mental conversions every time a stat appears.
+POINT Check before starting: Fixed minimap / Distance, temperature, weight units / Preferred UI display settings
+Jason and Lucia aren't just two protagonists you swap between to play. When acting together, you can hold Right on the D-Pad (→) to request situational help from your partner.
+If you're being chased by the police, you can ask them to throw off the pursuit, or if you're tired of long-distance driving, you can hand over the wheel. The feature allowing you to ask them to sell contraband on your behalf is also handy. It saves you the trouble of visiting a fence yourself, though you'll receive slightly less cash than trading directly, so choose according to your situation.
+While Lucia and Jason are close partners, they do not share their inventories completely. If you focus exclusively on playing one character, you may switch to the other only to find them short on both ammo and recovery items.
+Weapons purchased by one character are provided to both, but weapon modifications must be done individually. Ammo counts and recovery items are also managed separately, so make sure to check both characters' status while shopping.
+POINT Check before switching characters: Ammo / Recovery items / Weapon mod status
+Fast sports cars are always alluring, but when choosing vehicles in GTA 6, factors beyond speed are also important. Securing vehicles in your garage for different purposes alongside your city cruiser will come in handy when you least expect it.
+Sturdy SUVs offer high durability and plenty of storage space for loot. On the other hand, activities like ripping ATMs off walls require securing and modifying a truck. Don't turn your garage into just a sports car collection.
+You can auto-drive in your own vehicle, but an instant fast travel option to your destination is not directly provided. If you want to reach far destinations quickly, launch the 'RideMe' app on your phone to call a ride-hailing service.
+Handing the driver a tip of $5 up to twice will make them drive faster. If you want to skip the ride entirely, you can pay $100 for fast travel. Decide based on whether you want to enjoy driving to your destination or save time.
+POINT Auto-driving = Moves along actual roads / Fast travel = Pay extra through the RideMe app
+Once you reach Chapter 3 and your life as a criminal couple has settled down a bit, pay attention to physical fitness. Registering at a local gym to balance strength training and cardio will build your character's physical stats.
+Don't forget to check your workout status using the health app on your phone. Muscles and stamina you worked hard to gain can degrade if you take a break from working out for too long. Consistency matters, even in Vice City.
+Regular meals are just as important as working out
+Regular eating habits are just as important as exercise. Eating food temporarily increases max health, while drinks help raise maximum stamina and focus. Before heading into intense action, it's worth considering what to eat and drink.
+That said, eating endless amounts of food isn't recommended. Overeating can increase body fat. However, during actual play, low body fat rarely seemed to rise—likely thanks to consistent exercise.
+As you travel through Leonida, all sorts of events occur around you. The catch is that these events aren't kindly marked on your map. If you hear unusual noises in your vicinity, stop and take a moment to look around.
+Pressing L3 and R3 simultaneously helps locate the source of the noise. You might run into a quick random encounter or discover clues leading to a sizeable side mission. Sometimes your ears are a more useful guide than the minimap.
+If you find yourself in gunfights often in Vice City, put suppressors high on your weapon mod priority list. Reducing the racket caused by gunfire delays when the police start their pursuit.
+Especially when raiding criminal hideouts, eliminating enemies quietly gives you time to clear the scene and grab loot before things escalate. Of course, equipping a suppressor doesn't mean you'll avoid every report or pursuit. Remember: the louder the commotion, the faster the cops arrive.
+Car stopped? Check gas stations, auto shops, and Scooter Bros
+Vehicles in GTA 6 have a fuel gauge and engine health. If you run out of gas or wreck the engine, even the best car won't budge. Check your fuel before long drives, and get repairs early if vehicle health drops.
+You can get minor repairs at gas stations, but severe damage requires a visit to an auto shop. If your car breaks down far away, the ‘Scooter Bros’ app on your phone is another solution. Pay a fee to have your repaired vehicle delivered right to your location.
+If you use the service frequently, look into a premium membership, which grants three free deliveries per day.
+POINT Check vehicle status → Minor issues at gas stations → Major damage at auto shops → Urgent situations with Scooter Bros
+GTA 6 separates your assets into cash and ‘BuckMe’. The crucial point is that you can only carry up to $20,000 in cash. Once your wallet is full, acquiring additional cash becomes difficult, so get into the habit of visiting an ATM to transfer funds to BuckMe whenever you have a chance.
+An even more important reason is safety. Dying with a large amount of cash on you means you risk losing all your carried money if you're unlucky. To avoid dropping hard-earned cash in the streets, regular transfers are best.
+POINT Visit an ATM after securing criminal loot. Transfer funds before passing the $20,000 cash limit.
+Originally written in Korean, this article was translated with AI assistance and edited by a native English-speaking editor. Every translation is reviewed by our editorial team before publication.
+[Read Original]

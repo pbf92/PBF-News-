@@ -1,0 +1,25 @@
+URL: https://www.mediapost.com/publications/article/419539/claude-user-claims-anthropic-violated-illinois-bio.html
+TITLE: Claude User Claims Anthropic Violated Illinois Biometric Privacy Law 11/19/2026
+OUTLET: MediaPost
+
+Anthropic is facing a class-action complaint
+for allegedly collecting data about Illinois residents' facial geometry without telling them how long the biometric data would be retained.
+Claude user Jose Enrique Ortiz Colon
+alleges in the lawsuit that Anthropic locked him out of his account until he uploaded his driver's license and also allowed the company to access his device's camera and photograph him.
+Colon, a Chicago resident, claims Anthropic violated the Illinois Biometric Information Privacy Act, which includes provisions requiring companies that collect biometrics to disclose
+their retention policy.
+"Upon information and belief, Anthropic never told him in writing, before the scan, how long his biometric data would be kept," Colon alleges in the
+complaint, originally filed in California state court and transferred to federal court late last week.
+advertisement
+advertisement
+"While Anthropic held that data, it had no public policy stating when the
+data would be permanently destroyed," the complaint continues.
+In July, Anthropic issued a revised privacy policy that
+provides that the company may in some circumstances verify users' identities by collecting photos and facial geometry templates. 
+Colon alleges that Anthropic's public
+notice regarding verification "states no retention period and no deadline for permanently destroying the biometric data collected through government-ID and selfie verification."
+He is seeking to represent a class of Claude users who submitted facial-recognition data while in Illinois.
+Anthropic is not the only artificial intelligence
+company facing allegations that it violated the Illinois biometric privacy law.
+Illinois residents are also suing SpaceXAI's chatbot Grok for allegedly collecting and retaining faceprints
+without first obtaining users' written consent.

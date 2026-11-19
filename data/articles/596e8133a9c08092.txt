@@ -1,0 +1,79 @@
+URL: https://bitcoinfoundation.org/news/ai/anthropic-eyes-november-19-nasdaq-debut-after-ipo-pricing/
+TITLE: Anthropic Eyes November 19 Nasdaq Debut After IPO Pricing
+OUTLET: Bitcoin Foundation
+
+Anthropic IPO timing points to a November 19,2026, Nasdaq debut under the ticker ANT, with pricing scheduled for November 18, according to CryptoPotato. The company behind Claude initially targeted an offering price of $70–$78 per share, implying a valuation of roughly $1.4 trillion.
+The immediate distinction for readers waiting for Anthropic to go public is between setting the offering terms and starting public trading. November 18 is reserved for pricing and allocations; the expected November 19 opening auction would establish the first publicly traded share price.
+Anthropic IPO Timing Centers on Two November Milestones
+November 18 Is the Scheduled Pricing Day
+Anthropic and its underwriters are expected to assess investor orders before deciding the final offering price and how many shares participating investors will receive. Confirming those allocations is part of the preparation for the stock-market debut.
+Read More: Anthropic Cuts Proposed IPO Maximum to $78, Lowering Raise to $64.4B
+Strong institutional demand could push the final offering price above the initial $70–$78 range. That possibility remained part of the expectations ahead of pricing, with the final terms still to be determined.
+As of November 18, the process described in the latest coverage was still prospective. The initial price range sets out the proposed terms ahead of the pricing decision, while the approximately $1.4 trillion valuation describes the company value associated with those terms.
+November 19 Is the Expected First Trading Day
+The expected Thursday debut would move Anthropic from IPO allocations to public trading. Nasdaq would conduct an opening auction, after which the shares would trade in response to buying and selling demand.
+That sequence creates two separate prices to watch: the price investors receive through the offering and the first price established on the exchange. The opening auction could put the publicly traded shares substantially above or below the offering price.
+Anthropic and Its Banks Prepare the Claude Maker for Public Trading
+The Offering Puts the Company Behind Claude in Focus
+Anthropic is the AI company behind Claude. Its planned listing would give public-market investors a directly traded stock tied to the company, with the debut also serving as a closely watched measure of demand for AI businesses.
+The latest coverage places the offering amid concerns about high valuations and the durability of the AI investment boom. At the proposed valuation, the opening trade and subsequent market response would be an important test of whether investor enthusiasm carries through to public trading.
+Underwriters Handle Pricing Before Nasdaq Sets the Opening Trade
+The banks working on the offering assess orders alongside Anthropic before the final price and allocations are determined. Nasdaq’s role in the expected debut comes afterward, when its opening auction establishes the first publicly traded price.
+September coverage had already linked major investment banks to the offering and described preparations for meetings between research analysts and company management. Those meetings formed part of the earlier listing preparations, alongside a proposed revolving credit facility.
+Morgan Stanley, Goldman Sachs, JPMorgan and Citigroup were among the banks named in those preparations. The September account said the banks had not responded to requests for comment.
+Anthropic’s Earlier IPO Plans Targeted an Autumn Listing
+September Preparations Included Filings and Analyst Meetings
+Chosun’s September account, citing Reuters, said Anthropic had submitted confidential filings to the US Securities and Exchange Commission in June. It described plans to release a public prospectus in late September after an earlier timetable slipped by about a month.
+That account also described a proposed $15 billion revolving credit facility. Research analysts from the underwriting banks were expected to meet management after the credit line’s terms were finalized.
+The financing discussions were part of the preparations surrounding the IPO. The credit facility was proposed borrowing capacity, separate from money investors would pay for shares in the offering.
+The Listing Window Extended Beyond the Earlier Target
+The September timetable envisaged completing the listing in late October or early November, ahead of the US midterm elections. Those plans allowed for changes as the company worked through its preparations.
+The current expectation places the public-trading milestone on November 19. The sequence has consequently moved from an autumn planning window to a specific expected debut date, with pricing scheduled immediately beforehand.
+Anthropic’s Proposed Valuation Meets a Major AI Demand Test
+Roughly $1.4 Trillion Is the Indicated Company Valuation
+The proposed offering terms put Anthropic’s indicated valuation at approximately $1.4 trillion. That is the company valuation associated with the planned offering, rather than the amount of cash the IPO would raise.
+Earlier September coverage discussed a possible valuation as high as $2 trillion. That figure belonged to the earlier planning period; the approximately $1.4 trillion figure accompanies the latest proposed terms.
+The first public trades would provide a fresh assessment of those terms. A strong opening would indicate demand at the auction, while a weaker opening would expose resistance to the valuation at the start of public trading.
+Earlier Operating Figures Underpinned the Growth Story
+The September account put Anthropic’s annualized revenue above $65 billion as of July. It also said the company recorded its first adjusted operating profit in the second quarter.
+The same account said Anthropic had told investors that revenue could reach as high as $200 billion in 2028. That was a company projection, while the July figure described an annualized revenue pace.
+The September comparison put rival OpenAI’s annualized revenue at $40 billion, below Anthropic’s reported July pace. OpenAI was then planning an IPO for the following year, leaving Anthropic positioned to reach public markets first if it completed its listing within 2026.
+Anthropic IPO Draws Debate Over Bitcoin Selling
+CZ Links the Upcoming Offering to Crypto Weakness
+Binance founder Changpeng Zhao suggested that the forthcoming offering was one factor behind bitcoin’s recent weakness. The proposed mechanism was investors selling crypto holdings to raise money for Anthropic allocations.
+Zhao made the argument on X on Sunday. The comparison with SpaceX drew on an earlier bitcoin decline from around $80,000 in mid-May to near $60,000 in early June, before the company’s June 12 Nasdaq debut.
+Analysts interviewed by CoinDesk challenged that explanation. HashKey Group senior researcher Tim Sun said the capital-drain narrative lacked sufficient supporting evidence, although its popularity could itself encourage investors to reduce risk.
+Sun pointed instead to expectations for higher US interest rates. His distinction was between investors reacting to a persuasive market narrative and actual capital moving from crypto into the offering.
+Analysts Point to Rates and Broader Market Conditions
+Markus Thielen, founder of 10x Research, called the timing coincidental. He cited weak market structure, stablecoin outflows and higher traditional-market yields that were making cash and fixed-income alternatives more attractive.
+Thielen also challenged the urgency implied by the funding explanation: “There was no obvious reason for anyone to urgently raise capital on a Saturday by selling bitcoin to fund an investment in Anthropic.”
+TDX Strategies founder Dick Lo gave the rotation argument more weight, calling the Anthropic offering one factor, though not necessarily the main driver. He also pointed to inflation, rising Treasury yields, a stronger dollar and fragile sentiment.
+Lo linked that fragile sentiment to the Binance hack and pointed to a hotter-than-expected US inflation reading. Looking ahead, he said a strong Anthropic debut and a mild Core PCE inflation print the following week could help spark a near-term rebound by easing expectations for rate increases. He also identified Nvidia’s solid results and forward guidance as potential support.
+Nasdaq futures had fallen sharply over the preceding four weeks, a less supportive backdrop for technology stocks than the period before SpaceX’s June 12 debut. CoinDesk described technology exposure as materially less appealing ahead of Anthropic than before SpaceX.
+Anthropic’s Debut Faces Pricing and Market Risks
+The Opening Auction Can Reset the Entry Price
+The clearest immediate risk is a gap between the offering price and the exchange opening price. Buying and selling interest at Nasdaq’s auction could establish a substantially different level from the price used for IPO allocations.
+AI Enthusiasm Meets Valuation Concerns
+The offering comes amid concerns about whether AI company valuations can be sustained. Anthropic’s reported revenue growth and adjusted operating profit provide business milestones for investors to weigh against its proposed value.
+The broader technology-market backdrop adds another consideration. With Nasdaq futures under pressure ahead of the offering, the first day’s response will test demand for Anthropic within a market already showing more caution toward technology exposure.
+For the timetable, the remaining steps are concrete: finish pricing, confirm allocations and proceed to the expected public opening.
+Anthropic Stock Trading and the xStocks Pool Have Separate Next Steps
+The Stock-Market Sequence Moves Toward the Auction
+After the scheduled November 18 pricing process, attention turns to the November 19 opening auction. Once that auction establishes the initial public price, ANT shares are expected to begin trading on Nasdaq.
+The offering price, confirmed allocations and first exchange trade are consequently successive developments.
+Binance Wallet Subscribers Await Allocations and Refunds
+Separately, Binance Wallet’s Anthropic xStocks subscription pool reached its 500 million USDC▲$0.9997 cap, according to The Defiant. The wallet announced the closure nearly four hours before the scheduled deadline.
+Subscribers were awaiting proportional token allocations and refunds of unused USDC. That pool has its own allocation process, separate from the pricing and exchange-trading sequence for Anthropic shares.
+FAQ
+What date is Anthropic expected to set its IPO offering price?
+Pricing is scheduled for November 18,2026, ahead of the expected public debut the following day. The process includes assessing investor orders and confirming share allocations.
+What ticker and exchange does the latest reporting identify for Anthropic?
+The expected stock ticker is ANT on Nasdaq, with trading anticipated on November 19,2026. Nasdaq would also conduct the auction that establishes the opening public price.
+Why could Anthropic’s opening share price differ from its IPO price?
+The offering price is determined before public trading, while the opening auction reflects buying and selling interest at the debut. That demand can produce a substantially different opening price, creating a gap between IPO allocations and the first exchange trade.
+When did earlier reports expect Anthropic to begin IPO marketing?
+September coverage placed the start of marketing in mid-October at the earliest. Asianet News’s account, citing Reuters, paired that expectation with a planned late-September public prospectus.
+What initial per-share price range did Anthropic target?
+The initial target was $70–$78 per share. Strong institutional demand could push the final offering price above that range, according to the November 18 pricing coverage.
+Which banks were previously reported to be working on Anthropic’s IPO?
+September coverage named Morgan Stanley, Goldman Sachs, JPMorgan and Citigroup among the banks involved. The same preparations included plans for underwriting-bank research analy

@@ -1,0 +1,27 @@
+URL: https://www.tradingview.com/news/stocktwits:ae8959e1c094b:0-why-is-amd-stock-rising-overnight/
+TITLE: Why Is AMD Stock Rising Overnight?
+OUTLET: TradingView
+
+Why Is AMD Stock Rising Overnight?
+- OpenAI’s models helped deliver a 14% improvement in power, performance, and area (PPA) in AMD’s flagship chip design.
+- AMD stock rose over 0.3% in overnight trading, after gaining 5.3% in the regular session.
+- Retail sentiment for AMD was ‘bullish’ as of late Wednesday.
+OpenAI and Advanced Micro Devices (AMD) on Wednesday hailed their collaboration, with the ChatGPT maker saying that its models helped improve AMD’s flagship chips.
+The tweaks delivered up to a 14% improvement in power, performance, and area (PPA) over already optimized baselines for AMD’s flagship GPU design.
+OpenAI described the work as roughly a year of chip-design progress achieved in less than five months, adding that AMD had already sent some model-designed changes for manufacturing.
+Separately, commentators noted the use of AMD technology in ‘Grand Theft Auto VI,’ Rockstar Games’ highly anticipated title that was released overseas on Wednesday, giving another boost to the chipmaker’s market sentiment.
+AMD shares rose 0.3% in overnight trading, after gaining 5.3% in the regular session.
+How OpenAI Boosted AMD IP
+The work focused on rewriting SystemVerilog, the code used to describe chip circuits, OpenAI detailed in a blog post. OpenAI models proposed changes to circuits that calculate, control operations and move data, with successful checks using Synopsys electronic design tools.
+OpenAI said the same processes helped optimize its own custom inference chip, Jalapeño, and it is now applying the approach to third-party hardware.
+“Proud of these fantastic results - @OpenAI + @AMD engineers pushing the frontiers of chip design together!” AMD CEO Lisa Su said in an X post.
+OpenAI President Greg Brockman wrote: “roughly an additional year of progress on @AMD's chip achieved in less than 5 months using our models, with some of these results included in a design that's recently been taped out — unprecedented results at the frontier of chip design.”
+AMD Tech Powered GTA 6 Image Upscaling
+Rockstar told gaming and tech news site Wccftech that ‘GTA VI’ uses AMD’s FSR 4 upscaling on Xbox Series S. The game renders at 720p, and then FSR rebuilds the image at 1080p.
+The Series S is the only console version confirmed to use AMD’s machine-learning upscaler and also supports ray-traced global illumination (RTGI), according to Wccftech.
+AMD introduced FSR Upscaling 4.1.2 for Xbox Series X and Series S developers earlier this month through the Xbox Game Development Kit.
+Retail View On AMD
+On Stocktwits, the retail sentiment for AMD remained ‘bullish,’ unchanged from the previous day.
+“AMD Another big success in a row for AMD. In the Grand Theft Auto (GTA) game that is breaking and will break all records, the processors, graphics cards, console chips, and image-scaling technologies are the work of AMD—setting new standards unattainable for the vast majority,” said a trader.
+Another wrote: $AMD is going to be the next NVDA. Lisa please take us to join the 5T club.”
+Year to date, AMD stock is up 148%.
