@@ -1,0 +1,32 @@
+URL: https://tradebrains.in/brand/us-futures-prop-firms-what-indian-traders-should-check-before-paying-for-an-evaluation-12822853
+TITLE: US futures prop firms: what Indian traders should check before paying for an evaluation
+OUTLET: Trade Brains
+
+Interest in US futures prop firms has grown quickly among Indian traders. The appeal is easy to see. For a fee of a few thousand rupees, a trader gets a simulated account of $25,000 or more on CME products like the E-mini S&P 500 and Nasdaq futures, and keeps up to 90% of the profits if the firm funds them. India already sends a meaningful share of some firms' web traffic. Third-party estimates put India at 10% of Tradeify's visits in September 2026.
+The model is real, and so are the payouts. The details decide whether it is worth your money.
+How the model works
+You buy an evaluation. The account is simulated, with a profit target of around 5% to 6% and a maximum loss limit. Hit the target without breaking a rule and the firm gives you a funded account. From there you request payouts, and the firm keeps 10% to 20%.
+You are not depositing trading capital and you are not opening a brokerage account. You are paying for a test. If you fail, the fee is gone.
+First check: does the firm accept Indian residents?
+Do this before anything else. Country lists differ from firm to firm and they change.
+Check the firm's own terms on the day you buy. PipBack, a research site that tracks seven US futures prop firms, has a country checker on each firm's page and archives the firms' rule pages daily, which helps when a list changes.
+Second check: how will you be paid?
+Payout rails matter more for an Indian trader than for an American one. Firms pay by bank transfer, contractor payment platforms, PayPal or crypto, depending on the firm and the country. Confirm which method applies to India, what it costs, and how the income should be reported. Speak to a chartered accountant about tax and remittance rules before your first withdrawal, not after.
+Third check: is the firm paying anyone?
+PipBack tracks payouts at five firms. In the 30 days to 19 November 2026 it counted $107.3 million paid by Lucid Trading, $88.7 million by Topstep, $49.4 million by Tradeify, $19.6 million by MyFundedFutures and $3.2 million by Apex Trader Funding. It counts only payouts it can see, so these are minimums.
+A typical payout is modest. At Lucid Trading the median was $1,420, well over ₹1 lakh, and only 2% of payouts reached $10,000.
+Fourth check: what do other traders report?
+PipBack's ranking of futures prop firms by trader reviews is rebuilt each month from public reviews. For October 2026, MyFundedFutures and Lucid Trading averaged 4.8 out of 5, TakeProfitTrader and Tradeify 4.7, Topstep 4.3, Apex Trader Funding 4.2 and FundedNext Futures 3.6.
+Look at the share of reviews that mention a problem as well as the stars. It ranged from 8.8% at Lucid Trading to 44.6% at FundedNext Futures. And read what the problems are. Complaints about identity verification and account bans at payout time deserve extra attention from traders outside the US.
+Fifth check: the rules that end accounts
+Three rules cause most failures.
+The drawdown type. An end-of-day drawdown is checked on the closing balance. An intraday trailing drawdown moves with open profit, so a good trade that reverses can end the account.
+The consistency rule. A 40% rule means no single day can make up more than 40% of your profit. Traders who rely on one big session a week struggle with it.
+Trading hours. CME futures trade through the Indian evening and night. Many firms require positions to be closed before the daily session ends, which is early morning in India.
+What it costs
+Nobody pays list price, because every large firm has a discount code. On 19 November 2026, $25,000 evaluations with a code started at $16.70 at Apex Trader Funding, with an $89 activation fee after passing, $45.50 at Lucid Trading with no activation fee, and $52.50 at MyFundedFutures for new customers.
+Add card foreign exchange charges, and budget for more than one attempt. Many traders fail their first evaluation.
+A sensible way to start
+Pick one firm that accepts Indian residents and has tracked payouts. Buy the smallest account. Trade micro contracts until you know the rules by heart. Set a monthly limit on fees and keep to it.
+The fee is small. The discipline the rules demand is the hard part.
+PipBack earns a commission from several of the firms it covers when traders use its discount code, PIP, and says no firm pays to be ranked higher.

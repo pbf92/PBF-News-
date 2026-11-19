@@ -1,0 +1,17 @@
+URL: https://sg.finance.yahoo.com/news/anthropic-ant-adds-claude-integrations-091446369.html
+TITLE: Anthropic (ANT) Adds New Claude Integrations As Post IPO Enterprise Traction Builds
+OUTLET: Yahoo Finance Singapore
+
+- Anthropic PBC (NasdaqGS:ANT) reported fresh enterprise traction after its IPO, centered on new Claude AI integrations and partnerships.
+- Talent platform Andela joined as a Select Services Partner, giving large clients access to certified Claude AI implementation support.
+- Anthropic introduced an Infobip Message connector in the Claude Marketplace, linking Claude to global messaging and customer engagement workflows.
+- The new Andela partnership and Infobip Message connector only capture part of Anthropic's story, which runs wider than these integrations. We have also flagged 1 major warning sign for Anthropic PBC.
+For a fuller view of how enterprise-focused AI adoption is spreading across the market, consider reviewing peers through 41 AI small caps.
+Anthropic PBC develops and maintains Claude and other advanced AI models for enterprises in the US and internationally, and its tools are increasingly wired directly into client workflows rather than used as standalone software. For a business in the Software industry with a reported market cap of $968.4b, that kind of embedded adoption can shape how deeply it is integrated into large corporate technology stacks.
+Anthropic's post-IPO deals lean into real usage, but leave durability untested
+For investors, this run of Andela, Infobip, Tessera and Harness tie ups reinforces that the Anthropic PBC story is currently about real enterprise deployment rather than hype. The case for Anthropic as an applied software business is helped by concrete use cases like reported 2,000 hours saved at Nexford University and shorter release cycles at Location Live. That said, the update does not answer the biggest open question for a freshly listed US$1.5t software player. It still leaves unclear how concentrated this demand is across a relatively small group of early adopters and how sticky that spend will be once contracts renew.
+The clearest next test is Anthropic's first set of public quarterly results as a listed entity. Investors will be able to line up reported enterprise customer counts, Claude related usage trends and large partner contributions against this early wave of post IPO enthusiasm.
+Add Anthropic PBC to your Watchlist and get alerts as these catalysts play out.
+This article is general in nature and was produced with the assistance of AI automation, based on data and analysis from Simply Wall St. We provide commentary based on historical data and analyst forecasts only using an unbiased methodology and our articles are not intended to be financial advice. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, or your financial situation. We aim to bring you long-term focused analysis driven by fundamental data. Note that our analysis may not factor in the latest price-sensitive company announcements or qualitative material. Simply Wall St has no position in any stocks mentioned.
+Companies discussed in this article include ANT.
+Have feedback on this article? Concerned about the content? Get in touch with us directly. Alternatively, email editorial-team@simplywallst.com
