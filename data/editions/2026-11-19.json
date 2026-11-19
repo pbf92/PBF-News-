@@ -1,0 +1,691 @@
+{
+ "date": "2026-11-19",
+ "type": "weekday",
+ "read_minutes": 6,
+ "note": "Anthropic IPO appeared on both the AI and markets desks; merged into one top story. Horvat Adash arrests dropped as repeated from yesterday.",
+ "before_open": [
+  {
+   "time": "All day",
+   "what": "No BLS releases scheduled today (Thu 19 Nov)",
+   "detail": "BLS calendar: nothing on the 19th. Next: State Employment and Unemployment, Fri 20 Nov, 7:00 AM PT (10:00 AM ET).",
+   "url": "https://www.bls.gov/schedule/"
+  },
+  {
+   "time": "All day",
+   "what": "No Federal Reserve events found on the calendar text for today",
+   "detail": "The fetched Fed calendar page did not list daily events. Cook speaks tomorrow, Fri 20 Nov, 9:15 AM PT (12:15 ET), at the Central Bank of Chile conference; next FOMC 8-9 Dec (per Admirals citing the Fed calendar).",
+   "url": "https://www.federalreserve.gov/newsevents/calendar.htm"
+  },
+  {
+   "time": "6:30 AM",
+   "what": "Anthropic (ANT) first trading day after pricing at $83 a share, $1.5 trillion valuation",
+   "detail": "Overnight Nasdaq mover; the listing time in the sources is not stated, only that trading starts 19 Nov. 6:30 AM PT is the cash open.",
+   "url": "https://apnews.com/article/anthropic-ipo-pricing-70b660ddf900d90bbf484ecdf1fb441c"
+  },
+  {
+   "time": "Overnight",
+   "what": "Trump, Xi and Putin summit: agreements on oil and nuclear risks, no major breakthroughs",
+   "detail": "Xi warned the US on Taiwan; trade and chip-export signals feed tariff expectations.",
+   "url": "https://apnews.com/article/trump-xi-putin-nuclear-ukraine-iran-a04dc76ed8e786b087e2c1ea9598783a"
+  },
+  {
+   "time": "Overnight",
+   "what": "Gulf tension: Trump on Iran 'after January 1'; Israel urging strikes",
+   "detail": "Oil and risk-sentiment input.",
+   "url": "https://www.reuters.com/world/trump-says-us-will-see-what-happens-conflict-with-iran-after-january-1-2026-11-19/"
+  }
+ ],
+ "week_ahead": [],
+ "top": [
+  {
+   "headline": "Anthropic prices record IPO at $83, about $1.5tn valuation; Nasdaq trading starts today",
+   "why": "The first pure-play frontier AI company to list is the biggest test yet of investor appetite for AI after a recent selloff. How ANT trades will colour sentiment for OpenAI's expected listing next year.",
+   "points": [
+    "Priced at $83 against a $70-$78 range; 980m shares sold (825m planned) raising about $81.3bn, the largest IPO ever, ahead of SpaceX's $75bn initial raise in June.",
+    "Further $26bn from tech investors (Google, Microsoft, Nvidia) takes the total to about $107bn; BBC source says demand was ten times supply, Al Jazeera cites six times.",
+    "Prospectus: $33.2bn revenue in the first nine months of 2026 ($17bn in Q3), net loss $104bn (largely non-cash adjustments per Al Jazeera) and nearly $901bn of compute commitments.",
+    "Morningstar fair value estimate is $92; Wall Street closed mixed on 18 Nov after Nvidia results and Fed minutes (Reuters)."
+   ],
+   "next": "First Nasdaq trades under ANT today, 19 Nov; first public quarterly results as a listed company are the next fundamental test (date not announced).",
+   "confidence": "confirmed",
+   "impact": "high",
+   "thread": {
+    "id": "anthropic-ipo",
+    "name": "Anthropic IPO",
+    "status": "changed",
+    "day": 5
+   },
+   "sources": [
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.com/news/articles/c6742m39xgzxo"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/19/charting-the-worlds-biggest-ipos-as-anthropic-overtakes-spacex"
+    },
+    {
+     "name": "Reuters via Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-anthropic-ipo-pricing-015339932.html"
+    },
+    {
+     "name": "AP",
+     "url": "https://apnews.com/article/anthropic-ipo-pricing-70b660ddf900d90bbf484ecdf1fb441c"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/business/anthropic-clinches-biggest-ever-ipo-with-81-billion-offering-2026-11-18/"
+    }
+   ],
+   "desk": "ai"
+  },
+  {
+   "headline": "Trump, Xi and Putin reach deals on oil and nuclear risks, but no major breakthroughs",
+   "why": "The three-way summit is the main geopolitical input for tariff, chip-export and Russia expectations. Headline agreements are limited, so the market read is cautious rather than a relief trade.",
+   "points": [
+    "AP (19 Nov): agreements on oil and nuclear risks, no major breakthroughs",
+    "Xi told the US to do the 'right thing' on Taiwan to avoid setbacks in relations (Reuters, 19 Nov)",
+    "Kremlin says Ukraine was the main topic at the Trump-Putin meeting (Reuters, 19 Nov)",
+    "Ukraine struck the Crimean Bridge for the third time in a week ahead of the summit (Reuters)"
+   ],
+   "next": "Watch for any follow-up on trade or chip-export terms as the Asia trip continues; no dated catalyst published in the sources.",
+   "confidence": "confirmed",
+   "region": "Global",
+   "impact": "high",
+   "thread": {
+    "id": "trump-asia-trip",
+    "name": "Trump Asia trip",
+    "status": "changed",
+    "day": 3
+   },
+   "sources": [
+    {
+     "name": "AP News",
+     "url": "https://apnews.com/article/trump-xi-putin-nuclear-ukraine-iran-a04dc76ed8e786b087e2c1ea9598783a"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/china/chinas-xi-says-us-should-do-right-thing-taiwan-avoid-setbacks-relations-2026-11-19/"
+    }
+   ],
+   "desk": "world"
+  },
+  {
+   "headline": "GTA VI is live on PS5 and Xbox Series: Metacritic 99, record streaming audience",
+   "why": "The launch you have waited for is out, and reviews are exceptional; PC has no date, so console is the only route for now.",
+   "points": [
+    "US digital unlock was midnight Eastern, i.e. 9pm PT Wed 18 Nov; PS5 download is about 210 GB and a 602.5 MB launch patch (01.002.001) was already rolling out.",
+    "Metacritic aggregate 99/100 from more than 150 reviews; IGN gave 10/10.",
+    "Sensor Tower estimates over 15.8m pre-orders (about $1.54bn by 17 Nov); a later estimate cites $1.65bn, roughly 75% on PS5. Both are third-party estimates, not Rockstar figures.",
+    "StreamCharts reports 6.38m concurrent viewers across platforms; many players in other time zones got in early via New Zealand or clock changes."
+   ],
+   "next": "Rockstar has not announced sales; Take-Two's next earnings report is the likely first official figure (date not confirmed in sources).",
+   "confidence": "reported",
+   "impact": "high",
+   "thread": {
+    "id": "gta6-launch",
+    "name": "GTA VI launch",
+    "status": "changed",
+    "day": 25
+   },
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/19/grand-theft-auto-vi-launches-to-rave-reviews-after-13-year-wait"
+    },
+    {
+     "name": "VICE",
+     "url": "https://www.vice.com/en/article/gta-6-us-canada-launch-ps5-download-size-game-sharing/"
+    },
+    {
+     "name": "Hungarian Conservative",
+     "url": "https://www.hungarianconservative.com/articles/current/gta-6-launch-shatters-viewership-records-and-preorder-estimates/"
+    }
+   ],
+   "desk": "gaming"
+  }
+ ],
+ "desks": [
+  {
+   "id": "united",
+   "name": "Manchester United & Football",
+   "status": "story",
+   "note": "",
+   "stories": [
+    {
+     "headline": "Pochettino starts at Carrington with three days to prepare for Anfield",
+     "why": "United are 18th with one league win, and the new head coach's debut is away at fourth-placed Liverpool on Sunday. Expect little tactical change with so little time on the training pitch.",
+     "points": [
+      "Pochettino arrived in Manchester on Wednesday 18 Nov after his final USMNT game, a 2-0 win over Haiti; he takes full command of training on Thursday.",
+      "He wants United to go to Anfield 'with no fears' and 'be brave', and says the work will be 'step by step'.",
+      "United and the Premier League agreed a 2pm press conference on Friday, 30 minutes later than the usual 1:30pm deadline.",
+      "Last league game under Michael Carrick was a 4-4 draw with Aston Villa; United won both games against Liverpool last season."
+     ],
+     "next": "Press conference Fri 20 Nov, 2pm UK; Liverpool v United Sun 22 Nov, 11:30am ET (8:30am PT) on USA Network.",
+     "confidence": "confirmed",
+     "impact": "high",
+     "thread": {
+      "id": "pochettino-era",
+      "name": "Pochettino era begins",
+      "status": "changed",
+      "day": 7
+     },
+     "sources": [
+      {
+       "name": "The Guardian",
+       "url": "https://www.theguardian.com/football/2026/nov/19/manchester-united-mauricio-pochettino-liverpool-anfield-no-fear"
+      },
+      {
+       "name": "Yahoo Sports",
+       "url": "https://sports.yahoo.com/articles/premier-league-grant-manchester-united-121143889.html"
+      },
+      {
+       "name": "Front Row Soccer",
+       "url": "https://www.frontrowsoccer.com/2026/11/19/pochettinos-debut-you-can-watch-it-on-usa-network-telemundo-on-sunday/"
+      }
+     ],
+     "desk": "united"
+    },
+    {
+     "headline": "United post wider Q1 loss of 18.1m pounds as revenue rises 4%",
+     "why": "The financial backdrop the new head coach inherits: revenue is growing but losses are larger than a year ago.",
+     "points": [
+      "Net loss of 18.1m pounds for the quarter to end September, against 6.6m pounds a year earlier.",
+      "Revenue up 4% to 146m pounds.",
+      "Reuters and Bloomberg both carried the results; figures here are from the Guardian's saved report."
+     ],
+     "next": "No dated catalyst; next quarterly results are due after the January window (date not confirmed in sources).",
+     "confidence": "official data",
+     "impact": "low",
+     "thread": {
+      "id": "pochettino-era",
+      "name": "Pochettino era begins",
+      "status": "changed",
+      "day": 7
+     },
+     "sources": [
+      {
+       "name": "The Guardian",
+       "url": "https://www.theguardian.com/football/2026/nov/19/manchester-united-mauricio-pochettino-liverpool-anfield-no-fear"
+      },
+      {
+       "name": "Reuters",
+       "url": "https://www.reuters.com/sports/soccer/manchester-united-post-bigger-q1-loss-pochettino-inherits-struggling-side-2026-11-19/"
+      }
+     ],
+     "desk": "united"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "name": "World Affairs & Politics",
+   "status": "story",
+   "note": "Lead story: see top. Cut: Morgan/YouGov Australian polls (no margin of error published).",
+   "stories": [
+    {
+     "headline": "Trump says US will 'see what happens' with Iran after 1 January as Gulf states push to avert war",
+     "why": "Gulf escalation remains a live input for oil, shipping and risk sentiment. The 1 January reference gives the standoff a rough horizon.",
+     "points": [
+      "Trump: US will 'see what happens' in the conflict with Iran after 1 January (Reuters, 19 Nov)",
+      "Mideast nations ramping up efforts to avert all-out war while Israel urges strikes on Iran, per officials (AP)",
+      "AP article is the Gulf-attacks follow-up on the Bahrain/Kuwait thread"
+     ],
+     "next": "No dated catalyst in sources; 1 January is the deadline Trump referenced.",
+     "confidence": "reported",
+     "region": "Global",
+     "impact": "high",
+     "thread": {
+      "id": "gulf-tension",
+      "name": "Gulf tension: Iran, Bahrain, US",
+      "status": "changed",
+      "day": 3
+     },
+     "sources": [
+      {
+       "name": "Reuters",
+       "url": "https://www.reuters.com/world/trump-says-us-will-see-what-happens-conflict-with-iran-after-january-1-2026-11-19/"
+      },
+      {
+       "name": "AP News",
+       "url": "https://apnews.com/article/iran-us-kuwait-gulf-attacks-bahrain-b1f0b530cffe951e6fcc1e27b2e1af94"
+      }
+     ],
+     "desk": "world"
+    },
+    {
+     "headline": "Australian unemployment rises to 4.9%, highest since October 2021",
+     "why": "Weaker jobs data complicates the RBA, which has raised rates five times this year to 4.85%. Rising joblessness may soften the case for further tightening.",
+     "points": [
+      "October: 44,000 fewer employed, 18,000 more unemployed (ABS)",
+      "Youth unemployment 11.3% (from 11.1%); employment-to-population ratio down 0.3pt to 63.3%",
+      "Participation rate down 0.2pt to 66.6%; hours worked down 0.2%",
+      "Trend unemployment rate 4.8%"
+     ],
+     "next": "ABS November Labour Force survey (reference period 25 Oct-7 Nov); release date not in the source.",
+     "confidence": "official data",
+     "region": "AU",
+     "impact": "medium",
+     "thread": {
+      "id": "rba-rates",
+      "name": "RBA tightening",
+      "status": "changed",
+      "day": 16
+     },
+     "sources": [
+      {
+       "name": "Australian Bureau of Statistics",
+       "url": "https://www.abs.gov.au/media-centre/media-releases/unemployment-rate-rises-49"
+      }
+     ],
+     "desk": "world"
+    },
+    {
+     "headline": "World Court rules Myanmar committed genocide against the Rohingya",
+     "why": "A landmark ICJ judgment with legal and diplomatic consequences for Myanmar, though it has no direct market effect.",
+     "points": [
+      "AP (19 Nov): top UN court says Myanmar committed genocide against the Rohingya",
+      "Reuters: court found Myanmar forces killed thousands of Rohingya; ruling was still ongoing at time of report"
+     ],
+     "next": "Reaction and any follow-on measures; no dated catalyst in sources.",
+     "confidence": "confirmed",
+     "region": "Global",
+     "impact": "medium",
+     "thread": {
+      "id": "rohingya-icj",
+      "name": "Rohingya genocide ruling",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "AP News",
+       "url": "https://apnews.com/article/rohingya-myanmar-genocide-court-icj-30df77b12bf3f911f1100e77ebe3973a"
+      },
+      {
+       "name": "Reuters",
+       "url": "https://www.reuters.com/world/asia-pacific/world-court-finds-myanmar-forces-killed-thousands-rohingya-ruling-ongoing-2026-11-19/"
+      }
+     ],
+     "desk": "world"
+    }
+   ]
+  },
+  {
+   "id": "prop",
+   "name": "Futures & Prop Firms",
+   "status": "quiet",
+   "note": "Checked: no watchlist-firm announcements in today's headlines (only Novig/Ohio sports contracts, an Indian-trader prop explainer and a Leverate broker-tools item, all off-watchlist or tip-off only). A search for Topstep/Apex/Tradeify/Lucid rule changes surfaced only third-party trackers, nothing confirmed from a firm. Unconfirmed: further Topstep changes via third-party trackers.",
+   "stories": []
+  },
+  {
+   "id": "tradetech",
+   "name": "Trading Technology",
+   "status": "quiet",
+   "note": "Checked: all 40-odd headlines are generic TradingView market-news feed items (earnings, insider trades, splits) with no product, Pine Script or Quantower news; search found nothing new on order flow.",
+   "stories": []
+  },
+  {
+   "id": "ai",
+   "name": "Artificial Intelligence",
+   "status": "quiet",
+   "note": "Lead story: see top. Unconfirmed: Dataconomy says Claude Code gained a 'Code Mode' for chained tool calls.",
+   "stories": []
+  },
+  {
+   "id": "business",
+   "name": "Business & E-commerce",
+   "status": "story",
+   "note": "",
+   "stories": [
+    {
+     "headline": "Meta's Muse agent can now check out for shoppers at Loblaw and in Australia",
+     "why": "AI agents are becoming a checkout channel that sits between shoppers and your store. DTC and retail brands need to decide whether to let agents through and how to track the traffic.",
+     "points": [
+      "Loblaw is the first Canadian retailer to partner directly with Muse; the agent can check out on a customer's behalf with permission, without visiting Loblaw's site or app (Globe and Mail, 18 Nov). Shopify has also integrated with Muse.",
+      "Muse launched in Australia on 17 Nov with nine local partners including Kogan, MECCA and Officeworks; Meta gave no dates for when each will work inside the agent (PPC Land).",
+      "Amazon has blocked Muse from shopping on its site; some Canadian banks have blocked or limited third-party agents.",
+      "Muse is free for most use with paid plans; no Australian pricing given."
+     ],
+     "next": "Australian partner features go live on dates Meta has not given; watch festive-season (Black Friday 27 Nov) agent traffic.",
+     "confidence": "confirmed",
+     "impact": "medium",
+     "thread": {
+      "id": "meta-muse-commerce",
+      "name": "Meta Muse agentic shopping",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "The Globe and Mail",
+       "url": "https://www.theglobeandmail.com/business/article-loblaw-metas-muse-ai-assistant-shopping-november-18/"
+      },
+      {
+       "name": "PPC Land",
+       "url": "https://ppc.land/metas-muse-reaches-australia-with-9-local-partners-from-canva-to-kogan/"
+      }
+     ],
+     "desk": "business"
+    },
+    {
+     "headline": "Microsoft Advertising rolls out its biggest bidding-model upgrade in a decade",
+     "why": "If you run Microsoft Ads value-based bidding, expect faster response to target changes and steadier pacing. The gains are Microsoft's own figures, so test before shifting budget.",
+     "points": [
+      "Company data: about 10% more conversion value per click on Maximize Conversion Value or Target ROAS at similar ROAS (measured August 2026).",
+      "Search campaigns moving from Target CPA to Target ROAS saw 8% more conversion value; eCPC to Maximize Conversions with a CPA target saw 18% more conversions.",
+      "Bid systems respond nearly twice as fast to CPA/ROAS target changes; budgets pace more evenly through the day.",
+      "Microsoft did not say how many advertisers were in the tests."
+     ],
+     "next": "Phased rollout continues; further bidding improvements planned for 2027.",
+     "confidence": "claim",
+     "impact": "low",
+     "thread": {
+      "id": "microsoft-bidding",
+      "name": "Microsoft Ads bidding upgrade",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "MediaPost",
+       "url": "https://www.mediapost.com/publications/article/419522/microsoft-unveils-biggest-bidding-upgrade-in-a-dec.html"
+      }
+     ],
+     "desk": "business"
+    },
+    {
+     "headline": "InMobi launches seven-agent AI platform to run SMB ads across Google, Meta and ChatGPT",
+     "why": "Another sign that small-business ad management is being automated, now including ChatGPT Ads. Its single cross-channel return figure comes from InMobi's own tracking, so reconcile it with your platform data.",
+     "points": [
+      "InMobi Accelerate launched 18 Nov: seven agents plan, build, launch and measure campaigns on Google, Meta, Microsoft, TikTok and ChatGPT Ads.",
+      "Free to start; no other pricing published.",
+      "Nothing goes live without approval; continuous automatic changes run only if switched on with limits set.",
+      "It de-duplicates conversions with InMobi's own tracking and reports one cross-channel return figure."
+     ],
+     "next": "No dated catalyst; pricing beyond the free tier not yet published.",
+     "confidence": "reported",
+     "impact": "low",
+     "thread": {
+      "id": "inmobi-accelerate",
+      "name": "InMobi Accelerate agentic ads",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "PPC Land",
+       "url": "https://ppc.land/inmobi-lets-seven-ai-agents-run-small-firms-google-meta-and-chatgpt-ads/"
+      },
+      {
+       "name": "The Times of India",
+       "url": "https://timesofindia.indiatimes.com/technology/aiq/inmobi-launches-ai-advertising-tool-for-small-businesses-and-agencies-all-details/amp_articleshow/135966763.cms"
+      }
+     ],
+     "desk": "business"
+    }
+   ]
+  },
+  {
+   "id": "faith",
+   "name": "Christianity & Theology",
+   "status": "story",
+   "note": "",
+   "stories": [
+    {
+     "headline": "Pew projects Christians a minority in North America by 2070, Africa's share doubling",
+     "why": "Pew's long-range projection puts the centre of gravity of global Christianity firmly in sub-Saharan Africa, with Western decline driven by switching rather than fertility. It also says Islam overtakes Christianity in headcount in the mid-2030s.",
+     "points": [
+      "Christians projected at 46% of North America and 52% of Europe by 2070; in sub-Saharan Africa they more than double to 1.6 billion, 54% of all Christians.",
+      "DR Congo is projected to overtake the US as the country with the most Christians by 2070.",
+      "Muslims projected at 2.57bn vs 2.52bn Christians in 2035; 3.6bn vs 3bn by 2070 (Pew, per Premier).",
+      "Christians expected to lose 105 million to religious switching 2020-2070 vs 8 million for Muslims."
+     ],
+     "next": "No dated catalyst; watch Anglican Communion moves toward African independence from Canterbury.",
+     "confidence": "official data",
+     "impact": "high",
+     "thread": {
+      "id": "pew-future-world-religions",
+      "name": "Pew Future of World Religions",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Christianity Today",
+       "url": "https://www.christianitytoday.com/2026/11/pew-research-christians-minority-2070-africa-growth/"
+      },
+      {
+       "name": "Premier Christian News",
+       "url": "https://premierchristian.news/en/news/article/islam-forecast-to-soon-exceed-christianity-as-world-s-biggest-faith-but-not-in-the-uk"
+      }
+     ],
+     "desk": "faith"
+    }
+   ]
+  },
+  {
+   "id": "health",
+   "name": "Health & Wellness",
+   "status": "story",
+   "note": "",
+   "stories": [
+    {
+     "headline": "Cochrane review: turmeric supplements give little or no knee osteoarthritis relief",
+     "why": "A popular supplement fails the clinical-importance bar in a formal review, though the trial base is short and small.",
+     "points": [
+      "Nine RCTs, 1,245 people with knee OA, mean age about 52-62, 67% women; all trials 90 days or shorter.",
+      "Four placebo-controlled trials (349 people): pain improved by less than 1 point more than placebo on a 0-10 scale, below the 1.5-point threshold judged clinically important.",
+      "No clear advantage over paracetamol or NSAIDs; products and doses varied widely.",
+      "Ten further trials were excluded from analysis over trustworthiness concerns."
+     ],
+     "next": "No date; watch for longer, better-controlled turmeric trials.",
+     "confidence": "confirmed",
+     "grade": "A",
+     "study": "Cochrane systematic review of 9 RCTs, n=1,245, adults with knee OA; key limitation: short trials, heterogeneous products, low certainty.",
+     "impact": "medium",
+     "thread": {
+      "id": "turmeric-knee-oa",
+      "name": "Turmeric and knee osteoarthritis",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Doctors.net.uk",
+       "url": "https://www.doctors.net.uk/news/cochrane-review-turmeric-makes-little-or-no-difference-to-knee-osteoarthritis"
+      },
+      {
+       "name": "Bioengineer.org",
+       "url": "https://bioengineer.org/cochrane-review-finds-turmeric-supplements-offer-little-relief-for-knee-osteoarthritis/"
+      }
+     ],
+     "desk": "health"
+    },
+    {
+     "headline": "STREAM trial: stopping statins in older adults was 'noninferior' but curves diverged",
+     "why": "Relevant if deprescribing statins is ever raised: a headline neutral result is being questioned, and the safety board advised those who stopped to talk to doctors about resuming.",
+     "points": [
+      "Trial in older adults without prior heart attack or stroke, presented at the AHA annual meeting.",
+      "Stopping statins was not significantly different from continuing, meeting the noninferiority test.",
+      "A STAT cardiologist writes that the Kaplan-Meier curves diverged, with the stop group doing worse.",
+      "The data safety monitoring board suggested that patients who stopped should discuss resuming."
+     ],
+     "next": "Full publication and guideline responses; no date confirmed.",
+     "confidence": "reported",
+     "grade": "B",
+     "study": "Randomised noninferiority trial, older adults without CVD (per STAT opinion piece, which gives no sample size); key limitation: figures not verified here, commentary is an opinion column.",
+     "impact": "medium",
+     "thread": {
+      "id": "stream-statin-deprescribing",
+      "name": "STREAM statin deprescribing trial",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "STAT News (opinion)",
+       "url": "https://www.statnews.com/2026/11/19/deprescribing-statins-study-stream-trial-aha-questions/?utm_campaign=rss"
+      }
+     ],
+     "desk": "health"
+    },
+    {
+     "headline": "Small UK study: GLP-1 users often eat well below recommended nutrient levels",
+     "why": "Relevant to the GLP-1 threads: appetite suppression may leave diets short of fibre, vitamin D and iron, but this is a tiny sample.",
+     "points": [
+      "14 adults prescribed Wegovy or Mounjaro at one Northamptonshire practice, diet-diary app (MyFood24) plus phone interviews.",
+      "Average intake 1,231 kcal, 58.5% of estimated energy need; protein averaged 153% of the recommended level.",
+      "More than three quarters were under two-thirds of fibre and vitamin D recommendations; half were low on iron.",
+      "Ultra-processed food averaged 33% of energy; none met fruit and veg targets."
+     ],
+     "next": "Needs larger studies; no date.",
+     "confidence": "reported",
+     "grade": "C",
+     "study": "Small observational dietary study in BMJ Nutrition, Prevention & Health, n=14, single UK practice; key limitation: tiny, unrepresentative sample, source is a Korean news summary.",
+     "impact": "low",
+     "thread": {
+      "id": "glp1-nutrition-gaps",
+      "name": "GLP-1 users and nutrient gaps",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "DongA Science",
+       "url": "https://www.dongascience.com/en/news/80933"
+      }
+     ],
+     "desk": "health"
+    }
+   ]
+  },
+  {
+   "id": "gaming",
+   "name": "Gaming & PlayStation",
+   "status": "story",
+   "note": "Launch story: see top.",
+   "stories": [
+    {
+     "headline": "Rockstar: PS5 Pro CPU too weak for a 60fps GTA VI; game runs at 30fps",
+     "why": "Even the Pro gets no performance mode, so the Pro's gain is visual (ray-traced shadows, PSSR), not frame rate. A 60fps version probably waits for new hardware.",
+     "points": [
+      "Rockstar's Marc Chambers told Kotaku the Pro's CPU is 'slightly better' but 'not powerful enough' to run the simulation at higher frame rates.",
+      "PS5 Pro adds ray-traced shadows and PSSR clarity on top of the base ray-traced reflections and global illumination.",
+      "Head of development Rob Nelson told IGN a performance mode 'wouldn't have been acceptable'.",
+      "A PS6 with a Zen 6 CPU is a rumour (Moore's Law is Dead leak), reportedly late 2027 or early 2028."
+     ],
+     "next": "No date for the PC version or a PS6; nothing scheduled.",
+     "confidence": "confirmed",
+     "impact": "medium",
+     "thread": {
+      "id": "gta6-launch",
+      "name": "GTA VI launch",
+      "status": "changed",
+      "day": 25
+     },
+     "sources": [
+      {
+       "name": "PC Gamer",
+       "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-says-a-ps5-pro-is-simply-not-powerful-enough-for-60-fps-gta-6-as-i-crack-a-smile-at-my-5090/"
+      },
+      {
+       "name": "BGR",
+       "url": "https://www.bgr.com/2321207/gta-6-fps-controversy-explained-by-rockstar/"
+      }
+     ],
+     "desk": "gaming"
+    }
+   ]
+  },
+  {
+   "id": "expand",
+   "name": "Expand My World",
+   "status": "story",
+   "note": "",
+   "stories": [
+    {
+     "headline": "'Egoviruses': giant viruses found in the guts of an estimated 180 million people",
+     "why": "A new virus group may be the evolutionary link between amoeba-infecting giant viruses and poxviruses like smallpox and mpox. It is a surprise inhabitant of ordinary human guts.",
+     "points": [
+      "Published in Nature; found by mining public metagenome libraries for a gene common to nucleocytoviruses.",
+      "DNA detected in people, buffalo, goats, chickens, deer and pigs; six clades unique to humans.",
+      "One clade estimated in roughly 1% of people worldwide, including Hadza hunter-gatherers; hosts are likely gut protists.",
+      "Outside experts quoted call it groundbreaking; link to poxviruses is a hypothesis."
+     ],
+     "next": "Follow-up work to culture the viruses or confirm hosts; no date.",
+     "confidence": "confirmed",
+     "impact": "medium",
+     "thread": {
+      "id": "egoviruses-gut",
+      "name": "Egoviruses in the human gut",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Nature News",
+       "url": "https://www.nature.com/articles/d41586-026-03766-w"
+      }
+     ],
+     "desk": "expand"
+    }
+   ]
+  }
+ ],
+ "watching": [
+  {
+   "thread": "baleba-injury",
+   "line": "No club update since 6 Nov; still a doubt for Anfield until Friday's 2pm press conference."
+  },
+  {
+   "thread": "fed-december",
+   "line": "No new Fed signal; Cook speaks Fri 20 Nov, 9:15 AM PT; next FOMC 8-9 Dec."
+  },
+  {
+   "thread": "topstep-nov-2026-rules",
+   "line": "Tracker-reported November changes still not confirmed by Topstep itself."
+  },
+  {
+   "thread": "openai-gpt-6-2",
+   "line": "No independent testing yet; IPO coverage dominates."
+  },
+  {
+   "thread": "meta-semantic-ads",
+   "line": "No change; the pause is not a withdrawal."
+  }
+ ],
+ "close_threads": [],
+ "expand": {
+  "headline": "'Egoviruses': giant viruses found in the guts of an estimated 180 million people",
+  "why": "A new virus group may be the evolutionary link between amoeba-infecting giant viruses and poxviruses like smallpox and mpox. It is a surprise inhabitant of ordinary human guts.",
+  "points": [
+   "Published in Nature; found by mining public metagenome libraries for a gene common to nucleocytoviruses.",
+   "DNA detected in people, buffalo, goats, chickens, deer and pigs; six clades unique to humans.",
+   "One clade estimated in roughly 1% of people worldwide, including Hadza hunter-gatherers; hosts are likely gut protists.",
+   "Outside experts quoted call it groundbreaking; link to poxviruses is a hypothesis."
+  ],
+  "next": "Follow-up work to culture the viruses or confirm hosts; no date.",
+  "confidence": "confirmed",
+  "impact": "medium",
+  "thread": {
+   "id": "egoviruses-gut",
+   "name": "Egoviruses in the human gut",
+   "status": "new"
+  },
+  "sources": [
+   {
+    "name": "Nature News",
+    "url": "https://www.nature.com/articles/d41586-026-03766-w"
+   }
+  ],
+  "desk": "expand"
+ },
+ "generated_at": "2026-11-19T13:27:54Z",
+ "updates": [],
+ "status": {
+  "story": 7,
+  "quiet": 3,
+  "failed": 0
+ }
+}

@@ -1,6 +1,21 @@
 {
- "latest": "2026-11-18",
+ "latest": "2026-11-19",
  "editions": [
+  {
+   "date": "2026-11-19",
+   "type": "weekday",
+   "top": [
+    "Anthropic prices record IPO at $83, about $1.5tn valuation; Nasdaq trading starts today",
+    "Trump, Xi and Putin reach deals on oil and nuclear risks, but no major breakthroughs",
+    "GTA VI is live on PS5 and Xbox Series: Metacritic 99, record streaming audience"
+   ],
+   "status": {
+    "story": 7,
+    "quiet": 3,
+    "failed": 0
+   },
+   "updates": 0
+  },
   {
    "date": "2026-11-18",
    "type": "weekday",
