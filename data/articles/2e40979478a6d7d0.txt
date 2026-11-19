@@ -1,0 +1,30 @@
+URL: https://www.eurekalert.org/news-releases/1152546
+TITLE: Children exposed to more radiation from medical scans may face higher brain tumor risk
+OUTLET: EurekAlert!
+
+A new large study led by UC Davis and UC San Francisco researchers has found that higher cumulative radiation dose to the brain from medical imaging during childhood is linked to a greater brain tumor risk in children and adolescents. Brain tumors are the second most common childhood cancers and are the leading cause of cancer death among children and adolescents.
+“The study found that the risk of a brain tumor remains small in children exposed to ionizing radiation from medical imaging; however, risk increased with higher radiation exposure,” said the study’s first author Diana Miglioretti, a UC Davis Health professor and chief of the Division of Biostatistics.
+The findings support the need for careful clinical justification of pediatric imaging that uses ionizing radiation (such as CT scans) and dose optimization when imaging is needed. The study was published today in JAMA.
+About ionizing radiation in medicine
+According to the Centers for Disease Control and Prevention (CDC), ionizing radiation is a powerful form of energy. Its medical applications include diagnostic testing such as:
+These tests may be used to find health problems such as cancer, learn what is causing pain or other symptoms or plan optimal treatment. They can also help monitor conditions, such as scoliosis, and guide medical procedures, such as placing catheters and stents. The head is the most commonly imaged region of the body in children. A CT scan of the head delivers substantially higher radiation doses to the brain compared with most other imaging types.
+Ionizing radiation can alter the body's cells and DNA, which might lead to cancer.
+The study
+The study included more than 3.7 million children in the United States and Ontario, Canada. These children were followed from the time they were born for an average of 12.3 years.
+The researchers studied electronic medical records to evaluate the cumulative radiation dose to the brain from all medical imaging that used ionizing radiation.
+“We were able to follow this very large group of children from birth and estimate radiation dose to the brain from multiple types of imaging. This allowed us to quantify relative and absolute brain tumor risk across the range of exposure levels encountered in current clinical practice in the U.S. and Canada,” Miglioretti said.
+Among this group, 1,536 brain tumors were diagnosed. More than half (55.7%) were in males. Around two-thirds of cases (64.5%) were diagnosed between the ages of 2 and 10 years.
+The study classified the tumors as aggressive or non-aggressive, based on their expected clinical behavior. Most tumors (82.5%) were of the aggressive type.
+Findings
+During the follow-up period, 4.3% of children had one head CT, 0.9% had two, and 0.4% had three or more. Among children with a brain tumor, 1.6% had two head CTs and 1.2% had three or more.
+The study found that exposure equivalent to one head CT scan was associated with a 1.8-fold increased risk of brain tumor. That is about eight additional brain tumors per 10,000 children by age 21, and approximately one excess tumor per 1,266 head CT examinations.
+Findings show an increasing brain tumor risk with higher cumulative radiation dose, with stronger association for aggressive tumors.
+The study also assessed the potential broader impact of radiation from medical imaging. The researchers estimated that 10.1% of brain tumors in children and adolescents may be attributed to radiation from medical imaging.
+A balancing act of risks and benefits
+The researchers emphasized that the use of powerful imaging tools should be done responsibly and following clinical guidelines. Clinicians must balance the immediate benefit of imaging against a small, delayed cancer risk, particularly in situations such as minor head trauma where imaging may or may not be necessary.
+The decision should be informed by proper justification and dose optimization. The objective is not to avoid clinically indicated imaging, but to weigh risks and benefits.
+“Our findings do not mean that parents should avoid getting their children medically necessary imaging. These examinations can be lifesaving. The message is that every examination using ionizing radiation should be clinically justified and performed using techniques that keep radiation dose as low as reasonably achievable while still obtaining the information needed for care,” Miglioretti said.
+In fact, the Pediatric Emergency Care Applied Research Network (PECARN) rules were designed to reduce inappropriate use of CT in children with head trauma. These rules were validated with a high degree of accuracy to be implemented in pediatric emergency departments.
+“Head CT is invaluable in the right setting — such as to assess for bleeding after severe trauma. However, it is overutilized, with an increasing use year after year,” said radiologist Rebecca Smith-Bindman, the senior author of the paper. Smith-Bindman is a professor of epidemiology and biostatistics, obstetrics, gynecology and reproductive sciences, and Health Policy Studies at UCSF.
+“This study quantifies an uncommon, but serious harm resulting from radiation exposure that should be weighed every time a scan is ordered. A small number of children will develop a brain tumor as a result of CT or other radiation tests. More judicious use of head CT and ensuring the doses for every exam are as low as possible will reduce this harm.”
+For a complete list of authors, see the article. The research was supported by the National Cancer Institute of the National Institutes of Health (NCI R01CA185687, NCI R50CA211115). The Ontario, Canada portion of the study was supported by the Institute for Clinical Evaluative Sciences (ICES), which is funded by an annual grant from the Ontario Ministry of Health and Long-Term Care.

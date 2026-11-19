@@ -1,0 +1,57 @@
+URL: https://www.eurekalert.org/news-releases/1152144
+TITLE: Experimental nose drops can enhance cognition in mice and may prevent Alzheimer’s
+OUTLET: EurekAlert!
+
+Researchers at the University of Sydney have developed experimental nose drops that enhance learning and memory in aged mice while also preventing memory loss in a mouse model of Alzheimer’s disease. The treatment uses mRNA technology similar to that developed for use in COVID-19 vaccines.
+The research, from the laboratory of Professor Greg Neely at the Charles Perkins Centre, will lead to a new way to treat diseases of the brain, allowing for the development of medicines that target major neurological diseases, including neurodegeneration, stroke, traumatic brain injury and rare genetic and developmental diseases.
+“If we can proceed quickly to clinical trials in humans, this approach could represent a world-first non-invasive delivery system to treat Alzheimer’s that bypasses the blood-brain barrier,” Professor Neely said.
+The study was inspired by the science fiction short story Flowers for Algernon written by Daniel Keyes, where scientists increase intelligence in lab mice and humans to better understand the limitations of human intelligence.
+The findings show that delivering messenger RNA (mRNA) packaged in lipid nanoparticles (LNPs) can turn the nose into a drug factory, producing medically active proteins that can enter the brain and increase cognitive ability.
+“In aged mice, we saw learning and memory significantly increased, returning animal cognition to its youthful prime,” Professor Neely said.
+“What’s exciting is that this was achieved with a simple non-invasive nasal delivery system that builds on the same underlying mRNA-LNP technology platform many people became familiar with during the COVID-19 pandemic.”
+The study, published in Advanced Science, focused on delivering mRNA instructions to build brain-derived neurotrophic factor (BDNF), a naturally occurring protein that supports neuron survival, plasticity and memory formation. Reduced BDNF levels are associated with ageing and Alzheimer’s disease.
+The researchers found nose drops improved learning and memory in aged mice. Aged animals showed a decline in cognitive ability, however those treated with nose drops performed similarly to young mice in a series of standardised behavioural tests assessing working memory, spatial memory and object recognition.
+MOUSE MODEL PATHWAY TO TREATING HUMAN DISEASE
+The team also tested the treatment using the 5XFAD mouse model. These are mice carrying genetic mutations serving as a rapid onset ‘humanised’ model of Alzheimer’s disease. Mice receiving the BDNF nose drops when the disease first started manifesting were protected against the severe cognitive decline normally seen in the model.
+5XFAD mouse models typically have Alzheimer’s disease brain pathologies detectable from two months, with cognitive decline apparent from ~four months of age.
+In this research, the animals were regularly treated with the BDNF protein via nasal mRNA delivery twice a week from two months of age. At four months, these mice showed no further cognitive decline.
+Importantly, the treatment appeared to preserve brain function without reducing amyloid plaques – the hallmark protein clumps associated with Alzheimer’s disease. That finding suggests the approach could potentially complement, rather than replace, existing anti-amyloid Alzheimer’s therapies.
+“Current Alzheimer’s treatments largely focus on clearing these amyloid plaques,” Professor Neely said. “However just under a third of Alzheimer’s patients have serious plaques but do not suffer from dementia, and these patients show naturally higher BDNF levels, suggesting if we raise BDNF, it's possible to live with Alzheimer’s disease pathology”.
+“Our approach seems to work not by clearing plaques but by supporting the health, survival and connectivity of neurons themselves. It raises the possibility these therapies could eventually work alongside each other.”
+BYPASS THE BLOOD-BRAIN BARRIER
+The researchers say a major challenge in treating neurological diseases is delivering therapies across the blood-brain barrier – the protective barrier blocking many drugs from entering the brain.
+Nasal delivery exploits connections between the nasal cavity and the brain, enabling direct access to the central nervous system without invasive surgery or injections into the brain or spinal cord.
+“This is a very exciting proof of concept for a method to deliver mRNA encoded cargo to the nervous system directly through the nose,” Professor Neely said.
+The mRNA used in the study was based on the clinically validated BioNTech COVID-19 vaccine backbone, repurposed to produce therapeutic proteins in the brain instead of generating an immune response.
+First author Dr Maria Bergamasco from the School of Life and Environmental Sciences said the work demonstrates the potential of mRNA therapies beyond infectious disease.
+“The success of mRNA vaccines showed these systems can safely deliver genetic instructions to cells,” Dr Bergamasco said.
+“We wanted to see whether we could adapt that technology to deliver beneficial proteins to the brain in a completely non-invasive way.”
+The researchers observed increased neurogenesis – the formation of new neurons – in the hippocampus, a brain region critical for learning and memory. The treatment also appeared well tolerated in mice, with no major side effects detected during the study.
+Professor Neely cautioned that the research remains at the preclinical stage and that mouse studies are an essential early step before any potential human trials.
+“Before we can trial this therapy in patients, we need to perform a series of safety studies in animals,” he said. “It is a very promising pathway but human noses are different from mouse noses so we will need to test our drugs in humans to before we know whether it will work.
+“We believe our new drug, if it works in humans, can promote general cognitive health as people age, should help treat a variety of neurodegenerative diseases, and may even increase cognitive abilities in healthy young people” Professor Neely said.
+The researchers say future work will focus on optimising the delivery system and evaluating long-term safety and effectiveness but with a goal of rapidly bringing this to the clinic.
+“Based on previous clinical trials, we know the components used in this study to be safe in humans,” Professor Neely said. “We hope we can move quickly through the requisite safety studies and trial this treatment in humans in the next two years.”
+The study involved researchers from the Dr John and Anne Chong Lab for Functional Genomics within the School of Life and Environmental Sciences, the Charles Perkins Centre and the Faculty of Medicine and Health at the University of Sydney.
+## ENDS ##
+DOWNLOAD photos of the research team at this link.
+INTERVIEWS
+Professor Greg Neely | greg.neely@sydney.edu.au | +61 403 227 100
+Dr Maria Bergamasco | maria.bergamasco@sydney.edu.au
+MEDIA ENQUIRIES
+Marcus Strom | marcus.strom@sydney.edu.au | +61 474 269 459
+Outside of work hours: please call +61 2 8627 0246 (directs to a mobile number) or email media.office@sydney.edu.au
+RESEARCH
+Bergamasco, M. et al ‘Non-invasive Bdnf mRNA therapy improves cognition in ageing and Alzheimer’s mouse models’ (Advanced Science 2026). DOI: 10.1002/ADVS.78225
+DECLARATION
+Greg Neely and Maria Bergamasco are inventors on a provisional patent application related to this work. Other authors declare no competing interests. Funding was received from the National Health and Medical Research Council, the NSW Ministry of Health and an ongoing philanthropic donation from Dr John and Anne Chong to support the work of the Neely Lab.
+Authors acknowledge the Sydney Imaging Facility for assistance.
+This study was conducted in accordance with the guidelines set out in the Australian Code of Practise for the Care and Use of Animals for Scientific Purposes. All experiments were conducted with approval of the University of Sydney Animal Ethics Committee.
+Journal
+Advanced Science
+Article Title
+Non-invasive Bdnf mRNA therapy improves cognition in ageing and Alzheimer’s mouse models
+Article Publication Date
+18-Nov-2026
+COI Statement
+Greg Neely and Maria Bergamasco are inventors on a provisional patent application related to this work. Other authors declare no competing interests.

@@ -1,0 +1,25 @@
+URL: https://www.kucoin.com/news/flash/anthropic-s-ipo-as-ai-usage-surpasses-spending
+TITLE: Anthropic's IPO as AI Usage Surpasses Spending
+OUTLET: KuCoin
+
+Anthropic (NASDAQ:ANT) went public Thursday as businesses are getting more AI for their money.
+At companies tracked by Larridin, an analytics firm that measures workplace AI use and spending, the average user did more than twice as much with AI tools in October as in July, for roughly the same cost.
+The analysis, shared with Benzinga, compared four-week periods ending July 12 and Oct. 4 across tools that charge by usage, including Anthropic, OpenAI’s API and Cursor.
+What Cheaper AI Costs Anthropic
+Anthropic’s customers used more AI in the third quarter, helping lift sales to nearly $17 billion. Without price cuts and discounts, those customers would have paid about $600 million more for the same amount of AI, the company said in its prospectus.
+Ten days before its IPO, Anthropic introduced a new version of its flagship Fable model with standard rates 20% below its predecessor’s. OpenAI matched those rates with GPT-6.2 Astra. At the lower rates, it takes 25% more usage to generate the same revenue if the mix of work stays the same.
+For much of the work businesses give AI, though, companies don’t require expensive, flagship AI models. Larridin CEO Russ Fradin thinks the big labs can make money serving both ends of the market.
+"Think about a law firm," he told Benzinga. A partner can charge $4,000 an hour for the hardest work while a $400-an-hour associate does most of the work. The firm bills for both.
+A company might pay for the best AI it can get to help discover a drug and use a cheaper model to sift through sales leads.
+In Fradin’s view, Anthropic could win more everyday work with cheaper models and still charge a premium for its best AI.
+"If I were Anthropic, I would care a lot about share of wallet," Fradin said. He expects businesses to buy most of their AI from one or two providers, which gives Anthropic a reason to offer customers a better deal on its cheaper models.
+Claude Becomes a Habit
+Larridin found that at companies where Claude already had a foothold, people were coming back to it more often.
+In October, 49% of Claude users at those companies used it in all four weeks Larridin tracked, up from 32% in July. Among people who used Claude in both months, the share rose from 34% to 53%.
+Fradin expects AI to spread beyond coding as people find more uses for it. "We see in our data once people start using the tools for more than three or four use cases, they don’t go back," he told Benzinga.
+How High Could ANT Go?
+On Polymarket, traders put the odds of Anthropic ending its first day worth $1.25 trillion to $1.5 trillion at 50% Thursday morning. That would put the shares at roughly $95 to $113, up from the $83 IPO price. About $14.3 million had traded across the market.
+The longer-term test for ANT is whether customers’ growing use of Claude can outrun falling prices.
+Image: Shutterstock
+Read Also:
+Anthropic’s IPO Is Nearly Seven Times Oversubscribed, but Steve Eisman Says It’s ‘Not Important Anymore’

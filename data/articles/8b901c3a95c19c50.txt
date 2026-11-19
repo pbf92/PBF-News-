@@ -1,0 +1,42 @@
+URL: https://www.eurekalert.org/news-releases/1152553
+TITLE: USC researchers find two understudied “forever chemicals” raise liver cancer risk
+OUTLET: EurekAlert!
+
+A first-of-its-kind USC study links two little-studied “forever chemicals” to liver cancer, with the greatest risk in those already genetically susceptible to fatty liver disease.
+The study, published in Environmental Health Perspectives, finds that two per- and polyfluoroalkyl substances (PFAS), also known as “forever chemicals,” are associated with a significantly higher risk of liver cancer, with the strongest effects in people genetically predisposed to metabolic dysfunction-associated steatotic liver disease (MASLD), also known as fatty liver disease.
+PFAS are used in hundreds of everyday products, including nonstick cookware, food packaging, stain-resistant fabrics and firefighting foam. Because they break down extremely slowly, they persist in the environment and the human body for years or decades.
+PFAS have been found in drinking water across roughly half of U.S. water systems and an estimated 99% of the world’s population have detectable levels of PFAS in their blood. A growing body of evidence links PFAS exposure to thyroid disruption, immune dysfunction and certain cancers including liver cancer.
+Hepatocellular carcinoma (HCC), the most common form of liver cancer, carries a five-year survival rate of less than 20%. Today, the fastest-growing driver of HCC is MASLD.
+PFAS appear to interfere with the liver's ability to metabolize fats, promoting the same fat accumulation that drives MASLD and can, over time, progress to cancer.
+"PFAS have been linked to an increase in fat accumulation in your liver, and over time, that can actually increase the risk of liver cancer," said lead author Jesse Goodrich, PhD, assistant professor in the Division of Environmental Health at the Keck School of Medicine of USC.
+A window into exposure before cancer diagnosis
+Researchers analyzed prediagnostic blood samples drawn an average of 7.8 years before diagnosis from 223 people in the Multiethnic Cohort Study (MEC) who later developed HCC, and 223 matched controls. The MEC, which has tracked more than 215,000 racially and ethnically diverse participants across California and Hawaii since the 1990s, is one of the few cohorts in the world with pre-diagnostic blood samples collected decades before participants developed disease.
+Of the 12 PFAS compounds measured, two emerged as significantly associated with liver cancer risk: PFHpA and PFNA. PFHpA was developed as an alternative to older legacy PFAS, such as perfluorooctanoic acid (PFOA) and perfluorooctanesulfonic acid (PFOS), that were phased out amid concerns about their persistence in the human body.
+“PFOA and PFOS have received much of the scientific and regulatory attention, however, they represent only a small part of the PFAS family,” said senior author Vaia Lida Chatzi, MD, PhD, professor of population and public health sciences and pediatrics at the Keck School of Medicine. “Our findings show why we need to look beyond those legacy compounds. We can miss important associations with liver health if we study only the chemicals we already know best."
+The study showed that people in the highest quartile of PFHpA or PFNA exposure had two to two-and-a-half times the odds of developing liver cancer compared to those with the lowest levels of exposure.
+"The concerning thing about our results is that the strongest associations were not in the most studied legacy PFAS," Goodrich said. "They are among the newer PFAS, and we don't have much information about their effect on human health.”
+The USC finding for PFHpA also independently confirms a National Cancer Institute study published two months earlier that also linked PFHpA to liver cancer risk.
+A genetic factor for susceptibility
+The USC study is the first to investigate how genetics and PFAS together may affect liver cancer risk.
+Using a polygenic risk score for fatty liver disease, researchers also found that the link between one of the chemicals, PFHpA, and liver cancer was much stronger in people with high genetic susceptibility to fatty liver disease. Among those with low genetic susceptibility, there was no significant association.
+"Our study shows that genetic differences in how the liver processes fats may play an important role in determining susceptibility," Goodrich said. "You have this one-two hit: first, your genes and then PFAS impacting this pathway.”
+When both factors are present, their effects appear to compound, leading to higher risk of liver cancer.
+From research to action
+Earlier detection of liver cancer is strongly linked to better survival. Identifying people who carry both elevated PFAS exposure and high genetic susceptibility could eventually guide who receives earlier liver cancer screening.
+"Our study actually provides something that is actionable," Goodrich said. "You can make lifestyle and diet changes and there are certain types of water filters you can put in that can reduce exposure. And if you have the information on genetic susceptibility, that could also provide additional evidence for things that you could do to mitigate risk."
+This study is the first published paper from a USC Norris Comprehensive Cancer Center research program that received a $3.4 million grant from the National Cancer Institute and the National Institute of Environmental Health Sciences to investigate PFAS as a risk factor for liver cancer.
+“This first paper from our NIH-funded study is an important step. Drawing on the diverse Multiethnic Cohort, it adds to the evidence that some PFAS may be associated with liver cancer,” said senior author V. Wendy Setiawan, PhD, professor of population and public health sciences and medicine. “We hope this work will help build the evidence needed to reduce harmful exposures and inform prevention efforts for diverse communities.”
+The team plans to expand their analysis to a wider range of environmental exposures, building toward a more complete picture of how lifetime chemical exposure drives cancer risk.
+About the study
+Additional authors include Hongxu Wang, Adelynn Paik, Sihao Han, Brittney Baumert, Joseph Romano, Razieh Moghadam, Shiwen Li, Tanya L. Alderete, Syam S. Andra, Robert O. Wright, and David V. Conti. Senior authors Lida Chatzi, MD, PhD, and V. Wendy Setiawan, PhD, contributed equally to the work.
+This research was supported by the National Cancer Institute under award numbers R01CA300355 and U01CA164973, and by the National Institute of Environmental Health Sciences under award numbers U2CES026555, U2CES026561, U2CES030859, and P30ES007048.
+Journal
+Environmental Health Perspectives
+Method of Research
+Data/statistical analysis
+Subject of Research
+People
+Article Title
+Per- and Polyfluoroalkyl Substances, Hepatic Lipid Metabolism Genes, and Hepatocellular Carcinoma: Evidence of Gene–Environment Interactions in a Multiethnic Cohort
+Article Publication Date
+6-Nov-2026

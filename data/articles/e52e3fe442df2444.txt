@@ -1,0 +1,12 @@
+URL: https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-offers-discounts-to-gain-ground-with-new-products/
+TITLE: Anthropic Offers Discounts to Gain Ground With New Products
+OUTLET: PYMNTS.com
+
+Anthropic is offering discounts to customers as it moves into new applications for its artificial intelligence tools, The Information reported Thursday (Nov. 19), citing some sources who were named and others who were not.
+In some cases, Anthropic has given credits of as much as $2,000 per user to encourage companies to try its new products, has offered large customers discounts that exceeded 30% and has offered discounts to customers who share invoices and other documents to prove that a specified percentage of their AI budget is going to Anthropic, according to the report.
+Anthropic is offering these deals as it works to match the rapid growth of its AI coding tool, Claude Code, with newer products that include Claude Cowork for non-technical business users, Claude Managed Agents, and Claude-powered tools for specific sectors, such as financial services, and broad business functions, such as cybersecurity, the report said.
+With some of its new products, Anthropic is facing entrenched competitors such as Microsoft 365, Google Workspace and OpenAI’s products. Like other AI companies, Anthropic is also seeing some customers look for lower-cost alternatives after they saw their AI spending spike, per the report.
+Anthropic did not immediately reply to PYMNTS’ request for comment on the report.
+PYMNTS reported in October that AI answers were getting cheaper as model choices multiplied. For example, Anthropic said at the time that its Claude Haiku 5.5 cost one-tenth the price of the model’s predecessor, Claude Haiku 4.5, for most requests and about 75% less on average.
+It was reported in September that as customers were worn down by price shifts, software/cloud companies including Amazon, Microsoft and Figma were offering AI discounts. The report said these markdowns were happening as customers were growing more selective about the AI tools they purchased and as some grew unhappy with the shift by software providers to charge them for AI based on usage or how many tasks it finishes.
+It was also reported in September that a growing number of software companies were turning to open-source AI models, including Chinese ones, due to the cost of proprietary models from U.S. AI developers.

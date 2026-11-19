@@ -1,0 +1,32 @@
+URL: https://superpowerdaily.com/posts/anthropic-sets-december-1-default-switch-to-combined-claude-chat-and-tasks-for-team-plans
+TITLE: Anthropic sets December 1 default switch to combined Claude chat and tasks for Team plans
+OUTLET: Superpower Daily
+
+Anthropic sets December 1 default switch to combined Claude chat and tasks for Team plans
+Owners can postpone the initial switch, but the separate experience is scheduled to disappear in February. Cloud execution brings spending and data-retention considerations.
+Anthropic is folding Claude’s code-and-file work into the same conversation flow as chat, removing the upfront choice to enter Cowork while keeping admin controls over cloud execution. Eligible existing Team organizations are scheduled to turn the unified experience on December 1, 2026, unless an owner keeps it disabled; the separate experience is slated to retire February 1, 2027. Zero-data-retention organizations are excluded. Cloud tasks can consume more seat allowance, and work beyond that allowance may incur standard-rate charges when usage credits are enabled, subject to spending limits.
+01
+Owners can configure the experience now; cloud code execution and file creation must be enabled before automatic activation can occur.
+02
+Each cloud task gets an isolated virtual machine; after a few idle minutes, its disk is saved as an encrypted snapshot, and the environment expires 30 days after creation.
+03
+Tasks can move between web, desktop, and mobile; access to a user’s own computer remains optional through Claude Desktop.
+Claude Team organizations are headed toward a single starting point for questions and longer tasks. Anthropic has scheduled its combined chat and Cowork experience to turn on by default on December 1, 2026. Owners can delay that switch, but the separate experience is scheduled to retire on February 1, 2027, with remaining users moved automatically.
+Owners can delay the first switch
+Anthropic’s Team setup guide says the experience is available now under “Chat and Cowork unified” in Organization settings, then Capabilities. Owners and primary owners can enable it there. New Team organizations already start with it on, while scheduled tasks and session history keep working after the change without being recreated.
+For existing organizations, owners can select “Keep disabled” before the December deadline. An earlier choice to turn the unified experience on or off will also remain in place. Cloud code execution and file creation must be enabled: if that prerequisite is off, nothing switches on automatically until it is enabled.
+There is one major eligibility exception. Organizations using zero data retention cannot enable the unified experience and will keep their current chat and Cowork setup. Neither migration date applies to them.
+A conversation becomes a cloud task
+The change removes the upfront choice between chat and Cowork across web, desktop and mobile. When a request needs code execution or file work, Claude continues the same conversation in an Anthropic-managed cloud environment, then returns the finished work for review. Users are not asked to switch modes.
+Each chat needing that environment gets its own virtual machine—an isolated computer managed by Anthropic. After a few idle minutes, the machine stops and its disk is saved as an encrypted snapshot. The environment expires 30 days after creation. A task started on the web can be picked up on desktop or mobile.
+Access to a user’s own computer remains optional through Claude Desktop. Administrators also retain controls over what cloud code and connected tools can do:
+Network access can be blocked, limited to package managers or selected domains, or opened to all domains.
+Connector policies are enforced outside the cloud environment on every connector call.
+Owners can prevent users from choosing “Skip all approvals” for scheduled tasks and the built-in browser.
+The allowance stays; heavier work can use more
+Anthropic cautions that code and file tasks can consume more of a member’s seat allowance than a quick chat. If usage credits are enabled, work beyond that allowance is billed at standard rates, subject to the organization’s spending limit. Some organizations can also set per-member limits.
+Reporting changes, rather than the billing calculation itself. Once a member has access, their chat and Cowork usage appears under a new unified category. Earlier usage keeps its old labels. Administrators adding up spending, tokens or messages must include all three categories to avoid an apparent drop as members migrate.
+Deletion also follows the conversation for cloud sessions started within it: deleting the chat deletes those sessions and their transcripts. That does not delete directly started Cowork sessions, scheduled tasks and their runs, or local Cowork history. Anthropic says deletion completes in the background, with possible retention for safety flags or legal requirements.
+Staying on the separate experience also means staying off the main feature track. Anthropic says it plans no new features there apart from model launches; other new features are planned only for unified Claude.
+Sources
+support.claude.comSet up and manage the new unified Claude experience for your Team organization | Claude Help Center

@@ -1,0 +1,34 @@
+URL: https://wisevoter.com/world/us/2026/11/19/non-us-born-adults-colorectal-cancer-screening-gap
+TITLE: Immigrants Lag on Colorectal Cancer Screening
+OUTLET: Wisevoter
+
+Immigrants Lag on Colorectal Cancer Screening
+A cross-sectional study of 2023 survey data finds non-US-born adults aged 45-75 are less likely to be up to date on colorectal cancer screening.
+Updated on Nov. 19, 2026 in Cancer
+Live Poll
+Do you think people without insurance can reliably get preventive screenings?
+Non-US-born adults aged 45-75 were less likely than US-born adults to be up to date on colorectal cancer screening, according to a study of 12,016 adults published October 19, 2026, in JAMA Network Open. Weighted nonadherence was 34.5%, and the highest-risk subgroup reached 86.3%.
+Why it matters
+The findings arrive after the US Preventive Services Task Force lowered the recommended screening start age from 50 to 45 in 2021, widening the group that should be screened. The study identifies lack of a usual source of care and being uninsured as factors tied to missed screening.
+The study analyzed 12,016 adults representing about 95.4 million US adults, with weighted nonadherence at 34.5% (95% CI, 33.4%-35.6%). Adjusted risk ratios were 1.25 for adults in the US under 15 years and 1.14 for those in the US 15 years or longer, and 1.61 for those without a usual source of care.
+The players
+JAMA Network Open
+A peer-reviewed open-access medical journal published by the American Medical Association that published the study.
+US Preventive Services Task Force
+An independent volunteer panel of national experts whose recommendations shape preventive care coverage in the United States.
+The details
+Researchers used 2023 National Health Interview Survey data to sort adults into three groups: US-born, born abroad with less than 15 years of US residence, and born abroad with 15 or more years of US residence. Nonadherence was highest among adults born abroad, in the US less than 15 years, with no usual source of care, at 86.3%.
+Timeline
+- 2021: The US Preventive Services Task Force lowered the recommended colorectal cancer screening start age from 50 to 45.
+- 2023: National Health Interview Survey data used in the analysis was collected.
+- October 19, 2026: The study was published online in JAMA Network Open.
+Health Landscape
+The study examines whether the expanded age group under the 2021 US Preventive Services Task Force guideline, which lowered the colorectal screening start age from 50 to 45, is being reached equitably. Its findings show the newly included adults are not screened at uniform rates across nativity and insurance status.
+Adults aged 45 to 75 who lack a usual source of care or insurance face a higher chance of missing colorectal cancer screening. The findings point to access to a regular clinician as a practical barrier to getting screened.
+The takeaway
+Adults aged 45 and older who have not had colorectal screening should ask a clinician about it, particularly if they lack a regular doctor or insurance. Establishing a usual source of care is one concrete step toward getting screened on time.
+Further reading
+Explore more cancer news and research to see how screening gaps fit into the wider picture.
+Source note: This article includes information reported by Medscape.
+Live Poll
+Do you think people without insurance can reliably get preventive screenings?

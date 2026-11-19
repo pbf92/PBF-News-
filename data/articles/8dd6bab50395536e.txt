@@ -1,0 +1,26 @@
+URL: https://www.aljazeera.com/economy/2026/11/19/anthropic-starts-trading-in-the-us-after-blockbuster-ipo
+TITLE: Anthropic starts trading in the US after blockbuster IPO
+OUTLET: Al Jazeera
+
+Anthropic, the maker of the Claude AI assistant, is now trading on the Nasdaq through the largest initial public offering in history, surpassing the debut of Elon Musk’s SpaceX.
+The stock began trading on the ticker ANT midday on Thursday.
+The artificial intelligence (AI) lab, valued at $2 trillion, said last week that it would offer 825 million shares with its initial public offering (IPO) at a price range of $70 to $78 per share. However, that changed on Wednesday when the Dario Amodei-led company announced it would sell 980 million shares at $83 each.
+By the time the stock ultimately went live, at 11:50am in New York (16:50 GMT), it was trading at $111.50 per share, a 34 percent rise. It dipped below $100 in midday trading, hitting $95.69 by 1:55pm (18:55 GMT). It closed the day at $97.17, still nearly 17 percent higher than its IPO price.
+The tech-heavy Nasdaq ended the day down 2.2 percent, while the Dow Jones Industrial Average was down by 2.19 percent and the S&P 500 was down 1.8 percent.
+Other tech giants also trended downwards, with Microsoft down 1.78 percent, Nvidia tumbling 3.3 percent, Meta down 3.2 percent, Apple by 0.9 percent, Advanced Micro Devices (AMD) by 7.72 percent and Micron Technology by 2.1 percent.
+Anthropic’s high-profile IPO has fuelled excitement across the board, including among industry insiders such as Michael Monaghan, founder and portfolio manager at Founders ETF.
+“We have indicated our intention to buy in the IPO and hope to get an allocation. The books are well oversubscribed with high-quality orders, according to our trading counterparts,” he told Al Jazeera.
+Anthropic’s listing is the first of the two major AI labs to go public on US markets, as competitor OpenAI has also eyed an IPO. However, it comes at a rocky time for the AI industry, amid the resignation of Nvidia CEO Jensen Huang. Nvidia invested a combined $20bn in Anthropic, including $10bn in a partnership announced in November 2025 and another $10bn in a share purchase tied to its IPO.
+The massive IPO also comes amid backlash from voters in the recently concluded midterm elections, where all but one ballot initiative restricted expansion of data centres, and a sweep by Democrats who ran on platforms of reining in the AI industry.
+“Some of the demand may simply reflect investors not wanting to miss out on the rare opportunity to gain exposure to a leading AI company, even if its long-term profitability remains uncertain,” IPOX associate Lukas Muehlbauer told the Reuters news agency.
+That has not dented analysts’ assessments of the sector.
+“Anthropic’s IPO [is] a big near-term win for the tech sector and should help restore some investor confidence that the AI Revolution growth thesis is not waning,” Dan Ives, partner and senior managing director of Yorkville Ives, said in a note.
+Anthropic is also closely watched for how intertwined it is with other tech companies, including Amazon and Google.
+Anthropic has committed $110bn to Amazon for computing infrastructure over long-term agreements and at least $121.3bn to Google.
+Underscored concerns
+Anthropic’s Wall Street debut comes amid growing concerns about the safety of its technology. The company’s more than 300-page US Securities and Exchange Commission (SEC) filing devoted approximately 90 pages to outlining potential risks, including warnings that its AI systems could pose “catastrophic or existential risks to humanity”.
+The company also disclosed a net loss of $104bn in the first nine months of 2026 in its SEC filing.
+The concerns come as a group of AI safety experts has criticised Anthropic in a new statement released in the days surrounding its IPO. Dubbed the “Misanthropic Statement”, it challenges the company’s claims about its commitment to developing safe AI.
+“Anthropic is not a safe AI company, and we must reject its reckless attempt to amass power in the name of the greater good,” the statement said.
+Amid the concerns, the company put out a lengthy statement on the social media platform X.
+“We will pace the training and deployment of AI systems, taking as long as is necessary to have confidence that they are safe and will remain under human control,” the statement quoted Anthropic CEO Amodei as saying. “We will not bend to either business or political pressure. Today puts the company in a stronger financial position, and in doing so only strengthens our resolve to do the right thing.”
