@@ -1,0 +1,29 @@
+URL: https://signalscv.com/2026/11/anthropic-makes-historic-2t-debut-on-wall-street/
+TITLE: Anthropic makes historic $2T debut on Wall Street
+OUTLET: Santa Clarita Valley Signal
+
+By Andrew Moran 
+Contributing Writer 
+Anthropic made its blockbuster Wall Street debut after an initial public offering.
+Listed under the “ANT” ticker symbol on the Nasdaq, the Claude maker opened at $111.50 per share on Thursday.
+Anthropic, one of the most anticipated IPOs this year, set a stock price of $83 per share on Wednesday in an offering of 980 million shares that raised $81.3 billion.
+Its fully diluted market cap is around $2 trillion following its debut earlier in the session.
+This beat Anthropic’s projected price of $70 to $78 per share in its updated prospectus released earlier this month.
+Before ringing the opening bell, Anthropic CEO Dario Amodei struck an optimistic tone while also offering a word of caution. While pointing to the “very real risks” of artificial intelligence, he also said the goal is to make the industry better, “regardless of whether Anthropic is winning or losing at any given time.”
+“The advent of machine intelligence is one of the seminal moments in human history, and we have a rare opportunity to shape it for the better,” he said.
+Meanwhile, the AI juggernaut allowed its underwriters the option to purchase up to 147 million extra Class A shares. If the option is fully exercised, Anthropic could raise an extra $12.2 billion, bringing its entire IPO haul to $93.5 billion.
+That would put Anthropic ahead of SpaceX’s IPO in June. The rocket-and-AI company raised a total of $85.7 billion after underwriters exercised their options, up from an initial $75 billion offering.
+‘Turning Point’
+The AI-fueled rally has lost some steam in recent weeks amid growing concerns about capital expenditures, weaker demand and investors seeking returns.
+But Anthropic could mark a “turning point” for the AI industry, says Gavin Ezekowitz, co-founder and chief investment officer at BFA Global Investors.
+“The recent weakness of the infrastructure and semiconductor public companies could be understood as the market moving on from the early cycle of investment in compute at any cost,” Ezekowitz said in an emailed statement.
+“We may now be moving to a phase where the true value is measured in the outcomes from all that compute.”
+Anthropic’s Claude AI tool and other models have gained enormous popularity in the public and private sectors worldwide.
+But the company has not been without controversy.
+Earlier this year, it clashed with the Pentagon over military-use agreements. Anthropic also faces a lawsuit from a coalition of advocacy organizations alleging that it and other AI developers knowingly built models capable of causing catastrophic harm.
+In a Sept. 12 essay titled “We Must Pace the Frontier,” Amodei urged the global industry to slow down AI development, allowing safety and interpretability to catch up to rapid advancement.
+“I believe that if slowing down bought us even an extra year or two before models reach critical levels of capability, and we used that time to advance alignment, we could greatly reduce the risk that something goes seriously wrong,” Amodei wrote.
+Looking ahead, traders and analysts are gauging which companies will ultimately capture AI’s enduring economic benefits.
+“Many investors, me included, would say that Anthropic will garner a large slice of the opportunity,” Ezekowitz said.
+Anthropic reported $33.2 billion in revenue for the nine months that ended Sept. 30, according to an updated Form S-1 filing submitted earlier this month. That compares with $2.5 billion in revenue in the same period a year earlier.
+Bill Pan contributed to this report.

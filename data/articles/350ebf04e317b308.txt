@@ -1,0 +1,40 @@
+URL: https://www.tradingview.com/news/zacks:d4a46e1c8094b:0-after-the-huang-shock-anthropic-can-tech-find-a-floor/
+TITLE: After the Huang Shock & Anthropic, Can Tech Find a Floor?
+OUTLET: TradingView
+
+After the Huang Shock & Anthropic, Can Tech Find a Floor?
+The Brutal (& Stealthy) Tech Bear Market
+Having traded a plethora of difficult market environments, including COVID, the Global Financial Crisis, the Tariff Tantrum, and the 2022 bear market, I can confidently say that the 2026 market is one of the most difficult trading environments I can remember – if not the most difficult. The choppiness, whiplash, and violent direction changes make navigation challenging. Additionally, the sheer number of crosscurrents is more than I can ever remember. Until recently, higher oil prices and inflation concerns from the Iran War have weighed down stocks. Although oil prices have cooled significantly in recent weeks, the focus has turned to the AI trade. Despite unprecedented CAPEX spending, AI stocks have plunged.
+Currently, the tech-heavy Nasdaq 100 Index ETF (QQQ) is ~15% off its all-time highs, triggering a market correction. While QQQ has yet to trigger a technical bear market (defined as a 20% drawdown from highs), most AI stocks have been pummeled and are already in bear-market territory. Below are some examples of AI stocks and their % off highs:
+Nvidia (NVDA): -40%
+Advanced Micro Devices (AMD): -26%
+SanDisk (SNDK) -68%
+Nebius Group (NBIS): -68%
+Arm Holdings (ARM): -61%
+The Tech Trade is Reaching a Tipping Point
+As the old Wall Street saying goes, “Sometimes when you try to pick bottoms, all you end up with is stinky fingers.” Currently, the bears are firmly in control of the market. The Nasdaq is below the 200-day moving average, AI’s most important CEO is out of a job, and interest rates are expected to keep moving higher. For intermediate-term investors, it’s critical to first and foremost protect capital and wait for confirmation in the form of improved market breadth and price rotation on higher time frames. If you need to reduce portfolio size, do so. The market is not going anywhere. Until then, avoid picking up pennies in front of a steamroller.
+Nevertheless, if there’s one thing that I have learned throughout my years of investing experience, it’s that even if you’re a spectator, the market is still worth following closely. That’s because crisis ultimately equates to opportunity. Throughout American history, the market always exits these tough environments leading to massive opportunities. Additionally, equity markets are the master manipulator - bottoms are never obvious and often occur when they are least expected.
+Market Extremes Pile Up
+On Thursday, several extremes occurred on Wall Street, including:
+· Tech Valuations Reach Pandemic Lows: The S&P 500 Info Tech Index’s price-to-earnings ratio has plunged to 15x.
+Image Source: Bloomberg
+· Rare, Violent Reversal: According to my friends at BlueKurtic Market Insights (@Bluekurtic), when QQQ starts the day 1.5% and finishes red, the chances of a low actually increase. Since 2010, QQQ was higher 5 days out in all 7 cases, with no further downside in 6. There were few such days around Dotcom and GFC, but they weren't so kind. (Counterintuitive, I know).
+Image Source: Bluekurtic Market Insights
+· TICK Prints Multi-Month Lows: The TICK is a real-time market breadth indicator that measures short-term buying versus selling pressure on the New York Stock Exchange. On Thursday, TICK reached its most extreme selling level (-1448) in months. Often, a TICK washout of this nature is needed to flush out the last remaining bulls.
+Some Market Hurdles are About to Pass
+Market headwinds such as the Jensen Huang Nvidia exit, Anthropic IPO, and options expiration may provide much-needed relief for bulls. Huang was undoubtedly the most critical CEO for the tech trade. According to Elon Musk and others, he’s one of one. However, as investors come to terms with his exit, it’s worth noting that time is the ultimate healer.
+Anthropic (ANT), one of the most anticipated IPOs in history, debuted this week.Priced at $83, ANT shares soared to ~$110 intraday before encountering profit-taking and reversing course. The average Anthropic employee is now worth an astonishing $40 million. Billions of shares traded hands, marking one of the busiest IPOs in history. Despite the hysteria, investors sold shares of their current holdings to invest in Anthropic, putting downward pressure on the rest of the market.
+Finally, options expiration was on Friday. Options expiration frequently triggers market turning points because dealers unwinding or rolling large option hedges—alongside expiring gamma pin levels and pinning magnets—forcing rapid rebalancing in underlying shares and index futures that can either release pent-up directional momentum or spark sharp mean reversion once the distortion clears.
+Bottom Line
+For now, the name of the game is capital preservation. That said, investors should stay positive and open-minded as markets can change on a dime.
+Beyond Nvidia: AI's Second Wave Is Here
+The AI revolution has already minted millionaires. But the stocks everyone knows about aren't likely to keep delivering the biggest profits. AI’s second wave is moving from infrastructure to implementation and these companies are at the forefront of this transition, positioned to become what Amazon and Google were to the internet era.See Stocks Now >>
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report
+Advanced Micro Devices, Inc. (AMD): Free Stock Analysis Report
+NVIDIA Corporation (NVDA): Free Stock Analysis Report
+Sandisk Corporation (SNDK): Free Stock Analysis Report
+ARM Holdings PLC Sponsored ADR (ARM): Free Stock Analysis Report
+Invesco QQQ (QQQ): ETF Research Reports
+Nebius Group N.V. (NBIS): Free Stock Analysis Report
+This article originally published on Zacks Investment Research (zacks.com).
+Zacks Investment Research

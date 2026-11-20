@@ -1,0 +1,21 @@
+URL: https://247wallst.com/investing/2026/11/18/stock-market-today-nvidia-earnings-are-driving-the-market-but-uncertainty-still-reigns/
+TITLE: Stock Market Today: Nvidia Earnings Are Driving the Market, but Uncertainty Still Reigns
+OUTLET: 24/7 Wall St.
+
+Stock Market Today: Nvidia Earnings Are Driving the Market, but Uncertainty Still Reigns
+This post may contain links from our sponsors and affiliates, and Flywheel Publishing may receive compensation for actions taken through them.
+Shares of NVIDIA (NASDAQ:NVDA | NVDA Price Prediction) rose about 3% before the bell after the chipmaker reported fiscal third-quarter revenue of $115.8 billion[1]. That beat the $108.7 billion[1] consensus. The report has the Nasdaq-100 pointed about 0.9% higher ahead of the opening bell, while the Dow and small caps are barely moving. This morning, the Nasdaq-100 is mostly a vote on one company.
+Premarket Readings Ahead of the Opening Bell
+Cash trading opens at 9:30 a.m. ET, so these figures come from delayed premarket quotes on each index’s main tracking ETF. The Nasdaq line tracks the Nasdaq-100. The VIX figure is Monday’s close, which is the latest available.
+NVIDIA’s $107.6 Billion Data Center Quarter Follows a Brutal Month
+NVIDIA went into this report down 25% over the past month. That decline helped pull the Nasdaq-100 proxy down 7% over the same period. Data Center revenue came in at $107.6 billion[1], up 110% from a year ago, which is hard to square with concerns that AI spending is slowing.
+The guidance matters even more. Management forecast fourth-quarter revenue of $130.0 billion[1], plus or minus 3%, and that figure excludes any Data Center compute sales to China. Interim CEO Colette Kress said “Vera Rubin is off to an explosive start, our roadmap is on track and our ambition has never been greater.”[1]
+NVIDIA is worth about $3.75 trillion, so its moves feed directly into the S&P 500 and the Nasdaq-100. The S&P 500 proxy is up 0.4% and the Dow proxy is up 0.1%, so this rally is narrow and centered on AI hardware. The Russell 2000 is still down 4% over the past week.
+Lowe’s Beats, but Tariff Refunds Helped
+Retail delivered the morning’s second big headline. Lowe’s (NYSE:LOW) reported adjusted EPS of $3.10, ahead of the $2.8806 consensus. The retailer also raised its full-year sales outlook to about $92.5 billion.
+That beat included a $0.34 per-share boost from tariff refunds. Gross margin fell to about 33% from 34% a year earlier. Customers are still spending, but Lowe’s is keeping less profit from each dollar of sales.
+Fear Gauge Stays Elevated Despite the Bounce
+The VIX closed Monday near 23[2] after rising 3.61 points in one session, which is as high. That means options traders were still paying up for protection going into NVIDIA’s report.
+Kulicke & Soffa Tests the AI Supply Chain Tonight
+BellRing Brands (NYSE:BRBR) and Global-E Online (NASDAQ:GLBE) are scheduled to report before the open. After the close, Kulicke & Soffa (NASDAQ:KLIC) reports, with consensus EPS of $1.43. Its advanced-packaging results will show whether NVIDIA’s demand is reaching the equipment suppliers further down the AI chain.
+Contact [email protected] for any questions or corrections.

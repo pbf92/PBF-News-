@@ -1,0 +1,19 @@
+URL: https://www.tradingview.com/news/tradingview:08ae2da7c1832:0-insight-raises-750-million-through-0-875-convertible-notes-due-2031/
+TITLE: Insight Raises $750 Million Through 0.875% Convertible Notes Due 2031
+OUTLET: TradingView
+
+Insight Raises $750 Million Through 0.875% Convertible Notes Due 2031
+Insight issued $750 million of 0.875% Convertible Senior Notes due 2031, including the full exercise of the initial purchasers' option to buy an additional $100 million. The notes mature November 15, 2031, and are convertible under specified conditions at an initial conversion price of approximately $198 per share. The company also entered into capped call transactions intended to limit potential dilution or offset certain cash payments upon conversion, and plans to use remaining offering proceeds to repay debt under its asset-based revolving credit facility.
+Agreement 1: Insight Raises $750 Million Through 0.875% Convertible Notes Due 2031
+- Agreement type: Indenture for 0.875% convertible senior notes
+- Counterparty: Initial purchasers; U.S. Bank Trust Company as trustee; Insight Direct USA as guarantor
+- Signed / Effective: Nov 19 2026 / same
+- Duration / Termination: Matures Nov 15 2031
+- Reason: Repay revolving credit facility debt and support corporate financing needs
+Agreement 2: Insight Adds Capped Calls to Limit Dilution From $750 Million Convertible Notes
+- Agreement type: Privately negotiated capped call transactions
+- Counterparty: Initial purchasers and their affiliates and other financial institutions
+- Signed / Effective: Nov 16 2026 / same
+- Duration / Termination: Related to the notes due Nov 15 2031
+- Reason: Reduce potential conversion dilution and offset certain cash payments
+Original SEC Filing: INSIGHT ENTERPRISES INC [ NSIT ] - 8-K - Nov. 19, 2026

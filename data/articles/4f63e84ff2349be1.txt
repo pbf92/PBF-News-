@@ -1,0 +1,36 @@
+URL: https://www.manilatimes.net/2026/11/20/tmt-newswire/globenewswire/hoppn-launches-similar-colors-bringing-color-matched-product-recommendations-to-shopify-product-pages/2474613/amp
+TITLE: Hoppn Launches Similar Colors, Bringing Color-Matched Product Recommendations to Shopify Product Pages
+OUTLET: The Manila Times
+
+The new Infinite Color Search app block shows shoppers visually matching products on every product page, with no coding required.
+Los Angeles, CA, Nov. 19, 2026 (GLOBE NEWSWIRE) -- Hoppn, a visual search technology company, today announced Similar Colors, a new feature in its Infinite Color Search app for Shopify. Similar Colors is an app block for the product detail page that recommends other products in a store's catalog that visually match the color of the item a shopper is viewing. The feature is available now to Shopify merchants using Infinite Color Search.
+Similar Colors on a product page: a shopper finds an orange and light blue shoe, then sees other recommended products with the same color scheme.
+What is Similar Colors?
+Similar Colors is a color-based product recommendation block for Shopify product pages. When a shopper views a product, the block displays a grid of other products from the same store in matching and closely related colors. Recommendations are generated for each color variant, so the products shown reflect the color the shopper has selected. Merchants can also choose to hide sold-out items.
+The feature runs on the fourth generation of Hoppn's patented color search technology. Instead of relying on color names in product titles or tags, the system analyzes product images and stores visual color data for each item. That data lets the app rank products by how close they are to a given color, including products with multiple colors.
+Why color-matched recommendations matter on the product page
+Most product recommendation tools rely on purchase history, category or text attributes. Color is harder to capture in text. Two brands may describe the same shade as "sage," "moss" or "olive," and a single product may carry several colors that no title fully describes. As a result, shoppers who like the color of one product often have no direct way to see what else in the catalog matches it.
+Similar Colors addresses this at the point where shoppers evaluate a product. A shopper viewing a navy hat can see other navy items in the catalog. A shopper viewing a patterned swim short can see pieces that share its palette. For merchants, this turns the product page into a starting point for coordinated outfits, matching sets and add-on purchases.
+"Every shopper who buys online passes through a product page, which makes it the highest-traffic place to help someone find the right color," said Bridger Hart, Co-founder and CEO of Hoppn. "Similar Colors takes the color intelligence behind Shop by Color search and puts it in a format shoppers already know: a simple grid of products that go together."
+How Shopify merchants set up Similar Colors
+Similar Colors is a no-code feature. Merchants add it in three steps:
+- Install or update the Infinite Color Search app from the Shopify App Store.
+- The app analyzes the catalog and automatically writes Similar Colors recommendations as a metafield to each product.
+- Add the Similar Colors app block to the product template in the Shopify theme editor.
+The block follows the store's existing theme. Brands that want full control over product cards, carousels and layout can build their own sections with custom Liquid code, using the recommendation data Hoppn stores as a product metafield.
+Similar Colors can be used on its own or alongside the Shop by Color search experience, in which shoppers pick a color from an interactive color wheel and see the closest matching products.
+Key use cases for Similar Colors
+- Showing matching items on product pages for apparel, footwear, headwear and accessories
+- Helping shoppers build color-coordinated outfits and sets
+- Surfacing complementary home decor, rugs, wallpaper, art and prints in the same palette
+- Offering close color alternatives when a size or style is sold out
+- Exposing more of a large catalog without adding navigation or filters
+- Supporting seasonal and gift merchandising built around a color story
+"Shopify merchants have asked for more ways to use color data across the storefront, beyond search," said Matt Piva, Head of Go-to-Market at Hoppn. "Similar Colors gives brands a second touchpoint for color discovery, and one that works within the product page layout their customers already use."
+Availability
+Similar Colors is available globally to Shopify merchants through the Infinite Color Search app on the Shopify App Store. More information is available at hoppn.com.
+About Hoppn
+Hoppn is a visual search technology company that builds color-driven product discovery tools for ecommerce stores. Its Infinite Color Search app gives Shopify merchants Shop by Color search and Similar Colors product recommendations, powered by automated color analysis of product images. Hoppn's founders were named to the Forbes 30 Under 30 list for Retail & Ecommerce in 2026.
+The Similar Colors app block on three different Shopify stores, matching red hats, blue wallpaper patterns, and tan children’s products.
+Press Inquiries
+hello@hoppn.com

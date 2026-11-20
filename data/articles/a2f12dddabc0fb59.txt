@@ -1,0 +1,13 @@
+URL: https://www.tradingview.com/news/tradingview:bdede3ece44e3:0-pharmacyte-exchanges-851-304-q-c-warrants-for-4-98-million-shares/
+TITLE: PharmaCyte Exchanges 851,304 Q/C Warrants for 4.98 Million Shares
+OUTLET: TradingView
+
+PharmaCyte Exchanges 851,304 Q/C Warrants for 4.98 Million Shares
+PharmaCyte Biotech entered into a Consent and Warrant Exchange Agreement with Q/C Technologies to exchange 851,304 warrants for 4,982,272 shares of Q/C common stock, with no additional cash consideration. The agreement also extends the maturity date of Q/C's Series H preferred stock from March 2, 2027, to September 2, 2027. Q/C must file a resale registration statement for the exchange shares after a demand made beginning 90 days after the exchange.
+Agreement details:
+- Agreement type: Consent and Warrant Exchange Agreement
+- Counterparty: Q/C Technologies
+- Signed / Effective: Nov 15 2026 / same
+- Duration / Termination: Series H maturity extended to Sep 02 2027; registration demand right begins 90 days after exchange
+- Reason: Exchange warrants for common shares and extend Series H preferred maturity
+Original SEC Filing: PharmaCyte Biotech, Inc. [ PMCB ] - 8-K - Nov. 19, 2026

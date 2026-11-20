@@ -1,0 +1,28 @@
+URL: https://www.fool.com/investing/2026/11/18/after-nvidia-s-earnings-here-s-my-prediction-for-the-stock-price-by-the-end-of-the-year/
+TITLE: After Nvidia’s Earnings, Here’s My Prediction for the Stock Price by the End of the Year
+OUTLET: The Motley Fool
+
+By Adria Cimino –
+Key Points
+- Nvidia reported triple-digit gains in revenue and profit in the latest quarter and is optimistic about the coming year.
+- Still, the stock may come under pressure following the departure of longtime chief Jensen Huang.
+Nvidia (NVDA -3.30%) has seen its stock price slide in recent days -- and this hasn't been linked to the company's earnings performance or market position. The artificial intelligence (AI) chip leader fell following allegations that chief executive officer Jensen Huang had at least two affairs. Huang stepped down, and the board named finance chief Colette Kress as interim leader.
+Kress conducted her first earnings call as interim CEO this week and presented an Nvidia that investors know well: a company serving soaring demand and delivering earnings that once again beat analysts' expectations. The entire report was very positive and suggested many more bright days ahead for the AI giant.
+Still, it's important to keep in mind that some uncertainty remains following Huang's resignation.
+After Nvidia's earnings report and amid the current turbulence, here's my prediction for the stock price by the end of the year.
+Image source: Getty Images.
+Nvidia builds an AI empire
+First, though, let's take a look at the complete Nvidia picture, including its successes in recent years. Nvidia has built an AI empire, starting with graphics processing units (GPUs) and broadening its offerings to include networking tools, enterprise software, and most recently stand-alone central processing units (CPUs). GPUs generally power AI workloads, but CPUs now have emerged as a chip that's useful in agentic AI -- so CPUs may represent a key growth engine in the years to come.
+Nvidia's efforts have kept it in the lead globally and resulted in mind-boggling earnings growth. This has continued into the recent quarter, with revenue and net income soaring in the triple digits and demand marching higher too. In this fiscal third quarter, Nvidia reported a 103% increase in revenue to $115 billion, and net income came in at about $65 billion. Kress raised the forecast for revenue growth in the next fiscal year to 75%, up from the earlier guidance of 70%.
+Importantly, the company just rolled out its latest platform update, Vera Rubin, and it's "off to an extraordinary start," Kress said. Rubin brought in $20 billion in revenue in its first quarter.
+Nvidia's bargain valuation
+Meanwhile, Nvidia isn't the only AI company to speak of ongoing high demand; fellow chip designers and cloud service providers have delivered the same message. At the same time, due to the recent turmoil, Nvidia's stock has fallen to a bargain valuation, trading at 16x forward earnings estimates. All of these points may encourage investors to buy the stock.
+Still, Huang's departure might continue to weigh on Nvidia to some extent. Nvidia's board is investigating allegations that Huang had a relationship with a woman U.S. intelligence calls a Chinese spy -- and Congress has called on Huang to testify in early December in relation to the matter. This could result in government scrutiny of Nvidia and potentially even further regulation of chip sales to China. Such uncertainty, along with the fact that we don't yet know who will serve as permanent CEO, could weigh on the stock.
+It's impossible to predict stock performance with great accuracy, of course, but based on these elements I've presented here, my prediction is Nvidia's stock will regain a bit of territory that it lost in recent times. It's declined more than 30% in just a few weeks.
+The encouraging earnings report, strength in demand that is ongoing, and the stability provided by Kress are all very positive points. And the company's current valuation is extremely low, particularly considering the idea that its technology remains unchanged and customer relationships are strong. This should keep innovation going and sales marching higher.
+Nvidia's stock performance may see some ups and downs in these final weeks of the year as investors weigh the positive points I mentioned above and the uncertainties. Considering this, I predict that Nvidia stock may finish the year with a gain of about 10% from the Nov. 17 closing price of $155 -- and that would put the stock at around $170 by the end of 2026.
+One thing to keep in mind, however, is that you shouldn't buy or sell Nvidia stock to capture a potential gain or avoid a possible loss over such a short period of time; instead, it's important to focus on the company's prospects over the long term before making an investment move.
+Where to invest $1,000 right now
+When our analyst team has a stock tip, it can pay to listen. After all, Stock Advisor's total average return is 790%* — a market-crushing outperformance compared to 202% for the S&P 500.
+They just revealed what they believe are the 10 best stocks for investors to buy right now, available when you join Stock Advisor.
+*Stock Advisor returns as of November 19, 2026.

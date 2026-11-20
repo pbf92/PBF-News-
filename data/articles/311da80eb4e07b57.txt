@@ -1,0 +1,19 @@
+URL: https://www.tradingview.com/news/tradingview:976c93087fe79:0-arrive-ai-converts-about-3-96-million-in-obligations-into-preferred-stock/
+TITLE: Arrive AI Converts About $3.96 Million in Obligations Into Preferred Stock
+OUTLET: TradingView
+
+Arrive AI Converts About $3.96 Million in Obligations Into Preferred Stock
+Arrive AI exchanged prepaid purchase obligations with an aggregate remaining balance of approximately $3.96 million for Series A Convertible Preferred Stock with a stated value of $4.16 million. In a related letter agreement, Streeterville Capital consented to Arrive AI's at-the-market share sales, with 33% of weekly net proceeds required to go toward redeeming the preferred stock. Together, the agreements convert outstanding obligations into preferred equity while establishing a proceeds-based redemption mechanism.
+Agreement 1: Arrive AI Converts About $3.96 Million in Obligations Into Preferred Stock
+- Agreement type: Exchange Agreement converting prepaid purchase obligations into Series A Convertible Preferred Stock
+- Counterparty: Streeterville Capital
+- Signed / Effective: Nov 18 2026 / Nov 18 2026
+- Duration / Termination: Completed at closing
+- Reason: Convert outstanding obligations into preferred equity
+Agreement 2: Arrive AI Agrees to Use 33% of Weekly ATM Proceeds to Redeem Preferred Stock
+- Agreement type: Letter Agreement providing consent for at-the-market share sales and directing proceeds to preferred stock redemption
+- Counterparty: Streeterville Capital
+- Signed / Effective: Nov 18 2026 / Nov 18 2026
+- Duration / Termination: At will; consent may be revoked by the Investor at any time
+- Reason: Enable ATM share sales while applying proceeds to preferred stock redemption
+Original SEC Filing: Arrive AI Inc. [ ARAI ] - 8-K - Nov. 19, 2026

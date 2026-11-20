@@ -1,0 +1,13 @@
+URL: https://www.tradingview.com/news/cnbctv:6d3551112094b:0/
+TITLE: News by CNBC TV18 on TradingView, 2026-11-17 — cnbctv:6d3551112094b:0
+OUTLET: TradingView
+
+US stock market today: Dow, S&P 500, Nasdaq slip ahead of Nvidia earnings
+US stocks slipped on Tuesday, November 17, as investors on the Wall Street turned cautious ahead of Nvidia’s closely watched quarterly earnings report, while stronger-than-expected retail sales and hawkish comments from a Federal Reserve official also shaped market sentiment.
+The Dow Jones Industrial Average fell 0.6% to 51,255.43, shedding about 353 points in morning trade. The S&P 500 declined 0.2%, while the Nasdaq Composite edged 0.1% lower as traders awaited fresh clues on the outlook for artificial intelligence spending.
+Nvidia was at the centre of attention, with shares down more than 1% ahead of its third-quarter results due after the closing bell. The chipmaker’s earnings are widely viewed as a key test for the broader AI trade that has powered Wall Street gains over the past two years.
+Investors are particularly focused on Nvidia’s first earnings report since the departure of long-time chief executive Jensen Huang. Analysts expect Nvidia to report third-quarter earnings of $2.47 per share on revenue of $109.15 billion, compared with earnings of $1.30 per share and revenue of $57 billion in the same period last year, according to a Yahoo Finance report.
+The earnings release comes during a busy week for technology investors. Markets are also preparing for the much-anticipated initial public offering of AI company Anthropic, which is expected to begin trading later this week and could become one of the largest public listings in the sector’s history.
+On the macro front, US retail sales rose 0.2% in October from the previous month, slightly above economists’ expectations of a 0.1% increase. Excluding automobile and fuel sales, retail sales increased 0.5%, suggesting consumers continue to spend despite concerns about higher borrowing costs.
+At the same time, comments from St. Louis Federal Reserve President Alberto Musalem weighed on sentiment. Musalem said further interest rate increases may be needed sooner rather than later to keep inflation under control, signalling policymakers remain concerned about price pressures.
+In earnings, Disney reported better-than-expected quarterly results, supported by continued growth in its streaming and theme park businesses.
