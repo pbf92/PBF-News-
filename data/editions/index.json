@@ -1,6 +1,21 @@
 {
- "latest": "2026-11-19",
+ "latest": "2026-11-20",
  "editions": [
+  {
+   "date": "2026-11-20",
+   "type": "weekday",
+   "top": [
+    "Anthropic slides ~9% on day two and drags Nasdaq futures; Wall St on longest losing run since 2024",
+    "Russia pushes back on US idea of NATO-style guarantees for Ukraine",
+    "Poland condemns Russian 'provocation' after three airspace violations"
+   ],
+   "status": {
+    "story": 8,
+    "quiet": 2,
+    "failed": 0
+   },
+   "updates": 0
+  },
   {
    "date": "2026-11-19",
    "type": "weekday",

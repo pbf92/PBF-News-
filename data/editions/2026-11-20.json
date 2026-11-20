@@ -1,0 +1,603 @@
+{
+ "date": "2026-11-20",
+ "type": "weekday",
+ "read_minutes": 5,
+ "note": "Several world items rest on headlines only and are marked 'reported'.",
+ "before_open": [
+  {
+   "time": "Overnight",
+   "what": "Nasdaq futures lower; Anthropic down roughly 8% premarket, Nvidia and AMD also lower",
+   "detail": "Per CNBC and MarketScreener headlines; Dow ended Thursday 1,100 points lower. VIX above 30 is from a secondary source.",
+   "url": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html"
+  },
+  {
+   "time": "6:30 AM",
+   "what": "US cash equity open (RTH)",
+   "detail": "No BLS release before the open today.",
+   "url": "https://www.bls.gov/schedule/"
+  },
+  {
+   "time": "7:00 AM",
+   "what": "BLS State Employment and Unemployment (Oct 2026) and Total Factor Productivity for Major Industries (2025)",
+   "detail": "Listed 10:00 AM ET on the BLS calendar; consensus/prior not given. Low market impact.",
+   "url": "https://www.bls.gov/schedule/"
+  }
+ ],
+ "week_ahead": [],
+ "top": [
+  {
+   "headline": "Anthropic slides ~9% on day two and drags Nasdaq futures; Wall St on longest losing run since 2024",
+   "why": "The AI trade is still unwinding into the 6:30 AM PT open: the first frontier lab to list has given back much of its debut pop, and Nvidia and AMD are lower premarket. Valuation (about 40x trailing sales) is now the debate, with read-through to OpenAI's planned 2027 listing.",
+   "points": [
+    "Priced at $83, closed Thursday at $97.17 (+17%) after raising a record $81.34bn; Friday premarket about $88.87, roughly 9% below Thursday's close (Calcalist, AA).",
+    "AP, 19 Nov: Dow fell 1,100 points as Wall Street posted its longest losing streak since 2024.",
+    "CNBC, 20 Nov: Nvidia and AMD also lower premarket; Nasdaq futures slid as the Anthropic retreat deepened AI jitters (MarketScreener).",
+    "Q3 revenue $17bn per the SEC filing (CNN); options on ANT due to start trading next week."
+   ],
+   "next": "6:30 AM PT cash open today; ANT options listing next week; next FOMC 8–9 Dec.",
+   "confidence": "reported",
+   "impact": "high",
+   "thread": {
+    "id": "anthropic-ipo",
+    "name": "Anthropic IPO",
+    "status": "changed",
+    "day": 6
+   },
+   "sources": [
+    {
+     "name": "Calcalist",
+     "url": "https://www.calcalistech.com/ctechnews/article/j0u5z5qe4"
+    },
+    {
+     "name": "Anadolu Agency",
+     "url": "https://www.aa.com.tr/en/economy/anthropic-shares-fall-over-6-in-us-premarket-trading-after-nasdaq-debut/4132123"
+    },
+    {
+     "name": "CNN",
+     "url": "https://www.cnn.com/2026/11/19/business/anthropic-ipo-stock-test-ai"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html"
+    },
+    {
+     "name": "MarketScreener",
+     "url": "https://www.marketscreener.com/news/nasdaq-futures-slide-as-anthropic-retreat-deepens-ai-jitters-ce785ed3d881f227"
+    }
+   ],
+   "desk": "ai"
+  },
+  {
+   "headline": "Russia pushes back on US idea of NATO-style guarantees for Ukraine",
+   "why": "Security guarantees are the sticking point in any ceasefire deal, and Moscow's public pushback sits awkwardly with Kushner's claim a day earlier that Russia is 'comfortable'. Europe is meanwhile rehearsing a postwar force.",
+   "points": [
+    "Reuters, 20 Nov: Russia pushes back against the US idea of NATO-style security guarantees for Ukraine.",
+    "AP, 19 Nov: Jared Kushner said he believes Russia is 'comfortable' with NATO-like guarantees to end the war.",
+    "AP, 20 Nov: troops from 11 European countries held a drill in Poland for a potential postwar Ukraine mission.",
+    "Reuters, 20 Nov: Ukrainian strikes on the Crimean bridge and refinery output are straining Russian logistics and fuel supply."
+   ],
+   "next": "No dated catalyst in the sources; watch for any Kremlin or US readout on guarantees.",
+   "confidence": "reported",
+   "region": "Global",
+   "impact": "medium",
+   "thread": {
+    "id": "ukraine-talks",
+    "name": "Russia–Ukraine talks",
+    "status": "changed",
+    "day": 10
+   },
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/russia-pushes-back-against-us-idea-nato-style-security-guarantees-for-ukraine-2026-11-20/"
+    },
+    {
+     "name": "AP News",
+     "url": "https://apnews.com/article/poland-ukraine-military-exercise-peace-france-britain-a28d60d1b37093199dd017472028d7ac"
+    }
+   ],
+   "desk": "world"
+  },
+  {
+   "headline": "Poland condemns Russian 'provocation' after three airspace violations",
+   "why": "A NATO member reporting repeated incursions and an unidentified object down near the Ukraine border raises escalation risk on the alliance's eastern flank.",
+   "points": [
+    "Reuters, 20 Nov: Poland condemned a Russian 'provocation' after three airspace violations.",
+    "AP, 20 Nov: an unidentified object appears to have crashed in Poland after Russian attacks in Ukraine.",
+    "Reuters: the Polish army is investigating reports of unknown objects near the Ukraine border; the object's origin is not yet confirmed in the headlines seen."
+   ],
+   "next": "Polish military findings on the object; no date given.",
+   "confidence": "reported",
+   "region": "Global",
+   "impact": "medium",
+   "thread": {
+    "id": "poland-airspace",
+    "name": "Poland airspace violations",
+    "status": "new",
+    "day": 1
+   },
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/business/aerospace-defense/polish-army-investigates-report-unknown-objects-near-ukraine-border-2026-11-20/"
+    },
+    {
+     "name": "AP News",
+     "url": "https://apnews.com/article/poland-airspace-violation-ukraine-63386266cef90907913df2b456808a4d"
+    }
+   ],
+   "desk": "world"
+  }
+ ],
+ "desks": [
+  {
+   "id": "united",
+   "name": "Manchester United & Football",
+   "status": "story",
+   "stories": [
+    {
+     "headline": "Pochettino's first United session was filmed by a drone; operator apologises, footage removed",
+     "why": "Pochettino's first days are about tightening a leaky side before Anfield; the drone row is a minor distraction but shows how closely Carrington is being watched. The operator says no club, Liverpool included, was involved.",
+     "points": [
+      "Drone operator 'CC OVERVIEW' filmed Pochettino's first session on Thursday 19 Nov and posted it to YouTube.",
+      "On Friday he called it a 'total error of judgment', said the flight was legal but 'unethical', and removed the video.",
+      "He said neither Liverpool nor any other club was involved.",
+      "Pochettino arrived from the US men's national team after United sacked Michael Carrick; United are 18th after winning one of 10."
+     ],
+     "next": "Liverpool v Manchester United at Anfield, Sunday 22 Nov 2026, 4:30pm GMT.",
+     "confidence": "confirmed",
+     "impact": "low",
+     "thread": {
+      "id": "pochettino-era",
+      "name": "Pochettino era begins",
+      "status": "changed",
+      "day": 8
+     },
+     "sources": [
+      {
+       "name": "The Guardian",
+       "url": "https://www.theguardian.com/football/2026/nov/20/mauricio-pochettino-manchester-united-drone"
+      },
+      {
+       "name": "Yahoo Sports",
+       "url": "https://sports.yahoo.com/articles/mauricio-pochettino-training-footage-row-123000288.html"
+      }
+     ],
+     "desk": "united"
+    },
+    {
+     "headline": "Fulham confirm Bassey contract talks, dimming January hopes for Pochettino's first signing",
+     "why": "A centre-back is Pochettino's priority after 30 league goals conceded, and the leading target now looks harder to get. The report is a transfer story, so treat the January outlook as speculative.",
+     "points": [
+      "Fulham manager Arbeloa said the club are talking to Bassey (26) about extending a deal that expires next summer; Fulham also hold a one-year option.",
+      "Arbeloa: 'in January we are not thinking about selling players'.",
+      "SI says United are also looking at Brentford's Collins and Everton's Branthwaite.",
+      "United have conceded 30 in the league; only Lens (31) have conceded more in Europe's top five leagues before the break."
+     ],
+     "next": "January 2027 transfer window; no United bid reported.",
+     "confidence": "reported",
+     "impact": "low",
+     "thread": {
+      "id": "pochettino-era",
+      "name": "Pochettino era begins",
+      "status": "changed",
+      "day": 8
+     },
+     "sources": [
+      {
+       "name": "Sports Illustrated",
+       "url": "https://www.si.com/soccer/calvin-bassey-revelation-impacts-mauricio-pochettino-man-utd"
+      }
+     ],
+     "desk": "united"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "name": "World Affairs & Politics",
+   "status": "story",
+   "stories": [
+    {
+     "headline": "J.P. Morgan now expects Fed hikes at each of the next three meetings",
+     "why": "A major bank pricing three straight hikes reinforces the hawkish December read already weighing on rate-sensitive Nasdaq futures.",
+     "points": [
+      "Reuters, 19 Nov: J.P. Morgan expects Fed rate hikes at the next three meetings as inflation persists.",
+      "FXStreet, 20 Nov, headlines a 'hawkish Fed outlook' alongside the post-Anthropic IPO tech sell-off in Dow futures."
+     ],
+     "next": "FOMC 8–9 Dec.",
+     "confidence": "reported",
+     "region": "US",
+     "impact": "high",
+     "thread": {
+      "id": "fed-december",
+      "name": "Fed December decision",
+      "status": "changed",
+      "day": 16
+     },
+     "sources": [
+      {
+       "name": "FXStreet",
+       "url": "https://www.fxstreet.com/news/dow-jones-futures-slip-amid-post-anthropic-ipo-tech-sell-off-hawkish-fed-outlook-202611200651"
+      }
+     ],
+     "desk": "world"
+    },
+    {
+     "headline": "Nvidia faces Democratic probe and California subpoena over China ties",
+     "why": "Regulatory and political scrutiny of Nvidia adds to the open risks flagged after its 17 Nov earnings, just as AI stocks are under pressure.",
+     "points": [
+      "Reuters, 20 Nov: Democrats opened a probe into Nvidia's influence on the US Megaspeed investigation.",
+      "Reuters, 19 Nov: California's attorney general subpoenaed Nvidia over concerns about its former CEO and China ties.",
+      "Reuters, 19 Nov: Trump bought up to $265,000 of Nvidia stock in September, per a disclosure."
+     ],
+     "next": "No dated catalyst in the sources.",
+     "confidence": "reported",
+     "region": "US",
+     "impact": "medium",
+     "thread": {
+      "id": "nvidia-earnings-nov",
+      "name": "Nvidia earnings 17 Nov",
+      "status": "changed",
+      "day": 6
+     },
+     "sources": [
+      {
+       "name": "Reuters",
+       "url": "https://www.reuters.com/business/finance/democrats-open-probe-into-nvidia-influence-us-megaspeed-investigation-2026-11-20/"
+      }
+     ],
+     "desk": "world"
+    }
+   ],
+   "note": "Lead stories: see top (Ukraine guarantees, Poland airspace). Trump–Xi–Putin summit outcome already reported yesterday; Senate Iran vote held for a core-source link."
+  },
+  {
+   "id": "prop",
+   "name": "Futures & Prop Firms",
+   "status": "quiet",
+   "stories": [],
+   "note": "No firm-sourced rule changes found: no Discord prop posts in the inbox since the last edition and 3 watchlist searches (Topstep, Lucid, Take Profit Trader) returned only dated third-party trackers, nothing new for 19-20 Nov. Only headline was a Kalshi beginner's guide (aggregator, irrelevant). Live Topstep threads (Nov rule changes, country restrictions) show no new firm announcement."
+  },
+  {
+   "id": "tradetech",
+   "name": "Trading Technology",
+   "status": "quiet",
+   "stories": [],
+   "note": "Headlines were stock-market news items from TradingView's news feed with no TradingView, Pine Script or Quantower product changes; the only on-topic item (SureShotFX KIRIN indicator) is a paid press release, not worth running."
+  },
+  {
+   "id": "ai",
+   "name": "Artificial Intelligence",
+   "status": "story",
+   "stories": [
+    {
+     "headline": "Anthropic reportedly discounting heavily to push Cowork and new products; Team plans switch Dec 1",
+     "why": "Signals Anthropic is buying adoption outside coding, and Team admins who do nothing get the unified chat-and-Cowork experience on Dec 1, with cloud tasks that can draw more seat allowance.",
+     "points": [
+      "The Information (via PYMNTS, 19 Nov): credits up to $2,000 per user, discounts above 30% for large customers; Anthropic did not comment.",
+      "Team plans: unified chat and Cowork turns on by default 1 Dec 2026 unless an owner keeps it disabled; separate experience retires 1 Feb 2027.",
+      "Zero-data-retention orgs are excluded; cloud tasks may consume more seat allowance, overage at standard rates if usage credits enabled."
+     ],
+     "next": "1 Dec 2026 default switch for Team organisations.",
+     "confidence": "reported",
+     "impact": "medium",
+     "thread": {
+      "id": "anthropic-cowork-push",
+      "name": "Anthropic Cowork push and pricing",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "PYMNTS",
+       "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-offers-discounts-to-gain-ground-with-new-products/"
+      },
+      {
+       "name": "Superpower Daily",
+       "url": "https://superpowerdaily.com/posts/anthropic-sets-december-1-default-switch-to-combined-claude-chat-and-tasks-for-team-plans"
+      }
+     ],
+     "desk": "ai"
+    }
+   ],
+   "note": "Lead story: see top (Anthropic day two)."
+  },
+  {
+   "id": "business",
+   "name": "Business & E-commerce",
+   "status": "story",
+   "stories": [
+    {
+     "headline": "Intuit sells Mailchimp to Bending Spoons for $3.68bn, under a third of its 2021 price",
+     "why": "If you send email or SMS through Mailchimp, the new owner is known for deep overhauls of pricing and products. Worth checking exports and alternatives before the deal closes.",
+     "points": [
+      "Announced 19 Nov: all-cash, enterprise value $3.68bn; Intuit reinvests $368m in Bending Spoons equity.",
+      "Intuit paid about $12bn in 2021.",
+      "Bending Spoons (Vimeo, AOL, Eventbrite, WeTransfer) says its usual approach is an overhaul of teams, technology, marketing and monetisation.",
+      "Close expected early 2027 after regulatory approval; nothing changes until then."
+     ],
+     "next": "Regulatory approval and close, expected early 2027.",
+     "confidence": "confirmed",
+     "impact": "medium",
+     "thread": {
+      "id": "mailchimp-sale",
+      "name": "Mailchimp sale to Bending Spoons",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "CNBC",
+       "url": "https://www.cnbc.com/2026/11/19/intuit-mailchimp-sale-bending-spoons.html"
+      },
+      {
+       "name": "PPC Land",
+       "url": "https://ppc.land/bending-spoons-agrees-to-buy-mailchimp-from-intuit-for-3-68bn-in-cash/"
+      }
+     ],
+     "desk": "business"
+    },
+    {
+     "headline": "Snapchat opens two-tier Creator Agency Partner Program in US, UK and MENA",
+     "why": "Another platform formalising creator-led ads. Relevant if you run creator content as ad creative and want Snap support or incentives, though thresholds are unpublished.",
+     "points": [
+      "Announced 18 Nov; live in the US, UK and MENA, applications open.",
+      "Standard tier for new practices; Strategic tier judged on spend, advertiser scale and team certification.",
+      "Snap has not published thresholds, incentive details or a deadline.",
+      "Launched alongside open beta of Snap Creator Network."
+     ],
+     "next": "No dates given; more regions to follow.",
+     "confidence": "reported",
+     "impact": "low",
+     "thread": {
+      "id": "snap-creator-agencies",
+      "name": "Snap creator agency programme",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "The Keyword",
+       "url": "https://www.thekeyword.co/news/snapchat-creator-agency-partner-program"
+      }
+     ],
+     "desk": "business"
+    }
+   ]
+  },
+  {
+   "id": "faith",
+   "name": "Christianity & Theology",
+   "status": "story",
+   "stories": [
+    {
+     "headline": "Congo church leaders go door to door to bring Ebola suspects to treatment",
+     "why": "Global Christianity in practice: trusted pastors are reaching villages where health teams meet hostility, in the world's second-largest Ebola outbreak. The accounts are first-hand testimony from clergy, not independent measurement of lives saved.",
+     "points": [
+      "Bundibugyo-virus outbreak declared in May; 11,042 confirmed cases and 5,387 deaths in Congo as of 9 Nov (ECDC, as cited by CT), still rising at a record pace.",
+      "Anglican lay minister Patrick Lokombe (Beni) says communities resisted teams over restrictions on traditional burials; clergy can enter villages and persuade families to hand over suspected cases for testing.",
+      "Goma preacher Francis Mbombo says faith leaders have run awareness campaigns, countered misinformation and tracked hundreds of contacts; the African Christian Health Associations Platform has trained some of them.",
+      "Interpretation: 'this has saved lives' is the speakers' own claim; the article gives no outcome data."
+     ],
+     "next": "Kenya's 42-day monitoring period before it can be declared Ebola-free runs from its last discharge in November; ECDC case updates continue.",
+     "confidence": "reported",
+     "impact": "medium",
+     "thread": {
+      "id": "congo-ebola-church-response",
+      "name": "Congo Ebola and church response",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Christianity Today",
+       "url": "https://www.christianitytoday.com/2026/11/ebola-democratic-republic-congo-christian-outreach/"
+      }
+     ],
+     "desk": "faith"
+    }
+   ]
+  },
+  {
+   "id": "health",
+   "name": "Health & Wellness",
+   "status": "story",
+   "stories": [
+    {
+     "headline": "Two JAMA studies link a blood tau marker to advanced CTE, but no test exists yet",
+     "why": "CTE can only be confirmed after death; a validated blood marker would change research and diagnosis for contact-sport athletes. This is discovery-phase data in tiny samples.",
+     "points": [
+      "Boston University-led JAMA case series (19 Nov): plasma eMTBR-tau drawn in life in 21 former football players who later donated their brains; 18 had CTE at autopsy, 16 of them stage III-IV.",
+      "Median 0.019 pg/mL with CTE vs 0.001 without (beta 1.61, 95% CI 0.51 to 2.70); remained significant after excluding five donors with Alzheimer's pathology.",
+      "No sensitivity or specificity reported; a second JAMA case-control study from Washington University (eMTBR-tau243) found elevation in late-stage CTE and some other tauopathies.",
+      "p-tau217 rose only with Alzheimer's pathology, so a combined panel may separate CTE from Alzheimer's (author view)."
+     ],
+     "next": "Larger autopsy-confirmed validation studies; authors say these are needed before any clinical use.",
+     "confidence": "confirmed",
+     "grade": "C",
+     "study": "Case series, n=21 brain donors (former American football players, all male); key limitation: tiny, selected brain-bank sample with no accuracy figures; second study is case-control",
+     "impact": "medium",
+     "thread": {
+      "id": "cte-blood-test",
+      "name": "CTE blood test",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "MedPage Today",
+       "url": "https://www.medpagetoday.com/meetingcoverage/ctad/123969"
+      },
+      {
+       "name": "CASRAI",
+       "url": "https://casrai.org/news/jama-plasma-emtbr-tau-cte-blood-test-21-brain-donors-2026"
+      }
+     ],
+     "desk": "health"
+    },
+    {
+     "headline": "Oxford: BP drugs prevent more heart attacks and strokes than serious falls they cause, even in frailty",
+     "why": "Eases a common worry about treating high blood pressure in older people. It is modelled from records plus trial effects, so it is an estimate, not a direct trial.",
+     "points": [
+      "Analysis of records from more than 5.5 million patients in England using a new STRATIFY-CVD risk calculator, combined with trial evidence on drug effects.",
+      "Per 1,000 treated over ten years: about 8 serious cardiovascular events prevented vs about 2 serious falls caused.",
+      "1,000 men in their 80s with moderate frailty: 47 events prevented vs 9 serious falls; 1,000 fit men in their 60s: 12 prevented vs 1 fall.",
+      "For fainting and acute kidney injury the balance is finer; for low blood pressure and high potassium the models suggest more harms than events prevented, though milder."
+     ],
+     "next": "Individual treatment decisions stay with a clinician; no dated catalyst in the release.",
+     "confidence": "reported",
+     "grade": "B",
+     "study": "Modelling study on routine NHS records, n>5.5 million, England; key limitation: benefit relies on trial effect sizes applied to observational risk models, and harms are model-estimated",
+     "impact": "medium",
+     "thread": {
+      "id": "bp-drugs-falls-frailty",
+      "name": "BP medication and falls in frailty",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "EurekAlert (University of Oxford)",
+       "url": "https://www.eurekalert.org/news-releases/1152588"
+      }
+     ],
+     "desk": "health"
+    }
+   ]
+  },
+  {
+   "id": "gaming",
+   "name": "Gaming & PlayStation",
+   "status": "story",
+   "stories": [
+    {
+     "headline": "GTA VI pre-launch sales estimate rises to $1.84bn, about 75% on PS5",
+     "why": "The biggest release in gaming is live, with early sales estimates already above a blockbuster film's full run. The sales figure is a third-party estimate, not a Rockstar number.",
+     "points": [
+      "Sensor Tower estimate of $1.84bn covers pre-sales to Tuesday only (about 75% PS5, 25% Xbox), per The Hollywood Reporter.",
+      "Physical editions are download codes, not discs; a Leicester independent shop told the BBC it sold five copies.",
+      "Rockstar's Sam Houser said the game 'represents everything we have been working towards'.",
+      "No online mode at launch; no PC version or date announced."
+     ],
+     "next": "Rockstar/Take-Two first official sales figures (no date announced).",
+     "confidence": "reported",
+     "impact": "medium",
+     "thread": {
+      "id": "gta6-launch",
+      "name": "GTA VI launch",
+      "status": "changed",
+      "day": 26
+     },
+     "sources": [
+      {
+       "name": "GamesHub",
+       "url": "https://www.gameshub.com/news/article/gta-6-launch-full-map-rockstar-2931589/"
+      },
+      {
+       "name": "The Hollywood Reporter",
+       "url": "https://www.hollywoodreporter.com/business/digital/gta-6-sales-the-odyssey-1236759454/"
+      },
+      {
+       "name": "BBC",
+       "url": "https://www.bbc.com/news/articles/cmqj5dr01e85o"
+      },
+      {
+       "name": "Yahoo (TheFly)",
+       "url": "https://www.yahoo.com/entertainment/movies/articles/two-rockstar-games-announces-grand-201108701.html"
+      }
+     ],
+     "desk": "gaming"
+    }
+   ]
+  },
+  {
+   "id": "expand",
+   "name": "Expand My World",
+   "status": "story",
+   "stories": [
+    {
+     "headline": "People entering old age now have better memory than their parents did",
+     "why": "A large cohort result that fits the falling age-specific dementia rate: later-born generations start old age sharper and decline more slowly. Cohort data, so it shows association, not cause.",
+     "points": [
+      "Nature Medicine study (17 Nov): 219,000 people aged 50+, born 1910-1964, memory tracked over three decades using word-list recall tests.",
+      "Each ten-year later birth date was associated with a 10% higher memory score at age 60.",
+      "Each later birth decade made people 64% more likely to keep stable memory; stable memory matched less hippocampal shrinkage in imaging of nearly 2,000 people.",
+      "Cambridge epidemiologist Carol Brayne calls it confirmatory, 'another piece of the jigsaw'; dementia rates have fallen 13% per decade over 27 years in Europe and the US."
+     ],
+     "next": "No dated catalyst; watch for follow-up work on which lifestyle or education factors drive the trend.",
+     "confidence": "reported",
+     "impact": "low",
+     "thread": {
+      "id": "cohort-memory-improvement",
+      "name": "Later generations keep memory longer",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Nature News",
+       "url": "https://www.nature.com/articles/d41586-026-03783-9"
+      }
+     ],
+     "desk": "expand"
+    }
+   ]
+  }
+ ],
+ "watching": [
+  {
+   "thread": "gulf-tension",
+   "line": "Reuters (19 Nov): Senate Republicans blocked an Iran war-powers resolution; Trump says no rush on an Iran decision and looks to next year."
+  },
+  {
+   "thread": "trump-asia-trip",
+   "line": "No breakthroughs from the three-way summit; middle powers making their own moves (Reuters). House panel says US approved ~900,000 AI chip sales to China in six months."
+  },
+  {
+   "thread": "pochettino-era",
+   "line": "Liverpool v United at Anfield, Sun 22 Nov; Baleba (hamstring) still a doubt."
+  },
+  {
+   "thread": "uk-economy",
+   "line": "ONS October retail sales and public finances out today; figures not yet assessed."
+  },
+  {
+   "thread": "topstep-nov-2026-rules",
+   "line": "Still unverified against Topstep's own help pages; no new firm announcement."
+  }
+ ],
+ "close_threads": [],
+ "expand": {
+  "headline": "People entering old age now have better memory than their parents did",
+  "why": "A large cohort result that fits the falling age-specific dementia rate: later-born generations start old age sharper and decline more slowly. Cohort data, so it shows association, not cause.",
+  "points": [
+   "Nature Medicine study (17 Nov): 219,000 people aged 50+, born 1910-1964, memory tracked over three decades using word-list recall tests.",
+   "Each ten-year later birth date was associated with a 10% higher memory score at age 60.",
+   "Each later birth decade made people 64% more likely to keep stable memory; stable memory matched less hippocampal shrinkage in imaging of nearly 2,000 people.",
+   "Cambridge epidemiologist Carol Brayne calls it confirmatory, 'another piece of the jigsaw'; dementia rates have fallen 13% per decade over 27 years in Europe and the US."
+  ],
+  "next": "No dated catalyst; watch for follow-up work on which lifestyle or education factors drive the trend.",
+  "confidence": "reported",
+  "impact": "low",
+  "thread": {
+   "id": "cohort-memory-improvement",
+   "name": "Later generations keep memory longer",
+   "status": "new"
+  },
+  "sources": [
+   {
+    "name": "Nature News",
+    "url": "https://www.nature.com/articles/d41586-026-03783-9"
+   }
+  ],
+  "desk": "expand"
+ },
+ "generated_at": "2026-11-20T13:28:36Z",
+ "updates": [],
+ "status": {
+  "story": 8,
+  "quiet": 2,
+  "failed": 0
+ }
+}
