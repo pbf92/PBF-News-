@@ -1,0 +1,45 @@
+URL: https://streamlinefeed.co.ke/news/two-jama-studies-link-blood-marker-to-advanced-cte
+TITLE: Two JAMA studies link blood marker to advanced CTE
+OUTLET: streamlinefeed.co.ke
+
+Two studies published in JAMA found that a blood marker developed for Alzheimer's disease was raised in former football players with advanced chronic traumatic encephalopathy, but neither establishes a test that can diagnose CTE in living patients.
+That distinction is the whole story. CTE can currently be confirmed only at autopsy, so a reliable antemortem marker would reshape research and, eventually, care. The evidence so far comes from 32 brain donors across two small cohorts, most of them with late-stage disease.
+What the two studies measured
+A team led by Boston University researchers, working with Banner Sun Health Research Institute, tested stored plasma from 21 male former football players who later donated their brains. Eighteen had CTE, 16 of them at stages III or IV, and three had none.
+Median concentrations of endogenously cleaved microtubule-binding region tau were 0.019 pg/mL in CTE cases against 0.001 pg/mL in those without. The highest readings, 0.082 pg/mL, came from the five men who also had Alzheimer's neuropathology. High-stage CTE without that copathology sat at 0.009 pg/mL.
+Separately, Washington University researchers analysed samples from the University of California San Francisco brain bank, including 11 autopsy-confirmed CTE cases and 20 controls. Median plasma eMTBR-tau243 was 1.93 fmol/L in CTE against 0.29 in controls, while clinically diagnosed Alzheimer's cases reached 11.25 fmol/L.
+The cohorts were narrow in ways that matter. All 21 Boston participants were men, 12 of the 18 CTE cases had played professionally, and the median age at blood draw was 68 for CTE cases against 49 for those without. Blood was taken a median of one year before death in the CTE group.
+Where the signal fails
+Discrimination depended heavily on stage, and the published confidence intervals show how little the early-stage result can carry.
+Measurement limits compound this. In the Boston cohort, 10 of 21 samples fell below the assay's lower limit of quantification, including all three men without CTE, both early-stage cases and five stage III cases. Separation at the top of the range is therefore clearer than any ability to rule disease in or out at the bottom.
+Specificity is the second problem. The Washington University study found elevations across mixed 3-repeat and 4-repeat tauopathies, including Alzheimer's and some genetic frontotemporal degenerations, but not in predominantly 3-repeat or 4-repeat diseases. The marker appears to track a class of tau aggregation rather than one diagnosis.
+The verdict from outside the research teams
+In an accompanying JAMA editorial, Carla Palleis and Günter Höglinger of Ludwig Maximilian University Munich wrote that the marker is "not a validated diagnostic test for CTE". They noted that an association with regional tau burden does not prove the assay detects the distinctive perivascular, sulcal pattern that defines the disease.
+They also flagged selection: the Boston cohort was 21 men, all football players, with only three comparisons, drawn from research participation and brain donation. The Washington University paper discloses patents licensed to C2N Diagnostics, and one of its senior authors co-founded that company.
+Clinical criteria already exist without resolving the problem. The editorial notes that traumatic encephalopathy syndrome criteria cannot confirm underlying pathology during life, and that tau PET tracers lack specificity for CTE. A third JAMA paper, covering 728 participants in Alzheimer's cohorts, supports the immunoassay used in the Boston study as a measure of tau burden.
+Why it matters for former players
+The pressure for a test is measurable. A separate study in JAMA Network Open estimated that 74.5% of former NFL players who died between 2008 and 2023 had CTE neuropathology, after adjusting for the fact that families of symptomatic players were about five times more likely to donate brains. Among 387 donated brains, 362 showed CTE.
+Mass General Brigham, which announced that work in October, stressed the estimate applies only to deceased players and does not predict how many living former players are affected. It also noted CTE appears in under 1% of community brain bank donors.
+For now the practical position is unchanged: no clinical blood test exists for CTE, and the researchers themselves call for larger, independent, prospectively collected cohorts. The next milestone is validation, not a launch.
+How did this story land?
+No sign-in required. Choose up to two. This captures your response to the story—it is not a vote on whether the reporting is true.
+Sources & evidence
+Sources linked in this article’s evidence ledger. Open the original material to assess the supporting claims and their context. A reference listing is not an independent verification badge.
+3 references are marked as primary in the evidence ledger
+- 01JAMAResearchPrimaryPlasma eMTBR-tau as a Biomarker for Chronic Traumatic Encephalopathy Tau Tangle NeuropathologyBy Annalise E. Miner and colleagues Published 19 Nov 2026Accessed 20 Nov 2026 10.1001/jama.2026.24780 Evidence used 
+  - • Case series of 21 male former American football players with antemortem plasma and completed autopsy by October 9, 2026: 18 CTE positive (16 stage III or IV, 2 stage I or II) and 3 CTE negative
+  - • Median plasma eMTBR-tau 0.019 pg/mL in CTE versus 0.001 pg/mL without CTE; 0.082 pg/mL in the five with Alzheimer disease neuropathologic change and 0.009 pg/mL in high-stage CTE without it; p-tau217 not associated with CTE
+  - • Ten of 21 samples were below the 0.007 pg/mL lower limit of quantification, including all CTE-negative and low-stage cases and five stage III cases; 12 of 18 CTE cases played professionally; median age at blood draw 68 versus 49; median blo
+- 02JAMAResearchPrimaryFluid eMTBR-tau243 as a Biomarker of Mixed 3-Repeat and 4-Repeat Tau PathologyBy Kanta Horie, Chihiro Sato and colleagues Published 13 Nov 2026Accessed 20 Nov 2026 10.1001/jama.2026.24689 Evidence used 
+  - • UCSF Memory and Aging Center cohort: 11 autopsy-confirmed CTE cases (5 stage I, 2 stage III, 4 stage IV), 20 controls and 14 clinically diagnosed Alzheimer cases; median plasma eMTBR-tau243 1.93 fmol/L in CTE, 0.29 in controls, 11.25 in Alz
+  - • AUC 0.82 (95% CI 0.65-1.00) for all CTE versus controls, 0.97 (0.92-1.00) for stage III or IV, and 0.64 (0.32-0.97) for stage I; elevations across mixed 3R/4R tauopathies but not primary 3R or 4R diseases
+  - • Disclosures include patents licensed to C2N Diagnostics and a co-founder of that company among the authors; study presented at the 45th annual meeting of the Japan Society for Dementia Research in Tsukuba on November 14, 2026
+- 03JAMAExpert commentaryPlasma eMTBR-Tau as a Potential Biomarker Across TauopathiesBy Carla Palleis and Günter U. Höglinger Published 19 Nov 2026Accessed 20 Nov 2026 10.1001/jama.2026.24588 Evidence used 
+  - • Editorial states eMTBR-tau243 is not a validated diagnostic test for CTE and that sensitivity for borderline or mild pathology remains uncertain; association with regional tau burden does not establish detection of the perivascular sulcal p
+  - • Notes the 21-donor cohort with only three non-CTE comparisons and selection through brain donation, and that traumatic encephalopathy syndrome criteria and tau PET cannot confirm CTE during life
+  - • Describes a third JAMA study by Brum and colleagues covering 728 participants across Alzheimer disease cohorts using the same immunoassay as the Miner study
+- 04Mass General BrighamOfficial statementPrimaryStudy estimates that 75% of former NFL players who died between 2008-2023 had CTEBy Mass General Brigham Published 28 Oct 2026Accessed 20 Nov 2026 10.1001/jamanetworkopen.2026.40884 Evidence used 
+  - • Bias-adjusted estimate of 74.5% CTE prevalence among all 2,362 former NFL players who died between 2008 and 2023; 362 of 387 studied donated brains (94%) had CTE neuropathology
+  - • Players with cognitive symptoms were about five times more likely to have brains donated; estimate applies only to deceased former players, not living or active players; CTE seen in under 1% of community brain bank donors
+Continue reading
+These are the latest published stories from Health.

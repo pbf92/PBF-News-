@@ -1,0 +1,17 @@
+URL: https://arxiv.org/abs/2611.25111
+TITLE: DSFlow: A Neuro-Symbolic Data Workflow Agent with Statistical Diagnostic Guardrails
+OUTLET: arXiv cs.AI
+
+Computer Science > Artificial Intelligence
+Title:DSFlow: A Neuro-Symbolic Data Workflow Agent with Statistical Diagnostic Guardrails
+View PDF HTML (experimental)
+            Abstract:Data science workflows often require tools that presume non-trivial technical knowledge. Large language models (LLMs) reduce this barrier, but a gap remains between flexible general-purpose agents and statistically controlled pipelines. We introduce DSFlow, a LangGraph-based neuro-symbolic data-agent platform that combines reusable, LLM-selected skills with deterministic diagnostic guardrails. Skills provide extensible task knowledge. Symbolic validation can accept a proposed method, request clarification or replanning, override an unsuitable method, or supply a safe fallback. Regression and clustering case studies illustrate how DSFlow uses diagnostic evidence to correct method choices and documents those decisions in auditable reports.
+    
+Bibliographic and Citation Tools
+Code, Data and Media Associated with this Article
+Demos
+Recommenders and Search Tools
+arXivLabs: experimental projects with community collaborators
+arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.
+Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.
+Have an idea for a project that will add value for arXiv's community? Learn more about arXivLabs.

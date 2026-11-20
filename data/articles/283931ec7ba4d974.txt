@@ -1,0 +1,6 @@
+URL: https://digg.com/ai/759bq62a
+TITLE: Shopify CEO Tobi Lütke weighs how AI agents could change shopping
+OUTLET: Digg
+
+TLDR
+Sources interviews Shopify CEO Tobi Lütke about why Shopify welcomed Meta’s Muse while Amazon blocked it and how agents could shop for users. He sees charging users, metering usage or taking a share of transactions as possible ways for agents to make money, but says paid purchase steering can breach trust. He also says he turned his wine cellar into a GPU server rack to run his AI agent locally.

@@ -1,0 +1,10 @@
+URL: https://www.tradingview.com/news/tradingview:280a9d482357b:0-key-facts-solana-plans-rotor-quantum-risks-storage-costs-down-27/
+TITLE: Key facts: Solana Plans Rotor; Quantum Risks, Storage Costs Down 27%
+OUTLET: TradingView
+
+Key facts: Solana Plans Rotor; Quantum Risks, Storage Costs Down 27%
+Less than 1 min read
+- Solana plans Rotor, a relay layer to replace Turbine and improve block-data delivery. Watt called it Alpenglow’s second phase; Votor, the first, is already live. U.Today
+- IOSCO cited a Solana quantum-resistant test network where throughput fell about 90%. It warned post-quantum upgrades could require coordinated hard forks, more storage and higher transaction fees. Bits.media
+- Solana’s data-storage costs fell by 27% in 2026, and Watt said a further sevenfold reduction was planned within two weeks. U.Today
+This is an AI-generated summary and may contain inaccuracies. Please verify any important information with the original sources.

@@ -1,0 +1,43 @@
+URL: https://www.tradingview.com/news/financewire:5be55e99f094b:0-sureshotfx-launches-kirin-all-in-one-buy-sell-indicator-tradingview/
+TITLE: SureShotFX Launches KIRIN, All-in-One Buy Sell Indicator TradingView
+OUTLET: TradingView
+
+SureShotFX Launches KIRIN, All-in-One Buy Sell Indicator TradingView
+London, United Kingdom, November 20th, 2026, FinanceWire
+SureShotFX today launched SureShotFX KIRIN (Key Impulse & Range Intelligence Navigator), a non-repainting TradingView indicator that prints buy and sell signals only when trend, pullback, and momentum agree. Every signal comes with an entry, stop loss, and three take-profit levels, giving beginners and professionals a complete trade plan on one chart.
+Understanding Non-Repainting Signals in TradingView Indicators
+Traders comparing TradingView indicators keep running into four problems:
+- Repainting signals: TradingView's Pine Script documentation estimates more than 95% of indicators repaint in some form, making past signals look better than live results.
+- Indicator overload: Stacking tools often creates conflicting signals and slower decisions.
+- Free plan limits: TradingView's free Basic plan allows only two indicators per chart.
+- Unproven scripts: Many buy and sell indicators show arrows but no hit rate.
+KIRIN was built to solve all four.
+How KIRIN Generates Buy and Sell Signals on TradingView
+As a confluence indicator, KIRIN gives each layer a veto:
+- Trend Cloud: An ATR-based band sets direction: blue below price allows only buys, red above allows only sells.
+- Trend Candle: Colors each candle against a price channel, so pullbacks stand out.
+- Twin Range Filter (TRF): Blends fast and slow range filters and turns only when price breaks its normal range.
+- Bar-close lock: Rules are checked on closed candles, so confirmed signals never move.
+An A+ signal needs a pullback candle to arm the setup, then a genuine bullish or bearish close with TRF agreeing. A B+ signal needs price to dip into the cloud zone, reject past its outer rail, then confirm. Near-misses are discarded, not chased, and a cloud flip resets every setup.
+Multiple Indicators in One: Trade Levels, Dashboards and Alerts
+One KIRIN script replaces several tools:
+- Entry and exit levels: A stop behind the 20-bar swing with a 5-pip buffer (or 2x ATR), and targets at 0.5R, 1R, and 2R.
+- Backtest dashboard: TP hit rate for the last 100 signals versus all signals, plus A+/B+ counts and long/short split.
+- Multi-timeframe dashboard: Trend, strength, and ranging status from 1-minute to weekly charts.
+- TradingView alerts: Nine bar-close alert conditions, delivered to the TradingView app or to Discord and Telegram webhooks.
+- Any market: Forex, gold (XAUUSD), indices, crypto, and stocks.
+- Free plan friendly: Signals and TP/SL tags work on TradingView's free tier; alerts need a paid plan.
+KIRIN Features for Beginner and Experienced Traders
+- Beginners: A complete trade plan on screen, starting on 5- or 15-minute charts.
+- Day traders and scalpers: Trend-filtered A+ and B+ signals on intraday charts.
+- Swing traders: Four-hour, daily, and weekly trend alignment in one dashboard.
+- Professional traders: Bar-close webhook alerts and a live hit-rate panel to track performance.
+How to Get This Buy Sell TradingView Indicator KIRIN
+KIRIN is available now as an invite-only TradingView script. Features, the user guide, and access details are at https://sureshotfx.com/sureshot-kirin
+KIRIN marks levels only and never places trades or guarantees results.
+About SureShotFX
+Founded in 2020, SureShotFX provides trading alerts & tools that help retail and institutional traders decide with more clarity. Traders in more than 150 countries use its VIP trade alerts, TradingView indicators such as Raven and KIRIN, trade automation tool Algo, and free trading calculators, all backed by 24/7 support.
+Contact
+Richard Dawson
+SureShotFX
+support@sureshotfx.com

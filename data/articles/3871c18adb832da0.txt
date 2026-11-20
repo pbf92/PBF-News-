@@ -1,0 +1,63 @@
+URL: https://www.eurekalert.org/news-releases/1152588
+TITLE: Blood pressure medication more likely to prevent heart attacks and strokes than cause serious falls, major study finds
+OUTLET: EurekAlert!
+
+A major study led by researchers at the Nuffield Department of Primary Care Health Sciences, University of Oxford has found that blood pressure-lowering medication is more likely to prevent serious cardiovascular events, such as heart attacks and strokes, than cause serious falls, even among older people and those living with frailty.
+The research, funded by the Wellcome Trust and the National Institute for Health and Care Research (NIHR), analysed anonymised health records from more than 5.5 million patients in England and provides new evidence to help doctors weigh up the benefits and potential harms of treatment for individual patients.
+High blood pressure is a leading cause of heart disease and stroke worldwide. Although medication can substantially reduce these risks, doctors must also consider potential side effects, including dizziness, fainting, falls and kidney problems. These concerns are particularly important for older patients with frailty, who may be more vulnerable to adverse effects.
+Balancing the benefits and risks of blood pressure treatment
+To investigate how the benefits and risks of blood pressure treatment differ between patients, researchers developed a new cardiovascular risk calculator, called STRATIFY-CVD, using routinely collected NHS patient records. The tool estimates a person's likelihood of experiencing a serious cardiovascular event, such as a heart attack or stroke, in the next five to ten years based on factors including their age, medical history and existing health conditions.
+The researchers then combined these predictions with existing models that estimate the risk of medication-related side effects, alongside evidence from clinical trials examining the effects of blood pressure-lowering drugs. This allowed them to estimate how many heart attacks and strokes blood pressure treatment could prevent, compared with the number of adverse events it might cause, over a ten-year period.
+The researchers estimated that, for every 1,000 patients treated over ten years, blood pressure-lowering medication would prevent approximately eight serious cardiovascular events, such as heart attacks and strokes, while causing around two serious falls.
+The findings also suggest that the benefits of treatment outweigh the risk of serious falls among older patients living with frailty, even though these patients are more vulnerable to medication-related falls.
+For example, the researchers estimated that treating 1,000 men in their 80s with moderate frailty over ten years would prevent 47 serious cardiovascular events, compared with nine serious falls caused by medication. By comparison, treating 1,000 fit men in their 60s with no history of cardiovascular disease was estimated to prevent 12 serious cardiovascular events while causing one serious fall.
+However, the findings revealed a more complex picture for other potential side effects. For fainting and acute kidney injury, the benefits and harms of treatment were more finely balanced. For low blood pressure and elevated potassium levels (which can lead to heart palpitations and shortness of breath), the models suggested that treatment could cause more adverse events than cardiovascular events prevented, although these side effects are generally less serious than a heart attack or stroke.
+Professor James Sheppard, from the Nuffield Department of Primary Care Health Sciences, University of Oxford and senior author on the paper, said:
+"Deciding whether to prescribe blood pressure medication isn't always straightforward, particularly when someone is older, living with frailty or several other health conditions. Doctors need to consider not just whether a treatment works, but how much an individual patient is likely to benefit and what risks matter most to them.
+"Until now, it has been difficult to bring all this information together in a simple way that informs these treatment decisions. Our research is an important step towards giving doctors and patients a clearer, more personalised picture of what treatment might mean for them.
+"Ultimately, we want to help people make informed choices about their treatment, based on the best available evidence and what matters most to them."
+Towards more personalised treatment options
+Existing cardiovascular risk calculators are not always suitable for people who have previously experienced a heart attack or stroke, those already taking cholesterol-lowering medication, or the very oldest patients.
+STRATIFY-CVD was developed to address these limitations, taking account of a person's medical history, existing health conditions and medication use. It also considers the possibility of someone dying from another cause before experiencing a heart attack or stroke.
+The researchers found that the model accurately predicted cardiovascular risk when tested against an independent dataset of patient records. It generally produced lower risk estimates than the previously widely used QRISK2 calculator, suggesting that some existing approaches may overestimate cardiovascular risk. More information about the calculator, including how it can be downloaded for use in further research, can be found here.
+The team also developed a chart illustrating how the estimated benefits and harms of treatment vary across different patient groups, including by age, sex, frailty and previous cardiovascular disease. This could help doctors and patients discuss treatment options and make more informed decisions.
+The researchers explain that by showing that the cardiovascular benefits of blood pressure medication can outweigh the risk of serious falls, even in older patients living with frailty, the findings could help inform future treatment guidelines and support more confident, personalised prescribing decisions.
+ENDS
+Notes to editors
+Contact: For media enquiries and interview requests, please contact news.office@admin.ox.ac.uk
+The paper
+'Benefits and harms of antihypertensive treatment a modelling study in 5.5 million electronic health records', is published in Nature Communications, https://www.doi.org/10.1038/s41467-026-79283-1
+An embargoed copy is available on request.
+Risk calculator: More information about the STRATIFY-CVD calculator, including how it can be downloaded for use in further research, can be found here.
+Funding
+This research was funded by the Wellcome Trust/Royal Society via a Sir Henry Dale Fellowship held by JPS (ref: 211182/Z/18/Z) and the National Institute for Health and Care Research (NIHR) School for Primary Care Research (SPCR) (project 430).
+Competing interests:
+All authors have completed the ICMJE uniform disclosure form at www.icmje.org/coi_disclosure.pdf.
+CEC is a current member of NICE hypertension and lipid management guideline committees; member Quality Standards Advisory Committee for the NICE quality standard on cardiovascular risk assessment and lipid modification. Chair, BIHS Standing Committee on Blood Pressure Measurement. All other authors declare no relevant conflicts of interest.
+About the University of Oxford 
+Oxford University has been placed number 1 in the Times Higher Education World University Rankings for the eighth year running, and number 3 in the QS World Rankings 2025. At the heart of this success are the twin-pillars of our ground-breaking research and innovation and our distinctive educational offer.
+Oxford is world-famous for research and teaching excellence and home to some of the most talented people from across the globe. Our work helps the lives of millions, solving real-world problems through a huge network of partnerships and collaborations. The breadth and interdisciplinary nature of our research alongside our personalised approach to teaching sparks imaginative and inventive insights and solutions.
+Through its research commercialisation arm, Oxford University Innovation, Oxford is the highest university patent filer in the UK and is ranked first in the UK for university spinouts, having created more than 300 new companies since 1988. Over a third of these companies have been created in the past five years. The university is a catalyst for prosperity in Oxfordshire and the United Kingdom, contributing around £16.9 billion to the UK economy in 2021/22, and supports more than 90,400 full time jobs.
+Oxford University’s Medical Sciences Division is one of the largest biomedical research centres in Europe, with over 2,500 people involved in research and more than 2,800 students. The University is rated the best in the world for medicine and life sciences, and it is home to the UK’s top-ranked medical school. It has one of the largest clinical trial portfolios in the UK and great expertise in taking discoveries from the lab into the clinic. Partnerships with the local NHS Trusts enable patients to benefit from close links between medical research and healthcare delivery.
+Within the Division, the Nuffield Department of Primary Care Health Sciences is the largest centre for academic primary care in the UK, and leads world-class research and training to rethink the way healthcare is delivered in general practice and other primary care settings. The Department’s main research focus is on the prevention, early diagnosis and management of common illness, bringing together academics from many different backgrounds to work together to produce benefits for the NHS, for populations and for patients. www.phc.ox.ac.uk
+About Wellcome
+Wellcome supports science to solve the urgent health challenges facing everyone. We support discovery research into life, health and wellbeing, and we’re taking on three worldwide health challenges: mental health, infectious disease and climate and health.
+About the NIHR
+The mission of the National Institute for Health and Care Research (NIHR) is to improve the health and wealth of the nation through research. We do this by:
+- Funding high quality, timely research that benefits the NHS, public health and social care;
+- Investing in world-class expertise, facilities and a skilled delivery workforce to translate discoveries into improved treatments and services;
+- Partnering with patients, service users, carers and communities, improving the relevance, quality and impact of our research;
+- Attracting, training and supporting the best researchers to tackle complex health and social care challenges;
+- Collaborating with other public funders, charities and industry to help shape a cohesive and globally competitive research system;
+- Funding applied global health research and training to meet the needs of the poorest people in low and middle income countries.
+NIHR is funded by the Department of Health and Social Care. Its work in low and middle income countries is principally funded through UK international development funding from the UK government.
+Journal
+Nature Communications
+Method of Research
+Meta-analysis
+Subject of Research
+People
+Article Title
+Benefits and harms of antihypertensive treatment a modelling study in 5.5 million electronic health records'
+Article Publication Date
+20-Nov-2026
