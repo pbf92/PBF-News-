@@ -1,0 +1,79 @@
+URL: https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/
+TITLE: The Download: inside the quest to make our minds immortal
+OUTLET: MIT Technology Review
+
+This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology.
+What we learned when our Roundtables explored the quest to make minds immortal
+To preserve our sense of self, some scientists are working on ways to keep our brains going—even beyond death. In their quest for cognitive immortality, these “mind savers” are exploring everything from head transplants and brain freezing to conscious software avatars.
+In the latest MIT Technology Review Roundtables event, senior editor for biomedicine Antonio Regalado joined science editor Mary Beth Griggs to examine these ideas. After following the money, the science, and the philosophy, he came back part skeptical, part awestruck. Here’s a taste of what Antonio found—and what he made of it.
+- Not all the projects are quite what they seem: A $190 million US government program to develop replacement brain tissue is officially about treating stroke, but “it’s also a fig leaf for the actual ambition”: living forever.
+- AI could lead to convincing mind clones: Large language models are making it possible to build AI copies of people that act quite like the real thing. “This digital avatar might not be good enough for you, but what if it’s good enough for me?”
+- Immortality can be a hard sell: One company, Nectome, wants to preserve brains within 12 minutes of medically assisted death. “If you’re selling a hot product, this is not it.”
+- It’s not always clear what we’re trying to preserve: “I’m not even sure that I have a very good claim to be myself.”
+- There’s an upside to life as a brain in a jar: “You can surf the internet. I do that pretty much 12 hours a day, anyway.”
+To find out which of these ideas might actually work, subscribers can now watch the full conversation on demand.
+Want to join the conversation? Subscribe to MIT Technology Review for exclusive access to all our Roundtables.
+Read more:
+- Six wild ideas for perpetuating your mind
+- Inside the stealthy startup that pitched brainless human clones
+- Technology that lets us “speak” to our dead relatives has arrived. Are we ready?
+- This researcher wants to replace your brain, little by little
+The must-reads
+I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
+1 Trump has fired his cyber director after a wave of tech outages
+Pentagon official Kirsten Davies will replace Sean Cairncross. (NBC News)
++ The outages disrupted flights, banks and security systems. (Reuters $)
++ They’ve fuelled fears of a wider collapse. (WP $)
++ AI agents are expected to drive even more outages. (Politico)
++ We need to monitor AI agents in real time. (MIT Technology Review)
+2 The US approved sales of nearly 900,000 AI chips to China
+Many went to firms the Pentagon links to China’s military. (CNBC)
++ California is investigating Nvidia’s links to China. (Politico).
++ New US export rules are set to hinder Chinese AI. (WSJ $)
++ Nvidia is eyeing Arm chief Rene Haas as its next CEO. (FT $)
+3 The US Senate has passed a bill to fast-track energy projects
+It would cut red tape but weaken environmental protections. (Axios)
++ The bill could advance Trump’s fossil-fuel agenda. (New Yorker $)
++ But it could also unlock more clean energy. (MIT Technology Review)
+4 Taiwan says China is using Threads to sway next week’s elections
+It has flagged nearly 2,700 suspected accounts to Meta. (Reuters $)
++ Taiwan’s “silicon shield” is weakening. (MIT Technology Review)
+5 Google’s AI push is hurting its search ad business
+Advertisers are shifting spending as AI answers displace ads. (NYT $)
++ The agentic web is here. (MIT Technology Review)
+6 Apple is building its own AI agent
+It would browse the web, work across apps and write code. (Verge)
++ Apple’s longtime iPhone camera chief has retired. (Bloomberg $)
+7 UN climate talks are set to call for carbon removal technologies
+It could reverse warming, but the systems remain unproven. (WP $)
++ Is carbon removal in trouble? (MIT Technology Review)
+8 Global cooling needs have overtaken heating for the first time
+Higher temperatures are driving a surge in air conditioning. (Bloomberg $) 
+9 GTA 6 has become the biggest entertainment launch ever
+First-day sales were estimated at a record $2.3 billion. (BBC)
+10 Physicists sent a message through a wall using gravity and an old lift
+Unlike radio signals, gravitational fields can’t be blocked by walls. (Gizmodo)
+Quote of the day
+“If this is going to replace me, I’d better own it now.”
+—Dingsheng Li, an environmental health professor and Anthropic investor, tells The New Yorker why he's buying into a company whose technology threatens to make human workers obsolete.
+One more thing
+The “steroid olympics” were a circus—and a window into our culture
+—Amit Katwala
+A couple of weeks ago, at a $50 million arena built in a casino parking lot in Las Vegas, I witnessed a libertarian thought experiment come to life. The inaugural Enhanced Games were the first sporting competition where participants were encouraged to take performance-enhancing drugs.
+For the event’s supporters, the Enhanced Games offered a glimpse of a future where medical advances push the human race to new heights—and they never have to get old. As I watched the games unfold, two questions bounced around my head: Were they right? And what does that mean for the rest of us?
+We can still have nice things
+A place for comfort, fun, and distraction to brighten up your day. (Got any ideas? Drop me a line.)
++ Ever wanted to play the theremin? This free virtual version lets you try it online.
++ As the monsoon rains subside, Myanmar's Inle Lake comes alive with a colourful festival.
++ The Simon & Garfunkel classic “The Sound of Silence” has been reimagined on traditional Ukrainian instruments.
++ The James Webb Space Telescope has captured a breathtaking image of the Lion Nebula, sculpted by a dying star shedding its outer layers.
+Deep Dive
+The Download
+The Download: why AI’s latest breakthroughs and fears may be more hype than reality
+Plus: 22 nations have called for a new global body to oversee AI.
+The Download: the agentic web arrives and the drive for safer roads
+Plus: A $1 trillion tech selloff has deepened fears of an AI bubble.
+Stay connected
+Get the latest updates from
+MIT Technology Review
+Discover special offers, top stories, upcoming events, and more.

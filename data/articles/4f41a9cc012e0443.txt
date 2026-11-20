@@ -1,0 +1,26 @@
+URL: https://www.eurekalert.org/news-releases/1152829
+TITLE: HKUST co-led study reveals atmospheric organic nitrogen as a major nutrient source for global oceans
+OUTLET: EurekAlert!
+
+A research team co-led by Prof. YU Jianzhen, Chair Professor of the Department of Chemistry and the Division of Environment and Sustainability at The Hong Kong University of Science and Technology (HKUST), and Prof. FU Tzung-May, Professor of the School of Environmental Science and Engineering at the Southern University of Science and Technology (SUSTech), has quantified an important component of the global nitrogen cycle.
+The study reveals that 12.8 million tonnes of organic nitrogen (ON) are deposited from the atmosphere into the global oceans annually, constituting approximately 27% of total nitrogen deposition. In nitrogen-limited waters such as the central Atlantic Ocean and the Indonesian seas, ON contributes around half of total nitrogen deposition. These new findings reshape the understanding of marine nutrient supply and its impacts on ocean ecosystems and climate. The paper, titled “Atmospheric Organic Nitrogen is a Major Nutrient Source to Global Oceans,” was published in the international academic journal Science.
+Airborne nitrogen depositing into the oceans supports marine life, yet the contribution of ON to this flux has remained unclear due to its chemical complexity and long-standing measurement challenges. To address this knowledge gap, the research team, in collaboration with researchers from Nanjing University of Information Science and Technology, East China Normal University, Ocean University of China, South China University of Technology, and HKUST (Guangzhou), combined an innovative atmospheric ON measurement method with extensive open-ocean and polar marine observations, alongside a global atmospheric chemistry model, to quantify ON deposition.
+Prof. Yu stated, “Our study demonstrates that atmospheric ON is far from a minor player in marine ecosystems. Rather, it is a vital nutrient source for global oceans that has often been overlooked. Through an innovative measurement method, coupled with cross-disciplinary collaboration among researchers in atmospheric observations, atmospheric modeling, marine science, and polar research, we were able to quantify this crucial biogeochemical link between the atmosphere and marine ecosystems.”
+Overcoming Observational Barriers Across Global Waters
+Traditional methods measure ON by subtracting inorganic nitrogen (IN) from total nitrogen—an error-prone and laborious approach that has left major gaps in global datasets. To address these gaps, the team previously developed a high-sensitivity analytical method capable of simultaneously measuring both aerosol ON and IN.
+In the present study, the team applied this method to 418 marine aerosol samples from 21 research cruises, including multiple expeditions to the Arctic and Antarctic. The samples spanned a wide range of oceanic regions, from the tropical to the polar oceans, including the Arctic and Southern Oceans, producing the most comprehensive ON dataset to date.
+The results revealed that aerosol ON concentrations varied by over three orders of magnitude, ranging from below 0.01 μg N m⁻³ over the remote Southern Ocean to above 10 μg N m⁻³ over the Yellow Sea along the western margin of the Pacific Ocean. On average, ON accounted for 30% of total aerosol nitrogen.
+Tracking Global Sources and Closing a Knowledge Gap
+The team used these extensive measurements to constrain a three-dimensional atmospheric chemistry model of ON, quantifying ON deposition into the global oceans at 12.8 million tonnes per year. The analysis identified the three largest sources of ON to the oceans as biomass burning emissions (4.8 million tonnes annually), marine aerosol emissions (3.9 million tonnes annually), and imines produced chemically in the atmosphere (2.2 million tonnes annually). Together, non-marine sources, such as wildfires and human activities, contribute 8.9 million tonnes of ON annually, representing 70% of total ON deposited into the oceans.
+Prof. Fu explained, “These terrestrial sources act as an important external nutrient input that can stimulate open-ocean productivity, and changes in these emissions may affect marine nutrient dynamics.”
+The study’s first authors are Dr. YU Xu, formerly a Research Assistant Professor in the Division of Environment and Sustainability at HKUST and now a Professor at Nanjing University of Information Science and Technology, and Dr. LI Yumin, a graduate of the HKUST-SUSTech joint PhD program who is currently a postdoctoral researcher at ETH Zurich. Prof. Yu Jianzhen and Prof. Fu Tzung-May served as the corresponding authors of the study.
+Journal
+Science
+Method of Research
+Experimental study
+Subject of Research
+Not applicable
+Article Title
+Atmospheric organic nitrogen is a major nutrient source to global oceans
+Article Publication Date
+20-Nov-2026

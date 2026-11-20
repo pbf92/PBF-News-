@@ -1,0 +1,25 @@
+URL: https://www.tradingview.com/news/benzinga:02d080478094b:0-why-anthropic-stock-is-sliding-today-after-its-blockbuster-ipo-debut/
+TITLE: Why Anthropic Stock Is Sliding Today After Its Blockbuster IPO Debut
+OUTLET: TradingView
+
+Why Anthropic Stock Is Sliding Today After Its Blockbuster IPO Debut
+Seaport Global analyst Jay Goldberg initiated coverage of Anthropic PBC ANT with a Neutral rating, saying he remains cautious rather than negative because the company needs more time to prove that its growth trajectory can support its current valuation.
+The stock traded lower by almost 12% on Friday as high-beta tech gets hit harder in a risk-off tape. The Nasdaq is down 2.41% while the S&P 500 has shed 1%.
+Anthropic gained over 17% on its first day of trading on Thursday, November 19.
+Revenue Growth Slowdown Raises Questions
+Anthropic’s revenue growth fell from 144% quarter over quarter in the second quarter to 43% in the third quarter, a 101-percentage-point slowdown.
+Goldberg acknowledged that both rates remain high in absolute terms but said Anthropic needs high double-digit sequential revenue growth over the next two years to justify its valuation.
+Press reports cited by Goldberg indicated that Anthropic guided syndicate analysts toward $18 billion to $20 billion of fourth-quarter revenue, which would represent approximately 43% sequential growth.
+Goldberg said summer seasonality could explain about 10 percentage points of the Q2-to-Q3 slowdown, while Anthropic’s decision to cut off certain gray-area users and illicit resellers could account for roughly another 10 percentage points.
+He said insufficient compute represents the most likely explanation for much of the remaining gap, although Anthropic has not explicitly confirmed that. Goldberg also identified possible spending reductions from two large customers, Meta Platforms Inc. META and Microsoft Corp. MSFT, as another potential factor.
+Valuation Requires Strong Growth And Profitability
+Goldberg said Anthropic must sustain strong growth and achieve significant profitability by 2029 to justify its valuation. It also needs to maintain its lead in frontier AI, as open-weight models could pressure margins if it falls behind.
+He also flagged the company’s Anthropic Direct capital program and plans to build and control data-center infrastructure as major execution risks. He estimates Anthropic must generate about $900 billion in cash flow to meet its commitments, including roughly $640 billion by 2030.
+While acknowledging its historical capital discipline, he warned that the infrastructure buildout requires enormous upfront spending.
+Anthropic’s Lock-Up Schedule Is Risky
+The first release of shares will occur about one month after the offering and could double the free float, followed by another release roughly two weeks later and additional unlocks into next year.
+Goldberg said that structure creates a sizable potential share overhang.
+Overall, Anthropic could ultimately become an exceptional company, but investors can afford to wait for more evidence on revenue growth, compute capacity and profitability before taking a more constructive view.
+The analyst expects fiscal 2027 revenue of $153.91 billion and EPS loss of 96 cents. He projects fiscal 2028 revenue of $317.39 billion and EPS of $2.13.
+Price Action
+ANT Stock Price Activity: Anthropic shares were down 11.4% at $86.09 at the time of publication on Friday, according to Benzinga Pro data.Disclaimer Preview Image via Shutterstock

@@ -1,0 +1,28 @@
+URL: https://londonlovesbusiness.com/how-futures-prop-firms-make-money-explained-through-one-month-of-payouts/
+TITLE: How futures prop firms make money, explained through one month of payouts
+OUTLET: London Business News
+
+A new kind of trading business has grown up in the United States over the past five years, and it sells to traders well beyond the US. Futures prop firms sell access to simulated trading accounts for a fee, and share profits with the minority of customers who trade them well. The model is simple, cash generative and, until recently, almost impossible to measure from outside.
+That has changed. Public review data and payout tracking now give a reasonable picture of how the business works. One month of numbers is enough to see it.
+The product is an exam
+A customer pays for an evaluation. The fee ranges from under $20 to a few hundred dollars depending on the firm and the account size, which runs from $25,000 to $150,000 or more. The account is simulated. The customer has to reach a profit target, typically 5% to 6%, without breaching a loss limit.
+Pass, and the firm offers a funded account, often still simulated, and pays the trader 80% to 90% of the profits they generate. Fail, and the customer can pay to try again.
+The firm’s revenue is therefore the sum of evaluation fees, reset fees and, at some firms, activation fees charged on passing. Its main cost is payouts to successful traders.
+What one month of payouts looks like
+PipBack, a research site that tracks seven futures prop firms, counted $268.2 million in payouts across five of them in the 30 days to 19 November 2026. Lucid Trading, founded in 2025, paid $107.3 million. Topstep, the Chicago firm that pioneered the model in 2012, paid $88.7 million. Tradeify paid $49.4 million, MyFundedFutures $19.6 million and Apex Trader Funding $3.2 million. The site counts only payouts it can see, so these are minimums.
+Those are large sums for firms that mostly did not exist five years ago. They are also made of small pieces. PipBack counted about 150,500 separate payouts, which puts the average under $1,800. At Lucid the median was $1,420.
+Withdrawals are capped. On a $50,000 Lucid account the cap is $2,000 a time, and more than a third of Lucid’s payouts landed exactly on a cap. A firm that limits each payout also limits its exposure to any one trader having an exceptional week.
+Where the margin comes from
+None of the firms publishes how many evaluations it sells or how many customers pass. The economics can still be read from the prices.
+Lucid’s cheapest evaluation costs $45.50 after a standard discount. A $1,000 payout on that account is funded by roughly twenty-two failed attempts at the same price. The business works when the number of customers who never reach a payout comfortably exceeds that ratio, and discounts of 30% to 90% suggest the margin is there.
+Discounting is the main marketing tool. Every firm in PipBack’s list bar Topstep had a public code on 19 November, and affiliates who publish the codes are paid per sale. Customer acquisition is in effect outsourced to comparison sites and YouTube channels.
+Reputation is the constraint
+A business that takes fees upfront and pays out later depends on trust. Traders talk, and the firms that delay or deny payouts lose customers quickly.
+That makes reviews a leading indicator. PipBack’s monthly ranking of the best futures prop firms by trader rating put MyFundedFutures and Lucid Trading level at 4.8 out of 5 for October 2026, with TakeProfitTrader and Tradeify at 4.7. FundedNext Futures was last at 3.6, with 44.6% of its reviews mentioning a problem.
+The same data shows how fast sentiment can move. In August, 54.3% of Lucid’s reviews mentioned an issue, after the firm introduced a new identity check. By October the share was 8.8%.
+The regulatory question
+Because the accounts are simulated and the customer buys a service, not a financial product, the firms have largely sat outside the rules that govern brokers. Regulators on both sides of the Atlantic have taken an interest in the wider prop trading sector, and several forex-focused firms closed or restructured in 2024 after platform providers withdrew.
+Futures firms have had a steadier run. They remain lightly supervised businesses that change their terms often.
+What it means for a trader in the UK
+Country rules differ by firm, so check that a firm accepts UK residents before paying. The fees are small enough to treat as a cost of education. The sensible approach is to treat the evaluation as an exam with a fee, check payout evidence and recent reviews first, and assume that more than one attempt will be needed.
+PipBack is an affiliate of most of the firms it covers and earns a commission on purchases made with its code. It says no firm pays to be ranked higher.

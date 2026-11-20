@@ -1,0 +1,35 @@
+URL: https://de.tradingview.com/script/8HzlRUEy/
+TITLE: Prop Firm Risk Dashboard [Drawdown & Consistency] — Indikator von aguus_
+OUTLET: TradingView
+
+Prop Firm Risk Dashboard [Drawdown & Consistency]
+A risk panel for futures traders on prop firm accounts. It shows how much room you have left before hitting your drawdown or daily loss limit, in dollars and in points for your contract size, and draws the price levels where your account would be breached.
+WHAT IT SHOWS
+• Status badge: SAFE (under 40% of your limit used), CAUTION (40–75%), DANGER (over 75%), BREACHED
+• Drawdown threshold and room left, for EOD trailing, intraday trailing or static drawdown
+• Optional "stops trailing" level (for example, start balance + $100)
+• Optional daily loss limit, and which of the two limits is closer
+• Room converted into points for the number of contracts you trade (point value is detected automatically from the symbol: NQ, MNQ, ES, MES, CL, GC and others)
+• Long and short breach levels drawn on the chart
+• Consistency rule check: your best day as a % of total profit, the maximum profit you can take today without breaking the rule, and how much more profit you need to be compliant
+• Progress towards your payout target
+HOW TO USE IT
+TradingView cannot read your broker account, so balances are entered manually in the settings. Update them once after each session:
+1. Starting balance, current balance and the highest balance used by your firm's trailing rule
+2. Today's closed P&L
+3. Your firm's rules: drawdown type, max drawdown, trailing stop level, daily limit and consistency %
+4. Optional: enter an open position (direction and entry price) to see live room and breach levels including unrealized P&L
+Every firm has different rules, and they change. Always check the current rules on your firm's website and set the inputs to match.
+ALERTS
+• Danger: 75% of your loss limit used
+• Loss limit reached
+DISCLAIMER
+This is a risk management tool. It does not generate trading signals and it is not financial advice. Values depend on the inputs you enter; your prop firm's dashboard is always the official source.
+Funded futures trader · Pine Script developer
+Custom strategies, backtests & reports → fiverr.com/agus83
+Haftungsausschluss
+Die Informationen und Veröffentlichungen sind nicht als Finanz-, Anlage-, Handels- oder andere Arten von Ratschlägen oder Empfehlungen gedacht, die von TradingView bereitgestellt oder gebilligt werden, und stellen diese nicht dar. Lesen Sie mehr in den Nutzungsbedingungen.
+Funded futures trader · Pine Script developer
+Custom strategies, backtests & reports → fiverr.com/agus83
+Haftungsausschluss
+Die Informationen und Veröffentlichungen sind nicht als Finanz-, Anlage-, Handels- oder andere Arten von Ratschlägen oder Empfehlungen gedacht, die von TradingView bereitgestellt oder gebilligt werden, und stellen diese nicht dar. Lesen Sie mehr in den Nutzungsbedingungen.

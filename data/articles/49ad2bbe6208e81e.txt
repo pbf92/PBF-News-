@@ -1,0 +1,68 @@
+URL: https://www.quiverquant.com/news/Alamar+Biosciences+Study+Published+in+JAMA+Finds+Blood+Biomarker+May+Detect+CTE+Pathology+in+Living+Patients
+TITLE: Alamar Biosciences Study Published in JAMA Finds Blood Biomarker May Detect CTE Pathology in Living Patients
+OUTLET: Quiver Quantitative
+
+Alamar Biosciences announces a study showing potential for a blood test to detect CTE pathology in living patients.
+Quiver AI Summary
+Alamar Biosciences, Inc. announced significant findings from a study published in the Journal of the American Medical Association, conducted by researchers from Boston University and other institutions, evaluating a blood test for chronic traumatic encephalopathy (CTE) using Alamar’s NULISAqpcr™ eMTBR-tau assay. The study revealed that former football players with advanced CTE had elevated blood levels of the eMTBR-tau protein fragment, which is associated with tau tangles seen in CTE and Alzheimer’s disease. This research is notable as CTE can currently only be confirmed post-mortem, making the potential for a reliable blood test crucial for diagnosing and studying the disease in living patients. While the study indicates a promising biomarker approach that could aid in patient diagnosis and clinical trial enrollment, it emphasizes that further validation is necessary and that the test is not yet available for clinical use.
+Potential Positives
+- Alamar Biosciences' NULISAqpcr™ eMTBR-tau assay was utilized in a significant study published in JAMA, highlighting the company's role in advancing research on chronic traumatic encephalopathy (CTE).
+- The study suggests a promising new biomarker approach for identifying CTE pathology in living patients, potentially enhancing patient diagnosis and facilitating clinical trial enrollment.
+- The findings emphasize the capability of Alamar's technology to detect low-abundance proteins, reinforcing the company's position as a leader in precision proteomics.
+Potential Negatives
+- The blood test for CTE mentioned in the press release is not available for clinical use, limiting immediate commercial applicability.
+- The study results require further validation in larger and diverse cohorts, indicating uncertainty in the reliability of the findings.
+- Alamar Biosciences faces intense competition in the proteomics market, which could hinder its market position and growth prospects.
+FAQ
+What is the main finding of the Alamar Biosciences study on CTE?
+The study found higher blood levels of eMTBR-tau in former football players with advanced CTE.
+How does eMTBR-tau relate to chronic traumatic encephalopathy?
+eMTBR-tau is a protein fragment linked to tau tangles seen in CTE and Alzheimer’s disease.
+Is the blood test for CTE available for clinical use?
+No, the test is not available for clinical use and is not a diagnostic tool yet.
+What is the significance of the NULISAqpcr™ technology?
+NULISAqpcr™ enables the detection of low abundant proteins, potentially revolutionizing CTE research and diagnosis.
+How many participants were involved in the CTE study?
+The study involved 21 former American football players who donated blood and brain samples.
+Disclaimer: This is an AI-generated summary of a press release distributed by GlobeNewswire. The model used to summarize this release may make mistakes. See the full release here.
+$ALMR Insider Trading Activity
+$ALMR insiders have traded $ALMR stock on the open market 128 times in the past 6 months. Of those trades, 0 have been purchases and 128 have been sales.
+Here’s a breakdown of recent trading of $ALMR stock by insiders over the last 6 months:
+- CORPORATE GP VI, LTD. QIMING has made 0 purchases and 128 sales selling 1,599,066 shares for an estimated $47,502,975.
+To track insider transactions, check out Quiver Quantitative's insider trading dashboard. You can access data on insider stock transactions through the Quiver Quantitative API insider transaction endpoint.
+$ALMR Hedge Fund Activity
+We have seen 74 institutional investors add shares of $ALMR stock to their portfolio, and 29 decrease their positions in their most recent quarter.
+Here are some of the largest recent moves:
+- T. ROWE PRICE INVESTMENT MANAGEMENT, INC. removed 2,183,044 shares (-99.1%) from their portfolio in Q3 2026, for an estimated $74,376,309
+- PURA VIDA INVESTMENTS, LLC added 755,909 shares (+inf%) to their portfolio in Q2 2026, for an estimated $20,477,574
+- MILLENNIUM MANAGEMENT LLC removed 709,104 shares (-81.9%) from their portfolio in Q3 2026, for an estimated $24,159,173
+- WALLEYE CAPITAL LLC added 474,885 shares (+inf%) to their portfolio in Q3 2026, for an estimated $16,179,331
+- POINT72 ASSET MANAGEMENT, L.P. added 437,284 shares (+844.2%) to their portfolio in Q3 2026, for an estimated $14,898,265
+- PRICE T ROWE ASSOCIATES INC /MD/ added 355,845 shares (+3216.0%) to their portfolio in Q3 2026, for an estimated $12,123,639
+- ARTISAN PARTNERS LIMITED PARTNERSHIP added 318,818 shares (+51.9%) to their portfolio in Q3 2026, for an estimated $10,862,129
+To track hedge funds' stock portfolios, check out Quiver Quantitative's institutional holdings dashboard. You can access data on hedge funds moves and 13F filings through the Quiver Quantitative API 13F endpoint.
+$ALMR Analyst Ratings
+Wall Street analysts have issued reports on $ALMR in the last several months. We have seen 3 firms issue buy ratings on the stock, and 0 firms issue sell ratings.
+Here are some recent analyst ratings:
+- TD Cowen issued a "Buy" rating on 11/04/2026
+- Stifel issued a "Buy" rating on 08/11/2026
+- JP Morgan issued a "Overweight" rating on 08/11/2026
+To track analyst ratings and price targets for $ALMR, check out Quiver Quantitative's $ALMR forecast page.
+$ALMR Price Targets
+Multiple analysts have issued price targets for $ALMR recently. We have seen 3 analysts offer price targets for $ALMR in the last 6 months, with a median target of $35.0.
+Here are some recent targets:
+- Dan Brennan from TD Cowen set a target price of $36.0 on 11/04/2026
+- Daniel Arias from Stifel set a target price of $32.0 on 08/11/2026
+- Casey Woodring from JP Morgan set a target price of $35.0 on 08/11/2026
+Full Release
+FREMONT, Calif., Nov. 20, 2026 (GLOBE NEWSWIRE) -- Alamar Biosciences, Inc. (Nasdaq: ALMR), a leader in precision proteomics dedicated to enabling the earliest detection of disease, today announced new research published in the Journal of the American Medical Association (JAMA). Researchers at Boston University CTE Center, with collaborators at Banner Health and more than 20 Institutions, used Alamar’s NULISAqpcr™ eMTBR-tau single-plex assay to evaluate whether a blood test could identify chronic traumatic encephalopathy (CTE) pathology in living patients.
+The researchers found higher blood levels of eMTBR-tau in former football players with advanced CTE and that levels rose with the amount of tau tangle pathology in the brain. eMTBR-tau is a protein fragment linked to the tau tangles seen in CTE and Alzheimer’s disease. CTE is a. neurodegenerative disease associated with repeated head impacts. Today it can only be confirmed by examining the brain after death. The finding could give researchers a way to study CTE during life.
+“CTE has been extraordinarily difficult to study because doctors cannot confirm it in a living person. Proteins like eMTBR-tau have recently been associated with neuropathology but are present at very low levels in blood,” said Yuling Luo, PhD, founder, CEO and chair of Alamar Biosciences. “Our NULISA technology was built to measure low abundant proteins, and a reliable, simple blood test for CTE would enable new research into the progression and treatment of this debilitating illness. There is more work to do, but studies like this one show why that effort matters.”
+The study included 21 former American football players who gave blood samples during life and later donated their brains for research through Boston University CTE Center Studies. Eighteen had CTE, including 16 with high-stage disease. Plasma eMTBR-tau was significantly higher in high-stage CTE than in low-stage CTE or no CTE. Five of the CTE cases also had Alzheimer’s disease, and eMTBR-tau levels were highest in people who had both conditions. The researchers also measured p-tau217, an established blood marker for Alzheimer’s disease. It was elevated only in people with Alzheimer’s pathology and was not associated with CTE. Used together, the two markers may help researchers tell the conditions apart.
+The study suggests a promising new biomarker approach to accurately detecting CTE pathology through a blood test, with the potential to improve patient diagnosis, identification and enrollment in clinical trials, and support the development of targeted therapies. The researchers describe the results as an early study that requires validation in larger and diverse cohorts. The test is not a diagnostic tool and is not available for clinical use. To date, no blood test has yet been validated for diagnosing CTE in living patients.
+“Having blood tests that accurately determine the underlying pathology, which are now approved for use in Alzheimer’s disease, has been revolutionary in the way we diagnose patients and design therapeutic trials,” said Nicholas Ashton, PhD, co-senior author of the study and senior director of Banner Health’s Fluid Biomarker Program. “With this new study, we are optimistic this biomarker will spur a serious discussion about treatment development for CTE.”
+Dr. Ashton’s work also includes blood-based eMTBR-tau measurement in Alzheimer’s disease, most recently in a JAMA study published November 16 that used a NULISA-based assay to assess tau pathology in plasma from 728 research participants.
+About Alamar Biosciences
+Alamar is a commercial-stage proteomics company establishing a gold standard in protein detection and analysis. Leveraging our proprietary NULISA™ technology and the ARGO ® HT System, our platform is designed to detect protein biomarkers at extremely low concentrations in blood with ultra-high sensitivity, high specificity, flexible multiplexing, broad dynamic range and seamless automation. We refer to this combination of features as “Precision Proteomics,” and believe it fills a critical gap in the field of advanced proteomics, helping researchers unlock the full spectrum of protein biomarkers across disease states. Learn more at alamarbio.com .
+Forward Looking Statements
+This press release may contain forward-looking statements, including statements made pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. These statements may be identified by words such as "aims," "anticipates," "believes," "could," "estimates," "expects," "forecasts," "intends," "may," "plans," "possible," "potential," "seeks," "will" and variations of these words or similar expressions that are intended to identify forward-looking statements. Any such statements in this press release that are not statements of historical fact may be deemed to be forward-looking statements. These forward-looking statements include, without limitation, statements regarding Alamar’s NULISA platform’s capabilities, performance and impact on CTE research on live patients. Any forward-looking statements in this press release are based on Alamar Biosciences’ current expectations and involve assumptions that may never materialize or may prove to be incorrect. Readers are cautioned that actual results could differ materially from those expressed or implied in Alamar Biosciences’ forward-looking statements due to a variety of risks and uncertainties, which include, without limitation, risks and uncertainties related to intense competition in the proteomics market, exposure to legal proceedings, regulatory inquiries and other legal matters, failure to develop new assays or instruments, dependence on researchers who rely heavily on government funding, reductions in spending by research and academic institutions, the potential for products to be subject to more onerous regulation by the FDA or other regulatory requirements, the complexity of manufacturing Alamar Biosciences’ instruments and consumables, failure to obtain marketing authorizations for future products that are intended for clinical or diagnostic use, Alamar Bioscie

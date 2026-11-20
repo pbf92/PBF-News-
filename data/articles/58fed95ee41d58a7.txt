@@ -1,0 +1,8 @@
+URL: https://www.tradingview.com/news/gurufocus:92d9cda48094b:0-apple-plans-an-ai-agent-to-rival-meta-s-muse/
+TITLE: Apple Plans an AI Agent to Rival Meta's Muse
+OUTLET: TradingView
+
+Apple Plans an AI Agent to Rival Meta's Muse
+Apple Inc. AAPL is building its own autonomous AI agent that can write code, browse the web, control apps and navigate devices on users' behalf, entering a market already pursued by OpenAI, Anthropic PBC ANT and Meta Platforms Inc. META, Bloomberg reported. Apple shares were up 0.32% in premarket.
+Apple would join a crowded field. Meta's Muse, which can make restaurant reservations and book travel, held the No. 2 spot among free apps on Apple's App Store on Thursday, behind TikTok, with OpenAI's ChatGPT and Anthropic's Claude also in the top five. Anthropic recently widened testing of its agent, Duet, OpenAI has expanded its Dots agent, and Alphabet Inc.'s GOOGL Google overhauled its own agent, now called Tasks.
+Apple has eyed a launch as soon as the end of next year, though development remains at an early stage, according to Bloomberg, which cited new job listings. In the meantime, Apple is making it harder for rivals' agents to control its computers. In the beta version of macOS 27.3, enabling ChatGPT's computer-use tools now takes 14 steps, up from four. Apple has presented the change as a way to protect customers, while some AI companies see it as an attempt to slow competition.
