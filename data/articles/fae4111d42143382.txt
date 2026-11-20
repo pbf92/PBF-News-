@@ -1,0 +1,34 @@
+URL: https://www.eurekalert.org/news-releases/1152751
+TITLE: Association between venous excess ultrasound score and acute kidney injury considering the presence of underlying cardiac disease: A systematic review and meta-analysis
+OUTLET: EurekAlert!
+
+Acute kidney injury is one of the most frequent complications in intensive care units, and it increases the risk of death and of long-term kidney damage. For years, attention has focused on low blood flow to the kidneys. More recently, clinicians have recognized a second mechanism: venous congestion. When pressure rises in the veins that drain the kidneys, kidney function can be impaired even in the absence of low systemic blood flow.
+The Venous Excess Ultrasound (VExUS) score, introduced in 2020, allows clinicians to grade this congestion at the bedside. It combines the diameter of the inferior vena cava with Doppler patterns in the hepatic, portal and intrarenal veins, and grades from 2 upwards indicate moderate to severe congestion. Previous studies on VExUS and kidney injury reported conflicting results, and the only earlier meta-analysis found large differences between studies.
+A study published online in the Journal of Intensive Medicine on October 29, 2026, and led by Professor Abele Donati at Università Politecnica delle Marche, Ancona, Italy, investigated whether the underlying clinical context explains these differences. Their hypothesis was that the meaning of a high VExUS score depends on its cause. In patients with heart disease, congestion is driven by the heart and transmits pressure back to the kidney. In general, intensive care or sepsis, a high score may reflect other mechanisms, such as fluid administration or changes in vascular tone.
+The researchers conducted a systematic review and meta-analysis, registered in the PROSPERO database and now published in the Journal of Intensive Medicine. They searched PubMed, Scopus and CENTRAL and included nine observational studies with 957 adult critically ill patients. Before the analysis, each study was classified as cardiac (cardiac surgery or acute heart failure) or non-cardiac (general intensive care or sepsis), and the difference between the two groups was tested formally.
+Across all studies, a VExUS score of 2 or higher was associated with about twice the odds of acute kidney injury. The picture changed when clinical context was considered. In the cardiac group, the odds were about four times higher (odds ratio: 4.02), and results were consistent across studies. In the non-cardiac group, the estimate was imprecise (odds ratio: 0.95, with a confidence interval from 0.50 to 1.77): the data neither confirm nor exclude an association. The difference between the two groups was statistically significant; the variability between studies became negligible once they were grouped by context, and the result was consistent across seven sensitivity analyses.
+These findings may help clinicians use VExUS more precisely. In cardiac patients, a high score could help identify those at higher risk of kidney injury and support the consideration of decongestive strategies. In other intensive care patients, a high score should not be read on its own as a warning of kidney injury.
+The authors stress that the results should be interpreted with caution. The number of available studies was small, all were observational, definitions of kidney injury varied, and classification was made at the level of studies rather than individual patients. The certainty of evidence was rated low for cardiac patients and very low for non-cardiac patients.
+Reference
+Titles of original papers: Association between venous excess ultrasound score and acute kidney injury, considering the presence of underlying cardiac disease: A systematic review and meta-analysis
+Journal: Journal of Intensive Medicine
+DOI: https://doi.org/10.1016/j.jointm.2026.09.006
+About Università Politecnica delle Marche 
+Università Politecnica delle Marche (UNIVPM) is a public university based in Ancona, Italy, founded in 1969. It offers education and research in five areas: Agriculture, Economics, Engineering, Medicine and Surgery, and Sciences. Its medical faculty works with the Azienda Ospedaliero Universitaria delle Marche, the university hospital of Ancona, where clinical research in anaesthesia and intensive care is carried out alongside patient care.
+Website: https://www.univpm.it
+About Professor Abele Donati from Università Politecnica delle Marche 
+Dr. Abele Donati is a Full Professor of Anaesthesiology and Intensive Care in the Department of Biomedical Sciences and Public Health at Università Politecnica delle Marche and Director of the Clinic of General, Respiratory and Major Trauma Anaesthesia and Intensive Care at Azienda Ospedaliero Universitaria delle Marche, Ancona, Italy. His research focuses on sepsis and septic shock, microcirculation, tissue oxygenation, and haemodynamic monitoring in critically ill patients, including bedside ultrasound assessment of venous congestion.
+About PhD candidate Riccardo Antolini from Università Politecnica delle Marche 
+Mr. Riccardo Antolini is a PhD candidate in the Department of Biomedical Sciences and Public Health at Università Politecnica delle Marche and works in the Anaesthesia and Intensive Care Unit at Azienda Ospedaliero Universitaria delle Marche, Ancona, Italy. His research focuses on bedside ultrasound assessment of venous congestion and its relationship with organ dysfunction in critically ill patients.
+Journal
+Journal of Intensive Medicine
+Method of Research
+Meta-analysis
+Subject of Research
+People
+Article Title
+Association between venous excess ultrasound score and acute kidney injury, considering the presence of underlying cardiac disease: A systematic review and meta-analysis
+Article Publication Date
+29-Oct-2026
+COI Statement
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.

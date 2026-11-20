@@ -1,0 +1,15 @@
+URL: https://qz.com/anthropic-alpoge-claude-riemann-hypothesis-proof-112026
+TITLE: Anthropic's Levent Alpöge says Claude helped prove Riemann hypothesis
+OUTLET: Quartz
+
+Levent Alpöge, a mathematician at Anthropic, said on Friday that he believes he has proven the Riemann hypothesis with help from the company's Claude AI model.
+Levent Alpöge posted a proof in the Lean programming language, and the Riemann hypothesis claim awaits outside review
+Alpöge posted the proof in Lean, a formal coding language in which a computer can confirm each stage of an argument in sequence. The AI-written version runs more than 250,000 pages, according to The Wall Street Journal. He said his approach also settles the Generalized Riemann Hypothesis, a more sweeping formulation of the same question, according to AFP. He plans to write up the full argument.
+Bernhard Riemann proposed the hypothesis in 1859. It deals with how prime numbers are spread out. The Clay Mathematics Institute named it one of seven Millennium Prize Problems in 2000, each carrying a $1 million award. By the institute's criteria, a claimed solution needs a peer-reviewed publication and must then hold up for two further years of examination, according to AFP.
+"If the proof is correct and understood, this completes a dictionary between different branches of math where the connections were only partial," Hector Pasten, a mathematician at the Pontifical Catholic University of Chile, told Scientific American.
+Alpöge said the result arrived as Sunday evening rolled over into Monday, a few days ahead of Anthropic's IPO, according to The Wall Street Journal. He called the timing "horrible" and sent CEO Dario Amodei a note requesting approval to make the news public. "The fact is that there was a constraint to respect," Alpöge wrote. Anthropic stock slid during its first full session on the market, and the company did not respond to a request for comment, according to The Wall Street Journal and AFP.
+Anthropic disclosed in August that an unreleased Claude model had advanced a long-standing finding tied to the Riemann hypothesis without proving it, according to AFP.
+The claim follows OpenAI's September announcement that it had claimed a solution to the Navier-Stokes problem, another Millennium Prize Problem. A credit dispute followed. Tristan Buckmaster, a mathematician at New York University, accused OpenAI of racing ahead after it learned of related work he had posted with Alpöge a day earlier. OpenAI said it never saw their work.
+In October, OpenAI posted 722 papers claiming answers to open problems, including advances on the Riemann hypothesis. The company pulled three papers within days after finding errors, and said the results were "at different stages of verification."
+Join 500,000+ readers who start their day with Quartz.
+By subscribing, you agree to our Terms of Service and Privacy Policy.

@@ -1,0 +1,6 @@
+URL: https://digg.com/ai/gi1l0vrf
+TITLE: Anthropic says Claude Fable 5.2 solved two open black-hole physics problems
+OUTLET: Digg
+
+TLDR
+According to Anthropic, Claude completed a black-hole calculation left unfinished since 2003 and proved the exact limit of a simplified method for testing quantum-gravity theories. The company says the second result was formally verified in Lean and checked by a physicist. These are results in model universes, not a theory of everything: Anthropic says neither directly describes our universe or has practical applications.

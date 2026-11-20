@@ -1,0 +1,23 @@
+URL: https://africa.businessinsider.com/news/anthropic-mathematician-says-he-used-ai-to-solve-the-riemann-hypothesis/3nkv9ee
+TITLE: Anthropic mathematician says he used AI to solve the Riemann hypothesis
+OUTLET: Business Insider Africa
+
+- A mathematician said on Friday that he cracked one of the biggest problems in mathematics.
+- Levent Alpge, a member of Anthropic's technical staff, said he used Claude to solve it.
+- Mathematicians told Business Insider the result hasn't been fully verified yet.
+Levent Alpge, a member of Anthropic's technical staff, said on Friday that he solved the Riemann Hypothesis, which involves prime numbers, using Claude.
+"I guided us to the right situation analogous to that toy setting, and then Claude began to leave me in awe," Alpge said in a post on his website. "Claude flew, and danced, and sparkled near that finish line."
+Though Alpge's solution has yet to be formally verified, leading scholars in the field told Business Insider on Friday that should it stand, this would be the biggest breakthrough in math yet.
+"If it holds up, it's an extremely big deal," said Steven Strogatz, a math professor at Cornell. "This is the Moby Dick of Mathematics, the great white whale."
+"This is not a small potato," he said. "RH was the biggest problem in math."
+Strogatz said Alpge's solution has been verified by a computer-based system, but added that it sometimes makes mistakes.
+"So it's fair to say that the claimed proof has not yet been independently verified," he said.
+The Riemann Hypothesis was first proposed 167 years ago by a German mathematician named Bernhard Riemann. It proposes a predicted distribution for how often prime numbers appear alongside other numbers.
+The task of proving the hypothesis is a Millennium Prize Problem, meaning that solving it earns a mathematician a $1 million prize. The Navier-Stokes equations, which OpenAI has said it solved, are also in the Millennium Prize category.
+Alpge's solution is, by his own admission, incredibly long and complicated. The solution's written proof comprises more than 250,000 pages, Alpge said.
+Terence Tao, a leading scholar based at UCLA, said in a post on his website Friday that "digesting" the proposed solution "will take some time."
+Alpge, who joined Anthropic in 2024, said he actually solved the problem on Sunday, but decided to hold off on announcing it after speaking with CEO Dario Amodei and consulting with other mathematicians.
+Anthropic, the company behind Claude, went public on the stock market on Thursday. As of Friday afternoon, the price of Anthropic shares has steadily declined.
+Alpge said he didn't want to release "slop" to the public, adding that he still doesn't fully understand the math involved.
+Still, he said that as other mathematicians attempt to grapple with the results, Alpge said he plans to be there every step of the way to help them.
+"I intend to do my best to understand and impart understanding of this argument," he said.

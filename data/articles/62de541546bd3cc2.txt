@@ -1,0 +1,5 @@
+URL: https://runtimewire.com/article/alpoge-claims-claude-riemann-hypothesis-proof
+TITLE: Anthropic mathematician Levent Alpoge claims Claude helped prove the Riemann Hypothesis
+OUTLET: RuntimeWire
+
+Anthropic mathematician Levent Alpoge says he and Claude have found a proof of the Riemann Hypothesis, a claim that Yifan Zhang (@yifanzhang_) amplified on November 20th, 2026 with the words "JUST IN: Riemann Hypothesis has been solved." The linked four-page note, titled "Remark," makes a narrower statement than the post: "I believe I have, working with Claude, discovered a proof". No independent confirmation had been reported by the time same-day coverage appeared, and same-day reporting described the archives and final theorem as unchecked.…

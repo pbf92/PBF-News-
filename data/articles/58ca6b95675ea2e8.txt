@@ -1,0 +1,21 @@
+URL: https://www.eurekalert.org/news-releases/1152766
+TITLE: OralAge integrates oral microbiome and clinical features to characterize oral aging and its associations with systemic health
+OUTLET: EurekAlert!
+
+The mouth keeps its own calendar. Cavities, gum disease, and lost teeth accumulate over decades, and the communities of bacteria that live there shift with age. A study published in The Innovation Insights reads all of these signals at once — and converts them into a single question: how old is your mouth, really?
+The answer comes from OralAge, a new measure built by Yanwei You of the National University of Singapore using a nationally representative US survey. From the National Health and Nutrition Examination Survey, cycles 2009-2010 and 2011-2012, 5,323 adults aged 30-69 had complete records of their oral microbiome, periodontal exams, and the state of every tooth. A ridge-regression model — a statistical tool designed to handle many overlapping predictors — weighed mouth bacterial diversity, gum-disease indicators, and tooth-by-tooth status together to estimate how old each mouth was.
+The model was imperfect but usable: in cross-validation, its estimates correlated with true age at 0.538, with an average error of 7.740 years. What matters is the gap. Subtract real age from OralAge and the remainder, OralAgeAccel, says whether a mouth reads older or younger than expected. The score tracked dental reality closely. People with periodontitis averaged 2.36 years older than expected; those without ran 2.60 years younger. Mean acceleration rose stepwise with tooth loss, from 3.44 years below expectation with no missing teeth to 4.53 years above among people missing nine or more.
+The number also reached beyond the mouth. In fully adjusted survey-weighted models, each standard-deviation increase in OralAgeAccel carried higher odds of cardiovascular disease (OR 1.134), diabetes (OR 1.134), chronic kidney disease (OR 1.139), and stroke (OR 1.216) — between 13% and 22% per step. The association with frailty pointed the same way but fell short of conventional significance. Health and mouth moved together in both directions: adults scoring better on the Life's Simple 7, Essential 8, and Crucial 9 cardiovascular-health scales had younger-reading mouths, while greater accumulated social disadvantage came with older ones.
+The author is careful with the claims. The study is cross-sectional, drawn from one national survey, and only internally evaluated; it cannot show that oral aging causes disease, nor who is most at risk in an individual clinic. Independent cohorts and longitudinal follow-up are needed before OralAge could inform screening or care. Its near-term value is as a research phenotype — a common yardstick for comparing oral aging across populations, and a test bed for whether the mouth, cheaply sampled at the dentist, can disclose what the rest of the body has not yet said.
+Journal
+The Innovation Insights
+Method of Research
+Data/statistical analysis
+Subject of Research
+People
+Article Title
+Development and characterization of OralAge: An integrated microbiome-clinical phenotype of oral aging
+Article Publication Date
+10-Nov-2026
+COI Statement
+The author declares no competing interests.

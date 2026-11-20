@@ -1,0 +1,41 @@
+URL: https://www.eurekalert.org/news-releases/1152723
+TITLE: Why older adults take longer to bounce back—and what to do about it
+OUTLET: EurekAlert!
+
+Key points:
+- Fatty acid molecules called prostaglandins may delay muscle recovery after disuse in older adults.
+- Excess prostaglandins are produced by non-dividing, senescent “zombie cells.”
+- Low-dose ibuprofen lowered prostaglandin levels and improved muscle recovery in aged mice.
+IMPACT: If the results apply in people, existing medications that target prostaglandins could promote muscle recovery in older adults, prevent injury, and improve quality of life.
+A class of fatty acid molecules called prostaglandins may be responsible for why older adults often fail to recover muscle strength after illness or injury, while young adults quickly bounce back, a new study has found. Produced by non-dividing “zombie cells” called senescent cells, excessive prostaglandins promote muscle atrophy.
+In mice, low-dose ibuprofen reduced prostaglandins and the number of senescent cells, helping older muscles recover more quickly and completely. If the results hold true in people, existing medications that target prostaglandins could be a powerful tool to promote muscle recovery in older adults, prevent further injury and disability, and improve quality of life.
+“The end goal is to help older adults regain muscle mass and strength after a period of inactivity, like bed rest following hip surgery, so a temporary setback doesn’t become a lasting loss of independence,” says Paul-Emile Bourrant, PhD, first author on the study, who did the research as a predoctoral researcher at University of Utah Health.
+“We want to help people regain their independence and get back to everyday activities—whether that’s grocery shopping, playing with their grandkids, or doing the things they enjoy.”
+An alarm that doesn’t turn off
+In a mouse model of muscle recovery, young mice rapidly regained their original strength after a period of muscle disuse, while old mice didn’t fully recover. But a low dose of ibuprofen helped old mice bounce back faster, the study found.
+Differences in recovery between old and young mice correlated with dramatically different levels of specific kinds of fatty acid molecules within muscles. A specific group of molecules called prostaglandins—which help regulate inflammation—stood out as especially distinct. In young individuals, a brief spike in prostaglandins helps kickstart muscle repair. It’s like an alarm that signals that the tissue is stressed and needs help. But in older individuals, that alarm never turns off.
+The same pattern happens in older people recovering from muscle disuse, the researchers found. Prostaglandins stay high for much longer. The researchers suspect this keeps muscles in an inflamed state, preventing full recovery.
+“Prostaglandins are important for the healing of muscle, but when they’re heightened and sustained, you get a chronic inflammatory response and the cells get stressed,” explains Micah Drummond, PhD, professor of pathology at U of U Health and senior author on the study.
+Ibuprofen appears to turn off the overactive alarm. The common over-the-counter medication turned down the pathway that produces prostaglandins, helping older mice regain strength and muscle mass.
+“Zombie cells” slow recovery
+The source of the excessive prostaglandins? “Zombie cells,” Bourrant says. As people age, their cells increasingly transition to a state called cellular senescence, in which they stop dividing and start producing molecules that can cause various aging-associated problems. In aging muscle, senescent immune cells produce excessive prostaglandins, preventing muscles from fully recovering. Excessive prostaglandins can also trigger healthy cells to become senescent, kicking off a harmful feedback loop.
+In cell culture experiments, the researchers found that reducing prostaglandin production from these ‘zombie cells’ helped preserve muscle cell size.
+Steps to faster recovery
+The researchers hope that their results can ultimately lead to therapies that help older adults bounce back quickly and completely after injury or illness. The fact that ibuprofen, an existing over-the-counter drug, had a positive effect on muscle function is promising. The team hopes that more specific inhibitors of the pathway that produces prostaglandins could be even more effective.
+Because prostaglandins are an important part of the early healing process, timing and dosage will be important considerations for future therapies. A low dose of ibuprofen improved muscle recovery in older mice, but a high dose—which may have interfered with the necessary early spike of prostaglandin signaling—didn’t help.
+“We’ve added a promising new piece to the puzzle of why older adults struggle to regain muscle mass and strength after a period of inactivity,” Bourrant says. “We don’t have the full picture yet, and that’s what makes science exciting. Each discovery brings us closer to helping people stay strong and independent as they age.”
+###
+The results are published in Aging Cell as “Excessive COX-Prostaglandin Signaling Promotes Cellular Senescence and Impaired Skeletal Muscle Recovery in Aging.”
+This work was supported by the National Institutes of Health, including the National Institute on Aging (R01AG076075) and the National Institute of Diabetes and Digestive and Kidney Diseases (5T32DK091317), as well as the American Heart Association (25PRE1362056 and 26POST1548675). Content is solely the responsibility of the authors and does not necessarily represent the official views of the funders.
+Journal
+Aging Cell
+Method of Research
+Experimental study
+Subject of Research
+Animals
+Article Title
+Excessive COX-Prostaglandin Signaling Promotes Cellular Senescence and Impaired Skeletal Muscle Recovery in Aging
+Article Publication Date
+13-Nov-2026
+COI Statement
+The authors declare no conflicts of interest.

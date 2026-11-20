@@ -1,0 +1,14 @@
+URL: https://futurism.com/artificial-intelligence/anthropic-riemann-hypothesis
+TITLE: Anthropic Mathematician Claims He’s Solved the Riemann Hypothesis Using Claude
+OUTLET: Futurism
+
+A mathematician at Anthropic claims to have used Claude to solve the Riemann Hypothesis, a Millennium Prize problem and almost certainly the most famous unsolved problem in the entire field of mathematics.
+The mathematician, Harvard University’s Levent Alpöge, announced the discovery in a statement.
+“The Riemann Hypothesis is the classic problem in number theory. It asks for optimal control on the count of prime numbers of a given size. Its shadows have guided mathematicians for 150 years, and its many rhymes and reflections, even reaching physics, taught us the unity of our fields,” said Alpöge. “I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis.”
+Should Alpöge’s proof be confirmed, it would mark an extraordinary breakthrough.
+The Riemann Hypothesis, proposed in 1859 by the German mathematician Bernhard Riemann, contends that there’s a complex order underpinning the random-seeming prime number placements on the number line. The hypothesis is the guiding force behind the field of number theory and is considered by many to be the most important unsolved problem in math.
+Along with his statement, Alpöge shared millions of lines of code written in the programming language Lean, which he says verify his findings. He’s yet to share a formal written paper, noting that the proof he created with Claude took up more than 250,000 pages.
+If verified by other experts, the discovery would cement AI’s capacity to help humans crack problems that have evaded human mathematicians for decades — and its future role in the world of math. In September, OpenAI announced that an advanced AI model had helped the company solve the Navier-Stokes problem, a claim that has sparked controversy about credit.
+Mathematicians have responded to AI’s growing role into their field with blend of excitement, curiosity, and sadness, a reality that Alpöge spoke to in his statement. Ultimately, though, Alpöge struck a tone of optimism about what the future may hold for humanity’s greatest problems.
+“It is natural to feel that this is an end, in my case a loss of a principal guiding light,” said Alpöge. “But what I saw during the course of progress so amazed me that I believe it is one dawn across science of something far greater.”
+More on AI and math: Sam Altman to Infuriated Mathematicians: The Math Slop Won’t Stop

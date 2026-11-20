@@ -1,0 +1,24 @@
+URL: https://www.independent.co.uk/tech/reimann-hypothesis-solved-levent-alpoge-b3088911.html
+TITLE: Anthropic mathematician claims to have proved Reimann hypothesis with help of Claude
+OUTLET: The Independent
+
+Become an Independent member to bookmark this article
+Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.
+Join today
+Already a member? Log in
+A mathematician working for the AI company Anthropic claims to have proved the Riemann hypothesis – the most famous unsolved problem in the mathematical world – using the large language model Claude.
+The hypothesis, first proposed in 1859 by Germany’s Bernhard Riemann, claims that the location of prime numbers along the number line are not random, but are instead determined by a meaningful order.
+It is of importance to mathematicians because it links the distribution of prime numbers to a precise pattern.
+The hypothesis was identified by influential mathematician David Hilbert in 1900 as one of his 23 mathematical challenges for the 20th century.
+In 2000, the Clay Mathematics Institute offered a $1 million reward for anyone who could prove the hypothesis.
+Anthropic’s Dr Levent Alpöge claimed the breakthrough in a statement posted to his website on Friday.
+“I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis,” he wrote.
+“It is natural to feel that this is an end, in my case a loss of a principal guiding light, but what I saw during the course of progress so amazed me that I believe it is one dawn across science of something far greater.”
+Dr Alpöge has released a version of the proof which is written in the computer code Lean, which is used to verify the mathematical correctness of arguments.
+Experts will now need to examine whether the work is properly coded and if the hypothesis has, indeed, been proved.
+Dr Alpöge, who holds dual United States and Turkish citizenship, has an MA from Harvard, a Master of Advanced Studies from the University of Cambridge, and a PhD from Princeton.
+In July, he made headlines when he posted a counterexample to the famous Jacobian conjecture, a well-known problem in the field of algebraic geometry.
+Like his work on the Riemann hypothesis, he had used Claude to make the discovery.
+“hello there the jacobian conjecture is false thanx to my close friend akhil for asking about it and my other close friend fable for working during the world cup final,” he posted on X (formerly Twitter).
+Dr Alpöge’s statement on the Riemann hypothesis on Friday was slightly longer and more erudite.
+“I hope the argument provides a glimpse towards the miracles that lie ahead, and shows us the joy and wonder we are about to find in the simplest things,” he wrote.
