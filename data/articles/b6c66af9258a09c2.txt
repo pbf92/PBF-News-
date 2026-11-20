@@ -1,0 +1,19 @@
+URL: https://www.ibm.com/think/news/anthropic-claude-riemann-hypothesis-math-proof
+TITLE: Anthropic mathematician claims AI helped solve a 167-year-old math mystery
+OUTLET: IBM
+
+A mathematician at Anthropic says he used Claude to solve one of mathematics’ most famous unsolved problems—a claim that could mark a historic breakthrough for artificial intelligence if it withstands scrutiny.
+The Riemann hypothesis, which has stumped mathematicians since 1859, concerns the distribution of prime numbers, the building blocks of arithmetic. On Friday, Anthropic mathematician Levent Alpöge announced that he believes he and the company’s AI system have developed a proof. Independent mathematicians have yet to verify the result, but one leading expert expressed optimism.
+“If this fully checks out, it is clearly a historic milestone in mathematics, establishing one of the great mysteries of the subject,” James Maynard, the Regius Professor of Mathematics at the University of Oxford and a 2022 Fields Medal winner, told IBM Think in an interview. “This result really stands out, even in the context of all the recent AI breakthroughs.”
+Prime numbers are numbers divisible only by 1 and themselves, such as 2, 3 and 5, and the Riemann hypothesis predicts a remarkably precise pattern in how they are distributed. Proving it would resolve a question that has baffled mathematicians since 1859 and deepen their understanding of the hidden structure of numbers.
+The Clay Mathematics Institute includes the hypothesis among its seven Millennium Prize Problems, each carrying a USD 1 million award.
+The claim follows a string of recent AI-assisted advances in mathematics, including work on longstanding conjectures and difficult theoretical problems. In a September interview with IBM Think, Fields Medal winner Terence Tao warned that AI could produce solutions faster than mathematicians could understand the discoveries behind them.
+In his announcement, Alpöge said the proposed proof also covered the generalized Riemann hypothesis, which extends the original conjecture to a broader family of mathematical functions.
+Rather than publish a conventional mathematical paper, Alpöge released his argument in Lean, a programming language and proof assistant that checks mathematical reasoning step by step. He acknowledged that the argument remained extraordinarily long and difficult to read.
+The unusual presentation of the proof leaves mathematicians with two tasks: determining whether the computer-checked proof establishes the claimed result and understanding the mathematical ideas behind it.
+“I suspect that the proof will turn out to be correct, although even checking the Lean verification will take some time,” Maynard said.
+For AI researchers, confirmation would provide striking evidence that advanced models can help mathematicians tackle problems that have resisted generations of researchers. Yet Maynard suggested that establishing the proof’s validity would not necessarily reveal why it worked.
+“So somewhat frustratingly, it looks like it will require quite a lot of work to really gain this understanding,” Maynard said.
+Achieve over 90% cost savings with Granite's smaller and open models, designed for developer efficiency. These enterprise-ready models deliver exceptional performance against safety benchmarks and across a wide range of enterprise tasks from cybersecurity to RAG.
+Put AI to work in your business with IBM's industry-leading AI expertise and portfolio of solutions at your side.
+Reinvent critical workflows and operations by adding AI to maximize experiences, real-time decision-making and business value.

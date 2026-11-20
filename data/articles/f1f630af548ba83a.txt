@@ -1,0 +1,101 @@
+URL: https://admiralmarkets.com/analytics/traders-blog/fed-rate-decision-december-2026-preview
+TITLE: Fed Meeting December 2026: Date and Time, Rate Hike Odds
+OUTLET: Admirals
+
+Fed Rate Decision December 2026: When It Lands and Whether the Fed Hikes 25 or 50 bp
+The December Fed meeting runs on 8 and 9 December 2026. The Federal Reserve announces its rate decision on Wednesday 9 December at 2:00 pm ET, which is 19:00 in London. Chair Kevin Warsh holds his press conference at 2:30 pm ET, according to FedRateCalc.
+Markets see a hike as close to certain, so the question is its size. CME FedWatch readings from 17 to 19 November put a 25 basis point (bp) hike at 90% to 97% and a 50 bp hike at 3% to 10%.
+The information in this article is provided for educational purposes only and does not constitute financial advice. Consult a financial advisor before making investment decisions.
+Risk warning: The value of shares can fall as well as rise, and you may get back less than you invest. CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money. This article is general information and should not be treated as investment advice.
+Fed Rate Decision December 2026: The Short Answer
+Source: FedRateCalc, CME FedWatch readings as listed in the pricing table below.
+The Fed raised rates by 25 bp on 16 September 2026, its first hike in three years, per Reuters via Kitco. It then held on 28 October in a 10-2 vote. Governor Lisa Cook and Cleveland Fed President Beth Hammack both wanted a 25 bp hike, per StockAnalysis.
+EUR/USD often reflects how the dollar trades around Fed decisions.
+When Is the Fed Meeting in December? Time in Your Time Zone
+The December Fed meeting date spans Tuesday 8 and Wednesday 9 December. Everything is published on Wednesday. Clocks in the US and Europe stay on winter time that week.
+Source: FedRateCalc, accessed 19 November 2026. Time-zone conversions are our own.
+How to Watch the Fed Press Conference
+It usually streams live on the Fed's YouTube channel and on major financial news networks, per Streamer Guide.
+The Fed Blackout Period
+The Fed blackout period runs from Saturday 28 November to Thursday 10 December, per eco3min. Officials generally refrain from public comment on policy in that window.
+What the November Minutes Told Us
+The minutes of the 27-28 October meeting, published on 18 November, read as hawkish. Our FOMC minutes analysis covers them in detail.
+Source: investingLive, ActionForex, 18-19 November 2026.
+25 or 50 Basis Points? What Fed Officials Are Saying
+The Case for 50 bp
+Governor Christopher Waller leads it. On 10 November he said 50 bp should be considered if core inflation ran near 0.3% again, per StockAnalysis. October core CPI rose 0.3%, above the 0.2% forecast, per StockAnalysis.
+On 18 November he went further in a CNBC interview. "If you're not going to signal this very clearly to markets you're going in January, my view is then you have to go 50 in December," Waller said, per Yahoo Finance.
+The Case for 25 bp
+New York Fed President John Williams spoke on 17 November. He said the situation does not call for "dramatic action", per Seoul Economic Daily. He also said the AI boom could push the Fed to raise rates further next year, per Axios.
+On Friday 20 November, Waller is scheduled to give welcoming remarks at 08:25 ET. Cook speaks at 12:15 ET, as listed in our Lisa Cook speech preview. This preview was written on 19 November, before both appearances.
+What Banks Expect
+Source: Reuters via Kitco, Stocktwits. Forecasts are not a reliable indicator of future performance.
+What Markets Are Pricing
+The Fed rate hike odds for December come from fed funds futures, which the CME FedWatch tool turns into probabilities. They move with every speech and data release.
+Source: CME FedWatch as reported by Kitco, Seoul Economic Daily, Investing.com and Trading Economics. Market pricing reflects expectations at the time of each reading and can change quickly. Forecasts are not a reliable indicator of future performance.
+Market pricing points to a 25 bp hike, though pricing can change quickly. Markets may react more to the signal about January and to the dot plot than to the hike itself.
+Futures also price more hikes after December. On 18 November markets had about 62 bp of hikes priced over the next three meetings, per investingLive.
+Data Before the Decision: PCE and the Jobs Report
+October PCE inflation and the November jobs report could both move the Fed rate hike probability. November CPI comes out one day after the decision.
+Source: FinanceCalendar (PCE), FinanceCalendar (Beige Book), BLS release schedule, eco3min, Admirals (20 November speakers), accessed 19 November 2026.
+Our October PCE preview covers the first of these. Release times sit in the Admirals economic calendar and our market calendar 2026.
+Dot Plot and Projections: Why December Matters
+The December 2026 dot plot shows where each official sees rates at each year-end. It may show how many more hikes officials expect in 2027.
+Source: FXStreet, 16 September 2026. Forecasts are not a reliable indicator of future performance.
+The September median kept the rate flat between end-2026 and end-2027. A 25 bp hike would take the range to 4.00%-4.25%, in line with that 2026 path.
+What Traders Often Watch in the Dots
+- The end-2027 median shows whether officials see more hikes next year.
+- The number of dots above the median shows the size of the hawkish camp.
+- The longer-run rate shows where officials see neutral policy.
+How Markets Could React to 25 or 50 bp
+Higher rates have often lifted the dollar and short-term yields. They can weigh on gold and rate-sensitive stocks. The size of any move tends to depend on the surprise against pricing.
+Source: Trading Economics (dollar), Trading Economics (yields), Trading Economics (gold), Investing.com. Past performance is not a reliable indicator of future results.
+Illustrative scenarios based on typical market mechanisms, not a forecast. Forecasts are not a reliable indicator of future performance.
+US Dollar and Treasury Yields
+Resilient US economic data have supported the dollar, per Trading Economics. A 50 bp surprise could add to that. A dovish 25 bp could take some of it away. Our December rate hike and Treasury yields analysis looks at the bond side.
+Gold and Stock Indices
+Higher rates raise the cost of holding gold, a non-yielding asset, per Trading Economics. A softer signal could help it. Stocks face the same two-way risk.
+Admirals offers CFDs on Forex and indices. It also offers CFDs on commodities such as gold. A demo account uses virtual funds, and results may differ from live trading. Prices can move sharply around a rate decision, and losses can build quickly on leveraged positions. Our guide on how to trade a Fed rate decision explains how traders often manage risk around the event.
+Frequently Asked Questions
+When is the next Fed meeting?
+The next Fed meeting runs on 8 and 9 December 2026. The rate decision follows on Wednesday 9 December.
+What time is the Fed decision on 9 December?
+The statement comes at 2:00 pm ET, which is 19:00 UK. Chair Warsh speaks at 2:30 pm ET.
+Will the Fed raise rates in December 2026?
+Markets price a December hike as close to certain. Market pricing reflects expectations, and the Fed can still surprise.
+Could the Fed hike by 50 basis points?
+It is possible. Waller argues for 50 bp without a clear January signal, but FedWatch priced only 3% to 10%.
+What is the current federal funds rate?
+The target range is 3.75% to 4.00%. The Fed set it on 16 September and held in October.
+When are the December FOMC minutes released?
+The Fed usually publishes minutes about three weeks after a meeting. That points to the end of December 2026.
+Some of the content on this page was created with the help of automated tools. All final text has been reviewed by Admirals and is under its editorial responsibility.
+The given data provides additional information regarding all analysis, estimates, prognosis, forecasts, market reviews, weekly outlooks or other similar assessments or information (hereinafter “Analysis”) published on the websites of Admirals investment firms operating under the Admirals trademark (hereinafter “Admirals”) Before making any investment decisions please pay close attention to the following:
+- This is a marketing communication. The content is published for informative purposes only and is in no way to be construed as investment advice or recommendation. It has not been prepared in accordance with legal requirements designed to promote the independence of investment research, and that it is not subject to any prohibition on dealing ahead of the dissemination of investment research.
+- Any investment decision is made by each client alone whereas Admirals shall not be responsible for any loss or damage arising from any such decision, whether or not based on the content.
+- With view to protecting the interests of our clients and the objectivity of the Analysis, Admirals has established relevant internal procedures for prevention and management of conflicts of interest.
+- The Analysis is prepared by an analyst (hereinafter “Author”). The Author Admirals is an employee /a contractor for Admirals. This content is a marketing communication and does not constitute independent financial research.
+- Whilst every reasonable effort is taken to ensure that all sources of the content are reliable and that all information is presented, as much as possible, in an understandable, timely, precise and complete manner, Admirals does not guarantee the accuracy or completeness of any information contained within the Analysis.
+- Any kind of past or modelled performance of financial instruments indicated within the content should not be construed as an express or implied promise, guarantee or implication by Admirals for any future performance. The value of the financial instrument may both increase and decrease and the preservation of the asset value is not guaranteed.
+- Leveraged products (including contracts for difference) are speculative in nature and may result in losses or profit. Before you start trading, please ensure that you fully understand the risks involved.
+Sources
+- Fed Meeting December 2026 (FOMC), FedRateCalc, accessed 19 November 2026.
+- FOMC press conference: how to watch, Streamer Guide, accessed 19 November 2026.
+- Fed Blackout Period: Calendar and Exact Rule, eco3min, accessed 19 November 2026.
+- FOMC Minutes: A couple of participants noted a hike of more than 25 bps could warrant consideration in December, investingLive, accessed 19 November 2026.
+- Fed Minutes Signal More Rate Hikes as AI Fuels Inflation and Financial Risks, ActionForex, accessed 19 November 2026.
+- US consumer prices rise 0.4% in October, StockAnalysis, accessed 19 November 2026.
+- Fed's Waller favors a December rate hike, StockAnalysis, accessed 19 November 2026.
+- Fed's Waller doubles down on a jumbo rate hike in December, Yahoo Finance, accessed 19 November 2026.
+- Fed's Waller Again Floats Half-Point Hike, Seoul Economic Daily, accessed 19 November 2026.
+- Top Fed official: AI boom could fuel more rate hikes in 2027, Axios, accessed 19 November 2026.
+- Goldman adds another rate hike to Fed outlook after hot inflation data, Reuters via Kitco, accessed 19 November 2026.
+- Markets Are Bracing For Another Fed Rate Hike In December, Stocktwits, accessed 19 November 2026.
+- CME FedWatch Tool, CME Group, accessed 19 November 2026.
+- Wall Street ends mixed in volatile session amid Nvidia questions, hawkish Fed bets, Investing.com, accessed 19 November 2026.
+- US Personal Income and Outlays (PCE), FinanceCalendar, accessed 19 November 2026.
+- Beige Book November 2026, FinanceCalendar, accessed 19 November 2026.
+- Schedule of Selected Releases for December 2026, U.S. Bureau of Labor Statistics, accessed 19 November 2026.
+- Fed raises 2026 interest rate forecast to 4.1%, FXStreet, accessed 19 November 2026.
+- US Dollar Index, Trading Economics, accessed 19 November 2026.
+- US 10-Y

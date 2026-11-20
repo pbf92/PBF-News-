@@ -1,0 +1,20 @@
+URL: https://www.cbsnews.com/news/anthropic-drug-discovery-claude-science-ipo/
+TITLE: Anthropic is betting AI can help conquer disease and generate big bucks in the bargain
+OUTLET: CBS News
+
+Fresh off its record-setting , Anthropic now must show investors that it can sustain growth and generate profits. The company has a plan for that: curing some of the world's gnarliest diseases.
+In its IPO prospectus, Anthropic states that AI holds the potential to "profoundly accelerate the rate of progress in biology and medicine, potentially curing diseases that have plagued humanity for millennia, including cancer, Alzheimer's disease, heart disease, rare genetic diseases, and the major infectious diseases."
+Anthropic co-founder and CEO Dario Amodei said in a post on X in August that he believes "it will actually be possible to cure most human disease in ~5-10 years, as crazy as it may sound to ordinary people and frankly to biologists as well (I used to be one!)."
+Speeding in the right direction
+Developing breakthrough drugs is among the most promising avenues of research for AI, potentially bringing treatments for a range of conditions to market much faster than is currently possible, according to scientists and industry analysts.
+"AI can accelerate research. It will help you get there faster, but it's not just speed — it's directional speed," Neerav Kaushal, an AI and molecular biology expert at Michigan Technological University, told CBS News. "Let's say you're at the top of the mountain and your aim is to find a drug for cancer that lies in the valley. AI will not just help you get down there faster — it will help you get down to the right valley where the drug is."
+For Anthropic, meanwhile, developing drugs could open up potentially enormous commercial opportunities. The company has partnered with biotech and pharmaceutical companies that use its Claude Science model for various purposes. Anthropic also operates its own AI-powered biology wet lab in San Francisco that has already made scientific discoveries.
+"If you can use a large language model to condense any part of the timeline, it is very economically valuable," Morningstar senior equity analyst Malik Ahmed Khan told CBS News.
+The challenge for Anthropic will be how it turns its life sciences research into profits. That could take time, Khan told CBS News.
+"How this becomes lucrative for Anthropic is a very important question, and I think it's a question Anthropic hasn't figured out yet," Khan said. "Coding is its best-proven use case, followed by cybersecurity applications, then financial and legal research."
+But the potential to move the needle for both Anthropic and its pharma partners is significant.
+"If you improve your drug's efficiency by a couple of percentage points, that can make a world of difference," Khan added. "You'll get asymmetric payouts in the sense that if a model can help with any part of the process, it's very economically valuable."
+For example, he expects a drug developer like Eli Lilly and Co., which partners with Anthropic to give its employees access to Claude, would be willing to pay "hundreds of millions or billions of dollars to make its arthritis drug 2% better than it is."
+A way to win hearts and minds by curing them?
+Developing potentially lifesaving drugs could have other benefits for Anthropic. By applying tools to the life sciences and using them to improve human life, the company could help shift the narrative around AI to a more positive one, according to experts.
+"If you are the AI company that helps advance some kind of cure or solution to a sickness or illness that's prevailed for quite some time, I think that gets you a ton more trust with consumers and end users," Khan said. "Because you end up becoming the company that is actually improving the quality of life for humans at large."

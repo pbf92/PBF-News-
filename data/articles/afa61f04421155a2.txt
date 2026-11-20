@@ -1,0 +1,18 @@
+URL: https://www.eurekalert.org/news-releases/1152717
+TITLE: Broadening the role of RNA: A messenger, a mediator, and now a condensate coordinator
+OUTLET: EurekAlert!
+
+Condensates have their roots in the Marine Biological Laboratory’s physiology course, and new research about these cellular compartments that act as hubs for facilitating biological reactions continues to reveal novel insights into how cells function.
+Among those continuing to push the field forward are members of the MBL’s condensate consortium, including Amy Gladfelter, a professor at Duke University, current co-director of the MBL physiology course, and former MBL physiology course student and past MBL Whitman Fellow Dragomir Milovanovic, a professor at the Charité Berlin University Institute of Biochemistry. Recently, Gladfelter and Milovanovic, along with fellow researchers—past Whitman Center Assistant Branislava Rankovic of the Institute of Biology at the Freie Universität Berlin, and Gladfelter’s student at Duke University, Zachary Geisterfer —published new evidence suggesting that RNA plays a vital structural role in organizing condensates at synapses, the sites where neurons communicate.
+Their finding adds a new dimension to our understanding of the role of RNA. “I think so much of the focus on RNA has been about protein coding, that RNA is primarily an information molecule,” explains Gladfelter. “But the work from this paper is really building up to the idea that RNA also acts as a scaffold, performing functions we’ve often associated with a cell’s cytoskeleton or protein components.”
+The group’s research shows that in neurons, RNA organizes synapsin-1, a protein involved in neurotransmitter release, into condensates. Condensates are specialized microenvironment hubs that need to form for many biological processes and chemical reactions to occur.
+“Condensates are cellular compartments, not enclosed by a membrane, where certain biomolecules can come together through multiple, reversible interactions,” explains Milovanovic. “By gathering, these biomolecules create a unique chemical entity which is more than the sum of its individual components as new properties emerge within the specialized microenvironment of the condensate.”
+By providing evidence that RNA has a structural role in forming condensates at synapses, this team of scientists has deepened our understanding of how cells organize and function, adding nuance to the long-standing scientific view of RNA primarily as an information carrier and messenger.
+Their findings may also influence future research into neurodegenerative diseases. “We really studied the basic principle underlying communication between neurons.” Milovanovic explains. “It’s important to establish this baseline because disruption of this process is the very early event in any kind of neurological or neurodegenerative disorder.” In this way, the team’s work bridges basic and translational biology, offering new insight into both the fundamental role of RNA in cells and its potential implications for human health.
+All four researchers—Gladfelter, Milovanovic, Rankovic, and Geisterfer—point to their time at the MBL as a key factor in bringing this work to fruition. “Our work was made possible by the MBL convening different people who are coming from all over the world to work together in the same space,” Gladfelter says. “Even 15 years in, condensates are still a really new area of research, and I think this work builds on the legacy of the convening power that the MBL has.”
+Journal
+Advanced Science
+Article Title
+RNA Promotes Synapsin Condensates That Organize Synaptic Vesicles in Live Neurons and Enable Localized Translation in Reconstituted System
+Article Publication Date
+21-Aug-2026

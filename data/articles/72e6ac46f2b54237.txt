@@ -1,0 +1,29 @@
+URL: https://nypost.com/2026/11/20/business/anthropic-researcher-claims-claude-cracked-legendary-1m-math-problem-and-left-him-struggling-to-keep-up/
+TITLE: Anthropic researcher claims Claude cracked legendary $1M math problem — and left him struggling to keep up
+OUTLET: New York Post
+
+Levent Alpöge, a Long Island, NY-raised math prodigy who previously worked with a New York University professor on another famously difficult mathematical problem, said Claude made critical breakthroughs that surpassed his own expertise.
+Alpöge claimed the AI-powered method resolves the Generalized Riemann Hypothesis, a broader version of the problem, with both arguments formally verified using Lean, a computer program designed to check mathematical proofs.
+The extraordinary claims have yet to be independently established.
+Advertisement
+The Riemann Hypothesis, which concerns the distribution of prime numbers, is among seven Millennium Prize Problems designated by the Clay Mathematics Institute in 2000, with a $1 million reward for solving each.
+Alpöge said he dreamed of tackling the problem since his student days, spending years familiarizing himself with mathematical techniques that might eventually prove useful.
+But when he and Claude began combining two different approaches, the AI suddenly accelerated beyond what he could follow.
+Advertisement
+“Claude far outpaced me near the finish line,” he wrote.
+“No, Claude flew, and danced, and sparkled near that finish line.”
+Alpöge described an elaborate argument involving advanced number theory, automorphic forms and chains of mathematical operations known as theta lifts.
+Advertisement
+The crucial breakthroughs came Sunday, according to a timeline he published, with the purported proof of the Generalized Riemann Hypothesis completed the following day.
+The work became so sprawling that Alpöge acknowledged he had not yet mastered all the mathematics involved.
+He said an attempt to produce a conventional written explanation ballooned beyond 250,000 pages, prompting him to release the argument only in Lean, a computer program that rigorously checks mathematical proofs for logical errors.
+Advertisement
+“I decided to only present Lean,” he wrote, explaining that he considered it inappropriate to publish an enormous, unreadable manuscript.
+The claimed breakthrough comes amid an escalating race between Anthropic and rival OpenAI to demonstrate that artificial intelligence can solve mathematical problems that have resisted generations of researchers.
+Morning Report delivers the latest news, videos, photos and more.
+Thanks for signing up!
+But the announcement sparked a bitter dispute with NYU mathematics professor Tristan Buckmaster, who alleged the ChatGPT maker may have used research he developed with Alpöge while working on a related fluid dynamics problem.
+Buckmaster also accused OpenAI scientist Sébastien Bubeck of threatening his career after he declined to collaborate on a joint announcement.
+Advertisement
+Bubeck denied making a threat but acknowledged using a “poor choice of words.”
+OpenAI maintained that no user data was incorporated into the model to solve the problem, while acknowledging it could not rule out that anonymized data had been used to improve its systems.

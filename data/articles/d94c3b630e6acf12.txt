@@ -1,0 +1,23 @@
+URL: https://www.tradingview.com/news/benzinga:21632e43e094b:0-ge-vernova-stock-plunges-amid-ai-selloff-and-profit-taking/
+TITLE: GE Vernova Stock Plunges Amid AI Selloff and Profit-Taking
+OUTLET: TradingView
+
+GE Vernova Stock Plunges Amid AI Selloff and Profit-Taking
+GE Vernova Inc. GEV shares are sinking Friday as a wider AI selloff weighs on stocks linked to data center infrastructure.
+- GE Vernova shares are retreating from recent levels. Why is GEV stock dropping?
+GE Vernova Stock Falls as AI Infrastructure Sells Off
+Traders are locking in gains on AI names, and scrutiny of Anthropic PBC ANT is intensifying after its IPO. Anthropic’s sequential growth rate dropped by 101 percentage points, Seaport Global analyst Jay Goldberg noted, from 144% to 43% between the second and third quarters.
+To justify its valuation, Goldberg said, Anthropic must keep revenue climbing at a high double-digit rate each quarter for the next two years.
+Building and controlling its own data-center capacity is another major execution risk, Goldberg said, noting that meeting all of Anthropic’s commitments would take about $900 billion of cash flow, around $640 billion of it by 2030.
+That plan matters for GE Vernova. Cooling growth or strained funding at Anthropic could slow spending on data center capacity, which might weigh on data center infrastructure companies like GE Vernova.
+The offering is also absorbing cash. Dan Ives of Yorkville Ives & Co argued it is pulling some liquidity away from other tech stocks, which could leave less money for names such as GE Vernova.
+Financing Costs and Trump’s Data Center Stance Add Pressure
+The era of self-funded data centers is ending. Cash flow from operations covered the buildout through most of the last decade, yet this year the money has not stretched far enough.
+Debt now bridges the gap. According to Bank of America’s count, Oracle, Microsoft, Meta, Alphabet and Amazon raised $121 billion through U.S. bond sales in 2025, more than four times the $28 billion annual average of 2020 through 2024. The expansion depends on bond investors’ willingness to lend.
+That funding shift is worth watching for GEV because the AI-driven power boom depends on hyperscalers continuing to build data centers at an aggressive pace. If higher borrowing costs or tighter credit markets eventually slow those investments, demand for the generation and grid infrastructure that GEV supplies could moderate as well.
+Washington’s policy stance adds uncertainty over expansion abroad. President Donald Trump is lobbying the Senate for the American Affordability and Jobs Act, a bill Trump says would fast-track energy projects and oblige data centers to pay their own power bills.
+Trump added a warning that China could capture data center spending the U.S. spurns.
+On Monday, the Commerce Department also began requiring licenses for advanced AI chip exports to Brazil, Indonesia, Malaysia, Singapore and Thailand, which Washington says carry a higher-than-normal risk of diversion.
+Slower AI infrastructure spending or tighter limits on overseas buildouts could weigh on companies tied to data center buildouts, GE Vernova among them.
+GEV Shares Are Plummeting
+GEV Price Action: GE Vernova shares were down 7.09% at $702.65 at the time of publication on Friday, according to Benzinga Pro.Disclaimer Preview Image: T. Schneider/Shutterstock

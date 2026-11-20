@@ -1,0 +1,27 @@
+URL: https://www.straitstimes.com/world/united-states/anthropic-researcher-says-ai-chatbot-claude-solved-maths-greatest-riddle
+TITLE: Anthropic researcher says AI chatbot Claude solved math’s greatest riddle
+OUTLET: The Straits Times
+
+Anthropic researcher says AI chatbot Claude solved math’s greatest riddle
+AI generated
+WASHINGTON - A researcher at AI company Anthropic said on Nov 20 that he had used the firm’s Claude chatbot to prove the Riemann Hypothesis, a problem that has eluded mathematicians for more than 160 years.
+First proposed by German mathematician Bernhard Riemann in 1859, the hypothesis concerns the distribution of prime numbers and is widely regarded as the most important open question in pure mathematics.
+“I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis,” Levent Alpoge wrote in a four-page note released on Nov 20.
+The claim has not been independently verified, and the proof has not yet been reviewed by outside experts.
+“It’s a monumental moment in human history. It’s really the biggest thing I think that’s ever happened in mathematics,” Brian Conrey, a leading specialist on the Riemann Hypothesis, told AFP.
+“I really did not see this coming at all,” he said, adding that he had not yet seen a manuscript, only the remarks Alpoge posted on his website, and had asked for a copy.
+“It looks like it’s seriously complicated. I don’t think any human was about to find this,” Conrey said, adding that he believed “there will be simpler ways to do it.”
+The Riemann Hypothesis is one of seven Millennium Prize Problems selected by the Clay Mathematics Institute in 2000, which offers US$1 million (S$1.28 million) for a solution to each.
+Under the institute’s rules, a solution must be published in a peer-reviewed journal and withstand two years of scrutiny.
+Alpoge said the method also resolves a broader version of the problem known as the Generalized Riemann Hypothesis.
+He said he with help of Claude had produced a version of the proof in Lean, a programming language that allows mathematical arguments to be checked by computer, and that he was releasing only that version for now.
+A full written argument would be extremely long, he said, adding that he had not yet mastered all of the mathematics involved and planned to write it up properly.
+No ‘machine god’
+Alpoge said he had consulted Anthropic chief executive Dario Amodei before announcing the result, and acknowledged that its timing could be viewed cynically, without elaborating.
+The announcement came the day after Anthropic’s record stock market debut.
+In August, Anthropic said an unreleased version of Claude had improved a long-standing result related to the Riemann Hypothesis, while stressing that it had not proved it.
+Anthropic did not immediately respond to a request for comment from AFP.
+The claim comes two months after rival OpenAI said an AI model had solved another Millennium Prize Problem, on the equations that govern how fluids move. Mathematicians say that proof appears correct but has yet to be fully vetted.
+Alpoge, who had worked on related fluid problems with New York University mathematician Tristan Buckmaster, was at the centre of a dispute over credit for that work. OpenAI denied wrongdoing.
+Nestor Guillen, a visiting professor of mathematics at New York University, said he was glad that “this time there might not be any of the same corporate controversy.”
+He praised Alpoge for being open that he did not yet fully understand the proof, saying the back-and-forth he described showed AI working “more like a tool” and helped dispel “this idea of the machine god.” AFP

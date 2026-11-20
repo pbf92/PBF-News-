@@ -1,0 +1,31 @@
+URL: https://www.claimdepot.com/cases/meta-class-action-alleges-facebook-crypto-scam-ads-cost-man-his-800k-life-savings
+TITLE: Meta steered crypto scam victims toward fake recovery ads, a new class action claims.
+OUTLET: Claim Depot
+
+Sean Evans filed a class action lawsuit against Meta Platforms Inc. on Nov. 10, 2026, in the U.S. District Court for the Northern District of California.
+The lawsuit claims Meta's ad tools helped build cryptocurrency scam ads and target users on Facebook and Instagram. It also alleges Meta allowed them to run because they made it money.
+Two alleged scams
+Evans claims a Facebook ad for Paxvestors, a supposed crypto investment firm, led him to invest about $50,000. He alleges he realized it was a scam when the site demanded a tax before he could withdraw.
+Meta's ad systems then reportedly began showing him crypto recovery ads, including some that appeared to come from a real law firm that represents Meta.
+The alleged fake page used the firm's real New York address and phone number along with AI-generated videos of its attorneys, the complaint says.
+Evans claims he kept paying a man posing as one of the firm's real partners, even taking out a $100,000 loan, until the man stopped responding. Across the two scams, he reportedly lost all $800,000 of his savings and had to come out of retirement.
+What Meta allegedly knew
+The class action cites internal Meta documents showing:
+- In 2024, Meta estimated about 10% of its revenue, roughly $16 billion, came from scam ads.
+- An anti-fraud team cut scam ads from China from about 20% of ads to 9% before leadership disbanded it; those ads brought in about $3 billion a year
+- Anti-fraud teams could not act against an advertiser responsible for more than 0.15% of Meta's revenue.
+- Meta pulled ads only when it was at least 95% sure they were scams and charged suspected scammers higher rates.
+Meta's own ad tools, including Advantage+ and Ad Manager, allegedly built the scam ads' images and wording while its Andromeda system aimed them at likely victims, according to the proposed class action.
+The complaint also claims that Meta dropped fraud and scams from its list of prohibited conduct in September 2026. Its enforcement rules still say Meta will remove content that breaks its community standards.
+The legal claims
+The lawsuit brings six claims:
+- Negligence over Meta's alleged failure to protect users from scam ads it knew about
+- California's Unfair Competition Law, which bars unlawful, unfair and fraudulent business practices
+- Breach of contract, arguing Meta broke promises in its terms of service to remove scam content
+- Breach of the implied covenant of good faith and fair dealing, a duty not to undercut the other side's benefit from a contract
+- Aiding and abetting for helping scammers carry out their fraud
+- Unjust enrichment, alleging Meta should not keep revenue from scam ads
+Evans seeks compensation for victims' losses, punitive damages, the profits Meta made from the scam ads, a court order changing its ad practices and legal costs.
+What the lawsuit means for Facebook and Instagram users
+The proposed classes cover anyone in the United States who sent money after seeing a crypto investment or crypto recovery ad on Facebook or Instagram and never got the money back or the promised recovery.
+There is no settlement, no claims process and no money available at this time.

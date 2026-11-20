@@ -1,0 +1,35 @@
+URL: https://www.eurekalert.org/news-releases/1152708
+TITLE: Wearable heart monitor moves from lab to clinical trial
+OUTLET: EurekAlert!
+
+Originally invented through ground-breaking research at RMIT University and now being developed by Aussie start-up Lubdub, the wearable wireless patch continuously tracks the heart’s rhythm for up to 14 days – giving doctors the same detailed information as a medical grade electrocardiogram (ECG) Holter monitor.
+Patients prescribed a Holter monitor will wear the prototype ECG patch as part of the trial starting this week at Midlands Medical Specialists in Perth, Western Australia.
+Designed for use beyond hospitals, the technology aims to make high-quality heart rhythm monitoring more accessible by collecting data as patients go about their daily activities.
+RMIT Professor and Lubdub co-founder Sharath Sriram said the ECG patch was the first of three heart-monitoring technologies Lubdub planned to bring together in a single software platform, alongside biomarker testing and wearable ultrasound imaging.
+The University recently licensed the intellectual property for the ECG and biomarker inventions to the company.
+Earlier testing involving healthy volunteers found the prototype was comfortable to wear and produced promising results, Sriram said.
+“The flexible sensors make better contact with the skin than those used in traditional Holter monitors,” he said.
+As a result, the data collected by the patch was 18-times cleaner compared with the traditional Holter monitors.
+"By reducing the work needed to generate cardiac reports, the technology could allow the same workforce to monitor up to 85% more patients before other enabling tools like AI are implemented,” he said.
+The clinical trial will gather evidence to support the technology’s further development and potential regulatory approval.
+Momentum builds
+Sriram said the technology has attracted strong interest from medical experts because of its potential to reduce delays between symptoms and treatment and improve access to cardiac monitoring in both metropolitan and rural and remote parts of the world.
+“Despite the high prevalence of cardiovascular disease – responsible for a third of deaths globally and nearly a quarter in Australia – early symptoms are often missed,” he said.
+“The majority of heart failure diagnoses and hospital admissions are unplanned and occur in emergency situations, with many patients reporting symptoms for years earlier.
+“Our innovation is about simpler and more effective screening, because prevention is better than cure.”
+The Heart Foundation chose Lubdub as one of its 10 most promising heart health projects for 2026.
+In September, the company announced an oversubscribed $6 million seed funding round, doubling its original $3 million target. The round was backed mainly by physicians and heart specialists.
+Heart health in a box
+Lubdub ultimately aims to combine wearable ECG monitoring, non-invasive cardiac biomarker testing and wearable ultrasound imaging into a single platform.
+Accessing the right diagnostic tests can still be a lengthy and fragmented process for people with potential heart conditions.
+Depending on their symptoms, patients may need ECG monitoring, blood tests, or an echocardiogram, often involving different appointments, specialists and facilities.
+For Lubdub Co-Founder and Director Nikhilesh Bappoo, the problem is personal.
+A few years ago, Bappoo’s father suffered a heart attack in Perth and received timely specialist care.
+The experience prompted Bappoo to reflect on the more limited access to specialist healthcare in Mauritius, where he grew up.
+“Had it happened there, the outcome could have been very different,” he said.
+The experience strengthened Bappoo’s determination to make heart testing more accessible, particularly where cost, limited infrastructure, shortages of specialists and lengthy waits for results can delay diagnosis and treatment.
+From research to commercialisation
+Lubdub’s ongoing partnership with RMIT includes research grants and contracts, as well as access to pilot manufacturing facilities at Discovery to Device.
+RMIT’s Deputy Vice-Chancellor Research and Innovation, Distinguished Professor Calum Drummond AO, said the licensing agreement with Lubdub showed how university research could be translated into new products and practical benefits.
+“Lubdub is focused on making a real difference to heart health through cutting-edge electronics invented right here at RMIT,” he said.
+The University will continue working with Lubdub as the company tests and advances the technology towards regulatory approval.

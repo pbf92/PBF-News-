@@ -1,0 +1,11 @@
+URL: https://www.tradingview.com/news/tradingview:0379e53fd62ed:0-securities-and-exchange-commission-proposes-direct-control-of-audit-trail/
+TITLE: Securities and Exchange Commission Proposes Direct Control of Audit Trail
+OUTLET: TradingView
+
+The SEC proposed rescinding Rule 613 and requiring SROs and broker-dealers to report substantially the same CAT data to the Commission or its designee. The proposal would use congressional appropriations for CAT costs; comments are open for 60 days after Federal Register publication.
+Material Details
+Context by AI Analyst
+This is a proposed regulatory change following an SEC review and earlier CAT cost and data adjustments, not a final rule. Publication in the Federal Register, public comments, and the SEC's decision on adoption will determine whether the governance and funding shift takes effect.
+Based on the original press release from Securities and Exchange Commission distributed by TMX Newsfile.
+Disclaimer
+This is an AI-generated summary and may contain inaccuracies. Summary is based on content distributed by TMX Newsfile. Please verify any important information with the original source. This information is not a recommendation for what you should do personally and does not constitute investment advice.

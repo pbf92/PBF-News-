@@ -1,0 +1,47 @@
+URL: https://finchannel.com/riemann-hypothesis-proof-claimed-by-anthropic-mathematician-using-claude/142504/ai/2026/11/
+TITLE: Riemann hypothesis proof claimed by Anthropic mathematician using Claude
+OUTLET: finchannel
+
+The FINANCIAL — Anthropic mathematician Levent Alpöge said on November 20 that he believes he and the company’s Claude artificial intelligence model have discovered a proof of the Riemann hypothesis. His announcement presents a claimed solution to the 167-year-old mathematics problem, with a conventional written explanation still to follow.
+The Clay Mathematics Institute’s problem page continued to list the hypothesis as unsolved on Friday. The institute has allocated a $1 million prize for a qualifying solution under rules requiring publication and acceptance by the mathematics community.
+The Wall Street Journal reported Alpöge’s claim Friday, describing the announcement as coming from a mathematician employed by Anthropic. The report did not announce a Clay prize award.
+Anthropic did not immediately respond to its request for comment.
+A short announcement links to formalized arguments
+In a four-page note on his website, Alpöge says the method also resolves the Generalized Riemann Hypothesis. He separately expresses an expectation that it could extend further with additional work. Those statements are his claims about the scope of the argument.
+The note links to 14 parts of a compressed archive and says he and Claude formalized the arguments. Alpöge describes the argument as extremely long and says he intends to understand it more fully, explain it in talks and prepare a proper written presentation.
+He says he chose to release Lean material rather than a vast machine-generated exposition. He also describes guiding the initial mathematical direction before Claude advanced more rapidly near the end. His account attributes the work to a collaboration with the model.
+The conjecture concerns the distribution of primes
+Bernhard Riemann formulated the hypothesis in 1859. The Clay institute explains that the prime number theorem describes the average distribution of prime numbers, while the Riemann hypothesis concerns deviations from that average.
+Prime numbers include 2, 3, 5 and 7. They cannot be expressed as the product of two smaller positive integers greater than one. Riemann connected their distribution with the behavior of the zeta function, a mathematical function whose zeros contain information about the primes.
+The hypothesis asserts that the relevant, nontrivial zeros all have real part one-half. Clay’s explanation says the claim has been checked for the first 10 trillion zeros. Establishing the statement for every such zero is the problem for which a proof is sought.
+Publication and a waiting period precede prize consideration
+The Riemann hypothesis is one of the seven Millennium Prize Problems announced in Paris on May 24, 2000. The Clay institute designated a $7 million fund, allocating $1 million to a solution of each problem.
+The problems were selected by the institute’s founding Scientific Advisory Board after consultation with leading mathematicians. Riemann’s conjecture also appeared among the 23 problems discussed by David Hilbert in his address in Paris on August 9, 1900.
+Clay’s prize rules require a proposed solution to appear in a qualifying publication, at least two years to elapse after that publication, and the work to achieve general acceptance in the global mathematics community. The institute does not accept proposed solutions submitted directly to it.
+The rules also require a complete answer to the questions in the official problem description. A qualifying outlet generally includes a refereed mathematics publication of worldwide repute, with a named editorial board and an expert review process. Clay retains discretion over publication eligibility and prize decisions.
+A special advisory committee may examine a proposed solution if Clay decides detailed consideration is warranted. Under the published procedure, that committee would have at least three members, including at least two experts in the problem’s area. A public announcement alone does not complete those procedures.
+Lean separates proof construction from checking
+Lean is a programming language and theorem prover used to represent mathematical statements and their proofs. Its developers explain in their official FAQ that proof scripts produce an explicit mathematical object, which a small component called the kernel then checks.
+The system’s design allows proof-construction tools to be more complex than the component responsible for checking the result. Proof objects can also be exported for checking in a separate process, on another machine or with an independently implemented checker, according to the documentation.
+The manual’s guide to validating a Lean proof distinguishes whether a statement has a valid proof from whether the formal statement expresses the intended mathematical claim. It says Lean can establish the former, while the meaning of the statement and its definitions also requires examination.
+The guide describes a tool called comparator, which compares a submitted solution with theorem statements specified in a trusted environment. Subject to the tool’s requirements, a successful check establishes that the statements and their dependent definitions match, that configured checkers accept the proofs and that only permitted assumptions were used. The guide also lists limitations, including possible human error in the trusted statement.
+Lean’s reference manual on axioms describes another part of the verification process: identifying the assumptions on which a theorem depends. The manual warns that introducing an inconsistent assumption can allow false statements to be proved within the resulting system.
+The documentation identifies standard assumptions used in ordinary Lean mathematics, including the axiom of choice. It separately describes sorryAx, associated with placeholders for unfinished proofs, as unsuitable for finished work because it can be used to prove any statement.
+A command called #print axioms displays the assumptions on which a declaration depends, including dependencies inherited through other results. These are general features of Lean. They do not constitute an audit or a finding about Alpöge’s newly released files.
+The FINANCIAL previously examined formal verification and the CSLib project, an effort to build machine-checkable computer-science knowledge in Lean. That work concerns a shared framework for verified results, separate from the mathematical validity of Friday’s announcement.
+Anthropic reported a narrower result in August
+In an August 10 research announcement, Anthropic said an unreleased research version of Claude had improved a lower bound on the proportion of zeta-function zeros satisfying the hypothesis from 41.6% to 67.2%. The company explicitly said that attempt had failed to prove the full hypothesis.
+Anthropic said the partial result drew on earlier research by human mathematicians. Alpöge and colleague Ralph Furman examined the work, while outside specialists Brian Conrey and Dan Goldston reviewed the paper on short notice. The company also described a Lean formalization of that earlier result.
+The August experiment involved two sessions in Claude Code and 31 million output tokens, according to the company. Anthropic said an initial set of 650 ideas failed, followed by a more extensive attempt involving about 60 subagents and 2,400 shell commands.
+The company said at the time that it did not expect those techniques to prove the Riemann hypothesis. Its August announcement concerns the partial bound reported then; Alpöge’s November note makes a subsequent, broader claim.
+A number theorist trained at U.S. universities
+Alpöge’s curriculum vitae lists a doctorate in mathematics from Princeton University in 2020, supervised by Manjul Bhargava. His thesis was titled Points on Curves. The document also lists mathematics and physics degrees from Harvard in 2014 and a Cambridge mathematics degree in 2015.
+The CV records an NSF postdoctoral fellowship spanning Columbia and Harvard from 2020 to 2022, and a Harvard Society of Fellows junior fellowship from 2021 to 2025. These are the dated appointments in the document, rather than a description of his current university employment.
+His listed research includes work on integral points on elliptic curves, rational points on genus-two curves and low-lying zeros of mathematical functions. His current personal website identifies his affiliation with Anthropic.
+FAQ
+Has the Riemann hypothesis been accepted as solved?
+Clay’s official problem page still lists it as unsolved. Alpöge has announced a claimed proof; that announcement is separate from formal prize recognition.
+Would a correct proof automatically receive $1 million?
+No. Clay’s published rules require qualifying publication, a waiting period of at least two years and general mathematical acceptance before prize consideration.
+What role does Lean play?
+Lean provides a formal language for statements and proofs, with a kernel that checks proof objects. Its documentation also describes independent checking of those objects.
