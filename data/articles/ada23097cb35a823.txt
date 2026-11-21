@@ -1,0 +1,27 @@
+URL: https://nypost.com/2026/11/21/tech/uc-gives-students-free-access-to-chatgpt-despite-faculty-pushback/
+TITLE: California colleges strike major AI deal as educators rage at machine learning: ‘Homogenized slop’
+OUTLET: New York Post
+
+The University of California is putting artificial intelligence in the driver’s seat of higher education, signing a $1.2 million-a-year deal with OpenAI to give students access to ChatGPT and other AI tools — despite professors warning the technology could undermine the very education they’re paying to provide.
+The systemwide partnership will bring OpenAI’s technology to UC campuses in the coming weeks, including ChatGPT Edu and Codex, the company’s coding tool.
+The agreement covers basic AI models, while individual campuses and users will have the option to purchase access to more advanced versions at discounted rates.
+Advertisement
+The deal expands on a 2024 campus-by-campus agreement with OpenAI, with UC President James B. Milliken touting the latest arrangement as a way to make the technology more accessible while protecting student data and cutting costs.
+“This purchase will help ensure equitable access to these widely used tools while providing stronger data protections and lower costs,” Milliken wrote in a letter to faculty.
+But the commitment reportedly caught members of UC’s Academic Senate off guard, with faculty leaders raising concerns late last month that administrators had failed to sufficiently consult educators before moving forward.
+Advertisement
+“The Academic Senate believes it is unwise to provide students with universal access to a tool capable of performing the academic work required to earn a degree without first addressing the concerns of the faculty who are responsible for curriculum, teaching, and academic integrity,” Academic Senate Chair Susannah Scott said in a statement.
+A UC spokesperson pushed back on claims that faculty had been left out, telling EdSource that the senate had been consulted.
+“Their feedback has been thoughtful and helpful,” the spokesperson wrote in a statement. “The University will continue working with the Academic Senate and other faculty groups on best AI practices to support teaching and learning.”
+Advertisement
+Multiple professors have blasted the technology as detrimental to student learning amid reports of faculty having to teach college students basic math skills. The deal may make things worse, they feared.
+“ChatGPT reduces learning, and substitutes homogenized slop in place of the productive struggle of careful reading, discussion and writing,” Greg Leazer, an associate professor of information studies at UCLA, told the Los Angeles Times.
+The criticism comes amid broader concerns about declining academic skills, including reports of college instructors having to teach students basic math.
+Advertisement
+Milliken has stressed that providing access to the technology does not require students or professors to use it, nor does the agreement establish any new academic policies.
+Supporters have argued the partnership is about giving all students access to tools that wealthier classmates can already afford, rather than allowing AI to become an advantage reserved for those who can pay for premium services.
+But some educators say the technology is being forced on them whether they want it or not.
+Advertisement
+Professors recently told The Post they feel AI is being “shoved down” their throats.
+UC Berkeley mathematics professor Richard Borcherds, who made headlines last month for no longer grading his students’ homework due to AI, said he now bases grades mainly on in-person exams with no electronic devices allowed.
+“Online exams are now a waste of time as several students just use AI to answer the questions,” he said. “I cannot tell which students are using AI, but I notice the average score increases a lot in online exams.”

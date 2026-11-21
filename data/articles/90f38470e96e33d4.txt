@@ -1,0 +1,19 @@
+URL: https://medicaldialogues.in/amp/pediatrics-neonatology/news/febrile-seizures-generally-do-not-affect-school-performance-jama-182560
+TITLE: Febrile Seizures Generally Do Not Affect School Performance: JAMA
+OUTLET: Medical Dialogues
+
+The nationwide Danish study, published in JAMA Network Open by Julie Werenberg Dreier, National Centre for Register-Based Research, Department of Public Health, Aarhus University, Aarhus, Denmark, and colleagues, examined whether febrile seizures were associated with later performance in standardized reading and mathematics tests. Febrile seizures affect approximately 2% to 5% of children and can cause considerable parental concern about possible long-term effects on cognitive development.
+The researchers analyzed registry data from children born in Denmark between 1997 and 2009 who participated in the Danish National School Test Program between 2010 and 2019. The analysis included 672,119 children aged 7 to 17 years, including 26,173 children with a history of febrile seizures. Academic performance was assessed using national percentile scores from standardized reading and mathematics tests.
+Key findings were:
+- Children with febrile seizures had a mean combined test score of 54.7 compared with 55.8 among children without febrile seizures.
+- After adjustment for demographic, birth, and family-related factors, the overall difference was only −0.4 percentile points.
+- The difference was slightly greater among girls, at −0.7 points, while the difference among boys was −0.2 points.
+- Academic performance declined progressively with increasing febrile seizure-related hospital contacts, reaching −5.8 points among children with seven or more contacts.
+- Epilepsy occurred in 3.2% of children with febrile seizures compared with 0.9% of unaffected children.
+- Children with both febrile seizures and epilepsy had a substantially lower mean test score, with an adjusted difference of −7.2 points compared with children who had neither condition.
+- Scores were also marginally lower among children with febrile seizures than their unaffected siblings, with a difference of −0.6 points.
+Febrile seizures alone were not associated with meaningful differences in later school performance. However, academic scores declined with recurrent seizure-related hospital contacts and were substantially lower among children who later developed epilepsy, highlighting the need for closer educational monitoring in these groups.
+The study was limited by reliance on hospital registry data, which lacked detailed seizure characteristics, and exclusion of children outside the national testing program, including some special-education settings. However, its large nationwide cohort, long-term follow-up, and standardized assessments strengthened the findings.
+Overall, the results provide reassurance for most children with febrile seizures, while suggesting that those with recurrent episodes or subsequent epilepsy may benefit from additional educational support.
+Reference:
+Dreier JW, Trabjerg BB, Wimberley T, Feenstra B, Christensen J. Febrile Seizures and School Performance. JAMA Netw Open. 2026;9(9):e2631273. doi:10.1001/jamanetworkopen.2026.31273

@@ -1,0 +1,57 @@
+URL: https://www.stocktitan.net/news/ALMR/jama-study-using-alamar-biosciences-nulisa-assay-links-blood-e-mtbr-qme2umpj1bts.html
+TITLE: A blood protein rose with brain tangles in former football players. The disease is confirmed after death.
+OUTLET: Stock Titan
+
+JAMA Study Using Alamar Biosciences’ NULISA Assay Links Blood eMTBR-tau to Tau tangle Burden in Former Football Players with Advanced CTE
+Sentiment and the balance of points
+Rhea-AI Sentiment reads the wording of the document, how positive or negative its language is on a 1 to 5 scale. The balance of points shown with the takes weighs what the document actually discloses, so the two can disagree, for example when a trial that missed its main goal is described in upbeat language.
+Rhea-AI Summary
+Alamar Biosciences (ALMR) announced a JAMA study that used its NULISA blood test and linked higher eMTBR-tau levels to more tau tangles in the brain.
+The study included 21 former American football players who gave blood during life and later donated their brains. Eighteen had chronic traumatic encephalopathy (CTE), including 16 with high-stage disease. Blood levels of eMTBR-tau, a protein fragment, were higher in players with high-stage CTE than in those with low-stage or no CTE.
+The test is not diagnostic or available for clinical use. CTE can still be confirmed only by examining the brain after death, and the researchers said the findings need validation in larger, more diverse groups.
+Positive
+- Minor pointAlamar’s NULISA assay measured higher blood eMTBR-tau in high-stage CTE than in low-stage or no CTE
+- Minor pointBlood eMTBR-tau levels rose with the amount of tau tangles in the brain
+- Minor point. Forward-looking: it has not happened yet and may not happen.The two blood markers may help researchers distinguish CTE from Alzheimer’s disease
+- Minor pointA separate JAMA study used a NULISA-based assay to assess tau pathology in plasma from 728 research participants
+Negative
+- Minor pointAlamar’s assay is not a diagnostic tool and is not available for clinical use
+- Minor pointThe early study included 21 former football players and needs validation in larger, more diverse groups
+News Explained
+Researchers found p-tau217 elevated only in people with Alzheimer’s pathology and not associated with CTE; together with eMTBR-tau, it may help researchers distinguish the conditions.
+Key Figures
+- Study participants
+- 21 former American football players
+- Blood samples were collected during life; participants later donated their brains for research
+- Participants with CTE
+- 18 participants
+- Of the 21 former players in the study
+- High-stage CTE cases
+- 16 participants
+- Among the 18 participants with CTE
+- CTE cases with Alzheimer’s disease
+- 5 cases
+- eMTBR-tau levels were highest in people with both conditions
+Key Terms
+cte medical
+single-plex assay technical
+p-tau217 medical
+AI-generated analysis. How Rhea-AI works. Not financial advice.
+Findings point to a possible blood-based approach for studying CTE in living people
+FREMONT, Calif., Nov. 20, 2026 (GLOBE NEWSWIRE) -- Alamar Biosciences, Inc. (Nasdaq: ALMR), a leader in precision proteomics dedicated to enabling the earliest detection of disease, today announced new research published in the Journal of the American Medical Association (JAMA). Researchers at Boston University CTE Center, with collaborators at Banner Health and more than 20 Institutions, used Alamar’s NULISAqpcr™ eMTBR-tau single-plex assay to evaluate whether a blood test could identify chronic traumatic encephalopathy (CTE) pathology in living patients.
+The researchers found higher blood levels of eMTBR-tau in former football players with advanced CTE and that levels rose with the amount of tau tangle pathology in the brain. eMTBR-tau is a protein fragment linked to the tau tangles seen in CTE and Alzheimer’s disease. CTE is a. neurodegenerative disease associated with repeated head impacts. Today it can only be confirmed by examining the brain after death. The finding could give researchers a way to study CTE during life.
+“CTE has been extraordinarily difficult to study because doctors cannot confirm it in a living person. Proteins like eMTBR-tau have recently been associated with neuropathology but are present at very low levels in blood,” said Yuling Luo, PhD, founder, CEO and chair of Alamar Biosciences. “Our NULISA technology was built to measure low abundant proteins, and a reliable, simple blood test for CTE would enable new research into the progression and treatment of this debilitating illness. There is more work to do, but studies like this one show why that effort matters.”
+The study included 21 former American football players who gave blood samples during life and later donated their brains for research through Boston University CTE Center Studies. Eighteen had CTE, including 16 with high-stage disease. Plasma eMTBR-tau was significantly higher in high-stage CTE than in low-stage CTE or no CTE. Five of the CTE cases also had Alzheimer’s disease, and eMTBR-tau levels were highest in people who had both conditions. The researchers also measured p-tau217, an established blood marker for Alzheimer’s disease. It was elevated only in people with Alzheimer’s pathology and was not associated with CTE. Used together, the two markers may help researchers tell the conditions apart.
+The study suggests a promising new biomarker approach to accurately detecting CTE pathology through a blood test, with the potential to improve patient diagnosis, identification and enrollment in clinical trials, and support the development of targeted therapies. The researchers describe the results as an early study that requires validation in larger and diverse cohorts. The test is not a diagnostic tool and is not available for clinical use. To date, no blood test has yet been validated for diagnosing CTE in living patients.
+“Having blood tests that accurately determine the underlying pathology, which are now approved for use in Alzheimer’s disease, has been revolutionary in the way we diagnose patients and design therapeutic trials,” said Nicholas Ashton, PhD, co-senior author of the study and senior director of Banner Health’s Fluid Biomarker Program. “With this new study, we are optimistic this biomarker will spur a serious discussion about treatment development for CTE.”
+Dr. Ashton’s work also includes blood-based eMTBR-tau measurement in Alzheimer’s disease, most recently in a JAMA study published November 16 that used a NULISA-based assay to assess tau pathology in plasma from 728 research participants.
+About Alamar Biosciences
+Alamar is a commercial-stage proteomics company establishing a gold standard in protein detection and analysis. Leveraging our proprietary NULISA™ technology and the ARGO® HT System, our platform is designed to detect protein biomarkers at extremely low concentrations in blood with ultra-high sensitivity, high specificity, flexible multiplexing, broad dynamic range and seamless automation. We refer to this combination of features as “Precision Proteomics,” and believe it fills a critical gap in the field of advanced proteomics, helping researchers unlock the full spectrum of protein biomarkers across disease states. Learn more at alamarbio.com.
+Forward Looking Statements
+This press release may contain forward-looking statements, including statements made pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. These statements may be identified by words such as "aims," "anticipates," "believes," "could," "estimates," "expects," "forecasts," "intends," "may," "plans," "possible," "potential," "seeks," "will" and variations of these words or similar expressions that are intended to identify forward-looking statements. Any such statements in this press release that are not statements of historical fact may be deemed to be forward-looking statements. These forward-looking statements include, without limitation, statements regarding Alamar’s NULISA platform’s capabilities, performance and impact on CTE research on live patients. Any forward-looking statements in this press release are based on Alamar Biosciences’ current expectations and involve assumptions that may never materialize or may prove to be incorrect. Readers are cautioned that actual results could differ materially from those expressed or implied in Alamar Biosciences’ forward-looking statements due to a variety of risks and uncertainties, which include, without limitation, risks and uncertainties related to intense competition in the proteomics market, exposure to legal proceedings, regulatory inquiries and other legal matters, failure to develop new assays or instruments, dependence on researchers who rely heavily on government funding, reductions in spending by research and academic institutions, the potential for products to be subject to more onerous regulation by the FDA or other regulatory requirements, the complexity of manufacturing Alamar Biosciences’ instruments and consumables, failure to obtain marketing authorizations for future products that are intended for clinical or diagnostic use, Alamar Biosciences’ ability to protect its intellectual property, and the other risks described in Alamar Biosciences’ filings with the U.S. Securities and Exchange Commission, including its Quarterly Report on Form 10-Q filed with the SEC on August 11, 2026. Alamar Biosciences explicitly disclaims any obligation to update any forward-looking statements except to the extent required by law.
+Media Contact:
+Media@alamarbio.com
+Investor Contact:
+Investors@alamarbio.com
+FAQ
+AI-generated questions and answers. How Rhea-AI works. Not financial advice.

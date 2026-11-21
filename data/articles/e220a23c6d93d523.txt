@@ -1,0 +1,27 @@
+URL: https://wisevoter.com/world/us/fl/miami/2026/11/18/glaucoma-progression-recurs-registry-study
+TITLE: Glaucoma Progression Recurs in 26% of Eyes
+OUTLET: Wisevoter
+
+Glaucoma Progression Recurs in 26% of Eyes
+A Bascom Palmer Ophthalmic Registry study finds recurrent visual field loss is common and linked to higher intraocular pressure.
+Updated on Nov. 18, 2026 in Science
+Researchers led by Malek and colleagues, publishing in JAMA Ophthalmology, report that recurrent visual field progression occurred in 26.3% of eyes with sufficient follow-up data. The study analyzed 7,457 eyes from 5,086 patients in the Bascom Palmer Ophthalmic Registry, spanning 1998 to 2025.
+Why it matters
+Recurrence after an initial progression event was associated with faster early vision loss, higher intraocular pressure after the first event, and older age. Each 10% reduction in intraocular pressure was linked to an 11% lower hazard of recurrence, though some eyes kept progressing with mean pressure in the low-to-mid teens.
+The study reports recurrence probabilities of 13.8% at 3 years, 25.6% at 5 years and 43.5% at 10 years after initial progression, with an 11% lower recurrence hazard per 10% reduction in intraocular pressure. Progression was defined as a statistically significant decrease at three or more test locations on three consecutive Humphrey Field Analyzer examinations.
+The players
+Bascom Palmer Eye Institute
+The Bascom Palmer Eye Institute is an eye care and research center affiliated with the University of Miami Miller School of Medicine and is among the leading ophthalmology centers in the United States.
+The details
+Visual field progression was assessed using the Guided Progression Analysis feature on the Humphrey Field Analyzer, with progression defined as a statistically significant decrease at three or more of the same test locations on three consecutive examinations. The analysis drew on records from the Bascom Palmer Ophthalmic Registry, which the study authors are affiliated with at the Bascom Palmer Eye Institute.
+Timeline
+- Registry data analyzed in the study span 1998 to 2025.
+- Recurrence probabilities are reported at 3, 5 and 10 years after initial progression.
+Roadmap
+This study builds on decades of longitudinal data from the Bascom Palmer Ophthalmic Registry, which allowed researchers to track recurrence over up to 10 years rather than only the first progression event. It shifts attention from whether glaucoma progresses to whether control of progression continues to fail after treatment has begun.
+Patients with glaucoma whose vision has already progressed may face continued loss even when pressure is lowered, which makes regular visual field testing important for tracking treatment response. The findings suggest that lowering intraocular pressure reduces the chance of recurrence, but does not eliminate it.
+The takeaway
+Lower intraocular pressure is associated with fewer recurrent progression events in glaucoma, but eyes with a history of progression may need continued close monitoring even at target pressures.
+Further reading
+For related coverage, see the Environmental section.
+Source note: This article includes information reported by Healio.

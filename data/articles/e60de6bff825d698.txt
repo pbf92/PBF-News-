@@ -1,0 +1,26 @@
+URL: https://bmjgroup.com/no-clear-benefit-from-two-drugs-intended-to-increase-spontaneous-birth-after-induction-in-first-time-mums/
+TITLE: No clear benefit from two drugs intended to increase spontaneous birth after induction in first-time mums
+OUTLET: BMJ Group
+
+Small benefits can’t be ruled out, but findings do not support routine use
+There is no clear evidence that hyoscine butylbromide or sodium bicarbonate improve spontaneous vaginal birth rates (without the assistance of forceps or vacuum) in first-time mums after induction of labour, finds a large Norwegian trial published by The BMJ today.
+Although small benefits of either drug can’t be entirely ruled out, the researchers say the findings do not support their routine use.
+Women having their first baby after induction of labour have relatively high rates of instrumental and caesarean delivery. Small studies have proposed that hyoscine butylbromide, by relaxing the cervix, and sodium bicarbonate, by improving muscle function, may promote spontaneous vaginal birth.
+However, these studies have limitations, and no previous trial has evaluated both drugs after induction of labour and their effects on spontaneous vaginal birth.
+To address this, researchers identified 2,963 first-time mums (average age 31 years) due to give birth to a single baby at term and undergoing labour induction at 11 hospitals across Norway between 4 January 2023 and 29 January 2025.
+At the onset of active labour, women were randomly assigned to one of four groups: oral sodium bicarbonate plus intravenous hyoscine butylbromide, oral sodium bicarbonate plus intravenous placebo, oral placebo plus intravenous hyoscine butylbromide, or double placebo.
+The drugs were repeated every four hours to a maximum of three doses. The main outcome was spontaneous vaginal birth without instrumental or caesarean delivery.
+Spontaneous vaginal birth occurred in 57% (422 of 741) in the bicarbonate plus hyoscine butylbromide group, 61% (445 of 734) in the bicarbonate group, 61% (449 of 741) in the hyoscine butylbromide group, and 56% (422 of 747) in the double placebo group.
+None of these differences reached the prespecified threshold for statistical significance. However, the authors note that smaller beneficial effects on spontaneous vaginal birth can’t be entirely excluded.
+Serious adverse events were similar between groups, and no treatment-related serious illness was observed.
+The authors acknowledge certain trial limitations. For example, drugs were administered at the onset of active labour irrespective of early labour progression and participants who were not proficient in Norwegian or English were excluded, which may limit generalisability.
+However, they say this was a large, nationwide trial where participants, clinical staff, investigators, and outcome assessors were all masked to treatment groups, minimising the risk of bias, and results were consistent after further analyses, suggesting that they are robust.
+As such, they conclude: “Neither agent, alone or in combination, clearly increased spontaneous vaginal birth, although small beneficial effects of either agent could not be excluded. The findings do not support routine intrapartum use of hyoscine butylbromide or sodium bicarbonate after induction of labour.”
+18/11/2026
+Notes for editors
+Research: Effect of intrapartum hyoscine butylbromide and sodium bicarbonate on spontaneous vaginal birth in nulliparous women after induction of labour (SAINT): multicentre randomised placebo controlled factorial trial doi: 10.1136/bmj-2026-101069
+External funding: Norwegian National Programme for Clinical Treatment Research in the Specialist Health Services (KLINBEFORSK)
+Link to Academy of Medical Sciences press release labelling system: http://press.psprings.co.uk/AMSlabels.pdf
+Externally peer reviewed? Yes
+Evidence type: Randomised controlled trial
+Subjects: Women

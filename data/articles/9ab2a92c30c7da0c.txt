@@ -1,0 +1,14 @@
+URL: https://dallasexpress.com/health/anthropic-mathematician-claims-claude-helped-prove-167-year-old-riemann-hypothesis/
+TITLE: Anthropic Mathematician Claims Claude Helped Prove 167-Year-Old Riemann Hypothesis
+OUTLET: Dallas Express
+
+An Anthropic mathematician said he used the company’s Claude artificial intelligence model to develop a proof of the Riemann Hypothesis, a 167-year-old problem about the distribution of prime numbers.
+The proposed proof passed several checks run by an MIT mathematician, while the Clay Mathematics Institute still lists the problem as unsolved.
+“I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis,” Levent Alpöge wrote in a four-page statement on his website Friday.
+He said the same method also yields a proof of the Generalized Riemann Hypothesis for a class of functions known as Dirichlet L-functions.
+Alpöge released the argument in Lean, a language that lets software check whether each step follows from the stated assumptions and definitions. He wrote that he plans to prepare a conventional write-up. An experimental version ran to more than 250,000 pages, he said in a footnote.
+MIT mathematician Andrew Sutherland disclosed that he used Claude Code to run checks on the release. His verification report said the source compiles without errors, five main theorems rely only on Lean’s standard axioms, and a separate proof-checking program accepts the full exported proof. Two additional checks remained in progress as of his Friday afternoon update.
+What the hypothesis would establish
+German mathematician Bernhard Riemann proposed the hypothesis in 1859. Mathematicians already know how frequently primes occur on average as numbers get larger. The hypothesis would put a tight bound on how far the actual count can stray from that expectation. It does so through a prediction about where the nontrivial zeros of the Riemann zeta function lie.
+Clay has set aside $1 million for a solution to the problem. The institute requires publication in a qualifying outlet, at least two years since publication and general acceptance by the global mathematics community before it will consider awarding the prize.
+As The Dallas Express previously reported, Anthropic filed to go public in October. The company confirmed Friday that it closed its initial public offering after its shares began trading on Nasdaq on Thursday.

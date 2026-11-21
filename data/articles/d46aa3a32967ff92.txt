@@ -1,0 +1,25 @@
+URL: https://cryptobriefing.com/openai-gpt-6-2-astra-sol-game-dev-leaderboard/
+TITLE: OpenAI’s GPT-6.2 Astra and Sol take first and third on DesignArena’s game dev leaderboard
+OUTLET: Crypto Briefing
+
+Human voters ranked OpenAI's new models above rivals including Anthropic's Claude Opus 5.5 and Meta's Muse Wonder
+OpenAI’s newest models are building games that people actually prefer. GPT-6.2 Astra and GPT-6.2 Sol have claimed first and third place on DesignArena’s game development leaderboard.
+Astra holds the top spot with an Elo rating of 1497, as of November 21, 2026. Sol sits in third with a score of 1430.
+How the models stacked up
+The GPT-6.2 series launched on or around November 17, 2026. That means both models climbed the board in roughly four days.
+DesignArena does not grade models on a fixed exam. It shows people outputs from two models side by side and asks them to pick the better one.
+Those pairwise human votes feed an Elo score. The platform has evaluated 142+ models this way.
+The gap between Astra and Sol is 67 Elo points. That suggests voters noticed a real quality difference between OpenAI’s two offerings, even as both beat most of the field.
+The pair finished ahead of several heavyweight competitors. Those include Anthropic’s Claude Opus 5.5 and Meta’s Muse Wonder.
+AI, tech, and the markets they move—in one daily briefing.
+Daily. Free. Join 34,000+ readers across crypto, finance, and policy.
+Game generation was not the only arena where the models showed up. Astra and Sol also ranked #3 and #7, respectively, on Code Arena’s WebDev leaderboard shortly after launch.
+Notice the ordering stays the same across both boards. Astra leads Sol in game development and in web development.
+Sol’s real pitch is the price tag
+Sol reportedly delivers output quality comparable to earlier models at approximately 4x lower cost.
+Sol has also shown a 40% improvement in generation speed in certain evaluations.
+OpenAI’s models also improved on previous GPT-6 performance in areas such as visual reasoning and coding efficiency.
+Why human-voted benchmarks matter
+DesignArena’s approach leans on real-world preference instead of traditional benchmarks. The question is simple: which result would a person rather have?
+With pairwise voting across a large pool of models, the Elo system is designed to smooth out individual quirks over time.
+Disclosure: This article was edited by Diego Almada Lopez. For more information on how we create and review content, see our Editorial Policy.

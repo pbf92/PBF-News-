@@ -1,0 +1,30 @@
+URL: https://africa.dailynewsegypt.com/riemann-hypothesis-claude-proof/
+TITLE: Riemann hypothesis breakthrough claimed via AI, 167 years on
+OUTLET: DNE Africa
+
+Levent Alpöge, a mathematician at Anthropic, says he has proved the Riemann hypothesis, a 167-year-old problem about prime numbers, with the help of the company’s Claude AI model.
+If the proof holds, it would settle one of the seven Millennium Prize problems, each carrying a $1mn reward, and would be the strongest evidence yet that AI systems can contribute to frontier mathematics. It has not been peer reviewed, and mathematicians say checking it will take time.
+What has Alpöge claimed about the Riemann hypothesis?
+“I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis,” Alpöge wrote in a note on his website on 20 November. He said the method extends to the Generalised Riemann Hypothesis and that, with more time, he expects it to cover the Extended version too.
+The claim was posted as a four-page note and a formal version written in Lean, split across 14 compressed files, according to the Nigerian technology site Condia. The note says no readable paper exists yet, that an informal draft runs to more than 250,000 pages and that Alpöge had not mastered every part of the argument before announcing it.
+Alpöge, a Princeton PhD and former Harvard junior fellow, said Claude suggested the decisive step: a long chain of mathematical constructions known as theta lifts, Condia reported. He wrote that he told Anthropic’s chief executive, Dario Amodei, about the result late on Sunday and appears to have waited until after the company’s stock market debut on Thursday to publish.
+Anthropic did not comment on the announcement, The Verge reported. In August the company said Claude had improved a known bound related to the problem, but added at the time that it did not expect those techniques to lead to a proof of the Riemann hypothesis.
+Why does the Riemann hypothesis matter?
+Bernhard Riemann proposed the hypothesis in 1859. It states that all the non-trivial zeros of the zeta function lie on a single line, and it governs how prime numbers are spread among the whole numbers. Thousands of published results assume it is true.
+The Clay Mathematics Institute, which runs the Millennium Prize, lists it among its seven problems. Only one, the Poincaré conjecture, has been officially solved since the prizes were set up in 2000. Under the institute’s rules, a solution must be published and survive at least two years of scrutiny, with general acceptance by mathematicians, before a prize can be considered.
+Has the Riemann hypothesis proof been checked?
+Only in part. Lean is a programming language in which each step of a proof is checked by computer. Several mathematicians, including Andrew Sutherland of the Massachusetts Institute of Technology, said they had compiled Alpöge’s Lean files successfully, TechCrunch reported.
+That is not the same as acceptance. Experts must still confirm that the formal statement matches the hypothesis and that no hidden assumption slipped in, and humans have yet to understand the argument. Condia noted that Lean can check a proof but cannot explain it. Alpöge has said he will work on a readable version.
+A rival claim arrived the same day. Ravi Vakil, a Stanford professor, posted a proof of the Generalised Riemann Hypothesis by the Stanford postdoctoral researcher Alessandro Masullo, which Vakil said was “all human, with no AI”. It is not yet written in Lean, and it too awaits review.
+What does this mean for AI in mathematics?
+The claim adds to a series of results from AI laboratories. OpenAI said in September it had solved the Navier-Stokes problem, another Millennium problem, a claim that has not been formally recognised. Alpöge and the New York University mathematician Tristan Buckmaster released a separate Navier-Stokes paper on the same day as the Riemann note.
+The announcements come in the week of Anthropic’s record stock market listing, as AI companies compete on model capability, including Google with its Gemini 4 Neon release.
+FAQ
+Has the Riemann hypothesis been proved?
+Not officially. Anthropic mathematician Levent Alpöge claims a proof found with Claude. It has not been peer reviewed or accepted by the Clay Mathematics Institute.
+What is the Riemann hypothesis?
+It is an 1859 conjecture that all non-trivial zeros of the zeta function lie on one line. It underpins how prime numbers are distributed.
+Does the claim win the $1mn Millennium Prize?
+Not yet. Clay rules require publication, at least two years of scrutiny and general acceptance by mathematicians.
+Did a human also claim a proof?
+Yes. Stanford’s Ravi Vakil posted a proof of the Generalised Riemann Hypothesis by Alessandro Masullo, made without AI, which also awaits review.

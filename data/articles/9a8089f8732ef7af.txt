@@ -1,0 +1,30 @@
+URL: https://wisevoter.com/world/us/2026/11/18/early-onset-neuroendocrine-tumors-lower-cancer-risk
+TITLE: Early-Onset Neuroendocrine Tumors Linked to Lower Cancer Risk
+OUTLET: Wisevoter
+
+Early-Onset Neuroendocrine Tumors Linked to Lower Cancer Risk
+A large U.S. cohort study finds patients diagnosed before age 50 were far less likely to develop a later second cancer.
+Updated on Nov. 18, 2026 in Cancer
+Patients diagnosed with early-onset neuroendocrine tumors, defined as diagnosis before age 50, had a lower rate of subsequent primary cancers than those diagnosed later. The findings come from a cohort study of 95,625 patients diagnosed between 2000 and 2021, published in JAMA Network Open.
+Why it matters
+Survivors are often monitored for second cancers using a single standard approach, and this study suggests risk varies meaningfully by age at diagnosis. Researchers say future survivorship care may need to account for demographic and disease-specific factors to individualize monitoring.
+The analysis compared 95,625 neuroendocrine tumor patients using SEER registry data, with a median follow-up of 47 months. The hazard ratio was 0.35 at one year and 0.73 at ten years, and the mechanisms driving the difference remain unexplained.
+The players
+JAMA Network Open
+An open-access, peer-reviewed medical journal published by the American Medical Association that features research across clinical medicine and public health.
+Surveillance, Epidemiology, and End Results (SEER) Program
+A program of the U.S. National Cancer Institute that collects and publishes cancer incidence and survival data from population-based cancer registries across the United States.
+The details
+The cohort study drew on SEER registry records and excluded patients with prior cancers, benign tumors, differentiated histology, or incomplete follow-up data. Within the early-onset group, male sex and appendiceal tumors were associated with lower subsequent cancer risk, while pancreatic, gastric and small-intestine tumors were associated with higher risk.
+Timeline
+- Patient diagnoses included in the study span 2000 to 2021.
+- Subsequent cancers were tracked over a median follow-up of 47 months.
+- The study was published online in JAMA Network Open on November 16, 2026.
+Health Landscape
+This study builds on the decades of population-based survival analysis maintained by the SEER Program at the U.S. National Cancer Institute. It adds to a growing body of work questioning whether one-size-fits-all survivorship monitoring is appropriate across patient age groups.
+For people diagnosed with neuroendocrine tumors before age 50, the findings suggest their long-term risk of a second cancer may be lower than that of older patients. Survivors should continue to follow the monitoring plans set by their own clinicians, since the study does not establish new screening guidelines.
+The takeaway
+Age at diagnosis appears to matter for second-cancer risk after a neuroendocrine tumor, so survivorship planning may benefit from considering patient age and tumor type. Patients should discuss their individual risk profile with their care team rather than assume a standard schedule fits every case.
+Further reading
+Explore more reporting in the Cancer section for context on survivorship and early-onset disease trends.
+Source note: This article includes information reported by Cancer Therapy Advisor.

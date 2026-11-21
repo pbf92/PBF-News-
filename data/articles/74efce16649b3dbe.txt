@@ -1,0 +1,13 @@
+URL: https://www.ons.gov.uk/releases/deathsregisteredmonthlyinenglandandwalesjanuary2027
+TITLE: Deaths registered monthly in England and Wales: January 2027
+OUTLET: Office for National Statistics
+
+This release is not yet published
+Summary
+Number of deaths registered each month by area of usual residence for England and Wales, by region, county, health authorities, local and unitary authority, and London borough.
+About the data
+These are accredited official statistics. They have been independently reviewed by the Office for Statistics Regulation (OSR) and found to comply with the standards of trustworthiness, quality and value in the Code of Practice for Statistics. This broadly means that the statistics:
+- meet user needs
+- are presented clearly and accessibly
+- are produced using appropriate data and sound methods
+- are managed impartially and objectively in the public interest

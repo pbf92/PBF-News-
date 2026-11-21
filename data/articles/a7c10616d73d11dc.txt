@@ -1,0 +1,93 @@
+URL: https://www.gilmorehealth.com/baby-formula-ingredient-cognitive-development-study/
+TITLE: Added Ingredient in Baby Formula Did Not Improve Average Cognitive Scores in Clinical Trial
+OUTLET: Gilmore Health News
+
+Key Takeaways
+- Adding milk fat globule membrane (MFGM) to infant formula did not significantly improve average cognitive scores at 12 months in a randomized trial of 416 babies.
+- At 12 months, fewer infants receiving the enriched formula scored below the study’s threshold for possible cognitive delay: 4.8% compared with 11.5% in the control group.
+- The difference in low cognitive scores was not statistically significant at 24 months. A separate language-score advantage also lost significance after adjustment for caregiver education.
+- Earlier trials have reported some cognitive benefits, although results have varied by formula composition and follow-up period.
+- There is not enough evidence to recommend choosing or switching infant formula solely for MFGM’s proposed cognitive benefits.
+An ingredient added to some infant formulas for its possible brain-development benefits has failed to improve average cognitive scores in a randomized clinical trial.
+The ingredient is milk fat globule membrane, or MFGM. It is part of the structure surrounding fat droplets in milk and contains several substances involved in nervous system development. Manufacturers can extract MFGM from cow’s milk and add it to infant formula.
+Researchers in Australia wanted to know whether giving formula-fed babies more MFGM would improve their cognitive development.
+Their study, published November 19, 2026, in JAMA Network Open, involved 416 infants. At 12 months, babies given MFGM-enriched formula performed almost identically to those given standard formula on the main cognitive assessment.
+The researchers did find one difference. Fewer infants in the enriched-formula group scored below the threshold used to flag possible cognitive delay. The result was statistically significant at 12 months, but not when the children were tested again at age two.
+That leaves parents with a fairly straightforward message: the trial did not establish an overall cognitive advantage from adding MFGM to infant formula.
+A Trial Designed to Isolate the Effects of MFGM
+The research team, led by Jacqueline F. Gould at the South Australian Health and Medical Research Institute, recruited families in metropolitan Adelaide between May 2020 and April 2022.
+All 416 babies were healthy, born at term, and younger than two months. None were receiving breast milk when they joined the randomized trial.
+The researchers split them into two groups. One received formula enriched with MFGM, while the other received conventional formula without added MFGM. There were 207 babies in the first group and 209 in the second.
+Both formulas were based on cow’s milk. Their main nutrient contents were closely matched, apart from the MFGM enrichment.
+The enriched product contained 0.55 grams of MFGM component phospholipids per 100 grams of formula. The control formula contained 0.29 grams. The enriched product also supplied additional gangliosides, a type of fat-related compound found in nerve-cell membranes.
+The distinction matters because standard formula was not completely devoid of MFGM-related phospholipids. The trial tested whether increasing their concentration through an MFGM-rich ingredient improved development.
+Families were asked to use their assigned formula until their child turned one. Neither caregivers nor the researchers assessing the children knew which formula had been assigned.
+The team also recruited 204 exclusively breastfed infants as a separate reference group. Those babies were not randomly assigned to a feeding method.
+How the Children Were Tested
+The researchers used the Bayley Scales of Infant and Toddler Development, Fourth Edition, usually shortened to Bayley-IV.
+The test measures several areas of development, including cognition, language, and motor skills. Scores are standardized around an average of 100, with a standard deviation of 15.
+A cognitive score below 85 was treated as indicating possible moderate developmental delay.
+Children were assessed at 12 and 24 months. The main outcome was the average cognitive score at 12 months.
+Other measures included language and motor development, the proportion of children scoring below 85, growth, feeding tolerance, illness, and safety.
+Average Cognitive Scores Showed No Meaningful Separation
+At the first assessment, average cognitive scores were almost the same.
+Babies receiving MFGM-enriched formula averaged 100.1 points. Those receiving standard formula averaged 99.4.
+The adjusted difference was 0.68 points, with a 95% confidence interval ranging from −1.94 to 3.31 points. The P-value was .61.
+In statistical terms, the result was not significant.
+The researchers had designed the trial to detect a difference of five points. What they observed was much smaller, and the confidence interval included the possibility of a slight disadvantage as well as a modest benefit.
+Cognitive testing was completed for 382 of the 416 randomized babies, or 91.8%. To account for missing results, the researchers used multiple imputation, which estimates missing values using information available from the study.
+They also checked whether excluding families who had not closely followed the feeding protocol changed the outcome. It did not substantially alter the findings.
+A Different Result Among Babies With Lower Scores
+Looking only at average scores can obscure differences among children who perform below the expected range.
+The researchers therefore also examined the proportion of infants whose Bayley-IV cognitive score fell below 85.
+At 12 months, the estimated proportions were:
+- 4.8% in the MFGM-enriched formula group.
+- 11.5% in the standard-formula group.
+That is a difference of 6.7 percentage points.
+The adjusted relative risk was 0.42 (95% CI, 0.20–0.90; P = .03). In other words, the enriched-formula group had a 58% lower relative risk of scoring below the threshold.
+These were estimates from the study’s statistical analysis, which included imputed missing data. They were not counts of children given a clinical diagnosis.
+A Bayley-IV score below 85 can signal a need for closer developmental evaluation, but one test result does not establish that a child has a lasting cognitive impairment.
+There is also a statistical complication. The low-score comparison was a secondary outcome, and the researchers examined numerous outcomes without adjusting for multiple testing. This increases the chance of finding an apparently significant result by coincidence.
+The result is worth examining in another trial, particularly because the primary analysis showed no improvement in average cognition.
+The 24-Month Results Were Less Convincing
+When the children returned for assessment at two years of age, the difference in low cognitive scores had narrowed.
+The estimated proportion scoring below 85 was 32.6% in the enriched-formula group and 38.7% in the control group.
+The adjusted relative risk was 0.85 (95% CI, 0.65–1.10; P = .20).
+Although the percentage remained lower among children who had received MFGM, the difference was no longer statistically significant.
+The average cognitive scores told a similar story. Children in the MFGM group averaged 88.6 points, compared with 86.3 in the control group.
+The adjusted difference was 2.22 points (95% CI, −0.47 to 4.90; P = .11).
+Researchers therefore could not establish that the lower proportion of scores below 85 seen at 12 months represented a lasting benefit.
+Language Development Produced Another Uncertain Result
+There was one additional difference at 24 months.
+Children who had received enriched formula scored an average of 93.0 on the Bayley-IV language assessment. The control group averaged 90.0.
+The adjusted difference was 2.87 points (95% CI, 0.10–5.65; P = .04).
+But the finding changed when researchers accounted for caregiver education. Caregivers in the enriched-formula group had higher educational attainment, a characteristic that can be related to children’s early language development.
+After that additional adjustment, the language difference was no longer statistically significant.
+Parent-completed language questionnaires also showed no clear advantage for either formula.
+Results for motor development and most other developmental measures were similar. The trial found no significant differences in serious adverse events, growth, or the main measures of feeding tolerance and illness.
+Earlier Formula Trials Have Not Agreed
+MFGM has been studied for more than a decade, and some of the earlier results were more favorable.
+In a 2014 Swedish trial, researchers randomly assigned 160 formula-fed infants to receive either an experimental formula containing bovine MFGM or standard formula.
+The experimental formula was given until six months of age. When the babies were assessed at 12 months, average cognitive scores were 105.8 in the experimental group and 101.8 in the control group.
+The four-point difference was statistically significant (P = .008).
+There was one important difference from the Australian study. The Swedish experimental formula also contained less energy and protein than the standard product. The researchers could not separate the effects of MFGM from those of the other nutritional changes.
+The children were tested again at approximately six and a half years of age. According to the 2021 follow-up, the earlier cognitive advantage was no longer apparent. The researchers found no significant differences in intelligence testing, executive function, or behavior between the original formula groups.
+Another trial produced a different long-term result.
+A 2023 study in The Journal of Pediatrics assessed children at age 5.5 years who had previously received formula containing both MFGM and lactoferrin.
+Among the 116 children who completed that assessment, average full-scale IQ scores were 98.7 in the supplemented group and 93.5 in the control group (P = .012).
+The supplemented group also performed better on certain measures of visual-spatial ability, processing speed, and executive function.
+Those results are relevant, but they do not isolate the effect of MFGM. The formula contained lactoferrin as well, and only 116 of 292 eligible children completed the later assessment. Family income also differed between the groups at follow-up.
+The 2023 researchers reported that several cognitive differences remained after adjustment for demographic and socioeconomic characteristics.
+The longer-term evidence therefore contains both positive and negative findings, drawn from trials using different formulas and developmental tests.
+What Systematic Reviews Have Concluded
+A 2021 systematic review published in Nutrients included 17 studies investigating MFGM supplementation in children.
+The authors found reports of improved cognition, fewer episodes of certain infections, and other possible benefits.
+Yet there were too few comparable trials to draw firm conclusions. Some studies used different MFGM preparations, while others added more than one ingredient to the experimental formula.
+The methods used to assess development also varied.
+The larger 2026 trial provides useful new evidence because it compared two closely matched formulas in babies who were exclusively formula-fed at enrollment. Its negative primary result makes it harder to conclude that MFGM enrichment alone consistently improves cognitive development.
+Why the Composition of MFGM Matters
+Milk fat globule membrane is a mixture rather than a single substance.
+It contains phospholipids, gangliosides, and proteins that help form and maintain cell structures. Some are involved in nervous system development, including myelination and communication between nerve cells.
+These biological functions explain the scientific interest in MFGM. They do not establish that adding extra amounts to infant formula will improve cognitive test scores.
+Commercial preparations can also differ considerably.
+Some contain relatively high concentrations of phospholipids. Others are richer in proteins. The quantities added to infant formul
