@@ -1,0 +1,36 @@
+URL: https://www.medicaldaily.com/social-media-cutback-depression-anxiety-young-adults-jama-pediatrics-481468
+TITLE: Young Adults With Depression or Anxiety Who Cut Back on Social Media Were More Likely to Improve
+OUTLET: Medical Daily
+
+Young adults with high levels of depression or anxiety symptoms who cut back from checking social media several times a day were more likely to see those symptoms ease later, according to a cohort study in JAMA Pediatrics published online Nov. 16. The study drew on a long-running federal health survey.
+It found an association, not proof that using less social media caused the improvement. Among 18- to 24-year-olds who started with high symptoms and frequent use, 57% of those who reduced use later had symptoms below the study's level of concern, compared with 49% of those who kept checking just as often.
+For parents of college students and for young adults managing their own mental health, the finding offers a modest, practical signal. It does not show that logging off is a treatment. But it suggests that how often a struggling young person checks social media may be worth watching, alongside proven care.
+A Federal Tobacco Survey Used to Track Mood
+The data come from the Population Assessment of Tobacco and Health Study, known as PATH, a national study run by the National Institutes of Health and the Food and Drug Administration that follows the same people over time. Although it was designed to track tobacco use, PATH also asks participants how often they use social media and about mental health symptoms.
+The research team, led by Dae-Hee Han with Katherine Keyes of Columbia University and Megan Moreno of the University of Wisconsin-Madison, used six survey waves collected from 2013 to 2021. Because PATH is designed to represent the national population, its results apply more broadly than those of studies drawn from a single campus or clinic.
+The researchers focused on a high-risk group. Participants reported all four symptoms on a short screening tool covering depression, anxiety, psychological distress, and sleep trouble, and they used social media several times a day. The analysis included 2,358 people contributing 3,788 observations, and about 65% of the observations came from women.
+Researchers compared people who dropped to once a day or less at the next survey wave with those who kept checking several times a day, then looked at symptoms one wave later. About 14% of the observations involved a cutback.
+Results Held Across Several Checks
+After adjusting for other factors, the gap between the two groups was about 7 percentage points, with a confidence range of 2 to 13 points. That amounted to a 15% higher likelihood of reaching lower symptom levels among those who cut back.
+The pattern held in alternative analyses. People who dropped to weekly use or less showed a similar result, and less frequent use was tied to about 10% fewer symptoms when researchers counted symptoms instead of using a cutoff, according to a summary from 2 Minute Medicine.
+The authors concluded that the findings identify reduced social media use as "a potentially modifiable target for prevention and early intervention" in this high-risk group.
+MedicalDaily Evidence Check: This is an observational cohort study of 2,358 U.S. young adults published in JAMA Pediatrics. It found that reduced social media use was associated with later improvement in depression and anxiety symptoms. It did not prove that cutting back caused the improvement. Both social media use and symptoms were self-reported, and the newest data are from 2021.
+Limits of the Federal Survey Data
+The biggest open question is direction. Young adults who start feeling better may naturally spend less time on their phones, which could produce the same pattern even if social media itself had no effect. A life change, such as a new job or the end of a stressful relationship, could also shift both mood and phone habits.
+The survey measured how often people used social media with a single question, not how long they stayed on or what they saw. A person who glances at an app several times a day and someone who scrolls for hours could fall into the same group.
+Timing matters too. The survey data end in 2021, and platforms, feeds, and habits have changed since then, so today's patterns may differ.
+The finding fits earlier work. In a 2025 social media detox study in JAMA Network Open, young adults who cut back on social media for one week reported 24.8% fewer depression symptoms and 16.1% fewer anxiety symptoms. That study was short, had no randomized comparison group and did not show whether the benefits lasted.
+Practical Steps for Young Adults and Families
+Young adults who notice worse mood, sleep, or anxiety after heavy use can try reducing how often they check apps. Turning off notifications, moving apps off the home screen and keeping phones out of the bedroom at night are simple ways to cut back.
+Cutting back is not a substitute for care. Persistent sadness, loss of interest, trouble sleeping, constant worry, or difficulty functioning at school or work for more than two weeks should be discussed with a primary care clinician or mental health professional. Effective treatments include therapy and, for some people, medication. No one should stop a prescribed medication without medical advice.
+Parents of adult children can ask open questions rather than set rules, and frame a change in habits as an experiment, not a judgment. Many colleges offer free counseling, and young adults can generally stay on a parent's health plan until age 26.
+Anyone having thoughts of suicide can call or text the 988 Suicide and Crisis Lifeline at any time. Randomized trials would be needed to test whether reducing use improves symptoms over longer periods, and MedicalDaily will report on that research as results become available.
+Key Questions Answered
+What did the study find? Young adults with high symptoms who cut back on social media were more likely to have lower symptoms later: 57% versus 49%.
+Who was studied? 2,358 U.S. adults ages 18 to 24 with elevated depression or anxiety symptoms and frequent social media use.
+Where did the data come from? The federal Population Assessment of Tobacco and Health Study, collected from 2013 to 2021.
+Does social media cause depression? The study cannot show that. It found an association, and feeling better could also lead people to use less social media.
+What counted as cutting back? Moving from several times a day to once a day or less.
+What can young adults do now? Try checking apps less often, protect sleep, and talk with a clinician about symptoms that last more than two weeks.
+Where can someone get help in a crisis? Call or text 988 at any time.
+Published by Medicaldaily.com

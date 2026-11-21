@@ -1,0 +1,36 @@
+URL: https://www.tikr.com/blog/musk-calls-googles-gemini-4-neon-a-banger-after-its-third-zapier-record-bad-timing-for-anthropic?
+TITLE: Musk Calls Google’s Gemini 4 Neon “a Banger” After Its Third Zapier Record. Bad Timing for Anthropic
+OUTLET: TIKR.com
+
+Key Takeaways
+- Google’s Gemini 4 Neon set a new high of 56.3% on Zapier’s AutomationBench, Google’s third record there in seven weeks, and Elon Musk said it “seems to be a banger.”
+- The run landed as Anthropic went public at $83 a share, with Microsoft and Amazon also in the fight.
+- Alphabet gains either way, owning nearly 14% of Anthropic, which has committed to at least $121 billion of Google hosting through July 2033.
+- At about 20x forward earnings, below its five-year average of 23x, Alphabet looks like the better AI stock to own.
+Alphabet (GOOG) launched Gemini 4 Neon on Nov. 18, and it promptly set a new high score of 56.3% on Zapier’s AutomationBench, a test of 657 real business workflows. That’s Google’s third record there in seven weeks, landing the day before Anthropic (ANT) started trading.
+Anthropic priced its IPO at $83 a share and closed its first session on Nov. 19 at $97.17, up 17.1%. Google isn’t the only giant leaning on it: Microsoft (MSFT) is pitching Copilot as a cheaper alternative to Claude, while Amazon (AMZN) has $18.0 billion invested in Anthropic.
+As Zapier CEO Wade Foster put it on X:
+“A lot of the AI conversation gets framed as OpenAI vs. Anthropic. Meanwhile, on real business workflows, Google has taken the top spot several times.”
+Elon Musk weighed in with a reply to Alphabet CEO Sundar Pichai: “Neon seems to be a banger!”
+Pichai’s response? “It is, also No. 1 on Cursorbench:))”
+Talk about rough timing.
+Three records and a coding win
+Foster laid out the run: Gemini 4 Argon became the first model to pass 50% on Sept. 30, Gemini 4 Carbon raised the record to 53.9% on Oct. 28, and Neon took it again on Nov. 18. Anthropic’s best, Claude Fable 5.2, scored 51.4%. Neon is cheaper to run, too: on high effort, it scores 54.3% for $0.88 a task, less than half of Carbon’s $1.94.
+The Cursorbench line may matter even more. On Alphabet’s July 22 call, Pichai named coding and agentic coding as areas where Google needed to improve, and that’s exactly where Claude Code competes.
+See analyst ratings on Anthropic (it’s free):
+See the full breakdown of Buy, Hold, and Sell ratings on Anthropic, along with Wall Street’s revenue and earnings estimates, all in one place. More than 500,000 investors use TIKR to research stocks like this one. See Anthropic’s Analyst Ratings
+Bad timing for Anthropic, good timing for Alphabet
+Anthropic came to market asking investors to pay up for a model maker at the frontier, just as two giants set out to undercut it. Judson Althoff, who runs Microsoft’s commercial business, made the Copilot pitch at Microsoft’s Ignite conference on Nov. 17, citing a cost study Microsoft commissioned, Bloomberg reported. With Azure revenue up 48% in the September quarter, Microsoft has the cushion to compete on price.
+But Alphabet collects whichever way the race goes. It owns nearly 14% of Anthropic, and Anthropic has committed to at least $121 billion of Google hosting through July 2033. So every Neon record makes Gemini harder to beat, and every Claude win still runs partly on Google’s servers.
+Amazon’s AI bet runs through Anthropic instead: Anthropic added more than $100 billion of AWS commitments over ten years in the second quarter, and AWS revenue grew 39% to $46.0 billion in the third. A Neon record that helps Alphabet twice does little for Amazon.
+For Alphabet, analysts already expect revenue to nearly double from 2025 to 2028:
+The catch is the spending
+That pace of releases runs on a lot of hardware, and Alphabet’s capital spending has nearly quadrupled in four years:
+And management guides 2026 to $195 billion to $205 billion, more than double again, and expects another significant increase in 2027. Free cash flow was negative $9.1 billion in the third quarter, so the models have to earn their keep.
+The market isn’t paying up for any of it, though. Alphabet trades at about 20x forward earnings, below its five-year average of 23x and far from the 33x it hit in April:
+Bottom line: Alphabet gets paid as Anthropic’s part-owner, landlord and rival, and at this price, it looks like the better AI stock to own now that Anthropic trades.
+Of course, Foster himself said, “I don’t know who will hold the top spot next month.” The bigger test is Alphabet’s fourth-quarter report in early February. Tokens processed need to keep climbing past the third quarter’s nearly 32 billion a minute, and a bigger 2027 capex plan needs a Cloud backlog growing past $560.8 billion to justify it.
+So what is Alphabet stock actually worth?
+TIKR lets you forecast the future price of any stock in less than a minute. Just enter a few assumptions into TIKR’s valuation model and see what Alphabet could be worth. Start from Wall Street consensus estimates, or adjust the inputs to reflect your own view of the business. It’s free to use.
+Disclaimer:
+Please note that the articles on TIKR are not intended to serve as investment or financial advice from TIKR or our content team, nor are they recommendations to buy or sell any stocks. We create our content based on TIKR Terminal’s investment data and analysts’ estimates. Our analysis might not include recent company news or important updates. TIKR has no position in any of the stocks mentioned. Thank you for reading, and happy investing!

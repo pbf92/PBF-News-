@@ -1,0 +1,29 @@
+URL: https://cryptobriefing.com/openai-gpt-6-2-astra-agent-arena-index/
+TITLE: OpenAI’s GPT-6.2 Astra ranks sixth on the new Agent Arena Index
+OUTLET: Crypto Briefing
+
+The new model beats its predecessor on coding and cost but slips on chat, debuting behind Anthropic and Google DeepMind
+OpenAI’s newest flagship model has its first public report card, and the grade is respectable but not top of the class. GPT-6.2 Astra debuted at sixth place on the Agent Arena Index with a score of 1,291.
+The ranking comes from Arena.ai, which launched the index just one day after OpenAI released the model. The result is a model that got noticeably better at writing code and noticeably worse at making conversation.
+What OpenAI shipped
+OpenAI introduced GPT-6.2 Astra on November 17, 2026. The company positions it as an advanced model built for complex professional and scientific work.
+It arrived alongside a sibling, GPT-6.2 Sol, which is the more efficient option of the pair.
+Both models are aimed at OpenAI’s main products: ChatGPT Work, Codex, and the OpenAI API.
+Pricing is a big part of the pitch. Input and output tokens for GPT-6.2 Astra cost 20% less than they did for GPT-6 Astra, its predecessor.
+Cached input gets a steeper cut, with a 60% discount. Cached input refers to content the model has already processed and can reuse, like a long instruction set sent with every request.
+OpenAI has also said the model set new benchmark highs on tests including Agents’ Last Exam and Terminal-Bench-Science 0.1. The company reported reaching those scores at lower costs per task than its previous model managed.
+AI, tech, and the markets they move—in one daily briefing.
+Daily. Free. Join 34,000+ readers across crypto, finance, and policy.
+How the Agent Arena Index works
+The Agent Arena Index aggregates data from more than 2.9 million real user sessions, measuring how models behave when people actually put them to work.
+The index tracks four signals. The first is task completion, which asks whether the agent finished the job.
+The second is user satisfaction, measured by comparing how often users praise a model against how often they complain about it. The third is steerability, meaning how well the model follows direction when a user tries to redirect it.
+The fourth is bash reliability. Bash is the command-line shell developers use to run programs and manage files, so this measures whether an agent can operate a terminal without breaking things.
+The scorecard
+GPT-6.2 Astra’s 1,291 score puts it 9 points ahead of GPT-6 Astra overall.
+The new model posted higher coding scores than its predecessor but lower chat scores.
+Cost efficiency is where the upgrade looks most dramatic. Median task cost came in at $2.94 for GPT-6.2 Astra, compared to $4.91 for GPT-6 Astra.
+That works out to approximately 40% lower median cost per task.
+The top spot went to Anthropic’s Claude Fable 5.2. Several models from Google DeepMind also finished ahead of OpenAI’s new release.
+At the company level, OpenAI ranks third overall in this first version of the index, behind Anthropic and Google DeepMind.
+Disclosure: This article was edited by Diego Almada Lopez. For more information on how we create and review content, see our Editorial Policy.

@@ -1,0 +1,109 @@
+URL: https://www.nerdwallet.com/finance/learn/jobs-report-unemployment-rate
+TITLE: Current Unemployment Rate and Other Jobs Report Findings
+OUTLET: NerdWallet
+
+Updated on Nov. 19.
+October hiring beats expectations
+Unemployment was 4.1% in October, down 0.1 percentage point from September, according to the monthly jobs report released by the Bureau of Labor Statistics on Nov. 6.
+Total employment grew by 165,000 — well above economists’ forecast of 65,000. In addition, August’s hiring numbers were revised up by 53,000 to 186,000, while September was revised up by 31,000 to 60,000. Together there were 84,000 more jobs added in August and September than originally reported.
+Job gains:
+- Manufacturing (+19,000)
+- Professional and business services (+70,000)
+- Health care (+42,000)
+- Transportation and warehousing (+25,000)
+More details below.
+What are the weekly jobless claims?
+Initial jobless claims went up for the week ending Nov. 14, according to the report released on Nov. 19.
+Why it matters: The weekly jobless claims, or initial claims, are the number of unemployment insurance claims filed in the past week. They provide an indicator of the strength — or weakness — of the labor market.
+Learn more
+Jobless claims were 203,000 for the week ending Nov. 19, up by 1,000 from the previous week’s revised level of 202,000.
+The new four-week moving average — a measurement of the number of people who filed for unemployment insurance for the first time over the last four weeks — was 197,750, up by 2,000 from the previous week's revised average of 195,750.
+What's the insured unemployment rate?
+Not all types of unemployment are included as part of the insured unemployment rate. It only includes "covered unemployment," as in people who receive unemployment benefits. Those who quit their jobs, for example, aren't included in the insured unemployment rate because they aren't eligible for unemployment benefits.
+The advance seasonally adjusted insured unemployment rate — the rate of continuous covered unemployment claims divided by covered employment — was 1.1% for the week ending Nov. 7, unchanged from the previous week’s unrevised rate.
+Job openings barely budged in September
+There were 7.5 million job openings in September, little changed from August, which was revised to 7.2 million, according to the latest Job Openings and Labor Turnover Summary (JOLTS), released by the U.S. Bureau of Labor Statistics (BLS) on Nov. 3. The job openings rate was 4.5% in September.
+The latest figures continue to show relatively little movement in the labor market.
+Here are some other highlights from the report:
+- Hires increased in accommodation and food services (+158,000).
+- Hires changed little at 5.4 million, with the hiring rate at 3.4%.
+- Total separations changed little at 5.3 million, with the rate holding at 3.3%.
+- Quits increased to 3.4 million, while the quit rate was little changed at 2.1%.
+- Layoffs and discharges changed little at 1.6 million, with the rate remaining at 1%.
+- Job openings increased in state and local government, excluding education (+104,000).
+The unemployment rate held steady at 4.1% in August, unchanged from July, according to the August jobs report released Sept. 4 by the Bureau of Labor Statistics (BLS).
+What is the current unemployment rate?
+The current unemployment rate is 4.1% for October, down by 0.1 percentage point from September.
+The unemployment rate has risen since hitting a 50-year low of 3.4% in April 2023. Since May 2024, the unemployment rate has mostly stayed between 4% and 4.2%.
+How the unemployment rate is calculated
+The unemployment rate is calculated by dividing the number of unemployed people by the number of people in the labor force. (The labor force is considered the sum of those who are currently working or looking for work.) The result is then multiplied by 100 to get a percentage:
+Number of unemployed people / Labor force x 100 = X%, which is the unemployment rate
+Will unemployment go up soon?
+The labor market showed signs of weakening throughout 2025 and that trend has continued into 2026.
+The recent rise in unemployment was a byproduct of monetary policymakers’ effort to curb inflation by hiking interest rates. The Federal Reserve raised the federal funds rate 11 times between March 2022 and July 2023. Now that inflation is consistently slowing, the Fed has taken steps to prevent unemployment from rising further.
+The Fed cut rates in 2024 at its September, November and December meetings. It paused rates at every meeting so far in 2025, but has indicated that there could be some rate cuts in 2025.
+The Fed cut rates three times in 2025 before pausing in January. It also paused rates in March and April.
+Are wages increasing?
+Wage growth is lower than it was a year ago and now closer to pre-pandemic levels, according to data from the Federal Reserve Bank of Atlanta. The three-month moving average of median hourly wage growth — when measured over the previous 12 months — has slowed from its peak in the summer of 2022.
+For June, the three-month wage growth percent change was 3.8%, unchanged from May.
+What does the Employment Cost Index show?
+Increases in compensation costs in the second quarter of 2026 matched the last quarter of 2025 but were slower than a year ago, according to the most recent quarterly BLS Employment Cost Index, which measures wage and salary growth. Wages and salaries, as well as benefits, comprise total compensation costs.
+The June 2026 report, released on July 31, shows compensation costs increased by 0.9% in the second quarter of 2026.
+Year-over-year measurements show that compensation cost increases held steady in Q2 2026 (3.4%), matching the pace of the first quarter of 2026, but slower than the rates seen throughout 2024.
+- Q2 2026: 3.4%
+- Q1 2026: 3.4%
+- Q4 2025: 3.4%
+- Q3 2025: 3.6%
+- Q2 2025: 3.6%
+- Q1 2025: 3.6%
+- Q4 2024: 3.8%
+- Q3 2024: 3.9%
+- Q2 2024: 4.0%
+- Q1 2024: 4.2%
+For the 12-month period ending in June 2026, wages and salaries increased 3.1%, compared to 3.5% for the 12-month period ending in March 2026.
+Benefit costs had matched the increase in the 12-month period ending in June (3.8%) compared to the 12-month period ending in March 2026.
+More key jobs data and what it means
+What happened in October?
+The economy grew by 165,000 jobs in October, according to the BLS, while economists had expected fewer gains. Revisions also show job growth was stronger than previously reported in both August and September. Here’s how many jobs were added in previous months.
+- 60,000 in September 2026
+- 186,000 in August 2026
+- -10,000 in July 2026
+- 31,000 in June 2026.
+- 63,000 in May 2026.
+- 148,000 in April 2026.
+- 214,000 in March 2026.
+- -156,000 in February 2026.
+- 160,000 in January 2026.
+- 48,000 in December 2025.
+- 41,000 in November 2025.
+- -173,000 in October 2025.
+What is the labor force participation rate?
+The labor force participation rate went up by 0.1 percentage points from 61.8% in September to 61.9% in October, according to the Bureau of Labor Statistics.
+Why it matters: The labor force participation rate is the percentage of the population that is working or looking for work.
+The rate is calculated as the labor force divided by the total population that’s eligible to work. (The Bureau of Labor Statistics defines the total population that’s eligible to work as the “civilian noninstitutional population,” which refers to people ages 16 and older who are not in military service or incarcerated.) The result is multiplied by 100 to get a percentage:
+Labor force / Civilian noninstitutional population x 100 = X%, which is the labor force participation rate
+Since October 2002, the labor force participation rate was lowest in April 2020 (60.1%) and highest in June 2003 (66.5%), according to BLS data.
+How many job openings were there in September?
+The latest Job Openings and Labor Turnover Summary (JOLTS), released on Nov. 3, shows job openings were 7.5 million in September compared to:
+- 7.2 million in August.
+- 7.3 million in July.
+- 7.2 million in June.
+- 7.6 million in May
+- 7.6 million in April
+- 6.9 million in March
+- 6.9 million in February
+- 7.2 million in January 2026
+- 6.6 million in December 2025
+- 6.9 million in November 2025
+- 7.4 million in October 2025
+- 7.7 million in September 2025
+The seasonally adjusted job openings rate was 4.5% in September up 0.2 percentage point from August.
+What is the layoff rate?
+The rate of layoffs in September (1%) was unchanged from August and July, according to the most recent JOLTS report. 
+What is the quit rate?
+The JOLTS report shows the quit rate in September was 2.1%, little changed from August. The number of workers who voluntarily left their jobs increased to 3.4 million. Quits increased in accommodation and food services (+197,000) but decreased in arts, entertainment, and recreation (-19,000). Over the year, quits rose by 375,000.
+Why it matters: Economists say quit rates are a key factor in the health of employment prospects since quitting shows that workers feel safe making a job switch within their sector or outside it entirely.
+The current quit rate is slightly below pre-pandemic levels after peaking at 3% in both Nov. 2021 and April 2022.
+When is the next jobs report?
+The next jobs report will show data for November and it will be released on Dec. 4
+(Photo by Spencer Platt/Getty Images News via Getty Images)

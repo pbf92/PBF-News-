@@ -1,0 +1,13 @@
+URL: https://www.tradingview.com/news/seekingalpha:9a7133730094b:0-fbi-crime-database-hacked-cnn/
+TITLE: FBI crime database hacked: CNN
+OUTLET: TradingView
+
+FBI crime database hacked: CNN
+The FBI is investigating a potential breach of its nationwide criminal information database used by federal, state, and local law enforcement to share information on warrants and background checks, CNN reported, citing two people briefed on the matter.
+The attack on the National Crime Information Center (NCIC) by apparent hackers marks the second such incident affecting the nation’s top law enforcement agency this year.
+A hack targeting an FBI jobs website exposed sensitive employee personal data in September. That attack, blamed on a group called ShinyHunters, led to the arrest of a Canadian cybersecurity researcher and author last month.
+The latest hack on the FBI comes amid growing concerns over U.S. cybersecurity efforts after a series of extensive outages impacted several federal and private organizations, including the FAA and Microsoft MSFT.
+“Every day, officers across the country rely on NCIC to identify wanted fugitives, check for outstanding warrants, and access information that can directly impact officer and public safety," said an ex-FBI official with expertise in leading investigations into cybercriminal groups.
+“My concern isn’t simply whether hackers gained access to sensitive information, although that is an issue, but whether they could compromise the accuracy of the information that officers rely on,” the former official added.
+The FBI did not immediately respond to a request for comment from CNN.
+Cybersecurity stocks: CRWD, HACK, FTNT, OKTA, PANW, RBRK, SAIL, S, ZSDisclaimerContent provided by Seeking Alpha is intended for information purposes only, and that Seeking Alpha does not offer any personalist investment advice and is not a licensed securities dealer, broker, US investment adviser or investment bank.

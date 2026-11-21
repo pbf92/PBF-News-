@@ -1,0 +1,36 @@
+URL: https://www.medicaldaily.com/childhood-ct-radiation-brain-tumor-risk-jama-481485
+TITLE: Radiation From Childhood CT Scans and Other Imaging Linked to Small Rise in Brain Tumor Risk
+OUTLET: Medical Daily
+
+Children who received more radiation to the brain from medical scans had a higher risk of later developing a brain tumor, according to a study of more than 3.7 million children published Nov. 19 in JAMA. Radiation equal to one head CT scan was linked to a 1.8-fold increase in brain tumor risk, researchers at UC Davis and UC San Francisco reported.
+The added risk is small in absolute terms. One head CT's worth of radiation corresponded to about eight extra brain tumors per 10,000 children by age 21, or roughly one extra tumor for every 1,266 head CTs, according to AuntMinnie's report on the study.
+For parents, the finding is not a reason to refuse a scan a child truly needs. It is a reason to ask whether a scan is needed and whether a test without radiation could answer the same question.
+A Dose Pattern Across Common Scans
+The study followed children born from 1996 to 2016 in six integrated health systems in the United States and Ontario, Canada. Children were tracked from birth for an average of 12.3 years, and researchers estimated the radiation dose to the brain from the X-rays, CT scans, fluoroscopy and nuclear medicine exams in their records.
+During follow-up, 1,536 children were diagnosed with a brain tumor, and 82.5% of those tumors were classified as aggressive. Risk rose with higher cumulative dose. About 64.5% of the tumors were diagnosed between ages 2 and 10, according to UC Davis Health.
+Head CTs drove most of the exposure. A single head CT delivered an average brain dose of about 66 milligray, far higher than most other imaging. About 4.3% of children had one head CT during the study, 0.9% had two and 0.4% had three or more.
+The researchers estimated that about 10% of brain tumors in children and teens in the study could be attributed to radiation from medical imaging. Brain tumors are among the most common childhood cancers and a leading cause of cancer death in children.
+Strong Data, Real Limits
+This was an observational cohort study. It found an association between radiation dose and brain tumor risk, along with a clear dose-response pattern, but it cannot prove that the scans caused the tumors.
+One key limitation is the reason for the scan. Children who get head CTs may already have symptoms or conditions that differ from those of children who do not, and some of those could be linked to tumor risk. Observational data cannot fully rule out that kind of confounding. The risk figures are also population estimates, not a prediction for any single child.
+The study was funded by the National Cancer Institute, with Ontario data supported by the province. It builds on a 2025 study by the same research group that linked imaging radiation to about 1 in 10 childhood blood cancers. That study appeared in The New England Journal of Medicine. Earlier European and Australian studies reached similar conclusions but mostly reflected older CT practices.
+The findings do not change current medical guidance. An accompanying JAMA editorial said a child's cumulative exposure record may help with quality assurance but "should not become an automatic threshold."
+Scans That Save Lives and Scans That Can Wait
+The researchers were clear that imaging is often essential. Diana Miglioretti, a UC Davis Health professor, chief of the Division of Biostatistics and the study's first author, said, "Our findings do not mean that parents should avoid getting their children medically necessary imaging." Senior author Rebecca Smith-Bindman, a UCSF radiologist, said that more careful use of head CT and keeping doses as low as possible for every exam would reduce the harm.
+The harder cases are milder ones. Many emergency departments use validated pediatric decision rules, known as PECARN rules, to decide when a child with a minor head injury can safely skip a CT and be watched instead. Ultrasound and MRI, which use no ionizing radiation, can sometimes answer the same question, though MRI often takes longer and may require sedation in young children.
+Children with chronic conditions face the most cumulative exposure and have the most to gain from careful planning. Kids with shunts for hydrocephalus, repeated head injuries, seizures or cancer may need many scans over the years, and their care teams can look for ways to reduce dose or substitute other tests when appropriate.
+Cost and access also shape choices. MRI is more expensive and often less available after hours, particularly in rural hospitals, which is one reason CT remains common.
+Questions Parents Can Ask Before a Scan
+Parents can ask a few direct questions when a scan is suggested. Is this scan needed now, and how will the result change treatment? Could ultrasound or MRI work instead? Will the CT use settings adjusted for a child's size?
+Keeping a simple record of a child's scans can also help, especially for kids who see several doctors. The Image Gently Alliance publishes guides for parents on pediatric imaging. Sharing a child's imaging history with a new clinician can prevent a repeat scan.
+No one should delay emergency care to ask these questions. A child with a serious head injury, a sudden severe headache, repeated vomiting after a fall, seizures, confusion, or trouble waking needs evaluation right away, and in those situations a CT can be lifesaving.
+Brain tumors in children are rare, and parents should not read this study as a sign that a past scan caused harm. Warning signs that deserve a doctor's visit include persistent morning headaches with vomiting, new balance problems, vision changes, or changes in behavior or school performance.
+The researchers say the results support careful use of imaging, not avoidance. MedicalDaily will report on any changes in pediatric imaging guidance that follow.
+Key Questions Answered
+What did the study find? More radiation to the brain from childhood imaging was linked to a higher risk of brain tumors in children and teens.
+How large is the added risk? About eight extra brain tumors per 10,000 children by age 21 for one head CT's worth of radiation, or about one per 1,266 head CTs.
+Does this prove CT scans cause brain tumors? No. The observational study found an association and a dose pattern but cannot prove cause.
+Should parents refuse CT scans? No. Medically necessary imaging can be lifesaving. Parents can ask whether a scan is needed and whether another test could work.
+Which children get the most radiation? Children who need repeated scans, such as those with shunts, seizures, cancer, or repeated head injuries.
+Where was the study published? In JAMA on Nov. 19, 2026, led by researchers at UC Davis and UC San Francisco.
+Published by Medicaldaily.com

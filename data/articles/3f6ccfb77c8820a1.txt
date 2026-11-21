@@ -1,0 +1,33 @@
+URL: https://www.eurekalert.org/news-releases/1152695
+TITLE: Chinese National Registry reports outcomes of 6,297 pancreatic cancer surgeries
+OUTLET: EurekAlert!
+
+Pancreatic cancer remains a highly lethal malignancy, with 118,700 new cases and 106,300 deaths recorded in China in 2022. To evaluate real-world clinical practices, a new report was published in Volume 9, Issue 3 of the Journal of Pancreatology in September 2026. The report retrospectively reviewed patients recorded in the China Pancreas Data Center (CPDC)—established in 2015 with prospective data collection beginning in 2017—who underwent surgical treatment between January 2020 and December 2021. Out of 74 enrolled centers across 31 provinces, 65 reported valid data.
+Among the 6,297 patients analyzed, the median age was 64 years with a male-to-female ratio of 1.2:1, and the 60–69 age group was the most prevalent at 39.5%. The most common symptoms reported were abdominal pain (51.9%) and jaundice (30.5%), while 22.0% of patients had diabetes, of whom 46.9% suffered from new-onset diabetes. Tumors were localized in the pancreatic head or neck in 62.6% of patients. The disease stage distribution for stages I through IV was 32.5%, 44.7%, 18.7%, and 4.1%, respectively, and 93.0% of patients with reported resectability were deemed resectable.
+Regarding surgical interventions, pancreatoduodenectomy was performed in 3,761 patients, distal pancreatectomy in 2,254, and total pancreatectomy in 252. Minimally invasive surgery was utilized in 30.4% of cases and open surgery in 69.6%, with a conversion rate of 24.9%. Postoperative complications included postoperative pancreatic fistula as the most frequent at 16.2%, followed by abdominal infection at 8.4%, postoperative bleeding at 6.6%, and delayed gastric emptying at 4.9%. Furthermore, an R0 resection was achieved in 95.0% of patients, and 32.3% received adjuvant chemotherapy.
+Short-term safety metrics showed in-hospital, 30-day, and 90-day mortality rates of 0.6%, 1.2%, and 3.1%, respectively. The median overall survival reached 798 days, with 1-, 2-, and 3-year survival rates recorded at 75.8%, 53.3%, and 42.0%, respectively. The data also revealed high geographic concentration, as over 60% of cases originated from the top 10 centers, nearly 70% came from Shanghai (51.7%), Beijing (11.7%), and Zhejiang (6.2%), and 44.8% of patients sought care outside their household registration location. Drawing from these findings of the CPDC, the authors conclude that the utilization of minimally invasive surgery, safety metrics, and patient outcomes align closely with benchmarks from international high-volume centers, highlighting that nationwide benchmarks and standardized protocols are warranted.
+***
+Reference
+Title of original paper: Surgical treatment of pancreatic cancer in China: Annual data report of China Pancreas Data Center (2020–2021)
+Journal: Journal of Pancreatology
+DOI: http://doi.org/10.1097/JP9.0000000000000270
+About Journal of Pancreatology
+Journal of Pancreatology (The JP) is an international, peer-reviewed, open-access medical journal focusing on pancreatic diseases. The JP is the official journal of the Chinese Association of Pancreatology (CAP), sponsored by the Chinese Medical Association (CMA), and published quarterly in English both in print and online issues by Chinese Medical Journals Publishing House Co., Ltd. The JP is distributed globally by Lippincott Williams & Wilkins.
+Why Publish with the JP
+- Focus on pancreatic disease-related epidemiology, clinical, translational research, and frontiers.
+- The journal has been indexed by ESCI, DOAJ, Scopus, Embase, CSTPC, etc.
+- Rapid decision-making: First decision within 14 days, online publication within 2 months.
+- Fully open access and free overseas media promotion (including X, LinkedIn, EurekAlert, etc).
+Website: https://www.ovid.com/jnls/jpancreatology
+Journal
+Journal of Pancreatology
+Method of Research
+Observational study
+Subject of Research
+People
+Article Title
+Surgical treatment of pancreatic cancer in China: Annual data report of China Pancreas Data Center (2020–2021)
+Article Publication Date
+1-Sep-2026
+COI Statement
+None

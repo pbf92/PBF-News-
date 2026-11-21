@@ -1,0 +1,22 @@
+URL: https://www.tradingview.com/news/seekingalpha:e2d284f18094b:0-sa-asks-should-nvidia-bring-back-jensen-huang/
+TITLE: SA Asks: Should Nvidia bring back Jensen Huang?
+OUTLET: TradingView
+
+SA Asks: Should Nvidia bring back Jensen Huang?
+Should Nvidia NVDA bring back Jensen Huang as CEO?
+We asked Seeking Alpha analysts Bashar Issa, Victor Dergunov, Danil Sereda, and The Techie for their thoughts.
+Bashar Issa: Part of me wants Jensen Huang to stay out to break the “indispensable key person” myth used to justify billions in executive compensation, money that would otherwise go to investors who are actually taking the risk.
+Moreover, as I mentioned in a recent article, Jensen Huang has been the hawk of the AI industry, pushing aggressive infrastructure buildout, adoption, and utilization by bringing all the players together. That control is one factor behind NVDA’s spectacularly high margins: for every $1 in COGS, Nvidia NVDA generates $4 in revenue.
+That greed and opportunism aren't what the AI sector needs right now. High GPU costs are distorting data center unit economics, making everyone nervous, and creating market volatility. The sector needs a slowdown. The next phase is low margins and higher volumes to facilitate broader adoption, and Jensen Huang isn't the one to get us there.
+Victor Dergunov: Jensen Huang is too much of a liability for Nvidia NVDA right now given the circumstances, and I don't envision him returning as CEO. It's possible he could come back in a more limited capacity, possibly as a consultant/executive, but ultimately, he would have much less control over the company and its future.
+Danil Sereda: I think bringing back Jensen Huang right now would be a strategic and governance mistake, although tactically it would help Nvidia NVDA regain some of its lost billions in market cap in the short term.
+As I addressed it in my recent article on Nvidia NVDA, Huang was an irreplaceable visionary founder, no questions about it. But Nvidia NVDA isn't a startup anymore that can be a one-man show, so to speak. He made a few mistakes, and the board accepted his resignation with no desire to reinstate him at this time. I think that's fair.
+I also think that reinstating him would not make the intense federal scrutiny disappear. He is now expected to appear before House committees on Dec. 1 as an ex-CEO, not a current one. Given the questions that might be asked, if he returns before then, it could reignite regulatory chaos and undermine the credibility of the board.
+Again, the board is probably the most important thing in a corporate structure, especially for a company with a multi-trillion-dollar market cap. Nvidia NVDA is likely to be fine because its operational engine didn't leave with its founder.
+So, my short answer is no, Nvidia doesn't need to bring Jensen back. It can grow without him with the new, multi-role management structure in place.
+(Danil Sereda leads the SA investing group Beyond the Wall Investing.)
+The Techie: The board was too quick to take action on Jensen Huang’s resignation. To me, it’s very clear that Jensen should be brought back into the company, if not in the capacity of CEO, then in another position. That said, I don’t think we will see that happening, and I think that sooner or later the market must stop beating a dead horse.
+The question to me now is who could replace him and how long that will take, because the company needs a clear leader to navigate everything happening, from anti-China laws to the custom ASIC threat.
+- Top Semiconductor Stocks
+- Trending AI Stocks
+DisclaimerContent provided by Seeking Alpha is intended for information purposes only, and that Seeking Alpha does not offer any personalist investment advice and is not a licensed securities dealer, broker, US investment adviser or investment bank.

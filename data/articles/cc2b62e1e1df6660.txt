@@ -1,0 +1,23 @@
+URL: https://www.educationtimes.com/news/anthropic-mathematician-levent-alpge-claims-claude-assisted-proof-of-the-riemann-hypothesis-what-it-means-for-mathematics-ai-and-number-theory/articleshow/136048576.cms
+TITLE: Anthropic mathematician Levent Alpöge claims Claude-assisted proof of the Riemann hypothesis: what it means for mathematics, AI and number theory
+OUTLET: Education Times
+
+Anthropic mathematician Levent Alpöge claims Claude-assisted proof of the Riemann hypothesis: what it means for mathematics, AI and number theory
+Levent Alpöge, a mathematician employed by the artificial intelligence company Anthropic, has claimed to have proved the Riemann hypothesis with the help of a large language model.
+In a statement on his website, he said he believed he had discovered the proof while working with Claude. The announcement came on a Friday, a day after Anthropic's record-breaking debut on the stock market.
+The Riemann hypothesis was proposed in 1859 by the German mathematician Bernhard Riemann. It concerns the distribution of prime numbers along the number line. Although primes appear scattered at random, the conjecture holds that their locations follow a deep and meaningful order.
+It has long been the guiding problem of number theory. The Clay Mathematics Institute has offered a $1 million prize for its solution, and progress was so rare that many leading experts devoted little time to it, since no clear route to a proof existed.
+Alpöge says his proof establishes the Generalized Riemann Hypothesis, a far broader version of the original conjecture. Many results across mathematics are currently conditional on it, so a proof would immediately turn them into established truths.
+He published the argument in Lean, a programming language that checks the logical correctness of each step. Errors can still arise in how a statement is encoded in Lean, so experts must confirm that the hypothesis has been formalised correctly and that the proof is sound.
+Early signs are favourable, though full scrutiny will take time. Andrew Sutherland of the Massachusetts Institute of Technology said he independently compiled the result in Lean.
+He described the moment as historic and as a human triumph, adding that understanding its mathematical details would take considerable work. The publication reporting the claim has also carried a follow-up saying independent mathematicians consider the proof almost certainly true, though that report is not reproduced here.
+Hector Pasten of the Pontifical Catholic University of Chile said a correct and well-understood proof would complete a dictionary between branches of mathematics whose connections were previously partial, something like a Rosetta Stone.
+Carlo Pagano, a professor at Concordia University and visiting researcher at Google DeepMind, said that even a first reading suggested the proof's new ideas could open fresh avenues in number theory.
+The result has no immediate practical applications. It would not disrupt global banking or speed up the internet. Its importance lies in what it would demonstrate about the intellectual reach of machines.
+Alpöge has been prominent in recent mathematical news. In July, he posted a Claude-generated solution to the Jacobian conjecture, which began an unusually eventful summer for the discipline.
+He was also central to a September controversy involving OpenAI and the Navier-Stokes problem, in which New York University mathematician Tristan Buckmaster implied that the company had used his and Alpöge's work improperly.
+An earlier breakthrough came in October, when one of the results in a large release of mathematics from OpenAI made notable progress in understanding the primes.
+The claim follows a year in which AI systems moved from unreliable problem-solvers to tools of exceptional power across the discipline.
+Alpöge's statement acknowledges the sense of loss many mathematicians feel, yet he describes what he witnessed as the dawn of something far greater across science.
+Sutherland offered a similar perspective, suggesting the most important step in the proof was the building of a machine capable of thinking. He also credited the human effort behind Lean, language models and the centuries of mathematics on which they rest.
+Experts will now examine both the formal Lean code and the underlying mathematical argument. Until that process is complete, the claim should be treated as promising but not yet fully established.

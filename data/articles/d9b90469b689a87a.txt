@@ -1,0 +1,19 @@
+URL: https://www.ghacks.net/2026/11/21/signal-blocks-siri-gemini-and-other-ai-agents-from-reading-your-messages/
+TITLE: Signal Blocks Siri, Gemini and Other AI Agents From Reading Your Messages
+OUTLET: gHacks
+
+Signal has started blocking the AI agents built into iOS and Android from reading its users' messages. Updates to the encrypted messaging app now prevent screenshots in the app on iOS 27, and block AI assistants that try to capture Signal's screen on Android, unless the user turns the protection off.
+Signal says the step is needed because Google and Apple are building agentic features deep into their operating systems. "Google and Apple are integrating agentic capabilities like Gemini Intelligence with Google Gemini and Onscreen Awareness with Siri AI deep into their operating systems," the company wrote in a blog post announcing the change.
+Why Signal Is Blocking AI Agents
+According to Signal, these OS-level agents "scan" the information on the screen to answer questions and complete tasks. When a Signal chat is open, the messages are captured and handed to the agent, and from there they can end up in a local database or on a remote server.
+"All of this is outside of Signal's control once the data has been captured, and imperils the privacy of all the participants in a conversation," Signal said.
+The company already took a similar step on Windows. Last year, Signal turned on screenshot blocking by default to stop Microsoft's Recall feature from taking and storing screenshots of Signal messages on Windows 11.
+Signal calls the new OS integrations "an existential threat" to its ability to guarantee privacy. Its encryption protocol and open source code protect messages in transit, but they cannot protect content that an operating system agent reads directly from the screen.
+What Changes for Users
+- iOS 27: screenshots are blocked inside the Signal app by default.
+- Android: Signal blocks screen capture when it detects an AI assistant trying to read the screen.
+- Opt-out: users who want to take screenshots can turn the protection off in Signal's settings. Signal warns that doing so can expose their own and their contacts' messages to AI agents.
+- macOS: no protection yet. Signal says the tools to build it without breaking the app do not exist.
+Signal admits the fix is incomplete. Blocking screenshots does not stop other ways an AI agent could reach app data, such as reading content stored on the device through the file system.
+Signal calls it "a serious problem" that it and other app developers "lack robust tools to prevent AI agents from undermining application-level privacy." It says Google, Apple and Microsoft do not give developers an easy way to restrict AI data access "without making drastic compromises to the core user experience."
+Signal is calling on the three companies to provide simple technical tools and accurate documentation so developers can keep AI agents away from sensitive app data. It also wants protection against third-party agents, such as Meta's Muse, that use accessibility permissions to read other apps. Signal says Google and Apple are talking with it about how these systems should work with privacy-focused apps, and that it hopes to share more soon.

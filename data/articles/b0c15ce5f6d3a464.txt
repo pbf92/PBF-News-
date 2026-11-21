@@ -1,0 +1,12 @@
+URL: https://www.indy100.com/gaming/gta-6-pc-frame-rate
+TITLE: Will GTA 6 run at 60fps when it releases on PC?
+OUTLET: Indy100
+
+Tech experts have cast doubt as to whether GTA 6 will be able to consistently run at 60fps (frames per second) upon its expected release on PC.
+Rockstar Games technology production director Marc Chambers confirmed to Kotaku there is no way to get GTA 6 running at 60fps on the current generation of consoles, including the PS5 Pro. The game is locked at 30fps on PS5 and XBOX Series X/S.
+GTA 6 is expected to release on PC at some point. Although it has not been officially confirmed, Rockstar has a history of releasing its games on PC a little while after consoles.
+There has been speculation it could release in the first quarter of 2027 - but if it does, tech experts at Digital Foundry have cast doubt as to whether the game could run at a stable 60fps.
+Speaking in a Digital Foundry video entitled Why Isn't GTA 6 a 60fps game?, Oliver Mackenzie said: "I'm doubtful the upcoming PC version of GTA 6 will be able to run it at a perfectly consistent 60fps on decent kit.
+"PC CPUs released in the past few are pretty good but achieving even 200 per cent of console performance isn't going to be enough to clear 60fps, in the game's heavier scenes at least, which we suspect are largely CPU limited."
+It doesn't seem there's any question GTA 6 could reach 60fps on PC - but there is doubt as to whether it can consistently run at that frame rate when there is a lot happening on screen.
+GTA 6 releasing on PC and any details about this are unconfirmed at the time of writing. GTA 6 is out now on PS5 and XBOX Series X/S.

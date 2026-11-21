@@ -1,0 +1,20 @@
+URL: https://www.tradingview.com/news/seekingalpha:d1177f373094b:0-sa-asks-who-s-the-best-positioned-cybersecurity-provider-right-now/
+TITLE: SA Asks: Who's the best-positioned cybersecurity provider right now?
+OUTLET: TradingView
+
+SA Asks: Who's the best-positioned cybersecurity provider right now?
+Who's the best-positioned cybersecurity provider right now?
+Seeking Alpha analysts Julia Ostian, Julian Lin, and Luca Socci gave us their picks.
+Julia Ostian: This is a very difficult question to answer, because most cybersecurity companies have a bunch of similar products, or at least products that solve similar problems in different ways. Competition in this industry is so tough that the customer looks not only at the product itself, but also at how much the license costs and how big the product line is. So different companies fit different customer needs.
+Smaller firms like SentinelOne S and Netskope NTSK are better positioned for smaller customers, but large enterprises most likely don't want to buy from 10 different vendors, so they focus on big players like CrowdStrike CRWD, Palo Alto Networks PANW, Zscaler ZS, and Fortinet FTNT. All of them are now working on solutions to the problems that AI development has created.
+Earlier this year, I said that some of the smaller names were a better buying opportunity, because they sold off the most on AI disruption fears. But as I wrote in my recent Netskope article, most of the good news for cyber is already priced in, and the discount we saw this winter is gone for now.
+So right now, I'm not buying cybersecurity stocks. I think the sector has to cool off, although in my personal portfolio I have held Okta OKTA for quite some time. I trimmed it as it surged, but I'm not selling entirely.
+Julian Lin: I expect the cybersecurity sector to see many quarters of unusually persistent beats to guidance. CrowdStrike CRWD and Cloudflare NET stand out as key names to benefit from the rise in cybersecurity demand, as I expect enterprise customers to prioritize spending with the best. Their valuations might already reflect that optimism, however.
+(Julian Lin leads the SA investing group Best of Breed Growth Stocks.)
+Luca Socci: The recent Microsoft MSFT outage showed why companies might want to keep their cybersecurity separated from their cloud and email provider. So, when it comes to stocks in this space, though MSFT is a big name, I keep thinking that there are stocks better positioned.
+Palo Alto Networks PANW sits at the top of my list because its franchise is vertically integrated and its recent report was truly excellent, showing accelerated growth. However, the market is already paying a high price at 84x fwd EPS.
+The other option is Fortinet FTNT, which is growing fast and trades at 37x earnings. For the double-digit growers in this sector, this is the cheapest multiple. However, its custom-chip firewalls sit precisely inside the data center buildout, a trade that is not currently being favored by investors. So, in terms of positioning, PANW seems the best option, but I would not consider it a buy right now, unless one wants to bet on momentum.
+(Luca Socci is a contributor to the SA investment research service iREIT®+HOYA Capital.)
+- Top Systems Software Stocks
+- Trending AI Stocks
+DisclaimerContent provided by Seeking Alpha is intended for information purposes only, and that Seeking Alpha does not offer any personalist investment advice and is not a licensed securities dealer, broker, US investment adviser or investment bank.

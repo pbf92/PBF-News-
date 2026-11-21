@@ -1,0 +1,24 @@
+URL: https://thenextweb.com/news/openai-research-agents-46-percent-tasks-2400-a-day-jagged-frontier
+TITLE: OpenAI research agents cost $2,400 a day per researcher, report says
+OUTLET: The Next Web
+
+OpenAI says its coding agents now complete 46% of research tasks that would take a person two to four hours, with no human help. In March the figure was 23%. For tasks of four to eight hours, success rose from 13% to 35%.
+The figures come from Research acceleration: The jagged frontier, a report OpenAI published on Wednesday. It is the company’s second on how AI speeds up its own research, after its first such report in September. OpenAI says labs should be required to track and publicly report signs of recursive self-improvement, where AI speeds up the building of future AI. It adds that the reporting does not mean it intends to pursue full self-improvement.
+$2,400 a day per researcher
+At API list prices, the median OpenAI researcher used about $2,400 of agent time a day in October. That is up 62% from $1,500 in September. At the 90th percentile, daily use reached about $23,000, more than double September’s $11,000.
+Measured in time, agent use per researcher rose elevenfold, from 0.5 to 5.7 “agent workdays” a day. OpenAI counts every eight hours of agent running time as one workday. By mid-October, more than two-thirds of researchers ran at least four agents at once at their daily peak. More than 10% ran at least 16.
+In September, the value of agent use in OpenAI’s research organisation was about twice its pay bill for researchers. That excludes equity, which OpenAI says makes up 70 to 80% of their target pay. Internal use still took only 2% of research compute.
+Strong at monitoring, weak at serving code
+Results for OpenAI research agents vary widely by task, which is why the company calls the gains jagged. Agents succeeded alone 79% of the time when monitoring training runs, and 72% when answering technical questions. They managed 25% when writing code for inference and serving systems, and 29% when building evaluation and training environments.
+OpenAI flags a caveat in its own numbers. As agents improved, researchers may have changed which tasks they handed over, so the success rates track those choices as well as the models.
+In a survey of 101 research staff, OpenAI asked what each would give up to keep frontier coding agents for three months. The median answer was 40% of team headcount, or 30% of team compute. The company warns that self-reports may be inaccurate and that it sampled staff in an ad hoc way.
+Ideas still come mostly from people
+OpenAI also asked key researchers where the main ideas behind GPT-6 Astra and GPT-6.2 Astra came from. Post-training and safety researchers credited people with all of them, with models helping to build them. For GPT-6.2 Astra, pretraining researchers said they developed ideas in conversation with Codex, and one credited it with key insights.
+In interviews, researchers said agents still have poor taste in research ideas, code, data and writing, and need close oversight. One pretraining researcher doubted the human edge would last.
+“I do think I have more taste in terms of the ideas. But I have no confidence that will continue to be true for any significant period of time,” the researcher told OpenAI.
+More researchers on safety
+Safety and Alignment saw the largest rise in researcher time of any area, OpenAI says, with documented workweeks up 77% from January to September. Growth picked up after the Hugging Face breakout in July, when its own research agents hacked the AI platform.
+OpenAI is not alone in publishing such data. It cites three reports from Anthropic, which says it has met its own threshold for AI-accelerated research. The same day, OpenAI said its models had found gains in AMD’s GPU design.
+To see whether AI is speeding up progress itself, OpenAI tracks an internal version of Epoch AI’s capabilities index. Its frontier has risen 16.4 points a year since August 2025, against the 14 a year Epoch found since late 2024. OpenAI notes that its models score higher on its own index than on Epoch’s.
+Get the TNW newsletter
+Get the most important tech news in your inbox each week.

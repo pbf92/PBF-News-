@@ -1,0 +1,14 @@
+URL: https://www.tradingview.com/news/seekingalpha:cde546ea5094b:0-trump-threatens-tremendous-tax-on-u-s-firms-building-data-centers-abroad/
+TITLE: Trump threatens ‘tremendous tax’ on U.S. firms building data centers abroad
+OUTLET: TradingView
+
+Trump threatens ‘tremendous tax’ on U.S. firms building data centers abroad
+President Donald Trump has said that his administration will ban U.S. companies from building data centers in other countries, and those who do so will face a “tremendous tax,” a policy move that caught his own staff members by surprise.
+"We're not going to allow our companies to build data centers outside of our country," Trump said during a press conference at the White House on Friday after returning from his trip to Asia. “I don’t know if that’s a breaking story,” Trump added. “I haven’t even said that to my people. But I’m telling them now they’re here.”
+His remarks came after public backlash against data centers fueled victories for some of the Democratic candidates who pledged tougher regulations on their construction in states such as Texas in the lead-up to the U.S. midterm elections.
+The massive warehouse-style buildings incorporating numerous computer chips are crucial to the AI boom, as they help run popular large language models such as Claude and ChatGPT. The U.S. is home to about 3,000 data centers, while another 1,500 structures are in various stages of development as of April, according to the Pew Research Center.
+“We’re going to fight very hard for the data centers,” Trump said, noting that "we're going to keep it all in this country.”
+If implemented, Trump's policy will be a major headwind for AI hyperscalers such as Meta META and Alphabet GOOG, which have signed agreements worth billions of dollars to build overseas data centers as part of business and regulatory requirements.
+“We have a lot of places that want them badly, and they’re great places. They have energy, and they have everything. They’re tremendous assets,” Trump said.
+Other potentially relevant tickers: AMT, CSCO, AMZN, MSFT, EQIX, DLR, IRM, ETN, AVGO, ANET, CEG, VRT, ORCL, DELL, SMCI, AMD, MRVL, NVDA, IREN, CRWV, APLD, NBIS
+Dear readers, We recognize that politics often intersects with the financial news of the day, so we invite you to click here to join the separate political discussion. DisclaimerContent provided by Seeking Alpha is intended for information purposes only, and that Seeking Alpha does not offer any personalist investment advice and is not a licensed securities dealer, broker, US investment adviser or investment bank.
