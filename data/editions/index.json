@@ -1,6 +1,21 @@
 {
- "latest": "2026-11-20",
+ "latest": "2026-11-21",
  "editions": [
+  {
+   "date": "2026-11-21",
+   "type": "weekend",
+   "top": [
+    "Nasdaq 100 ends worst week since 2020; S&P 500 and Dow in correction",
+    "Pochettino's first match in charge is Liverpool away on Sunday, with United 18th",
+    "Anthropic mathematician claims a Claude-assisted proof of the Riemann hypothesis; unverified"
+   ],
+   "status": {
+    "story": 5,
+    "quiet": 5,
+    "failed": 0
+   },
+   "updates": 0
+  },
   {
    "date": "2026-11-20",
    "type": "weekday",

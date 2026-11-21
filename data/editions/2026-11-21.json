@@ -1,0 +1,398 @@
+{
+ "date": "2026-11-21",
+ "type": "weekend",
+ "read_minutes": 3,
+ "note": "Weekend light edition. The headline fetch came back fast, so the inbox may be thinner than usual.",
+ "before_open": [],
+ "week_ahead": [],
+ "top": [
+  {
+   "headline": "Nasdaq 100 ends worst week since 2020; S&P 500 and Dow in correction",
+   "why": "A violent AI-led sell-off sets a fragile tone for Sunday evening's futures open and the Thanksgiving week. Risk of follow-through is high.",
+   "points": [
+    "Week to 20 Nov: S&P 500 about -8.6%, Nasdaq 100 -10.4%, Dow -8%, Russell 2000 -7.5% (TradingView/Stocktwits).",
+    "Friday: S&P 500 fell 3.7% (SPY), seventh straight lower session; S&P and Dow confirmed correction territory.",
+    "Semiconductor ETFs fell 17-18% on the week; fear gauge at its highest since April 2025.",
+    "Bitcoin near $59,000, seventh straight weekly decline; Reuters says lowest in two years. Market scaled back Fed December cut expectations."
+   ],
+   "next": "Futures reopen Sunday evening 22 Nov; Thanksgiving week brings retail and tech earnings and the Fed's preferred inflation gauge (IBD).",
+   "confidence": "reported",
+   "impact": "high",
+   "thread": {
+    "id": "ai-selloff-nov",
+    "name": "AI sell-off and market correction",
+    "status": "new",
+    "day": 1
+   },
+   "sources": [
+    {
+     "name": "TradingView",
+     "url": "https://www.tradingview.com/news/stocktwits:8f0c4af5f094b:0-nasdaq-100-ends-worst-week-since-2020-s-p-500-in-correction-territory-as-ai-rout-sours-sentiment-ant-nvda-ttwo-zs-crwd-in-focus/"
+    },
+    {
+     "name": "Investor's Business Daily",
+     "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-worst-week-covid-nvidia-anthropic-vix-fear-gauge/"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/legal/transactional/wall-st-futures-slip-anthropic-debut-fails-reassure-ai-investors-2026-11-20/"
+    }
+   ],
+   "desk": "world"
+  },
+  {
+   "headline": "Pochettino's first match in charge is Liverpool away on Sunday, with United 18th",
+   "why": "The new manager gets no easing in: a bottom-three side visits fourth-placed Liverpool, so Sunday is the first read on whether the change has done anything.",
+   "points": [
+    "United are 18th after 10 games: won 1, drawn 5, lost 4; last outing was a 4-4 home draw with Aston Villa",
+    "Pochettino replaced Michael Carrick during the November international break and keeps Bruno Fernandes as captain",
+    "Lisandro Martinez is back from suspension; Dorgu and Maguire are back in training; Baleba, Rashford, Sesko, Shaw and Ugarte are listed as sidelined",
+    "United are unbeaten in their last three visits to Anfield and did the league double over Liverpool last season"
+   ],
+   "next": "Liverpool v Manchester United at Anfield, Sunday 22 Nov 2026",
+   "confidence": "confirmed",
+   "impact": "high",
+   "thread": {
+    "id": "pochettino-era",
+    "name": "Pochettino era begins",
+    "status": "changed",
+    "day": 9
+   },
+   "sources": [
+    {
+     "name": "Liverpool FC",
+     "url": "https://www.liverpoolfc.com/news/the-opposition-lowdown-manchester-united"
+    },
+    {
+     "name": "Yahoo Sports",
+     "url": "https://sports.yahoo.com/articles/man-united-bruno-fernandes-decision-115000784.html"
+    }
+   ],
+   "desk": "united"
+  },
+  {
+   "headline": "Anthropic mathematician claims a Claude-assisted proof of the Riemann hypothesis; unverified",
+   "why": "If it holds, it is the biggest AI-in-research result yet; for now it is a single author's claim from the lab's own non-public model, on the day after Anthropic's listing. Verification will take time.",
+   "points": [
+    "Levent Alpöge of Anthropic posted a four-page statement and a Lean-formalised proof on 20 Nov, saying he worked with Claude for about six weeks; he says it also covers the Generalized Riemann Hypothesis.",
+    "Per the BBC, the Lean proof runs to over 250,000 lines and used a non-public Claude version; Anthropic has issued no official announcement (SiliconANGLE).",
+    "Reaction is split: James Maynard says it would be 'a historic milestone' if it checks out; Terence Tao says verification is 'some way off'; Andrew Granville calls the write-up 'garbled' (Nature).",
+    "Timing, a day after Anthropic's IPO, has drawn criticism; Alpöge calls the cynical reading 'false'. The full paper has not been released."
+   ],
+   "next": "No dated catalyst; watch for expert review of the Lean files and the full paper, which has not yet been released.",
+   "confidence": "claim",
+   "impact": "high",
+   "thread": {
+    "id": "ai-science-claims",
+    "name": "AI contributions to science",
+    "status": "changed",
+    "day": 6
+   },
+   "sources": [
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o"
+    },
+    {
+     "name": "SiliconANGLE",
+     "url": "https://siliconangle.com/2026/11/20/anthropic-researcher-claims-to-have-proven-riemann-hypothesis-using-claude/"
+    },
+    {
+     "name": "The Decoder",
+     "url": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/"
+    },
+    {
+     "name": "Nature News",
+     "url": "https://www.nature.com/articles/d41586-026-03812-7"
+    }
+   ],
+   "desk": "ai"
+  }
+ ],
+ "desks": [
+  {
+   "id": "united",
+   "name": "Manchester United & Football",
+   "status": "quiet",
+   "stories": [],
+   "note": "Lead story: see top."
+  },
+  {
+   "id": "world",
+   "name": "World Affairs & Politics",
+   "status": "story",
+   "stories": [
+    {
+     "headline": "Two tanker incidents near Oman as Iran says a vessel hit a mine east of Hormuz",
+     "why": "Fresh Gulf shipping attacks keep Hormuz risk live for oil and Monday's index futures open. Cause of the incidents is not yet established.",
+     "points": [
+      "UK maritime agency (UKMTO) reported two tanker incidents near Oman on 21 Nov, one a tanker hit by an unknown projectile near Khasab.",
+      "Iran said a vessel hit a mine east of the Strait of Hormuz.",
+      "Reuters headline only; full details not saved, so attribution of the cause is unconfirmed.",
+      "Gulf tension thread already running: Saudi Arabia also reported intercepting three Houthi missiles aimed at Riyadh on 20 Nov."
+     ],
+     "next": "Further UKMTO advisories and oil's reaction when futures reopen Sunday evening (21 Nov PT).",
+     "confidence": "reported",
+     "region": "Global",
+     "impact": "high",
+     "thread": {
+      "id": "hormuz",
+      "name": "Strait of Hormuz attacks",
+      "status": "changed",
+      "day": 20
+     },
+     "sources": [
+      {
+       "name": "Reuters",
+       "url": "https://www.reuters.com/business/energy/tanker-hit-by-unknown-projectile-near-omans-khasab-ukmto-says-2026-11-21/"
+      },
+      {
+       "name": "Gulf News (search)",
+       "url": "https://gulfnews.com/world/gulf/oman/tanker-hit-by-unknown-projectile-near-oman-in-latest-hormuz-attack-1.500752860"
+      }
+     ],
+     "desk": "world"
+    }
+   ],
+   "note": "Also today: Denmark is pushing the EU to tighten travel curbs on Russians after a foiled plot (Reuters, headline only)."
+  },
+  {
+   "id": "prop",
+   "name": "Futures & Prop Firms",
+   "status": "quiet",
+   "stories": [],
+   "note": "Weekend light edition: only Unsure/aggregator tip-offs (challenge-rule explainers, a TradingView risk-dashboard script); no firm-confirmed rule change found. Topstep threads (nov-2026 rules, country restrictions) not confirmed changed; a search turned up only third-party trackers."
+  },
+  {
+   "id": "tradetech",
+   "name": "Trading Technology",
+   "status": "quiet",
+   "stories": [],
+   "note": "Weekend light edition: headlines were generic market/stock items with nothing on TradingView, Pine Script, Quantower or AI trading tools; a search found no new Pine release news."
+  },
+  {
+   "id": "ai",
+   "name": "Artificial Intelligence",
+   "status": "quiet",
+   "stories": [],
+   "note": "Lead story: see top. Anthropic ended its record IPO week up 7%, after giving back most of a 17% debut pop (Renaissance Capital)."
+  },
+  {
+   "id": "business",
+   "name": "Business & E-commerce",
+   "status": "story",
+   "stories": [
+    {
+     "headline": "Google lets Target and Albertsons carts be built inside Search and Gemini",
+     "why": "Shopping is moving into AI chat, so the product-selection moment can happen on Google rather than the retailer's site. Brands that advertise with grocers should watch how products get chosen.",
+     "points": [
+      "Google began rolling out Connected Apps for Albertsons, Safeway, Shaw's and Target in Search and the Gemini app in the US on 20 Nov, via its Universal Commerce Protocol.",
+      "Experian, H&R Block, Angi and Thumbtack are also named for Search.",
+      "Google has not said how products are chosen, who processes payment, or whether ads will appear (PPC Land's reading of the Google post)."
+     ],
+     "next": "Angi and Thumbtack account linking in Search 'within weeks' per Google; no firm date.",
+     "confidence": "reported",
+     "impact": "medium",
+     "thread": {
+      "id": "meta-muse-commerce",
+      "name": "AI agents as a checkout channel",
+      "status": "changed",
+      "day": 3
+     },
+     "sources": [
+      {
+       "name": "PPC Land",
+       "url": "https://ppc.land/google-puts-target-and-albertsons-grocery-carts-inside-search-and-gemini/"
+      }
+     ],
+     "desk": "business"
+    }
+   ]
+  },
+  {
+   "id": "faith",
+   "name": "Christianity & Theology",
+   "status": "story",
+   "stories": [
+    {
+     "headline": "Apologist Wes Huff admits plagiarism and steps back from ministry",
+     "why": "A prominent popular apologist (Rogan, Piers Morgan appearances) has conceded plagiarism, a credibility test for online apologetics and its scholarship standards.",
+     "points": [
+      "On 19 Nov Huff posted on X that it was 'wrong and sinful' and he failed to uphold integrity",
+      "Dan McClellan compared a 2016 Tyndale Seminary paper on John's Gospel with Brian J Wright's earlier paper, alleging matching arguments and citation errors; others alleged further copying",
+      "Apologetics Canada, where he is vice president, will run a full review",
+      "He is a PhD student at Wycliffe College, Toronto"
+     ],
+     "next": "Apologetics Canada review outcome; no date given.",
+     "confidence": "confirmed",
+     "impact": "medium",
+     "thread": {
+      "id": "wes-huff-plagiarism",
+      "name": "Wes Huff plagiarism",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Premier Christian News",
+       "url": "https://premierchristian.news/us/news/article/wes-huff-admits-plagiarism-and-steps-back-from-ministry"
+      }
+     ],
+     "desk": "faith"
+    },
+    {
+     "headline": "Ethiopia: about 34 more Orthodox Christians killed in Arsi, UK condemns violence",
+     "why": "Open Doors counts nearly 100 Orthodox Christians killed since October in one Oromia area, and the UK government has now responded formally. A live global-Christianity persecution story.",
+     "points": [
+      "At least 34 killed in Andato Kebele, Robe District, East Arsi Zone, on 5 Nov, per residents cited by Open Doors; toll may rise",
+      "Earlier attacks: the Ethiopian Orthodox Church says at least 60 killed last month; Open Doors counts nearly 100 since October",
+      "Government blames rebel groups; church members allege tension over settlement and call for an independent investigation",
+      "Foreign Office minister Kirsty McNeill (written answer to Desmond Swayne) condemned attacks on people and places of worship; WCC also condemned the pattern"
+     ],
+     "next": "No dated catalyst; watch for any independent investigation or further attacks in Arsi Zone.",
+     "confidence": "reported",
+     "impact": "medium",
+     "thread": {
+      "id": "ethiopia-orthodox-attacks",
+      "name": "Ethiopia Orthodox Christians attacked",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Premier Christian News",
+       "url": "https://premierchristian.news/en/news/article/three-dozen-ethopian-orthodox-christians-killed-second-attack-fortnight"
+      },
+      {
+       "name": "Premier Christian News",
+       "url": "https://premierchristian.news/en/news/article/uk-condemns-attacks-on-orthodox-christian-communities-in-ethiopia"
+      }
+     ],
+     "desk": "faith"
+    }
+   ]
+  },
+  {
+   "id": "health",
+   "name": "Health & Wellness",
+   "status": "story",
+   "stories": [
+    {
+     "headline": "Lancet Psychiatry meta-analysis: escitalopram and duloxetine best sustain antidepressant response",
+     "why": "Rare head-to-head long-term comparison; relevant to anyone weighing how long and on what to stay on an antidepressant. Fluoxetine was the benchmark.",
+     "points": [
+      "Network meta-analysis of 115 double-blind RCTs, 30,428 adults with unipolar depression, 21 drugs, searched to 27 Mar 2026",
+      "Versus fluoxetine, sustained response: escitalopram OR 1.62 (1.21-2.18), duloxetine OR 1.57 (1.08-2.26), agomelatine OR 1.40 (1.06-1.85)",
+      "Escitalopram and duloxetine also had lower all-cause discontinuation (OR 0.60 and 0.64)",
+      "Published 10 Nov 2026, Radboud UMC and Oxford (Cipriani) consortium"
+     ],
+     "next": "No dated catalyst; watch guideline responses.",
+     "confidence": "confirmed",
+     "grade": "A",
+     "study": "Systematic review and network meta-analysis of RCTs, n=30,428 adults (mean age 45, 66% women); limitation: indirect comparisons, only 35 head-to-head trials (9,888 patients), heterogeneous continuation designs",
+     "impact": "medium",
+     "thread": {
+      "id": "antidepressant-maintenance-nma",
+      "name": "Long-term antidepressant maintenance NMA",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "CASRAI summary",
+       "url": "https://casrai.org/news/lancet-meta-analysis-115-trials-long-term-antidepressant-maintenance-2026"
+      },
+      {
+       "name": "EurekAlert news release",
+       "url": "https://www.eurekalert.org/news-releases/1150667"
+      }
+     ],
+     "desk": "health"
+    }
+   ]
+  },
+  {
+   "id": "gaming",
+   "name": "Gaming & PlayStation",
+   "status": "story",
+   "stories": [
+    {
+     "headline": "Rockstar says GTA VI took $3.79bn in day-one sales, the biggest entertainment launch on record",
+     "why": "This is a Rockstar/Take-Two figure, but it resets expectations for the holiday console season and shows how much demand is sitting behind the game.",
+     "points": [
+      "Rockstar's company estimate to the end of launch day (Thursday 19 Nov): $3.79bn worldwide, against roughly $800m for GTA V in 2013",
+      "32.5m units sold pre-release; Sensor Tower had put pre-launch revenue at $2.36bn and said over 80% of pre-orders were the $100 Ultimate Edition",
+      "Game is on PS5 and Xbox Series X|S only; no PC version announced, and Metacritic shows 99",
+      "Rockstar workers are voting on union recognition (IWGB) until 26 Nov, with layoffs and an employment tribunal still in the background"
+     ],
+     "next": "Rockstar union recognition vote closes 26 Nov 2026; no PC date announced",
+     "confidence": "claim",
+     "impact": "high",
+     "thread": {
+      "id": "gta6-launch",
+      "name": "GTA VI launch",
+      "status": "changed",
+      "day": 27
+     },
+     "sources": [
+      {
+       "name": "The Guardian",
+       "url": "https://www.theguardian.com/games/2026/nov/21/a-new-record-for-entertainment-grand-theft-auto-vi-sales-hit-38bn-on-first-day-of-release-developer-says"
+      },
+      {
+       "name": "CNN",
+       "url": "https://www.cnn.com/2026/11/20/media/gta-vi-launch-sales-numbers"
+      },
+      {
+       "name": "Engadget",
+       "url": "https://www.engadget.com/2323671/gta-6-made-dollar379-billion-in-its-first-day-but-rockstars-workers-still-lack-job-security/"
+      },
+      {
+       "name": "Video Games Chronicle",
+       "url": "https://www.videogameschronicle.com/guide/gta-6-pc-version/"
+      }
+     ],
+     "desk": "gaming"
+    }
+   ]
+  },
+  {
+   "id": "expand",
+   "name": "Expand My World",
+   "status": "quiet",
+   "stories": [],
+   "note": "This week's discovery is the Claude-assisted Riemann hypothesis claim: see top."
+  }
+ ],
+ "watching": [
+  {
+   "thread": "ukraine-talks",
+   "line": "Trump cited good talks with Putin on 20 Nov but held back on security guarantees."
+  },
+  {
+   "thread": "fed-december",
+   "line": "Rate-cut expectations for December were scaled back during the sell-off."
+  },
+  {
+   "thread": "anthropic-ipo",
+   "line": "Shares ended the debut week up 7% after a 17% first-day pop faded."
+  },
+  {
+   "thread": "baleba-injury",
+   "line": "Still listed among United's sidelined players ahead of Anfield."
+  },
+  {
+   "thread": "topstep-nov-2026-rules",
+   "line": "No new official Topstep announcement seen."
+  }
+ ],
+ "close_threads": [],
+ "expand": null,
+ "generated_at": "2026-11-21T13:58:52Z",
+ "updates": [],
+ "status": {
+  "story": 5,
+  "quiet": 5,
+  "failed": 0
+ }
+}
