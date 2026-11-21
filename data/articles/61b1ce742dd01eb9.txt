@@ -1,0 +1,27 @@
+URL: https://www.fool.com/investing/2026/11/19/is-nvidia-stock-a-once-in-a-decade-buying-opportunity-after-its-latest-earnings/
+TITLE: Is Nvidia Stock a Once-in-a-Decade Buying Opportunity After Its Latest Earnings?
+OUTLET: The Motley Fool
+
+Key Points
+- Nvidia beat estimates once again, and the company’s profits are growing faster than revenue.
+- The company's fourth-quarter guidance is $130 billion, and it raised its fiscal 2028 growth guidance to 75%.
+- Blowout results at a fair price, but the open CEO search keeps this from once-in-a-decade territory.
+The past week has been hard on Nvidia (NVDA -14.01%). The semiconductor leader had to separate from its co-founder and now-former CEO, Jensen Huang, after he was embroiled in a scandal involving alleged extramarital affairs, including with a woman believed to be a Chinese intelligence asset. Colette Kress, who remains CFO, has stepped up as interim CEO, leading the company through its first quarterly update since Huang's departure.
+And what an update it was. Nvidia once again crushed expectations, but that wasn't enough to jolt the stock, which remains down significantly since it reached a new all-time high in early October. Is Nvidia a generational buying opportunity at current levels?
+Image source: Nvidia.
+Yet another blowout quarter
+Death, taxes, and Nvidia's financial results coming in above analysts' projections seem to be the only certain things these days. In the third quarter of its fiscal year 2027, which ended on Oct. 25, the company's revenue came in at $115.8 billion, up 103% compared to the year-ago period. Data center revenue grew 110% year over year to $107.6 billion.
+Nvidia's non-GAAP gross margin was 74.9%, compared to the 73.5% reported in the prior-year quarter. The semiconductor specialist's non-GAAP operating income was $77.9 billion, rising 116% year over year, while its non-GAAP earnings per share were $2.68, up 111% year over year.
+The fact that profits are growing faster than revenue is a strong sign for Nvidia, given the industry's increasing competitiveness. While some investors worry that competition from custom AI chips will erode the company's pricing power in the GPU (graphics processing unit) market, as hyperscalers and other corporations increasingly opt for these custom chips, it seems, at least, that this hasn't happened yet. Improving margins are a sign that Nvidia maintains strong pricing power.
+Meanwhile, Nvidia's free cash flow for the period was $43.8 billion, rising 98% year over year. The company also posted excellent guidance. Nvidia expects $130 billion in revenue (at the midpoint) for its fourth quarter. That would represent a 91% year-over-year increase.
+What's next for Nvidia?
+Of course, Nvidia's financial results and guidance were only part of the story. The market wants to know how the company's efforts to replace Huang are going. Nvidia said it isn't interested in bringing back Huang, despite many people, both inside and outside the company, calling for his reinstatement. And it is actively looking for a replacement, although nobody knows when Nvidia will find someone to step into the CEO role permanently. In my opinion, that's both good and bad.
+It's bad because the longer this search drags on, the more uncertainty it could add to the company's prospects. But it's good because replacing a CEO as effective as Huang isn't an easy task, and the company's board is rightfully taking the time it needs to do so, or so it seems. In the meantime, several factors highlight just how massive an opportunity Nvidia could still tap into, even as it faces a more stringent regulatory environment.
+During the recent U.S. midterm elections, voters elected many lawmakers and politicians across various states who had promised to be stricter on the AI industry. This may result in delayed permits and slower data center build-outs. However, Nvidia expects a great year ahead. The company raised its guidance for the fiscal year 2028, which covers most of the calendar year 2027.
+The company now expects revenue to grow 75% in fiscal year 2028, up from its previous projection of 70% -- and that's after also raising its guidance for its current fiscal year. If we assume Nvidia's fourth-quarter revenue lands at the midpoint, it could generate $423.7 billion this fiscal year and $741.4 billion next year, based on its projected 75% growth rate.
+So, given its current market cap of $3.8 trillion, Nvidia is trading at 5.1x estimated fiscal year 2028 revenue -- that's more than fair for a company growing as fast as it is, in my view. However, the CEO search does introduce some uncertainty. And we still have to account for the risk of margin erosion as industry competition intensifies. So, what's the verdict?
+Nvidia looks like a buy at current levels, but it's hardly a once-in-a-decade buying opportunity. Still, investors who purchase the company's shares today could see strong returns over the medium term.
+Where to invest $1,000 right now
+When our analyst team has a stock tip, it can pay to listen. After all, Stock Advisor's total average return is 768%* — a market-crushing outperformance compared to 199% for the S&P 500.
+They just revealed what they believe are the 10 best stocks for investors to buy right now, available when you join Stock Advisor.
+*Stock Advisor returns as of November 20, 2026.

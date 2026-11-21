@@ -1,0 +1,8 @@
+URL: https://digg.com/ai/d1m3ie6y
+TITLE: Applied Compute announces $350M funding round at $3.25B valuation
+OUTLET: Digg
+
+In a Nov. 2, 2026, post, Applied Compute announced a $350 million funding round at a $3.25 billion valuation. The company trains and deploys custom AI models for businesses. It also reported reaching $100 million in annualized revenue run rate less than 18 months after its founding.
+The company named Elad Gil as the round’s leader. Gil posted that Gil&Co would lead the round.
+Applied Compute says it has more than doubled the number of enterprises it serves since its last fundraise. It reports that 40% of its customers use both its training and inference services, while AC Inference serves more than 1 trillion tokens a day. In a Nov. 2 post, ypatil125 said the inference service had launched 12 weeks earlier. Those customer and usage figures are the company’s account.
+Applied Compute lists Microsoft, Shopify, Harvey, DoorDash, Cognition, Clay and Decagon as companies using its services. It says customers have run more than 1,700 training runs on its AC2 platform since July. The company plans to use the new funding to expand compute capacity, grow its team and accelerate enterprise deployment.

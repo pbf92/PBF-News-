@@ -1,0 +1,27 @@
+URL: https://www.tradingview.com/symbols/NASDAQ-SKHY/
+TITLE: SKHY Stock Price and Chart — NASDAQ:SKHY
+OUTLET: TradingView
+
+SKHY - Reversal Strategy Long Setup 
+ 🍀Overview 
+ 
+ The strategy has identified a qualifying setup, triggered an alert, and placed a long bracket order according to predefined rules.
+ I am not a discretionary technical analyst, so I rely on predefined setups rather than subjective chart analysis. I built the rules into a strategy to
+Company info
+CEO
+Noh-Jung Kwak
+Headquarters
+Icheon
+Founded
+1949
+IPO date
+Dec 26, 1996
+ISIN
+US78392B2060
+CUSIP
+78392B206
+FIGI
+BBG0238L5JS9
+Identifiers
+ISIN US78392B2060
+SK hynix, Inc. engages in the design, manufacture, and sale of semiconductor products. Its products include dynamic random access memory, not-AND flash memory, and multi-chip package. The company was founded on October 15, 1949 and is headquartered in Icheon, South Korea.

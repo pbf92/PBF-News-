@@ -1,0 +1,11 @@
+URL: https://www.newser.com/story/400393/mathematician-credits-ai-on-millennium-prize-problem.html
+TITLE: Mathematician Credits AI on Millennium Prize Problem
+OUTLET: Newser
+
+Mathematician Says Claude Helped Solve Famed Hypothesis
+One of math's biggest white whales may have been harpooned—with an AI company holding the rope. Levent Alpoge, a mathematician at Anthropic, says he has a proof of the Riemann hypothesis, the 165-year-old conjecture about the pattern of prime numbers that sits on the list of $1 million Millennium Prize problems. Alpoge credits Anthropic's Claude models with rapidly outstripping his own progress as the proof neared completion, the Washington Post reports, and has released a 17 million-line machine-verification certificate instead of a traditional paper that he says would run to roughly 250,000 pages.
+Anthropic hasn't said anything about the claim, per the Verge, and it hasn't been verified independently. The company posted in August that Claude was working on the hypothesis but that it didn't expect success. Mathematicians are debating what AI-driven breakthroughs mean for their field, already rattled by recent AI-assisted advances on the Navier-Stokes problem and hundreds of other questions, per the Post. They're now racing to scrutinize the work—and decide what it adds up to.
+- Trump responds to Musk saying he's 'not MAGA.'
+- Couple caught in FAA shutdown finds a famous road-trip partner.
+- Josh Hawley changes his tune on 2028.
+- Parents arrested after 2-year-old has unnecessary surgery.

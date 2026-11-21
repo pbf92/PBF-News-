@@ -1,0 +1,26 @@
+URL: https://news.sbs.co.kr/english/article.do?news_id=N1008856699
+TITLE: Claim Made That Anthropic's Claude Proved Riemann Hypothesis, a Major Mathematical Enigma
+OUTLET: news.sbs.co.kr
+
+A researcher at AI company Anthropic has claimed that the company's AI service, Claude, has proved the Riemann hypothesis, considered one of the greatest unsolved problems in mathematics, according to AFP and the Financial Times.
+Levente Alföldy, an Anthropic researcher who is also a mathematician, claimed in a post on his website and a four-page document published on November 20 local time that he "believes he has found a proof of the Riemann hypothesis in collaboration with Claude."
+This claim has not yet been independently verified or subjected to rigorous peer review by external experts.
+However, Brian Conrey, an authority in the field of the Riemann hypothesis, told AFP that it is a "monumental moment in human history," adding, "In my opinion, it is truly the biggest event in the history of mathematics."
+He also stated, "I haven't seen the manuscript yet, I only checked what Alföldy posted on his website, and I have requested a copy of the manuscript," adding, "The proof method looks quite complex, and I believe simpler ways to prove it will emerge."
+Kit Yates, a professor of mathematical biology and public engagement at the University of Bath, predicted, "It will face intense scrutiny," but added, "If it passes verification, it will send massive shockwaves through our understanding of both the capabilities of mathematics and AI."
+Alföldy first released a version of the proof written in Lean, a programming language that uses computers to verify mathematical proofs, and stated that he also solved the broader "generalized Riemann hypothesis."
+He explained that the volume of work utilizing AI exceeded 250,000 pages, noting, "It is clearly inappropriate to publish a disaster of massive, unreadable 'slop' (low-quality output mass-produced by AI)."
+He continued, "Near the finish line, Claude flew far ahead of me, dancing and glittering," adding, "I found myself in the unusual situation of presenting a complete argument to the world without fully grasping the surrounding mathematical context."
+He shared that he announced the results after consulting with Anthropic CEO Dario Amodei, while acknowledging that the timing of the announcement could draw cynical views.
+This announcement came the day after Anthropic's record-breaking initial public offering (IPO).
+Previously, competitor OpenAI also announced in September that its AI model had developed a solution to the Navier-Stokes equations, another Millennium Prize Problem concerning fluid motion.
+At the time, Alföldy, who was studying the problem alongside New York University mathematician Tristan Buckmaster, raised a credit dispute, suggesting their research data may have been used during the process of utilizing OpenAI's tool. OpenAI CEO Sam Altman countered by calling it "baseless plagiarism claims."
+OpenAI also released hundreds of papers last month claiming proofs for several unsolved problems, but experts evaluated that impressive achievements were mixed with errors and hard-to-read results.
+At that time, the Association for Human Mathematics urged mathematicians to cut ties with OpenAI, vowing to protect mathematics from the threats of AI.
+Nestor Guillen, a visiting professor in the Department of Mathematics at New York University, positively noted that Alföldy was honest about not fully understanding the proof, evaluating that the collaboration process with AI he described shows that AI functions more as a "tool" than a "machine god."
+Proposed in 1859 by German mathematician Bernhard Riemann, the Riemann hypothesis is a core problem in number theory concerning the distribution and patterns of prime numbers, which are numbers divisible only by 1 and themselves.
+The core of the hypothesis is that prime numbers, which appear to emerge randomly, actually follow a certain order and pattern based on specific values (non-trivial zeros) of a complex function called the Riemann zeta function.
+Because prime numbers form the mathematical foundation of public-key cryptography (RSA) systems used in modern internet finance and cryptocurrency, a proof of the Riemann hypothesis could have massive repercussions across cryptography, quantum physics, and computer science.
+The Clay Mathematics Institute selected seven "Millennium Prize Problems," including the Riemann hypothesis, in 2000, offering a prize of $1 million per problem, and requires peer-reviewed journal publication and a two-year verification period to officially recognize a solution.
+(Photo: AP, Yonhap News)
+※ Please note: This article was translated by AI and may contain errors.

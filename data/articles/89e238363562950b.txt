@@ -1,0 +1,41 @@
+URL: https://news.sbs.co.kr/english/article.do?news_id=N1008856661
+TITLE: US Stock Market Plunges Amid Steep Drops in Semiconductor Stocks and Anthropic
+OUTLET: SBS 뉴스
+
+US Stock Market Plunges Hard Hit by Tech Sell-Off and Anthropic Drop
+  [Anchor] 
+  
+The US stock market plummeted overnight. Semiconductor stocks, including Nvidia and AMD, along with Anthropic, which posted the largest initial public offering in US history, took a direct hit. Analysts attribute this to growing anxiety over AI investments, while President Donald Trump also stated that US companies building data centers overseas would face massive taxes. 
+  
+Reporter Min Gyeongho has the details. 
+  
+[Reporter] 
+  
+Even the historic US IPO by the developer of Claude failed to revive AI investment sentiment. 
+  
+Anthropic closed up 17 percent on its first day of Nasdaq listing, but plummeted 8.57 percent today (November 21). 
+  
+Strictly speaking in terms of time, it was a non-stop decline after the first 20 minutes of trading on its debut day, and during today's intraday session, it even threatened its IPO price of 83 dollars. 
+  
+The Philadelphia Semiconductor Index, grouping major US semiconductor firms, plunged by more than 10 percent, while SOXL, a 3x leveraged ETF tracking US semiconductor stocks most heavily bought by Korean retail investors, plummeted by over 30 percent. 
+  
+The Nasdaq dropped by more than 5 percent, and the S&P 500 index also fell by over 3 percent. 
+  
+Doubts persist in the market regarding whether investments in AI infrastructure are profitable. Meanwhile, Federal Reserve Governor Lisa Cook remarked that current US interest rates are not sufficiently high to control inflationary pressures. 
+  
+The probability of the US Federal Reserve raising benchmark interest rates next month has soared to 98.2 percent, unwelcome news for the AI industry, which has continued its investments through borrowing. 
+  
+President Trump's remarks that taxes would be imposed if US companies build data centers in foreign countries are also unwelcome. 
+  
+The comments came while he was discussing the Senate's passage of a bill requiring data centers to bear their own power costs directly rather than passing them on to surrounding communities, leading to evaluations that it only heightened market uncertainty. 
+  
+[Donald Trump / US President: We're not going to let companies build data centers in other countries. Well, maybe they can, but if they do, they're going to pay a massive tax.] 
+  
+SK hynix's ADR listed on the Nasdaq also plunged by nearly 14 percent, raising expectations that the impact will inevitably spill over into the South Korean stock market after the weekend. 
+  
+(Video by Lee Seung-yeol) 
+  
+※ Please note: This article was translated by AI and may contain errors.
+ 
+Copyright Ⓒ SBS & SBSi. All rights reserved. 
+Copying, redistribution, and unauthorized use in AI training are strictly prohibited.
