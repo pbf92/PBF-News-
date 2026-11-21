@@ -1,0 +1,24 @@
+URL: https://www.eurekalert.org/news-releases/1152526
+TITLE: Therapeutic antibody protects against all three pathogenic human coronaviruses, study finds
+OUTLET: EurekAlert!
+
+ATLANTA — A therapeutic antibody (bispecific nanobody) developed by researchers at Georgia State University and collaborators neutralized all three highly pathogenic human coronaviruses (SARS-CoV, SARS-CoV-2 and MERS-CoV) and protected animals from viral infections, according to a recent study published in the journal ACS Nano.
+SARS-CoV, SARS-CoV-2 and MERS-CoV continue to infect people or threaten new outbreaks, yet effective treatments that work against all three of these pathogenic human coronaviruses remain lacking. The study, led by researchers in the Institute for Biomedical Sciences at Georgia State University, in collaboration with other universities and institutes in the United States, found a potential broad-spectrum therapeutic agent against current pathogenic human coronaviruses and future outbreak threats.
+Nanobodies (also called single-domain antibodies or VHH antibodies) are small antibody fragments derived from the heavy-chain-only antibodies. They are about one-tenth the size of conventional antibodies, have strong target-binding affinity and cost-effective production, are highly stable, and can access hidden regions and cryptic epitopes of viral proteins that conventional antibodies cannot.
+From immunized phage display libraries, the researchers identified nanobodies that respectively bound to the SARS-CoV, SARS-CoV-2 and MERS-CoV receptor-binding domains (RBDs), a critical part of the viral spike proteins that attach to human cells. Nanobody 3B11 bound to the RBDs of both SARS-CoV and SARS-CoV-2, neutralizing diverse SARS-CoV and SARS-CoV-2 prototypic strains and variants tested. Nanobody 1C11 neutralized all MERS-CoV strains tested, and its Fc-fused version, in which the nanobody is attached to a segment of a human antibody, substantially enhanced potency. The nanobodies worked by blocking the interaction between the viral RBDs and the respective receptors that the viruses use to enter human cells.
+Using cryo-electron microscopy, computational modeling and epitope-mapping approaches, the team revealed the unique sites (epitopes) on the viral proteins that the nanobodies recognize, helping explain their antiviral potency.
+The team then constructed a bispecific nanobody, 3B11−1C11-Fc, that binds to all three RBDs. It neutralized all tested SARS-CoV, SARS-CoV-2 and MERS-CoV viral strains, remained highly stable across a range of pH and temperature conditions, and was produced at a high yield in mammalian cells, which could support large-scale manufacturing. In mouse models, a single dose of this nanobody significantly reduced viral loads and protected the animals from SARS-CoV, SARS-CoV-2 and MERS-CoV infections, with no apparent weight loss or severe clinical symptoms in most treated animals.
+“Our goal was to develop a single therapeutic that could address all three highly pathogenic coronaviruses,” said Lanying Du, a Distinguished University Professor in the Institute for Biomedical Sciences at Georgia State and a corresponding author of the study. “This bispecific nanobody binds and neutralizes SARS-CoV, SARS-CoV-2 and MERS-CoV, and protected mice against all three highly pathogenic human coronaviruses, showing its promise for further therapeutic development.”
+The study was funded by the National Institute of Allergy and Infectious Diseases (NIAID) and National Institute of General Medical Sciences (NIGMS) of the National Institutes of Health (NIH).
+Additional authors of the study include Shengnan Qian (first author), Abhijeet Roy (co-first author), Xiaoqing Guan, Hansam Cho, Qian Liu, Wandi Zhu and Parisa Darvishi of the Institute for Biomedical Sciences at Georgia State; Yu Li (co-first author) and Yang Yang (co-corresponding author) of Iowa State University; Abhishek K. Verma (co-first author) and Stanley Perlman (co-corresponding author) of The University of Iowa; Rhea Guo and Chang Liu of The Johns Hopkins University School of Medicine; Fang Li of the University of Minnesota Medical School; and Jianliang Xu of The Wistar Institute.
+To read the study, visit https://pubs.acs.org/ancac3/article-pdf/doi/10.1021/acsnano.6c10948/69204777/acsnano.6c10948.pdf.
+Journal
+ACS Nano
+Method of Research
+Experimental study
+Subject of Research
+Animals
+Article Title
+Bispecific Nanobody Broadly Neutralizes and Cross-Protects against Three Highly Pathogenic Human Coronaviruses
+Article Publication Date
+16-Nov-2026

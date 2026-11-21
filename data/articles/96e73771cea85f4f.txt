@@ -1,0 +1,31 @@
+URL: https://www.eurekalert.org/news-releases/1152208
+TITLE: Study identifies 20 priorities for more equitable digital health in Catalonia
+OUTLET: EurekAlert!
+
+The research, published in the Journal of Medical Internet Research and involving the Germans Trias i Pujol Research Institute (IGTP) and the Germans Trias Hospital, highlights access, digital skills and inclusive design among the factors that must be considered to prevent digitalisation from widening health inequalities.
+A study involving the Innovation, Health Economics and Digital Transformation Research Group (INEDIT) at the Germans Trias i Pujol Research Institute (IGTP) has identified 20 priority factors for advancing an equity-centred digital transformation of the Catalan healthcare system. The study, published in the Journal of Medical Internet Research, lists Meritxell Davins, Director of Digital Transformation and Health at Germans Trias i Pujol University Hospital and an INEDIT researcher, as the corresponding author. The first author is Mireia Cano, a predoctoral researcher at the Universitat Oberta de Catalunya (UOC), whose doctoral thesis is co-supervised by Davins and Carme Carrión, a researcher at the Universitat de Girona (UdG) and also an author of the study.
+The research addresses a key issue: having access to or using more technology does not guarantee that everyone can benefit from it equally. Until now, much of the attention paid to digital health inequalities has focused on individual factors, such as owning a mobile phone, having internet access or possessing the skills needed to use digital tools. Although these factors are essential, other aspects also play a role, including technology design, organisations' capacity to integrate digital tools, data governance and the policies regulating their use.
+To address this issue from a broader perspective, the study replicates and adapts an international consensus exercise on the digital determinants of health to the Catalan context. These determinants are factors related to the digital environment that can directly or indirectly influence health and well-being. The study also considers other determinants of health that are affected by digitalisation. These factors operate at different levels, from individual circumstances to infrastructure, organisations and public policies. The aim is to identify which should be prioritised in Catalonia to guide healthcare planning and help reduce inequalities.
+Expert consensus to guide healthcare planning
+The research team used a modified Delphi method, a structured consultation process designed to achieve consensus among experts. In the first round, 43 specialists assessed a list of 127 determinants. In the second round, 31 participants reassessed the factors for which no consensus on high or low relevance had been reached. Participants included healthcare professionals, managers, policymakers, technical experts, entrepreneurs and researchers.
+The process was complemented by a narrative review of strategic and public policy documents to contextualise the findings within Catalonia.
+In total, 20 determinants were considered highly relevant: 15 digital, 4 social and 1 political. Key priorities include access to devices and connectivity, digital and health literacy, system interoperability, inclusive design, data privacy and security, and the validation and responsible use of artificial intelligence.
+Although 17 of the 20 priorities identified overlap with those of the international reference consensus, the study highlights three additional factors of particular relevance to the Catalan context: health literacy, living in an urban or rural area, and the ability to personalise digital tools. This comparison reinforces the need to adapt international agendas to the social, territorial and organisational characteristics of each healthcare system.
+"This approach can help translate international digital health agendas into regional planning processes, identify structural risks and embed equity into strategy. It provides a replicable framework that allows us to move beyond technology-centred approaches", says Meritxell Davins.
+Beyond introducing new technologies
+"The findings suggest that digital transformation must go beyond the deployment of tools and infrastructure. It also requires ensuring that people can use these technologies, that they respond to diverse needs and that they are integrated safely and effectively into healthcare", explains Mireia Cano. In this regard, the study places data governance, inclusion and responsible use of artificial intelligence at the heart of planning.
+The research provides a basis for incorporating these determinants into needs assessments, strategic plans and the monitoring of digital services. Its aim is to help anticipate barriers and guide decisions so that digitalisation contributes to reducing health inequalities rather than reproducing or widening them.
+The study also highlights that digital, social, economic and political factors are interconnected and require a response that extends beyond the healthcare system. It therefore emphasises the need for coordinated action across areas such as social services, education, the environment, telecommunications and digital public administration.
+Mireia Cano has presented the study's findings in a poster at the 19th European Public Health Conference (EPH Conference), held from 11 to 13 November in Bilbao.
+Journal
+Journal of Medical Internet Research
+Method of Research
+Survey
+Subject of Research
+People
+Article Title
+Assessing Digital Determinants of Health and Their Impact as Part of Strategic Health Planning in Catalonia: Modified Delphi Study
+Article Publication Date
+29-Oct-2026
+COI Statement
+None declared.

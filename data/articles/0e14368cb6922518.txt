@@ -1,0 +1,60 @@
+URL: https://governor.hawaii.gov/main/news-release-hawaii-october-unemployment-rate-at-2-8-percent/
+TITLE: NEWS RELEASE: Hawai’i October Unemployment Rate at 2.8 Percent
+OUTLET: Office of the Governor Josh Green (.gov)
+
+NEWS RELEASE: Hawai’i October Unemployment Rate at 2.8 Percent
+Posted on Nov 19, 2026 in Latest Department News, Main, Newsroom
+STATE OF HAWAIʻI
+KA MOKU ʻĀINA O HAWAIʻI
+JOSH GREEN, M.D.
+GOVERNOR
+KE KIAʻĀINA
+DEPARTMENT OF BUSINESS, ECONOMIC DEVELOPMENT AND TOURISM
+KA ʻOIHANA HOʻOMOHALA PĀʻOIHANA, ʻIMI WAIWAI A HOʻOMĀKAʻIKAʻI
+JAMES KUNANE TOKIOKA
+DIRECTOR
+KA LUNA HOʻOKELE
+RESEARCH AND ECONOMIC ANALYSIS DIVISION
+SETH COLBY, PH.D.
+CHIEF STATE ECONOMIST
+HAWAI‘I OCTOBER UNEMPLOYMENT RATE AT 2.8 PERCENT
+Jobs Remained the Same Year Over Year
+FOR IMMEDIATE RELEASE
+November 19, 2026
+HONOLULU — The Hawai‘i State Department of Business, Economic Development and Tourism (DBEDT) today announced that the seasonally adjusted unemployment rate for October was 2.8 percent, the same as in September. In October, 677,800 persons were employed and 19,650 were unemployed, for a total seasonally adjusted labor force of 697,450 statewide. Nationally, the seasonally adjusted unemployment rate was 4.1 percent in October, down from 4.2 percent in September.
+The unemployment rate figures for the state of Hawai‘i and the U.S. in this release are seasonally adjusted in accordance with U.S. Bureau of Labor Statistics (BLS) methodology. The not-seasonally adjusted rate for the state was 2.8 percent in October, compared to 3.2 percent in September.
+Industry Payroll Employment (Establishment Survey)
+In a separate measure of employment, total nonagricultural jobs increased by 1,000 month over month, from September 2026 to October 2026. Job gains were experienced in Leisure & Hospitality (+600); Construction (+500); Private Education & Health Services (+200); and Manufacturing (+100); The rise in Leisure & Hospitality was equally distributed between the Arts, Entertainment, & Recreation subsector and the Accommodation & Food Services grouping. Employment remained unchanged in Information; and Professional & Business Services. Job losses occurred in Other Services (-100); Trade, Transportation & Utilities (-200); and Financial Activities (-200) Government employment went up by 100 jobs. Year over year, nonfarm jobs were at the exact same level.
+Technical Notes:
+Labor Force Components
+The concepts and definitions used by the Local Area Unemployment Statistics (LAUS) program are the same as those used in the Current Population Survey for the national labor force data:
+- Civilian labor force. Included are all persons in the civilian noninstitutional population ages 16 and older classified as either employed or unemployed. (See the definitions below.)
+- Employed persons. These are all persons who, during the reference week (the week including the 12th day of the month), (a) did any work as paid employees, worked in their own business or profession or on their own farm, or worked 15 hours or more as unpaid workers in an enterprise operated by a member of their family, or (b) were not working but who had jobs from which they were temporarily absent because of vacation, illness, bad weather, childcare problems, maternity or paternity leave, labor-management dispute, job training, or other family or personal reasons, whether or not they were paid for the time off or were seeking other jobs. Each employed person is counted only once, even if he or she holds more than one job.
+- Unemployed persons. Included are all persons who had no employment during the reference week, were available for work, except for temporary illness and had made specific efforts to find employment sometime during the four-week period ending with the reference week. Persons who were waiting to be recalled to a job from which they had been laid off need not have been looking for work to be classified as unemployed.
+- Unemployment rate. The unemployed percent of the civilian labor force [i.e., 100 times (unemployed/civilian labor force)].
+Seasonal Adjustment
+The seasonal fluctuations in the number of employed and unemployed persons reflect hiring and layoff patterns that accompany regular events such as the winter holiday season and the summer vacation season. These variations make it difficult to tell whether month-to-month changes in employment and unemployment are due to normal seasonal patterns or to changing economic conditions. Therefore, the BLS uses a statistical technique called seasonal adjustment to address these issues. This technique uses the history of the labor force data and the job count data to identify the seasonal movements and to calculate the size and direction of these movements. A seasonal adjustment factor is then developed and applied to the estimates to eliminate the effects of regular seasonal fluctuations on the data. Seasonally adjusted statistical series enable more meaningful data comparisons between months or with an annual average.
+Current Population (Household) Survey (CPS)
+A survey conducted for employment status in the week that includes the 12th day of each month generates the unemployment rate statistics, which is a separate survey from the Establishment Survey that yields the industry job counts. The CPS survey contacts approximately 1,000 households in Hawai‘i to determine an individual’s current employment status. Employed persons consist of 1) all persons who did any work for pay or profit during the survey reference week, 2) all persons who did at least 15 hours of unpaid work in a family owned enterprise operated by someone in their household and 3) all persons who were temporarily absent from their regular jobs, whether they were paid or not. Persons considered unemployed are those who do not have a job, have actively looked for work in the prior four weeks and are available for work. Temporarily laid-off workers are counted as unemployed, whether or not they have engaged in a specific job-seeking activity. Persons not in the labor force are those who are not classified as employed or unemployed during the survey reference week.
+Benchmark Changes to Local Area Unemployment Statistics Data
+Statewide and sub-state data for 2024 to 2025 have revised inputs and 2016-2025 have been re-estimated to reflect revised population controls and model re-estimation.
+Change to Monthly Employment Estimates
+This release incorporates revised job count figures for the seasonally adjusted series. The revised data reflects historical corrections applied to unadjusted super sector or sector-level series dating back from 2021 through 2025. For years, analysts with the state of Hawai‘i Department of Labor and Industrial Relations Research and Statistics Office have developed monthly employment estimates for Hawai‘i and its metropolitan areas. These estimates were based on a monthly survey of Hawai‘i businesses and analysts’ knowledge about our local economies. Beginning with the production of preliminary estimates for March 2011, responsibility for the production of state and metropolitan area (MSA) estimates were transitioned from individual state agencies to the U.S. Bureau of Labor Statistics (BLS).
+For Hawai‘i, this means the transition of statewide, Honolulu and Kahului-Wailuku MSA estimates for both the seasonally adjusted and not-seasonally adjusted areas are produced by BLS. State agencies will continue to provide the BLS with information on local events that may affect the estimates, such as strikes or large layoffs/hiring at businesses not covered by the survey and to disseminate and analyze the Current Employment Statistics (CES) estimates for local data users. BLS feels this change is designed to improve the cost efficiency of the CES program and to reduce the potential bias in state and area estimates. A portion of the cost savings generated by this change is slated to be directed toward raising survey response rates in future years, which will decrease the level of statistical error in the CES estimates. Until then, state analysts feel this change could result in increased month-to-month variability for the industry employment numbers, particularly for Hawai‘i’s counties and islands. BLS can be reached at 202-691-6555 for any questions about these estimates.
+The not-seasonally adjusted job estimates for Hawai‘i County, Kaua‘i County, Maui, Moloka‘i and Lāna‘i are produced by the state of Hawai‘i Department of Business, Economic Development and Tourism.
+Labor Force Estimates for Small Areas
+Labor Force estimates for the islands within Maui County (Maui, Moloka‘i and Lānaʻi) are produced by the state of Hawai‘i DBEDT.
+Seasonally Adjusted Labor Force and Unemployment Estimates for Honolulu and Maui County
+BLS publishes smoothed, seasonally adjusted civilian labor force and unemployment estimates for all metropolitan areas, which includes the City and County of Honolulu and Maui County.
+BLS releases this data each month in the Metropolitan Area Employment and Unemployment news release. The schedule is available at http://www.bls.gov/news.release/metro.toc.htm.
+Alternative Measures of Labor Underutilization
+*Annual estimates for 2025 are 11-month averages that exclude October. Data for October 2025 were not collected due to the federal government shutdown. As a result, these estimates are not strictly comparable with averages for other time periods.
+The six alternative labor underutilization state measures based on the Current Population Survey (CPS) and compiled on a four-quarter moving-average basis defined as:
+U-1, persons unemployed 15 weeks or longer, as a percent of the civilian labor force;
+U-2, job losers and persons who completed temporary jobs, as a percent of the civilian labor force;
+U-3, total unemployed, as a percent of the civilian labor force (this is the definition used for the official unemployment rate);
+U-4, total unemployed plus discouraged workers, as a percent of the civilian labor force plus discouraged workers;
+U-5, total unemployed, plus discouraged workers, plus all other marginally attached workers*, as a percent of the civilian labor force plus all marginally attached workers; and U-6, total unemployed, plus all marginally attached workers, plus total employed part-time for economic reasons, as a percent of the civilian labor force plus all marginally attached workers.
+*Individuals who want and are available for work and who have looked for a job sometime in the prior 12 months, (or since the end of their last job if they had one within the past 12 months), but were not counted as unemployed because they had not searched for work in the four weeks preceding the survey, for such reasons as childcare or transportation problems, for example. Discouraged workers are a subset of the marginally attached.
+Please note that the state unemployment rates (U-3) that are shown are derived directly from the CPS. As a result, these U-3 measures may differ from the official state unemployment rates for the latest four-quarter period. The latter are estimates developed from statistical models that incorporate CPS estimates, as well as input data from other sources, such as state unemployment claims data.
+# # #

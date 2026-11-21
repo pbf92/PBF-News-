@@ -1,0 +1,59 @@
+URL: https://vr.org/gta-6-vr
+TITLE: GTA 6 VR: Is There a VR Mode, a VR Mod or a PC Version?
+OUTLET: vr.org
+
+GTA 6 VR: Is There a VR Mode, a VR Mod or a PC Version?
+Last updated: November 20, 2026
+Setting it up? Our GTA 6 headset guide has the steps for PS VR2 and Quest. See also which console to pair with a headset, the Meta Quest hub and the best VR mods.
+- Out now on PS5 and Xbox Series X|S
+- From $79.99 on the PlayStation Store
+- Remote Play supported on PlayStation and Xbox
+- Rockstar's VR game: L.A. Noire: The VR Case Files, 2017
+GTA VI is also sold on the Microsoft Store for Xbox. The two free Quest apps are the ones the Remote Play and capture card routes use.
+GTA 6 has no VR mode. Grand Theft Auto VI came out on November 19, 2026 for PlayStation 5 and Xbox Series X|S as a flat game, and Rockstar has announced no VR mode, VR version or headset support. There is no VR mod either: a VR mod needs a version of the game modders can open up, in practice a PC one, and GTA 6 has no PC version announced. What a headset can do today is show the flat game on a big virtual screen. PS VR2 owners use Cinematic Mode, and Quest owners stream from their own Xbox with Remote Play or plug in a PS5 through a capture card. This page tracks where VR, PC and cloud play stand, and lists every GTA 6 story VR.org has published.
+Does GTA 6 have a VR mode? No
+GTA 6 is out on PS5 and Xbox Series X|S, and Rockstar has announced no VR mode or headset support. Its pre-load post on November 10 set out what each console gets: the 30fps target, the PS5 Pro's sharper image and ray-traced shadows, Xbox Cloud Gaming on Xbox consoles, and Remote Play on PlayStation and Xbox. It says nothing about VR or headsets.
+The one headset in the game is a joke. In Grand Theft Auto VI: An Extended Look, the 26-minute video Rockstar released on August 27, a character turns up wearing what reads as a 2019 Quest, fabric front and all, at the expense of people who wear headsets indoors. Alex Reeves covered it in the only VR in GTA 6 is a prop.
+Is there a GTA 6 VR mod? Not yet, and not soon
+No. A VR mod needs a version of the game that modders can open up. In practice that means PC (the San Andreas fan port further down used the Android release), and GTA 6 exists only on PS5 and Xbox Series X|S. Any download promising a GTA 6 VR mod today is not real, so do not run it.
+The precedent says the wait is long, and the publisher has fought one before. GTA V reached PC about nineteen months after consoles (September 2013 to April 2015), and its VR mod came years after that, from Luke Ross, who funds his R.E.A.L. VR mods through Patreon. In July 2022 Take-Two, Rockstar's parent company, sent a DMCA notice over his GTA V, Red Dead Redemption 2 and Mafia VR mods, and Road to VR reported that he took them down to comply. CD Projekt did the same to his Cyberpunk 2077 mod in January 2026, which PC Gamer covered. Our August look at the mod route has more.
+PC version: not announced
+Rockstar has not announced one. Asked by Variety before launch whether GTA 6 would come to other platforms, Take-Two CEO Strauss Zelnick said "information always comes from our labels," as TweakTown reported, so any PC news will come from Rockstar itself. Until there is a PC version, there is no PC VR route of any kind.
+How to play GTA 6 in a headset today
+Every route shows the flat game on a virtual screen, and every route starts with a console you own. The GTA 6 headset guide walks through each one step by step.
+From Sony's and Meta's own help pages. We have not run GTA 6 on these routes ourselves. Checked November 20, 2026.
+Each one puts a 1080p picture in the headset. PS VR2 owners have the simplest route: Cinematic Mode needs no setup and runs over the headset's own cable, though Sony turns the TV off while it is in use. On a Quest, Xbox Remote Play is free, and it worked with GTA 6 from day one on handhelds, as Pure Xbox rounded up at launch; on a headset it runs over your Wi-Fi. The PS5 route goes through Meta's HDMI Link app and a capture card, and the card shows nothing until HDCP is switched off in the PS5's HDMI settings.
+None of this is VR, and none of it is a reason to buy a headset for GTA 6. If you already own one, it is a private screen bigger than the TV. For the headset itself, the best VR headset for movies is the closest match to this use.
+Cloud streaming: Xbox consoles only
+Microsoft's Xbox Wire post puts GTA 6 on Xbox Cloud Gaming from day one on Xbox One and Xbox Series X|S, using Series S graphics settings, and names no other devices. Windows Central, which played it over the cloud at launch, found it blocked on PC and mobile. The Xbox app on Quest is not on the list, although Xbox's page for VR headsets says the app can stream "select games you own." Microsoft has not said whether GTA 6 will become one of them. Until then, a Quest needs a console in the house. Our launch-day piece covers the cloud limits in full.
+Frame rate and picture in a headset
+GTA 6 runs at 30 frames per second on every console, PS5 Pro included, with no 40 or 60fps mode. Rockstar told Kotaku the Pro's processor "is not powerful enough to run the game's complex simulation at higher frame rates." In a headset the picture is 1080p whichever route you use, which flattens most of the difference between a PS5, a PS5 Pro and a Series X. Our console pairing piece goes through which one looks best on a virtual screen.
+Rockstar and VR
+Rockstar has shipped one VR game: L.A. Noire: The VR Case Files, seven cases from L.A. Noire rebuilt for roomscale VR, released on Steam on December 15, 2017. It has not shipped another.
+The other GTA in VR never shipped. Meta announced Grand Theft Auto: San Andreas for Quest 2 in October 2021, and UploadVR reported on August 15, 2024 that Meta had put it on hold indefinitely. In August 2026 a modder released an early San Andreas VR source kit for Quest 3 that ships no game files and needs your own copy of the game; Evan Marcus wrote it up, including what the install asks of you.
+Every GTA VR story on VR.org, dated
+- Aug 27, 2026The GTA San Andreas VR port Meta announced in 2021 turns up on Quest 3, built by one modder.
+- Aug 28, 2026This Week in VR: the San Andreas fan port, Steam Frame's certified list and Pico's cancelled event.
+- Aug 29, 2026Rockstar's Extended Look puts a 2019 Quest on a character as a gag, and the VR mod route stays closed.
+- Nov 18, 2026How to put GTA 6 on a virtual big screen: PS VR2 Cinematic Mode, Xbox Remote Play on Quest, and HDMI Link.
+- Nov 19, 2026Launch day: Xbox Cloud is console-only, so which PS5 or Xbox to pair with a Quest or PS VR2.
+- Nov 20, 2026LatestThis Week in VR: GTA 6 on a virtual screen, alongside Meta's own Quest 3S Black Friday price.
+The Amazon links are affiliate links: VR.org earns a commission if you buy through them, at no extra cost to you.
+Frequently asked questions
+Does GTA 6 have VR?
+No. Grand Theft Auto VI came out on November 19, 2026 for PlayStation 5 and Xbox Series X|S as a flat game, and Rockstar has announced no VR mode, VR version or headset support. The only VR headset in the game is a prop, worn by a character as a joke in Rockstar's August Extended Look.
+Is there a GTA 6 VR mod?
+No. A VR mod needs a version of the game modders can open up, in practice a PC version, and GTA 6 is only on PS5 and Xbox Series X|S with no PC version announced. Any download that promises a GTA 6 VR mod today is not real. GTA V reached PC about nineteen months after consoles, its VR mod came years after that, and Take-Two sent a DMCA notice over that mod in July 2022.
+Will GTA 6 come out on PC?
+Not announced. Take-Two CEO Strauss Zelnick told Variety before launch that "information always comes from our labels," meaning any PC news will come from Rockstar. GTA V came to consoles in September 2013 and to PC in April 2015.
+Can I play GTA 6 on a Meta Quest 3?
+Not in VR, but on a big virtual screen, yes, with a console you own. Xbox Series X|S owners can stream it with Remote Play to the free Xbox app on Quest 2, Quest Pro, Quest 3 or Quest 3S. PS5 owners can feed it into Meta's free HDMI Link app through a USB capture card, with HDCP switched off on the PS5. VR.org's GTA 6 headset guide has the steps.
+Can I play GTA 6 on PS VR2?
+On a virtual screen, yes. PS VR2's Cinematic Mode shows any non-VR PS5 game on a 1920x1080 virtual screen with no setup. The TV goes dark while it is on, because Sony disables the social screen in Cinematic Mode.
+Can I stream GTA 6 to a Quest with Xbox Cloud Gaming?
+Not at launch. Microsoft's Xbox Wire post puts GTA 6 on Xbox Cloud Gaming on Xbox One and Xbox Series consoles only, and Windows Central reported it blocked on PC and mobile. The Quest's Xbox app is not on Microsoft's list, so a Quest needs Remote Play from a console you own.
+What frame rate does GTA 6 run at?
+30 frames per second on every console, including the PS5 Pro, with no 40 or 60fps mode. Rockstar told Kotaku the PS5 Pro's processor is not powerful enough to run the game's simulation at higher frame rates. In a headset the picture is 1080p on every route.
+Has Rockstar ever made a VR game?
+Yes, one: L.A. Noire: The VR Case Files, released on Steam on December 15, 2017. Meta announced Grand Theft Auto: San Andreas for Quest 2 in October 2021, and UploadVR reported on August 15, 2024 that Meta confirmed it was on hold indefinitely.
+As an Amazon Associate VR.org earns from qualifying purchases. Amazon links on this page are marked where they appear, they never change what we recommend, and the maker's own store is always listed first.

@@ -1,0 +1,26 @@
+URL: https://www.eurekalert.org/news-releases/1152403
+TITLE: COVID infections do not explain spike in childhood diabetes during lockdowns
+OUTLET: EurekAlert!
+
+Cases of type 1 diabetes among Finnish children increased during the Covid lockdown before returning to previous levels. A University of Helsinki study shows that the virus itself does not seem to account for the increase, which may instead have been caused by changing environmental factors.
+Rates of type 1 diabetes among children rose in several countries during the pandemic lockdowns. Researchers have debated whether the SARS-CoV-2 virus was directly responsible or whether other factors were at work.
+“Our study shows that the sharp spike in type 1 diabetes during the lockdown in Finland levelled off and then clearly declined as soon as society reopened and the restrictions were lifted,” says doctoral researcher Susanna Tall of the University of Helsinki’s Faculty of Medicine.
+Researchers at the University of Helsinki found that the incidence of type 1 diabetes in children fell by 15% in the first 16 months after the Covid-19 lockdowns ended. This decline followed directly on from the lockdown phase, during which incidence had increased by a comparable 16%.
+Antibody tests on blood samples also showed that many of the children who developed diabetes after the lockdown had previously been infected with the coronavirus, yet cases still declined.
+“The coronavirus infection itself does not seem to explain the changes in type 1 diabetes incidence during the pandemic. They were more likely linked to changes in environmental factors, such as less exposure to microbes because of physical distancing, or other changes in lifestyle,” says Tall.
+The finding is reinforced by the fact that blood samples showed just under 1% of those who developed the disease during the lockdown had been infected with the coronavirus beforehand.
+Understanding the role of the environment
+The study demonstrates how rapidly major population-wide shifts in lifestyle and environment can affect the onset of autoimmune diseases in children. As Finland has the world’s highest incidence of type 1 diabetes, its registry data are of international significance.
+“The study shows that, alongside hereditary predisposition, the environment of a child’s early life has a major effect on their risk of developing type 1 diabetes,” notes Tall. “Our study further demonstrates that radical population-level changes in lifestyle and the environment may reflect quite rapidly in the onset of autoimmune diseases in children.”
+The results shed light on the indirect and long-term harm that extensive societal lockdown measures can cause to children’s health. In the future, this knowledge could help healthcare services prepare for similar exceptional circumstances, and consider how children’s immune systems can be supported and protected when everyday life and exposure to microbes are disrupted.
+Because this was an observational study based on registry data, it cannot directly establish biological causality. Tall notes that further research is needed to identify exactly which changes during the lockdown affected the onset of diabetes.
+Journal
+PLOS Medicine
+Method of Research
+Observational study
+Subject of Research
+People
+Article Title
+Trends in the incidence of childhood type 1 diabetes after the COVID-19 lockdown in Finland: An observational study
+Article Publication Date
+2-Nov-2026

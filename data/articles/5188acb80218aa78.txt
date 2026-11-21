@@ -1,0 +1,24 @@
+URL: https://www.eurekalert.org/news-releases/1152598
+TITLE: Seasonal mass vaccination with R21 malaria vaccine effective in reducing malaria infection in The Gambia and Burkina Faso
+OUTLET: EurekAlert!
+
+Vaccinating whole communities with the malaria vaccine R21 before the rainy season, along existing malaria control tools, can reduce the odds of infection by up to 70%, according to a new study published in The Lancet.
+The study was conducted in The Gambia, where malaria is seasonal with low-to-moderate transmission and in Burkina Faso where transmission is intense. It found that seasonal mass vaccination with the R21/Matrix-M (R21) vaccine, given to entire communities ahead of the rainy season, significantly reduced proportion of individuals infected with malaria at peak transmission in November in both countries. It also reduced the number of patients with clinical malaria by 47% in The Gambia and 30% in Burkina Faso.
+This is the first study that vaccinated whole communities against malaria with a vaccine, R21, that is used in small children. Seasonal mass vaccination can become a vital additional tool to reduce the burden of malaria and help in progressing towards elimination efforts.
+Malaria continues to be life-threatening in many communities. Children under 5 years, pregnant women and people living with HIV or AIDS are at higher risk of severe infection. But global progress against malaria has stalled over the past decade, with cases and deaths well above the levels needed to reach elimination targets.
+Professor Umberto D'Alessandro, Principal Investigator of the SERVAL study at MRC Unit The Gambia at London School of Hygiene & Tropical Medicine said: “The study clearly shows that R21 can decrease malaria in older children, adolescents and adults, disproving previous assumptions that the vaccine would not be effective in these age groups. This is important as it can provide, besides an additional intervention against malaria, some insights on the mechanisms of immunity against malaria infection."
+Across 54 villages (30 in The Gambia and 24 in Burkina Faso), half of them received three monthly doses of R21 between May and August, ahead of the peak transmission season, with the other half of the villages as the control group. Standard malaria control interventions, including seasonal malaria chemoprevention, continued in both countries.
+Findings showed that the odds of malaria infection were reduced by 70% in The Gambia and by 25% in Burkina Faso. In The Gambia, the reduction in prevalence was seen across all age groups. In Burkina Faso, where transmission is intense and exposure is already high, the highest reduction rates were seen among children under 5 years, who are most at risk to malaria and its effects. However, some protective effect could be seen also in older age groups.
+Professor Halidou Tinto, Principal Investigator of the SERVAL study at the Clinical Research Unit of Nanoro, Burkina Faso, said: "In Burkina, where children are intensely and repeatedly exposed to malaria each rainy season, we found that the protective effect of the vaccine was concentrated in the youngest children, those who bear the heaviest burden of the disease. Thus, even in a context of high transmission, seasonal mass vaccination combined with chemoprevention enabled a measurable reduction in infection. This is an encouraging outcome for communities in the Sahel region."
+Wandifa Samateh, Programme Manager for the National Malaria Control Programme at the Ministry of Health, The Gambia, said: "These results are an important signal for our national malaria control programme. Mass vaccination, added onto the interventions we already deliver, could significantly lessen the burden of the disease on our communities. We look forward to working with our research partners to assess how this strategy could be integrated into our national malaria control and elimination plans."
+The study demonstrated that the vaccine was safe and well tolerated in both countries, with mild, self-limiting adverse events reported, mostly mild headache and fever. It was funded by MRC-UKRI and the UK Foreign, Commonwealth & Development Office.
+Journal
+The Lancet
+Method of Research
+Randomized controlled/clinical trial
+Subject of Research
+People
+Article Title
+Seasonal mass vaccination with R21/Matrix-M against malaria in The Gambia and Burkina Faso: an open-label, cluster-randomised, controlled trial
+Article Publication Date
+19-Nov-2026

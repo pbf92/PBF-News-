@@ -1,0 +1,56 @@
+URL: https://www.tradingview.com/symbols/FINRA-GS6573608/
+TITLE: GS6573608 Bond Yield and Price — FINRA:GS6573608
+OUTLET: TradingView
+
+See this bond's price and yield history with Ultimate
+Spot trends and check how today's levels compare to the past on an interactive chart.
+Peers for comparison
+Key terms
+Bond info
+Classification
+Frequently asked questions
+Corporate bonds are debt securities issued by companies to raise capital. When you buy a GS Finance Corp. FRN 23-NOV-2066 bond, you're lending money to GS Finance Corp. in exchange for regular interest payments (coupons) and repayment of the full amount at maturity.
+Investors earn from corporate bonds through fixed interest income and potential price gains if the bond is sold above its purchase price.
+Corporate bonds are generally less risky than stocks, but they typically offer lower returns.
+Use our Bond Screener to discover and analyze corporate bonds that fit your investment strategy.
+Companies issue bonds to raise capital without giving up ownership, as they would by selling shares. By issuing bonds, a company borrows money and agrees to pay interest (coupons) and repay the principal at a fixed maturity date.
+Businesses use bond financing to:
+– Fund growth (expansion, acquisitions, new projects)
+– Refinance existing debt at better rates
+– Manage cash flow without issuing new shares
+Compared to stocks, bonds allow GS Finance Corp. to access large amounts of capital while maintaining full control of the business.
+Bonds and stocks are two ways to invest in GS Finance Corp., but they work very differently.
+Here are the key differences:
+– Ownership vs. lending: Stocks represent ownership in GS Finance Corp., while bonds are a loan you give to the company
+– Returns: Stocks may offer dividends and capital gains, while bonds pay fixed interest (coupon) and return principal at maturity
+– Risk: Stocks are generally more volatile and can lose value, whereas bonds are considered lower risk
+– Priority: Bondholders are paid before shareholders if the company goes bankrupt
+A bond rating is an assessment of an issuer's creditworthiness — its ability to repay debt and make interest payments on time.
+Ratings are typically assigned by credit rating agencies (e.g., S&P, Fitch) based on factors such as financial strength, debt levels, and economic conditions.
+Common rating scale:
+– Investment grade: AAA to BBB (lower risk)
+– Speculative (high-yield): BB and below (higher risk, higher potential return)
+Ratings help investors evaluate default risk and can influence bond yields — lower ratings usually mean higher yields.
+The price of GS Finance Corp. bonds changes based on the following factors:
+– Interest rates: When rates rise, bond prices usually fall — and vice versa
+– Credit quality: Changes in GS Finance Corp.'s financial strength or credit rating can impact prices
+– Market demand: Higher demand for safer assets can push bond prices up
+– Time to maturity: Longer-term bonds are more sensitive to interest rate changes
+– Inflation expectations: Higher inflation can reduce bond attractiveness and lower prices
+Track bond prices in our Bond Screener and follow every move on Supercharts.
+Buying a corporate bond is a simple process, but you'll need a reliable broker to help you access the market. Once you've found the brokerage that suits your style and requirements, you can proceed with opening an account there. Explore our list of broker partners and start trading right from your charts.
+Before investing, TradingView strongly recommends taking time to understand the market. You can test your strategy using a paper trading account, and make use of our Bond Screener to discover the best investment opportunities.
+The maturity date is when a bond comes due and the principal is repaid to investors. For example, the GS Finance Corp. FRN 23-NOV-2066 bond matures on Nov 23, 2066.
+Key points:
+– Investors receive the bond's face value on this date
+– No further coupons are paid after maturity
+– Maturity helps investors align bonds with their financial goals or cash flow needs
+– Longer-maturity bonds are generally more sensitive to interest rate changes
+Find bonds with maturities that fit your strategy using our Bond Screener.
+Corporate bonds are debt securities issued by companies, and their reliability depends on the issuer's financial strength and market conditions.
+What to consider when selecting bonds:
+– Credit rating: Higher-rated bonds (investment grade) are generally more reliable than lower-rated (high-yield) bonds
+– Issuer stability: Companies with strong balance sheets are less likely to miss payments
+– Market risk: Bond prices can fluctuate due to interest rates, inflation, and investor demand
+– Default risk: All corporate bonds carry some risk that the issuer may fail to repay
+Filter bonds by their ratings in our Bond Screener to find the most reliable opportunities.
