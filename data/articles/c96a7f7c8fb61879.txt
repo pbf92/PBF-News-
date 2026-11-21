@@ -1,0 +1,22 @@
+URL: https://www.aa.com.tr/en/americas/anthropic-mathematician-claims-ai-assisted-breakthrough-on-167-year-old-math-problem/4132826
+TITLE: Anthropic mathematician claims AI-assisted breakthrough on 167-year-old math problem
+OUTLET: Anadolu Ajansı
+
+Anthropic mathematician claims AI-assisted breakthrough on 167-year-old math problem
+Researcher Levent Alpoge says Claude helped solve Riemann Hypothesis, with preliminary computer checks reportedly supporting claim
+Ahmet Salih Alacaci
+21 November 2026•Update: 21 November 2026
+WASHINGTON
+A mathematician at the US artificial intelligence company Anthropic on Friday claimed that he and the company's Claude AI model have solved the 167-year-old Riemann Hypothesis, one of mathematics' most famous unsolved problems.
+Levent Alpoge said he discovered a proof of the hypothesis, first proposed by German mathematician Bernhard Riemann in 1859.
+"I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis," Alpoge wrote in a four-page statement published on his website.
+The Riemann Hypothesis concerns the distribution of prime numbers, which are divisible only by themselves and one.
+A successful proof could deepen mathematicians' understanding of fundamental numerical patterns and have implications for computer science, cryptography and theoretical physics.
+The hypothesis is one of seven Millennium Prize Problems identified by the US-based Clay Mathematics Institute, each carrying a $1 million prize for a successful solution.
+Alpoge said Claude played a crucial role in developing the proposed proof, at times advancing beyond his own mathematical understanding.
+"Claude far outpaced me near the finish line," he wrote.
+The researcher also claimed to have solved a broader version of the problem.
+He said he released the mathematical argument in Lean, a programming language designed to verify mathematical proofs and detect logical errors.
+Andrew Sutherland, a mathematician at the Massachusetts Institute of Technology, reported that the submitted code has passed several independent computer verification checks.
+However, additional checks were still underway, according to Sutherland.
+The claimed breakthrough has not yet received broad acceptance from the mathematical community.

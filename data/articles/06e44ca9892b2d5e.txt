@@ -1,0 +1,14 @@
+URL: https://finance.yahoo.com/technology/article/anthropic-engineers-warning-about-claude-code-explains-why-tech-outages-could-get-much-worse-110000573.html
+TITLE: Anthropic engineer's warning about Claude Code explains why tech outages could get much worse
+OUTLET: Yahoo Finance
+
+There have been so many prominent tech services experiencing outages lately that the problems have gone mainstream in a new way we haven't seen before.
+Besides the headlines and podcasts (some of which are asking if this is actually a new thing or if we're just noticing it more), the tech outages have kept Vice President JD Vance from attending New York events, led to the resignation of the White House's cybersecurity chief, made "Saturday Night Live," and been the subject of tons of memes and TikTok comedy where people joke that "LinkedIn and Tinder must be down, because I'm not getting any responses!"
+As we wrote recently, the problems are far more than just cybersecurity, though AI means hackers can discover and exploit bugs like never before. Infrastructure is decrepit. Maintenance is deferred. Exhausted, too-small teams of IT workers aren't up to this level of chaos.
+But there's another explanation that's perhaps underappreciated: one big downside of Claude Code, the marquee product that has given Anthropic (ANT) its trillion-dollar valuation.
+The problem is best explained by someone who would know best: a prominent Anthropic engineer (and former Google engineer) who works on Claude Code as a member of the technical staff, Addy Osmani, whose treatise on "comprehension debt" bounced around the software engineering community in March — and is even more relevant today.
+What Osmani highlights isn't really a weakness in Claude Code, but in how companies and engineering teams use it. The gist: AI can write code faster than we can review it. The speed is a great benefit, but it's also a curse, as myriad companies pivot from writing code to overseeing teams of AI agents that complain less and write more.
+As Microsoft CEO Satya Nadella said this week, the company's engineers "build a software factory that builds the product. They don't build the product."
+Traditionally, the laborious process of checking other people's code is how software engineers internalize why systems are designed the way they are, and why decisions from earlier in a project might be meaningful today.
+But reviewing the entirety of AI code isn't feasible given how fast we can produce it now. It's too unwieldy, and this represents a massive bottleneck for progress. Tests, AI review, and spending less time reviewing can be effective. But they've removed layers of verification, and ultimately comprehension, which is disappearing, Osmani explains.
+All this means that with code piling up faster than humans can review it, companies can lose control of their systems in a way far more prosaic and banal than some sort of sentient AI or Skynet doomsday scenario.

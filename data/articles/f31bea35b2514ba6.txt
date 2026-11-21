@@ -1,0 +1,14 @@
+URL: https://www.exchangewire.com/ew-podcast/volandos-abeed-janmohamed-on-chatgpt-ads-googles-ad-business-and-viant-acquiring-waymark
+TITLE: Volando's Abeed Janmohamed on ChatGPT Ads, Google Search, and Viant Acquiring Waymark
+OUTLET: ExchangeWire
+
+In this episode of The MadTech Podcast, Abeed Janmohamed, founding partner at Volando Partners, joins ExchangeWire CEO Rachel Smith and John Still, head of content, to discuss ChatGPT Ads, Google Search, and Viant acquiring Waymark.
+Are LLM ads the future? Are we in an AI bubble? The first story this week explores advertisers' mixed verdicts on ChatGPT Ads and how the platform stacks up against Google Search. Staying with Google, the second story examines its declining ad growth compared to Meta's, and whether the tech giant is cannibalising its own value proposition.
+Finally, Viant is acquiring Waymark to strengthen its creative optimisation capabilities for CTV. What does this deal tell us about the health of the ad tech M&A ecosystem, and what should we be watching as we head into 2027?
+Advertisers divided on ChatGPT Ads
+More than 100,000 advertisers have trialled ChatGPT Ads. For the ads platform to now move out of beta testing and become a permanent fixture in media plans, OpenAI will need to demonstrate its ROI. According to Business Insider, this has received mixed verdicts.
+A working paper under review found that across 102 advertiser sites, ChatGPT Ads generated $0.89 in revenue per US session, compared with $2.45 for Google search ads.
+AI hits Google's search ad business
+Google's search ad growth slowed to 12% in Q3 from 17% in Q2, and executives have partly attributed the drop to lower monetisation in AI Mode. Some advertisers are already moving budgets to Meta, whose ad revenue is growing more than twice as fast as Google Search.
+Waymark joins forces with Viant
+Waymark, an AI video creative production platform, is being acquired by Viant Technology, a buy-side ad tech company built for CTV. Viant CEO Tim Vanderhook said the deal would usher in an "era of generative ad creative optimisation for CTV."

@@ -1,0 +1,22 @@
+URL: https://www.tradingview.com/news/cryptobriefing:8c10ffe14094b:0-goldman-sachs-warns-us-stock-selloff-could-worsen-next-week/
+TITLE: Goldman Sachs warns US stock selloff could worsen next week
+OUTLET: TradingView
+
+Goldman Sachs warns US stock selloff could worsen next week
+Goldman Sachs says the pain in US stocks may not be finished. The bank warned that the selloff could deepen next week, after its proprietary Panic Index climbed to 9 out of 10 on November 20, 2026.
+Crypto-linked equities are absorbing some of the damage. Goldman's bitcoin-sensitive stock basket has dropped 11%, outpacing several of the bank's other thematic trackers.
+The Nasdaq 100 fell 5.6%, its worst weekly showing since March 2020.
+Semiconductors fared even worse. The Philadelphia Semiconductor Index fell 11%, matching the drop in Goldman's bitcoin-sensitive basket.
+Nvidia has slid nearly 50% from its early-October peak.
+Goldman's other thematic baskets tell a similar story. Its retail-favorites index declined 8.9%, while its cyclical-versus-defensive basket slipped 3.2%.
+The core of Goldman's warning centers on commodity trading advisors, or CTAs. These are systematic funds that follow price trends: when markets go up, they buy, and when markets go down, they sell.
+Over the past month, CTAs sold $57 billion in US equities. That selling flipped them to a $19 billion net short position, meaning they are now positioned to profit if stocks fall further.
+Goldman's models suggest these funds could unload another $28.6 billion to $80.6 billion, depending on where markets head.
+Goldman also pointed to momentum traders as a primary driver of the recent decline. Both institutional and retail investors have been shedding risk assets.
+Two threads run through the current downturn. The first is growing skepticism about whether the enormous sums being poured into AI infrastructure will produce returns that justify the spending.
+The second thread is the lack of a fresh catalyst. The much-anticipated Anthropic IPO did not deliver the risk-on boost some investors may have hoped for.
+For crypto investors, the 11% drop in Goldman's bitcoin-sensitive basket is the clearest signal. These are publicly traded companies whose fortunes tend to move with Bitcoin, and they are falling alongside the broader tech complex.
+The weakness in the retail-favorites basket adds to that picture. Retail-preferred assets and crypto-related equities often share an investor base, and both are being sold as risk appetite fades.
+What to watch next week comes down to a few markers. Whether the Nasdaq 100 can find a floor after its worst week since March 2020 will shape how much additional selling CTAs carry out.
+Nvidia's trajectory is another key indicator. As the most prominent AI stock, its near-50% slide from the October peak has become shorthand for broader doubts about the sector.
+With the Anthropic IPO failing to spark a rally, the market currently lacks an obvious reason to reverse course, and Goldman's models suggest that, absent one, systematic sellers could keep pressing.

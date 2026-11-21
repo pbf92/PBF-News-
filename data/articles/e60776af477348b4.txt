@@ -1,0 +1,31 @@
+URL: https://cryptobriefing.com/nvidia-ai-chip-commoditization-anthropic-amd/
+TITLE: Nvidia’s moat looks shallower as Anthropic shows AI chips are becoming interchangeable
+OUTLET: Crypto Briefing
+
+Anthropic's Claude Mythos can reportedly move AI workloads off Nvidia hardware in days, a shift that could favor TSMC, Alphabet, and AMD
+Anthropic has disclosed that its Claude Mythos model can move part of its AI workloads onto non-Nvidia chips in just a few days, with basically no human intervention.
+That same job used to take six to 12 months and dozens of engineers.
+What Anthropic actually revealed
+The disclosures came as Anthropic prepares for its IPO. The headline capability is software that rewrites and tunes AI models to run on different hardware, largely on its own.
+The specific benchmark is AMD’s MI355X GPUs. Claude Mythos can port an AI model to that chip in approximately three days, compared to the old norm of 6-12 months.
+Nvidia’s dominance has never rested on silicon alone. Its CUDA software ecosystem is the real lock-in. Developers built their tools around it, so moving to rival chips meant rebuilding a lot of plumbing.
+Automated porting chips away at that advantage. When code can hop between hardware platforms cheaply, chips start behaving less like proprietary platforms and more like interchangeable parts.
+The numbers behind the shift
+Anthropic is not just talking about alternatives. Its deal for AMD’s Instinct GPUs is projected to reach multi-gigawatt scale, with the first phase set for the first half of 2027.
+Price is a big part of the appeal. AMD reportedly offers a per-gigawatt system cost that is roughly half that of some Nvidia platforms.
+AI, tech, and the markets they move—in one daily briefing.
+Daily. Free. Join 34,000+ readers across crypto, finance, and policy.
+The broader market data points in the same direction. Nvidia’s share of contracted future AI compute capacity for frontier labs has declined to around 39%, down from previous highs of 80%+.
+Alphabet is the other obvious winner in this setup. Google’s tensor processing units, or TPUs, are custom chips built for AI workloads, and they stand to benefit when customers can move models onto them without a costly rewrite.
+Background: how Nvidia built its grip
+Nvidia’s GPUs became the default engine of the AI boom because they were powerful and because the software around them was mature. Labs and hyperscalers bought them in enormous quantities, and rivals struggled to pry customers loose.
+The barrier was never that AMD or Google could not build capable chips. It was that switching cost real time, real talent, and real risk.
+Overall demand for AI chips continues to look strong. Companies appear to be spreading their purchases across vendors in response to cost pressures and supply chain risks, rather than cutting spending outright.
+What this means for Nvidia, AMD, Alphabet, and TSMC
+For Nvidia, the risk is less about losing sales tomorrow and more about losing pricing power over time. The 39% capacity share figure is the number to watch.
+For AMD, the opportunity is direct. Its biggest obstacle was software friction, not chip performance. If tools like Claude Mythos remove that friction, AMD’s lower system costs become its main selling point, and the Anthropic deal becomes a proof of concept other buyers can point to.
+The key milestone is the first phase of that deal in the first half of 2027.
+Alphabet sits in a slightly different position. Its TPUs serve both its own AI ambitions and outside customers through Google Cloud. Easier migration widens the pool of workloads that can land on Google hardware without forcing customers into a lengthy rebuild.
+TSMC may be the quietest beneficiary. It manufactures chips for Nvidia, AMD, and Broadcom, so it collects revenue no matter which designer wins the procurement fight. TSMC is already operating amid ongoing capacity constraints, which suggests buyers will keep competing for its production slots regardless of whose logo is on the final product.
+There are risks to the commoditization story. Anthropic’s results cover part of its workloads, not all of them, and porting a model is different from running it at peak efficiency across every task. Nvidia also still holds a large installed base and deep relationships with nearly every major AI buyer.
+Disclosure: This article was edited by Diego Almada Lopez. For more information on how we create and review content, see our Editorial Policy.

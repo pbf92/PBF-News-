@@ -1,0 +1,90 @@
+URL: https://pressinsider.com/technology/riemann-hypothesis-proof-anthropic-claude/
+TITLE: Anthropic mathematician claims Riemann hypothesis proof with Claude as rival draft emerges
+OUTLET: PRESS Insider
+
+Independent checks of a 17-million-line mathematical proof are encouraging, but researchers must still establish whether the AI-assisted argument settles the 167-year-old problem
+An Anthropic mathematician has claimed to have proved the Riemann hypothesis with the help of Claude, the company’s artificial intelligence system, potentially settling one of mathematics’ most celebrated unsolved problems, even as an independent, human-written proof emerged on the same day.
+Levent Alpöge, a number theorist at Anthropic, announced on Friday, 20 November, that he and Claude had developed a proof of the conjecture, first proposed by German mathematician Bernhard Riemann in 1859.
+“I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis,” Alpöge wrote in a four-page statement published on his personal website.
+He said the method also establishes the generalized Riemann hypothesis, a stronger conjecture encompassing a broader family of mathematical functions.
+The claim immediately attracted international attention because the Riemann hypothesis is one of seven Millennium Prize Problems established by the Clay Mathematics Institute, each carrying a $1 million award.
+Independent mathematicians have already compiled Alpöge’s extensive mathematical proof, written in the Lean programming language. But further checks and mathematical examination are needed before the result can be considered established.
+On the same day, Stanford mathematician Ravi Vakil disclosed that Alessandro Maria Masullo had independently developed a proposed proof of the generalized Riemann hypothesis after nearly 12 years of work, without using AI.
+Both claims have now entered an unusually public process of mathematical scrutiny.
+What Makes the Riemann Hypothesis So Important?
+Prime numbers are whole numbers greater than one that can be divided evenly only by one and themselves.
+They are the building blocks of arithmetic because every whole number greater than one can be expressed as a product of primes.
+Although individual prime numbers appear at irregular intervals, mathematicians have established patterns governing how frequently they occur among larger numbers.
+Riemann’s conjecture concerns a mathematical object called the zeta function, whose zeros are closely connected to the distribution of primes.
+The hypothesis states that every nontrivial zero of this function has a real part equal to one-half.
+A proof would establish much tighter bounds on the difference between the actual number of primes below a given value and the number predicted by mathematical approximations.
+It would also settle numerous results across number theory that mathematicians have established conditionally, assuming the hypothesis to be true.
+The Clay Mathematics Institute says researchers have computationally verified that the first 10 trillion nontrivial zeros satisfy Riemann’s conjecture.
+But checking trillions of individual cases cannot establish a proposition about infinitely many numbers.
+That requires a general mathematical proof.
+The hypothesis has resisted generations of mathematicians, including some of the most accomplished researchers of the past century.
+How Alpöge and Claude Approached the Problem
+Alpöge’s announcement describes a sustained collaboration involving his own mathematical expertise and Claude’s ability to develop and connect arguments across several specialized areas of number theory.
+He said he initially directed the investigation toward relationships between techniques that had appeared in simpler mathematical settings.
+The research eventually involved theta lifts, automorphic forms and ideas connected to earlier results concerning mathematical functions over finite fields.
+Alpöge said Claude began making progress beyond his immediate ability to follow the argument.
+“Claude far outpaced me near the finish line,” he wrote.
+The statement provides a research timeline spanning October and November, with the generalized result recorded on Monday, 16 November.
+Unlike a conventional mathematical discovery, however, the proposed proof was not initially published as a readable academic paper.
+Instead, Alpöge released an archive containing approximately 17 million lines of code written in Lean, a programming language used to construct and formally verify mathematical proofs.
+The archive is intended to allow independent researchers to check the logical validity of the argument.
+Alpöge also attempted to produce a written explanation with Claude, but the effort generated more than 250,000 pages of material that he did not consider suitable for publication.
+He said he intends to prepare a proper mathematical account after gaining a fuller understanding of the argument and identifying possible simplifications.
+The unusual presentation reflects the scale of the proposed proof and raises an important question about the future of mathematical research: whether AI systems may increasingly produce valid arguments that human specialists cannot immediately explain.
+Independent Checks Produce Encouraging Results
+The strongest evidence supporting Alpöge’s claim comes from mathematicians who have independently compiled the Lean archive.
+Andrew Sutherland, a number theorist at the Massachusetts Institute of Technology, told Scientific American that the code had been checked using Lean’s standard logical foundations.
+“The Lean proof has been compiled and independently rechecked by the Lean kernel with only the three standard axioms,” Sutherland said.
+Science reported that Sutherland and Simon DeDeo, a cognitive scientist at Carnegie Mellon University, were among several researchers who compiled the code within hours of its release.
+Sutherland’s public verification page also reported that two independently written proof checkers, nanoda and con-leche, had accepted the full proof.
+These checks are significant because Lean does not simply assess whether a mathematical argument looks convincing.
+Its kernel checks whether formal statements follow logically from the specified assumptions, using a precisely defined system of mathematical reasoning.
+However, compilation is not the only requirement for accepting a formal proof.
+Researchers must confirm that the mathematical statement encoded in the program is the intended theorem, rather than a modified or weaker proposition.
+They must also examine whether any definitions have been changed in ways that make the result easier to establish, and whether independent verification systems produce consistent results.
+Kevin Buzzard, a mathematician at Imperial College London who specializes in formal proof verification, has emphasized the importance of checking that the theorem represented in the code corresponds to the actual Riemann hypothesis.
+Additional verification procedures, including comparisons of mathematical statements and checks using independent versions of the Lean kernel, are therefore central to determining whether the claimed result holds.
+One such check, run with con-leche, confirmed that the five headline theorems in the code match the published statement of the problem. That statement uses the standard definition of the Riemann hypothesis in Mathlib, Lean’s main mathematics library.
+A full run of Comparator, a checking tool maintained by Lean’s developers, was still in progress when Sutherland last updated his page on Friday.
+The early results are encouraging, but the mathematical community has not yet completed the process required to establish the discovery.
+Fields Medal Winner Expects the Proof to Hold
+Some leading mathematicians have expressed optimism.
+James Maynard, a University of Oxford mathematician who received the Fields Medal in 2022, told The New York Times that he believes the proposed proof is likely to survive scrutiny.
+“I think it’s likely to be correct,” Maynard said. “I’d be 98 or 99 percent certain.”
+He told Nature that a fully verified result would be “clearly a historic milestone in mathematics.”
+Others have emphasized that logical verification and mathematical understanding are distinct.
+Maksym Radziwiłł, a mathematician at New York University, told Science that the point of mathematics, as of all science, “is understanding why things happen.”
+He also said the push for headline results without digestible content fits a narrative from AI companies “that understanding is unnecessary.”
+The difference matters because major mathematical discoveries often become valuable not only for the questions they settle but also for the new concepts and methods they introduce.
+A proof that cannot readily be understood may settle a conjecture while leaving much of its wider mathematical significance unexplored.
+Rival Human Proof Emerges After 12 Years
+The debate intensified when Ravi Vakil, president of the American Mathematical Society and a Stanford University professor, published a competing manuscript by Alessandro Maria Masullo.
+In an announcement on his academic blog, Vakil said Masullo had developed a proposed proof of the generalized Riemann hypothesis that Stanford mathematician Brian Conrad had been examining for months.
+“It is all human, with no AI,” Vakil wrote.
+Masullo’s manuscript, titled The Music of the Primes, runs to approximately 940 pages.
+The work represents nearly 12 years of mathematical investigation and was originally expected to undergo further revision and review before publication.
+Vakil said Conrad had provided extensive feedback and that the two mathematicians had intended to continue refining the manuscript.
+Alpöge’s announcement changed that timetable.
+Rather than risk delaying public disclosure while a competing proof was being examined, Vakil published Masullo’s unfinished argument.
+The decision demonstrated how rapidly AI-assisted research is changing the competitive environment for mathematicians working on longstanding problems.
+But the human-written manuscript soon encountered difficulties.
+In an update about eight hours after his initial announcement, Vakil acknowledged that several researchers had identified potential problems in Masullo’s argument, including issues found with the assistance of AI systems.
+“As is usual, all issues need to be resolved to the satisfaction of the community before this proof would be accepted as true,” he wrote.
+Vakil also made clear that he was not endorsing the correctness of the overall proof strategy.
+Conrad told Scientific American that Masullo’s work required substantial further revision.
+“To judge the success of the method requires the paper to reach a stage of more final revision,” he said.
+“It’s undergoing major revision.”
+The competing announcements have therefore produced two very different verification challenges: an enormous AI-assisted formal proof that computers can check but mathematicians do not yet fully understand, and a conventional human-written manuscript whose mathematical arguments remain under revision.
+Mathematicians React on Social Media
+The developments have generated extensive discussion among mathematicians on social media.
+Scott Armstrong, a mathematician at Sorbonne University in Paris, was among the first to draw public attention to Alpöge’s announcement.
+In a brief post on X, Armstrong tagged Alpöge with the words “ftw,” internet shorthand for “for the win,” and shared an image of the announcement.
+On LinkedIn, Fields Medal winner Hugo Duminil-Copin expressed excitement about the claim and reflected on the importance of the conjecture to generations of mathematicians.
+Writing in French, he praised the thoughtful use of AI in mathematical research while emphasizing that substantial work would still be necessary to understand, simplify and develop the ideas contained in the proposed proof.
+He also expressed astonishment at the speed of AI’s progress in mathematics.
+The reactions reflect both enthusiasm about the potential discovery and concern over how mathematical knowledge will be developed and communicated when AI systems begin producing increasi

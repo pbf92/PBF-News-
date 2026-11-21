@@ -1,0 +1,41 @@
+URL: https://timesofindia.indiatimes.com/world/us/anthropic-mathematician-claims-to-solve-167-year-old-riemann-hypothesis-with-claude-what-is-the-1-million-maths-puzzle/articleshow/136044031.cms
+TITLE: Anthropic mathematician claims to solve 167-year-old Riemann hypothesis with Claude: What is the $1 milli
+OUTLET: The Times of India
+
+An Anthropic mathematician has claimed to have developed a proof of the 167-year-old Riemann hypothesis with the help of the company's artificial intelligence model Claude, potentially marking a landmark moment for AI-assisted mathematical research.
+Levent Alpöge, a mathematician at Anthropic, announced on Friday that he believed he had solved the famous mathematical problem, which concerns the distribution of prime numbers and has remained unresolved since 1859. The proposed proof also addresses the generalised Riemann hypothesis, a broader version of the original conjecture.
+The claim has drawn attention from leading mathematicians, although the proof still needs wider independent scrutiny and a deeper understanding of its mathematical reasoning. James Maynard, the Regius Professor of Mathematics at the University of Oxford and a 2022 Fields Medal winner, expressed optimism about the result.
+“If this fully checks out, it is clearly a historic milestone in mathematics, establishing one of the great mysteries of the subject,” Maynard told IBM Think in an interview. “This result really stands out, even in the context of all the recent AI breakthroughs.”
+Alpöge shared the proposed proof in Lean, a programming language and proof assistant that checks mathematical arguments step by step. 
+The format allows researchers to examine whether each part of the reasoning follows logically, although verifying the computer-checked argument and understanding the ideas behind it are separate challenges.
+In a statement posted on his website, Alpöge wrote: “I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis.”
+What is the Riemann hypothesis?
+First proposed by German mathematician Bernhard Riemann in 1859, the hypothesis concerns the distribution of prime numbers, which are divisible only by themselves and one. Examples include 2, 3 and 5.
+Although prime numbers appear to occur irregularly along the number line, the Riemann hypothesis predicts that their distribution follows a deeper mathematical pattern. Proving it would resolve one of the most enduring questions in number theory and provide a stronger understanding of the structure of numbers.
+The problem is among the seven Millennium Prize Problems identified by the Clay Mathematics Institute. Each carries a prize of $1 million for a correct solution.
+Alpöge's announcement follows a series of AI-assisted advances in mathematics, with large language models increasingly being used to explore complex conjectures and theoretical problems. The latest claim, if verified, would represent a major step beyond earlier results that established the predicted pattern for only a proportion of certain mathematical values.
+Why the proposed proof matters
+Youness Lamzouri, a professor of mathematics at the University of Lorraine in France, said the proposed result would go substantially further than an earlier AI-assisted breakthrough.
+Previous work had established that at least 67.25% of a particular set of mathematical values followed the pattern predicted by the Riemann hypothesis. The new claim, if correct, would establish that all of them follow the pattern without exception.
+Lamzouri, who developed a shorter proof of the earlier result without AI, said the latest announcement had left him astonished.
+“I don’t have words to describe what I am feeling right now. I am just in awe,” he said. “If this claim happens to be true, it will be a huge achievement.”
+However, he cautioned that checking the computer-generated proof would only be the first step. Mathematicians would also need to understand the reasoning and ideas behind it before accepting its broader implications.
+“Mathematics is mainly about understanding why something is true,” he said. “We need to understand the ideas in the proof well enough to explain them, teach them and build on them to extend human knowledge.”
+Hector Pasten, a mathematician at the Pontifical Catholic University of Chile, said a verified and understood proof could establish connections between different areas of mathematics.
+“If the proof is correct and understood, this completes a dictionary between different branches of math where the connections were only partial,” Pasten said, describing it as “something like a Rosetta Stone.”
+Carlo Pagano, a professor at Concordia University in Quebec and a visiting researcher at Google DeepMind, also pointed to the potential for new research directions.
+"If true, even from a first high level scan of the summary of the proposed argument, it is very plausible to me that the new ideas in the proof will open up brand new avenues of thinking in number theory and have an immense impact beside the obviously extremely influential result in itself," Pagano said.
+Mathematicians face task of verifying the result
+The use of Lean gives researchers a way to check the logical validity of the proposed proof, but experts have stressed that this does not automatically explain the mathematical ideas that led to the result.
+Maynard said he was optimistic about the claim but cautioned that independent verification would take time.
+“I suspect that the proof will turn out to be correct, although even checking the Lean verification will take some time,” he said.
+He also warned that understanding the underlying mathematics could prove more difficult than checking the computer verification.
+“So somewhat frustratingly, it looks like it will require quite a lot of work to really gain this understanding,” Maynard said.
+Andrew Sutherland, a mathematician at the Massachusetts Institute of Technology, said he had independently compiled Alpöge's result in Lean and described the development as a historic moment.
+“This is indeed an historic moment,” Sutherland said. “The world has changed.... I know there will be a wide range of reactions in our community, but to me this is a human triumph, and a day for celebration.”
+Sutherland said the achievement should also be viewed in the context of the human work behind the development of Lean, large language models and centuries of mathematical research.
+“There is much work to be done to understand the mathematical details of the proof,” he said. “And I can’t wait to dig into them. But perhaps the single most important step in the proof was building a machine that can think.”
+A turning point for AI-assisted mathematics?
+Alpöge's claim comes after a year of growing attention on the ability of AI models to tackle difficult mathematical problems. He had earlier attracted attention in July after sharing a Claude-generated solution to the Jacobian conjecture. He was also involved in a September controversy surrounding an OpenAI mathematical result related to the Navier-Stokes problem.
+If the Riemann hypothesis proof is independently verified and its reasoning understood, it could mark a major advance in the use of AI for mathematical discovery. The result would not necessarily have immediate practical applications, but it could reshape research in number theory and deepen understanding of connections across mathematics.
+For now, the central question is whether the proposed proof withstands independent examination. Even if the computer verification holds, mathematicians will need to establish why the argument works and what new avenues it opens.

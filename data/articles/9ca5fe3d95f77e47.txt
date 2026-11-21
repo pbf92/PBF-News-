@@ -1,0 +1,14 @@
+URL: https://www.marca.com/en/technology/2026/11/21/an-anthropic-mathematician-claims-to-have-solved-one-of-the-greatest-mysteries-in-mathematics-with-ai-the-riemann-hypothesis.html
+TITLE: An Anthropic mathematician claims to have solved one of the greatest mysteries in mathematics with AI: the Riemann hypothesis
+OUTLET: MARCA
+
+- US News. California fisherman gets frightening wake-up call after drone spots great white shark
+- Celebrities. Ashton Kutcher’s financial life takes an unexpected turn over his AI investment
+Artificial intelligence may be facing one of the greatest milestones in its history. Levent Alpöge, a mathematician at the technology company Anthropic, claims to have solved the Riemann hypothesis, one of the most important mathematical problems that has remained unanswered for more than 160 years. To achieve this, he says he relied on the help of Claude, the artificial intelligence model developed by the company itself.
+The researcher has published a four-page statement in which he explains that he has completed a proof in collaboration with the tool. “Claude and I have enjoyed wonderful moments together over the past few months, but this time Claude surpassed me by far near the finish line. No, Claude flew, danced, and shone as it reached the finish line”, Alpöge wrote.
+The mathematician has also provided a link to a computer code that, he claims, makes it possible to verify the result. However, his announcement does not yet mean that the problem has been officially solved.
+One million dollars for solving one of the Millennium Problems
+The hypothesis was formulated in 1859 by the German mathematician Bernhard Riemann and is related to the distribution of prime numbers. Specifically, it proposes a property about the non-trivial zeros of the Riemann zeta function, a fundamental question for better understanding how these numbers are distributed.
+Its importance is such that it is one of the seven Millennium Prize Problems selected in 2000 by the Clay Mathematics Institute. The organization offers a one-million-dollar prize for the solution of each of them. So far, only the Poincaré conjecture has been solved and officially recognized.
+The mathematical community will now have to examine Alpöge's proof. The International Mathematical Union has already warned about the risks of accepting proofs generated with artificial intelligence without an independent and rigorous review.
+Therefore, the announcement opens up a historic possibility, but it still remains to be seen whether Claude and the researcher have really managed to solve one of the great challenges of mathematics.
