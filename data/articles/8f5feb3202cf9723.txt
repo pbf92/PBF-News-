@@ -1,0 +1,24 @@
+URL: https://oncodaily.com/new-paper-alert/matthew-evison-638375
+TITLE: Matthew Evison: New Study Challenges the Five-Year Lung Cancer Follow-Up Limit
+OUTLET: Oncodaily
+
+Matthew Evison, Associate Medical Director at Greater Manchester Cancer Alliance, shared on LinkedIn:
+“Should we keep scanning lung cancer survivors beyond 5 years?
+A new JAMA Oncology study from Samsung Medical Center (Yoon et al.) used Korean national data on 55,694 people alive and recurrence-free 5 years after a lung cancer diagnosis. Using a sequential target trial emulation, it found that having a chest CT beyond 5 years was associated with:
+- a higher rate of lung cancer events detected, whether recurrence or a new primary (2.49% vs 1.97% per year)
+- more surgical resection when an event was found
+- 34% lower all-cause mortality (HR 0.66)
+Three things stood out for me.
+- The risk doesn’t go away. Around 2% of long-term survivors per year develop a new lung cancer event, years after many of us discharge them.
+- The mortality signal is too large to be explained by scanning alone. Scanned patients had about 1.7 fewer deaths per 100 person-years, but only about 0.5 extra events detected. That points to healthier, more engaged patients being the ones who get scanned, as the authors acknowledge.
+- The strongest signals were in women, never smokers and older adults. In the UK, these are exactly the people who fall outside lung cancer screening once hospital follow-up ends. They are also groups in which indolent, slow-growing disease is common in East Asian populations, which makes overdiagnosis a real possibility.
+This paper is hypothesis-generating, not practice-changing. But it sharpens a question our patients ask us every week: what happens to me after 5 years?
+We need consensus, and ideally a trial.
+Yoon DW et al. JAMA Oncol 2026. doi:10.1001/jamaoncol.2026.4659”
+Title: Chest Computed Tomography Receipt Beyond 5 Years After Lung Cancer Diagnosis and Survival
+Authors: Dong Woog Yoon, Danbee Kang, Byeong-Ho Jeong, Hea Lim Choi, Juwon Park, Sun Hwa Lee, Dong Wook Shin, Hong Kwan Kim
+Read the full article.
+About Matthew Evison
+Matthew Evison is a Professor of Respiratory Medicine at the University of Manchester and a consultant respiratory physician at Wythenshawe Hospital, Manchester University NHS Foundation Trust. His clinical and academic work focuses on lung cancer, with particular interests in early diagnosis, thoracic oncology and improving outcomes for patients with lung cancer.
+He has held several leadership roles in regional cancer services, including Clinical Director for Lung Cancer at Greater Manchester Cancer. He is also actively involved in initiatives aimed at improving lung cancer care, advancing early detection and strengthening tobacco control efforts across the UK.
+You may also be interested in: Research and Advocacy Opportunity: Lung Cancer Survey – What Matters Most?

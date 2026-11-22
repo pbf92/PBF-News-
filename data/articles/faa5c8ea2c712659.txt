@@ -1,0 +1,20 @@
+URL: https://www.tradingview.com/news/seekingalpha:8b0d9da21094b:0-sa-asks-how-much-of-a-threat-is-anthropic-s-multi-chip-strategy-to-nvidia/
+TITLE: SA Asks: How much of a threat is Anthropic's multi-chip strategy to Nvidia?
+OUTLET: TradingView
+
+SA Asks: How much of a threat is Anthropic's multi-chip strategy to Nvidia?
+How much of a threat is Anthropic's ANT multi-chip strategy, which allows its AI agents to run on multiple chip families, to Nvidia's dominance in the industry?
+Seeking Alpha analysts The Techie, Victor Dergunov, Danil Sereda, and Bashar Issa weigh in.
+The Techie: While I think Anthropic’s ANT multi-chip strategy poses risks to Nvidia’s NVDA market share, I wouldn’t say it’s exactly existential to the company. As of now, six out of seven Nvidia customers are building or using custom chips, so I think the industry is already moving away, and things will get worse in 2027. We know that the frontiers will make up 15% of Nvidia’s revenue this year, and while I don’t expect that figure to decline next year, I have a hard time seeing it grow.
+Victor Dergunov: I believe Anthropic's ANT multi-chip strategy illustrates that other major chip players exist, such as Broadcom AVGO, Alphabet GOOG GOOGL, Amazon AMZN, Advanced Micro Devices AMD, and others. However, I don't believe this dynamic implies insufficient demand or that demand for Nvidia NVDA chips will likely decline in the near to intermediate term.
+Danil Sereda: Anthropic ANT is doing it right by hedging chip supplies, just like any big company does nowadays. It doesn't look like an existential threat to Nvidia’s dominance, in my understanding. Weekly token volume is surging rapidly, the whole AI market is expanding, and so are Anthropic's operations. It already scaled to an $81B annualized revenue run rate ahead of its IPO.
+It's good to see them experimenting with custom silicon like Amazon's AMZN AWS Trainium and Alphabet's GOOG GOOGL Google TPUs. But the demand for massive acceleration in frontier capabilities is making Nvidia the main raw throughput provider.
+In fact, Nvidia's NVDA partnership with Anthropic ANT has been expanding, with Nvidia broadening Anthropic's access to Grace Blackwell and Vera Rubin capacity across cloud providers. On its latest earnings call, Nvidia management stated it expects major frontier labs to contribute around 15% to its data center revenue this year. The Techie, another SA author, calculated next year's figure at 24%.
+So, I don't see any abrupt threat to Nvidia NVDA because of Anthropic's ANT supply hedging strategies. If there were indeed a major risk, we'd already see it in Nvidia's recent earnings revisions. There are no indications of that so far.
+(Danil Sereda leads the SA investing group Beyond the Wall Investing.)
+Bashar Issa: Anthropic’s ANT multi-chip strategy is naturally bad for Nvidia NVDA in the short term, but potentially good for the AI sector, including Nvidia, in the long run.
+Nvidia NVDA needs to lower its prices because, at this stage, data center unit economics are distorted, in large part by high GPU costs. As mentioned in a recent article, Nvidia NVDA generates $4 in revenue for every $1 in COGS. These high margins are not sustainable.
+A successful multi-chip strategy might be the catalyst needed to bring some normalization to the sector. That would put pressure on Nvidia's margins in the short term, but healthier data center economics could support more sustainable demand for its GPUs in the long run.
+- Top Semiconductor Stocks
+- Trending AI Stocks
+DisclaimerContent provided by Seeking Alpha is intended for information purposes only, and that Seeking Alpha does not offer any personalist investment advice and is not a licensed securities dealer, broker, US investment adviser or investment bank.

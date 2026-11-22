@@ -1,0 +1,47 @@
+URL: https://www.tradingview.com/script/PV0nMswY-Kalman-Frontier-Trend-Pullback-HTF-Confluence-Strategy/
+TITLE: Kalman Frontier | Trend, Pullback & HTF Confluence Strategy by blitz_algo
+OUTLET: TradingView
+
+Kalman Frontier | Trend, Pullback & HTF Confluence Strategy
+Kalman Frontier trades pullbacks that go with the trend. It only enters when three separate layers agree, so it avoids buying dips in a downtrend and selling rallies in an uptrend.
+1. Trend (adaptive Kalman line). An adaptive Kalman filter estimates the underlying price trend. It measures how far each bar lands from its own prediction. When a bar is an outlier, it trusts that bar less, so one noisy candle doesn't drag the line around. A "flip hold" stops the trend direction from changing on every small wiggle.
+2. Higher-timeframe bias. The higher timeframe is your chart timeframe × a multiplier, so it scales automatically. Longs need price above the HTF open and the last closed HTF CCI above zero. Shorts need the reverse.
+3. Pullback timing (volume-weighted CCI). The CCI weights both its average and its deviation by volume, so moves on heavy participation count more. A trade triggers when the CCI recovers back through its control level (±70 by default), meaning the pullback is ending and price is turning back with the trend. You can switch the trigger to a zero cross.
+4. Volatility filter. The Kalman filter tracks how noisy recent bars are. When a cluster of unusual moves puts the market in a volatility shift, new entries are paused until it settles.
+Exits (first one to trigger wins):
+ATR-based stop loss and take profit
+The Frontier: a trailing line that resets to the HTF open each period, then chases price faster as the HTF bar nears its close. A cross against your trade closes it.
+A flip of the Kalman trend
+Features
+- Full long and short logic, with Long Only and Short Only modes
+- One clean pane: a glowing red-to-green CCI line, gradient fills that fade to transparent at zero, faint control levels, and BUY / SELL labels at each real entry
+- A Kalman trend-slope line in the same pane, in blue and orange, so it can't be confused with the CCI
+- Optional Kalman line on the price chart
+- HTF multiplier that adapts to any chart timeframe
+- Non-repainting HTF CCI (last closed HTF bar only)
+- Volatility-shift filter, which you can turn off
+- Soft display cap on extreme CCI values so one spike can't flatten the pane
+- Adjustable stop, target, trigger type, control level, trend smoothness, noise sensitivity and Frontier speed
+- Defaults of 30% of equity per trade, 0.05% commission and 1 tick of slippage
+Tips
+- Start with the HTF multiplier. It sets how big the picture is. 12 on a 5m chart is 1H. Lower values give more trades and more noise, and higher values give fewer, cleaner trades.
+- Control level: if you get too few trades, lower it to 50–60. If you get too many weak ones, raise it. Zero Cross is a good option for fast, trending markets.
+- Trend Smoothness and Flip Hold set how quickly the trend flips. Raise them on choppy symbols and lower them on smooth, trending ones.
+- Pair the Kalman Flip exit and the Frontier exit with a wider stop if you want to ride longer trends. Turn them off to rely only on the ATR stop and target.
+- Try it on liquid, volume-rich markets first. The volume weighting only helps when the volume data is meaningful.
+- Compare settings fairly. Change one setting at a time, and test across different symbols and market regimes, not just one stretch of history.
+- Check Long Only and Short Only separately. One side often carries most of the performance.
+Warnings
+- This is not financial advice. It is an educational tool.
+- Backtests are not predictions. Past results do not guarantee future results, and a strategy tuned to one stretch of history often fails on new data.
+- Over-optimization is easy here. Many inputs means many ways to curve-fit. Avoid picking settings from a single great-looking backtest.
+- Fills are not guaranteed. Signals fire at bar close and fill on the next bar's open. Real slippage, spreads, gaps and fees can differ from the defaults, especially on illiquid symbols.
+- Stops are simulated. Gaps and fast markets can fill worse than the stop level.
+- Trades can reverse. An opposite signal can flip you from long to short in a single step.
+- No volume data means no volume weighting. On such symbols it behaves as a standard CCI.
+- Sideways markets can still produce whipsaws, because the trend and pullback layers lag by nature.
+- Risk size matters. 10% of equity per trade is aggressive for many accounts, so lower it and test with realistic position sizing.
+Disclaimer
+The information and publications are not meant to be, and do not constitute, financial, investment, trading, or other types of advice or recommendations supplied or endorsed by TradingView. Read more in the Terms of Use.
+Disclaimer
+The information and publications are not meant to be, and do not constitute, financial, investment, trading, or other types of advice or recommendations supplied or endorsed by TradingView. Read more in the Terms of Use.

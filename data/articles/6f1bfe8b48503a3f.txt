@@ -1,0 +1,71 @@
+URL: https://ppc.land/flight-start-date/
+TITLE: Flight start date
+OUTLET: PPC Land
+
+Flight start date is a dimension in Amazon Ads unified reporting that records the day on which a flight begins: a dated segment of a campaign bought through DVA, the display, video and audio platform Amazon sold as Amazon DSP (demand-side platform) until September 29, 2026. Each flight carries its own budget, start date and end date, and the start date marks the moment the platform may begin spending that flight's money. The field exists because a campaign's overall dates say little about when money was meant to move. A campaign running from January to March can hold three flights, and only their start and end dates show where each budget window opened and closed.
+Where the field sits
+Amazon's unified reporting dimensions page, a Support Center reference updated on November 11, 2026, lists 156 attributes across 11 categories. Flight start date belongs to the largest, Level of detail, in a group of five flight fields with Flight ID, Flight name, Flight end date and Flight budget. PPC Land's reading of the reference found that 19 of the 49 level-of-detail fields apply to DVA+ alone, and that "Flights are the clearest case". The reference describes the flight fields as a way "to track and manage campaign delivery," but gives Flight start date no definition of its own as of November 2026.
+None of the five flight fields lists a former name; orders became campaigns and line items became ad groups in November 2025, but flights kept their name. Sponsored Products, Sponsored Brands and Sponsored Display campaigns have no flights, and Amazon's documentation says a dimension that does not fit an ad product "appears as null". In a report mixing products, most sponsored ads rows will carry an empty Flight start date.
+How a flight start date is set
+Flights attach to the campaign, not the ad group, dividing its date range into windows. Teikametrics, whose Flywheel software manages Amazon DSP accounts, described flights in June 2025 help documentation as "specific time segments or intervals within an advertising campaign," each with "its own budget, start and end dates".
+The Amazon Ads application programming interface (API) shows what the console stores. According to a mirror of Amazon's DSP v1 documentation published by the integration company One and last updated on February 25, 2026, flights are created with a POST request to /dsp/v1/campaigns/{campaignId}/flights. Each flight object requires three fields:
+- startDateTime - the beginning of the flight, as an RFC 3339 timestamp.
+- endDateTime - the end of the flight, in the same format.
+- budgetAmount - a number with a minimum of 1, in the currency set at advertiser level.
+A name and an impressionBudgetAmount are optional, and the response returns a flightId beginning "flg_".
+The format matters. RFC 3339, an Internet Engineering Task Force standard published in July 2002, writes a moment with an explicit offset from Coordinated Universal Time (UTC): 2027-02-01T08:00:00Z is 8am UTC, midnight in Los Angeles. The API holds a precise moment while the reporting field is a date, and the reference does not say how one becomes the other.
+Funnel, a marketing data company, keeps the fuller form, listing "Flight Start Date Time" in its Amazon DSP budget dataset.
+What happens when a flight starts
+The start date is the anchor for pacing. Once a flight opens, the platform spends toward that flight's budget across the days left until its end date. Amazon's launch notice for two order-level metrics, published on September 28, 2023, defines delivery rate as spending progress "in the current flight", capped at 100%, and budget at risk as the sum "that may remain unspent if the current spending pattern continues through the end of the flight". Both appear from the second day of a flight, according to Amazon, so the start date also sets when the first pacing signal can be read.
+Flight length, which the start date helps fix, shapes optimisation. Amazon introduced recommendations on November 20, 2024 for DSP flights "running seven days or less", aimed at events such as Prime Day and Black Friday. Its DVA+ guidance points the other way for automated campaigns, stating that flights of 14 days or longer give the optimiser time to learn.
+A worked example
+Consider a brand planning $90,000 of DVA spend for the first quarter of 2027. Its buyer builds three flights: January 1 to January 31 at $30,000, February 1 to February 28 at $40,000 and March 1 to March 31 at $20,000. A unified report with Flight ID, Flight start date, Flight end date and Flight budget as columns shows three rows, with start dates of 2027-01-01, 2027-02-01 and 2027-03-01.
+Counting both ends, the February flight runs 28 days, so even pacing implies about $1,429 a day (40,000 divided by 28). If the buyer moves the February start to February 8 to align with a product launch, the same $40,000 must spend in 21 days, about $1,905 a day, an increase of a third.
+The time zone can shift a row. A flight created through the API with a start of 2027-02-01T00:00:00Z could begin delivering at 4pm Pacific time on January 31 in a US marketplace. The Airbyte connector documentation says Amazon reports "are generated relative to the target profile's timezone"; whether Flight start date follows that conversion is not documented.
+Origin and evolution
+Flighting predates programmatic buying. In media planning, a flight is a period of advertising activity separated from others by gaps or changes in weight, a practice PPC Land traced in its explainer on flight. Demand-side platforms copied the insertion-order structure; Google's Display & Video 360, for one, removed Flight ASAP pacing at insertion-order level in November 2024.
+Amazon's programmatic platform launched as Amazon Advertising Platform and was renamed Amazon DSP in September 2018. Its orders carried flights, though Amazon has not published a launch date for the feature. Amazon's campaign and creative management APIs reached general availability on January 9, 2025, after a beta announced in October 2024, giving programmatic control over flight timestamps.
+Unified reporting moved the field into a shared schema. Amazon launched the reporting system in beta on November 11, 2025, the same month it merged Amazon DSP and sponsored ads into one Campaign Manager. General availability followed on June 8, 2026. DVA replaced the Amazon DSP name on September 29, 2026, and the November 11, 2026 reference set out the five flight fields as they now stand.
+Why it matters
+Agency contracts tend to run by month, and monthly flights mirror them. Flight start date lets a report line up delivery with each signed period, and shows whether underspend came from slow pacing or a flight that opened late.
+It also matters because of the migration timetable. Legacy report pages become read-only on December 17, 2026, and Amazon will delete unmigrated reports and their history on January 31, 2027. Daily grain is limited as well: Amazon allows 24 months of daily history but a maximum of 120 days per report pull, so a year of flights analysed day by day needs several pulls.
+Defaults are shifting too. In Amazon's four-step DVA+ builder, budget flighting sits among the advanced settings rather than the default tier. A default campaign may carry one flight whose start date matches the campaign's.
+Limitations and disputes
+The first limitation is the missing definition: Amazon does not say whether the field shows the date as currently configured or as it stood during delivery.
+The second is the time zone. The API stores an RFC 3339 moment, the report shows a date, and no Amazon page reviewed states which clock governs the conversion.
+The third is editability. Whether a start date can be moved once a flight is live is not set out in any Amazon page found for this article.
+The fourth is overlap. Intentwise, an Amazon ads software vendor, wrote in November 2025 that its tool rejects new flights whose dates collide with existing ones, returning "Flight overlaps with an existing one." That is the vendor's validation rule. Whether Amazon itself forbids overlapping start and end dates is not stated in the public documentation reviewed.
+Commonly confused terms
+Flight start date vs Campaign start date. Campaign start date opens the whole campaign. A flight start date opens one budget window inside it. In a single-flight campaign the two may match; in a multi-flight campaign only the first flight can share the campaign's start.
+Flight start date vs Ad group start date. Ad group dates govern when a particular tactic or inventory line can serve. They divide the campaign by what is bought, not by how money is spread over time, and an ad group may run across several flights.
+Flight start date vs Flight end date. The end date closes the window. Together the two fix the flight's length, and with Flight budget they set the implied daily pace.
+Flight start date vs Date. Date is the time dimension of a report row: the day on which impressions or sales occurred. Flight start date is a fixed attribute of a flight and repeats on every row belonging to it.
+Recent developments
+PPC Land's November 12 count placed the flight fields among the 137 dimensions carrying the DVA+ marker. On November 17 Amazon published its data availability page, setting the 120-day pull limit for daily data that governs most flight analysis. DVA+ is due to reach general availability in 35 markets in the first quarter of 2027, and the legacy report shutdown on January 31, 2027 will leave unified reporting as the only route to flight dates in Amazon's console.
+Timeline
+- July 2002 - The IETF publishes RFC 3339, the timestamp format later used for flight dates in Amazon's DSP API.
+- September 2018 - Amazon Advertising Platform is renamed Amazon DSP.
+- September 28, 2023 - Amazon launches delivery rate and budget at risk metrics, measured against the current flight from its second day.
+- November 2024 - Google removes Flight ASAP pacing at insertion-order level in Display & Video 360.
+- November 20, 2024 - Amazon extends DSP recommendations to flights of seven days or less.
+- January 9, 2025 - Amazon's DSP campaign and creative management APIs reach general availability.
+- June 13, 2025 - Teikametrics documents flights with their own start and end dates.
+- November 11, 2025 - Amazon opens unified reporting in beta.
+- November 2025 - Amazon DSP and sponsored ads merge into one Campaign Manager; orders become campaigns and line items become ad groups.
+- February 25, 2026 - Last update of the mirrored DSP v1 flights API documentation listing startDateTime and endDateTime.
+- June 8, 2026 - Unified reporting reaches general availability.
+- September 29, 2026 - DVA replaces the Amazon DSP name.
+- November 11, 2026 - Amazon updates its unified reporting dimensions page, listing Flight start date among level-of-detail fields.
+- November 17, 2026 - Amazon sets a 120-day maximum per daily report pull.
+- December 17, 2026 - Legacy report pages become read-only.
+- January 31, 2027 - Unmigrated legacy reports are deleted.
+Related PPC Land coverage
+- 85 of Amazon's 156 unified report dimensions apply to Sponsored Products - The category and product counts, naming flights as the clearest DVA+ only case.
+- Explaining flight - The general flight concept, flighting patterns and pacing across platforms.
+- DV360: Flight ASAP pacing to be removed in November 2024 - How a competing DSP changed flight pacing.
+- Amazon launches unified reporting system across advertising products - The November 2025 beta.
+- Amazon unifies DSP and sponsored ads in single Campaign Manager platform - The merger behind the order-to-campaign renaming.
+- Amazon Ads unified reporting exits beta - and takes two old tools with it - General availability on June 8, 2026.
+- Amazon advertisers will lose unmigrated reports on January 31, 2027 - The legacy shutdown timetable.
+- Amazon limits daily unified reports to 120 days of its 24-month history - Data retention and pull limits by time grain.
+- 

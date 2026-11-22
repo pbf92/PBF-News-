@@ -1,0 +1,14 @@
+URL: https://www.tradingview.com/news/seekingalpha:a0f31a6ac094b:0-goldman-watching-for-3-conditions-that-could-support-a-stock-correction-bottom/
+TITLE: Goldman watching for 3 conditions that could support a stock correction bottom
+OUTLET: TradingView
+
+Goldman watching for 3 conditions that could support a stock correction bottom
+Goldman Sachs is watching for three potential catalysts that could signal a bottom in the current equity correction and set the stage for a market recovery.
+The S&P 500 SPY IVV VOO has fallen 12% from its Oct. 6 record high, exceeding the median 10% calendar-year peak-to-trough decline seen since 1980. The Nasdaq 100 QQQ has dropped 20%. Historically, following 22 S&P 500 corrections of at least 10% since 1980, the index gained an average 4% over the next three months, rising in 73% of those episodes.
+Goldman said the first condition it is watching for is news that increases investor confidence in the outlook for earnings tied to AI investment and monetization.
+The second would be an improvement in the macro backdrop, including a dovish signal from the Federal Reserve.
+The third would be a significant further decline in investor positioning, a feature that has often accompanied previous market bottoms.
+That last condition has not yet been met broadly. Hedge funds have sold heavily in recent weeks, with net leverage dropping to its lowest level since April 2025, but Goldman’s broader measure of equity positioning remains above average.
+The firm’s U.S. Equity Sentiment Indicator, which combines nine measures of positioning across institutional, retail and foreign investors, stood at 0.7 as of Nov. 20. Meanwhile, U.S. equity mutual funds and ETFs have attracted nearly $170B of inflows since the start of Q4, while asset-manager equity futures positioning ranks in the 82nd percentile of the past decade.
+The selloff has also broadened beyond AI. Goldman’s AI basket has fallen 32% since Oct. 6, while the S&P 500 excluding AI is now 6% below its high, and cyclical stocks have begun underperforming defensives as investors mark down expectations for economic growth.
+Despite the correction, Goldman still forecasts the S&P 500 reaching 8,700 over the next 12 months.DisclaimerContent provided by Seeking Alpha is intended for information purposes only, and that Seeking Alpha does not offer any personalist investment advice and is not a licensed securities dealer, broker, US investment adviser or investment bank.

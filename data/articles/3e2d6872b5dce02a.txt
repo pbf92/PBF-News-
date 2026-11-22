@@ -1,0 +1,66 @@
+URL: https://ppc.land/campaign-rule-amount/
+TITLE: Campaign rule amount
+OUTLET: PPC Land
+
+Campaign rule amount is a dimension in Amazon Ads unified reporting that records the budget a campaign actually ran on after a budget rule changed it. Amazon's dimensions reference defines it as "the modified campaign budget based on a rule." A Sponsored Products campaign with a $40 daily budget and an active rule adding 50% would show a Campaign budget amount of 40 and a Campaign rule amount of 60. The field exists because the base budget no longer tells the whole story: rules can raise a campaign's limit for a sales event, a range of dates, certain hours or a burst of good performance, and analysts need to see which limit applied when the spend happened.
+Where the field sits
+Amazon's unified reporting dimensions reference, a Support Center page updated on November 11, 2026, lists 156 attributes in 11 categories. PPC Land's count of that reference, published the following day, tagged each attribute by ad product and recorded its former names. Campaign rule amount carries a single marker, for Sponsored Products. It does not apply to Sponsored Brands, Sponsored Display or DVA+, the automated campaign type in DVA, the name Amazon gave its demand-side platform (DSP) on September 29, 2026.
+The field belongs to the account hierarchy, most of which PPC Land places in the Level of detail category: 49 attributes, of which 27 apply to Sponsored Products. Its nearest relatives are Campaign budget amount, the base figure, Campaign budget type, which says whether that figure is "daily" or "total," and Budget currency. The reference also notes: "We do not support Streaming TV Smart mode/ Sponsored TV yet."
+How budget rules work
+A budget rule is an instruction attached to a campaign that raises its daily budget by a set percentage when a condition is met. Amazon offers two kinds.
+Schedule-based rules apply for a fixed period. Amazon's August 12, 2021 launch notice says: "The rule will increase the campaign budget by the percentage you specify" during the chosen date range or event. Events are retail moments such as Prime Day or Black Friday, which Amazon supplies through a recommendation service; the advertiser picks one and the dates fill in. Recurrence can be set for every day or for chosen days of the week. On November 30, 2023, Amazon added hours of the day as a scheduling option, in the US, Canada, the UK, India and Japan, alongside hourly performance reporting.
+Performance-based rules apply when a metric crosses a threshold. The 2021 notice names advertising cost of sales (ACOS, ad spend divided by attributed sales), click-through rate (CTR) and conversion rate (CVR), each calculated from the "previous 7 days." Amazon adds that "campaigns must have a minimum daily budget of $10 to use performance-based rules." Amazon India's help page sets the equivalent floor at INR 300. A rule might read: if ACOS over the past week is below 25%, raise the budget by 30%.
+Amazon India's help page describes the daily mechanics. Each day the system reviews active rules and sets the next day's budget from them. Where several apply, "all applicable increases are cumulatively applied to the daily budget." Its worked case pairs a 50% schedule rule with a 25% rule for 5pm to 9pm: the budget runs 75% above base during those four hours and falls back to 50% at 9pm.
+The API behind the number
+In the Amazon Ads API, Sponsored Products budget rules sit under the /sp/budgetRules resource. According to the documentation of python-amazon-ad-api, an open-source client of the version 3.0 contract, a rule carries a ruleType of SCHEDULE or PERFORMANCE and a budgetIncreaseBy object whose only listed type is PERCENT, with a numeric value. Performance rules add a performanceMeasureCondition holding a metricName (ACOS, CTR, CVR or ROAS, return on ad spend), a comparisonOperator such as GREATER_THAN or LESS_THAN_OR_EQUAL_TO, and a threshold. Schedule rules use a date range, with dates in YYYYMMDD format starting no earlier than the current day, or an eventId. A recurrence object lists days of the week, and a ruleState of ACTIVE or PAUSED turns a rule on or off.
+Rules are created separately and then associated with campaigns through /sp/campaigns/{campaignId}/budgetRules. The same documentation states: "A maximum of 250 rules can be associated to a campaign, and each rule name associated to a campaign must be unique." Creation accepts up to 25 rules per request.
+None of these objects stores an amount. The API stores a percentage and a condition; the amount is computed. Campaign rule amount is where that computed figure surfaces in reporting.
+A worked example
+A seller runs a Sponsored Products campaign at $40 a day in US dollars. Two rules are attached: a schedule rule adding 50% for a five-day Black Friday event, and a performance rule adding 25% when seven-day ACOS falls below 20%.
+On an ordinary day with ACOS at 28%, neither rule fires. Campaign budget amount reads 40; Campaign rule amount reads 40 as well, or is empty, depending on how Amazon populates the field when no rule is active, which its reference does not say. During the event, with ACOS at 18%, both rules fire. Taken cumulatively as Amazon India describes, the budget rises 75% to $70. A unified report for that day would show 40 beside 70, and cost of, say, $66 would read as nearly capped rather than 65% over budget.
+The same report without the field would mislead. Spend of $66 against a stated budget of $40 looks like a fault; against $70 it looks like a campaign close to its limit, which is a different conclusion for anyone deciding whether to raise the base.
+Origin and evolution
+Budget rules began as a Sponsored Products feature. Intentwise, an Amazon advertising software vendor, wrote about them on July 30, 2021, before Amazon's global notice of August 12, 2021, which listed 16 marketplaces from Australia to the US and named vendors and registered sellers as eligible.
+Coverage then widened. According to an Amazon notice dated April 8, 2023, the budget rules API was extended in July 2022 to support performance-based rules for Sponsored Brands using ROAS; the 2023 notice added top-of-search impression share (IS) and percent of sales new-to-brand (NTB) as Sponsored Brands metrics. Amazon's India help page now lists performance rules for Sponsored Products, Sponsored Brands and Sponsored Display, and the November 2023 hours-of-day notice covers all three.
+The reporting field came later. Amazon merged its DSP and sponsored ads consoles into one Campaign Manager in November 2025 and opened unified reporting in beta on November 11, 2025. It reached general availability on June 8, 2026, when unified reporting exited beta. The November 11, 2026 reference is the current published definition of Campaign rule amount.
+Why it matters
+Three reporting tasks depend on it. Pacing needs the limit that applied, not the limit typed in at setup. Event analysis needs to separate spend unlocked by a Prime Day or Black Friday rule from spend the base budget would have allowed. Rule auditing needs evidence of when rules fired; comparing the two budget columns day by day shows it.
+Budget limits shape results on Amazon more than most settings. Amazon's Sponsored Products budget guide says a campaign that exhausts its budget shows as "out of budget" and stops serving until midnight. Rules are Amazon's own tool for avoiding that on high-demand days, and the field shows whether they did.
+Limitations and disputes
+Product coverage does not match the feature. The reference tags the field for Sponsored Products only, while Amazon's own notices describe budget rules on Sponsored Brands and Sponsored Display. Rule-adjusted budgets for those campaigns have no column of their own in unified reports, on PPC Land's reading.
+Two overspend mechanisms overlap. Amazon's budget guide allows daily spend up to 25% above the average daily budget within the month; a May 9, 2023 notice says up to 100%, with an optional 25% limit. Neither source says whether that allowance is calculated on the base budget or on the rule-raised one.
+Lookback windows conflict. Amazon gives seven days for performance metrics. Intentwise wrote in 2021 that the window was seven days for sellers and 14 for vendors.
+Historical values are unconfirmed. Improvado, a data vendor, says Amazon's older performance reports show the current budget on every historical row. Amazon has not said whether unified reports store the rule amount in force on each date or the latest value.
+No ceiling is published. None of the sources reviewed states a maximum percentage increase per rule.
+Commonly confused terms
+Campaign rule amount vs Campaign budget amount. The budget amount is the base the advertiser set; the rule amount is that base after rules raise it.
+Budget rules vs bidding rules. Budget rules change how much a campaign may spend; Amazon's rule-based bidding and bid adjustments change what it offers per click.
+Campaign rule amount vs daily overspend. Amazon's averaging policy lets a single day exceed the budget while holding the monthly total. A rule raises the budget itself.
+Campaign rule amount vs Flight budget. Flight budgets belong to DVA+ campaigns and are scheduled allocations, not conditional increases.
+Recent developments
+PPC Land's count of the dimensions reference on November 12, 2026 recorded the field and its Sponsored Products-only marker. Legacy report pages become read-only on December 17, 2026, and advertisers will lose unmigrated reports on January 31, 2027, so rule audits built on older reports have to move to unified reporting before then, in time for the 2027 event calendar.
+Timeline
+- July 30, 2021 - Intentwise reports budget rules for Sponsored Products.
+- August 12, 2021 - Amazon makes Sponsored Products budget rules available globally, with schedule and performance types.
+- July 2022 - Budget rules API extended to Sponsored Brands performance rules using ROAS.
+- April 8, 2023 - Top-of-search impression share and new-to-brand metrics added for Sponsored Brands rules.
+- May 9, 2023 - Sponsored ads daily budgeting policy allows up to 100% daily overspend, with a 25% option.
+- November 30, 2023 - Hours of day added to schedule-based rules in five marketplaces.
+- November 11, 2025 - Unified reporting opens in beta.
+- June 8, 2026 - Unified reporting reaches general availability.
+- September 29, 2026 - Amazon DSP renamed DVA; DVA+ launched.
+- November 11, 2026 - Dimensions reference defines Campaign rule amount for Sponsored Products.
+- December 17, 2026 - Legacy report pages scheduled to become read-only.
+- January 31, 2027 - Legacy reports scheduled to end.
+Related PPC Land coverage
+- 85 of Amazon's 156 unified report dimensions apply to Sponsored Products - The count that records Campaign rule amount, its definition and its product marker.
+- Amazon unifies DSP and sponsored ads in single Campaign Manager platform - The November 2025 merger of the two buying tools.
+- Amazon launches unified reporting system across advertising products - The November 2025 beta of unified reporting.
+- Amazon Ads unified reporting exits beta - and takes two old tools with it - General availability on June 8, 2026.
+- Amazon advertisers will lose unmigrated reports on January 31, 2027 - The legacy report shutdown timeline.
+Summary
+Who: Amazon Ads defines the dimension; sellers, vendors, agencies and data connectors reporting on Sponsored Products campaigns use it.
+What: Campaign rule amount is "the modified campaign budget based on a rule": a campaign's budget after schedule-based or performance-based budget rules raise it by a percentage.
+When: Budget rules launched globally for Sponsored Products on August 12, 2021, gained hours-of-day scheduling on November 30, 2023, and the field's current definition dates from Amazon's November 11, 2026 dimensions reference.
+Where: In Amazon Ads unified reporting, in the Ads Console and Reporting API, among the account hierarchy fields; the rules themselves live under the /sp/budgetRules API resource.
+Wh

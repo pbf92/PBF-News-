@@ -1,0 +1,69 @@
+URL: https://ppc.land/campaign-cost-type/
+TITLE: Campaign cost type
+OUTLET: PPC Land
+
+Campaign cost type is a dimension in Amazon Ads unified reporting that records the pricing unit a campaign pays on. Added to a report, it labels each row of spend, impressions and sales with the event the advertiser was charged for: a click, a thousand viewable impressions, a thousand served impressions or, in one case, a reserved slot sold at a fixed price. The field exists because Amazon's unified reports now put Sponsored Products, Sponsored Brands, Sponsored Display, streaming TV and DVA+ campaigns in one table, and those products do not charge for the same thing. Without it, a cost column mixes money spent on clicks with money spent on exposure.
+Where the field sits
+Amazon's unified reporting dimensions reference, a Support Center page updated on November 11, 2026, lists 156 attributes in 11 categories. PPC Land's count of that reference, published the following day maps each attribute to older report names. Campaign cost type belongs to the account hierarchy fields, beside Campaign ID, Campaign name, Campaign budget amount, Campaign bid strategy and Campaign PO (purchase order) number.
+It has a twin one level down. Ad group cost type records the same information for an ad group, the unit that DSP reports used to call a line item. The pairing reflects the two systems Amazon merged. "What DSP reports called an order is now a campaign," PPC Land wrote. "A line item is an ad group, and a creative is an ad." Sponsored ads set pricing per campaign; the programmatic tradition set it on the line item.
+How cost types work on each product
+The value in the field follows from the product and, where a choice exists, the campaign goal selected when the campaign is built.
+Sponsored Products bills per click (CPC). Amazon introduced the format for sellers in 2012 as a keyword-based, pay-per-click product, and it has kept that single model. Amazon says an advertiser never pays more than its maximum bid. A Sponsored Products row should always carry the CPC value.
+Sponsored Brands has three models. On October 25, 2023, Amazon reorganised the product around goals, according to its launch note. Drive page visits is billed per click and serves on search pages, detail pages and the home page. Grow brand impression share is billed per thousand viewable impressions (vCPM) and serves only in the top-of-search slot. A third route, reserve share of voice, launched on November 11, 2025, replaces the auction with an upfront price for branded keywords: campaigns run on a lifetime budget equal to the price, with a FIXED_PRICE cost type.
+Sponsored Display bills by CPC or vCPM. For most of its life the product offered three optimization goals: reach, billed by vCPM, and page visits and conversions, both billed by CPC. On April 4, 2025, Amazon moved all active Reach and Page Visit campaigns to the conversion objective, saying the change would help drive incremental sales. vCPM Sponsored Display campaigns still exist, and Amazon singled them out when it changed view attribution on January 1, 2026.
+Streaming TV, sold as Sponsored TV from its launch on October 25, 2023, bills by cost per thousand impressions (CPM). Amazon's guide states that "all streaming TV campaigns are billed on a CPM basis with no minimum budget required." Bids are entered per audience segment.
+DVA+, the automated campaign type Amazon launched on September 29, 2026 when it renamed its demand-side platform (DSP) as DVA, is also billed by CPM with no minimum spend, according to Amazon's product page.
+What "viewable" means in vCPM
+The difference between CPM and vCPM is the counting rule. Under CPM, an impression is billed when the ad is served. Under vCPM, it is billed only when it meets the Media Rating Council (MRC) viewability standard: at least 50% of the ad's pixels in view for one continuous second for display, and two seconds for video.
+Amazon is changing the served-impression side too. From January 1, 2027, DVA display ads on the Amazon Store will count an impression only once the ad is on screen, and Amazon expects 63% fewer impressions on average. A CPM row in December 2026 and a CPM row in January 2027 will therefore count impressions under different rules, even though the cost type label is unchanged.
+A worked example
+A brand runs two Sponsored Display campaigns in November with the same $1,500 spend. Campaign A is CPC; Campaign B is vCPM. A unified report grouped by campaign shows A with 1,000 clicks and B with 300,000 viewable impressions and 900 clicks.
+Read without the cost type, the two look comparable on cost per click: $1.50 for A, $1.67 for B. The first figure is the result of prices set in click auctions. The second is derived. B paid $5 per thousand viewable impressions, and its click-through rate happened to be 0.3%: every 1,000 viewable impressions produced three clicks, so $5 divided by three is about $1.67. A fall in B's click-through rate to 0.2% would lift its effective cost per click to $2.50 without any change in its bid.
+The reverse holds for CPC rows, whose cost per thousand impressions is a by-product of click volume. Grouping by Campaign cost type separates prices paid from by-products.
+Origin and evolution
+The idea is borrowed from ad serving: Google Ad Manager attaches a cost type, such as CPM, cost per click or cost per day, to every line item. Amazon's sponsored ads API and connectors carried a campaign cost type for Sponsored Display and Sponsored Brands well before unified reporting.
+Headline Search Ads, renamed Sponsored Brands on September 6, 2018, were a CPC product. Sponsored Display entered US beta in September 2019 and later gained the vCPM reach goal. October 25, 2023 brought vCPM to Sponsored Brands and CPM-billed Sponsored TV.
+Consolidation followed. Amazon merged its DSP and sponsored ads consoles into one Campaign Manager in November 2025, opened unified reporting in beta on November 11, 2025, and moved it to general availability on June 8, 2026, when unified reporting exited beta. One report covering all four pricing models made cost type a necessary column.
+Why it matters
+Comparability. Return on ad spend (ROAS) and advertising cost of sales (ACOS) look comparable across cost types. The traffic behind them is not. A vCPM campaign buys exposure and is credited partly through view attribution; a CPC campaign pays only after a shopper acts.
+Attribution. On January 1, 2026, Amazon applied shopping-signal enhanced last-touch attribution to vCPM Sponsored Display campaigns, view-tracked Sponsored Brands and DSP campaigns on Amazon inventory, splitting ROAS reporting into two metric families. Cost type is the quickest way to find the rows affected.
+Price scrutiny. On August 31, 2026, the Federal Trade Commission (FTC) and 22 states sued Amazon over about $20 billion in alleged hidden auction surcharges. The complaint alleges that Amazon charged advertisers their full bid 79% of the time in Sponsored Products in 2024. Amazon denies the allegations, and no liability has been found. The claims concern click auctions, so an audit of what was paid against what was bid starts by isolating CPC rows.
+Limitations and disputes
+No published value list. Amazon's reference names the field but, in the material reviewed for this article, does not publish the full set of values it returns or the exact strings, so reports must be checked against live data. Connectors may still label the same thing as "cpc" and "vcpm" in lower case or as upper-case enums.
+Product coverage is not explicit. In PPC Land's reading of the reference, several cost fields carry no product markers, so it is not stated whether DVA+ rows populate Campaign cost type, Ad group cost type or both. The reference also states "We do not support Streaming TV Smart mode/ Sponsored TV yet."
+Fees hidden inside CPM. A CPM label on a DVA+ row does not say whether the cost includes fees. Supply cost, which Amazon defines as "the cost of the media the ads run on," is one base for agency fees, and DVA+ streaming TV budgets are sized as committed spend plus up to five fees. Fixed-price reserve share of voice rows have no auction price at all.
+Commonly confused terms
+Campaign cost type vs Ad group cost type. The campaign field describes the whole campaign; the ad group field describes one ad group, which matters where pricing is set below campaign level, as in the DSP tradition.
+Campaign cost type vs Campaign bid strategy. Bid strategy says how bids are adjusted, for example dynamic bids or a target cost per click under Sponsored Brands cost control, launched on August 8, 2024. Cost type says what unit the resulting price is charged in.
+Campaign cost type vs cost. Cost is the amount spent in the reporting period. Cost type is the unit that amount was charged in.
+Campaign cost type vs Campaign budget type. Budget type says whether a budget is daily or total. It governs how much can be spent, not what is bought.
+Recent developments
+PPC Land's count of the dimensions reference on November 12, 2026 set out the campaign attributes and the order and line item vocabulary they replace. On November 17, Amazon's streaming TV budget calculator added fee layers to CPM-billed DVA+ ad groups. Legacy report pages become read-only on December 17, 2026, and advertisers will lose unmigrated reports on January 31, 2027. The on-screen impression rule for DVA display takes effect on January 1, 2027.
+Timeline
+- 2012 - Amazon introduces Sponsored Products as a pay-per-click format.
+- September 6, 2018 - Headline Search Ads renamed Sponsored Brands.
+- September 2019 - Sponsored Display enters US beta, billed per click.
+- October 25, 2023 - Sponsored Brands goal-based campaigns add vCPM billing; Sponsored TV launches on CPM.
+- August 8, 2024 - Sponsored Brands cost control launches.
+- April 4, 2025 - Sponsored Display Reach and Page Visit campaigns moved to the conversion objective.
+- November 2025 - DSP and sponsored ads merged into one Campaign Manager.
+- November 11, 2025 - Unified reporting opens in beta; reserve share of voice launches with fixed-price billing.
+- January 1, 2026 - Shopping-signal enhanced view attribution applies to vCPM Sponsored Display and view-tracked campaigns.
+- June 8, 2026 - Unified reporting reaches general availability.
+- August 31, 2026 - FTC and 22 states sue Amazon over alleged auction surcharges.
+- September 29, 2026 - Amazon DSP renamed DVA; DVA+ launches on CPM billing.
+- November 11, 2026 - Unified reporting dimensions reference lists 156 attributes, including Campaign cost type.
+- December 17, 2026 - Legacy report pages scheduled to become read-only.
+- January 1, 2027 - DVA display on the Amazon Store to count only on-screen impressions.
+- January 31, 2027 - Legacy reports scheduled to end.
+Related PPC Land coverage
+- 85 of Amazon's 156 unified report dimensions apply to Sponsored Products - The count of Amazon's dimensions reference and the order and line item renaming.
+- Amazon introduces reserve share of voice for branded search - The fixed-price Sponsored Brands route for branded top-of-search.
+- Amazon unveils Sponsored Brands cost control for optimized ad performance - Target average CPC bidding from August 2024.
+- Amazon enhances optimization for Sponsored Display campaigns - The April 2025 move of Reach and Page Visit campaigns to conversions.
+- Amazon tightens view attribution as ROAS reporting splits - The January 2026 attribution change for vCPM Sponsored Display.
+- Amazon drops off-screen ads from impression counts, expects 63% fewer - The January 2027 on-screen impression rule for DVA display.
+- Amazon sizes streaming TV budgets as commitment plus up to five fees - Fee layers in CPM-billed DVA+ streaming TV.
+- Agencies lose Amazon's legacy DVA fee setting after January 31, 2027 - Amazon's supply cost definition and agency fee methods.
+- FTC and 22 states sue Amazon over $20 billion in hidden ad surcharges - The August 2026 auction pricing complaint.
+- Amazon charged advertisers their full bid 79% of the time, FTC says - The

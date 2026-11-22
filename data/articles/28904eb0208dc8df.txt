@@ -1,0 +1,26 @@
+URL: https://www.eurekalert.org/news-releases/1151268
+TITLE: PTSD shapes the human brain differently depending on gender, race, and the age at which a person’s trauma occurred
+OUTLET: EurekAlert!
+
+Stress and trauma can leave molecular marks in the brain that may help explain the development of post-traumatic stress disorder (PTSD). A study publishing in the Cell Press journal Cell Reports on November 20 studying the postmortem brains of 101 people with PTSD found that genes associated with PTSD varied more than expected across different brain regions when it comes to DNA methylation, a natural biological process that acts like a genetic “dimmer switch” for genes, sometimes blocking genetic code entirely. The molecular signatures of PTSD also varied significantly between individuals—more so than for individuals with major depressive disorder. This variance could open the door to more individualized treatment options for people with PTSD in the future.
+“The question that our research aims to address is ‘What is really different about the PTSD brain?’” says corresponding author Frances Champagne of the University of Texas at Austin. “The study found greater variation in DNA methylation patterns across brain regions in people with PTSD than in people with major depressive disorder. It also revealed considerable differences among individuals with PTSD.”
+The study involved detailed methylation profiling of postmortem brains from 302 people. All brains were obtained from the Lieber Institute for Brain Development and were matched with the donors’ life history and medical records to assign diagnostic criteria. The analysis included brains from 101 people with PTSD and two comparison groups—100 brains from individuals without psychiatric disorders and 101 brains from people with major depressive disorder. For each brain, three different regions were analyzed—the prefrontal cortex, the amygdala, and the hippocampus.
+“These are the brain regions that seem to be uniquely informative of the PTSD brain,” Champagne says. “Many studies of epigenetics use blood and saliva as a proxy to see what’s going on the body, but we think it’s incredibly important to actually look at the brain for these kinds of mental health conditions.”
+The study uncovered specific changes in the brain linked to PTSD, including a relative reduction in oligodendrocytes in the amygdala of people with PTSD, particularly in those exposed to trauma in adulthood. The researchers also found that PTSD was associated with more pronounced DNA methylation differences in the prefrontal cortex, while major depressive disorder was associated with methylation differences in the amygdala. These molecular patterns were associated with differences in the composition of different cell types in the brain.
+Within the PTSD group, the molecular variations appeared to be driven by a number of factors, including the sex and race of the person and whether the trauma exposure occurred in childhood or adulthood. One future research focus will be on using these variables to refine and enhance diagnosis. The researchers say it could eventually lead to a more personalized approach to treating mental health conditions.
+Because the study analyzed postmortem brain tissue, the researchers were not able to confirm whether the methylation differences contributed to PTSD, resulted from PTSD, or were influenced by other factors. The authors also note that they lacked detailed information about symptom type and severity for each individual, which would be important for developing more personalized methods of diagnosis.
+“The more we know about all the variables that impact clinically relevant outcomes, the better we can assess patients and tailor their treatments,” Champagne says.
+###
+This work was supported by the NIMH.
+Cell Reports, “DNA methylation profiling of human brain in posttraumatic stress and major depressive disorders indicate specific molecular features” https://www.cell.com/cell-reports/fulltext/S2211-1247(26)01349-5
+Cell Reports (@CellReports), published by Cell Press, is a weekly open-access journal that publishes high-quality papers across the entire life sciences spectrum. The journal features reports, articles, and resources that provide new biological insights, are thought-provoking, and/or are examples of cutting-edge research. Visit http://www.cell.com/cell-reports. To receive Cell Press media alerts, contact press@cell.com.
+Journal
+Cell Reports
+Method of Research
+Observational study
+Subject of Research
+People
+Article Title
+DNA methylation profiling of human brain in posttraumatic stress and major depressive disorders indicate specific molecular features
+Article Publication Date
+20-Nov-2026

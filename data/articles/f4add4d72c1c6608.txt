@@ -1,0 +1,19 @@
+URL: https://finance.yahoo.com/markets/stocks/articles/everything-know-anthropic-ipo-135233230.html
+TITLE: Investors pile into Anthropic’s IPO. Should you buy?
+OUTLET: Yahoo Finance
+
+When you buy through links on our articles, Future and its syndication partners may earn a commission.
+Anthropic – developer of the Claude family of large language models (LLMs) – has set a new record for the largest initial public offering (IPO) in history by capital raised.
+Anthropic's (NASDAQ:ANT) shares started trading on the Nasdaq exchange on 19 November.
+980 million shares were sold at a price of $83 in the previous day's IPO, raising $81.3 billion for the company – breaking the previous record of $75 billion set by SpaceX (NASDAQ:SPCX) earlier this year. Once private placement additions are factored in, the total raised by Anthropic in its IPO will be over $107 billion.
+"Anthropic's IPO is symptomatic of the great capital grab going on in the tech world right now," said Susannah Streeter, chief investment strategist at wealth manager Wealth Club. "From mega debt fundraising deals to this eye-watering listing, companies are exploiting the FOMO [fear of missing out] effect, with bond and equity investors seemingly fearful of missing out on the artificial intelligence (AI) trade."
+Bloomberg reported a week ahead of the IPO that it was six times oversubscribed.
+The IPO price valued Anthropic at around $1.5 trillion – a little below the $1.77 trillion valuation that SpaceX IPOed at.
+Anthropic's first day share price performance
+Anthropic's shares opened at $111.50, 34% above the IPO price, though they fell back a little over the course of the day to close at $97.17.
+That still means the shares rose 17% on their first day of trading. Anthropic's market capitalisation at the close of its first day as a public company was around $1.77 trillion according to Reuters – high enough to make Anthropic one of the most valuable publicly traded companies in the world.
+Given the price at which Anthropic opened, its market cap was briefly over $2 trillion.
+"At a time in which investors are very nervous on the overall tech trade and the Nvidia black cloud moment casts a shadow over the tech sector, Anthropic's debut is a big near-term win for the tech sector and should help restore some investor confidence that the AI revolution growth thesis is not waning," said Dan Ives, partner and senior managing director at merchant bank Yorkville Ives.
+Should you invest in Anthropic?
+The hype around Anthropic's IPO contributed towards a strong initial outing for the shares. Going forward, though, there are reasons to expect the stock to be volatile.
+"Anthropic may be ahead of the LLM pack right now, but it faces increasing competition," said Wealth Club's Streeter. "As far as accounting standards are concerned, it is still loss-making, meaning its value cannot be easily quantified using standard metrics like price/earnings ratios.

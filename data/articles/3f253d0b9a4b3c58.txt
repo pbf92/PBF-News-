@@ -1,0 +1,63 @@
+URL: https://ppc.land/flight-budget/
+TITLE: Flight budget
+OUTLET: PPC Land
+
+Flight budget is a dimension in Amazon Ads unified reporting that shows how much money was assigned to a single flight: a dated segment of a campaign bought through DVA, the display, video and audio platform Amazon sold as Amazon DSP (demand-side platform) until September 29, 2026. A campaign can be split into several flights, each with its own start date, end date and spending limit, and Amazon's systems try to spend each flight's money within its dates. The field exists because a campaign total says little about intent over time. A $120,000 campaign might be meant to spend evenly or in bursts, and only flight budgets reveal which.
+Where the field sits
+Amazon's unified reporting dimensions page, a Support Center reference updated on November 11, 2026, groups 156 attributes into 11 categories. Flight budget belongs to the largest, Level of detail, alongside Flight ID, Flight name, Flight start date and Flight end date. PPC Land's analysis of that reference found that 19 of the 49 level-of-detail fields apply to DVA+ alone, and that "Flights are the clearest case". Sponsored Products, Sponsored Brands and Sponsored Display campaigns use daily or total campaign budgets and have no flights.
+The same analysis counted Flight budget among 56 unified fields with no former name in either the DSP or the sponsored ads columns. Its neighbours were renamed: "Campaign budget amount" was formerly "Order budget" on the DSP side, and "Ad group budget amount" applies to DVA+ only. Amazon's reference gives the flight fields a shared purpose, describing flights as a way "to track and manage campaign delivery," but publishes no separate definition for Flight budget as of November 2026.
+How a flight budget works
+The hierarchy matters. In DVA, an advertiser account holds campaigns (called orders before the November 2025 merger of Amazon DSP and sponsored ads into one Campaign Manager), and campaigns hold ad groups (formerly line items). Flights attach to the campaign. They divide its life into time windows, each carrying a sum of money.
+The Amazon Ads application programming interface (API) makes the structure explicit. According to a mirror of Amazon's DSP v1 documentation, last updated on February 25, 2026, flights are created through a call to /dsp/v1/campaigns/{campaignId}/flights. Each flight object requires three fields:
+- budgetAmount - a number with a minimum of 1. "Currency is derived from the advertiser level," the documentation states, so a flight carries no currency of its own.
+- startDateTime and endDateTime - timestamps in RFC 3339 format, such as 2026-04-01T00:00:00Z.
+Optional fields are a name and an impressionBudgetAmount, which caps a flight by impressions rather than money. A successful call returns an identifier prefixed "flg_", which is what the Flight ID dimension reports. New flights "are appended to the campaign's existing list of flights," and separate calls list, update and delete them.
+Once a flight starts, the platform paces toward its budget. SmartScout, an Amazon analytics vendor, wrote in November 2025 that the budget set for a campaign's duration is "often referred to as the flight budget" and that Amazon "will then pace towards that flight-level budget." Pacing settings named in agency tool documentation include Even, Pace Ahead and ASAP. Daily and monthly caps can sit on top. Teikametrics, whose Flywheel software manages Amazon DSP accounts, documented in June 2025 that an order-level cap limits spending "per day and/or month" and, if set midway through a period, "applies to the remainder of the specified calendar day or month."
+A worked example
+Consider a brand planning $120,000 of DVA spend for the first quarter of 2027, weighted towards a February launch. The campaign is set up with three flights: January at $30,000, February at $60,000 and March at $30,000. Under even pacing, the January flight targets about $968 a day (30,000 divided by 31 days), February about $2,143 (60,000 over 28 days) and March about $968 again.
+A unified report broken down by Flight ID would show three rows with Flight budget values of 30,000, 60,000 and 30,000, next to metrics such as total cost and impressions. Comparing cost with Flight budget gives a delivery rate for each flight. If February closes at $51,000, the flight delivered 85% of its budget, a gap the campaign total alone would partly hide if January overspent.
+The same report broken down by day behaves differently. Flight budget is an attribute of the flight, not a daily measure, so the February value is carried on each of the 28 daily rows of that flight. Summing the column would suggest $1.68m of February budget. Funnel's Amazon DSP budget report keeps flight-level "Budget Amount" in a separate dataset, refreshed every four hours.
+Origin and evolution
+Flighting is older than programmatic buying. In media planning, a flight is a period of advertising activity separated from others by gaps or changes in weight. PPC Land's explainer on flight, published on August 18, 2026, traces how the concept moved into insertion orders and demand-side platforms, including Google's Display & Video 360, where Flight ASAP pacing was removed at insertion-order level in November 2024.
+Amazon's DSP, launched as Amazon Advertising Platform and renamed in September 2018, adopted flights within orders. Michael Waters of Intentwise wrote in November 2025 that a flight "meters out how much money you're going to spend over a given time period," and that many advertisers built monthly flights by hand. Amazon added recommendations for short campaigns on November 20, 2024, extending them to campaigns "running seven days or less," typically around peak sales events.
+The reporting field followed the interface changes. Amazon opened unified reporting in beta on November 11, 2025, and the same month merged Amazon DSP and sponsored ads into a single Campaign Manager. General availability came on June 8, 2026, when unified reporting exited beta. The DVA name replaced Amazon DSP on September 29, 2026, and the November 11, 2026 dimensions update set out the five flight fields as they stand today.
+Why it matters
+For agencies, the flight is often where the contract lives. Purchase orders, monthly invoices and client approvals tend to be monthly, and Funnel's export ties the purchase order number to the campaign while attaching budget to the flight. Flight budget lets a report reconcile spend against what was signed for each period.
+It also matters because Amazon's own tools now speak of flights. In its Streaming TV guidance, Amazon describes the reach objective as optimising for "total unique user reach while delivering your flight budget in full," as PPC Land reported when Amazon explained that streaming TV budgets are sized as commitment plus up to five fees. The same coverage summarised Amazon's general campaign guide as setting a "budget per flight, optional daily or monthly cap, agency fee line."
+Timing adds pressure. Legacy report pages become read-only on December 17, 2026, and advertisers will lose unmigrated reports on January 31, 2027.
+Limitations and disputes
+The first limitation is documentation. Amazon defines the flight concept but not the Flight budget field: whether it reports the budget as configured at the end of the flight or at the time of the report, and how edits mid-flight are reflected, is not stated. The product markers are also partly inferred. PPC Land's count names flights as the clearest DVA+ only case but its fetched text does not reproduce the per-field table.
+The second is what a flight contains. Teikametrics describes flights that "can have its own budget, start and end dates, and targeting settings." The API schema lists only budget, dates, name and an impression budget, with targeting held at ad group level. The two accounts do not agree.
+The third concerns fees. Amazon's Streaming TV budget calculator pre-fills an ad group budget as committed supply cost plus estimated maximum platform, audience, pre-bid and agency fees. Whether a flight budget is likewise gross of fees is not documented, which affects any comparison of Flight budget with supply cost.
+The fourth is caps. Amazon's DVA+ guide, PPC Land reported, advises against budget caps, warning they "can cause under-delivery by blocking full budget use." Agencies that layer monthly caps over monthly flights may be working against Amazon's pacing. What happens to unspent money when a flight ends, whether it lapses or moves to the next flight, is not set out in any Amazon page found for this article.
+Finally, the default DVA+ route lets advertisers set a budget that is "monthly, daily or lifetime." How those choices map onto flights in reporting is not documented.
+Commonly confused terms
+Flight budget vs flight. A flight is the dated window; its budget is the sum attached to it. PPC Land's flight explainer covers the general concept across platforms.
+Flight budget vs Campaign budget amount. Campaign budget amount, formerly Order budget, is set at campaign level. Flights subdivide a campaign in time. Amazon does not state whether flight budgets must add up to the campaign figure.
+Flight budget vs Ad group budget amount. Ad group budgets divide money by tactic or inventory, not by date. A flight can fund several ad groups at once.
+Flight budget vs Budget currency. Budget currency names the unit. Flight budget is a bare number, denominated in the advertiser's currency.
+Recent developments
+November 2026 brought the flight fields into focus. Amazon's November 11 dimensions update fixed the five flight attributes as DVA+ fields, and PPC Land's November 12 count put them among 137 dimensions carrying the DVA+ marker. Amazon's November 17 Streaming TV guidance tied its reach objective to delivering the flight budget in full. DVA+ is due to reach general availability in 35 markets in the first quarter of 2027.
+Timeline
+- September 2018 - Amazon Advertising Platform is renamed Amazon DSP.
+- November 2024 - Google removes Flight ASAP pacing at insertion-order level in Display & Video 360.
+- November 20, 2024 - Amazon extends DSP recommendations to campaigns of seven days or less.
+- June 13, 2025 - Teikametrics documents flights and order-level daily and monthly caps in Amazon DSP.
+- November 11, 2025 - Amazon opens unified reporting in beta.
+- November 2025 - Amazon DSP and sponsored ads merge into one Campaign Manager in beta; orders become campaigns and line items become ad groups.
+- February 25, 2026 - Last update of the mirrored DSP v1 flights API documentation listing budgetAmount, startDateTime and endDateTime.
+- June 8, 2026 - Unified reporting reaches general availability.
+- September 29, 2026 - DVA replaces the Amazon DSP name.
+- November 11, 2026 - Amazon updates its unified reporting dimensions page, listing Flight budget among level-of-detail fields.
+- November 17, 2026 - Amazon's Streaming TV guidance describes delivering "your flight budget in full."
+- December 17, 2026 - Legacy report pages become read-only.
+- January 31, 2027 - Unmigrated legacy reports are lost.
+Related PPC Land coverage
+- 85 of Amazon's 156 unified report dimensions apply to Sponsored Products - Category and product counts, including flights as the clearest DVA+ only case.
+- Amazon sizes streaming TV budgets as commitment plus up to five fees - Amazon's budget calculator and its "flight budget in full" reach objective.
+- Amazon's $78bn ad machine now sets the defaults agencies buy inside - DVA+ budget options and Amazon's warning against budget caps.
+- Explaining flight - The general flight concept, pacing modes and contract terms.
+- DV360: Flight ASAP pacing to be removed in November 2024 - How a competing DSP handles flight pacing.
+- Amazon launches unified reporting system across advertising products - The November 2025 beta.
+- Amazon unifies DSP and sponsored ads in single Campaign Manager platform - The merger behind the order-to-campaign renaming.
+- Amazon Ads unified reporting exits beta -

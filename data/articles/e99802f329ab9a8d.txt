@@ -1,0 +1,53 @@
+URL: https://www.androidpolice.com/let-google-maps-gemini-chatgpt-plan-weekend-trip-trust-maps-least/
+TITLE: I let Google Maps, Gemini, and ChatGPT plan my weekend trip; now I trust Maps the least
+OUTLET: Android Police
+
+Planning a trip requires a lot of time and effort.
+You're either checking location information, reading reviews, or scrolling through destination websites to confirm opening times and prices.
+Google Maps can do all of that for you. And its Ask Maps AI can now plan full trip itineraries. AI tools can also help with trip planning.
+So, I told Ask Maps, Gemini, and ChatGPT to plan a weekend trip for someone staying near Millennium Park in Chicago and getting around on foot or by public transportation.
+I asked for parks, museums, and places to eat with no bars or nightlife. For each stop, I asked for a time, entry price, directions, and how busy it would be.
+You'd expect Google Maps' AI tool to win since it's tied to one of the best navigation apps on the planet. But it didn't.
+Let me explain.
+All three trips worked
+The timings were accurate
+I needed to be sure that no tool was feeding me the wrong information. So, I double-checked the opening times they gave me with each location's website.
+All the tools correctly accounted for The Art Institute opening at 11 a.m. on weekends. Same with the Field Museum, Chicago Cultural Center, and Chicago Architecture Center.
+They adapted to changes very well
+No one builds a perfect trip plan on the first try. There's always room for tweaks.
+So I asked all three to add a coffee stop to my Saturday trip. Each chose a different location within a short distance of their earlier picks.
+I then told them to prepare for a rainy Sunday by swapping outdoor locations for indoor ones, which they all did.
+Ask Maps built the best-looking itinerary
+It felt like a purposeful plan
+Ask Maps' trip plan was the most polished.
+It had numbered stops for every location and a map overview with all the locations pinned. Each stop also had direction and share buttons.
+And since it's Maps, you can save locations to explore later and add notes. It's like having a travel notebook inside Maps.
+The one area where Maps was clearly ahead of the others was distance. It gave exact figures between locations, like 0.3 miles (a seven-minute walk) from Giordano's to the Art Institute.
+Ask Maps got more things wrong than the chatbots
+It gave the wrong prices
+Remember I confirmed opening and closing times earlier?
+I also checked prices. Ask Maps got a few wrong.
+It said the Chicago Architecture Center costs $14, but it's $15. It also quoted the American Writers Museum at $15, even though it's $14 online and $16 in person.
+The prices are not so off that they'll spoil your plans. But it was interesting, since you'd expect Maps to nail those.
+It swapped in duplicate listings
+In the very first prompt, Ask Maps showed the main Field Museum listing with 4.7 stars from over 32,000 reviews.
+However, after my first change, it replaced it with a duplicate listing with only one 5-star review. It did it again with the second change, this time using a duplicate listing with two 5-star reviews.
+Both duplicates had the same address as the main one but no opening hours or ticket buttons. If I'm trying to plan a trip without visiting individual websites, that's exactly the opposite of what I'd want to see.
+It didn't follow my brief
+With the previous errors, I was sure I couldn't trust Ask Maps to plan my trip. This made me even surer.
+I excluded bars and nightlife from my trip. But Ask Maps still included a Sunday lunch at Sweetwater Tavern & Grille.
+Gemini and ChatGPT were more precise
+Gemini was spot on with the prices
+Unlike Ask Maps, Gemini nailed all the prices I checked, including the American Writers Museum's online and in-person prices that Maps missed.
+It even mentioned the Art Institute's separate prices for Chicago and Illinois residents.
+Each location had a card showing its rating, price range, whether it was open, and CTA fares for getting around.
+ChatGPT was the most practical
+ChatGPT's plan felt the most like a travel guide.
+In addition to the locations and prices, ChatGPT added a total budget (about $163 per person, excluding hotel and travel).
+It also reminded me that Chicago's sunset is around 4:20 p.m. in December and even listed winter clothes to pack.
+It was also the only one to update the budget to include the aquarium ticket when I swapped the Sunday outdoor activity for an indoor one.
+Its only slip, if you can even call it that, was picking the same café for breakfast and lunch on Sunday. And it still caught it in the end and suggested a different breakfast spot if I wanted.
+Double-check your Ask Maps trip plans
+I went into this expecting a clean sweep from Ask Maps, but it was the opposite. It gave the wrong prices, swapped in duplicate listings, and ignored part of my request.
+It still had the best-looking trip plan, the most precise walking distances, and buttons that take you straight to important Google Maps sections, but you'd have to double-check its answers.
+I'll still use Google Maps to spot red flags before committing to a place, but I'll avoid Ask Maps for any serious trip planning for now.

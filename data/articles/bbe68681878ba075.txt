@@ -1,0 +1,65 @@
+URL: https://ppc.land/ad-group-name/
+TITLE: Ad group name
+OUTLET: PPC Land
+
+Ad group name is a dimension in Amazon Ads unified reporting that holds the human-readable label of an ad group: the layer of a campaign that bundles ads with the targets, bids and settings that apply to them. It exists because the identifier Amazon assigns to every ad group is a long number that means nothing to the people reading a report. A label such as "SP - trail shoes - exact" or "STV - Q4 - remarketing" tells a trader, a client or a finance team what the row is about. In Amazon's unified system the field also absorbed a column that programmatic buyers knew under a different name: the line item name.
+The field sits in the campaign category of Amazon's unified reporting dimensions reference, which the company updated on November 11, 2026. That reference lists 156 attributes, 100 of which carry a former name in at least one legacy report. Ad group name is one of them. For DVA+, the programmatic campaign type that took over much of what was called Amazon DSP until September 29, 2026, its former name is "Line item name". PPC Land's field-by-field reading of the reference summed up the underlying translation: "What DSP reports called an order is now a campaign. A line item is an ad group, and a creative is an ad."
+Where the ad group sits
+Amazon accounts are built in four levels. An advertiser account holds campaigns, which carry budgets, dates and, in sponsored ads, the targeting mode. Campaigns hold ad groups. Ad groups hold ads and, in sponsored ads, targets: the keywords, products, categories and audiences that are bid on.
+What an ad group contains depends on the product. In Sponsored Products it is a small bundle: advertised products identified by ASIN (Amazon Standard Identification Number, the retailer's product code), a default bid, and keyword or product targets. In DVA+, the former line item is a full programmatic buy with its own flight dates, budget, bid strategy, frequency caps, audience segments, supply choices and creatives.
+The name is written by whoever builds the ad group, carries no structured meaning for the system, and can be changed at any time.
+How the field behaves in a report
+Ad group name is a descriptive dimension, not a key. The key is Ad group ID, the numeric identifier Amazon assigns at creation, which never changes. The name is looked up from the ad group's current settings.
+Two consequences follow. Adding Ad group name to a report already grouped by Ad group ID does not change the number of rows or how metrics are summed. Grouping by name alone can merge distinct ad groups. Two ad groups in different campaigns may both be called "Exact match", and a report grouped only by name will add their spend together. Nothing in the field itself guarantees uniqueness, so the risk is structural.
+Renaming has a retroactive effect. Because the label is attached to the ID rather than stored with each day's metrics, a rename made today shows on every historical row for that ad group the next time the report runs. An export saved last month under the old name and a fresh export under the new name will not join on this column.
+The field applies across products in principle, since every buying tool has some form of ad group. One gap is known. Adbrew, an Amazon ads software company, noted in October 2026 that legacy Sponsored Brands campaigns built without ad groups are not yet supported in unified reporting, so there is no ad group, and no name, to report for them.
+Where the name is set
+Names enter the system through the Ads Console, bulk spreadsheets, the Amazon Ads API and automated campaign builders. The API shows how the label is treated. In version 3 of the Sponsored Products API, as documented by the open-source python-amazon-ad-api library, ad groups are created, listed and updated through /sp/adGroups endpoints. Each object returns an adGroupId, the parent campaignId, a name, a state of ENABLED, PAUSED or ARCHIVED, and a defaultBid. Name, state and bid can be updated. The ID and the parent campaign cannot. Amazon's DSP campaign and creative management APIs, generally available from January 9, 2025, already called the line item an ad group in code.
+Bulk sheets add a twist. In Amazon's newer bulk sheet format, child rows such as keywords carry the parent campaign and ad group names in columns marked as informational only. The system matches on IDs. Editing a name in one of those columns does nothing, and renaming an ad group requires changing the name on the ad group's own row.
+A worked example
+Consider a sporting goods brand running two campaigns in one unified report. A Sponsored Products campaign has two ad groups named "SP - trail - exact" and "SP - trail - competitor ASINs". A DVA+ campaign, formerly an order, has two ad groups, formerly line items, named "STV - deals - Q4" and "Display - remarketing - 30d".
+In the legacy setup, the DVA+ pair appeared in DSP reports under line item name. In unified reporting all four sit in one Ad group name column. If the agency renames "STV - deals - Q4" to "STV - deals - holiday", every historical row for that ad group shows the new label from the next run onward.
+Naming conventions
+Because the field is free text, its usefulness depends on discipline. Agencies routinely encode structure into ad group names: product line, targeting tactic, audience, market or quarter. A name such as "SP | Trail shoes | Exact | US" lets an analyst filter a report by tactic without a lookup table. Perpetua, an Amazon ads software company, published a similar convention for DSP creatives in June 2021, combining product name or ad copy, ASIN, a device type code and pixel size.
+Conventions of this kind make Ad group name a crude parsing source. Unified reporting has reduced that need for DVA+, which gets dedicated fields for ad group type, budget amount and language targeting, all DVA+ only according to PPC Land's count.
+Origin and evolution
+The ad group predates Amazon's advertising business. Google's AdWords and later Microsoft's search platform organised accounts into campaigns and ad groups, each with an advertiser-chosen name. Sponsored Products, Amazon's first self-service search format, adopted the same hierarchy, and its reports carried campaign and ad group names from the start.
+Sponsored Brands campaigns originally had no ad group layer; Amazon added one later, and the version 4 Sponsored Brands API exposes it.
+Amazon's DSP, launched as Amazon Advertising Platform and renamed Amazon DSP in September 2018, used the order, line item and creative model inherited from display ad servers, where trafficking teams named each line item to match an insertion order. A single campaign manager for DSP and sponsored ads followed in late 2025. Unified reporting opened in beta on November 11, 2025 and reached general availability on June 8, 2026. The November 11, 2026 reference fixed "Ad group name" as the shared label.
+Why it matters
+Ad group name makes performance readable at the level where bid changes and negative targets are typically applied. Client reports and dashboards are presented by name.
+The renaming carries a migration cost for programmatic buyers. Dashboards, warehouse tables and spreadsheets that read the DSP "Line item name" column must be remapped before the legacy report pages close. Under the timeline Amazon published on November 12, 2026, creation and editing of legacy reports stop on December 17, 2026, and unmigrated reports and their history are deleted on January 31, 2027. Amazon had first set December 31, 2026 for the sunset.
+Billing is moving to the same level. Amazon's legacy campaign-level agency fee for DVA can be set until January 31, 2027, after which manager-account fees applied at account, campaign or ad group level take over.
+Limitations and disputes
+The central weakness is that names are not identifiers. They repeat, change and carry typos, and any join on Ad group name across files taken on different days can split or merge rows silently.
+The shared column also hides a structural mismatch. A Sponsored Products ad group and a DVA+ ad group sit side by side under the same heading, yet one is a handful of products with a default bid and the other is a complete programmatic buy with its own budget. The reference does not warn against comparing them as like-for-like units.
+Coverage has open questions. Sponsored TV is marked against many attributes in the reference, yet Amazon's page states "We do not support Streaming TV Smart mode/ Sponsored TV yet". Whether ad groups generated automatically by Amazon's campaign builders receive meaningful names, or system defaults, varies by tool and is not documented in the reference.
+Ad group name is not...
+Ad group ID. The fixed numeric identifier, formerly the line item ID for DVA+. It never changes and is the safe key for joining data.
+Campaign name. The label of the parent object, with "Order" as its former DVA+ name. One campaign holds many ad groups.
+Ad name. The label of an individual ad one level down, formerly the DSP "Creative name".
+Ad group external ID. A DVA+-only reference supplied by the buyer, such as a purchase order number, that points to a record outside Amazon. It is meant for systems; the name is meant for people.
+Recent developments
+On November 11, 2026, Amazon published the dimensions reference listing Ad group name among 156 attributes, and PPC Land's analysis the next day set out the line item to ad group renaming and the uneven product coverage of the ad group fields. DVA+, which offers multiple ad groups only in its advanced settings tier, remains in US closed beta, with general availability in 35 markets planned for the first quarter of 2027.
+Timeline
+- September 2018 - Amazon Advertising Platform renamed Amazon DSP; buys organised as orders, line items and creatives, with line item names in reports.
+- June 2021 - Perpetua publishes a DSP creative naming convention combining product, ASIN, device type and size.
+- January 9, 2025 - Amazon DSP campaign and creative management APIs, using campaign and ad group objects, reach general availability.
+- May 2025 - Unified campaign management API enters beta.
+- November 11, 2025 - Unified reporting opens in beta.
+- Late 2025 - Single campaign manager for Amazon DSP and sponsored ads announced.
+- December 2025 - Unified campaign management API reaches general availability for Sponsored Products, Sponsored Brands and Amazon DSP.
+- June 8, 2026 - Unified reporting reaches general availability in the Ads Console.
+- September 29, 2026 - Amazon DSP name retired in favour of DVA; DVA+ enters US closed beta.
+- October 2026 - Adbrew notes legacy Sponsored Brands campaigns without ad groups are not yet supported in unified reporting.
+- November 11, 2026 - Dimensions reference lists Ad group name, with "Line item name" as its former DVA+ name.
+- November 12, 2026 - Amazon sets January 31, 2027 as the final legacy reporting shutdown.
+- December 17, 2026 - Legacy report creation and editing scheduled to stop.
+- January 31, 2027 - Legacy reports and unmigrated data scheduled for deletion; legacy DVA campaign-level agency fee setting ends.
+Related PPC Land coverage
+- 85 of Amazon's 156 unified report dimensions apply to Sponsored Products - The November 2026 field-by-field count, including the line item to ad group renaming and the product coverage of ad group fields.
+- Amazon launches unified reporting system across advertising products - The November 2025 beta launch of unified reporting.
+- Amazon Ads unified reporting exits beta - and takes two old tools with it - General availability in June 2026.
+- Amazon advertisers will lose unmigrated reports on January 31, 2027 - The legacy shutdown timeline and the report types not yet supported.
+- Amazon unifies DSP and sponsored ads in single campaign manager platform - The merger of programmatic and sponsored ads campaign management.
+- Agencies lose Amazon's legacy DVA fee setting after January 31, 2027 - The shift to manager-account fees at account, campaign or ad gro
