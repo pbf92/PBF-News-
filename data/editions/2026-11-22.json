@@ -1,0 +1,427 @@
+{
+ "date": "2026-11-22",
+ "type": "weekend",
+ "read_minutes": 3,
+ "note": "Weekend light edition with the week ahead. Gulf and COP31 items rest on wire headlines and are marked 'reported'; Beige Book and PCE times not yet confirmed on official calendars.",
+ "before_open": [],
+ "week_ahead": [
+  {
+   "when": "Sun 22 Nov, 3:00 PM PT",
+   "what": "US index futures reopen after worst week since March 2020; Nasdaq-100 about 0.2% from bear-market close",
+   "url": "https://247wallst.com/investing/2026/11/21/the-nasdaq-100-is-now-just-49-points-from-a-bear-market/"
+  },
+  {
+   "when": "Mon 23 Nov",
+   "what": "Flash PMIs (S&P Global) and Chicago Fed activity index; NY Fed's John Williams speaks on economy and policy (times not in sources seen)",
+   "url": "https://finance.biggo.com/news/d3bfdc93-2be5-4f6e-abd2-92338d928e66"
+  },
+  {
+   "when": "Mon 23 Nov, after close",
+   "what": "Earnings: Hewlett Packard Enterprise, Zoom",
+   "url": "https://finance.biggo.com/news/d3bfdc93-2be5-4f6e-abd2-92338d928e66"
+  },
+  {
+   "when": "Tue 24 Nov, pre-market",
+   "what": "Earnings: Analog Devices, Best Buy, Dollar Tree. Conference Board consumer confidence (consensus 92.1 vs 91.7)",
+   "url": "https://finance.biggo.com/news/d3bfdc93-2be5-4f6e-abd2-92338d928e66"
+  },
+  {
+   "when": "Tue 24 Nov, after close",
+   "what": "Earnings: Dell, HP, Workday",
+   "url": "https://finance.biggo.com/news/d3bfdc93-2be5-4f6e-abd2-92338d928e66"
+  },
+  {
+   "when": "Wed 25 Nov",
+   "what": "October PCE (core ~0.3% m/m expected), personal income/spending, durable goods, second Q3 GDP estimate (3.4% initial), jobless claims; Deere earnings (release times not in sources seen)",
+   "url": "https://journalarta.com/en/2026/11/21/stock-market-week-ahead-inflation-earnings-nasdaq/"
+  },
+  {
+   "when": "Wed 25 Nov, 11:00 AM PT (Thu early Beijing)",
+   "what": "Fed Beige Book (per BigGo; confirm on Fed calendar)",
+   "url": "https://www.federalreserve.gov/newsevents/calendar.htm"
+  },
+  {
+   "when": "Thu 26 Nov",
+   "what": "US Thanksgiving: markets closed",
+   "url": "https://finance.biggo.com/news/d3bfdc93-2be5-4f6e-abd2-92338d928e66"
+  },
+  {
+   "when": "Fri 27 Nov, 10:00 AM PT",
+   "what": "US equities close early at 1 PM ET; Black Friday",
+   "url": "https://finance.biggo.com/news/d3bfdc93-2be5-4f6e-abd2-92338d928e66"
+  },
+  {
+   "when": "Mon 23 - Fri 27 Nov",
+   "what": "No BLS releases scheduled (next: JOLTS 1 Dec, jobs report 4 Dec)",
+   "url": "https://www.bls.gov/schedule/"
+  }
+ ],
+ "top": [
+  {
+   "headline": "Lean groups say the Claude-assisted Riemann hypothesis proof checks out",
+   "why": "The claim from Friday is no longer a lone author's word: a formal proof checker has accepted it. Human mathematicians still have to understand it, and the Clay prize rules are a long way off.",
+   "points": [
+    "Anthropic mathematician Levent Alpöge posted a four-page note on 20 Nov saying Claude helped him prove the Riemann hypothesis over about six weeks, with the full proof written in Lean.",
+    "On 21 Nov the Lean FRO and the Mathlib Initiative said they have 'full confidence' it is correct, after reproducing the proof export and checking the statement matches Mathlib's definition.",
+    "Mathematicians split on the write-up: James Maynard (Oxford) expects it to hold; Andrew Granville called the note garbled (Nature). A rival human-written preprint by Alessandro Maria Masullo appeared the same day.",
+    "Clay Institute rules need publication and a two-year wait, so the $1m prize is not settled; Anthropic had not commented, per the reports."
+   ],
+   "next": "Alpöge's promised human-readable write-up (no date given); Anthropic shares reopen Mon 23 Nov, 6:30 AM PT.",
+   "confidence": "reported",
+   "impact": "high",
+   "thread": {
+    "id": "ai-science-claims",
+    "name": "AI contributions to science",
+    "status": "changed",
+    "day": 7
+   },
+   "sources": [
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai"
+    },
+    {
+     "name": "Startup Fortune",
+     "url": "https://startupfortune.com/lean-groups-certify-claude-assisted-riemann-hypothesis-proof-from-anthropic/"
+    },
+    {
+     "name": "Nature News",
+     "url": "https://www.nature.com/articles/d41586-026-03812-7"
+    }
+   ],
+   "desk": "ai"
+  },
+  {
+   "headline": "Gulf war: Bahrain reports Iranian strikes as Qatar mediates and US disputes an F-16 claim",
+   "why": "The Iran conflict is still live heading into Monday's futures open, with oil and Gulf shipping the transmission route into already fragile US markets. Diplomacy via Qatar is the only visible de-escalation track.",
+   "points": [
+    "Reuters (21-22 Nov): Bahrain says Iran struck an industrial facility while air defences intercepted other attacks",
+    "US denied Iran's account that a missile damaged an F-16 over the Gulf (Reuters, 21 Nov)",
+    "A Qatari delegation visited Tehran for talks, per an Iranian official (Reuters, 21 Nov)",
+    "AP: Iran war costs have passed $48B, with lawmakers demanding unreleased base-damage estimates"
+   ],
+   "next": "US futures reopen Sun 22 Nov 3 PM PT; any outcome from the Qatari talks in Tehran.",
+   "confidence": "reported",
+   "region": "Global",
+   "impact": "high",
+   "thread": {
+    "id": "hormuz",
+    "name": "Strait of Hormuz attacks",
+    "status": "changed",
+    "day": 21
+   },
+   "sources": [
+    {
+     "name": "Reuters - US denies Iranian account of F-16 damage",
+     "url": "https://www.reuters.com/business/aerospace-defense/us-denies-iranian-account-that-missile-damaged-f-16-over-gulf-2026-11-21/"
+    },
+    {
+     "name": "Reuters - Qatari delegation visits Tehran",
+     "url": "https://www.reuters.com/world/middle-east/qatari-delegation-visits-tehran-talks-iranian-official-says-2026-11-21/"
+    }
+   ],
+   "desk": "world"
+  }
+ ],
+ "desks": [
+  {
+   "id": "united",
+   "name": "Manchester United & Football",
+   "status": "story",
+   "note": "Liverpool v United kicks off 8:30 AM PT today at Anfield: Pochettino's first game (previewed yesterday).",
+   "stories": [
+    {
+     "headline": "Fernandes says United have offered a new deal but talks are on hold: 'not the right moment'",
+     "why": "The captain publicly confirming an offer while parking talks adds uncertainty to the squad Pochettino inherits. Yahoo's headline says he is ready to leave if required, which I could not verify beyond the headline.",
+     "points": [
+      "Fernandes revealed on 22 Nov that United have offered a new contract (BBC, Guardian summaries)",
+      "He said it is 'not the right time' to discuss his future, with the club focused on turning round a poor start",
+      "ESPN headline: 'priority is winning'; Reuters and The Athletic also carried it",
+      "Full texts not saved, so detail rests on outlet summaries"
+     ],
+     "next": "No date set; watch for comments after the Liverpool game and the Sporting CP trip on 25 Nov.",
+     "confidence": "reported",
+     "impact": "medium",
+     "thread": {
+      "id": "fernandes-contract",
+      "name": "Fernandes contract",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "BBC Sport",
+       "url": "https://www.bbc.co.uk/sport/football/articles/c6x2e8devk1po?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "name": "The Guardian",
+       "url": "https://www.theguardian.com/football/2026/nov/22/bruno-fernandes-reveals-talks-over-new-manchester-united-contract-are-on-hold"
+      }
+     ],
+     "desk": "united"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "name": "World Affairs & Politics",
+   "status": "story",
+   "note": "Lead story: see top. Markets: last week's selloff was covered yesterday; the week ahead is below.",
+   "stories": [
+    {
+     "headline": "COP31 climate talks end without consensus after EU and others reject the draft deal",
+     "why": "A failed outcome weakens the global climate framework; policy-relevant for energy and carbon-linked markets, though not a near-term market mover.",
+     "points": [
+      "Reuters: talks went deep into overtime, then broke down as the EU and others rejected the deal",
+      "Reuters follow-up (22 Nov) describes the deal as in the balance after fractious talks",
+      "ABC Australia: Climate minister Chris Bowen called the failure 'very disappointing'"
+     ],
+     "next": "Whether a fallback or resumed session is announced; no date confirmed in sources seen.",
+     "confidence": "reported",
+     "region": "Global",
+     "impact": "medium",
+     "thread": {
+      "id": "cop31-talks",
+      "name": "COP31 climate talks",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Reuters - COP31 deal in the balance",
+       "url": "https://www.reuters.com/sustainability/cop/cop31-climate-deal-balance-after-fractious-talks-2026-11-22/"
+      },
+      {
+       "name": "ABC News (Australia)",
+       "url": "https://www.abc.net.au/news/2026-11-23/cop31-talks-break-down-in-longest-ever-un-climate-debate/107414772"
+      }
+     ],
+     "desk": "world"
+    }
+   ]
+  },
+  {
+   "id": "prop",
+   "name": "Futures & Prop Firms",
+   "status": "quiet",
+   "note": "Checked: no watchlist-firm announcements in the fresh headlines. Unconfirmed: Redline Futures review (aggregator, non-watchlist firm) and a CFTC prediction-market letter (not prop-industry). A Topstep search found only items already tracked.",
+   "stories": []
+  },
+  {
+   "id": "tradetech",
+   "name": "Trading Technology",
+   "status": "quiet",
+   "note": "Checked: fresh TradingView-feed items are market news, crypto and user posts, with no product, Pine Script or Quantower announcements. Search found no new tick-based order flow update.",
+   "stories": []
+  },
+  {
+   "id": "ai",
+   "name": "Artificial Intelligence",
+   "status": "quiet",
+   "note": "Lead story: see top. Anthropic shares ended Friday at $88.91, above the $83 IPO price (Axios via Digg).",
+   "stories": []
+  },
+  {
+   "id": "business",
+   "name": "Business & E-commerce",
+   "status": "story",
+   "note": "Also: Meta ads can now be managed by prompt inside AWS Quick (AWS blog).",
+   "stories": [
+    {
+     "headline": "Instagram quietly adds Shein, Lowe's and Halara to native affiliate links",
+     "why": "Affiliate tagging on Instagram is now more than Amazon, with commission rates well above Amazon's for some brands. DTC brands can be tagged by creators if they run an affiliate programme and keep a Meta catalogue.",
+     "points": [
+      "Amazon's integration launched 16 Nov; Business Insider reported on 18 Nov that Shein, Lowe's and Halara were added without announcement.",
+      "Rates seen by Business Insider: Amazon 1-4%, Shein 2%, Halara 10%, Lowe's 8-25%. Brands and networks set them; Instagram says it takes no cut.",
+      "Lowe's and Halara run through Impact.com, up to 30 products per reel. With a Meta catalogue the link becomes a native product tag; without one it shows as a sticker.",
+      "US creators only for Amazon and Impact.com; 18+ with a public professional account, and a 1,000+ follower minimum for some programmes."
+     ],
+     "next": "No date set; watch for further brands or a Meta announcement.",
+     "confidence": "reported",
+     "impact": "medium",
+     "thread": {
+      "id": "instagram-amazon-affiliate",
+      "name": "Instagram Amazon affiliate links",
+      "status": "changed",
+      "day": 5
+     },
+     "sources": [
+      {
+       "name": "The Keyword (citing Business Insider)",
+       "url": "https://www.thekeyword.co/news/instagram-affiliate-shein-lowes"
+      }
+     ],
+     "desk": "business"
+    }
+   ]
+  },
+  {
+   "id": "faith",
+   "name": "Christianity & Theology",
+   "status": "story",
+   "note": "",
+   "stories": [
+    {
+     "headline": "15,000-year-old Natufian clay figurines found to carry children's fingerprints",
+     "why": "Pushes the clay-figurine tradition in Southwest Asia back by up to 3,000 years and shows adults and children making symbolic objects before farming. It is evidence for early ritual and storytelling in the Levant, though the meaning of the figures is interpretation.",
+     "points": [
+      "Hebrew University study of 154 Natufian clay figurines from Eynan-Mallaha, Hayonim Terrace and el-Wad Terrace; 15 are recognisable, 139 are cylindrical fragments",
+      "Microscopic fingerprints show both adults and children, some probably under 10, helped shape and decorate them",
+      "Of the 15 identifiable pieces, 11 are birds; others are a gazelle, a mammal and two human forms; red engobe colouring dated to 15,000 years ago is the earliest known",
+      "Researchers suggest a role in belief, seasonal knowledge and storytelling; that reading is interpretation, not established fact"
+     ],
+     "next": "No dated catalyst; watch for the peer-reviewed publication details and follow-up comment from the IAA.",
+     "confidence": "reported",
+     "impact": "low",
+     "thread": {
+      "id": "natufian-clay-figurines",
+      "name": "Natufian clay figurines",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "The Jerusalem Post",
+       "url": "https://www.jpost.com/archaeology/article-915678"
+      }
+     ],
+     "desk": "faith"
+    },
+    {
+     "headline": "Chinese pastor Gao Quanfu left in custody after trial ends without verdict",
+     "why": "A live global-Christianity persecution case showing the growing use of fraud charges rather than ideological ones against church leaders in China.",
+     "points": [
+      "Gao Quanfu, 70, pastor of Light of Zion church in Xi'an for over 40 years, faces fraud charges at Beilin District People's Court; up to 13 years if convicted",
+      "Detained May 2025; his wife Pang Yu was arrested in September 2025",
+      "Christian Solidarity Worldwide says lawyers were pressured, some dropped the case, and the pre-trial lasted under half a day; it has health concerns for Pang Yu",
+      "No verdict or details of their location have been released; the account relies on CSW, an advocacy group"
+     ],
+     "next": "A verdict is awaited; no date given.",
+     "confidence": "reported",
+     "impact": "medium",
+     "thread": {
+      "id": "china-pastor-gao-quanfu",
+      "name": "Pastor Gao Quanfu trial",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Premier Christian News",
+       "url": "https://premierchristian.news/en/news/article/chinese-pastor-remains-in-custody-after-inconclusive-trial"
+      }
+     ],
+     "desk": "faith"
+    }
+   ]
+  },
+  {
+   "id": "health",
+   "name": "Health & Wellness",
+   "status": "story",
+   "note": "",
+   "stories": [
+    {
+     "headline": "Childhood head-scan radiation linked to small rise in brain tumour risk, JAMA cohort of 3.7m",
+     "why": "A large dose-response finding that supports asking whether a child's scan is needed and whether ultrasound or MRI could do instead. The absolute risk is small and it is no reason to refuse a necessary scan.",
+     "points": [
+      "JAMA, 19 Nov: radiation equal to one head CT linked to 1.8-fold higher brain tumour risk, about 8 extra tumours per 10,000 children by age 21",
+      "Over 3.7 million children born 1996-2016 across six US and Ontario health systems, followed 12.3 years on average; 1,536 brain tumours, 82.5% aggressive",
+      "Authors estimate about 10% of childhood brain tumours in the cohort are attributable to imaging radiation; a head CT averaged about 66 mGy to the brain",
+      "Does not change current guidance; a JAMA editorial says cumulative dose should not become an automatic threshold"
+     ],
+     "next": "No dated catalyst; watch for guideline or radiology-society response.",
+     "confidence": "confirmed",
+     "grade": "B",
+     "study": "Observational cohort, n>3.7 million children, US and Ontario; key limitation: confounding by indication (children scanned may already have symptoms linked to tumours), association not causation",
+     "impact": "medium",
+     "thread": {
+      "id": "childhood-ct-brain-tumour",
+      "name": "Childhood imaging radiation and brain tumours",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Medical Daily",
+       "url": "https://www.medicaldaily.com/childhood-ct-radiation-brain-tumor-risk-jama-481485"
+      }
+     ],
+     "desk": "health"
+    }
+   ]
+  },
+  {
+   "id": "gaming",
+   "name": "Gaming & PlayStation",
+   "status": "story",
+   "note": "GTA VI's Metacritic user score (~5.6) has been review-bombed against a 99 Metascore; PS Store rating is 4.84.",
+   "stories": [
+    {
+     "headline": "GTA VI crashes on PS5 with error CE-108255-1; neither Sony nor Rockstar has responded",
+     "why": "The biggest launch ever is hitting a hardware or software fault on some PS5 consoles, with players bounced between Sony and Rockstar support. It matters for anyone on a launch-era PS5 and for how Rockstar patches.",
+     "points": [
+      "Reports since launch on 19 Nov: crashes at start-up, in the opening cutscene and early missions, mostly base PS5 and Slim, some PS5 Pro",
+      "Sony's guidance is only 'try updating your game'; Rockstar's troubleshooting page (updated 18 Nov) just links to Sony and Microsoft",
+      "No patch or acknowledgement yet; cause disputed (hardware vs software), one player's replacement console ran fine for five hours",
+      "Based on player reports collected by Notebookcheck, not a confirmed fault"
+     ],
+     "next": "Watch for a Rockstar patch or statement in the coming days; no date announced.",
+     "confidence": "reported",
+     "impact": "medium",
+     "thread": {
+      "id": "gta6-ps5-crashes",
+      "name": "GTA VI PS5 crashes",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Notebookcheck",
+       "url": "https://www.notebookcheck.net/GTA-6-crashes-on-PS5-with-error-CE-108255-1-leaving-players-stuck-between-Sony-and-Rockstar-support.1456098.0.html"
+      }
+     ],
+     "desk": "gaming"
+    }
+   ]
+  },
+  {
+   "id": "expand",
+   "name": "Expand My World",
+   "status": "quiet",
+   "note": "The Riemann hypothesis claim was the pick; it runs as today's lead instead.",
+   "stories": []
+  }
+ ],
+ "watching": [
+  {
+   "thread": "pochettino-era",
+   "line": "Liverpool v United today, 8:30 AM PT; then Sporting CP away in the Champions League on Wed 25 Nov."
+  },
+  {
+   "thread": "baleba-injury",
+   "line": "No club update; still a doubt for Anfield, team news at kick-off."
+  },
+  {
+   "thread": "anthropic-ipo",
+   "line": "Gave back most of its debut pop in Friday's tech rout; Monday's open is the first trade since the Lean verification."
+  },
+  {
+   "thread": "ukraine-talks",
+   "line": "Zelenskiy says 14+ missing after a drone strike in Kyiv region; no ceasefire progress seen."
+  },
+  {
+   "thread": "topstep-nov-2026-rules",
+   "line": "Still no Topstep-sourced confirmation of the November payout/Live funding changes."
+  }
+ ],
+ "close_threads": [],
+ "expand": null,
+ "generated_at": "2026-11-22T13:59:13Z",
+ "updates": [],
+ "status": {
+  "story": 6,
+  "quiet": 4,
+  "failed": 0
+ }
+}

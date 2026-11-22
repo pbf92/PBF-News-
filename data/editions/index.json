@@ -1,6 +1,20 @@
 {
- "latest": "2026-11-21",
+ "latest": "2026-11-22",
  "editions": [
+  {
+   "date": "2026-11-22",
+   "type": "weekend",
+   "top": [
+    "Lean groups say the Claude-assisted Riemann hypothesis proof checks out",
+    "Gulf war: Bahrain reports Iranian strikes as Qatar mediates and US disputes an F-16 claim"
+   ],
+   "status": {
+    "story": 6,
+    "quiet": 4,
+    "failed": 0
+   },
+   "updates": 0
+  },
   {
    "date": "2026-11-21",
    "type": "weekend",
