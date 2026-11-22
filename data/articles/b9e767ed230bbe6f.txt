@@ -1,0 +1,54 @@
+URL: https://www.storyboard18.com/amp/digital/who-gets-credit-for-the-sale-chatgpt-ads-pose-new-attribution-challenge-for-indian-brands-115053.htm
+TITLE: Who gets credit for the sale? ChatGPT ads pose new attribution challenge for Indian brands
+OUTLET: Storyboard18
+
+Special Coverage
+“Range matters now”: Microsoft’s Puneet Chandok, GrowthSchool’s Vaibhav Sisinty on the skills that will define Gen Z careers
+India's advertising industry is confronting a new measurement challenge as brands experiment with ChatGPT ads: how to determine whether conversational AI is generating additional customers or merely influencing purchases ultimately attributed to Google Search, Meta or direct website traffic.
+While OpenAI has expanded self-service advertising access in India, agencies say the platform's commercial potential cannot be judged by clicks and conversions alone. The bigger question is whether ChatGPT can demonstrate incremental sales and qualified customer acquisition that justify recurring advertising budgets.
+According to Rishabh Mahendru, SVP, Client Success & Growth, AdLift, reliable attribution remains a significant challenge even as advertisers begin exploring ChatGPT as a performance marketing channel.
+"Gaps such as cross-device journeys, limited visibility into assisted conversions, attribution-window differences, and overlapping touchpoints with Google and Meta can either inflate or understate performance," Mahendru said.
+When ChatGPT influences the purchase but Google gets the credit
+Unlike conventional search advertising, where a consumer expresses intent through keywords, conversational AI can influence several stages of a purchasing decision before the user visits an advertiser's website.
+Raj Swaminathan, Chief Growth Officer, BrandStory Digital Group, argues that this creates a distinction between platforms that capture demand and those that help shape it.
+"Google captures expressed intent through search queries, while Meta is particularly effective at generating interest, building awareness and influencing discovery through content and social behaviour. ChatGPT introduces a third dimension: contextual intent," he said.
+For instance, a consumer researching enterprise software may compare solutions through ChatGPT, develop a preference and subsequently search for the selected brand on Google before purchasing.
+Under a last-click attribution model, Google could receive credit for that conversion even if ChatGPT contributed to the earlier evaluation.
+Conversely, an advertiser might count a ChatGPT-assisted conversion that would have occurred through another channel regardless of the advertisement.
+Swaminathan said the industry needs to distinguish between platforms generating the final click and those influencing the underlying purchase decision.
+"The more meaningful question is which platform influenced the consumer's decision," he said.
+Conversion rates remain an unanswered question
+The challenge extends beyond attribution to the actual performance of ChatGPT advertising relative to established platforms.
+Mahendru pointed to early industry reports suggesting conversion rates below 1.5% for some ChatGPT campaigns, compared with rates reaching 3% on established advertising platforms.
+However, these are indicative figures rather than independently verified, like-for-like Indian campaign benchmarks. Differences in campaign objectives, categories and attribution methodologies limit direct comparisons.
+Mahendru said acquisition costs remain relatively high, while consistent cost-per-acquisition benchmarks are yet to emerge.
+Although high-consideration categories could benefit from contextual advertising, the assumption that stronger intent automatically produces better leads remains unproven.
+Swaminathan similarly cautioned against equating contextual relevance with commercial efficiency.
+"ChatGPT may not necessarily deliver more leads than Google or Meta, but it could eventually deliver a different quality of engagement," he said.
+For advertisers, that makes sales-qualified leads, lead-to-customer conversion rates and customer acquisition costs more consequential than traffic volumes alone.
+Will experimental budgets become recurring allocations?
+The measurement uncertainty is also influencing how Indian brands allocate advertising expenditure.
+Despite growing interest, agencies are yet to establish a clear pattern of campaign renewals or sustained budget increases.
+Mahendru said brands are currently testing ChatGPT with controlled budgets rather than making significant recurring commitments.
+"While campaigns can start at ₹725 per day, there is limited visibility into actual advertiser spending, renewals or budget increases," he said.
+OpenAI expanded self-service Ads Manager access to India on August 31, 2026, lowering barriers for advertisers looking to experiment with conversational advertising.
+Swaminathan described the market as moving from strategic experimentation towards structured media investment, although he cautioned against assuming existing search or social advertising budgets were already shifting.
+"We would not, however, suggest that ChatGPT is replacing Google Search or Meta budgets at this stage. It is more likely to emerge as an additional layer in the media mix," he said.
+Neither agency provided verified Indian advertiser renewal rates or sustained spending figures, leaving the transition from experimentation to regular media allocation difficult to quantify.
+OpenAI's billion-dollar milestone leaves an India revenue gap
+The absence of campaign-level spending visibility also complicates attempts to estimate OpenAI's advertising revenue in India.
+In August, OpenAI announced that its global advertising business had reached a $1 billion annualised revenue run rate within 200 days of launch. The figure represents the annualised pace of revenue, rather than revenue already earned during the year. OpenAI+1
+However, OpenAI has not disclosed India's contribution.
+Swaminathan identified the absence of country-level spending disclosures, limited advertising intelligence coverage and difficulties measuring conversational influence as obstacles to estimating the market.
+"User scale and advertising monetisation are two very different metrics," he said.
+Mahendru similarly cautioned that brand participation and agency partnerships cannot establish actual advertising revenue without verified campaign budgets and spending volumes.
+The next battleground is incremental revenue
+OpenAI has introduced conversion measurement through its Pixel and Conversions API, alongside partnerships covering attribution and incrementality testing. Its October measurement update also acknowledged that work on incrementality remains at an early stage. OpenAI Help Center+1
+For agencies, however, the availability of tracking infrastructure does not automatically establish whether campaigns generate business that advertisers would otherwise have missed.
+Mahendru recommended evaluating campaigns through CRM-verified sales, conversion quality and incrementality testing rather than relying exclusively on platform-reported return on ad spend.
+Swaminathan advocated a broader framework encompassing direct performance, assisted conversions, customer lifetime value and changes in brand consideration.
+The commercial test for ChatGPT advertising in India, therefore, is shifting beyond whether consumers engage with advertisements during AI conversations.
+It is whether advertisers can establish how many additional customers those conversations help acquire, at what cost, and whether that contribution is substantial enough to earn ChatGPT a permanent place in their media budgets.
+The conversation highlighted a fundamental shift underway in the relationship between audiences, platforms and brands. Rather than treating Gen Z as a uniform consumer segment, marketers are increasingly having to account for individual behaviours, fragmented content consumption and a stronger expectation
+Read More
+Storyboard18 is back with the second edition of its Awards for Creativity, celebrating innovative campaigns, brands, marketers, creators and agencies across storytelling, digital, social, AI, gaming, purpose and media. The awards will spotlight the ideas shaping India’s evolving creative landscape. More details coming soon.

@@ -1,0 +1,12 @@
+URL: https://www.tradingview.com/news/coinmarketcal:4f9517c75094b:0-midnight-private-collateral-vault-launches-q1-2027/
+TITLE: Midnight: Private Collateral Vault launches - Q1 2027
+OUTLET: TradingView
+
+Midnight: Private Collateral Vault launches - Q1 2027
+Midnight plans to release its Private Collateral Vault in Q1 2027. Traders will be able to deposit assets once and use that deposit as margin on compatible blockchains.
+Traders will not need to bridge the deposited assets to use them as margin. They can also use that margin without making their data public. That gives traders who use compatible blockchains a reason to bring collateral to the network behind NIGHT.
+Sjuul | AltCryptoGems@AltCryptoGems
+2/ Confidential DeFi & Retail
+💎 Collateral Warehouse - A private global collateral vault where traders can deposit assets once and use them as margin on compatible blockchains without the need for bridging or revealing any public data.
+💎 Cross-Chain Expansion - NightMode… pic.twitter.com/ar7s3g8MPb
+Nov 22, 2026

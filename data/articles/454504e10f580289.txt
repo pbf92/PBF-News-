@@ -1,0 +1,17 @@
+URL: https://ca.finance.yahoo.com/news/meta-platforms-meta-down-8-153008960.html
+TITLE: Meta Platforms (META) Down 8.1% Since Last Earnings Report: Can It Rebound?
+OUTLET: Yahoo! Finance Canada
+
+A month has gone by since the last earnings report for Meta Platforms (META). Shares have lost about 8.1% in that time frame, underperforming the S&P 500.
+Will the recent negative trend continue leading up to its next earnings release, or is Meta Platforms due for a breakout? Well, first let's take a quick look at the most recent earnings report in order to get a better handle on the recent catalysts for Meta Platforms, Inc. before we dive into how investors and analysts have reacted as of late.
+META's Q3 Earnings Beat Estimates, Revenues Rise Y/Y on Ad Growth
+Meta Platforms reported third-quarter 2026 adjusted earnings of $7.40 per share, which increased 2.1% year over year, beating the Zacks Consensus Estimate by 13.50%. Revenues jumped 26% year over year to $64.6 billion, surpassing the consensus mark by 1.88%.
+Strong advertising demand, AI-driven engagement and improving monetization supported revenue growth. Ad impressions increased 10% year over year, while the average price per ad advanced 14%. However, higher infrastructure spending and legal expenses pressured operating profitability.  
+META's Ad Business Fuels Revenue Growth
+Family of Apps revenues, which accounted for 99.3% of total revenues, increased 26.4% year over year to $64.16 billion. Advertising revenues rose 25.9% to $63.06 billion, supported by healthy engagement, user growth and ad-load optimization across Meta's platforms.
+Family of Apps other revenues surged 59% year over year to $1.1 billion, primarily driven by WhatsApp paid messaging and subscriptions. 
+Reality Labs revenues declined 5.7% to $443 million as lower Quest headset sales more than offset strong growth in AI glasses revenues.  
+Meta's AI Investments Boost User Engagement
+Family daily active people averaged 3.64 billion in September, up 3% year over year. Average revenue per person increased to $17.72 from $14.46 in the year-ago quarter, reflecting improving monetization across the company's ecosystem.
+Instagram global time spent per user reached an all-time high, growing at a double-digit rate. Facebook Reels engagement also achieved record levels, while Threads time spent per user increased more than 20%. AI-powered recommendation improvements lifted Instagram Reels viewing time by more than 4%.
+Meta's advertising systems continued delivering measurable performance gains. The company's expanded GEM ranking model increased offsite campaign conversions by 1.7% and app advertising conversions by 9.6%. Nearly 10 million advertisers used generative AI creative tools during the reported quarter.

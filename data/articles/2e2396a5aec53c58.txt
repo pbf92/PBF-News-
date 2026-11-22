@@ -1,0 +1,29 @@
+URL: https://www.thekeyword.co/news/google-homepage-ai-search-sidebar
+TITLE: Google Adds a Sidebar of Recent AI Searches to Its Homepage
+OUTLET: https://www.thekeyword.co/
+
+Google is rolling out a collapsible sidebar on its desktop homepage that lists a user's recent AI searches, so a conversation started in Search can be found and continued later. The rollout is global, and it gives the homepage a memory of past AI conversations alongside the search box.
+Google's Robby Stein announced the change in a post on X on 19 November. He wrote that the sidebar is there "to easily find & jump back into your recent AI searches," and called it "a much simpler way to pick up where you left off."
+Why Google Says It Built the Sidebar
+Stein tied the change to how people now use Search. "People are coming to Search with more questions that aren't just one and done," he wrote, adding that in testing the sidebar "made a big difference for making progress & continuing to explore the web."
+Google has not published the test behind that claim. There is no figure for how many people saw the sidebar, how long the test ran or what the difference was measured in.
+The post covers the desktop homepage only. It does not say whether the sidebar is coming to mobile.
+New on the Google desktop homepage globally: we're rolling out a collapsible sidebar to easily find & jump back into your recent AI searches. People are coming to Search with more questions that aren't just one and done – and in testing, this sidebar made a big difference for making progress & continuing to explore the web. A much simpler way to pick up where you left off.
+— Robby Stein (@rmstein) November 19, 2026
+From an October Test to a Global Rollout
+The sidebar was in use before Stein's post. Search Engine Roundtable reported it as a test weeks earlier, and its editor Barry Schwartz wrote on 30 October that he was seeing it in the main Google Search results before it had fully rolled out. Stein's post ends that test phase rather than introducing a new feature.
+It also lands two days after a related change. On 17 November, Google added temporary threads to AI Mode, a session that is not saved to a user's history and does not shape future personalisation. Temporary threads are rolling out globally on desktop and mobile browsers, in every language AI Mode supports.
+Within one week, Google gave AI conversations a saved history on the homepage and a way to keep a conversation out of it.
+The Homepage Moves Closer to a Chat Layout
+A list of past conversations down the side of the screen is how chat assistants such as ChatGPT and Gemini are laid out. Putting one on the Google homepage treats an AI search as something a user comes back to, not a single question answered and closed.
+The sidebar continues the steady move of AI Mode into the places people already search. Earlier this year, Google began testing desktop access to AI Mode from AI Overviews, and Chrome started opening webpages side by side with the AI Mode panel.
+Why Advertisers Should Watch It
+The sidebar matters to advertisers because of where Google now sells ads. On 28 October, Google launched multiturn ads in AI Mode in the US, placing sponsored results inside the follow-up questions of an ongoing conversation. The same day, it took ads in AI Mode to ten markets outside the US.
+A homepage that sends people back into earlier conversations is built to produce more of those follow-up questions. Google has not shared whether the sidebar changes how often people return to AI Mode, and that is the figure advertisers buying these placements would need.
+Recap
+What is Google's new homepage sidebar?
+It is a collapsible panel on the desktop Google homepage that lists a user's recent AI searches. Google announced the global rollout on 19 November 2026.
+How does the Google homepage sidebar work?
+The sidebar sits on the desktop homepage and can be collapsed out of the way. It lists recent AI searches so a user can open one and continue it where they left off.
+What does the sidebar change for advertisers?
+It makes returning to an AI conversation easier, which can mean more follow-up questions. Google sells multiturn ads in AI Mode follow-up questions in the US, though it has published no data on the sidebar's effect.

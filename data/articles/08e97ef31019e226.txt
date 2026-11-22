@@ -1,0 +1,30 @@
+URL: https://www.fool.com/investing/2026/11/21/mark-zuckerberg-s-meta-platforms-is-pouring-up-to-usd145-billion-into-ai-this-year-investors-should-watch-this-1-number/
+TITLE: Mark Zuckerberg’s Meta Platforms Is Pouring Up to $145 Billion Into AI This Year. Investors Should Watch This 1 Number.
+OUTLET: The Motley Fool
+
+By Neil Patel –
+Key Points
+- Meta Platforms' huge spending plans make it fair for investors to question the company’s strategy.
+- Advertising revenue jumped 26% in Q3 2026, driven by double-digit gains in pricing and impressions.
+- Instead of infrastructure providers, maybe the long-term AI winners will be businesses that leverage this technology to better serve customers.
+Mark Zuckerberg founded Facebook in his Harvard dorm room in 2004. It didn't take long to grow the social media platform into one of the most powerful technology enterprises on Earth. Called Meta Platforms (META -5.93%) today, it sports a market capitalization of $1.6 trillion.
+That sort of value creation should force investors to always give Zuckerberg free rein over his vision and how he directs the company's financial resources and talent. This is true even though recent blunders, like the metaverse project, haven't panned out. The ”Magnificent Seven” stock is up more than 1,500% since the initial public offering (as of Nov. 17), so his actions have clearly benefited shareholders.
+It's much harder now to believe that Zuckerberg is following the right strategic path. Meta will invest up to $145 billion in capital expenditures (capex) in 2026, with spending likely to be much higher next year. This has turned free cash flow negative and led to a pause in share buybacks.
+In Zuckerberg's mind, it's all about artificial intelligence (AI). Nervous investors need to watch this one number to judge if all this capex is actually worth it.
+Image source: Getty Images.
+Advertising is the core of the business
+Meta's entire business model rests on monetizing the attention of people who interact with its free social media services. It currently has 3.64 billion daily active users across its family of apps, a gigantic figure that somehow keeps growing. The company makes its money from advertising, which represented 98% of total revenue in Q3 2026.
+The logical conclusion is that Meta's AI-related spending spree is the right move if it improves advertising metrics. So far, this appears to be the case. This is already a huge business, but the growth has been fantastic.
+Ad revenue rose 25.9% year over year to $63.1 billion in the third quarter. This is just slightly below what Alphabet's (GOOGL -2.70%) (GOOG -2.59%) Google Search, which is growing at a much slower pace, generated in Q3. Digging deeper, Meta's average price per ad increased 14%, and impressions were up 10%.
+The ad ecosystem operates like a flywheel, benefiting from a robust network effect. Improving algorithms drive higher user engagement. Data is collected on their interests. Consequently, this attracts advertisers that want to get in front of these people. Meta generates revenue that is reinvested into its technology stack, further reinforcing the feedback loop.
+AI appears to be strengthening the overall ad ecosystem. On the engagement front, advanced AI models bolster content recommendation. For advertisers, Meta is "leveraging AI to make it easier for businesses to manage campaigns, develop creative, and act on performance opportunities," according to chief financial officer Susan Li.
+The company has developed and launched other AI-related offerings. It sells AI tools to small businesses and enterprises. There is insatiable demand for excess compute, which Meta previously said it can sell at premium prices to outside customers. The popular Muse personal agent can bring in subscription sales and capture commerce revenue share as well. These are immaterial right now, however.
+Advertising is the most important area that investors should watch closely. It's a signal that the hundreds of billions of dollars in capex is driving better financial performance in the core operations. And perhaps most importantly, a thriving ad segment suggests Meta's economic moat is widening.
+Builder or beneficiary?
+The AI infrastructure providers get all the love from Wall Street. This includes the chipmakers, cloud platforms, and AI model developers. Their trillion-dollar valuations reflect the market's appreciation.
+But maybe the ultimate winners won't be the companies creating AI. That's an idea worth considering. Most of the value could eventually accrue to businesses that leverage this impressive technology to better serve their customers and improve their lives in unique ways.
+Based on how well its ad machine is working, Meta is doing exactly this.
+Where to invest $1,000 right now
+When our analyst team has a stock tip, it can pay to listen. After all, Stock Advisor's total average return is 719%* — a market-crushing outperformance compared to 192% for the S&P 500.
+They just revealed what they believe are the 10 best stocks for investors to buy right now, available when you join Stock Advisor.
+*Stock Advisor returns as of November 22, 2026.

@@ -1,0 +1,33 @@
+URL: https://www.eurekalert.org/news-releases/1152737
+TITLE: University of Cincinnati discovery points to new approach for treating diabetes — no insulin required
+OUTLET: EurekAlert!
+
+Researchers at the University of Cincinnati College of Medicine have identified a previously unknown way the body’s muscles absorb glucose from the blood — without insulin.
+The breakthrough findings from the lab of Judith A. Heiny, PhD, professor emerita in the Division of Neurobiology and Integrative Physiology in the Department of Biomedical Sciences, were recently published in the Nature Portfolio journal Communications Biology and could open the door to new treatments for diabetes, hyperglycemia and insulin resistance that directly target this pathway in muscle tissue.
+“This insulin-independent process uses a glucose transport protein in skeletal muscle and may offer a drug target for controlling blood sugar,” said Heiny, the study’s co-corresponding author. “The skeletal musculature is the natural depot for glucose. It has a huge capacity to regulate blood sugar, which can be a struggle for those with diabetes and insulin resistance.”
+This newly identified pathway, called mSGLT, shares properties with SGLT2, the glucose transporter in the kidneys targeted by widely used drugs such as Jardiance.
+“A therapy that targets glucose uptake by skeletal muscles could be as impactful as SGLT2 inhibitors that lower blood sugar by stimulating the kidneys to excrete excess glucose in the urine,” said Natalie Norman, PhD, the study’s first author. Norman contributed to the research as a UC graduate student and is now a postdoctoral researcher at the Karolinska Institute in Stockholm, Sweden.
+Why do muscles matter for blood sugar?
+Skeletal muscle makes up about 40% of the human body and plays a major role in blood glucose regulation. After a meal, rising insulin stimulates muscles to absorb and store up to 90% of ingested glucose through a transport protein, GLUT4.
+During exercise or stress, insulin levels drop. However, working muscles can absorb glucose at rates up to 100 times higher than after a meal to meet the energy demands of contraction. How muscles do this without insulin has remained a mystery, despite decades of research.
+This new discovery is especially relevant for people with insulin resistance or diabetes, whose muscles respond less effectively to insulin and clear glucose more slowly. That makes blood sugar control difficult.
+What did researchers build on for this discovery?
+To identify the mSGLT pathway, UC researchers first had to develop a way to measure glucose uptake in muscle tissue without insulin. Using glucose derivatives transported by SGLT-type transporters but not by GLUT4 proteins, they tested isolated muscles from animal models and electrically stimulated contractions to mimic working muscle.
+“We showed that if we stimulate muscle to contract in insulin-free conditions, it can take up a lot of glucose from a pathway that’s not GLUT4,” said Heiny.
+Working with collaborators at the Icahn School of Medicine at Mount Sinai, the team also developed a new technique to measure glucose uptake using inductively coupled plasma mass spectroscopy (ICP-MS).
+“I expect our method will be ideal for studying biological processes that require simultaneous tracking of multiple molecules,” said Julio Landero, PhD, co-corresponding author and associate professor and director of a trace metals lab at Mount Sinai.
+What are the next steps for the research?
+UC researchers will now work to identify the specific protein responsible for mSGLT glucose uptake and determine whether targeting the pathway can improve blood sugar regulation.
+“This study defines the core properties of mSGLT in muscle. Studies are underway to identify the gene and protein at the molecular level,” said Heiny.
+Additional contributors included Tatiana L. Radzyukevich and Bryan Mackenzie of UC; former UC undergraduate student Tiffany Zhu; Peter W. Chomczynski and Michal Rymaszewski, formerly of Molecular Research Center Inc. in Cincinnati; Izabela Fokt and Waldemar Priebe of the University of Texas MD Anderson Cancer Center; and Lucas Schmidt of Mount Sinai.
+The National Institutes of Health, the UC College of Medicine and private philanthropy funded this research.
+Journal
+Communications Biology
+Method of Research
+Observational study
+Subject of Research
+Animals
+Article Title
+Insulin-independent glucose uptake into mouse skeletal muscle by a sodium/glucose linked transporter
+Article Publication Date
+19-Nov-2026

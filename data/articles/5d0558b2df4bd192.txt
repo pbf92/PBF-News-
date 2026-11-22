@@ -1,0 +1,27 @@
+URL: https://www.thekeyword.co/news/bing-ai-overviews-ads
+TITLE: Bing Opens AI Overviews to Ads in Every Market Except China
+OUTLET: https://www.thekeyword.co/
+
+Microsoft Advertising has started showing ads in AI Overviews on Bing, the AI-written summaries Bing returns for some searches, in every market except China. Advertisers do not need to set anything up, because the ads run through the search campaigns they already have.
+Microsoft announced the placement on 19 November in its November product update, which bundled it with several other changes. It describes ads in AI Overviews as "the latest step in bringing ads to AI experiences, building on ads in Copilot."
+How the Placement Works
+Microsoft says an ad can appear next to an AI Overview when the advertiser's offer is relevant to the answer. There is no separate campaign type to create.
+Ads in AI Overviews run through existing campaigns. Microsoft names Performance Max and AI Max as "the most effective way to show up in AI experiences."
+The announcement does not say whether the placement runs on desktop, mobile or both. It announces no placement-level controls and no reporting that separates AI Overview traffic from the rest of Bing search.
+The Numbers Microsoft Attached
+Microsoft frames the launch around holiday shopping. It says 76% of US shoppers plan to use conversational AI to help find gift ideas, citing its own survey of 1,024 people in the US from July 2026. The post also gives figures for Australia and the UK, but its footnote describes only the US sample.
+The one performance number in the announcement does not describe the new placement. Microsoft says its data shows "a 21% increase in purchases after a Copilot interaction." Its footnote dates that figure to global Edge users between 21 and 31 December 2024, so it measures Copilot over ten days nearly two years ago, not ads in AI Overviews.
+What an Ad Next to an Answer Looks Like
+Microsoft's own example is a travel search. Someone asks Bing about a trip to Snowdonia National Park, and the AI Overview returns a sample itinerary and travel tips. A hotel advertiser's ad can then appear next to that answer.
+In Microsoft's mock-up, the ad sits below the overview's text under a "Sponsored" label, ahead of the web links.
+Microsoft Moves Wider Than Google
+Google has brought ads into its AI answers one market at a time. It announced AI Overviews ads in India in July 2025, following the US. On 28 October 2026, it took ads in AI Mode to ten markets outside the US and launched multiturn ads in the US only.
+Microsoft has gone to every market but China in one step. It is also tying the placement to its automated campaigns. In the same post, it called AI Max the way to "future-proof" campaigns for AI surfaces such as AI Overviews, and added URL inclusions, which let advertisers name the pages AI Max may send traffic to and draw ad text from.
+Microsoft has been building shopping into its AI products since at least January, when it began rolling out Copilot Checkout in the US. For advertisers already running Performance Max or AI Max on Microsoft Advertising, the change is that some of their spend can now serve beside AI-written answers without any action on their part, and nothing in the announcement shows them where.
+Recap
+What are ads in AI Overviews on Bing?
+They are ads that appear next to the AI-written summaries Bing shows for some searches. Microsoft Advertising announced them on 19 November 2026, in all markets except China.
+How do advertisers get ads into AI Overviews on Bing?
+No separate campaign setup is needed. The ads run through existing campaigns, and Microsoft names Performance Max and AI Max as the most effective way to appear in its AI experiences.
+What does the launch change for advertisers?
+Existing Microsoft Advertising campaigns can now serve beside AI-written answers on Bing. Microsoft has announced no placement-level controls, reporting or performance data for the placement.

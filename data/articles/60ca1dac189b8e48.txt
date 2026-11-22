@@ -1,0 +1,46 @@
+URL: https://www.tradingview.com/news/investorplace:0a8e15c7a094b:0-why-we-re-waiting-to-buy-the-ai-dip/
+TITLE: Why We’re Waiting to Buy the AI Dip
+OUTLET: TradingView
+
+Why We’re Waiting to Buy the AI Dip
+When Ted Williams divided the strike zone into 77 baseball-sized cells, he understood that where he swung could determine whether he hit .400 or .230.
+Warren Buffett borrowed that lesson in his 1997 shareholder letter, adding an advantage investors have over hitters: We can let opportunities pass without getting called out.
+That’s a useful thought when your favorite stocks keep getting cheaper.
+After watching AI companies transform entire industries, sitting through a selloff can feel almost irresponsible. Surely another earnings beat will turn things around. Surely a blockbuster IPO will bring buyers back. Surely the next dip is the one to buy.
+But a lower price alone doesn’t tell us whether the odds have improved.
+The question is what we’re getting for our money, and how those prospects are changing.
+In this week’s Being Exponential With Luke Lango, we explain why our enthusiasm for AI’s future hasn’t translated into enthusiasm for buying its infrastructure stocks today.
+Our concern centers on three pressures: Wall Street’s willingness to finance the buildout, political obstacles to construction, and supply constraints. Strong quarterly results can demonstrate demand without resolving any of those problems.
+So we’re keeping fresh capital on the sidelines of the core AI infrastructure trade while looking for opportunities elsewhere.
+Take-Two Interactive (TTWO) just released the biggest entertainment launch of all time in “Grand Theft Auto 6.” Cloudflare (NET) and Rubrik (RBRK) address cybersecurity needs that persist regardless of the pace of data center construction. Health care and select consumer businesses offer other growth drivers worth examining.
+Meanwhile, we’re watching AI for evidence that the selling is exhausting itself. One telling signal would be bad news that stops pushing stocks lower.
+Inside, we’ll explain why good news hasn’t been enough, where we see opportunities beyond AI infrastructure, and what could persuade us to start buying again.
+You don’t need to swing at every cheaper stock. You need capital available when the opportunity earns your swing:
+The Three Threats to AI: Wall Street, Washington & Supply Chains
+A strong earnings report tells us how a company has performed. Even upbeat guidance only takes us so far. Investors buying AI stocks today must also consider what could happen to earnings in 2028, 2029, and beyond.
+That’s where three unresolved pressures shape our outlook.
+First, Wall Street. Funding for a leading AI company doesn’t guarantee financing for everyone supplying its infrastructure. Smaller cloud operators, memory manufacturers, and networking suppliers still need capital to expand. More selective financing could slow those projects and the revenue growth attached to them.
+Second, Washington — and, more directly, state and local governments. Data centers need permits, power, and community approval. Federal support can help, but local restrictions can still delay construction. Until the political picture becomes clearer, investors have reason to question how quickly proposed projects become operating facilities.
+Third, supply chains. Component shortages and export restrictions can prevent companies from meeting demand on schedule. Customers may want more computing power than suppliers can deliver, pushing expected revenue into later quarters.
+Together, these pressures could stretch the AI buildout over a longer period. That matters for stocks priced for rapid, uninterrupted expansion.
+Our concern is the gap between that expectation and what companies can realistically deliver.
+Anthropic’s IPO: Why I Still Believe in the AI Revolution
+I view Anthropic’s IPO as evidence that investors remain willing to finance leading AI businesses.
+But that doesn’t resolve the financing challenges further down the supply chain. Capital can remain available to the strongest companies while becoming harder to obtain for everyone else.
+Both conditions can exist in the same market.
+That’s why we remain optimistic about AI’s long-term potential while exercising patience with infrastructure stocks. Adoption can keep rising even as investors lower their assumptions about construction spending and future earnings.
+A technology can succeed while its stocks work through a difficult adjustment.
+Once expectations, valuations, and spending plans become better aligned, we could have a stronger foundation for the next advance. Until then, we’re watching for improving fundamentals and signs that buyers are returning.
+One useful clue: Bad news stops driving prices lower. That wouldn’t prove a bottom by itself, but it would suggest the market has absorbed more of the risks.
+The AI Stocks That Could Deliver the Biggest Returns by 2030
+Looking toward 2030, I still believe some of the largest opportunities could emerge among the AI suppliers currently under pressure.
+The potential comes from a combination of lower valuations, recovering earnings expectations, and renewed spending. If those forces eventually align, the rebound could be substantial.
+That puts companies such as Advanced Micro Devices (AMD), Broadcom (AVGO), and Nebius (NBIS) on our longer-term radar. It doesn’t make them immediate buying recommendations.
+Timing matters. Repeatedly buying before conditions improve can leave investors with less capital when stronger opportunities emerge.
+Further out, I expect more attention to shift toward businesses putting AI to work — including cybersecurity providers and software companies that turn the technology into products customers will pay for.
+The sequence won’t necessarily be neat. Different parts of the market can advance at different times. Our job is to follow the evidence and remain open to leadership changing.
+That broader opportunity is also the focus of my colleague Eric Fry’s upcoming presentation, Life After Nvidia.
+Eric is examining a development he calls “The Crossing,” which he believes could help identify the next generation of AI winners. His focus extends beyond the familiar infrastructure names to businesses using AI to reshape established industries.
+His free presentation premieres tomorrow at 10 a.m. Eastern, and includes one free AI stock recommendation.
+Register for Life After Nvidia to discover where Eric sees opportunity in AI’s next chapter.
+More from InvestorPlace

@@ -1,0 +1,6 @@
+URL: https://digg.com/science/x0f1lzgl
+TITLE: Anthropic’s Levent Alpöge claims a Claude-assisted proof of the Riemann hypothesis
+OUTLET: Digg
+
+TLDR
+Anthropic mathematician Levent Alpöge says he found a proof of the Riemann hypothesis while working with Claude. The problem, proposed in 1859, concerns patterns in prime numbers. New Scientist reports that he released the proposed proof in Lean, a language for formally checking mathematical arguments, rather than a human-readable version. The outlet cautions that the code and mathematics still need thorough human checks.

@@ -1,0 +1,23 @@
+URL: https://www.foreignpolicyjournal.com/2026/11/22/soros-fund-managements-596-bet-on-meta-platforms-nasdaq-meta-is-already-underwater/
+TITLE: Soros Fund Management's 596% Bet On Meta Platforms (NASDAQ: META) Is Already Underwater
+OUTLET: Foreign Policy Journal
+
+A quarterly filing is, by definition, old news, and for Soros Fund Management, the gap between record date and reality is costing the firm on paper.
+The family office run by George Soros expanded its position in Meta Platforms, Inc. (NASDAQ: META) by 596% in the three months ending September 30, one of the largest proportional additions across its entire portfolio.
+Since that quarter closed, META shares have shed roughly 15%, meaning the disclosed stake is worth considerably less than the $109,868,396 recorded on the last day of September.
+That stake represented 1.29% of Soros Fund Management’s total disclosed holdings, placing META seventh among its common stock positions by value at quarter-end.
+The broader portfolio, filed in mid-November, lists 263 separate positions with a combined value of approximately $8.51 billion, though its construction is far from conventional.
+Two of the three largest disclosed positions are put options on energy index funds rather than outright equity holdings, and a further $1.17 billion sits in convertible notes.
+Common stock accounts for just under two-thirds of the total, and even within that slice, the holdings split into two camps that share almost no industry overlap: AI-linked technology companies and regulated electric utilities.
+The logic connecting them is the same infrastructure demand: the chips powering large language models require electricity, and utilities collect regulated returns regardless of whether any specific model succeeds commercially.
+Soros, who was born in Budapest in 1930 and built his name and his fortune through the Quantum Fund, converted the firm into a family office after returning outside capital, freeing it from the reporting pressures that constrain conventional hedge funds.
+Institutional interest in META is not confined to Soros: 301 hedge funds held the stock at the end of the third quarter of 2026, up from 254 just three months prior, according to data from Insider Monkey.
+The bullish case for META rests on how its advertising business actually generates profit, with advertisers bidding against each other in a real-time auction for access to a specific user’s attention.
+Because serving an additional advertisement costs almost nothing at the margin, improvements to targeting flow almost entirely to the bottom line, producing an operating margin of 37.78%.
+Artificial intelligence accelerates that dynamic by improving the ranking and relevance of each impression without requiring the platform to acquire a single new user.
+Revenue grew 26.10% year-on-year during the reported quarter, while earnings climbed 264%, though the latter figure reflects a favorable comparison period as much as underlying momentum.
+At 17.94 times expected earnings, META trades at a discount to the broader market multiple, which is an unusual position for a platform generating returns at this scale.
+The counterargument centers on capital allocation: the company is committing vast sums to data centers and model training, with those costs landing on the income statement well before any associated revenue materializes.
+Unresolved regulatory pressure across multiple jurisdictions over how the company collects and uses targeting data adds a layer of legal and operational uncertainty that the valuation does not fully price in.
+The filing itself carries a structural caveat that applies with unusual force this quarter: technology holdings across the Soros portfolio have largely declined since September 30, while utilities and non-technology positions have broadly gained.
+For a firm that can hold positions indefinitely without answering to outside investors, a 15% drawdown on a newly enlarged stake is an unrealized loss rather than a forced decision, but it illustrates the risks of reading quarterly disclosures as forward-looking endorsements.

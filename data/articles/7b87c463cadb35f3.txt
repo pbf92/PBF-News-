@@ -1,0 +1,31 @@
+URL: https://en.politis.com.cy/life/1072843/anthropic-mathematicians-claude-assisted-proof-of-167-year-old-problem-verified
+TITLE: Anthropic Mathematician's Claude-Assisted Proof of 167-Year-Old Problem Verified - POLITIS
+OUTLET: To the point
+
+A proof of the Riemann hypothesis, one of the most famous unsolved problems in mathematics, has been certified as formally correct by the communities behind the Lean proof assistant. The proof was released on 20 November by Levent Alpöge, a mathematician at the artificial intelligence company Anthropic, who says he developed it working with the company's AI model, Claude. The problem has remained open since 1859.
+The announcement
+In a four-page note posted on his personal website, Alpöge wrote: "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis." According to Science, he says the same argument also settles the broader Generalised Riemann Hypothesis, which extends Riemann's prediction to a wider family of mathematical functions.
+Alpöge said he had reached the result after about six weeks of work with Claude. Instead of publishing a conventional mathematical paper, he released the proof in Lean, a programming language and proof assistant used to check mathematical reasoning rigorously, step by step. The code runs to about 17 million lines.
+According to Science, Alpöge has not released the AI-generated written explanation of the proof, which he says runs to more than 250,000 pages.
+Alpöge described Claude's role with enthusiasm. He said he and Claude had enjoyed working together over the previous months, but that this time Claude had far outpaced him near the finish line.
+How the proof was checked
+On Saturday 21 November, the Lean and Mathlib communities issued a joint statement endorsed by the Lean Focused Research Organization (Lean FRO), which develops the Lean proof assistant, and the Mathlib Initiative, which maintains Lean's shared mathematics library.
+"We have full confidence that Alpöge's proof of the Riemann Hypothesis is correct," the statement said. "We hereby certify that both the statement and the proof of the Riemann Hypothesis are correct."
+According to the statement, the checks covered four points:
+- The statement: the theorem proved is Mathlib's own formal statement of the Riemann hypothesis, which has been vetted by experts in Lean and number theory.
+- Compilation: dozens of people reported that the library compiles without errors.
+- Matching the theorem: two separate tools confirmed that the theorem Alpöge proved is the same as the standard statement.
+- Validity of the proof: the proof was checked by Lean's official kernel and by several independent checkers written in different programming languages.
+The statement certifies only formal correctness. It does not claim that mathematicians have yet understood the mathematics. It says the future work of the mathematical community "will help explain the new ideas in this proof".
+What is the Riemann hypothesis
+The Riemann hypothesis was formulated in 1859 by German mathematician Bernhard Riemann. It concerns one of the fundamental questions in number theory: the distribution of prime numbers.
+Prime numbers are those divisible exactly only by 1 and themselves, such as 2, 3, 5, 7 and 11. Although they are basic building blocks of mathematics, the way they are spread among the natural numbers is complex, and mathematicians have tried to understand it for centuries.
+The hypothesis concerns the properties of a specific mathematical function, the Riemann zeta function. It states that all of the function's "non-trivial" zeros lie on a single line, known as the critical line.
+In 2000, the Clay Mathematics Institute included the Riemann hypothesis among its seven Millennium Prize Problems, offering a $1 million prize for the solution of each. The independent verification announced on Saturday does not automatically amount to official recognition by the Clay Institute or to the award of the prize.
+Earlier progress
+The announcement follows earlier work involving Claude on the same problem. In August 2026, Anthropic published a research note reporting that an unreleased version of Claude, asked to attempt the Riemann hypothesis, had not proved itbut had produced a related partial result. That result raised the proven share of zeros known to lie on the critical line from about 41.6% to more than two thirds. Alpöge and his Anthropic colleague Ralph Furman reviewed that work.
+AI and the future of mathematics
+The announcement comes at a time when the largest AI companies are investing huge sums in using their models to solve complex scientific problems.
+In September, OpenAI announced that a non-public version of its systems had helped solve part of a different Millennium Prize Problem. According to The Guardian, the effort involved 10,000 AI systems and cost about $15 million.
+The race has also drawn criticism in scientific circles, with mathematicians raising concerns about the resources and energy companies are using to showcase their models. James Robinson, professor of mathematics at the University of Warwick, criticised the trend in September, arguing that tech giants are consuming vast resources to prove the superiority of their systems.
+With information from The Guardian, Science, Nature and the Lean community

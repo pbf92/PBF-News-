@@ -1,0 +1,37 @@
+URL: https://www.eurekalert.org/news-releases/1152423
+TITLE: SEOULTECH researchers develop liver-on-a-chip platform for practical chemical toxicity testing
+OUTLET: EurekAlert!
+
+Among the thousands of chemicals used in daily life, toxicity information is available for only a small fraction. Much of this information comes from high-dose animal studies, which are costly, time-consuming, and limited by species differences.
+Organ-on-a-chip (OOC) systems use microfluidics to mimic human tissue and organ physiology, offering a more human-relevant approach to toxicity testing. However, their application to toxicological assessment remains challenging due to usability, flow control, and biological replication. Complex tubing in flow-based OOC systems can further complicate their implementation.
+To address these challenges, a research team involving Professor Ki-Tae Kim and PhD candidate Jiyun Kang from the Department of Environmental Engineering at Seoul National University of Science and Technology (SeoulTech), has now developed a modular liver-on-a-chip (LOC) platform, designed specifically for environmental toxicological assessment. “The use of organ-on-a-chip platforms for environmental chemical assessment has advanced slowly, since testing many chemicals at multiple concentrations puts different demands on the system,” explains Prof. Kim. “Our study offers insights into how these issues can be resolved and where these systems could be useful.” Their study was made available online on August 27, 2026 and published in Volume 60, Issue 36 of Environmental Science & Technology on September 15, 2026.
+The proposed LOC platform accommodates 12 cartridge-based chips in parallel. It features a tubing free design with each chip consisting of an easy-to-use clamping-based sealing mechanism. A single LOC chip consists of human liver HepG2 cultures and features independent unidirectional recirculating flow, where the flow rate and shear stress are determined by gear-based peristaltic pumping. Unlike static plate-based cultures, this recirculating flow continuously exposes cells to the circulating medium and enables controlled, reproducible chemical exposure, better reflecting biological conditions.
+In tests, the LOC platform demonstrated stronger hepatic function compared to static plate-cultures, with markedly higher expression of CYP1A2, CYP3A4, and CYP2E1 mRNA. The researchers used the LOC platform for evaluating the hepatotoxicity of triphenyl phosphate (TPhP), which is a common flame retardant used in household items, with known links to liver toxicity.
+During experiments, the cartridge modules demonstrated high reproducibility and uniform chemical distribution. In response to TPhP exposure, the platform showed changes in levels of hepatic phenotypic markers, including urea, lactate dehydrogenase (LDH), and aspartate aminotransferase (AST). Notably, these altered responses were observed at lower measured concentrations compared to plate-based cultures. Furthermore, RNA sequencing of the exposed HepG2 cells revealed changes in biological pathways associated with TPhP-induced hepatotoxicity, including spliceosome and inflammatory signaling pathways. Overall, the experiments showed that the platform provides biological replicates without pooling, stable flow control and direct measurement of exposure profiles.
+“Our platform can support human toxicity assessment based on real cell exposure, enabling next generation risk assessment,” remarks Prof. Kim. “Importantly, we measured the chemical concentrations in the system and followed their kinetics during exposure. This means that the toxicity observed can be tied to the concentration the cells actually experienced.”
+This work highlights how some practical challenges in applying OOCs may be addressed. The researchers hope that continued improvements will make the technology increasingly suitable for assessing or predicting chronic effects and other long-term toxicological outcomes.
+***
+Reference
+Title of original paper: Modular Liver-on-a-Chip Platform for Accelerating Toxicological Applications: A Case Study of Triphenyl Phosphate Hepatotoxicity
+Journal: Environmental Science & Technology
+DOI: https://doi.org/10.1021/acs.est.6c03280
+About the institute Seoul National University of Science and Technology (SEOULTECH) 
+Seoul National University of Science and Technology, commonly known as 'SEOULTECH,' is a national university located in Nowon-gu, Seoul, South Korea. Founded in April 1910, around the time of the establishment of the Republic of Korea, SEOULTECH has grown into a large and comprehensive university with a campus size of 504,922 m2.
+It comprises 10 undergraduate schools, 35 departments, 6 graduate schools, and has an enrollment of approximately 14,595 students.
+Website: https://en.seoultech.ac.kr/
+About Professor Ki-Tae Kim
+Dr. Ki-Tae Kim is a Professor in the Department of Environmental Engineering at Seoul National University of Science and Technology (SeoulTech), where he leads the Environmental Toxicology and Health Laboratory. His research covers environmental toxicology and the management of hazardous chemicals, using zebrafish models, microphysiological systems and multi-omics for NAM based toxicity assessment. He received his PhD from the Gwangju Institute of Science and Technology in 2009 and completed postdoctoral training at Oregon State University.
+About PhD candidate Jiyun Kang
+Ms. Jiyun Kang, the first author, is a Ph.D. candidate and member of Prof. Kim’s Environmental Toxicology and Health Laboratory, where she works on mechanistic toxicity assessment using microphysiological system. She also focuses on development of strategies for applying them to chemical toxicity testing.
+Journal
+Environmental Science & Technology
+Method of Research
+Experimental study
+Subject of Research
+Not applicable
+Article Title
+Modular Liver-on-a-Chip Platform for Accelerating Toxicological Applications: A Case Study of Triphenyl Phosphate Hepatotoxicity
+Article Publication Date
+15-Sep-2026
+COI Statement
+The authors declare the following competing financial interest(s): Kyung Hwan Kim is the Chief Executive Officer of BioSpero Inc., a company developing organ-on-a-chip technologies. All other authors declare no competing financial interests.
