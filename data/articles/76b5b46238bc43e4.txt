@@ -1,0 +1,49 @@
+URL: https://www.tradingview.com/news/seekingalpha:3a7c980a1094b:0-earnings-week-ahead-zm-mdt-de-li-hpe-dell-and-more/
+TITLE: Earnings Week Ahead: ZM, MDT, DE, LI, HPE, DELL, and more
+OUTLET: TradingView
+
+Earnings Week Ahead: ZM, MDT, DE, LI, HPE, DELL, and more
+As earnings season winds down, the reporting calendar thins out further next week, with a smaller group of companies set to release results during the holiday-shortened Thanksgiving week. Despite the lighter schedule, several prominent technology, industrial, and consumer-facing companies are on deck, offering fresh insights into enterprise IT spending, semiconductor demand, manufacturing activity, and holiday-season shopping trends.
+Dell Technologies DELL, Hewlett Packard Enterprise HPE, HP HPQ, Zoom Communications ZM, Workday WDAY, Nutanix NTNX and Autodesk ADSK will provide updates on enterprise technology spending, AI infrastructure demand, software subscriptions, and cloud adoption. Semiconductor and hardware names Analog Devices ADI and Ambarella AMBA will offer a read on chip demand across industrial, automotive, and other end markets.
+The industrial and healthcare slate includes Deere DE, Dycom Industries DY, Medtronic MDT, and Agilent Technologies A, with results expected to shed light on agricultural equipment demand, infrastructure investment, medical-device markets, and life-sciences spending. Chinese electric vehicle maker Li Auto LI will also report, providing an update on competition and demand in the country's EV market.
+Consumer and retail results will round out the week. Best Buy BBY, Dollar Tree DLTR, DICK'S Sporting Goods DKS, Abercrombie & Fitch ANF, Kohl's KSS, and J.M. Smucker SJM will offer perspectives on discretionary spending, value-oriented shopping, apparel demand, and food consumption. Symbotic SYM will add an automation and warehouse technology angle to the reporting slate.
+While the number of reports is considerably lower, the results could still offer useful signals on corporate technology budgets, industrial activity, and consumer resilience heading into the final stretch of the year.
+Below is a rundown of major quarterly updates anticipated in the week of November 23 to November 27:
+Monday, November 23
+Zoom Communications ZM
+Zoom Communications ZM is set to report its FQ3 2027 results after Monday’s close, with investors assessing whether a recovery in enterprise demand can offset white-label customer churn and rising AI-related costs. Key areas to watch include enterprise revenue growth against Q2’s 7.8% pace, the scale of the churn headwind, operating margins, and whether management raises its full-year outlook again.
+In Q2, revenue of $1.28B topped forecasts, while adjusted EPS of $1.55 beat estimates. Enterprise revenue grew 7.8% Y/Y to $787.5M, its strongest pace in three years, and remaining performance obligations increased 14% to approximately $4.5B. The number of customers generating more than $100,000 in trailing 12-month revenue rose 8.2% to 4,625. Management guided for Q3 revenue of $1.275B–$1.28B and adjusted EPS of $1.46–$1.48, while raising its full-year adjusted EPS outlook to $6.08–$6.12. However, it flagged white-label customer churn as a growing headwind in the second half, while margins faced pressure from AI usage and the Common Room acquisition.
+Recent developments have highlighted Zoom’s broader ambitions in AI and enterprise collaboration. At Zoomtopia in October, the company placed its Unified Context Layer at the center of its AI strategy, opening the platform to Microsoft Copilot, Anthropic’s Claude, and Google Gemini. It also announced plans to enable Zoom Rooms to join Microsoft Teams meetings and to sell Zoom Meetings to organizations standardized on competing platforms. At its investor session, management outlined a long-term revenue growth target of 6%–8% by FY2030, its first time-bound long-term growth target. Oppenheimer initiated coverage with a bullish rating and a $130 price target, compared with a share price near $97.
+Wall Street rates Zoom a Buy, while Seeking Alpha’s Quant rating system assigns it a more cautious Hold.
+- Consensus EPS estimate: $1.49
+- Consensus revenue estimate: $1.28B
+- Earnings insight: Zoom has beaten EPS estimates in seven of its last eight quarters and revenue estimates in six of those reports.
+Also reporting: Hewlett Packard Enterprise HPE, Agilent Technologies A, Danaos DAC, PennantPark Floating Rate Capital PFLT, Jacobs Solutions J, PennantPark Investment PNNT, BioLineRx BLRX, Compass Minerals International CMP, Semtech SMTC, and more.
+Tuesday, November 24
+Medtronic MDT
+Medtronic MDT is set to report its FQ2 2027 results before Tuesday’s market open. The report will be the first since the company completed the separation of MiniMed and will provide a clearer picture of underlying growth following Q1, which benefited from an extra selling week.
+Key areas to watch include organic revenue growth excluding the additional week, momentum in pulsed field ablation, adoption of Hugo robotic surgery, the impact of tariffs on margins, and whether management raises its full-year guidance again.
+In Q1, revenue rose 13.7% organically to $9.756B, including approximately $570M from the extra selling week, while non-GAAP EPS of $1.45 beat estimates. Cardiovascular revenue grew 18.9% organically, led by an 88% increase in Cardiac Ablation Solutions. Management raised its FY2027 organic revenue growth outlook to 7.25%–7.75% and adjusted EPS guidance to $5.94–$6.00, while flagging ~$250M tariff headwind for the year.
+Medtronic has since completed the MiniMed separation and confirmed the Q2 reporting schedule. Investors will look for evidence that growth remains strong after adjusting for the extra selling week, while monitoring product adoption, tariff-related margin pressure, and the outlook for the remainder of FY2027.
+Wall Street rates Medtronic a Buy, while Seeking Alpha’s Quant rating system assigns it a more cautious Hold.
+- Consensus EPS estimate: $1.33
+- Consensus revenue estimate: $9.48B
+- Earnings insight: Medtronic has beaten EPS estimates in each of its last eight quarters, while missing revenue expectations only once over that period.
+Also reporting: HP HPQ, Dell Technologies DELL, Workday WDAY, Best Buy BBY, Autodesk ADSK, Analog Devices ADI, Kohl's KSS, Nutanix NTNX, Bilibili BILI, Ambarella AMBA, Dollar Tree DLTR, Baozun BZUN, DICK'S Sporting Goods DKS, The J.M. Smucker Company SJM, Vipshop Holdings VIPS, CleanSpark CLSK, Abercrombie & Fitch ANF, and more.
+Wednesday, November 25
+Deere & Company DE
+Deere DE is set to report its FQ4 2026 results before Wednesday’s market open, with investors looking for signs that the agricultural equipment downturn is nearing a bottom. After a sharp rebound in the stock, management’s FY2027 outlook will be critical in determining whether improving farm economics could support a recovery in large agriculture demand.
+In Q3, net income rose 7% Y/Y to $1.379B, or $5.10 per share, ahead of estimates, while net sales and revenue increased 5% to $12.6B. Production & Precision Agriculture sales fell 6% to approximately $4.0B, while Small Agriculture & Turf sales rose 12% to $3.4B and Construction & Forestry grew 18% to $3.6B. Equipment operations margin was 14.4%. Tariff recoveries totaled $110M during the quarter, bringing the year-to-date figure to $382M. Management raised its FY2026 net income outlook to $4.75B–$5.00B from $4.50B–$5.00B and said it believes 2026 will mark the bottom of the agricultural equipment cycle. However, it continued to expect U.S. and Canadian large agriculture industry sales to decline 15%–20% and projected approximately $1.1B in direct tariff expenses.
+Recent developments have highlighted both the potential for an agricultural recovery and Deere’s efforts to expand its technology and customer offerings. The company acquired Orchard Robotics, which operates as Orchard AI and provides crop intelligence technology for high-value crop growers, and renewed its repair memorandum of understanding with the American Farm Bureau Federation.
+Raymond James reiterated its Outperform rating and $730 price target, noting that some growers who sold corn above $5 per bushel are positioned to book profits for the first time in years, while others continue to extend equipment replacement cycles.
+For the upcoming report, investors will also assess order book and dealer inventory trends, margins in Construction & Forestry and Small Agriculture & Turf, tariff costs net of recoveries, and earnings from Financial Services.
+Wall Street rates Deere a Buy, while Seeking Alpha’s Quant rating system assigns it a more cautious Hold.
+- Consensus EPS estimate: $4.01
+- Consensus revenue estimate: $10.34B
+- Earnings insight: Deere beat both EPS and revenue estimates in seven of its last eight reported quarters.
+Also reporting: Li Auto LI, Nano-X Imaging NNOX, Diana Shipping DSX, Gaotu Techedu GOTU, GDS Holdings GDS, and more.
+Thursday, November 26
+Thanksgiving Day. U.S. markets are closed.
+Friday, November 27
+Black Friday. Stock trading will close at 1 p.m. ET.
+DisclaimerContent provided by Seeking Alpha is intended for information purposes only, and that Seeking Alpha does not offer any personalist investment advice and is not a licensed securities dealer, broker, US investment adviser or investment bank.

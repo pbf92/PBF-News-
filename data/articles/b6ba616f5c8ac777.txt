@@ -1,0 +1,16 @@
+URL: https://sg.finance.yahoo.com/news/nasdaq-100-worst-week-since-173231962.html
+TITLE: Nasdaq 100 has worst week since 2020 on AI drama
+OUTLET: Yahoo Finance Singapore
+
+Nasdaq 100 has worst week since 2020 on AI drama
+A closely watched gauge of chipmakers sank 11%. Nvidia Corp tumbled 14% as Reuters reported US regulators are investigating its accounting practices. Anthropic erased a portion of its first-day surge.
+(Nov 21): Weeks of anxiety around the viability of the artificial-intelligence (AI) trade erupted into a full-blown sell-off, pushing the S&P 500 to a technical correction while lifting bonds and haven currencies.
+Fears that Wall Street's biggest investment boom in decades is running out of steam drove the American equity benchmark down 3.7%, with the index falling for a seventh straight day. The Nasdaq 100 lost 5.6% on Friday, posting its worst week since March 2020.
+A closely watched gauge of chipmakers sank 11%. Nvidia Corp tumbled 14% as Reuters reported US regulators are investigating its accounting practices. Anthropic PBC erased a portion of its first-day surge.
+"Smackdown!" said Steve Sosnick at Interactive Brokers. "The problem stems from investors' rapidly changed perceptions about technology, particularly the pace and cost of the artificial-intelligence buildout."
+The resurgence in equity volatility sent the so-called fear gauge to its highest since April 2025. Those jitters rippled around the globe, engulfing metals, bitcoin and emerging markets. Traders ceased to fully price in a quarter-point US Federal Reserve (Fed) rate hike in December.
+"If the market prices out the Fed, I would not view it as a welcome development for two reasons," said Neil Dutta at Renaissance Macro Research. "First, it means stocks will have declined even more. Second, if the Fed backs off, it risks stoking the inflation issue."
+"The stock market is going through an AI repricing, reflecting an environment of slowing data centre build-outs, reduced funding sources for AI-related projects and a slower trajectory of technology-related earnings growth," said Richard Saperstein at Treasury Partners.
+Saperstein said he still likes the "hyperscalers", which can benefit from any slowing data centre build-outs since they already own many of them, and cybersecurity, as a wave of outages boosts demand for their products.
+It's impossible to know when any sell-off will run its course, but history shows most moves like this don't turn into bear markets, according to Chris Larkin at E*Trade from Morgan Stanley. Only five of the past 15 corrections from all-time highs since 1983 have done so, he said.
+"A capitulatory washout could ultimately prove constructive," said Mark Hackett at Nationwide. "If this evolves into a true flush, it may serve as the reset needed to improve positioning, sentiment, and the odds of a more sustainable rally into year end."

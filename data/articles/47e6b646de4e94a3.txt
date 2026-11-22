@@ -1,0 +1,13 @@
+URL: https://www.tradingview.com/news/cointelegraph:8169d7dc0094b:0-bitcoin-briefly-drops-to-17k-on-kraken-exchange-upholds-trades/
+TITLE: Bitcoin briefly drops to $17K on Kraken, exchange upholds trades
+OUTLET: TradingView
+
+Bitcoin briefly drops to $17K on Kraken, exchange upholds trades
+Crypto exchange Kraken said it would honor trades executed during a sharp selloff across its Canadian-dollar markets that briefly pushed Bitcoin to the equivalent of about $17,000 on Saturday.
+In a statement, Kraken said its Canadian-dollar trading pairs experienced heavy selling pressure starting around 20:00 UTC on Friday, causing prices to fall significantly below those on other markets.
+The exchange said every order was processed correctly and its security teams found no evidence of a breach or compromised accounts. “Executed trades stand,” Kraken said.
+Kraken’s BTC/CAD pair fell to $24,250 Canadian during the 15-minute interval beginning at 08:00 UTC on Saturday, according to exchange trading data.
+On Friday, the Bank of Canada’s reference rate showed C$1.4325 per US dollar, putting Bitcoin’s low on Kraken’s Canadian-dollar market at about $16,900. This was about 71% below Bitcoin’s price of around $57,650 on Kraken’s BTCUSD market during the same five-minute interval.
+Blockstream CEO Adam Back suggested that a market maker on Kraken’s USD/CAD spot market may have exhausted its funds, causing prices to diverge from broader foreign exchange rates.
+Back said arbitrage subsequently spread the pricing distortion to other Canadian-dollar trading pairs. Kraken has not confirmed Back’s proposed explanation.
+Cointelegraph reached out to Kraken for comments but did not receive a response before publication.

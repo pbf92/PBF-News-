@@ -1,0 +1,55 @@
+URL: https://www.niftytrader.in/markets/nasdaq-10-weekly-loss-ai-valuation-nividia/
+TITLE: Nasdaq 10% Weekly Loss Puts AI Boom Under Pressure; Nvidia Sinks 14%
+OUTLET: NiftyTrader
+
+Synopsis: Wall Street suffered its steepest technology-led sell-off in months on November 20, as the Nasdaq Composite plunged 5.28% in a single session and lost 10% for the week, its worst weekly decline since 2020. Nvidia tumbled 14% following a Reuters report on an SEC accounting probe, while Anthropic shares fell 9% after their blockbuster IPO. Concerns over AI valuations, infrastructure spending and Federal Reserve policy intensified the rout.
+US stocks extended their technology-led sell-off on Friday, November 20, as investors reassessed artificial intelligence valuations despite exceptionally strong corporate earnings. The Nasdaq Composite plunged 1,261.47 points, or 5.28%, to close at 22,617.73, erasing its gains for 2026 and leaving the index down 2.7% year-to-date.
+The selling spread across Wall Street. The S&P 500 fell 265.44 points, or 3.70%, to 6,910.39, while the Dow Jones Industrial Average declined 949.73 points, or 1.93%, to 48,147.33. The S&P 500 entered correction territory, falling more than 10% from its October 6 record closing high.
+Nasdaq’s weekly decline reached 10%, its steepest since 2020, slightly exceeding the pullback following the April 2025 Liberation Day tariff announcements. The S&P 500 and Dow lost 8.6% and 8%, respectively, recording their biggest weekly percentage declines since April 2025, Reuters reported.
+Track Live: GIFT Nifty Live – Today Price, Chart, Timings and Nifty Opening Signal
+US Stock Market Closing: Nasdaq, S&P 500 and Dow
+The S&P 500 also recorded its seventh consecutive losing session, its longest losing streak since February 2020. Meanwhile, the CBOE Volatility Index (VIX), Wall Street’s widely followed fear gauge, surged 33% to 37, indicating heightened investor anxiety.
+The 10-year US Treasury yield fell 12 basis points to 4.93%, as investors moved towards government bonds amid the equity sell-off.
+Nvidia Falls 14% After SEC Accounting Probe Report
+Nvidia was among the biggest casualties of Friday’s technology rout. Its shares plunged approximately 14% during the session, taking their weekly decline to 23%.
+The selling intensified after Reuters reported that the US Securities and Exchange Commission (SEC) was examining potential accounting issues at the chipmaker. Citing two people briefed on the matter, Reuters said SEC enforcement staff were scrutinising the company’s accounting practices.
+The SEC declined to comment, while Nvidia did not immediately respond to requests for comment. Reuters said it could not establish when the inquiry began or precisely which accounting issues were being examined. The reported investigation does not establish wrongdoing.
+The market reaction was particularly striking because Nvidia had reported exceptional quarterly results just days earlier.
+For the third quarter of fiscal 2027, ended October 25, Nvidia reported:
+- Revenue of $115.8 billion, up 103% year-on-year.
+- Data Centre revenue of $107.6 billion, up 110%.
+- GAAP diluted earnings per share of $2.70.
+- Fourth-quarter revenue guidance of approximately $130 billion, plus or minus 3%.
+The contrast between Nvidia’s strong financial performance and its share-price decline highlights how investors are increasingly questioning valuations rather than justifying them through earnings growth.
+Track Live: NSE Option Chain — Live | BSE Option Chain — Live Sensex & Bankex Options Data Today
+Anthropic Shares Drop 9% After Blockbuster IPO
+Anthropic’s much-anticipated Nasdaq debut also failed to revive confidence in AI stocks.
+The company’s shares, trading under the ticker ANT, fell approximately 9% on Friday, their second trading session, after declining as much as 14% during the day.
+Anthropic announced on November 20 that its IPO had closed following the full exercise of the underwriters’ additional share option. The offering comprised 1.127 billion Class A shares priced at $83 each, generating approximately $93.5 billion in gross proceeds, of which Anthropic itself received around $91.6 billion.
+The company also completed a separate $26 billion private placement involving AMD, Broadcom, Google, Micron, Microsoft, Nvidia and TSMC Partners. Combined gross proceeds from the IPO and private placement reached approximately $119.5 billion before expenses.
+Despite the scale of the fundraising, the share-price reversal highlighted a growing disconnect between demand for AI businesses and the valuations investors are willing to accept.
+The weakness extended across the semiconductor industry. The Philadelphia Semiconductor Index plunged approximately 11% on Friday, while other AI-linked technology and cloud-computing stocks also suffered heavy losses.
+Also Read: Anthropic’s $81.3B IPO: $1.5T Valuation, $104B Loss Explained
+Federal Reserve Flags Risks From AI Infrastructure Spending
+The latest sell-off is not just about technology-stock valuations. Concerns are also emerging over how the enormous AI infrastructure expansion is being financed.
+Minutes of the Federal Reserve’s October 27-28 meeting highlighted the rapid growth of debt associated with AI infrastructure. Fed staff warned that off-balance-sheet leasing commitments and circular financing arrangements among AI-related companies could amplify losses if returns on AI investments disappoint.
+Almost all meeting participants discussed risks associated with disappointing AI investment returns, while several highlighted the possibility of a wider repricing of AI-related assets.
+This adds another dimension to the market’s concerns: technology companies must not only demonstrate strong revenue growth but also generate sufficient returns to justify their expanding capital commitments.
+Fed Rate Outlook Adds to Technology Valuation Concerns
+Monetary policy remains another potential pressure point for Wall Street.
+The Federal Reserve maintained its benchmark interest-rate range at 3.75%-4.00% at its October meeting. However, Governors Lisa Cook and Beth Hammack dissented, preferring a 25-basis-point rate increase.
+In a November 20 speech, Cook reiterated her concerns about persistent inflation, saying financial conditions remained too accommodative and that further rate increases could be necessary if inflation failed to moderate.
+Investors will now watch the October Personal Consumption Expenditures (PCE) inflation report, scheduled for November 25, for further clues about monetary policy. The Federal Reserve’s next meeting is scheduled for December 8-9.
+Higher interest rates can put additional pressure on growth-oriented technology stocks by increasing the discount rate applied to their expected future earnings.
+Is the AI Sell-Off a Valuation Reset or a Bigger Warning?
+Despite the sharp correction, market participants quoted by Reuters said they continued to believe in the long-term potential of artificial intelligence.
+Michael Monaghan of Founder ETFs said short-term sentiment was dominating market movements, even though he remained confident in the industry’s underlying fundamentals.
+Gene Goldman, chief investment officer at Cetera, said semiconductor earnings had passed the earnings test, but Anthropic’s IPO had become a valuation test for the AI industry. He also highlighted the 10-year Treasury yield hovering around 5% and the Federal Reserve’s policy outlook as important considerations for investors.
+The distinction is important. Strong earnings and expanding AI adoption have not disappeared, but investors are demanding greater evidence that the industry’s enormous infrastructure investments can generate sustainable returns.
+Bottom Line
+The Nasdaq’s 10% weekly decline exposes a growing tension between the extraordinary growth of AI businesses and concerns over the financial returns from their infrastructure investments.
+Nvidia’s 103% revenue growth and Anthropic’s record-setting fundraising demonstrate the scale of capital flowing into artificial intelligence. Yet neither development was enough to prevent a broad technology sell-off.
+The immediate risks include further valuation adjustments, uncertainty surrounding AI financing, Nvidia’s reported SEC investigation and the Federal Reserve’s interest-rate outlook.
+For investors, the next important tests will be US inflation data, the December Fed decision and evidence that AI infrastructure spending is translating into sustainable earnings and cash-flow growth. The long-term AI opportunity remains, but its valuation is facing a much tougher market test.
+Read Next: F&O Buildup Report Nov 20: 123 Long Signals; Axis Bank Leads
+Disclaimer: This article is for informational and educational purposes only and should not be treated as investment advice. Market data and stock movements are subject to change. Investors should consult a SEBI-registered financial adviser before making investment decisions.

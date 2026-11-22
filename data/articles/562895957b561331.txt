@@ -1,0 +1,25 @@
+URL: https://cryptobriefing.com/meta-145-billion-ai-capex-advertising/
+TITLE: Meta Platforms commits up to $145B to AI as its ad machine keeps paying off
+OUTLET: Crypto Briefing
+
+Meta narrowed its 2026 capital spending guidance to between $135 billion and $145 billion, betting that AI will keep its advertising business growing
+Meta Platforms is spending on artificial intelligence at a pace that would make most national budgets blush. The company has narrowed its 2026 capital expenditure guidance to a range of $135 billion to $145 billion, with the bulk aimed at AI infrastructure.
+The update arrived with Meta’s third-quarter 2026 earnings report on October 21, 2026. The new range tightens an earlier forecast of $130 billion to $145 billion. The top end stayed put, but the floor rose.
+Where the money is going
+The spending covers the full AI stack. That means data centers, chips, networking products, and the systems needed to train Meta’s Llama AI models.
+For perspective, Meta’s capital expenditures in 2025 came in at approximately $72 billion. The 2026 guidance puts the company on track to roughly double that figure in a single year.
+The ad business is already feeling the lift
+The company says its AI work is already improving content recommendations, ad impressions, and revenue per ad.
+Q3 2026 revenue reached $64.6 billion, a 26% increase from the same quarter a year earlier. Advertising accounted for $63.06 billion of that total.
+AI, tech, and the markets they move—in one daily briefing.
+Daily. Free. Join 34,000+ readers across crypto, finance, and policy.
+Ad impressions rose 10% year over year, while the average price per ad climbed 14%.
+Meta’s family of apps averaged 3.64 billion daily active users in Q3 2026.
+The cash flow problem
+Free cash flow in Q3 2026 came in at -$2.12 billion.
+Meta plans to introduce a new class of non-voting Class C stock and is looking to raise up to $95 billion through equity offerings to fund its AI ambitions.
+The non-voting structure lets Meta bring in fresh capital without weakening Mark Zuckerberg’s control over the company.
+Background: from dorm room to data centers
+Zuckerberg founded Facebook in his Harvard dorm room in 2004. Two decades later, the company is pouring tens of billions into chips and server farms.
+Zuckerberg and his team increasingly view AI as the critical lever for refining ad tools and deepening engagement on platforms like Facebook and Instagram.
+Disclosure: This article was edited by Diego Almada Lopez. For more information on how we create and review content, see our Editorial Policy.

@@ -1,0 +1,32 @@
+URL: https://www.tradingview.com/chart/BTCUSDT.P/2tcCgrBA-HOW-TO-Read-the-Liquidation-Heatmap-on-BTC-after-the-55k-flush/
+TITLE: HOW-TO: Read the Liquidation Heatmap on BTC after the 55k flush for BINANCE:BTCUSDT.P by HansaTrades
+OUTLET: TradingView
+
+HOW-TO: Read the Liquidation Heatmap on BTC after the 55k flush
+A how-to for my Liquidation Heatmap [HansaTrades] script, using today's BTCUSDT.P 1h chart as the example.
+Script: 
+What the heatmap shows
+- Each band is a price zone where leveraged positions would be force-closed. New positions are estimated from the rise in Binance perpetual open interest and spread over a typical leverage mix (10x to 100x).
+- Bands below price are long liquidations. Bands above price are short liquidations.
+- Amber bands hold more estimated leverage than grey ones. The profile on the right shows the same thing as bar length.
+- Zones fade with a 3-day half-life and shrink when open interest falls. Once price trades through a zone, it is cleared.
+Reading today's map (BTC around 60.9k)
+1) The empty space between about 60.3k and 61.8k: price traded through it today (high 61.65k), so the zones there were cleared.
+2) Above price: the largest pool on the whole map sits at about 63.7k to 65.1k, brightest near 64.6k, with a second amber band at 62.2k to 63.2k. These are mostly shorts opened during the sell-off. If price pushes into them, forced buying from closing shorts can speed up the move.
+3) Below price: amber bands at about 59.6k to 59.9k, 58.5k to 59.0k (the largest below price) and 56.9k to 57.4k. These are mostly longs opened on the bounce from 55.1k. If price loses them, forced selling can speed up a drop.
+4) Both sides are loaded, and the pool above is larger. The map shows where forced orders would sit, not which side gets hit first.
+How to use it
+- Treat bands as zones, not exact lines.
+- Give more weight to a band that lines up with your own structure levels, such as a prior high or low or a round number.
+- Watch zones disappear: a cleared zone means those positions were liquidated or closed.
+- Fresh bands right next to price after a fast open interest build-up mean squeeze risk in both directions.
+- Settings worth knowing: half-life (shorter shows only recent positions), leverage weights, the range around price (default ±8 %), contrast and color scheme.
+Limits
+This is a model based on Binance open interest and price, not exchange liquidation data. The long/short split and the leverage mix are assumptions.
+Educational content, not financial advice.
+HansaTrades · Crypto perps toolkit (BTC · ETH · SOL) · Daily levels & full toolkit: discord.gg/RsCrgUrRu · X: x.com/HansaTradesHQ · Instagram: instagram.com/hansatrades · Not financial advice
+Disclaimer
+The information and publications are not meant to be, and do not constitute, financial, investment, trading, or other types of advice or recommendations supplied or endorsed by TradingView. Read more in the Terms of Use.
+HansaTrades · Crypto perps toolkit (BTC · ETH · SOL) · Daily levels & full toolkit: discord.gg/RsCrgUrRu · X: x.com/HansaTradesHQ · Instagram: instagram.com/hansatrades · Not financial advice
+Disclaimer
+The information and publications are not meant to be, and do not constitute, financial, investment, trading, or other types of advice or recommendations supplied or endorsed by TradingView. Read more in the Terms of Use.

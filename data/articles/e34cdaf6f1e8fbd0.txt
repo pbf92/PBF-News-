@@ -1,0 +1,18 @@
+URL: https://www.foreignpolicyjournal.com/2026/11/21/anthropics-claude-ai-credited-with-cracking-a-166-year-old-mathematical-prize-problem-worth-1-million/
+TITLE: Anthropic's Claude AI Credited With Cracking A 166-Year-Old Mathematical Prize Problem Worth $1 Million
+OUTLET: Foreign Policy Journal
+
+A $1 million prize has sat unclaimed for decades, attached to a problem that has defeated mathematicians for more than a century and a half — and an AI may have finally broken through.
+Levent Alpoge, a member of the technical staff at AI company Anthropic, announced on his personal website Friday that he believes a proof of the Riemann Hypothesis has been found.
+The proof was developed in collaboration with Anthropic’s Claude AI tool, which Alpoge credits with driving the most critical phase of the work.
+First formulated by German mathematician Bernhard Riemann in 1859, the hypothesis concerns the distribution of prime numbers — integers divisible only by themselves and the number one.
+Understanding how primes are distributed as numbers grow arbitrarily large has profound implications for vast areas of mathematics, making a verified proof one of the field’s most consequential potential achievements.
+The Clay Mathematics Institute designated the Riemann Hypothesis one of its seven Millennium Prize Problems, offering $1 million to anyone who produces a confirmed solution.
+Martin Bridson, the institute’s president, described the announcement in stark terms, saying “This is an announcement of historic significance” that “holds the promise of a dramatic transformation in the perception of what is possible in the struggle to extend the human understanding of mathematics.”
+Bridson tempered that assessment with caution, however, warning that “the journey from today’s announcement to a place of real understanding will be long and difficult,” as independent mathematicians must still verify the work.
+The scale of the collaboration between Alpoge and Claude is striking — the process generated over 250,000 pages of mathematical material, and Alpoge himself acknowledged he has not yet fully absorbed all the mathematics involved.
+His account of the AI’s contribution near the end of the process was unusually vivid: “Claude and I have had a great time together with such breadth in recent months, but this time Claude far outpaced me near the finish line. No, Claude flew, and danced, and sparkled near that finish line.”
+The claimed breakthrough arrives as artificial intelligence systems are increasingly being credited with meaningful contributions to high-level mathematical research across the field.
+In September, OpenAI said its technology had contributed to solving a problem related to the Navier-Stokes equations, which describe fluid motion and are themselves among the seven Millennium Prize Problems.
+That claim, like Alpoge’s, remains subject to independent verification before any prize or formal recognition can be awarded.
+The pattern of AI systems engaging with problems that have resisted human mathematicians for generations is accelerating, raising questions about how credit, verification, and discovery will be defined in an era of machine-assisted science.

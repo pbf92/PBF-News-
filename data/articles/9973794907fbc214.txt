@@ -1,0 +1,64 @@
+URL: https://coinspot.io/en/prop-trading-firms/redline-futures-funding/
+TITLE: Redline Futures Funding Review 2026: Futures Prop Firm Pros & Cons
+OUTLET: CoinSpot.io
+
+Redline Futures Funding Review for Future Fund Traders in 2026
+Fresh firms can look appealing on pricing and rules, yet trust takes longer to build. This Redline Futures Funding review finds a futures prop newcomer with flexible evaluation conditions, transparent rule pages, and funded accounts up to $750,000 across five accounts, while outside proof remains thin enough that caution still matters.
+Founded in 2026, Redline Futures Funding had no Trustpilot reviews at the time of the latest profile refresh on Jun 18, 2026. The listed score sits at 54, with a health score of 42. From our experience reviewing platforms since 2013, that kind of setup usually means the paper terms may be trader-friendly, but the public trust layer is still early.
+The broad takeaway is simple. Redline presents no daily loss limit during evaluation, allows overnight and weekend holding, and states that news trading is allowed even in funded accounts. Even so, verified payout evidence is still limited, so this fits better as a monitored option than a default pick.
+Our verdict is cautious. In our analysis, Redline looks appealing on rules and pricing, but the trust risk is still high enough that we would treat it as a watchlist firm rather than a top recommendation.
+		
+Promo and Pricing Notes
+An active promo code was listed for 30% off accounts and evaluations. The code shown was CPI. Public pricing on the table also reflects discounted levels for several plans, with notes pointing to an APRIL code on source pages dated Apr 27, 2026.
+Entry pricing starts at $61 for a standard 50K account and rises with account size. Instant funded options are priced higher than standard evaluations, which is typical for firms offering direct simulated funded access.
+How the Trading Rules Work
+Evaluation and Funded Structure
+Redline offers evaluation accounts alongside instant funded accounts. A one-day pass is not available. News trading is permitted during evaluation and in funded status. The profile also states there is no move to live capital, so traders should read this as a simulated model rather than brokerage-style execution.
+Risk Controls
+The main restriction is trailing drawdown. There is no DLL restriction in funded accounts, which means no daily loss limit is applied there. From a practical risk angle, that can feel flexible, though trailing drawdown still requires careful control because the floor follows gains upward.
+Holding Rules and Restrictions
+Overnight and weekend holding are explicitly allowed in the account notes. Hedging is not allowed, and business entity trading is also restricted. Some fields such as micro scalping, bots, VPN usage, and flipping were left unspecified on the extracted profile.
+Platforms and Markets
+Redline lists dxFeed for market data and DeepCharts for trading software. The instrument lineup includes major futures contracts such as NQ and ES, along with products like CL and GC. For many futures traders, that covers the main liquid contracts people usually check first.
+When we compare firm pages, one useful signal is whether platform and data-feed details are easy to locate. Here, those references are visible quickly, within a few scrolls, which helps reduce ambiguity around the actual trading environment.
+Rule Changes Tracked in 2026
+On Jun 15, 2026, Redline stated that international wire payouts were disabled and that non-US traders must use Wise for the time being. The firm also said Wise was faster and lower cost, and that Rise may be added later.
+On Jun 8, 2026, Redline announced a 90 10 profit split for new funded accounts opened from Jun 7 onward. Existing funded accounts were said to remain on 80 20 terms. The update also raised the payout cap to $2,000 gross and $1,800 net per cycle for those newer funded accounts.
+On Jun 7, 2026, Redline promoted a live update broadcast covering the higher payout cap and revised split. That matters because it shows the firm is adjusting terms quickly, which can be useful for traders but also means the rules should be checked before purchase.
+Score Breakdown
+The profile score is 54 and is described as fair. The strongest metric shown is minimum trading days, which scored at 100%. Price also scored relatively well for a 50K account. Weaker areas include profit split on the older public dataset and editorial scoring.
+No ranking payment is involved in the score model according to the page. The calculations are described as algorithmic and based on public data. That does not remove interpretation risk, though it does make the framework easier to follow.
+Health and Trust Signals
+The health score is 42 and marked stable. That blend weighs trust, transparency, and firm age. In this case, transparency scores better than age and review depth, which makes sense for a company founded in 2026 with no Trustpilot history yet.
+Community proof remains very light. Trustpilot sits at 0.0 with zero reviews on the profile, while the payout section showed five total payouts and about $7K average payout with total paid still listed at $0M due to rounding. Is Redline Capital Inc. a legitimate futures funding company? Based on the public material here, it appears to be an operating firm with published rules and payout references, but legitimacy in the practical sense still needs stronger third-party proof and time in market.
+Plans and Account Rules
+Standard Accounts
+Standard accounts are shown in 50K, 100K, and 150K sizes. Pricing starts at $61 for 50K, then $103 for 100K, and $134 for 150K on the discounted table. These standard plans use monthly billing in the extracted pricing view.
+The profit target for standard evaluations is 5.5%. That equals $2,750 on 50K, $5,500 on 100K, and $8,250 on 150K. All standard sizes use trailing drawdown only, with no daily loss limit, no consistency rule, and no minimum trading days.
+Instant Funded Accounts
+Instant funded options are listed at 50K, 100K, and 150K. The discounted prices shown are $229, $299, and $369. Notes on the profile say the pre-discount levels were higher before the APRIL promotion.
+These instant funded plans also use trailing drawdown, with overnight and weekend holding allowed. Like the standard accounts, they show no activation fee.
+Drawdown by Size
+For 50K accounts, max drawdown is listed at $2,000. For 100K accounts, it is $3,500. For 150K accounts, it is $5,000. The drawdown is trailing in both the challenge stage and funded stage.
+Competitor material often explains this more directly, so it is worth stating plainly. Trailing drawdown means the account loss floor moves up with the highest closed balance and does not move back down afterward. That changes how traders manage money even if the rule sheet looks simple.
+How Payouts Work
+Payout eligibility on the profile requires at least 8 trading days and 6 winning days, with each winning day needing at least $130 in profit. The listed profit split across the main account table is 80%, with a maximum payout of $1,500 per cycle and no payout fee.
+Daily payouts are marked unavailable. The payout schedule field itself was left blank in the extracted table, though the minimum-day and winning-day conditions are clearly repeated across account sizes. During our review of similar firms, this kind of repeated condition set is usually a sign that the rule engine is standardized across plans.
+There is also an important timing detail from the change log. New funded accounts from Jun 7, 2026 onward were said to move to 90 10 terms with a higher payout cap, while older funded accounts remain on 80 20 terms. So how do payouts work with Redline Futures Funding? The short answer is that traders qualify by completing the required trading days and winning days, then request a capped withdrawal based on the funded account version they are on.
+For international traders, the profile notes that Wise is now the payout route while international wires are disabled. That is a practical detail worth checking before signup, especially for users outside the US who care about transfer friction and settlement speed.
+How Redline Compares With Other Futures Prop Firms
+How does Redline Capital compare to other futures prop firms? On rules alone, Redline is competitive because it removes several common friction points such as daily loss limits during evaluation and consistency requirements. It also allows news trading in funded accounts, which some rivals restrict.
+Where it trails older firms is trust depth. More established futures prop companies usually have a longer public payout history, broader review volume, or clearer third-party reputation signals. From what we have seen across crypto and trading platforms, age still matters because policy changes are easier to judge after a longer operating record.
+The pricing also looks aggressive, especially on discounted standard accounts. That helps Redline stand out, though lower cost does not remove the need to verify changing payout terms and firm stability.
+Frequently Asked Questions
+Is Redline Futures Funding Legit
+The firm appears active and has published rules, platform details, and tracked updates. Still, the trust profile is early, with no Trustpilot reviews on the cited page and limited external proof. That places it in the watchlist category rather than the fully established group.
+How Much Does It Cost
+Public pricing starts at $61 for a standard 50K account on the discounted table. A 30% promo code, CPI, was also shown on the profile.
+What Profit Split Is Offered
+The main account table lists an 80% split. A later rule update says newer funded accounts can receive 90 10 terms, while older funded accounts keep 80 20.
+Which Drawdown Model Is Used
+Redline uses trailing drawdown across both evaluation and funded accounts. That means the maximum permitted loss level moves with higher closed account equity.
+Is News Trading Allowed
+Yes. The rule summary states that news trading is allowed in evaluation accounts and funded accounts.
+Last refreshed on Jun 18, 2026. The profile data was described as automatically updated from tracked firm, payout, and alert information.

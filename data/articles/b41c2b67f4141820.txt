@@ -1,0 +1,29 @@
+URL: https://www.thekeyword.co/news/instagram-affiliate-shein-lowes
+TITLE: Instagram Adds Shein, Lowe’s and Halara to Affiliate Links
+OUTLET: https://www.thekeyword.co/
+
+Instagram has opened native affiliate programs for Shein, Lowe’s and Halara, so US creators can now tag those brands’ products in reels and feed posts the way they tag Amazon’s.
+Instagram publicly promoted only its Amazon integration, launched on 16 November. Business Insider reported on 18 November that the other three were added quietly, and Instagram’s affiliate programs page lists Shein and Impact.com, the affiliate network that carries Lowe’s and Halara, among its live programs.
+Commission Rates by Brand
+The rates differ sharply from one brand to the next. According to a list of rates seen by Business Insider, an Amazon sale earns a creator between 1% and 4%, Shein pays 2%, Halara pays 10%, and Lowe’s pays between 8% and 25%.
+The brands and affiliate platforms set those rates, not Instagram. Instagram says adding product links is free and that it takes no cut of affiliate earnings, and its help centre says the partners pay the commissions, with Meta not processing the payments.
+That puts the program behind a product on equal footing with the product itself. Lowe’s lowest listed rate, 8%, is double Amazon’s highest, so a creator tagging tools in a home improvement reel can earn more from the same sale by linking Lowe’s.
+What Brands Need for a Native Tag
+For Lowe’s and Halara, the route runs through Impact.com. Its creator help centre tells creators to paste a product-specific Impact.com tracking link into Add products, with up to 30 products per reel.
+What viewers see depends on the brand. When a brand has uploaded a product catalogue to Meta, Instagram matches the link to it and shows a native product tag. When it has not, the link appears as a standard sticker, and the sale is still tracked.
+The catalogue is therefore the brand’s part of the work. Instagram also hides a product link when the product does not appear in the reel or post, sells out, or fails Meta’s commerce integrity checks, so a tag only stays live on content that visibly features the product.
+Who Can Join Each Program
+Every program requires a creator to be 18 or older with a public professional account. Amazon, Shein and Impact.com each add a minimum of more than 1,000 followers.
+Amazon and Impact.com are open only to creators who live in the United States, while Shein’s program also accepts creators in Brazil and Mexico. Instagram says affiliate programs are rolling out gradually, so some eligible creators will not see them straight away.
+Outside the US, Instagram works with regional partners instead: Shopee in Brazil, Taiwan and six Southeast Asian markets, Lazada in Southeast Asia, Mercado Libre in Brazil and Mexico, and Flipkart and Myntra in India, where the minimum is more than 2,000 followers.
+Instagram’s Second Try at Affiliate Commerce
+Instagram tested an invite-only affiliate feature in 2021 and shut it down in June 2022. Meta brought affiliate tools to Facebook first, then said in March that it would bring them back to Instagram, with testing from April.
+Joining a program also gives the partner use of the creator’s content: Instagram’s help centre says the connection lets the partner create partnership ads from posts that carry its affiliate links. The Verge reported that some creators hesitated over that permission when the Amazon integration launched.
+Rivals got to creator affiliate commerce first. TikTok Shop has run its affiliate model in the US since 2023, and YouTube added Amazon to YouTube Shopping in August. In September, YouTube also began letting brands set custom commission rates and bonuses, according to Business Insider.
+Recap
+Which affiliate programs can US creators join on Instagram?
+US creators can join Amazon, Shein and Impact.com, which carries Lowe’s and Halara. Each requires a creator to be 18 or older with a public professional account and more than 1,000 followers. Shein’s program is also open in Brazil and Mexico.
+How much do Instagram affiliate programs pay creators?
+According to rates seen by Business Insider, Amazon pays 1% to 4% per sale, Shein 2%, Halara 10% and Lowe’s 8% to 25%. The brands and affiliate platforms set the rates, and Instagram takes no cut of the earnings.
+How does a brand get its products tagged in Instagram reels?
+A creator pastes the brand’s product-specific affiliate link into Add products, with up to 30 products per reel. If the brand has uploaded a product catalogue to Meta, the link becomes a native product tag; otherwise it shows as a standard sticker.

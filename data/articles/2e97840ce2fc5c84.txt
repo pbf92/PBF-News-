@@ -1,0 +1,34 @@
+URL: https://www.thisismoney.co.uk/money/markets/article-16313055/Anthropic-pirated-book-train-Claude-AI-says-HAMISH-MCRAE-payout-compared-riches-flowing-founders.html
+TITLE: How Anthropic pirated my book, by HAMISH MCRAE
+OUTLET: This is Money
+
+The Anthropic float last week was huge by any standards, and tells a lot about where financial power lies, the clout of the Artificial Intelligence industry, and the mood of the markets right now.
+It has also made some people very rich. The seven founders are now worth upwards of $20bn apiece.
+Nearly all the 5,300 employees become paper millionaires, half of those will have more than $10m of shares, and for some 500 early hires it will be $100m or more.
+We’ll see how the share price settles and it fell sharply on Friday. Still, it looks like being the sixth or seventh most valuable company in the world, worth about half the total value of all the firms in the FTSE100. And it did not exist six years ago.
+As it happens, I have a worms-eye view of all this. I joined the class action against Anthropic for using a pirated version of a book I wrote in the mid-1990s called The World in 2020.
+Payout: Columnist Hamish McRae has been compensated by Claude developer Anthropic as it used his book to train its AI models
+Anthropic had downloaded seven million files from shadow libraries to train its Claude AI models, and last July agreed to pay $1.5bn to authors and publishers whose work it had pirated.
+First payments are supposed to come through this Monday.
+Sounds great, except that there are 120,000 of us authors with half-a-million book titles in all.
+So we will get about $3,000 per book, which we split 50/50 with our publisher, and on which we have to pay income tax.
+Nice, but not quite the same league as the riches flowing to the Anthropic founders and staff.
+That’s the first lesson. This is about power. It’s about the power both of the US financial markets in general and specifically of the top AI enterprises. It dwarfs everything here.
+As far as the markets in general are concerned, we have to recognise that the money in America is so huge that whether the FTSE100 goes up or down is determined by US investors, not by anything we do or don’t do.
+It’s uncomfortable to admit it, but we don’t matter very much – or at least we only matter insofar as we can tag along with America.
+Europe matters even less. It’s thanks to US private and venture capital funding that our AI industry is larger than that of France and Germany combined, and is reportedly growing much faster than either.
+It’s all the more important that we should align our AI regulations as closely as possible with that of the US, rather following Europe.
+The next lesson is about the way in which enterprises everywhere are using AI.
+The only way you can justify the price put on Anthropic is to focus on the scarcity of supply and the growth of demand for the technology it provides.
+On the supply side there are a handful of competitors and they are all American.
+Would you really like to put your data on a Chinese model when in a nanosecond it would all be in Beijing?
+As for demand, it’s going through the roof as companies everywhere learn how to use this amazing technology.
+For those of us at home it’s a convenience. It’s quicker and better than a helpdesk or a simple Internet search.
+But for a business faced with rising costs it’s about survival.
+You replace people with AI. It won’t pull a sickie, or take you to a tribunal when it’s sacked.
+More than half of all UK companies with more than 100 staff are using it, and we seem to be moving almost as fast as the US, and faster than France or Germany, in adopting it.
+We are in the very early stages of learning what AI best can do. It’s the same with all new technologies, for not only do they develop and change, but it always takes a while to figure out where they are useful and where they are hopeless.
+For example, AI is not good at hiring. There is the cruel absurdity that university leavers are using AI to fire off hundreds of job applications, only to be rejected by AI bots with no human being ever seeing them.
+But as companies learn, the underlying demand for the service will climb and climb.
+As for the markets, they are twitchy right now. Maybe Anthropic shares are over-priced, but whatever happens the company is massive, and I do find Claude the best of the AI crop.
+Clearly they fed in the right books to train it.
