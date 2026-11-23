@@ -1,6 +1,21 @@
 {
- "latest": "2026-11-22",
+ "latest": "2026-11-23",
  "editions": [
+  {
+   "date": "2026-11-23",
+   "type": "weekday",
+   "top": [
+    "Nasdaq 100 futures jump 3.6% after worst week since March 2020",
+    "Pochettino starts with 4-0 defeat at Liverpool; United 19th after Yoro's 8th-minute red",
+    "Nvidia faces US questions on China chip sales as Huang exit clouds China business"
+   ],
+   "status": {
+    "story": 8,
+    "quiet": 2,
+    "failed": 0
+   },
+   "updates": 0
+  },
   {
    "date": "2026-11-22",
    "type": "weekend",

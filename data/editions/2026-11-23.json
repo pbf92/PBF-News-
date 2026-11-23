@@ -1,0 +1,712 @@
+{
+ "date": "2026-11-23",
+ "type": "weekday",
+ "read_minutes": 6,
+ "note": "Holiday week: US markets closed Thu, early close Fri. Prop and trading-tech desks quiet.",
+ "before_open": [
+  {
+   "time": "All day",
+   "what": "No BLS releases or Fed events scheduled today",
+   "detail": "Per BLS and Fed calendars. Next BLS: JOLTS 1 Dec, jobs report 4 Dec. FOMC 9 Dec, futures price ~96% for a 25bp hike.",
+   "url": "https://www.bls.gov/schedule/"
+  },
+  {
+   "time": "~3:00 AM",
+   "what": "Nasdaq 100 futures +3.6%, S&P +2.9% after worst week since March 2020",
+   "detail": "CrowdStrike to buy Zscaler for $43.9bn; Nvidia premarket higher; Friday VIX close 35.89.",
+   "url": "https://www.businessinsider.com/stock-market-selloff-milestones-nasdaq-sp500-dow-chipmakers-neoclouds-futures-2026-11"
+  },
+  {
+   "time": "This week",
+   "what": "October PCE, Q3 GDP revision, durable goods, jobless claims; markets shut Thu (Thanksgiving), early close Fri",
+   "detail": "Release times not confirmed from official calendars yet.",
+   "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-worst-week-covid-nvidia-anthropic-vix-fear-gauge/"
+  }
+ ],
+ "week_ahead": [],
+ "top": [
+  {
+   "headline": "Nasdaq 100 futures jump 3.6% after worst week since March 2020",
+   "why": "Oversold bounce into a holiday week; the drivers of the sell-off (hawkish Fed, Nvidia, AI funding) are unresolved.",
+   "points": [
+    "Around 3 AM PT, Nasdaq 100 futures were up about 3.6% (26,036.5), S&P 500 +2.9%, Dow +2.0% (CNBC data via Howl.Link)",
+    "Friday: S&P 500 -3.70% to 6,910.39, Nasdaq Composite -5.28% to 22,617.73; week -8.61% and -10.02% (TradingKey)",
+    "VIX closed at 35.89 Friday; CME FedWatch about 96% for a quarter-point hike in December",
+    "Oracle said AI funding is 'secured'; South Korea announced stabilisation measures (IBD)"
+   ],
+   "next": "October PCE and Q3 GDP revision later this week; Fed meets 9 Dec; markets closed Thu 26 Nov, early close Fri 27 Nov.",
+   "confidence": "reported",
+   "impact": "high",
+   "thread": {
+    "id": "ai-selloff-nov",
+    "name": "AI-led sell-off",
+    "status": "changed",
+    "day": 3
+   },
+   "sources": [
+    {
+     "name": "Business Insider",
+     "url": "https://www.businessinsider.com/stock-market-selloff-milestones-nasdaq-sp500-dow-chipmakers-neoclouds-futures-2026-11"
+    },
+    {
+     "name": "Investor's Business Daily",
+     "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-worst-week-covid-nvidia-anthropic-vix-fear-gauge/"
+    }
+   ],
+   "desk": "world"
+  },
+  {
+   "headline": "Pochettino starts with 4-0 defeat at Liverpool; United 19th after Yoro's 8th-minute red",
+   "why": "The first read on the new manager is grim: one win in 11 league games and a leaky defence leave United one point above the bottom, with relegation talk starting. Pochettino disputes the red card and United are reportedly appealing.",
+   "points": [
+    "Sun 22 Nov: Leny Yoro sent off in the 8th minute for DOGSO on Isak; VAR upheld it. Szoboszlai scored the free kick, then Wirtz (13'), Ngumoha (66') and Muñoz (82') made it 4-0.",
+    "United are 19th, one point above Crystal Palace, with one league win from 11. They have conceded 34 goals in all competitions, the most in Europe's top five leagues.",
+    "Pochettino and Fernandes both argue Isak lacked control of the ball so it should not have been a red; the Athletic headline says United will appeal (paywalled, not read).",
+    "Yoro faces a one-match ban, missing the trip to Brentford next weekend (SI)."
+   ],
+   "next": "Champions League at Sporting on 25 Nov; Brentford away next weekend (Yoro suspended); January defender search.",
+   "confidence": "confirmed",
+   "impact": "high",
+   "thread": {
+    "id": "pochettino-era",
+    "name": "Pochettino era begins",
+    "status": "changed",
+    "day": 11
+   },
+   "sources": [
+    {
+     "name": "Coaches' Voice",
+     "url": "https://learning.coachesvoice.com/cv/liverpool-manchester-united-tactics-november-2026/"
+    },
+    {
+     "name": "Sports Illustrated",
+     "url": "https://www.si.com/soccer/why-leny-yoro-sent-off-man-utd-mauricio-pochettino-fumes"
+    },
+    {
+     "name": "Goal",
+     "url": "https://www.goal.com/en-us/news/bruno-fernandes-very-proud-manchester-united-liverpool/blt3391c209ca026d64"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/football/2026/nov/22/mauricio-pochettino-manchester-united-reign-begins-with-anfield-humiliation-liverpool"
+    }
+   ],
+   "desk": "united"
+  },
+  {
+   "headline": "Nvidia faces US questions on China chip sales as Huang exit clouds China business",
+   "why": "Regulatory and leadership risk is now driving the AI sell-off as much as earnings.",
+   "points": [
+    "Treasury Secretary Bessent said on 22 Nov the US wants answers on Nvidia's chip sales to China (Reuters)",
+    "Reuters says Huang's exit threatens Nvidia's China turnaround",
+    "US media reports cited by AFP say securities regulators are examining Nvidia's accounting; SEC has not named issues and no wrongdoing is established (Yahoo/BeInCrypto)",
+    "Nvidia's guidance of about $130bn next quarter assumes no China data-centre sales (TradingView)"
+   ],
+   "next": "No dated catalyst found; watch Nvidia CEO succession and chip export rules.",
+   "confidence": "reported",
+   "region": "US",
+   "impact": "high",
+   "thread": {
+    "id": "nvidia-earnings-nov",
+    "name": "Nvidia earnings 17 Nov",
+    "status": "changed",
+    "day": 9
+   },
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/china/us-seeks-answers-nvidias-sale-chips-china-bessent-says-2026-11-22/"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/china/how-nvidias-billion-dollar-turnaround-china-is-threatened-by-huangs-exit-2026-11-23/"
+    }
+   ],
+   "desk": "world"
+  }
+ ],
+ "desks": [
+  {
+   "id": "united",
+   "name": "Manchester United & Football",
+   "status": "story",
+   "note": "Lead story: see top. Also: Bassey rumour below.",
+   "stories": [
+    {
+     "headline": "Fulham's Bassey says he is negotiating a new deal, cooling United's January interest",
+     "why": "Centre-back is the obvious January need and a cheap Bassey option now looks less likely. Other names in the press are expensive or speculative.",
+     "points": [
+      "Bassey, 26, whose Fulham contract ends in summer with a 12-month option, said \"we're still negotiating\" (quoted by SI).",
+      "SI says Vusković, Bastoni, Murillo and Branthwaite are likely too costly; cheaper options and loans may be needed.",
+      "Linking United to these players is press speculation, not confirmed interest."
+     ],
+     "next": "January transfer window; Fulham contract outcome.",
+     "confidence": "rumour",
+     "impact": "low",
+     "thread": {
+      "id": "united-january-defender",
+      "name": "January defender search",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Sports Illustrated",
+       "url": "https://www.si.com/soccer/mauricio-pochettino-reality-check-man-utd-target-three-word-admission"
+      }
+     ],
+     "desk": "united"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "name": "World Affairs & Politics",
+   "status": "story",
+   "note": "",
+   "stories": [
+    {
+     "headline": "Iran vows to use 'all its tools' against US naval blockade",
+     "why": "The Hormuz standoff is still live going into a fragile futures open; oil and Gulf shipping are the route into markets.",
+     "points": [
+      "Reuters reports Iran said on 23 Nov it will use all its tools to confront the US blockade",
+      "Trump said on 20 Nov Iran would not make an 'acceptable' deal (AP)",
+      "Houthis say they attacked Saudi Rabigh refinery on 22 Nov (Reuters, Houthi claim)",
+      "Brent has fallen over 20% in November (Business Insider), so the oil move so far is down, not up"
+     ],
+     "next": "No dated catalyst found; an escalation would be the oil risk.",
+     "confidence": "reported",
+     "region": "Global",
+     "impact": "high",
+     "thread": {
+      "id": "hormuz",
+      "name": "Strait of Hormuz attacks",
+      "status": "changed",
+      "day": 22
+     },
+     "sources": [
+      {
+       "name": "Reuters (via Investing.com)",
+       "url": "https://www.investing.com/news/commodities-news/iran-says-it-will-use-all-its-tools-to-confront-us-naval-blockade-5044777"
+      },
+      {
+       "name": "Business Insider",
+       "url": "https://www.businessinsider.com/stock-market-selloff-milestones-nasdaq-sp500-dow-chipmakers-neoclouds-futures-2026-11"
+      }
+     ],
+     "desk": "world"
+    },
+    {
+     "headline": "Euro zone growth steady in November but France's downturn deepens",
+     "why": "Europe is a soft spot while the US faces a hawkish Fed; France is the drag.",
+     "points": [
+      "Reuters reports the flash PMI shows euro zone growth holding steady",
+      "France's downturn is deepening per the same report",
+      "STOXX 600 rose on 23 Nov as tech rebounded after the AI-led rout (Reuters)"
+     ],
+     "next": "No dated catalyst found.",
+     "confidence": "official data",
+     "region": "Global",
+     "impact": "medium",
+     "sources": [
+      {
+       "name": "Reuters",
+       "url": "https://www.reuters.com/world/europe/euro-zone-growth-holds-steady-frances-deepening-downturn-clouds-outlook-pmi-2026-11-23/"
+      },
+      {
+       "name": "Reuters",
+       "url": "https://www.reuters.com/markets/europe/european-stocks-recover-after-steep-technology-led-selloff-2026-11-23/"
+      }
+     ],
+     "desk": "world"
+    },
+    {
+     "headline": "Schumer leadership questions grow after Senate win; Trump weighs in",
+     "why": "Democratic leadership friction continues after the midterms.",
+     "points": [
+      "Reuters (22 Nov): some Democrats say they need a new leader despite the Senate win",
+      "Trump said he sees difficulties ahead if Schumer leads the Senate (Reuters)",
+      "AP: Democrats clinched a House majority of at least 258 seats, the largest since 1992"
+     ],
+     "next": "No dated catalyst found.",
+     "confidence": "reported",
+     "region": "US",
+     "impact": "medium",
+     "thread": {
+      "id": "senate-leadership",
+      "name": "Schumer leadership challenge",
+      "status": "changed",
+      "day": 11
+     },
+     "sources": [
+      {
+       "name": "Reuters",
+       "url": "https://www.reuters.com/world/us/schumer-led-democrats-big-senate-win-now-some-say-they-need-new-leader-2026-11-22/"
+      },
+      {
+       "name": "Reuters",
+       "url": "https://www.reuters.com/world/us/trump-sees-difficulties-ahead-if-schumer-leads-senate-2026-11-22/"
+      },
+      {
+       "name": "AP News",
+       "url": "https://apnews.com/article/democrats-house-majority-election-2026-congress-721096a4d9ba2cd68683692361798cdb"
+      }
+     ],
+     "desk": "world"
+    },
+    {
+     "headline": "Three Russian missiles flew into Poland on Friday, prosecutors say",
+     "why": "A NATO state confirming a further incursion raises escalation risk on the eastern flank.",
+     "points": [
+      "Polish prosecutors say three Russian missiles entered Poland on Friday 20 Nov (Reuters, 22 Nov)",
+      "Poland also alleges Russia twice tried to kill a Ukrainian American rapper (AP)"
+     ],
+     "next": "No dated catalyst found.",
+     "confidence": "reported",
+     "region": "Global",
+     "impact": "medium",
+     "thread": {
+      "id": "poland-airspace",
+      "name": "Poland airspace incursions",
+      "status": "changed",
+      "day": 4
+     },
+     "sources": [
+      {
+       "name": "Reuters",
+       "url": "https://www.reuters.com/world/three-russian-missiles-flew-into-poland-friday-prosecutors-say-2026-11-22/"
+      }
+     ],
+     "desk": "world"
+    },
+    {
+     "headline": "CrowdStrike to buy Zscaler in $43.9bn all-stock deal",
+     "why": "Large cybersecurity consolidation announced pre-market, helping the software bounce.",
+     "points": [
+      "1.135 CrowdStrike shares per Zscaler share; implied about $260.41, roughly 34% premium to 20 Nov close",
+      "Expected to close in the second half of CrowdStrike's fiscal 2028, per its 8-K as cited by Reuters",
+      "Needs Zscaler shareholder and regulatory approval; $1.4bn termination fee in specified cases"
+     ],
+     "next": "Shareholder and regulatory approvals; close expected second half of CrowdStrike fiscal 2028.",
+     "confidence": "confirmed",
+     "impact": "medium",
+     "sources": [
+      {
+       "name": "Reuters",
+       "url": "https://www.reuters.com/legal/transactional/crowdstrike-buy-zscaler-439-billion-2026-11-23/"
+      }
+     ],
+     "desk": "world"
+    }
+   ]
+  },
+  {
+   "id": "prop",
+   "name": "Futures & Prop Firms",
+   "status": "quiet",
+   "note": "Only headline was an irrelevant USD/MAD forex forecast; no firm announcements fetched. One search found only third-party rule-change trackers (tip-offs, unconfirmed) and no new official Topstep/watchlist change.",
+   "stories": []
+  },
+  {
+   "id": "tradetech",
+   "name": "Trading Technology",
+   "status": "quiet",
+   "note": "Feed was general TradingView market-news noise (analyst notes, Anthropic ETFs); nothing on TradingView product, Pine Script, Quantower or AI trading tools. One search found no new release notes.",
+   "stories": []
+  },
+  {
+   "id": "ai",
+   "name": "Artificial Intelligence",
+   "status": "story",
+   "note": "",
+   "stories": [
+    {
+     "headline": "Anthropic stock gave back first-day gains by Friday as AI sell-off hit; filing shows heavy losses",
+     "why": "The first frontier-lab listing is now a live read on AI sentiment, and the S-1 figures show growth is being paid for with very large compute commitments.",
+     "points": [
+      "IPO priced at $83 (980m shares, about $81.3bn raised, a record, plus $26bn private placement); opened 19 Nov at $111.50, closed day one at $97.17.",
+      "On Friday it fell to $83.05 intraday, five cents above the offer, and closed at $88.30 (CIO Africa) in a wider AI and chip sell-off; Nvidia and Broadcom each fell about 12%.",
+      "Filing figures reported by Reuters/Fortune: $16.3bn H1 2026 revenue, about 80% enterprise; $104bn nine-month net loss; nearly $900bn of compute commitments.",
+      "Fully diluted valuation near $1.75tn at the day-one close; about $1.5tn on outstanding shares."
+     ],
+     "next": "First quarterly report as a public company; date not seen in sources. Monday's 6:30 AM PT open is the next test of the AI trade.",
+     "confidence": "reported",
+     "impact": "high",
+     "thread": {
+      "id": "anthropic-ipo",
+      "name": "Anthropic IPO",
+      "status": "changed",
+      "day": 9
+     },
+     "sources": [
+      {
+       "name": "CIO Africa",
+       "url": "https://cioafrica.co/anthropic-raises-81-3-billion-in-record-ipo/"
+      },
+      {
+       "name": "Channel Insider",
+       "url": "https://www.channelinsider.com/channel-business/news-anthropic-ipo-claude-enterprise-channel-impact/"
+      },
+      {
+       "name": "80 Level",
+       "url": "https://80.lv/articles/claude-maker-anthropic-opens-34-above-ipo-price-on-nasdaq"
+      }
+     ],
+     "desk": "ai"
+    }
+   ]
+  },
+  {
+   "id": "business",
+   "name": "Business & E-commerce",
+   "status": "story",
+   "note": "Unconfirmed: Google Ads surcharge rising to 3% in France and Italy from 1 Jan 2027 (PPC Land only, cites Google help page).",
+   "stories": [
+    {
+     "headline": "AWS Quick adds Meta ads connector: create and edit campaigns by natural language",
+     "why": "Meta's ads MCP server is now reachable from third-party AI workspaces, so small teams can automate reporting and campaign edits without Ads Manager. It also widens what an AI agent with account access can change.",
+     "points": [
+      "Connector gives AWS Quick access to Meta's ads MCP server operations, announced on AWS's blog.",
+      "Supports pulling performance insights, creating product catalogs and editing or creating campaigns, with dashboards and decks built from Meta plus first- and third-party data.",
+      "Setup is via Customize > Connectors with Facebook sign-in, choosing which Pages, Businesses and Instagram accounts Quick can access."
+     ],
+     "next": "No date; watch for Meta-side controls on agent edits and spend.",
+     "confidence": "confirmed",
+     "impact": "medium",
+     "thread": {
+      "id": "meta-ads-agent-connectors",
+      "name": "Meta ads AI connectors",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Amazon Web Services",
+       "url": "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/"
+      },
+      {
+       "name": "ContentGrip",
+       "url": "https://www.contentgrip.com/aws-quick-meta-ads-connector/"
+      }
+     ],
+     "desk": "business"
+    },
+    {
+     "headline": "Bing puts ads in AI Overviews worldwide (ex-China); Google extends AI Mode ads",
+     "why": "Paid search is moving into AI answers on both major engines just before peak holiday spend, with little reporting to prove it pays. Check Microsoft Ads placement reports and keep Performance Max and AI Max in mind.",
+     "points": [
+      "Microsoft announced ads in Bing AI Overviews on 19 Nov; they run through existing search campaigns with no new setup.",
+      "No placement-level controls or separate reporting announced; Microsoft's 21% purchase uplift figure is a Dec 2024 Copilot number, not for this placement.",
+      "Google has launched multiturn AI Mode ads in the US and expanded to 10 more English-language markets, naming three more for Q4 2026, with no pricing or performance data."
+     ],
+     "next": "Google's three further AI Mode ad markets in Q4 2026; no specific date given.",
+     "confidence": "reported",
+     "impact": "medium",
+     "thread": {
+      "id": "ai-search-ads",
+      "name": "Ads inside AI search",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "The Keyword",
+       "url": "https://www.thekeyword.co/news/bing-ai-overviews-ads"
+      },
+      {
+       "name": "shattered.io",
+       "url": "https://shattered.io/google-ai-mode-ads-10-new-countries-ai-above-search-ads/"
+      }
+     ],
+     "desk": "business"
+    },
+    {
+     "headline": "Bombay High Court refuses to restore Meta ad accounts of agency selling 'ban-proof' ads",
+     "why": "A court has backed Meta's right to cut off agencies that promise policy workarounds. If you buy through resellers or rented accounts, your campaigns can vanish with theirs.",
+     "points": [
+      "20 Nov order: Blink Digital India's four Business Managers (about 9,000 ad accounts) stay disabled before trial.",
+      "Court cited marketing of 'ban proof' ads, 'zero spend limits' and rented accounts, and 25 policy-violating ads Meta put on record.",
+      "Blink may ask Meta afresh to restore accounts if it commits to the rules; Meta must decide within two weeks. Its Rs 1,000-crore damages claim continues."
+     ],
+     "next": "Meta's decision within two weeks of any fresh request; trial date not reported.",
+     "confidence": "reported",
+     "impact": "low",
+     "thread": {
+      "id": "blink-v-meta",
+      "name": "Blink Digital v Meta",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "MediaNama",
+       "url": "https://www.medianama.com/2026/11/223-bombay-hc-metas-blink-digitals-ad/"
+      },
+      {
+       "name": "MediaNews4U",
+       "url": "https://www.medianews4u.com/blink-digitals-%E2%82%B91000-crore-claim-against-meta-continues-as-hc-rejects-plea-to-restore-ad-accounts/"
+      }
+     ],
+     "desk": "business"
+    }
+   ]
+  },
+  {
+   "id": "faith",
+   "name": "Christianity & Theology",
+   "status": "story",
+   "note": "",
+   "stories": [
+    {
+     "headline": "US Catholic bishops' AI taskforce plans a nationwide lobbying push for AI regulation",
+     "why": "Global Christianity is moving from commentary on AI to organised political pressure, building on Pope Leo's encyclical. It is a marker of where church influence on AI policy may come from.",
+     "points": [
+      "Bishop Oscar Cantú of San Jose, who leads the US bishops' AI taskforce, wants church leaders and congregations to build a 'groundswell' for regulation.",
+      "He presented at the bishops' plenary assembly last week; the taskforce has 8 clergy and 3 academic consultants and has been meeting AI developers.",
+      "He cited Pope Leo's encyclical Magnifica Humanitas, which says AI must be 'disarmed' and serve the common good.",
+      "He called for developer accountability for harm and more protection for children and vulnerable people."
+     ],
+     "next": "No dated event given; watch for specific bills or campaign materials from the bishops' conference.",
+     "confidence": "reported",
+     "impact": "medium",
+     "thread": {
+      "id": "catholic-bishops-ai-lobbying",
+      "name": "Catholic bishops and AI regulation",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Premier Christian News (citing Politico, OSV News)",
+       "url": "https://premierchristian.news/en/news/article/silicon-valley-bishop-nationwide-ai-regulation-lobbying"
+      }
+     ],
+     "desk": "faith"
+    }
+   ]
+  },
+  {
+   "id": "health",
+   "name": "Health & Wellness",
+   "status": "story",
+   "note": "",
+   "stories": [
+    {
+     "headline": "Year-long JAMA trial: NAD supplement nicotinamide riboside does not help early Parkinson's",
+     "why": "NR is sold over the counter as a longevity and neuroprotection supplement. The largest trial yet found no benefit and slightly worse scores, so the earlier small-trial hope is not supported.",
+     "points": [
+      "NOPARK, phase 3 RCT in Norway: 410 adults with early Parkinson's (mean age 65.6, 34% women), 500 mg NR twice daily vs placebo for 52 weeks.",
+      "MDS-UPDRS rose 2.45 points on NR vs a 0.27-point improvement on placebo (difference 2.72); statistically significant but below the clinically meaningful threshold.",
+      "No benefit on dopamine transporter scans or motor measures; nonmotor symptom scores were significantly worse on NR.",
+      "Blood NAD levels did rise, so the supplement was absorbed and adherence was about 99%."
+     ],
+     "next": "No dated catalyst; watch for commentary and any NR trials in other conditions.",
+     "confidence": "confirmed",
+     "grade": "B",
+     "study": "Single phase 3 double-blind RCT, n=410, early Parkinson's on levodopa-based treatment, one year, 500 mg twice daily only; extrapolating to healthy people or other doses is not supported. Read from News-Medical's write-up, not the JAMA paper.",
+     "impact": "medium",
+     "thread": {
+      "id": "nr-nad-parkinsons",
+      "name": "NAD supplement and Parkinson's",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "News-Medical (on JAMA NOPARK trial)",
+       "url": "https://www.news-medical.net/news/20261123/NAD-supplement-raises-blood-levels-but-fails-to-help-Parkinsons.aspx"
+      }
+     ],
+     "desk": "health"
+    },
+    {
+     "headline": "Oxford commentary backs exercise for depression, citing updated Cochrane review of 73 trials",
+     "why": "Evidence that exercise performs about as well as therapy or antidepressants for depression, which suits a fitness-minded reader, though long-term data are thin.",
+     "points": [
+      "Updated Cochrane review: 73 RCTs, at least 4,985 adults with depression; exercise moderately reduced symptoms vs no treatment or control.",
+      "Effects looked similar to psychological therapies and to antidepressant medication.",
+      "Group exercise is already recommended in NICE guidance; commentary published in BJPsych Advances.",
+      "Gaps: few studies on sustained benefit, and little on equity of access."
+     ],
+     "next": "No dated catalyst.",
+     "confidence": "confirmed",
+     "grade": "A",
+     "study": "Commentary on a Cochrane systematic review and meta-analysis of 73 RCTs (n of at least 4,985, adults with depression); limitations are short follow-up and variable trial quality, per the Oxford authors. Figures come from the Oxford Health press release.",
+     "impact": "medium",
+     "thread": {
+      "id": "exercise-depression-cochrane",
+      "name": "Exercise for depression",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Oxford Health NHS Foundation Trust",
+       "url": "https://oxfordhealth.nhs.uk/news/exercise-could-offer-an-accessible-treatment-option-for-depression/"
+      }
+     ],
+     "desk": "health"
+    }
+   ]
+  },
+  {
+   "id": "gaming",
+   "name": "Gaming & PlayStation",
+   "status": "story",
+   "note": "",
+   "stories": [
+    {
+     "headline": "Rockstar pushes first GTA VI patch, 01.002.002, with no patch notes yet",
+     "why": "This is the first post-launch fix after reports of PS5 crashes and save problems. Whether it fixes them is unknown until Rockstar publishes notes.",
+     "points": [
+      "Version 01.002.002 went out Mon 23 Nov: 603.8MB on PS5, 1.6GB on Xbox Series X|S.",
+      "Rolled out in waves; ScreenRant citing dataminer Tex2 said about 33% of PS5 owners had it first.",
+      "No official patch notes at time of the reports; Insider Gaming calls crash/save fixes speculation.",
+      "Metacritic critic score is 99, user score 5.6 (ScreenRant), with review-bombing noted."
+     ],
+     "next": "Rockstar patch notes; PC port timing remains unconfirmed.",
+     "confidence": "confirmed",
+     "impact": "high",
+     "thread": {
+      "id": "gta6-ps5-crashes",
+      "name": "GTA VI PS5 crashes",
+      "status": "changed",
+      "day": 2
+     },
+     "sources": [
+      {
+       "name": "ScreenRant",
+       "url": "https://screenrant.com/gta-6-first-major-update-november-2026/"
+      },
+      {
+       "name": "Insider Gaming",
+       "url": "https://insider-gaming.com/gta-6-update-01-002-002-all-changes-download-size/"
+      },
+      {
+       "name": "MP1st",
+       "url": "https://mp1st.com/title-updates-and-patches/gta-6-first-update-1-002-002-released-on-november-23"
+      }
+     ],
+     "desk": "gaming"
+    },
+    {
+     "headline": "Hacker 'Cyberleek' claims a 209GB Xbox GTA VI build, threatens executable drop on 23 Nov",
+     "why": "Piracy and emulation risk could undercut the PC window and Rockstar's control of launch. It is a claim from an anonymous leaker with a crypto token to promote, so treat it sceptically.",
+     "points": [
+      "Cyberleek says it holds the full November 2026 build and is distributing it by torrent.",
+      "Mashable says the files lack the executable, so the game isn't playable; Reddit users posted what they say are assets.",
+      "Cyberleek threatens to release the executable on 23 Nov, or sooner if its token hits a $15M market cap, and claims emulation within a week.",
+      "Not independently verified; no Rockstar or Take-Two response seen."
+     ],
+     "next": "Cyberleek's own 23 Nov deadline; any Take-Two response.",
+     "confidence": "claim",
+     "impact": "low",
+     "thread": {
+      "id": "gta6-cyberleek-leak",
+      "name": "Cyberleek GTA VI leak",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Mashable",
+       "url": "https://mashable.com/tech/hacker-cyberleek-releases-an-xbox-build-gta-6"
+      }
+     ],
+     "desk": "gaming"
+    }
+   ]
+  },
+  {
+   "id": "expand",
+   "name": "Expand My World",
+   "status": "story",
+   "note": "",
+   "stories": [
+    {
+     "headline": "Aeon: an environmental historian argues El Niño is as much a human construct as a natural event",
+     "why": "With the 2026-27 El Niño possibly the strongest in 1,000 years, this essay shows why it is hard to forecast and how past events killed millions yet enriched others. Worth reading for the history of a force that will shape coming weather.",
+     "points": [
+      "The author says 2026 Pacific warming may be the strongest El Niño in 1,000 years; impacts are still uncertain.",
+      "'El Niño' began as a Peruvian fishermen's name for a December warm current; Camilo Carrillo introduced it to science in 1892.",
+      "It is now understood as the ocean side of the Southern Oscillation pressure seesaw; its worldwide teleconnections are less consistent than usually presented.",
+      "An opinion essay by a historian, not a forecast; the 'strongest in 1,000 years' line is the author's, not a source-checked finding."
+     ],
+     "next": "No dated catalyst; read the 26-minute essay.",
+     "confidence": "claim",
+     "impact": "low",
+     "thread": {
+      "id": "aeon-el-nino-history",
+      "name": "El Niño history essay",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Aeon",
+       "url": "https://aeon.co/essays/what-can-we-learn-from-the-past-experience-of-el-nino"
+      }
+     ],
+     "desk": "expand"
+    }
+   ]
+  }
+ ],
+ "watching": [
+  {
+   "thread": "fed-december",
+   "line": "Futures price about 96% odds of a 25bp hike at the 9 Dec FOMC."
+  },
+  {
+   "thread": "topstep-nov-2026-rules",
+   "line": "No official Topstep confirmation seen; third-party tracker claims remain unverified."
+  },
+  {
+   "thread": "fernandes-contract",
+   "line": "Talks on hold; no new offer or exit news today."
+  },
+  {
+   "thread": "ai-science-claims",
+   "line": "Riemann proof Lean-certified (see Sunday). New: Alpöge and NYU's Buckmaster posted a Claude-aided Navier-Stokes blow-up claim on 20 Nov; its certificate is unreleased and unverified."
+  },
+  {
+   "thread": "ukraine-talks",
+   "line": "Not rechecked this run; security guarantees remained the sticking point."
+  }
+ ],
+ "close_threads": [
+  "cop31-talks"
+ ],
+ "expand": {
+  "headline": "Aeon: an environmental historian argues El Niño is as much a human construct as a natural event",
+  "why": "With the 2026-27 El Niño possibly the strongest in 1,000 years, this essay shows why it is hard to forecast and how past events killed millions yet enriched others. Worth reading for the history of a force that will shape coming weather.",
+  "points": [
+   "The author says 2026 Pacific warming may be the strongest El Niño in 1,000 years; impacts are still uncertain.",
+   "'El Niño' began as a Peruvian fishermen's name for a December warm current; Camilo Carrillo introduced it to science in 1892.",
+   "It is now understood as the ocean side of the Southern Oscillation pressure seesaw; its worldwide teleconnections are less consistent than usually presented.",
+   "An opinion essay by a historian, not a forecast; the 'strongest in 1,000 years' line is the author's, not a source-checked finding."
+  ],
+  "next": "No dated catalyst; read the 26-minute essay.",
+  "confidence": "claim",
+  "impact": "low",
+  "thread": {
+   "id": "aeon-el-nino-history",
+   "name": "El Niño history essay",
+   "status": "new"
+  },
+  "sources": [
+   {
+    "name": "Aeon",
+    "url": "https://aeon.co/essays/what-can-we-learn-from-the-past-experience-of-el-nino"
+   }
+  ],
+  "desk": "expand"
+ },
+ "generated_at": "2026-11-23T13:28:59Z",
+ "updates": [],
+ "status": {
+  "story": 8,
+  "quiet": 2,
+  "failed": 0
+ }
+}
