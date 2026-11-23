@@ -1,0 +1,40 @@
+URL: https://www.tradingview.com/news/invezz:eb00f3d06094b:0-why-is-tesla-stock-gaining-12-today/
+TITLE: Why is Tesla stock gaining 12% today?
+OUTLET: TradingView
+
+Why is Tesla stock gaining 12% today?
+Tesla (TSLA) shares surged 12% on Monday as US equities rebounded from last week's sell-off, while the electric vehicle maker's latest Full Self-Driving (FSD) software release provided an additional catalyst for the stock.
+Shares climbed to $387 in trading, recovering Friday's losses, when Tesla fell alongside other technology and artificial intelligence-related stocks.
+The broader market also staged a strong recovery.
+The Nasdaq Composite rose 6.8% in trading, while the S&P 500 gained 5% and the Dow Jones Industrial Average advanced 3.2%.
+Nvidia shares also surged 31% after the company's board reinstated Jensen Huang as chief executive, helping revive sentiment towards AI-related stocks.
+Tesla's gains came as the company began rolling out FSD version 15 to select customers over the weekend.
+The update has drawn attention from analysts, with JPMorgan describing the release as another indication of Tesla's lead in consumer autonomous driving technology.
+JPMorgan highlights Tesla's autonomous driving lead
+JPMorgan analyst Rajat Gupta said FSD (Supervised) v15 raised the bar for consumer autonomy, highlighting Tesla's position relative to competitors preparing to introduce their own advanced driving technologies.
+Gupta pointed to developments at Rivian, Ford and General Motors.
+Rivian is preparing to present its autonomous driving roadmap at its December 9 Autonomy and AI Day.
+Ford is advancing towards its planned 2027 Fathom launch, while General Motors is preparing for a 2028 launch of eyes-off highway driving technology on the Cadillac Escalade IQ.
+"With Rivian preparing to showcase its autonomy roadmap at its December 9 Autonomy & AI Day, Ford advancing toward the 2027 Fathom launch, and GM navigating CEO succession discussions ahead of its 2028 launch of 'eyes-off' highway on Cadillac Escalade IQ, we see the breadth of the v15 release as another illustration of TSLA's head start in consumer autonomy, raising the (already high) bar another notch," Gupta said.
+The analyst also noted that improvements in computing efficiency could reduce the need for Tesla owners to upgrade to its next-generation AI5 hardware in the near term.
+AI5 is Tesla's next-generation chip designed to process information collected through vehicle cameras and support its autonomous driving capabilities.
+FSD v15 introduces new safety and navigation features
+Tesla's latest software update introduces several changes to its driver-assistance system.
+One of the key additions is Reality View, a live visual display showing what the vehicle detects on the road and what the FSD system intends to do.
+The feature builds on Tesla's existing visualisations of surrounding vehicles, pedestrians, traffic lights and other road elements.
+The update also includes improvements to driver monitoring, parking and end-to-end navigation.
+Tesla says the software is better at detecting road signs, animals and potholes, while also handling speed more naturally in school zones and adverse weather conditions.
+The company claims FSD v15 handles safety-critical situations 25 times better than its previous version.
+Chief Executive Elon Musk described the update as "GTA irl", referencing the video game Grand Theft Auto VI.
+However, the latest version continues to require driver supervision.
+Tesla has begun distributing it to select customers, with a wider rollout expected in December.
+Robotaxi expansion remains important for Tesla stock
+FSD is a central part of Tesla's autonomous driving ambitions and its broader investment case.
+Hundreds of thousands of Tesla owners pay $99 per month for the driver-assistance software.
+The technology also underpins the company's robotaxi service.
+Tesla launched its self-driving robotaxi service in Austin, Texas, in June 2025.
+However, expansion has been relatively slow, with the company operating an estimated 2,000 robotaxis across nine cities.
+Further improvements to autonomous driving technology could support the company's efforts to expand the service.
+Expectations surrounding future earnings from self-driving technology are also reflected in Tesla's valuation.
+The stock trades at approximately 175 times its expected earnings over the next 12 months, making it one of the most highly valued companies in the S&P 500 on that measure.
+AI disclosure: AI tools assisted with research and drafting of this piece. An Invezz editor reviewed the facts, sources and wording before publication. Any opinions or analysis are Invezz’s, not those of an automated system.

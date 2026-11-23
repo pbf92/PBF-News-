@@ -1,0 +1,34 @@
+URL: https://www.capetownetc.com/news/how-facebook-ads-can-be-used-to-hijack-sassa-grants/
+TITLE: How Facebook ads can be used to hijack SASSA grants
+OUTLET: Cape Town ETC
+
+Words: Joel Cedras / GroundUp
+‘Lost your SIM card?’ ‘Can’t check your status?’ ‘Approved, but no pay date?’
+Numerous ads on Facebook and Instagram offer to fix problems that millions of people on the SASSA R370 Social Relief of Distress (SRD) grant know all too well. But the information they ask for is exactly what someone would need to take over a grant.
+We found these adverts by scraping Meta’s advertising library. This allowed us to see all the ads running on Facebook, Instagram and WhatsApp. Between 16 and 19 November, we found at least 30 ads from 15 pages. There were new ads every single day.
+The pages have names like ‘SASSA SRD 370′, ‘370 SRD’, ‘Sassa Grant Helper’, ‘sassa helper miss Dlamini’ and ‘Mrs Mazibuku ‘.
+Most have fewer than 20 followers.
+The ads read like a help-desk menu: ‘1. Change number 2. Lost SIM card (2021-2026) 3. Claim previous money in the shop’. Some are in isiZulu, asking for anyone who has lost the number they registered with: ‘Usekhona onenkinga ka R350-R370 owalahla inamba abhalisa ngayo,’
+Name, ID number, old number, new number
+Most of the ads link to forms made with free online tools: Formms, Jotform, Zoho Forms and SurveyHeart. Others open a WhatsApp chat to probe for the information there.
+The most widely advertised form, linked from at least seven ads, asks for a full name, ID number, ‘old number’, ‘new number’, ‘since you get paid when’, and ‘shops or bank?’. It also asks ‘Where are you?’ and lets the user share their exact location.
+A Jotform form titled ‘SASSA SRD. R370 CHANGE NUMBER’ asks for a name, ID number, the number used to register, a new number and a reason. A Zoho form called ‘SASSA SRD CHANGE NUMBER’ asks for an ID number, old number and new number.
+Some of the form providers have started to react. One form, on forms.app, now displays a message that it was removed because ‘suspicious content’ was detected.
+Another Jotform form, advertised by a page called ‘Sassa Srd Grant Application’, now shows that it is ‘over quota.’ That happens when the account behind a free form reaches a monthly limit, such as 100 submissions or 10 000 views.
+Meta’s advertising policies state that they ‘aim to protect users and businesses from being deceived out of their money, property or personal information’. It is unclear to us as to how the ads were approved. However, a few were taken down by Meta after GroundUp reported them.
+Your number is your grant
+The SRD grant runs almost entirely through a cellphone. SASSA uses the registered number to communicate with recipients, and recipients can collect their grant in cash using their phone number.
+With the information from these forms, scammers can use SASSA’s SRD portal to change a recipient’s phone number and payment details. People who receive the grant via ‘cash-send’, where they collect at a shop like Boxer or Shoprite, are particularly vulnerable to this scam.
+We found that, with the information these forms collect, it is possible to bypass all the verification checks and take over a grant on the online portal.
+We do not know for certain that these adverts are being used to commit fraud. But the forms ask for far more than anyone actually needs in order to give advice. It is far too coincidental that the information they ask for is exactly what a scammer would need to take over a grant.
+Even if no grant is taken, handing over these details is still risky. In 2024, GroundUp showed that SRD grants had been applied for and paid, using people’s ID numbers without their knowledge.
+SASSA did not respond to questions by the time of publication.
+What to do
+- Only change your details via the SRD website (srd.sassa.gov.za), a SASSA office or the SASSA call centre on 0800 60 10 11.
+- Do not share your ID number, cellphone numbers or banking details with any Facebook pages, WhatsApp ‘helpers’ or online forms.
+- If you have already filled in one of these forms, you should alert SASSA on 0800 60 10 11 or email [email protected].
+- Report the ads on Facebook using ‘Report ad.’
+- Read GroundUp’s social grants guide for more information.
+Be the first to know – Join our WhatsApp Channel for content worth tapping into! Click here to join!
+Also read:
+Picture: Lisa Nelson / GroundUp

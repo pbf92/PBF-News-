@@ -1,0 +1,41 @@
+URL: https://cwibc.co.id/en/microsoft-bing-ai-expansion
+TITLE: Microsoft Expands Bing AI Search and Advertising Features
+OUTLET: cwibc.co.id
+
+Microsoft Expands Bing AI Search and Advertising Features
+Microsoft is expanding its artificial intelligence ecosystem across search, advertising, and content discovery, introducing new tools for publishers, advertisers, and businesses. Developments announced between November 17 and November 20, 2026, include broader access to Web IQ, transparency labels for AI-generated advertisements, and commercial placements within Bing AI Overviews.
+The changes also create additional opportunities for publishers to distribute content through AI-powered services and give businesses new ways to monitor their visibility in AI-generated search results.
+Microsoft made Web IQ generally available to Azure users on November 17. The search API provides web information that AI agents can use as source material when generating responses, extending the role of Bing's search index beyond conventional search results.
+Publishers that block Bingbot through their robots.txt files will not be included in the Web IQ index. Microsoft also provides page-level controls through the ai-grounding setting, including the disallowextended value, which allows Microsoft's own AI features to access content while excluding external services such as Web IQ.
+These controls do not change eligibility for traditional Bing search results. They instead determine how website content can be accessed for different AI applications.
+A separate development involves Microsoft's advertising platform, which has introduced visible labels identifying advertisements containing AI-generated images or videos.
+Microsoft described the new controls by stating, "AI content transparency controls are now generally available in Microsoft Advertising."
+The feature allows advertisers to declare whether their visual assets contain AI-generated material and select visible watermarks where supported. Businesses can manage declarations individually or across multiple assets through Ads Studio Library, Microsoft Advertising APIs, and product feeds.
+Microsoft also provides AI detection signals as supporting information. However, advertisers remain responsible for determining and submitting their content declarations.
+Commercial advertising has also expanded into Bing's AI-generated search responses. Microsoft confirmed that advertisements can now appear alongside AI Overviews when products or services are relevant to users' queries.
+Microsoft explained the expansion, saying, "Ads in AI Overviews on Bing are the latest step in bringing ads to AI experiences, building on ads in Copilot."
+The company added, "Your ads can now show up next to AI-powered answers on Bing when your offers are relevant."
+For example, a search about visiting Snowdonia National Park could generate an AI-produced itinerary and travel recommendations, accompanied by advertisements for relevant hotel accommodations.
+Microsoft also cited internal performance data showing "a 21% increase in purchases after a Copilot interaction."
+Advertisers do not need to establish separate campaigns for these placements. Microsoft said existing campaigns, including Performance Max and AI Max, can serve advertisements within AI Overviews.
+The company further stated, "There's no separate campaign set-up required. Ads in AI Overviews run through the campaigns you already use, including Performance Max and AI Max, which are the most effective way to show up in AI experiences in more relevant ways."
+Microsoft reported that AI Overview advertising is available in all markets except China.
+Meanwhile, Brandi AI announced on November 19 that it had expanded its monitoring capabilities to cover Meta Muse, Microsoft Bing AI Mode, and Bing AI Overviews. The company's platform helps businesses evaluate their presence in AI-generated search responses, shopping recommendations, and product research.
+Brandi AI CEO and co-founder Leah Nurik explained the company's expansion, stating, "Helping our customers stay ahead in AI search and buyer discovery means continually expanding and deepening the intelligence and guidance Brandi AI delivers."
+She added, "With Meta Muse personalizing product discovery and Microsoft integrating AI-generated answers into both consumer and B2B search, brands need visibility across both experiences. Brandi AI helps teams understand what AI is saying about their brands and how to improve their competitive position."
+The expanded platform tracks brand visibility, analyzes sentiment, identifies competing businesses favored in AI responses, and examines external sources influencing generated answers. Its monitoring capabilities also measure brand mentions, citations, earned media coverage, and content performance over time.
+These developments accompany changes in how publishers measure search visibility. A November 19 assessment of note's website found that its robots.txt file did not block Bingbot from accessing article URLs, while its first tested article appeared in Bing search results.
+The assessment identified three proposed measurement indicators: the number of days between publication and appearance in Bing search results, the corresponding indexing delay on Google, and the frequency with which articles are cited in Copilot responses. Results are expected to be reported after sufficient monitoring data becomes available.
+What's Your Reaction?
+- 
+        0Like
+- 
+        0Dislike
+- 
+        0Funny
+- 
+        0Angry
+- 
+        0Sad
+- 
+        0Wow

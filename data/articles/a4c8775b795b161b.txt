@@ -1,0 +1,10 @@
+URL: https://9to5google.com/2026/11/23/claude-android-material-3-update/
+TITLE: Claude rolling out updated Android app with Material 3 Expressive redesign
+OUTLET: 9to5Google
+
+Anthropic is rolling out a new Claude app for Android that picks up a Material 3 Expressive redesign.
+Confirmed on Twitter/X by Anthropic Product Manager Robert Bye, Claude is now rolling out a Material 3 Expressive redesign for its Android app that, while not a full embrace of Google’s design language, does make a clear attempt to better fit in on Android.
+The updated design picks up a bottom-bar UI as opposed to relying fully on the old hamburger menu – it still exists, but it’s mainly for chat history now. You can see M3 elements throughout the app, including in the model switcher and the background of chats. It’s clearly themed to match Anthropic’s aesthetic, and there’s no obvious implementation of Material You colors, but it all fits within the general Material 3 guidelines – much more so than the original app.
+The one flaw we spotted was the predictive back implementation, which gets a neat animation to move the search bar but is supposed to show a preview of the previous screen, but that’s just nit-picking, really.
+The new Claude app for Android is rolling out now.
+Follow Ben: Twitter/X, Threads, Bluesky, and Instagram

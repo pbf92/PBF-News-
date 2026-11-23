@@ -1,0 +1,23 @@
+URL: https://www.storyboard18.com/brand-marketing/nexxen-gracenote-partner-to-bring-program-level-targeting-to-ctv-advertising-ws-l-115295.htm
+TITLE: Nexxen, Gracenote partner to bring program-level targeting to CTV advertising
+OUTLET: Storyboard18
+
+Advertising technology platform Nexxen has partnered with Gracenote, Nielsen's content intelligence business, to expand content-based targeting capabilities for connected TV (CTV) advertising, giving brands more granular control over the content environments in which their ads appear.
+The partnership integrates Gracenote's CTV data and content intelligence into Nexxen's supply-side platform (SSP), allowing advertisers to plan and activate campaigns using program-level insights rather than relying only on broader audience or platform-level targeting.
+As CTV consumption and advertising continue to grow, advertisers have increasingly sought greater visibility into the programmes and content surrounding their ad placements. The partnership aims to address this gap by combining Gracenote's content metadata with Nexxen's premium CTV inventory.
+Targeting ads based on content attributes
+Through the integration, advertisers will be able to create privacy-conscious audience segments using content characteristics such as genre, mood, theme, ratings, language and cast, as well as specific sports and news categories.
+This will allow brands to align campaigns more closely with the type of content viewers are watching, while accessing curated CTV inventory through Nexxen's platform.
+The integration is also intended to improve transparency around ad placements, enabling advertisers to make more informed decisions about the environments in which their campaigns appear.
+“As CTV continues to grow, advertisers have sought clearer insight into the content behind each impression, which is exactly what this partnership is designed to deliver,” said Kenneth Suh, chief business officer, Nexxen.
+He added that combining Gracenote's content intelligence with Nexxen's CTV supply would help advertisers make better-informed decisions about ad environments and improve alignment between campaigns and content.
+Gracenote's metadata to power CTV inventory
+Gracenote will contribute its content identifiers, scheduling data and metadata to help establish a consistent identity for programmes across streaming services.
+The data will enable advertisers to translate campaign requirements into content-based segments that can be used within Nexxen's premium CTV deals.
+“The content intelligence that helps viewers find what to watch also helps advertisers decide where their ads belong,” said Jake Richardson, vice president of partnerships, Gracenote.
+He said the company's standardised metadata and content identifiers provide a foundation for creating content-based segments that advertisers can activate through Nexxen.
+CTV advertising seeks greater targeting precision
+CTV has emerged as a growing advertising channel, but the ability to understand the content surrounding individual ad impressions has remained a challenge compared with traditional television environments.
+The partnership reflects the industry's broader push towards more contextual and content-led advertising, allowing brands to evaluate not just who is watching but also what they are watching.
+Gracenote's content-based segments are now available through Nexxen's SSP.
+Also Read - Snap expands creator ad tools, taps AI-led discovery to scale brand partnerships

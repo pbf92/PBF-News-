@@ -1,0 +1,7 @@
+URL: https://www.tradingview.com/news/tradingview:45456da858f4e:0-xcf-global-received-notice-of-delisting/
+TITLE: XCF Global Received Notice of Delisting
+OUTLET: TradingView
+
+XCF Global Received Notice of Delisting
+On November 18, 2026, Nasdaq notified XCF Global that it would delist the company's common stock after its closing bid price was $0.10 or less for 10 consecutive trading days, triggering Nasdaq Listing Rule 5810(c)(3)(A)(iii). Trading is scheduled to be suspended at the opening of business on November 25, 2026, and Nasdaq plans to file a Form 25-NSE; the company expects the stock to initially trade on the OTC Pink Limited Market under ticker SAFX.
+Original SEC Filing: XCF Global, Inc. [ SAFX ] - 8-K - Nov. 23, 2026

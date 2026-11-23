@@ -1,0 +1,74 @@
+URL: https://internationalfinance.com/markets/anthropic-ipo-claude-parent-beats-spacex-on-cash-raised-not-on-market-value/
+TITLE: Anthropic IPO: Claude parent beats SpaceX on cash raised, not on market value
+OUTLET: https://internationalfinance.com/
+
+The record it did not take is valuation. At its offer price, Anthropic was worth about USD 1.1 trillion on the shares it has outstanding, or about USD 1.5 trillion on a fully diluted basis.
+SpaceX priced at USD 1.77 trillion on its outstanding shares. After the first day of trading the gap was still there.
+Anthropic closed at USD 97.17, a market capitalisation of about USD 1.27 trillion, while SpaceX ended its debut above USD 2 trillion.
+The two prospectuses, filed with the US Securities and Exchange Commission (SEC) five months apart, describe very different companies.
+One is a 24-year-old manufacturer with millions of subscribers and heavy capital spending.
+The other is a five-year-old software company whose revenue is growing more than tenfold a year and whose compute bill runs into the hundreds of billions of dollars. This explainer sets the numbers side by side.
+The offering
+SpaceX made its S-1 public on May 20 and listed on Nasdaq under the ticker SPCX on June 12, 23 days later.
+Anthropic made its S-1 public on October 26 and listed on Nasdaq as ANT on November 19, 24 days later.
+Both brought in more than 20 banks, 21 for SpaceX and 22 for Anthropic, with Goldman Sachs and Morgan Stanley leading the Anthropic syndicate.
+The pricing routes differed. SpaceX skipped the usual price range and set a single fixed price of USD 135 a share for 555.6 million new shares.
+Of those, about 956.4 million were new shares and 23.6 million were sold by the seven co-founders, each selling about 3.4 million shares worth roughly USD 280 million.
+Demand was higher for the second deal. Reports put the SpaceX order book at four to five times the shares on offer. Anthropic’s book was about seven times covered, according to Bloomberg, and retail investors alone asked for close to $100bn of stock.
+Both companies set aside about a fifth of their deals for individual investors. SpaceX had planned up to 30% before strong institutional demand cut the retail share to about 20%.
+How the record was set
+The headline record compares like with like. Before the underwriters’ overallotment option, SpaceX raised USD 75 billion and Anthropic raised USD 81.3 billion, a gap of USD 6.3 billion.
+SpaceX’s banks later exercised their option in full, taking its total to about USD 86 billion. Anthropic’s banks hold a 30-day option over 147 million more shares, which would add about USD 12 billion and take the offering to about USD 93.5 billion if used.
+Anthropic also sold USD 26 billion of non-voting shares at the IPO price to Google, Nvidia, Microsoft, AMD, Broadcom, Micron and TSMC in a private placement that ran alongside the offering. Counting that, the company raised USD 107.3 billion in a single week.
+The share of each company sold was small. SpaceX floated about 4% of its roughly 13.08 billion shares.
+Anthropic floated about 7.5% of its roughly 13.1 billion.
+The two share counts are almost the same, which makes the price per share a direct guide to the difference in value.
+Why the valuation record still belongs to SpaceX
+At USD 135 a share and 13.08 billion shares, SpaceX was valued at USD 1.77 trillion. At USD 83 a share and about 13.1 billion shares, Anthropic was valued at about USD 1.1 trillion.
+The first trading day did not close the gap. SpaceX opened at USD 150 and finished at USD 160.95, up 19%, valuing it above USD 2 trillion.
+Anthropic opened at USD 111.50, 34% above its offer price, which briefly put its fully diluted value near USD 2 trillion.
+It then fell back and closed at USD 97.17, up 17%, for a market capitalisation of about USD 1.27 trillion, or about USD 1.75 trillion fully diluted.
+Both companies priced well above their last private marks.
+Anthropic was valued at USD 965 billion in a private round in May 2026, so its fully diluted IPO value was about 55% higher.
+SpaceX was valued at USD 1.25 trilion when it merged with xAI in February, so its IPO value was about 42% higher.
+A smaller revenue base, far faster growth
+SpaceX’s S-1 reported revenue of USD 18.67 billion for 2025, up 33% from USD 14.02 billion in 2024.
+That figure includes xAI and the social network X, recast after the February merger. Starlink provided USD 11.39 billion of it, about 61%.
+In the first quarter of 2026, the latest period in the filing, revenue was USD 4.7 billion.
+Anthropic’s S-1 reported revenue of USD 4.59 billion for 2025, up from USD 386 million in 2024 and USD 41 million in 2023.
+Its amended filing added the third quarter of 2026, with revenue of USD 16.96 billion, up from USD 1.38 billion a year earlier and USD 11.56 billion in the second quarter. In the first nine months of 2026 Anthropic booked USD 33.2 billion, already more than SpaceX made in the whole of 2025.
+That difference shows up in the multiples. Taking each company’s latest quarter in its filing and multiplying by four, SpaceX priced at about 94 times annualised revenue of USD 18.8 billion. Anthropic, on annualised revenue of USD 67.8 billion, priced at about 16 times on its outstanding shares, or 22 times fully diluted. Investors paid several times more per dollar of sales for SpaceX than for Anthropic.
+Losses, cash and non-cash
+Both companies lose money, but for different reasons and on very different scales.
+SpaceX reported a net loss of USD 4.94 billion for 2025 and an operating loss of USD 2.6 billion. The AI segment, xAI and X, lost about USD 6.4 billion at the operating level, while Starlink earned USD 4.4 billion.
+In the first quarter of 2026, SpaceX lost USD 1.9 billion from operations and USD 4.28 billion overall. Adjusted EBITDA, which strips out items such as depreciation and stock pay, was USD 6.6 billion in 2025 and USD 1.1 billion in the first quarter.
+Anthropic’s net losses look far larger. It reported a net loss of USD 42.0 billion for 2025 and USD 104 billion for the first nine months of 2026, including USD 23.29 billion in the third quarter alone.
+Most of this is an accounting effect. As Anthropic’s private valuation rose, the fair value of its convertible notes, derivatives and SAFEs rose with it, and the increase was booked as a loss.
+Operating results, which exclude those charges, are closer to SpaceX’s.
+Anthropic lost USD 8.06 billion from operations in 2025.
+It made an operating profit of USD 974 milion in the second quarter of 2026, its first in the six quarters shown, then swung to an operating loss of USD 567 million in the third quarter as operating expenses rose to USD 17.5 billion.
+On its own adjusted measure, third-quarter operating income was USD 2.46 billion, a margin of 15%.
+Operating cash flow for the first nine months was positive at USD 6.6 billion.
+Cash and commitments
+The balance sheets show which company had more cash going in. SpaceX had USD 15.9 billion at the end of March 2026, after capital spending of USD 20.7 billion in 2025 and USD 10.1 billionn in the first quarter of 2026 alone. Of that quarterly spending, USD 7.7 billion went on AI.
+Anthropic had USD 131.8 billion of cash and short-term investments at the end of September, made up of USD 95.6 billion in cash and USD 36.3 billion in short-term investments, plus USD 14.8 billion of unused credit.
+With the IPO and the placement, reports put its cash at around USD 210 billion.
+Anthropic does not build much of its own hardware, so its spending appears as commitments rather than capital expenditure.
+The amended filing lists purchase commitments and leases worth about USD 895 billion, nearly all for compute and infrastructure and running to 2045.
+About USD 70.7 billion falls due within 12 months of September 30, close to the USD 79.4 billion the company itself receives from the offering.
+Customers
+SpaceX measures its main business in subscribers. Starlink had about 10.3 million at the end of March 2026, more than double a year earlier, across 164 countries and territories. Average monthly revenue per subscriber fell from USD 86 to USD 66 over the same year.
+Anthropic measures itself in large accounts. At the end of September 2026 it had more than 11,900 customers paying over USD 100,000 a year, up from more than 950 a year earlier.
+More than 1,900 paid over USD 1 million and about 250 paid over USD 10 million.
+Its first filing put net revenue retention at about 900%, meaning existing customers were spending roughly nine times what they spent a year before.
+Revenue per employee was more than USD 6.6 million over the previous 12 months. SpaceX, by comparison, employed 22,621 people.
+Who controls each company
+Neither company gives public shareholders much say. Elon Musk holds about 82.4% of SpaceX’s voting power after the offering through 10-vote Class B shares, while owning less than half of its equity.
+That makes SpaceX a controlled company under Nasdaq rules.
+Anthropic’s structure is different. Its seven co-founders hold 50.1% of the vote on general shareholder matters through a single Class F share.
+Separately, its Long-Term Benefit Trust elects a majority of the board, a feature of its status as a public benefit corporation. Lock-ups differ too.
+Anthropic lets employees and non-founder insiders sell up to 10% of their locked-up shares from the first day, while founders and some large holders are locked up for as long as a year.
+What the numbers say
+Side by side, the two filings show how Anthropic could raise more money while being valued for less. It sold a larger slice of a company with a lower share price, to an order book that was more heavily oversubscribed.
+SpaceX was priced as a profitable satellite business carrying a loss-making AI unit, at a high multiple of slower-growing sales. Anthropic was priced as an AI business with fast-growing sales, a large cash pile and close to USD 900 billion of future compute bills, at a far lower multiple.
+The fundraising record now belongs to Anthropic. The valuation record, on any like-for-like count, still belongs to SpaceX.

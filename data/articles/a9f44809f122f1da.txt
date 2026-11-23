@@ -1,0 +1,45 @@
+URL: https://www.tradingview.com/news/99Bitcoins:a73ee1ec6094b:0-anthropic-claude-ai-predicts-the-top-3-bitcoin-mining-stocks-for-2027/
+TITLE: Anthropic Claude AI Predicts the Top 3 Bitcoin Mining Stocks for 2027
+OUTLET: TradingView
+
+Anthropic Claude AI Predicts the Top 3 Bitcoin Mining Stocks for 2027
+Bitcoin mining stocks have long served as leveraged proxies for Bitcoin’s price, amplifying both gains and losses. As 2026 winds down with BTC trading near $64,000–$65,000, the sector faces a pivotal year ahead. However, Anthropic’s Claude AI predicts a boom in 2027 and identifies the three BTC mining stocks most likely to perform best.
+Efficiency, power access, balance-sheet strength, and the ability to diversify into high-performance computing (HPC) and AI will likely separate the winners from the rest in 2027.
+(SOURCE: Claude AI Predicts Which BTC Mining Stock Will Perform Best in 2027)
+What is the Current State of the Bitcoin Mining Sector?
+The industry is under significant pressure. Hashprice has hovered near multi-month lows (around $30–$35 per PH/s/day in recent readings), while network hashrate continues to climb past previous records.
+Many public miners are operating near or below cash-cost breakeven at current Bitcoin prices. In response, a clear strategic shift is underway: a large portion of the sector is converting or dual-purposing capacity toward AI and HPC hosting, which currently offers higher and more stable margins than pure Bitcoin mining.
+Power availability, grid flexibility requirements, and access to low-cost energy remain critical competitive advantages. The next Bitcoin halving (expected around 2028) adds further urgency for operators to improve efficiency or diversify revenue streams.
+Claude AI Predicts BTC Mining Stocks for 2027 But How Have They Performed in 2026?
+Matt Corallo@TheBlueMatt
+While everyone was busy selling their Bitcoin to invest in the Anthropic IPO, Bitcoin showed huge momentum towards mining security and decentralization:
+(a) Foundry announced testing of Sv2
+(b) MARA mined their first block using Sv2
+(c) Luxor announced they now supported Sv2
+(d)…
+Nov 16, 2026
+2026 has been a difficult year for the group. Most major miners are down substantially year-to-date and over the trailing twelve months, with declines commonly ranging from 20% to over 50% depending on the name.
+A lower Bitcoin price, compressed mining margins, rising network difficulty, and broader risk-off sentiment in crypto equities drove the underperformance.
+Stocks that leaned more aggressively into AI/HPC narratives (such as IREN and certain peers) sometimes held up better on a relative basis during parts of the year, while pure-play or less-diversified miners faced steeper pressure.
+Volatility remained extremely high throughout, with sharp rallies on Bitcoin upswings quickly erased during downturns.
+EXPLORE: 9+ Best High-Risk, High-Reward Crypto to Buy in 2026
+Claude AI Predicts the Top 3 BTC Mining Picks for 2027
+1. Riot Platforms (RIOT)
+Riot benefits from substantial power capacity in Texas, a relatively solid operational footprint, and ongoing efforts to expand both mining efficiency and data-center leasing. Its scale and strategic positioning in a key energy market give it optionality.
+Bullish 2027 price target: $45–$55
+(SOURCE: Yahoo Finance)
+MARA Holdings (MARA)
+MARA remains one of the largest pure-play Bitcoin miners by hashrate and has maintained a significant Bitcoin treasury. The company has also begun expanding into AI compute. In a sustained Bitcoin recovery, its leveraged exposure and large production capacity could drive outsized gains.
+Bullish 2027 price target: $22–$28
+CleanSpark (CLSK)
+babystep0227@LamborZ1230
+$CLSK I haven’t posted this ticker in a long time, so I figured I should give an update on this chart.
+It was a wrong count — same as many of my other mistakes — completely the opposite. Good thing is I didn’t lose too much on this particular ticker.
+Moving forward, the giant… https://t.co/scDYvBMxrN pic.twitter.com/X39LRijx9n
+Nov 16, 2026
+CleanSpark has focused on low-cost energy strategies and steady hashrate growth. It has started exploring AI leasing while remaining more mining-centric than some peers. Its operational discipline and expansion potential position it well for a rebound year.
+Bullish 2027 price target: $18–$24
+These targets assume a constructive Bitcoin environment in 2027 (a recovery toward or beyond previous cycle levels), improving hash price, successful execution on efficiency and diversification, and a broader risk-on tone in crypto equities.
+Mining stocks remain highly volatile and sensitive to Bitcoin’s price, energy costs, and capital-market conditions. These are speculative outlooks, not guarantees.
+DISCOVER: 16+ New and Upcoming Binance Listings in 2026
+Follow 99Bitcoins on X For the Latest Market Updates, and Subscribe on YouTube For Daily Expert Market Analysis
