@@ -1,0 +1,40 @@
+URL: https://aimmediahouse.com/pharma/why-big-pharma-should-worry-about-anthropic
+TITLE: Why Big Pharma Should Worry About Anthropic
+OUTLET: AIM Media House
+
+The brief
+- Anthropic's Claude is being used by pharmaceutical companies to evaluate development plans while Anthropic is also developing its own drug programs.
+- GSK's Chief Scientific Officer views Anthropic as a competitor due to its dual role in supplying technology and developing medicines.
+- Anthropic has collaborations with organizations like Bristol Myers Squibb and BigHat Biosciences, integrating Claude into scientific workflows for drug development.
+Big Pharma is buying technology from a company that increasingly wants to do the same work as its customers. Anthropic’s Claude helps pharmaceutical researchers evaluate development plans, while Anthropic itself owns experimental drug programs and is expanding its involvement in laboratory research.
+The brief
+- Anthropic's Claude is being used by pharmaceutical companies to evaluate development plans while Anthropic is also developing its own drug programs.
+- GSK's Chief Scientific Officer views Anthropic as a competitor due to its dual role in supplying technology and developing medicines.
+- Anthropic has collaborations with organizations like Bristol Myers Squibb and BigHat Biosciences, integrating Claude into scientific workflows for drug development.
+GSK Chief Scientific Officer Tony Wood has already put a name to that relationship. He views Anthropic “as another competitor,” he told Reuters.
+That competition is emerging as drugmakers report results from their own AI investments. Scientists at GSK, Bristol Myers Squibb, Novartis, Lilly, Novo Nordisk, AstraZeneca and Sanofi described shorter discovery timelines and applications extending into molecule selection and safety assessment, with early-development time savings reaching 50% in some cases.
+Anthropic’s ambition reaches considerably further. “I believe that AI could cure most major diseases in the next 5-10 years,” CEO Dario Amodei wrote in September.
+Its customers are now weighing the immediate benefits of that technology against the prospect of another drug developer entering their markets.
+Claude Is Already Inside Drug Development
+Anthropic’s October research update describes collaborations with six organizations, including Bristol Myers Squibb, BigHat Biosciences and Generate Biomedicines. These projects put Claude into scientific workflows where researchers choose experiments and assess the results.
+At BigHat, Claude connected to the company’s laboratory data system, Reccy, and proposed changes to two antibody fragments. Scientists made and tested approximately 1,010 variants over ten weeks; the strongest versions bound their targets more than ten times more tightly, according to Anthropic’s account.
+At Bristol Myers Squibb, Claude helps assess clinical development options and trial prospects. The companies plan to expand the work in 2027.
+Anthropic also acquired Mithril Medicine, bringing two rare muscular-dystrophy programs in-house. Founder Cody Tranbarger used Claude to coordinate work with 11 external laboratories, and Anthropic said one potential treatment reached encouraging mouse results in under 18 months. Human trials could begin as early as late 2028 if the candidates continue to hold up.
+The company therefore has a stake in both supplying drug developers and developing medicines itself.
+Pharma’s Defense Starts With Its Data
+Established drugmakers are drawing boundaries around that relationship. Novo Nordisk and Sanofi said that they do not provide proprietary data to frontier-model companies for training.
+At Novartis, the argument for a competitive advantage includes more than 150 petabytes of research data. Its Data42 platform connects evidence across diseases and programs, helping scientists investigate whether a new safety finding resembles something encountered before.
+Fiona Marshall, President of Biomedical Research at Novartis, described using those historical findings to inform decisions about stopping or continuing programs. That makes the underlying evidence valuable at precisely the point where a model’s prediction becomes an investment decision.
+The company is also documenting operational gains. Its AI-enabled trial-site selection shortened enrollment by six months on one program. Its Intelligent Decision System runs thousands of planning simulations in minutes, with executives reporting enrollment forecasts 50% more accurate than the previous process.
+Novo Nordisk reported reducing its molecule design, make and test process from around eight cycles to three, while shortening each cycle from eight weeks to four.
+These are capabilities the incumbents are building while their technology partners expand into drug development.
+The Competition Still Has to Produce Medicines
+Anthropic is not alone in pursuing both roles. Demis Hassabis’s Isomorphic Labs raised $5 billion to expand its drug-design engine and pipeline while working with pharmaceutical partners including Lilly, Novartis and Johnson & Johnson.
+But faster discovery can also increase pressure on laboratory and clinical-testing capacity. Finding more candidates creates additional decisions about which ones deserve the expense and time of development.
+Vas Narasimhan, CEO of Novartis and an Anthropic board member, has challenged expectations that AI will cure cancer within five to ten years. His forecast is that, within a decade, AI could help reduce average drug-development timelines from 12 years to eight.
+For pharmaceutical companies, Anthropic’s emerging pipeline creates a reason to watch its progress closely. The scientific standard remains the same for both sides: candidates must demonstrate that they work in patients.
+Aliza Apple, who leads Lilly TuneLab, offered Reuters a direct response to ambitions of curing all disease: “It would be great for them to cure one, and then let’s talk about the rest.”
+Read next
+Chaos Predictions — every Monday
+Where enterprise AI is heading next, read from the week’s deployments across banking, pharma, manufacturing and retail.
+Free. One email every Monday. Unsubscribe in one click.

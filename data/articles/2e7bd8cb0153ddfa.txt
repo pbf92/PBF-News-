@@ -1,0 +1,26 @@
+URL: https://cryptobriefing.com/thomas-nagel-anthropic-ai-consciousness/
+TITLE: Philosopher Thomas Nagel calls Anthropic’s AI consciousness concerns ‘just ridiculous’
+OUTLET: Crypto Briefing
+
+The author of 'What Is It Like to Be a Bat?' pushes back on a company that listed model sentience as an investor risk
+Anthropic told prospective investors that its AI might one day deserve moral consideration. One of the most famous living philosophers of mind thinks that idea doesn’t hold up.
+Thomas Nagel, best known for his 1974 essay “What Is It Like to Be a Bat?”, dismissed the notion that Anthropic’s Claude models could be conscious in an interview with WIRED published on November 18, 2026. His verdict was blunt, and it lands at an awkward moment for a company whose public listing paperwork treats the question as a business risk.
+A risk factor nobody else wrote down
+Anthropic’s prospectus does something unusual for a tech offering. According to MIT Technology Review, the company flagged the possibility that AI could be conscious or sentient as a risk factor for investors.
+The reasoning was specific. Because of what Anthropic called “the way we approach model sentience and moral status,” it said it might adopt more rules and restrictions than its rivals to ensure its models are treated well.
+Put more simply, Anthropic told shareholders that taking AI welfare seriously could cost money. Competitors that ignore the question would not carry that burden.
+MIT Technology Review characterized Anthropic as taking the possibility more seriously than any other AI company. Most rivals tend to wave the idea off entirely.
+The disclosure sits inside a risk factors section that runs approximately 80 to 93 pages.
+AI, tech, and the markets they move—in one daily briefing.
+Daily. Free. Join 34,000+ readers across crypto, finance, and policy.
+Nagel’s case against machine minds
+Nagel was not impressed. He called the idea of AI consciousness
+“just ridiculous.”
+His argument rests on two pillars. First, the fluent language that models like Claude produce is not evidence of subjective experience. A system can describe feelings convincingly without having any.
+Second, Nagel argues that consciousness depends on biological foundations that silicon-based systems lack. In his view, the physical conditions required for experience cannot be replicated by current AI systems.
+That position is consistent with the rest of his career. The bat essay argued that there is something it is like to be a conscious creature, a subjective inner perspective that no amount of outside description fully captures. Nagel’s point now is that a chatbot saying it has an inner life is a description, not the inner life itself.
+He also took aim at Anthropic’s practical choices. Nagel criticized the company’s efforts around “model welfare” and its push to encourage Claude to “think for itself,” arguing these could lead the public to grant moral consideration to systems that are not conscious. He went as far as describing Anthropic’s hiring for model welfare work as potentially criminal.
+Why the timing stings
+Nagel’s comments carry extra weight because of when they arrived. His interview came as the Berggruen Prize for Philosophy & Culture, which he won, was announced around mid-November 2026.
+The remarks have since kicked off a lively debate among philosophers on social media. Voices on both sides have weighed in, with much of the argument centering on Nagel’s claim that consciousness requires a biological substrate.
+Disclosure: This article was edited by Diego Almada Lopez. For more information on how we create and review content, see our Editorial Policy.

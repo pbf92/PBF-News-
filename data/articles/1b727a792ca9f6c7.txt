@@ -1,0 +1,64 @@
+URL: https://ppc.land/three-of-five-google-photos-holiday-updates-were-already-available/
+TITLE: Three of five Google Photos holiday updates were already available
+OUTLET: PPC Land
+
+Google today published a list of five Google Photos features pitched at Thanksgiving and the end-of-year holidays, and most of the list is not new. Three of the five items - Gemini carrying out multi-step requests, a customizable Collections tab and the Fujifilm for Google Photos Print Store - were in use by at least some people before the post went up. What is new is narrower: 12 Remix templates that turn photos into scrapbook-style holiday cards or pastel illustrations, and a filter that sorts shared albums by the people and pets in them.
+In Short
+Google listed five Google Photos features for the holidays, but only the 12 new Remix templates and a people-and-pets filter for shared albums appear to be new. The Gemini, Collections and print-store items were already rolling out between late August and late October, some of them limited to the US or to paying subscribers. The post sets no new prices or rules, so the most recent eligibility limits on record are the ones Google published in September and November.
+A short list, mostly from earlier in the year
+The post, published on Google's Keyword blog under the Photos category without a byline, runs to about 170 words. It introduces the five items as "recent Google Photos updates" that, in Google's words, help people "spend less time managing memories and more time making them." It gives no countries, platforms, age limits or subscription requirements for any item, with one exception: the "On this device" shortcut in the Collections tab is named as an Android feature.
+Which of the five are new, then? Only two. The format is not new either: on September 24, 2026, Google ran a similar five-item list, "5 Google Photos updates to make the most of summer memories," written by Simon Li. That earlier post carried footnotes for each feature. Today's does not.
+What is new
+Twelve Remix templates
+Remix is the Google Photos tool that, according to the product's help page, reworks existing photos through AI-powered templates; a separate video version handles relighting, background replacement and stylization. Today's post adds 12 templates and names two styles: "scrapbook-style holiday cards" and "pastel illustrations." It does not list the other ten.
+The previous batch, 15 templates announced on September 24, covered red carpet scenes, birthday cards and photo booth shots. Google limited that batch to Android and iOS users over 18 in what it called "select countries", without naming them. Whether the same limits apply to the holiday templates is not stated. Google's generative image work has been moving into Photos for some time: PPC Land reported in October 2025 that the Nano Banana image model would reach Google Photos after Search and NotebookLM, though today's post does not name the model behind Remix.
+A people-and-pets filter for shared albums
+The second new item lets people narrow a shared album to the photos of one person or animal. Google describes the interaction in one sentence: "Tap any face in the top carousel to instantly see photos of yourself, loved ones, or pets."
+The feature had surfaced in code weeks earlier. On October 7, Android Authority reported strings for a face filter and a "People & pets" list inside albums in Google Photos version 7.96.0, along with an option for unnamed people and a control to clear filters. A follow-up on October 14 showed the filter working in screenshots but said the feature was still in development, with no rollout date. Today's post is the first time Google has presented it as available. The filter depends on the app's existing face grouping, which applies facial recognition to sort a library by the people and animals in it. Google's wording refers to shared albums only; the teardown described albums in general.
+What was already available
+Gemini running Google Photos tasks
+The first item is the most ambitious and the least new. Google's example prompt reads: "Make a video of our Thanksgiving celebration, email the link to my family, and include a quick recap of the day." That is three actions across two apps - video creation in Photos, then an email - from one instruction, the kind of chained work associated with agentic AI.
+The link in today's post points to Google's November 17 announcement that tasks in Gemini went free in six countries: the US, Japan, South Korea, Canada, Australia and India. That November 17 post, by Josh Woodward, does not mention Google Photos. The Photos connection dates to September 3, 2026, when Gemini Spark gained control of Google Photos. According to 9to5Google, the rollout went to Google AI Pro and Ultra subscribers in the US over the following weeks. PetaPixel reported that it worked only in English and only through the Gemini mobile app.
+Paid access came first. PPC Land reported on October 13 that the tasks toggle in the Gemini app was offered to AI Pro and Ultra subscribers, with AI Pro priced at $19.99 a month. Earlier, Gemini Spark was withheld from users in the EU and the UK even as Google opened it in more than 160 other countries. Today's post does not say whether people on the free tier in the six countries can direct Gemini to edit, compile or share their Photos library, or only use tasks elsewhere.
+A Collections tab that can be rearranged
+The Collections tab change was rolling out in late October. According to Digital Trends, version 7.97 on Android added a "Pinned" carousel with Favorites, Screenshots and Trash as defaults, and let users hide or reorder sections such as On this device, Albums, People & pets, Wardrobe, Places and Documents. The redesign was switched on from Google's servers, so updating the app did not guarantee it would appear. PhoneArena reported on October 29 that the redesign also came with version 7.98 on iOS; Digital Trends described it as Android only. Today's post names a platform only for "On this device", which it lists as an Android option, and describes pinning and hiding without one.
+A print store run by Fujifilm
+The fifth item is the oldest. Fujifilm announced the Fujifilm for Google Photos Print Store on August 31, 2026, saying the integrated storefront had begun rolling out to US users at the end of that month, for both existing and new Google Photos users, with prints, frames, décor and gift items, and no need to upload photos manually. PetaPixel reported that Fujifilm took over storefront management, customer support, lifecycle marketing, payments and shipping, and that the store would start appearing in Europe in October. Today's post lists "photo books, blankets, mugs, and more" and links to a Google Photos community thread rather than to Fujifilm.
+How the five items work, according to Google
+Google's post describes each item in one line. Read together with earlier documentation, the record is as follows.
+- Gemini tasks: a single prompt can chain actions, such as making a video, emailing a link and writing a recap. When the capability arrived on September 3, 9to5Google reported that Gemini saved edits as a new copy, kept new albums private by default and asked permission before sharing albums or sending emails.
+- Remix templates: 12 new templates turn photos into scrapbook-style holiday cards or pastel illustrations. No steps, limits or template names beyond those two are given.
+- Shared album filter: a carousel of faces sits at the top of a shared album; tapping one shows only the photos of that person or pet.
+- Collections tab: favorite albums and memories can be pinned to the front and unused sections hidden. On Android, "On this device" gives access to local media.
+- Print store: photo books, blankets, mugs and other products are ordered through the Fujifilm for Google Photos Print Store.
+Why a photo app list matters to marketers
+Google Photos is not an advertising product, but two of today's five items touch on the questions that matter to the industry: what Google's assistant can do with personal data, and where commerce appears inside Google's apps.
+The Gemini example moves a family's photos and an email through one request. That sits next to a change PPC Land documented on October 23: Google's privacy policy, effective October 16, now lets data from Gmail, Drive and Google Photos shape ads for people who make those services available to Search or Gemini, five years after Google pledged not to use them for ads. Today's post says nothing about ads or data use. Still, a personal AI agent that compiles, edits and sends family pictures depends on the same link between Photos and Gemini that the policy addresses.
+The print store is the commercial piece. A storefront operated by Fujifilm sits inside the app, with Fujifilm, according to PetaPixel, running the lifecycle marketing and using Google Photos' intelligence to suggest prints. Photos has been edging toward shopping in other ways too: the Wardrobe feature PPC Land covered in May catalogs clothing in a library and offers virtual try-on. And the timing fits a wider push, coming a week after Google steered holiday hotel, dinner and ticket bookings into AI Mode.
+What the post leaves out is short to list but matters: countries, platforms, age limits and subscription tiers for every item; the remaining ten Remix template styles; whether the album filter works outside shared albums; and whether free Gemini users can act on their Photos library.
+Key facts
+- Source: "Organize and share your holiday memories with these five updates in Google Photos.", Google Keyword blog (News from Google), Photos category, no byline, dated November 23, 2026. URL: https://blog.google/products-and-platforms/products/photos/google-photo-tools-holiday-season-2026/
+- Items listed: Gemini multi-step tasks; 12 new Remix templates; people and pets filter for shared albums; Collections tab pinning and hiding, with "On this device" on Android; Fujifilm for Google Photos Print Store
+- New in this post: the 12 Remix templates and the shared album filter
+- Pages linked from the post: Google's "Tasks in Gemini" announcement of November 17, 2026 (Josh Woodward); the Google Photos help page on creations; a Google Photos community thread welcoming users to the Fujifilm store
+- Previous roundup: "5 Google Photos updates to make the most of summer memories," Simon Li, September 24, 2026 (Gemini Spark, Wardrobe, Moods, 15 Remix templates, Markup)
+- App versions in earlier reports: 7.96.0 (album face filter strings, October 7); 7.97 Android and 7.98 iOS (Collections redesign, late October)
+- Print store: Fujifilm press release dated August 31, 2026; US rollout from the end of August 2026
+Timeline
+- October 13, 2025: Google says Nano Banana will come to Google Photos after Search and NotebookLM
+- April 29, 2026: Google announces Wardrobe in Google Photos
+- July 30, 2026: Gemini Spark opens in more than 160 countries, excluding the EU and UK
+- August 31, 2026: Fujifilm announces the Fujifilm for Google Photos Print Store, rolling out in the US from the end of August
+- September 3, 2026: Google Photos control arrives in Gemini Spark for Google AI Pro and Ultra subscribers in the US
+- September 24, 2026: Google's summer list adds 15 Remix templates, for users over 18 in select countries
+- October 7, 2026: Android Authority finds a people-and-pets album filter in Google Photos 7.96.0
+- October 13, 2026: Gemini app gains a tasks toggle for AI Pro and Ultra subscribers
+- October 14, 2026: Android Authority shows the album filter in development, with no rollout date
+- October 16, 2026: Google's revised privacy policy lets connected Gmail and Photos data shape ads
+- Late October 2026: Collections tab redesign rolls out with version 7.97 on Android
+- November 16, 2026: Google steers holiday bookings into AI Mode
+- November 17, 2026: Tasks in Gemini go free in six countries
+- November 23, 2026: Google publishes its five-item holiday list for Google Photos
+Related PPC Land coverage
+- Gemini's $19.99 task mode goes free in 6 countries - the November 17 rollout that today's Gemini item links to.
+- Gemini app t

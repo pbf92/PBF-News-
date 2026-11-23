@@ -1,0 +1,19 @@
+URL: https://rockstarintel.com/new-gta-vi-update-01-002-002-patch-notes-released/
+TITLE: GTA VI Update 01.002.002 Patch Notes Released
+OUTLET: RockstarINTEL
+
+On November 23rd, Rockstar Games released their first post-launch patch for Grand Theft Auto VI on PlayStation 5 and XBOX Series X|S. Following a staggered global rollout, the company have have published the patch notes for everything that’s included in the small, downloadable patch.
+The first update published since the game’s release contains a number of bug fixes including weather not working correctly. Let’s take a look at everything from version 1.0.2.2 (XBOX) and 01.002.002 (PS5) patch notes below via Rockstar Support:
+- Fixed several issues that caused the game to crash
+- Fixed an issue that resulted in the weather not changing for extended periods
+- Fixed an issue that resulted in the game not autosaving correctly
+- Fixed several issues that resulted phone calls not triggering correctly including those that progressed the story or unlocked mission content
+- Fixed an issue that resulted in the players being unable to lose their Wanted Level
+- Fixed an issue that resulted in the player being unable to use the deadlift bar in the Gym
+- Fixed that resulted in partners not handing over bags so that players could sell them to fences
+The update clocked in at at 1.6GB on XBOX Series X|S and 603.8MB on PS5 (varies a little per region). Whilst the total game install size did not increase. Also, this update did not patch the 60FPS glitch possible on XBOX currently. We’ll have to wait and see if Rockstar end up pushing XBOX to resolve this.
+Which of these fixes are you most happy with? Let us know down in the comments section below.
+In other GTA VI news, Rockstar made the pre-order bonus available to purchase on Sunday; more info here.
+Looking for some Grand Theft Auto VI guides? We show you how you can unlock the exclusive Venturas Blvd Elegy here. Plus, check out the best settings to use when playing the game.
+You can order your PS5 or XBOX copy of Grand Theft Auto VI with this link. Using the link to order the game will help support this website as we’ll earn a small commission. Thank you!
+For more news on GTA VI, stay tuned to RockstarINTEL and sign up to our newsletter for a weekly round-up of all things Rockstar Games delivered straight to your inbox.

@@ -1,0 +1,13 @@
+URL: https://www.vice.com/en/article/gta-6-patch-notes-update-phone-call-fix/
+TITLE: GTA 6 Update Fixes Phone Call Bugs That Blocked Story Progress
+OUTLET: VICE
+
+The November 23 Grand Theft Auto VI update fixes a bug that could leave players waiting for a phone call they needed to continue the story. In the GTA 6 patch notes, Rockstar says it has fixed issues with calls that unlock mission content. Here’s what the phone call bug did and what the new update changes.
+GTA 6 Patch notes Explained – what was the Phone Call Bug?
+Rockstar has released the full GTA 6 patch notes for update 01.002.002 today, and revealed it’s fixed a game-breaking bug related to the game’s phone feature. Some phone calls in Grand Theft Auto VI weren’t triggering when they were supposed to during the campaign. While a missed call might sound like a small issue, certain calls are used to advance the story or unlock missions.
+Videos by VICE
+If one of those calls failed to come through, the next part of the story or mission could stay locked. Rockstar says it fixed several issues with phone calls in the November 23 patch. The studio didn’t name the affected characters or missions, so it’s unclear which parts of the game were most likely to leave players stuck.
+The patch notes also don’t say whether a missing call will come through automatically when you load an affected save.
+Which GTA 6 Update Fixes the Phone Call Bug?
+The fix is part of GTA 6 update 01.002.002 on PS5 and 1.0.2.2 on Xbox Series X|S. If you’ve been waiting on a call to start your next mission, check that you’ve installed the update before loading your save again.
+The November 23 patch also fixes a separate autosave bug and several issues that could cause the game to crash. Rockstar lists those alongside the phone call fixes in its launch update notes.

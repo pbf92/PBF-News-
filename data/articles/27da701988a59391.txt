@@ -1,0 +1,17 @@
+URL: https://www.polygon.com/gta-6-update-today-ver-01002002-where-is-ps5-xbox-download-size-patch-notes/
+TITLE: GTA 6's First Official Post-Release Update Has A Catch
+OUTLET: Polygon.com
+
+It hasn't quite been a whole week since the release of Grand Theft Auto 6, but the game already has an update to download. Here's what you need to know about developer Rockstar Games' update for the open-world crime epic and how it differs between PlayStation 5 and Xbox Series X.
+What is the new GTA 6 update on Nov. 23?
+The official update is version 01.002.002, and its size differs depending on console: on PS5, it's 603.8 MB, whereas the Xbox version is much larger at 1.6 GB. However, there are two major things to note about the update.
+Much like the pre-launch updates, this new patch will roll out in stages throughout Nov. 23. So if you log into the game, check to see if there's something to download — but don't fret if nothing is there yet. Your update should appear or start downloading automatically at some point on Monday.
+As for what's in the update, here are Rockstar's official patch notes:
+- Fixed several issues that caused the game to crash
+- Fixed an issue that resulted in the weather not changing for extended periods
+- Fixed an issue that resulted in the game not autosaving correctly
+- Fixed several issues that resulted phone calls not triggering correctly including those that progressed the story or unlocked mission content
+- Fixed an issue that resulted in the players being unable to lose their Wanted Level
+- Fixed an issue that resulted in the player being unable to use the deadlift bar in the Gym
+- Fixed that resulted in partners not handing over bags so that players could sell them to fences
+The weather system change and the autosave tweaks are of particular note. Rockstar made a big deal about the game's dynamic weather system prior to launch, but fans were confused to see mostly static Leonida. And the game's autosave feature has sadly cost players many hours of lost time due to its infrequency. Hopefully players will have a better experience now!

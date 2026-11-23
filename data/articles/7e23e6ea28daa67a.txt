@@ -1,0 +1,16 @@
+URL: https://www.tradingview.com/news/stockstory:595b39452094b:0-why-texas-instruments-stock-is-trading-up-today/
+TITLE: Why Texas Instruments stock is trading up today
+OUTLET: TradingView
+
+Why Texas Instruments stock is trading up today
+What happened?
+Shares of analog chip manufacturer Texas Instruments TXN jumped 10% in the afternoon session after Cantor Fitzgerald upgraded the stock to Overweight from Neutral and raised its price target to $385 from $340, amid a broader rally in semiconductor stocks.
+CNBC reported that Cantor Fitzgerald made the upgrade after meeting with Texas Instruments' management, saying it was impressed and reiterating a bullish stance on analog chips. CNBC separately reported that broader U.S. equities and chipmakers surged after Nvidia reinstated Jensen Huang as CEO, reviving the artificial intelligence trade. According to that report, the VanEck Semiconductor ETF rose more than 16%, while the S&P 500 and Nasdaq Composite soared 5.1% and 6.9%, respectively.
+What is the market telling us
+Texas Instruments’s shares are somewhat volatile and have had 14 moves greater than 5% over the last year. But moves this big are rare even for Texas Instruments and indicate this news significantly impacted the market’s perception of the business.
+The previous big move we wrote about was 3 days ago when the stock dropped 6.6% on the news that AI-linked shares continued to pull back. Anthropic slid more than 10% following its debut, failing to revive confidence in the sector's spending boom.
+Investors had looked to Anthropic's record $81.3 billion initial public offering and Nvidia's quarterly earnings beat under interim CEO Colette Kress to steady sentiment following Jensen Huang's resignation, CNBC reported. Instead, Anthropic's retreat toward its $83 offer price echoed Seaport Research warnings, covered by CNBC, that its valuation demands much faster revenue growth.
+Separately, Federal Reserve Governor Lisa Cook warned against delaying rate hikes ahead of an expected December increase. Compounding the concerns, President Donald Trump threatened penalties on overseas U.S. data-center builds as new Commerce Department export-licensing rules weighed on chipmakers.
+Texas Instruments is up 63.3% since the beginning of the year, but at $289.84 per share, it is still trading 12.8% below its 52-week high of $332.28 from June 2026. Investors who bought $1,000 worth of Texas Instruments’s shares 5 years ago would now be looking at an investment worth $1,505.
+ALSO WORTH WATCHING: Nvidia’s Quiet Partner. Nvidia’s chips cost a hundred grand. The connectors that make them work cost even more. One company makes them all.
+Every AI server needs specialized infrastructure the chip companies don’t make. High-speed cables. Power connectors. Thermal sensors. This 90-year-old company built a monopoly on it. The AI boom just started. This stock is still flying under the radar.

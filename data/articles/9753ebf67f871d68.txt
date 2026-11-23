@@ -1,0 +1,20 @@
+URL: https://247wallst.com/investing/2026/11/23/stock-market-today-dow-sp-500-and-nasdaq-surge-as-nvidia-leads-a-major-ai-rebound/
+TITLE: Stock Market Today: Dow, S&P 500, and Nasdaq Surge as Nvidia Leads a Major AI Rebound
+OUTLET: 24/7 Wall St.
+
+Stock Market Today: Dow, S&P 500, and Nasdaq Surge as Nvidia Leads a Major AI Rebound
+This post may contain links from our sponsors and affiliates, and Flywheel Publishing may receive compensation for actions taken through them.
+Buyers are coming back to the artificial intelligence stocks that led last week’s rout. Shares of NVIDIA (NASDAQ:NVDA | NVDA Price Prediction) are up nearly 9% in premarket trading, and ETFs tracking the S&P 500, the Nasdaq-100, and the Dow are all pointing sharply higher. The bounce follows a Friday drop that left the Dow and S&P 500 more than 10% below their record highs. The Nasdaq Composite finished about 18% off its peak.
+Premarket Snapshot: Every Major Index Points Higher
+Nasdaq Composite cash prices come at the 9:30 a.m. open. The Nasdaq-100 ETF above is the closest premarket stand-in.
+Why Nvidia’s Bounce Is Lifting the Whole Market
+This selloff has put Nvidia at its center. It has been under pressure since its chief executive resigned, and Colette Kress now serves as interim CEO[2]. Today’s rebound also follows reports that President Trump urged the board to rehire Huang.
+The results have held up through all of this. Fiscal third-quarter revenue rose 103%[3] to $116 billion, and the company forecast fourth-quarter sales to $130 billion. Even with today’s gain, shares are down about 39% over the past month.
+The same buying is reaching the rest of the AI supply chain. AMD (NASDAQ:AMD) is up about 5%. Newly public Anthropic (NASDAQ:ANT) has added about 4% after falling 9% on Friday following its IPO. The chip names get the headlines, but the companies that keep the data centers running — power, cooling, and networking — offer a quieter way to play this expansion, which we broke down in a free report on seven AI infrastructure stocks that aren’t chipmakers.
+Oracle (NYSE:ORCL) is up about 5% after reaffirming its target of more than $30 billion in fiscal 2029 free cash flow. That reassurance matters because Oracle shows the spending fear most clearly. Last quarter it spent $28.5 billion[4] on capital projects, which pushed free cash flow to negative $5.4 billion.
+Zscaler (NASDAQ:ZS) is the biggest mover in the group, up roughly 13%. A larger cybersecurity rival agreed to buy it in an all-stock deal valued at about $43.9 billion.
+What This Rally Has to Prove
+Small caps are rising with tech, which points to a broad relief bid. The VIX says a more cautious story. Its last close was near 28[1], up 52% in a week and inside the 25 to 30 high-fear zone. Protection still costs traders a premium. A one-day bounce leaves the bigger question open: whether AI spending will turn into enough earnings to justify it.
+Flash PMI, PCE Data, and a Short Holiday Week Will Test the Bounce
+The S&P Global November flash PMI comes out today. On Wednesday, the PCE inflation report will shape expectations for Federal Reserve rate decisions. Markets are closed Thursday for Thanksgiving, and Friday’s session ends at 1:00 p.m. With so few trading days, these reports will play a big part in deciding whether today’s bounce lasts.
+Contact [email protected] for any questions or corrections.

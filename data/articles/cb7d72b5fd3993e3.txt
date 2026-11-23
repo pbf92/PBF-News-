@@ -1,0 +1,24 @@
+URL: https://247wallst.com/investing/2026/11/23/nvidia-poised-for-biggest-one-day-gain-in-history-of-stock-market-as-jensen-huang-returns/
+TITLE: Nvidia Poised For Biggest One Day Gain In History Of Stock Market As Jensen Huang Returns
+OUTLET: 24/7 Wall St.
+
+Nvidia Poised For Biggest One Day Gain In History Of Stock Market As Jensen Huang Returns
+This post may contain links from our sponsors and affiliates, and Flywheel Publishing may receive compensation for actions taken through them.
+Jensen Huang co-founded NVIDIA (NASDAQ:NVDA | NVDA Price Prediction) and became the face of the AI boom. Less than two weeks ago, he quit after disclosures about his personal conduct, and AI stocks fell hard in the days after he left. On Monday, the board unanimously reinstated him as CEO and president, effective immediately.
+The market responded right away. NVIDIA traded at $159.81 in early trading, up 27.3% from Friday’s close of $125.53.
+A Record Measured in Dollars
+NVIDIA has 24.1 billion shares outstanding. At that share count and price, the stock had added about $828 billion in market value. The current one-day record belongs to Microsoft (NASDAQ:MSFT), which gained roughly $450 billion on July 30, 2026, according to Bloomberg data.
+The record applies to dollar value only. Smaller stocks have posted far bigger percentage jumps, and NVIDIA’s gain stands out because of how large the company is. It also becomes official only at the closing bell. If NVIDIA ends the day with more than about $450 billion in added value, the title is its.
+What Huang Said Before the Board Reversed Course
+On November 17, Huang released his first public statement since quit, as reported by CBS News. “I did not live up to the standards expected of everyone at Nvidia, and I have made serious mistakes in my personal life,” Huang said. He added, “If the board of directors decides that my return is in the best interest of our shareholders, our employees, the company and America, I would be honored to answer these calls and return as CEO.”
+On that day’s earnings call, Chairman Harvey Jones said the board “does not intend to reinstate Jensen as CEO.”[1] Meanwhile, a petition support Huang’s return gathered more than 190,000 signatures, including several thousand from NVIDIA employees. Six days later, the board changed its mind.
+Why One Executive Moves Hundreds of Billions
+Friday’s close was about 43% below the $221.97 the stock fetched on October 21. That slip came even as the business kept growing. Under interim CEO Colette Kress, NVIDIA’s third-quarter filing showed revenue of $115.8 billion[2], up 103.2% from a year earlier. Adjusted EPS of $2.68[2] exceeded the $2.47 consensus. Management guided fourth-quarter revenue to $130.0 billion[2] and raised its fiscal 2028 growth outlook to about 75%[1].
+So the sell-off was about leadership, since the results held up. Huang’s relationships with suppliers carry real value. On 24/7 Wall St.’s AI Investor Podcast, hosts pointed to his trips to Korea to meet memory chief executives, which helped lock in a long-term supply deal that “might be worth, you know, tens of billions of dollars to Nvidia.” In August, Huang said, “Now, compute is revenue.”[3] Even after Monday’s jump, the stock trades at about 25 times earnings.
+Super Micro Rides Along
+Super Micro Computer (NASDAQ:SMCI) makes the server racks that hold NVIDIA’s chips. Its stock rose 19% to $25.77. First-quarter revenue came in at $19.9 billion[4], up 298%, and the company raised its fiscal 2027 outlook to $72 billion to $82 billion.
+Super Micro is a thinner business, though. Its non-GAAP gross margin was 12.8%[4], compared with NVIDIA’s 71.1%. One customer made up 44%[4] of its quarterly revenue. A price-to-earnings ratio near 6 shows how much risk investors still see in it.
+Risks That Remain After the Rally
+Huang has agreed to appear before House lawmakers on Dec. 1 to answer national security questions. The board’s independent investigation is still open. NVIDIA’s guidance assumes no Data Center compute revenue from China[2]. The company also carries up to $118 billion[2] in guarantee exposure tied to customer data center projects.
+For investors, it comes down to what you expect next. Investors who see Huang’s return fixing supplier ties and keeping the Vera Rubin launch on schedule are getting a business guiding to $130 billion[2] in quarterly sales at a price well below October’s level. If you expect the hearing or the investigation to bring new surprises, the discount investors applied without Huang could return quickly. Keep an eye on the stock at the close, then on Dec. 1.
+Contact [email protected] for any questions or corrections.

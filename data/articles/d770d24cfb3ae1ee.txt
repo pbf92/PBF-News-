@@ -1,0 +1,41 @@
+URL: https://www.tradingview.com/news/invezz:5ef9e57ad094b:0-why-is-anthropic-stock-lagging-the-broader-market-today/
+TITLE: Why is Anthropic stock lagging the broader market today?
+OUTLET: TradingView
+
+Why is Anthropic stock lagging the broader market today?
+Anthropic shares ANT failed to participate in the broader market rally on Monday, as Nvidia surged after the company's board reinstated Jensen Huang as chief executive.
+Anthropic stock was up just 0.72% at the time of writing, significantly underperforming the broader market.
+The S&P 500 gained 4.6%, while the Nasdaq Composite advanced 6.4%. Nvidia shares skyrocketed 31% during the session.
+The muted performance comes after Anthropic shares fell 8% on Friday, extending their decline from the first day of trading.
+Although the stock remains above its initial public offering price of $83, it is down approximately 8% from its closing price of $97 on Thursday, when it made its Nasdaq debut.
+Anthropic shares lag semiconductor stocks
+Anthropic has close ties to Nvidia, whose accelerators are widely used in the data centre infrastructure the AI company leases to train and operate its models.
+However, other semiconductor companies with links to Nvidia have recorded significantly stronger gains during Monday's session.
+Taiwan Semiconductor Manufacturing shares rose 1.5%, while SK hynix's American depositary receipts gained 19.88%. Micron shares advanced 18.58%.
+One possible explanation for Anthropic's underperformance is that traders are buying Nvidia shares following their recent decline rather than increasing exposure to other AI companies.
+Anthropic's performance also comes amid questions about whether its rapid growth can continue at the same pace.
+Growth outlook and upcoming share unlocks weigh on sentiment
+Needham analyst Scott Berg identified two factors that could be making investors cautious about buying more Anthropic shares.
+The first is uncertainty over whether the company can sustain its rapid growth.
+Following what Berg described as "hyperbolic growth" in 2026, investors are questioning whether Anthropic can deliver comparable gains in 2027.
+Berg estimates that Anthropic's net new sales in 2027 could range between $50 billion and $125 billion.
+The wide range reflects uncertainty surrounding the company's future growth prospects.
+For comparison, analysts surveyed by FactSet expect Anthropic to generate approximately $54 billion in revenue in 2026.
+The second concern relates to the potential increase in the number of shares available for trading over the coming months.
+According to Berg, employees and pre-IPO investors could begin selling substantial amounts of stock as their lock-up periods expire over the next 90 to 120 days.
+Anthropic's November 17 prospectus indicates that up to 303 million shares could become available on December 15, followed by another 303 million on January 5, 2027.
+More than 700 million additional shares could enter the market through early February.
+"Some of that supply may need to get absorbed before the shares can work much higher," Berg said, citing feedback from investors.
+The potential increase in available shares could create additional selling pressure, particularly if demand does not keep pace with the new supply.
+However, not all analysts are cautious about Anthropic's prospects.
+Citizens reiterated its Market Outperform rating on the company.
+"We expect Anthropic to begin using its own balance sheet, which the broader ~$7.6 trillion AI build requires," the firm said.
+Anthropic options trading gains momentum
+Meanwhile, options trading in Anthropic shares began with strong activity on Monday, giving investors another way to position themselves around the company's future performance.
+Approximately 160,000 options contracts changed hands during the first hour of trading, making Anthropic one of the 25 most heavily traded names in the options market, Reuters reported, citing data from analytics service Mercury Alerts.
+By noon Eastern time, trading volume had reached approximately 270,000 contracts.
+Based on the pace of trading, Mercury Alerts estimated that Anthropic options volume could reach 550,000 contracts during the session.
+That would represent substantial activity but remain below the record 1.8 million contracts recorded when options trading began for SpaceX shares in June.
+Options prices also indicated that traders were anticipating significant volatility in Anthropic stock.
+Mercury Alerts' Goindi said options were pricing in daily share price movements of approximately 6%.
+AI disclosure: AI tools assisted with research and drafting of this piece. An Invezz editor reviewed the facts, sources and wording before publication. Any opinions or analysis are Invezz’s, not those of an automated system.

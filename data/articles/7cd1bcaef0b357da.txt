@@ -1,0 +1,11 @@
+URL: https://www.digitaltransactions.net/eye-on-merchant-services-square-lands-a-celeb-chefs-restaurant-ontrac-delivers-a-shopify-integration/
+TITLE: Eye on Merchant Services: Square Lands A Celeb Chef’s Restaurant; OnTrac Delivers a Shopify Integration
+OUTLET: Digital Transactions
+
+Square, the acquiring arm of Block Inc., is touting acclaimed chef Camari Mick’s decision to adopt its point-of-sale technology for her restaurant in New York City.
+Calabash is Mick’s first solo restaurant, having worked at other restaurants and been named a James Beard Award semifinalist four times for culinary achievement. Square says Calabash is using Square for Restaurants and Square KDS, its kitchen-software application, along with the hardware components Square Register and Square Stand.
+Square is competing against many other restaurant POS system providers, especially in New York City. Toast Inc. has an estimated 40% share of the city’s restaurant market, compared with Square’s 27% estimate, says Dashmote B.V., an Amsterdam-based AI data platform.
+In related merchant services news, Shopify Inc. has a new third-party delivery service integration with OnTrac, a Chantilly, Va.-based operator.
+OnTrac says participating Shopify merchants can now see tracking events in Shopify and consumers can follow them in the Shop app and on Shop.com. OnTrac merchants on the Shopify platform need no integration to view the shipping data, OnTrac says.
+OnTrac says the integration can make it easier for merchants seeking another option beyond the largest delivery services and reduce friction for merchants and their consumers.
+“Many e-commerce brands want to diversify beyond traditional parcel carriers, but customer experience complexity can become a barrier,” Vijay Ramachandran, OnTrac vice president of marketing, says in a statement.

@@ -1,0 +1,19 @@
+URL: https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-rebound-ai-094119472.html
+TITLE: US Stock Futures Rebound After AI Sell-Off as Nvidia Investigation and Fed Outlook Remain in Focus: Dow Jones, S&P, Nasdaq, Wall Street
+OUTLET: Yahoo Finance
+
+US stock futures rallied sharply on Monday as investors attempted to recover from last week's technology-led sell-off, while concerns surrounding Nvidia (NASDAQ:NVDA), tighter semiconductor export restrictions and the Federal Reserve's interest rate outlook continued to influence market sentiment.
+The recovery comes ahead of a holiday-shortened trading week, with investors assessing the implications of the recent correction in artificial intelligence-related stocks and renewed scrutiny of Nvidia's business dealings with China.
+US Treasury Secretary Scott Bessent has called for answers regarding Nvidia's semiconductor sales to China, while market strategist Ed Yardeni has lowered his year-end forecast for the S&P 500 for the second time in approximately two months.
+Corporate earnings, including results from Hewlett Packard Enterprise, and developments in Middle Eastern energy markets are also expected to attract investor attention.
+Nasdaq Futures Jump 2.9% Following Technology Sell-Off
+US equity futures advanced strongly during early Monday trading, suggesting that Wall Street could recover some of the losses recorded during the previous week.
+At 01:20 Eastern Time, or 06:20 GMT, Nasdaq 100 futures had climbed 740 points, equivalent to 2.9%.
+S&P 500 futures increased by 143 points, or 2.1%, while Dow Jones futures gained 680 points, representing a rise of 1.4%.
+The rebound followed a particularly difficult session on Friday, when the Nasdaq Composite plunged more than 5%, completing its worst week since the COVID-19 market turmoil of 2020.
+The decline reflected mounting concerns about the valuations of artificial intelligence companies and the potential returns from substantial investments in AI infrastructure.
+Investors have become increasingly cautious about the scale of spending required to develop artificial intelligence systems, particularly where expansion has been supported by borrowing.
+Questions surrounding the profitability of these investments have contributed to a reassessment of technology stocks that previously benefited from strong enthusiasm for AI.
+Nvidia Leadership Crisis Adds to Semiconductor Sector Uncertainty
+Nvidia has become a central focus of the recent market volatility following the unexpected departure of former Chief Executive Jensen Huang.
+The company's latest earnings results were not sufficient to restore confidence, with investors increasingly concerned about leadership uncertainty and the potential consequences of tighter restrictions on advanced semiconductor exports.

@@ -1,0 +1,61 @@
+URL: https://www.stocktitan.net/articles/october-2026-pce-inflation-preview
+TITLE: The Fed Gets One Last Big Inflation Report Before Its December Rate Vote
+OUTLET: Stock Titan
+
+On this page
+The short answer. The report comes out on Wednesday, November 25. The Fed judges its 2% goal on this gauge, and almost all Fed officials judged a further rate increase would likely be appropriate, minutes released November 18 show.
+Fed rates feed into what banks charge on loans. The bar for a higher core rate is low: a rise of just 0.21%, which core prices cleared in seven of the nine months of 2026. U.S. Bank's economists expect 0.3%.
+When is the next PCE inflation report?
+The next PCE inflation report comes out on Wednesday, November 25, at 8:30 a.m. ET, and it covers October. The one after that, for November, is due on Wednesday, December 23.
+The Bureau of Economic Analysis, or BEA, builds the figures. Its release schedule lists the October report for 8:30 a.m. on November 25. A separate BEA report on how fast the economy grew, its second look at third quarter GDP, comes out at the same time.
+PCE is short for personal consumption expenditures, the money people spend on goods and services. The PCE price index tracks what those things cost. It matters more than most price gauges for one reason. The Fed judges its 2% inflation goal by how much this index rises in a year, its page on monetary policy says. StockTitan's PCE price index page tracks the series, and the economic calendar has the dates.
+What the last PCE inflation report showed
+In September, prices stood 3.6% above a year earlier. Core prices, the ones without food and energy, were up 3.1%, well above the Fed's goal.
+BEA put out the September figures on Thursday, October 29, in its Personal Income and Outlays release. Prices rose 0.5% in the month, and core prices rose 0.3%. Energy pushed the all-items figure up. Fed staff said in the minutes of the October meeting that the yearly rate was "boosted by a rapid increase in consumer energy prices."
+The rest of the report showed households under strain. Income after taxes and inflation fell 0.3% in September. Spending after inflation barely moved. People saved 3.8% of their income after taxes, the lowest saving rate since October 2022. StockTitan's report on that release, core inflation rose to 3.1% a day after the Fed held rates, has the full story.
+Fed officials have named the forces behind the climb. Michelle Bowman, the Fed's Vice Chair for Supervision, spoke on November 10. Tariffs, energy and AI-related price pressures "each accounted for roughly one-fourth of above-target core PCE inflation" over the 12 months to September, she said in a speech the Fed posted. The last quarter, she said, likely comes from the lasting effects of the price shocks of recent years.
+Why the PCE inflation rate could rise in October
+The yearly rate compares this October with last October. Last October, core prices rose only about 0.18%. So a rise of about 0.21% this October is enough to lift the published yearly rate.
+A yearly inflation rate works like a moving window of 12 months. Each new report adds the latest month and drops the same month a year back. So the rate climbs when the new month rises more than the one it replaces. It falls when the new month rises less. On Wednesday, October 2026 comes in and October 2025 goes out.
+October 2025 was a small month. Any bigger core rise this October nudges the unrounded yearly rate up. BEA rounds to one decimal, though, so the published rate moves from 3.1% to 3.2% only once the rise reaches that bar of about 0.21%.
+The bar is low next to this year's months. Core prices rose less than that in only two months of 2026, June and July. In the other seven they rose from about 0.26% to 0.40%.
+Last October's figure is itself an estimate. The government shut down from October 1 to November 12, 2025, so the Bureau of Labor Statistics, or BLS, could not collect consumer prices that month. BEA uses those prices to build the PCE index, so it filled the hole with an estimate. It set each missing price at a midpoint between September and November, a geometric mean that splits the change over the two months evenly, its technical notes say.
+Source: BEA PCE price indexes, as stored in StockTitan's economic data, September 2026 and October 2025; rates rounded to one decimal as BEA publishes them.
+What forecasters expect for core PCE inflation
+U.S. Bank's economists expect core prices rose 0.3% in October, and a Cleveland Fed model puts it near that. That would put core inflation at about 3.2%, the same as May's high for the year.
+U.S. Bank's economists expect both all prices and core prices rose 0.3% in October. That "would lift headline inflation," the rate for all prices, "to 3.8%" and core inflation "to 3.2% from 3.1%," they wrote on November 20 in their weekly outlook. That is the same rounded monthly pace as September, yet the yearly rate would still rise.
+The Cleveland Fed's inflation nowcast, a model that guesses inflation from prices already out, paints about the same picture. Its reading updated November 23 puts October's core rise at 0.27% and core inflation at about 3.2%. Oxford Economics expects 3.8% for all prices, it said in a note on November 16.
+Bowman went higher. "Today's consumer price index suggests that 12-month core PCE inflation likely moved up further to 3.3 percent in October," she said on November 10, the day the October CPI came out.
+Where those numbers land matters. Core PCE inflation peaked at 3.2% in May this year. A reading of 3.3% or more would be the highest since November 2023, when it was 3.4%.
+All prices tell a similar story. A yearly rate of 3.8% would match May's high, and 3.9% or more would be the highest since May 2023.
+PCE inflation vs CPI inflation
+Core PCE inflation runs above core CPI right now, 3.1% against 2.6% in September. And unlike the October CPI, Wednesday's report will carry a yearly rate.
+BLS put core CPI 2.6% above a year earlier in September, its last yearly reading, as StockTitan's October CPI report notes. BEA put core PCE at 3.1% for that month.
+The two gauges price many of the same things in different ways. PCE counts spending "by and on behalf of the personal sector," which takes in nonprofits that serve households. The CPI counts "out-of-pocket spending by households," BEA says in an explainer on the differences. The two also give items different weights and use different math.
+The October CPI, out November 10, had no 12-month rate for all items or core. BLS said on its shutdown questions page that it "will not publish 12-month percent changes for October 2026 for indexes where October 2025 data are not available." BEA filled October 2025 with its estimate, so it has a month to compare with. Wednesday's report will carry a yearly rate for October, which the CPI could not.
+What the PCE inflation report means for the Fed in December
+This is the last major inflation report the Fed sees before its December 9 decision. Its minutes say almost all officials saw another rate rise as likely appropriate. Governor Waller said a half point should be considered if core CPI rose about 0.3% or more in October, and it rose 0.3%.
+The Fed raised its target range for short-term rates by a quarter point on September 16, to 3.75% to 4%. It held there on October 28. Lisa Cook and Beth Hammack voted against that hold because they wanted another quarter point hike, the statement of the FOMC, the Fed committee that sets rates, shows. StockTitan's report on that decision has the details.
+The minutes of that meeting, out on November 18, show where the debate stands. "Almost all participants" judged that a further rise "would likely be appropriate," the minutes say. A basis point is a hundredth of a percentage point, so 25 basis points is a quarter point. The minutes add: "A couple of participants noted that an increase of more than 25 basis points could warrant consideration at the next meeting if incoming inflation data were unfavorable."
+Governor Christopher Waller drew his own line on November 10. He leaned toward a quarter point hike in December, he said in a speech that day. But a half point hike "should be considered at the December meeting," he said, if core CPI came in "around 0.3 percent or even higher" in October. Core CPI rose 0.3% that morning, as StockTitan's October CPI report shows. Oxford Economics, in its November 16 note, expects a quarter point. It says markets are "overpricing the odds of a 50bp hike," a half point.
+Bowman set out what comes before the meeting. "Before our next meeting in December, we will receive the PCE inflation report for October and the employment report for November," she said. The BLS December calendar puts the jobs report on Friday, December 4. The November CPI comes on Thursday, December 10, and the November producer price index on Tuesday, December 15, both after the decision.
+The reading reaches people through interest rates. Changes in the Fed's target are "rapidly reflected" in what lenders charge on short-term loans to households and firms, the Fed says on its policy page. Rate changes also "tend to affect stock prices by changing the relative attractiveness of equity as an investment," the page says. That is one reason markets often move on inflation data. A hotter reading can raise the rates traders expect, and a cooler one can lower them.
+What to watch
+- Whether core prices cleared last October's bar, and whether incomes kept up with prices: BEA's Personal Income and Outlays report, Wednesday, November 25, at 8:30 a.m. ET.
+- Whether hiring held up: the BLS jobs report for November, Friday, December 4, at 8:30 a.m. ET.
+- Whether the Fed changes rates, and its new inflation forecasts: the Fed's statement and projections after its December 8 to 9 meeting.
+- November's PCE figures: BEA, Wednesday, December 23, at 8:30 a.m. ET.
+Our numbers
+These figures are our calculations from the sources linked in this article. They use BEA's index as revised in its September 2026 annual update, so older months can differ from the figures first published.
+- About 0.21%, the core rise that lifts the published yearly rate to 3.2%: the rise that takes BEA's core index to 3.15% above its October 2025 level, which rounds to 3.2%.
+- About 0.18%, last October's core rise: how much BEA's core index rose in October 2025, the month that leaves the count.
+- Two of nine months below the bar: the core index's monthly rises from January to September 2026, with June and July under both 0.18% and 0.21%.
+- The yearly rate for each October reading, such as 3.2% core at 0.3%: the September 2026 index raised by that much, set against the October 2025 index.
+- Highest since November 2023 for core at 3.3% or more, and since May 2023 for all prices at 3.9% or more: BEA's yearly rates for each month back to 2023, rounded to one decimal.
+- Lowest saving rate since October 2022: BEA's monthly saving rate.
+Frequently asked questions
+It is how much the prices people in the US pay for goods and services rose over a year, measured by BEA's PCE price index. The Fed uses it to judge its 2% inflation goal.
+It is the same gauge without food and energy, whose prices swing a lot from month to month. In September 2026 it was 3.1%, against 3.6% for all prices.
+BEA puts it out once a month at 8:30 a.m. ET. October's comes on Wednesday, November 25, 2026, and November's on Wednesday, December 23.
+The latest reading is for September 2026. Prices were up 3.6% from a year earlier, and 3.1% without food and energy. The October reading takes its place on November 25.
+The Fed sets its 2% goal on the PCE price index. It watches the CPI too. Fed staff use CPI and producer price data to estimate PCE before it comes out, the minutes of its October meeting show.

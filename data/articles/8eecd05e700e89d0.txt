@@ -1,0 +1,19 @@
+URL: https://ascopost.com/articles/2026/11-november/study-finds-improved-survival-refines-prognostic-index-for-renal-cell-carcinoma-with-brain-metastases/
+TITLE: Study Finds Improved Survival, Refines Prognostic Index for Renal Cell Carcinoma With Brain Metastases
+OUTLET: The ASCO Post
+
+Study Finds Improved Survival, Refines Prognostic Index for Renal Cell Carcinoma With Brain Metastases
+Since the introduction of current therapies, survival among patients with renal cell carcinoma and newly diagnosed brain metastases has improved compared with historical cohorts, according to findings from an international retrospective study published in The Lancet Oncology. Sperduto et al also updated the prognostic index—the Renal Graded Prognostic Assessment (GPA)—and found substantial differences in survival across prognostic groups.
+“The updated Renal GPA can be used to estimate survival, intracranial progression–free survival, individualize treatment, design and stratify clinical trials, and refine clinical trial eligibility,” the investigators wrote.
+Study Details
+The study included 1,049 patients (73.7% male; 81.1% White; median age = 63.9 years) with renal cell carcinoma and newly diagnosed brain metastases who received treatment between January 1, 2016, and December 31, 2022, across 21 academic institutions. Outcomes in the current cohort were compared with those of two historical cohorts comprising 286 patients treated between 1985 and 2007, and 711 patients treated between 2006 and 2015.
+The investigators conducted combined multivariable analyses to identify significant prognostic factors for survival and used these findings to update the Renal GPA. Intracranial progression–free survival was defined as the interval from initial diagnosis of brain metastases to the first salvage treatment.
+Key Findings
+After a median follow-up of 53.4 months, median overall survival was 20.0 months. Median overall survival was 9.6 and 12.0 months in the 1985-to-2007 and 2006-to-2015 historical cohorts, respectively.
+In combined multivariable analyses, lower Karnofsky Performance Status, lower baseline serum albumin levels, a greater number of brain metastases, and the presence of extracranial metastases were significant predictors of poorer survival. The updated GPA incorporated these factors.
+Median overall survival was 4.8 months among patients with a GPA score of 0 to 1.0, 12.4 months among those with a score of 1.5 to 2.0, 33.6 months among those with a score of 2.5 to 3.0, and 51.2 months among those with a score of 3.5 to 4.0.
+Patients had a median intracranial progression–free survival of 9.6 months. According to the investigators, intracranial progression–free survival and overall survival were moderately strongly correlated (Spearman’s ρ = 0.74, 95% confidence interval = 0.70–0.78; P < .0001).
+“The effect of these findings on patients is immediate,” the investigators wrote.
+They continued, “First, an accurate survival estimate with contemporary management will facilitate doctor-patient and family discussions of both treatment choice and end-of-life care. Second, the updated Renal GPA identifies and incorporates new prognostic factors and eliminates others that are no longer significant. Third, the Renal GPA provides not only an individualized method by which to estimate survival, but also a useful tool to stratify patients for clinical trials as these new data show overall survival varies widely by GPA.”
+Paul W. Sperduto, MD, of Duke University School of Medicine, Durham, North Carolina, is the corresponding author of the article in The Lancet Oncology.
+Disclosure: The study was funded by the National Institutes of Health and the Duke Center for Brain and Spine Metastasis. For full disclosures of the study authors, visit thelancet.com.

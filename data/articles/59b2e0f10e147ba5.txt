@@ -1,0 +1,34 @@
+URL: https://www.gamingbible.com/news/gta-6-first-update-patch-notes-ps5-xbox-seven-fixes-442192-20261123
+TITLE: GTA 6's first free update fixes major progression bugs, but one frustrating issue remains
+OUTLET: GAMINGbible
+
+GTA 6 has received its first free post-launch update on PlayStation 5 and Xbox Series X/S, with Rockstar Games confirming seven fixes, including some frustrating bugs that could prevent players from progressing through the story. So, if you've been having trouble exploring Vice City, this latest download might be just what you need.
+Since launching last week, Grand Theft Auto VI has taken the gaming world by storm, but even Rockstar's latest blockbuster hasn't escaped its fair share of technical problems. Thankfully, the developer has been quick to address several issues, including broken autosaves, mission-related phone calls not triggering and Wanted Levels that seemingly refused to disappear.
+However, while this update is certainly welcome, it doesn't necessarily mean every problem has been resolved. With some players still reporting a separate, potentially game-breaking glitch, Rockstar may have a little more work to do.
+GTA 6's first free update fixes seven frustrating issues
+As detailed on the official Rockstar Games support page, GTA VI's first post-launch update fixes seven issues, ranging from minor annoyances to bugs that could prevent players from progressing through the story.
+Here are all seven fixes confirmed for November 23, 2026:
+- Fixed several issues that caused the game to crash.
+- Fixed an issue that prevented the weather from changing for extended periods.
+- Fixed an issue that prevented the game from autosaving correctly.
+- Fixed several issues that prevented phone calls from triggering correctly, including those needed to progress the story or unlock missions.
+- Fixed an issue that prevented players from losing their Wanted Level.
+- Fixed an issue that prevented players from using the deadlift bar at the gym.
+- Fixed an issue that prevented partners from handing over bags, leaving players unable to sell them to fences.
+GTA 6 players report another game-breaking glitch
+While Rockstar Games has addressed several frustrating issues, it seems one potentially game-breaking glitch is still causing headaches for some players.
+Advert
+As previously reported by GAMINGbible, completing the Missing Persons side mission in Kelly County during Chapter 3 can leave players stuck as Lucia, unable to switch back to Jason.
+This is particularly troublesome because, at this point in the story, you're required to play as Jason. However, the glitch prevents you from switching characters, effectively leaving you unable to progress any further.
+Unfortunately, players are still reporting the issue following update 01.002.002, and one of our own GAMINGbible colleagues has fallen victim to the glitch.
+For now, it's probably best to avoid the Missing Persons mission whenever character switching is restricted. It's also worth keeping multiple manual saves, just in case.
+READ MORE: 9 GTA 6 easter eggs we've spotted that you might have missed
+GTA 6 update download size on PS5 and Xbox Series X/S
+Thankfully, GTA VI's first free update isn't a massive download, so you shouldn't have to wait too long before jumping back into Vice City. However, the file size differs depending on which console you're playing on.
+As reported by X user Tex2, here are the reported download sizes and version numbers for the November 23 update:
+- PlayStation 5: 603.8 MB (version 01.002.002)
+- Xbox Series X/S: 1.6 GB (version 1.0.2.2)
+It's also worth mentioning that the PS5 update is reportedly being rolled out in stages, so if it hasn't appeared on your console yet, don't panic. You can always check for the update manually, and hopefully, you'll be back to causing chaos in Vice City before you know it.
+While it's good to see Rockstar addressing some of GTA VI's most frustrating problems so soon after launch, let's hope we don't have to wait too long for the remaining issues to be fixed.
+Grand Theft Auto VI is out now on PlayStation 5 and Xbox Series X/S.
+Topics: GTA 6, GTA, Grand Theft Auto, Rockstar Games

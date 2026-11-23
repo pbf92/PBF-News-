@@ -1,0 +1,16 @@
+URL: https://mezha.net/eng/news/mezha-a71658de30259413c7cb03b0_anthropic_adds_pull/
+TITLE: Anthropic adds pull request fixes and approvals to Claude Ship
+OUTLET: Mezha.net
+
+Anthropic adds pull request fixes and approvals to Claude Ship
+Photo source: The Verge
+Claude Ship’s beta agents can respond to failing CI checks, merge conflicts and review feedback. Routine changes can be approved only if an organization’s policy allows it.
+Anthropic announced Claude Ship today, a new product to help software engineers ship code. Claude can now review, fix and approve pull requests through the product.
+This is reported by The Verge.
+Engineers have been able to use Claude’s code review capabilities through Code Review, announced in March and generally available since October. Claude Ship adds the PR Steward and Claude Approvals agents, both launching in beta today.
+Anthropic says PR Steward “jumps in on failing CI checks, merge conflicts, and review feedback from Code Review, other review tools, or team members” and comments on what it changed.
+Claude Approvals can approve routine changes if an organization’s policy permits it. Anthropic says:
+Teams can have Claude Approvals consider a variety of signals in its decision-making process, including Code Review findings or their own classifiers using natural language,
+- Anthropic
+Claude Ship is available now to Claude Team and Enterprise customers and works with repositories on GitHub.
+Read also:
