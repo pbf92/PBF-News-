@@ -22,6 +22,7 @@ from pywebpush import WebPushException, webpush
 
 ROOT = Path(__file__).resolve().parent.parent
 PT = ZoneInfo("America/Los_Angeles")
+SITE = "https://pbf92.github.io/PBF-News-/"
 CLAIMS = {"sub": "mailto:pij-notify@users.noreply.github.com"}
 
 
@@ -66,15 +67,25 @@ def main(mode):
             rc |= push({"title": m["title"], "body": m["body"], "url": m.get("url", "./"), "tag": m.get("tag", "pij")})
         return rc
     if mode == "watchdog":
+        # check what the APP actually serves, not just what is in the repo
+        import urllib.request
         today = datetime.now(timezone.utc).astimezone(PT).date().isoformat()
+        latest = None
         try:
-            latest = json.loads((ROOT / "data" / "editions" / "index.json").read_text()).get("latest")
-        except (FileNotFoundError, json.JSONDecodeError):
-            latest = None
+            with urllib.request.urlopen(f"{SITE}data/editions/index.json?t={datetime.now().timestamp()}", timeout=20) as r:
+                latest = json.loads(r.read()).get("latest")
+        except Exception as exc:  # noqa: BLE001
+            print(f"could not read the live app: {exc}")
         if latest == today:
-            print(f"edition for {today} is present")
+            print(f"app is serving today's edition ({today})")
             return 0
-        return push({"title": "PIJ didn't publish", "body": f"No edition for {today} yet. The latest is {latest}. Check the scheduled task in Claude.",
+        try:
+            in_repo = json.loads((ROOT / "data" / "editions" / "index.json").read_text()).get("latest")
+        except (FileNotFoundError, json.JSONDecodeError):
+            in_repo = None
+        why = ("the paper was written but the app couldn't be updated" if in_repo == today
+               else "no edition was written: check the scheduled task in Claude")
+        return push({"title": "PIJ is late", "body": f"No edition for today in the app yet: {why}.",
                      "url": "./", "tag": "pij-watchdog"})
     if mode == "test":
         return push({"title": "PIJ test", "body": "Push notifications are working.", "url": "./", "tag": "pij-test"})

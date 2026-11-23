@@ -1,7 +1,7 @@
 name: Publish app
 
 # Publishes the app and every edition to GitHub Pages whenever an edition lands.
-# One-time setup: repo Settings -> Pages -> Source: "GitHub Actions".
+# Retries once on GitHub-side glitches, and re-publishes daily at 6:10 AM PST as a safety net.
 on:
   push:
     branches: [main]
@@ -13,6 +13,8 @@ on:
       - "sw.js"
       - "data/editions/**"
       - "data/threads.json"
+  schedule:
+    - cron: "10 14 * * *"
   workflow_dispatch:
 
 permissions:
@@ -22,14 +24,14 @@ permissions:
 
 concurrency:
   group: pages
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.d1.outputs.page_url || steps.d2.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
       - name: Build site folder
@@ -40,8 +42,29 @@ jobs:
           cp -r data/editions _site/data/
           cp data/threads.json _site/data/
       - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
+
+      - id: up1
+        continue-on-error: true
+        uses: actions/upload-pages-artifact@v3
         with:
           path: _site
-      - id: deployment
+      - id: d1
+        if: steps.up1.outcome == 'success'
+        continue-on-error: true
         uses: actions/deploy-pages@v4
+
+      # one automatic retry if GitHub hiccupped
+      - name: Wait before retry
+        if: steps.up1.outcome != 'success' || steps.d1.outcome != 'success'
+        run: sleep 90
+      - id: up2
+        if: steps.up1.outcome != 'success' || steps.d1.outcome != 'success'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+          name: github-pages-retry
+      - id: d2
+        if: steps.up1.outcome != 'success' || steps.d1.outcome != 'success'
+        uses: actions/deploy-pages@v4
+        with:
+          artifact_name: github-pages-retry

@@ -1,16 +1,15 @@
 name: Push notifications
 
 # Sends the app's own push notifications (free, no Claude usage).
-# - when an edition or midday update lands (publish.py writes data/push/latest.json)
-# - a 6:15 AM watchdog (PST; 7:15 in summer) that warns if no edition published
+# - after the app has actually published a new edition or update (so a push always opens)
+# - a 6:25 AM watchdog (PST; 7:25 in summer) that warns if the app has no edition for today
 # - manual "test" from the Actions tab
 on:
-  push:
-    branches: [main]
-    paths:
-      - "data/push/latest.json"
+  workflow_run:
+    workflows: ["Publish app"]
+    types: [completed]
   schedule:
-    - cron: "15 14 * * *"
+    - cron: "25 14 * * *"
   workflow_dispatch:
     inputs:
       mode:
@@ -19,10 +18,14 @@ on:
 
 jobs:
   notify:
+    if: github.event_name != 'workflow_run' || (github.event.workflow_run.conclusion == 'success' && github.event.workflow_run.event == 'push')
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.workflow_run.head_sha || github.sha }}
+          fetch-depth: 2
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -34,5 +37,9 @@ jobs:
         run: |
           if [ "${{ github.event_name }}" = "schedule" ]; then MODE=watchdog;
           elif [ "${{ github.event_name }}" = "workflow_dispatch" ]; then MODE="${{ inputs.mode }}";
-          else MODE=send; fi
+          else
+            # only push if the published commit actually carried a new edition/update
+            if git diff --name-only HEAD~1 HEAD | grep -q "^data/push/latest.json$"; then MODE=send;
+            else echo "published commit has no new push; nothing to send"; exit 0; fi
+          fi
           python scripts/notify.py "$MODE"
