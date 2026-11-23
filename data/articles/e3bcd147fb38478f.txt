@@ -1,0 +1,26 @@
+URL: https://superpowerdaily.com/posts/anthropic-launches-claude-ship-to-fix-code-and-approve-changes-under-team-rules
+TITLE: Anthropic launches Claude Ship to fix code and approve changes under team rules
+OUTLET: Superpower Daily
+
+Anthropic launches Claude Ship to fix code and approve changes under team rules
+The GitHub workflow adds two beta agents to Code Review. Teams control human sign-off, but even observe-only policies can trigger charges.
+Loading page…
+Listen to this story
+Anthropic’s Claude Ship adds a GitHub pull-request workflow that can review code, respond to feedback and failed checks, and apply repository-specific approval policies. Its three components have different powers: Code Review flags issues, PR Steward revises changes but cannot approve or merge them, and Claude Approvals can waive human sign-off for changes allowed by a team’s policy. Teams retain GitHub branch protections, but should test policies before enforcement; automated review can miss bugs, and some security-focused Anthropic configurations are ineligible.
+Anthropic recommends piloting Code Review on one repository, running PR Steward manually, and trying Claude Approvals in observe-only mode before enforcement.
+Code Review and PR Steward use billable tokens subject to spending caps; approval classifiers also consume tokens, and Claude-triggered reviews cost extra even in observe-only mode.
+Organizations using Zero Data Retention, HIPAA configuration, or customer-managed encryption keys cannot use Claude Ship.
+Anthropic wants developers to move on after submitting code, leaving Claude to handle review, fixes and some approvals. On November 23, 2026, it launched Claude Ship for Team and Enterprise customers using GitHub. Teams decide which changes require human judgment, but the workflow comes with a warning: automated review can still miss bugs.
+Claude Ship works on pull requests—proposed changes to a codebase—after they open. It combines the already generally available Code Review with two new beta agents, PR Steward and Claude Approvals. Using it does not require Claude Code.
+Code Review uses multiple agents to examine changes, verify findings and post categorized issues. Teams choose Quick, Standard or Deep reviews per repository, or code project.
+PR Steward handles review feedback, failed automated checks and conflicts with other code changes. It accepts feedback from people and other review tools, not just Claude. After each push of updated code, it explains what changed and how to undo it.
+PR Steward is designed not to approve or merge changes. Claude Approvals reads a repository policy file instead. Teams can allow routine changes through without human sign-off and require people for sensitive code. Existing GitHub branch protections still govern merging.
+Teams can adopt agents separately, repository by repository. Anthropic recommends a staged setup:
+Anthropic says merged pull requests on its Claude Code team more than doubled from June to September, while the share reverted fell by more than 40%. Claude’s review was one layer of a broader process; those figures do not isolate Claude Ship’s impact.
+Claude Ship is billed by token usage, with spending caps available for Code Review and PR Steward. Approvals has no base charge, but policy classifiers consume billable tokens. Policies using Claude’s review trigger paid Code Reviews even in observe-only mode.
+Organizations using Zero Data Retention, the HIPAA configuration or customer-managed encryption keys cannot use Claude Ship.
+Individual developers can start with /ship, rolling out in Claude Code and the desktop app from November 23. It opens and reviews pull requests, then addresses feedback and failing checks. That route counts as regular Claude Code usage and remains subject to developer permissions and repository rules.
+Loading discussion...
+Join the conversation
+Explain which changes, if any, you would trust to automated approval.
+Be the first to share a perspective or an experience.

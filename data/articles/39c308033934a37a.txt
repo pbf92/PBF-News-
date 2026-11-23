@@ -1,0 +1,24 @@
+URL: https://news.xbox.com/en-us/2026/11/23/grand-theft-auto-vi-xbox-cloud-and-remote-play/
+TITLE: How to Play Grand Theft Auto VI in the Cloud and with Remote Play
+OUTLET: Xbox Wire
+
+Grand Theft Auto VI supports XBOX Cloud Gaming, making it available to play even without a current-gen console. With XBOX Cloud Gaming, you can play by streaming it straight from the cloud to your XBOX One, or XBOX Series X|S if you’d like to save some hard drive space.
+Select Game Pass plans include a monthly allotment of up to 15 play hours, and you can buy more cloud playtime if you need it, giving you the opportunity to experience one of the biggest games of the year on the consoles you already own. The game uses XBOX Series S graphics settings when cloud-streamed with XBOX Cloud Gaming.
+You can also access Remote Play to enjoy Grand Theft Auto VI wherever you want to play, allowing you to stream gameplay directly from your XBOX Series X|S console to devices you already own, like your mobile phone, laptops, PCs, or even a handheld gaming PC like the XBOX ROG Ally.
+Here’s how to get these features up and running (a copy of Grand Theft Auto VI from the XBOX Store is required):
+How to Start Playing Grand Theft Auto VI via the Cloud
+To start your Cloud gaming session in Grand Theft Auto VI, you can use the controllers that are connected to your console following these steps:
+- From your XBOX Wireless Controller, press the XBOX button to open the guide, then search for Grand Theft Auto VI
+- Select the “Manage” button and then “See in Microsoft Store”
+- From the Store listing, select “Play With Cloud”
+When possible, connecting a wired Ethernet cable is the best option for gaming quality. FYI, even wireless networks with high bandwidth can occasionally have a dip in audio and video quality.
+How To Start Playing Grand Theft Auto VI via Remote Play
+Remote Play allows you to stream gameplay from your XBOX Series X|S to devices you already own, like mobile devices, PCs, and handheld gaming PCs. Here’s how to enable it:
+- From your XBOX Series X|S, go to Settings -> Devices & connections -> Remote features, and then check the box to “Enable remote features”
+- Optional: Select “Test remote play” from this same menu to get a sense of the quality you can expect from your connection.
+Once you’ve completed those steps above, you can move forward with Remote Play on one of your devices:
+- Play from mobile device: From your browser go to play.xbox.com/remoteplay and select the console you want to connect to and select “Remote Play on This Device.”
+- Play from PC or XBOX ROG Ally: Open the XBOX on PC app, click on your profile icon in the top right, go to “Accessories & remote play,” and select “Remote play” from the console to play from.
+Whether you’re streaming from the Cloud to save space or picking up right where you left off on your handheld PC, XBOX Cloud Gaming and Remote Play give you more ways to play Grand Theft Auto VI on the devices you already own. For more info, visit XBOX Cloud Gaming and Grand Theft Auto VI on the XBOX Store.
+Grand Theft Auto VI
+Rockstar Games

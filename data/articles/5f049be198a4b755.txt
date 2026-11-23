@@ -1,0 +1,15 @@
+URL: https://www.xda-developers.com/anthropics-new-claude-ship-feature-lets-your-assistant-review-fix-approve-pull-requests/
+TITLE: Anthropic’s new Claude Ship feature lets your assistant review, fix, and approve pull requests by itself
+OUTLET: XDA
+
+Summary
+- Claude Ship gains two new features: PR Steward watches repos, fixes issues, and leaves comments.
+- Claude Approvals can automatically approve PRs, but managers can limit what it touches.
+- Available now to Claude Team/Enterprise users and works with GitHub repositories.
+How do you feel about Claude checking out pull requests, working on them, and submitting fixes all by itself? I'd wager that people who use Claude to program would love the idea, but it would probably cause project maintainers to break into a cold sweat at just the thought of it.
+Well, it appears that Anthropic thinks we're ready. The company is reportedly adding two features to Claude that take all the pesky human parts out of the pull request stage.
+Anthropic adds PR Steward and Claude Approvals to Claude Ship
+Whether or not that's a good thing is up to you
+As reported by The Verge, Claude Ship is getting two new tools: PR Steward and Claude Approvals. PR Steward stands by and keeps an eye out for any issues that appear within the repository. If it detects a problem, like a merge conflict, a failed CI check, or if someone (or something, like Code Review) gives negative feedback, it can deploy a fix and leave comments as to what it does.
+Claude Approvals does pretty much what you'd expect it to do. If it sees a pull request and decides it fits company policy, it will automatically approve it. Fortunately, it seems Anthropic is giving project managers some control over what Claude can and cannot accept, so if you're worried about letting it loose on some really important parts of your project, you can keep it out.
+You can give the PR Steward and Claude Approvals agents a try in beta right now if you're a Claude Team or Enterprise customer, and it works with repositories on GitHub.

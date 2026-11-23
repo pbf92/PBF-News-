@@ -1,0 +1,14 @@
+URL: https://thenextweb.com/news/anthropic-enterprise-frontier-safeguards-zero-data-retention-beta
+TITLE: Anthropic can now watch for Claude misuse without keeping firms’ data
+OUTLET: The Next Web
+
+Anthropic has opened Enterprise Frontier Safeguards in public beta, letting it scan for misuse across many Claude requests while companies keep their data in their own cloud storage. It answers enterprise pushback over the 30-day retention Anthropic introduced with Fable 5.
+Anthropic has opened a new safety system for business users of Claude in a public beta, the company said on Monday. Called Enterprise Frontier Safeguards (EFS), it looks for misuse without Anthropic keeping any of their data.
+Anthropic’s basic filters check each request on its own. But it says serious attacks are often split into many small requests that each look harmless. Its September threat report told of AI agents that split one attack on about 50 groups into small tasks.
+Catching that needs stored records, so Anthropic began keeping data for 30 days when it launched Fable 5. Many tightly regulated firms balked. With EFS, prompts and replies go to the customer’s own Amazon or Google cloud account instead, locked so not even the customer can read them.
+Anthropic’s software scans that data, but no one at Anthropic or the cloud firm sees it, and it is never used for training. When the system spots a risk, it opens a “safety case.” The customer’s security team must look into it within seven days, or risk losing access.
+“We keep custody of our data while Anthropic operates the detection,” said Munish Kumar Sharma, chief information security officer at Wells Fargo.
+More than 100 customers helped build EFS, Anthropic says, including Bridgewater, Salesforce and Stripe. It is free, though customers pay their cloud firm for storage. OpenAI previewed a similar system, Private Safety Processing, in August.
+EFS is Anthropic’s latest step to keep business data in-house. In August it added inference hooks to block sensitive data before it reaches Claude. This month it let firms run its agent service on their own servers.
+Get the TNW newsletter
+Get the most important tech news in your inbox each week.

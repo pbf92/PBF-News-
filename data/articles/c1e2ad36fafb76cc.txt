@@ -1,0 +1,26 @@
+URL: https://mlq.ai/news/anthropic-launches-claude-ship-to-review-fix-and-approve-pull-requests-under-team-set-rules/
+TITLE: Anthropic launches Claude Ship to review, fix and approve pull requests under team-set rules
+OUTLET: MLQ.ai
+
+Anthropic launches Claude Ship to review, fix and approve pull requests under team-set rules
+- Claude Ship has three parts: Code Review (generally available), PR Steward (beta) and Claude Approvals (beta) [1].
+- Claude Approvals follows a policy file in the repository and can auto-approve routine changes or require a human [1].
+- Available on Claude Team and Enterprise plans for GitHub repositories; not for organizations using Zero Data Retention, the HIPAA configuration or customer-managed keys [1].
+- Billing is token-based with admin spend limits; eligible Enterprise customers can claim at least $10,000 in credits until Jan. 15, 2027 [1].
+Anthropic on Monday introduced Claude Ship, a system that takes pull requests through review, fixes and an approval decision, with teams setting the rules for which changes still need a person to sign off [1]. Reuters reported the launch the same day, saying the product is available on Claude Team and Enterprise plans for projects on GitHub [2].
+Anthropic describes Claude Ship as being in beta overall. It combines an existing review tool with two new beta features [1].
+What each part does
+Code Review, which is generally available, reviews pull requests from several angles, checks its own findings adversarially, sorts them and posts them on the pull request. Each repository can choose Quick, Standard or Deep review [1].
+PR Steward (beta) works on failing CI checks, merge conflicts and reviewer feedback. After each push it comments with what it changed and how to undo it. It does not approve or merge code; developers can steer it by mentioning @claude or halt it with "@claude stop" [1].
+Claude Approvals (beta) applies an approval policy that the team writes as a file in the repository. Anthropic calls it "a smarter CODEOWNERS file": it can approve routine changes automatically and route others to a human. Policies can draw on Code Review findings or natural-language classifiers, and Anthropic recommends running it in observe-only mode before making its approval required through branch protection [1].
+How teams turn it on
+Developers can run /ship in Claude Code to push a change, open a pull request and handle review and feedback; the command is rolling out in Claude Code and the desktop app [1]. Admins enable Code Review and PR Steward per repository, set review level, timing and spend limits, and Claude Approvals starts once a policy file exists on the default branch. Claude Ship works with existing branch protection and required checks [1].
+It is not available to organizations using Zero Data Retention, Anthropic's HIPAA configuration or customer-managed encryption keys [1].
+Pricing and early results
+Usage is billed on tokens, so cost depends on the number and size of pull requests, the review level and how often PR Steward acts. Claude Approvals has no base charge but its classifiers are billed on tokens, and running /ship counts as regular Claude Code usage. Eligible Claude Enterprise organizations can claim at least $10,000 in Claude Ship credits, to be used within 30 days, with claims due by Jan. 15, 2027 [1].
+Anthropic said its own Claude Code team more than doubled merged pull requests from June to September while the share of reverted changes fell by more than 40% over the same period [1]. TELUS Digital and Carvana are quoted as early users [1].
+The launch came the same day Anthropic announced Enterprise Frontier Safeguards in beta; MLQ covered that here.
+Companies mentioned
+Further sources
+This article was produced by MLQ.ai's AI newsroom and checked against primary sources such as company filings, official releases and court documents. Reports from a single outlet are attributed. Editor: Peter Foy. How we work · Spotted an error? Tell us.
+The stories that matter, in one email. Free — unsubscribe anytime.

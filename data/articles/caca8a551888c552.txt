@@ -1,0 +1,40 @@
+URL: https://www.nextbigfuture.com/2026/11/mt5-or-ctrader-prop-firms-that-support-both-and-what-changes-between-them.html
+TITLE: MT5 or cTrader? Prop Firms That Support Both, and What Changes Between Them
+OUTLET: NextBigFuture.com
+
+Most prop firms ask you to pick MT5 or cTrader when you buy a challenge. It takes seconds, but changing your mind later often isn’t possible.
+Say you buy a prop firm challenge, choose cTrader and place your first trade. Then you try to run the trading bot you built for MT5, and it won’t load, because cTrader can’t read MT5 code. At most firms, it’s now too late to switch.
+Finding a firm that offers your platform is the easy part, since most big prop firms now offer both. The catch is in the rules around it: when you have to choose, whether you can switch later, and which bots are allowed.
+Here is how five firms handle those rules: FTMO, The5ers, FundedNext, FundingPips and Leveraged.
+Which prop firms support MT5, cTrader or both
+Platform line-ups change often, so check the firm’s checkout page before you buy.
+MT5 vs cTrader: what changes for a prop trader
+The challenge rules are the same on either platform. What changes is how you automate, how you read the market and how you size trades under tight loss limits.
+Three platform rules that catch traders out
+1. The platform is usually locked once you trade. At Leveraged you choose MT5 or cTrader when you buy and can change it only before your first trade. FTMO allows a change while no trade has been placed, and on funded accounts after each payout. Pick the platform you plan to keep.
+2. Automation rules matter more than the platform. Leveraged allows EAs and cBots you built yourself, including fully automated ones, but bans bought or rented EAs. FTMO allows EAs but flags accounts that send more than 2,000 server requests a day.
+3. Execution rules apply on both. Leveraged expects trades to stay open for roughly two minutes or more and bans high-frequency and tick scalping. FTMO adds a delay of up to 200 milliseconds to mimic real-market conditions. A faster platform does not get around these rules.
+Leveraged on MT5 and cTrader
+Every Leveraged program runs on either platform, with about 60 instruments across forex, indices, metals, energies, commodities, crypto and stocks. Forex and metals cost $4 per lot;
+everything else is commission-free. The program you pick matters more than the platform:
+Sprint is built for news traders. It is the only Leveraged program that allows trading through major releases, with a 2% target, 1% loss limits and a first payout as soon as you pass.
+Executive is for larger accounts, from $250,000 to $1 million, with a fixed loss limit and no consistency rule.
+Leveraged ONE is a one-step challenge with a single payment and a 6% target.
+All programs pay an 80% profit split and have no time limit on the evaluation.
+Under very tight limits, such as Leveraged Sprint’s 1% daily loss limit, a platform’s sizing tools matter more than its charts.
+FAQ
+Which prop firms offer both MT5 and cTrader?
+FTMO, The5ers, FundedNext, FundingPips and Leveraged all support both. FTMO also offers MT4, DXtrade and TradingView, while FundedNext and FundingPips add Match-Trader.
+What are the best prop firms that use MetaTrader 5?
+All five firms above run their CFD challenges on MT5. Choose between them on the program rules, such as drawdown type, news trading and consistency limits, which matter more than the platform.
+What are the best prop firms that support cTrader?
+The same five firms support cTrader. Leveraged offers it on every program, including Sprint, which allows news trading, and Executive, which offers accounts up to $1 million.
+Can I switch from MT5 to cTrader after buying a challenge?
+At Leveraged, only before your first trade. At FTMO, before your first trade or on a funded account after each payout. Check the rule before you start.
+Are EAs and cBots allowed at prop firms?
+Usually, with limits. Leveraged allows EAs and cBots you built yourself but bans bought ones. FTMO allows EAs up to 2,000 server requests a day.
+Is cTrader or MT5 better for passing a prop firm challenge?
+Neither platform passes a challenge for you. cTrader’s built-in risk sizing helps under tight limits, while MT5 suits traders who rely on MQL5 tools.
+Brian Wang is a Futurist Thought Leader and a popular Science blogger with 1 million readers per month. His blog Nextbigfuture.com is ranked #1 Science News Blog. It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology.
+Known for identifying cutting edge technologies, he is currently a Co-Founder of a startup and fundraiser for high potential early-stage companies. He is the Head of Research for Allocations for deep technology investments and an Angel Investor at Space Angels.
+A frequent speaker at corporations, he has been a TEDx speaker, a Singularity University speaker and guest at numerous interviews for radio and podcasts. He is open to public speaking and advising engagements.

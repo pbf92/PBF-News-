@@ -1,0 +1,30 @@
+URL: https://www.cbr.com/gta-6-patch-ps5-xbox-update-weather-bug/
+TITLE: First GTA 6 Update Fixes Major Open-World Issue
+OUTLET: Comic Book Resources
+
+Not even eight years of principal development could save Grand Theft Auto 6 from a few bugs, but now Rockstar has pushed the game's first update to address a handful of issues. An unprecedentedly successful launch has seen GTA 6 become the best-selling entertainment product of all time, but the attention has brought drama as well, with negative user reviews flooding in for silly reasons and a full build of the game leaking online.
+But despite GTA 6's ambition, Rockstar's return to Vice City is something of a technical marvel. Valid critiques pine for higher frame rates, but it would seem game-breaking bugs are few and far between. No modern game is safe from such issues, though, and Rockstar has detailed the first post-launch patch for GTA 6, which went live on both PS5 and Xbox today, November 23.
+Grand Theft Auto 6 Patch Fixes Stagnant Weather
+Perhaps a testament to GTA 6's impressive technical state, its first patch is not very large, coming in at just over 603 MB on PS5 and 1.6 GB on Xbox. Rockstar first notes that "several issues that caused the game to crash" have been fixed. Always a good sign, but the second bullet point is perhaps the most exciting of the bunch: "Fixed an issue that resulted in the weather not changing for extended periods."
+Plenty of attentive players had grown concerned that Grand Theft Auto 6 might not have a robust dynamic weather system—something that would be dearly missing from such an otherwise immersive open world. It will come as a relief to know that this appears to have been a bug. After the patch, the terminally sunny Leonida players have come to know during the game's first weekend on the market may not remain so temperate.
+The full patch notes are as follows:
+- Fixed several issues that caused the game to crash
+- Fixed an issue that resulted in the weather not changing for extended periods
+- Fixed an issue that resulted in the game not autosaving correctly
+- Fixed several issues that resulted in phone calls not triggering correctly including those that progressed the story or unlocked mission content
+- Fixed an issue that resulted in the player being unable to lose their Wanted Level
+- Fixed an issue that resulted in the player being unable to use the deadlift bar in the Gym
+- Fixed an issue that resulted in partners not handing over bags so that players could sell them to fences
+Important Fixes Come in GTA 6's First Update
+A bugged weather simulation has a subtly massive impact on a game like Grand Theft Auto 6, where a large part of the appeal is exploring a virtual world that's not only designed to have verisimilitude, but is also a satirical reflection of American and Floridian culture. Individual players can get drastically different vibes from open-world activities based on the effectively random weather patterns that manifest. There are also more tangible gameplay consequences when rain affects things like vehicle handling.
+The GTA 6 patch notes at large are fairly unsurprising for a first update post-launch. Critical issues regarding autosaves and key gameplay systems like the Wanted Level system have hopefully been curtailed for good. It's frankly a little shocking that more GTA 6 bugs haven't gone viral. The game is clearly very complex, and less sophisticated open worlds have given players far more frustration. The release delays seem to have benefited Grand Theft Auto 6, and while issues weren't completely avoidable, at least some major ones have been addressed in short order.
+- Released
+- November 19, 2026
+- ESRB
+- Rating Pending - Likely Mature 17+
+- Developer(s)
+- Rockstar Games
+- Publisher(s)
+- Rockstar Games
+- Engine
+- Rockstar Advanced Game Engine (RAGE)

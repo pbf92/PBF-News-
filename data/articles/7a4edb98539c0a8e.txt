@@ -1,0 +1,28 @@
+URL: https://www.medpagetoday.com/obgyn/abortion/124013
+TITLE: Neonatal Deaths Rose After Abortion Bans, Study Suggests
+OUTLET: MedPage Today
+
+Key Takeaways
+- Abortion bans were associated with a 5.5% higher-than-expected rate of neonatal mortality, equating to about 745 excess neonatal deaths.
+- There were notable increases in deaths among Black infants, suggesting bans may contribute to health disparities.
+- In ban states, deaths were concentrated in the neonatal period, and congenital anomalies were higher than expected, suggesting the primary mechanisms linking abortion bans to mortality may operate during pregnancy and at birth, the authors said.
+Newborn deaths rose after states implemented abortion bans, partly driven by a rise in severe congenital malformations, a retrospective population-based analysis showed.
+Deaths among neonates were 5.5% (95% credible interval [CrI] 2.6-8.5%) higher than expected in abortion ban states, equating to about 745 excess neonatal deaths (95% CrI 367-1,139) in those states, reported Nansi Boghossian, MPH, PhD, of the University of South Carolina in Columbia, and colleagues.
+While there was a 1.8% (95% CrI −0.2% to 4.3%) higher-than-expected increase in infant deaths -- or about 288 (95% CrI −25 to 658) excess deaths -- it was not statistically significant, they wrote in JAMA Network Open.
+"Our findings suggest that abortion bans may have meaningful downstream effects on infant health outcomes," Boghossian told MedPage Today, adding that this study further suggests "that the link between bans and these deaths operates mainly during pregnancy and at birth, rather than through postnatal care."
+The 2022 Dobbs v. Jackson Women's Health Supreme Court decision overturned the federal right to abortion, sparking a flurry of abortion bans. Past research has shown that birth rates and infant mortality increased in abortion ban states following Dobbs. In Texas, the largest state to ban abortion, infant and neonatal deaths rose after the early pregnancy ban was instated in 2021.
+Boghossian said the team wanted to look at a longer time period after bans and include states that more recently banned abortion to get a fuller picture, so they followed neonatal deaths for about 3 years after most bans, and infant deaths for about 2 years.
+Estimated rates of both neonatal (2.2%, 95% CrI −0.5% to 5.2%) and infant (0.2%, 95% CrI −1.2% to 2.0%) deaths were attenuated after Texas was excluded. When assessed by state, both Texas and Alabama had the greatest increases in neonatal mortality, they reported.
+In subgroup analyses, the highest mortality increases were observed among Black infants (8.8%, 95% CrI 3.3-14.2%), they found.
+"Black infants in the U.S. already die at more than twice the rate of White infants," Boghossian noted. "Abortion bans may make that gap wider."
+When analyzing by timing, deaths were concentrated in the neonatal period (5.0%, 95% CrI 1.7-8.4%) and by cause of death, infant mortality due to congenital anomalies was higher than expected (6.9%, 95% CrI 1.8-12.5%).
+"This distribution suggests that the primary mechanisms linking abortion bans to mortality may operate during pregnancy and at birth, rather than through postnatal care," the researchers wrote. "Neonatal deaths are more likely to reflect conditions originating in utero, including congenital anomalies, consistent with our findings of increased mortality from these causes."
+Bans may "increase the continuation of pregnancies affected by severe fetal anomalies that would otherwise have been terminated," they wrote.
+Catherine Coughlin, MD, MPH, of Brown University in Providence, Rhode Island, noted in an accompanying editorial that this study "adds to the growing body of literature supporting an association between abortion bans and higher-than-expected infant mortality."
+Several of the top drivers of infant and neonatal mortality are directly impacted by abortion bans, Coughlin wrote. While some abortion ban states have exceptions to save the life of the mother, physicians have reported "ambiguity in how laws are enforced in a clinical setting, leading to confusion in how to best care for patients," she wrote.
+Moreover, she argued that comprehensive reproductive healthcare is a tool to combat both neonatal and infant mortality and disparities.
+For this retrospective cohort study, researchers used aggregate birth and death certificate data from the National Center for Health Statistics (NCHS), which covers all 50 states and Washington D.C.; from January 1, 2012 to December 31, 2024 there were about 53 million births.
+There were 198,967 neonatal deaths through 2025 and 281,873 infant deaths through 2024. Among these deaths, 29.0% were Black infants, 21.8% were Hispanic infants, 42.1% were White infants, and 7.1% were other racial and ethnic groups.
+The authors compared 16 states with abortion bans to the 34 states and D.C. that don't have bans. A statistical model estimated how many neonates and infants would have died if the ban hadn't happened, which was compared against what actually happened.
+The primary outcomes were neonatal mortality, defined as death before 28 days old, and infant mortality, defined as deaths before 1 year of age, per 1,000 live births.
+There were several limitations, including limited sample sizes, that the 2025 data is provisional, and that using aggregate data precluded them from examining individual pregnancies or pinning down a single mechanism. Boghossian said that future work should analyze individual-level data. Plus, COVID-related Medicaid unwinding began in 2023, which overlapped with the ban periods, and researchers assumed no interstate spillovers, though some people do travel for abortion care.

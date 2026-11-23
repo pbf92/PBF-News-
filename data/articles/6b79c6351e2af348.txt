@@ -1,0 +1,48 @@
+URL: https://www.makeuseof.com/play-gta-6-on-pc-60fps/
+TITLE: I'm playing GTA 6 at 60fps on PC without paying for anything extra
+OUTLET: MakeUseOf
+
+There's no doubt that from a technical standpoint, GTA 6 is one of the most impressive releases of, well, perhaps all time. However, as with any great game, the sheer graphical prowess of Rockstar Games' proprietary engine comes at a steep performance cost. It's no secret that GTA 6 is locked at 30fps on consoles, regardless of whether you're playing it on PS5 or Xbox Series X|S. Even the PS5 Pro cannot run the game at 60fps.
+However, you can still play the game at higher frame rates thanks to tech like Lossless Scaling. That said, it turns out you don't even need to pay for Lossless Scaling if all you want is to experience GTA 6 at 60fps.
+You can get the game running at 60fps on your PC without Lossless Scaling, albeit with some major caveats.
+How to play GTA 6 at 60fps
+All you need is a PC and an open-source remote play app
+The simple idea behind playing GTA 6 at 60fps is to use the PS5's Remote Play feature. Essentially, we are going to stream the game to a PC and set the stream to output at a higher frame rate. In theory, this lets you play the game like you normally would on your PS5, but you do it while looking at your computer screen. Naturally, this isn't an ideal way to play your games on the PS5, especially if you have your console hooked up to a TV.
+However, if your goal is simply to play GTA 6 at 60fps, this method certainly gets you there. Now, to set up remote play, you first need to install an open-source software called SmoovPlay on your PC, along with chiaki-ng (the open-source Remote Play client for Windows).
+- 
+                                        Download SmoovPlay from GitHub and install it using the setup wizard.
+                                                
+  - If you're using Windows Security (Defender), you might see a UAC prompt saying the SmoovPlay-Setup.exe is a Trojan. However, you can click Run anyway to install it.
+  - The reason Windows identifies SmoovPlay as a Trojan is that it's unsigned code. However, rest assured that the application is not a Trojan or a virus.
+- 
+                                        Next, you want to set up remote play using SmoovPlay. But before that, make sure you have Remote Play enabled on your PS5.
+                                                
+  - Head to Settings > System > Remote Play > Enable Remote Play on your PS5 to toggle the Remote Play option.
+  - While you're in PS5 settings, make sure HDCP is disabled.
+- Next, launch chiaki-ng, which will open the chiaki-ng portal in your browser and prompt you to sign in to your PSN account.
+- Once you sign in to your PSN account on chiaki-ng, it will land you on a redirect page. On this page, you need to copy the URL at the top and paste it into the Redirect URL from Web Browser option within chiaki-ng.
+- Once you paste the URL, click on Get Account ID.
+- Next, head back to your PS5's Remote Play settings and click on Pair Device. This will give you a unique code that you need to paste into chiaki-ng's account ID page.
+- 
+                                        Once you set it up, chiaki-ng will eventually stream your PS5's dashboard to your PC. However, before that, head to chiaki-ng's Stream settings and make sure the frame rate is set to 60fps.
+                                                
+  - We also recommend keeping the resolution at 1440p or 1080p for a more stable stream with minimal input lag.
+Now, just connect your DualSense controller to your PC and click on Go to play to start streaming your PS5 to your PC. From there, launch GTA 6, and it should stream the game at 60fps. I also recommend tweaking your PS5's HDR settings to get the best image quality in GTA 6 before you start streaming using SmoovPlay.
+Although you will find the gameplay much smoother compared to the 30fps cap on the native PS5 version, at the end of the day, it's still a stream. And streaming a game comes with a multitude of caveats, image quality and input lag being chief among them.
+Lossless Scaling improves the image quality
+But you don't need it for better performance
+By default, SmoovPlay keeps the output resolution at 1080p, while the stream resolution is set to 720p. And in most cases, it's best to stick to the default settings. While you can bump up the resolution to 4K, doing so might end up causing more harm than good. The biggest issue is still image quality, which, on stream, looks very choppy, especially during hectic combat encounters. This is where Lossless Scaling can help ever so slightly.
+However, before you can even use Lossless Scaling, you will need a capture card, which isn't particularly cheap. The idea is to hook your PS5 to a capture card via the HDMI out and then stream the output to your PC.
+While it's still technically streaming the game to your PC, it's not using the internet to do it. Instead, the stream is being handled by the capture card, which already gets rid of the visual noise that comes with streaming a game. Additionally, you can further improve the image quality using Lossless Scaling, which you can keep running in the background.
+Lossless Scaling is an excellent alternative to upscalers in PC games.
+That being said, Lossless Scaling isn't a necessity for better performance. It does help deliver a slightly sharper image, but it's not needed if you're streaming at 1440p and 60fps.
+That said, Lossless Scaling is a fairly inexpensive app on Steam and is compatible with most games on the platform. So it's not a bad idea to spend $7 to add it to your Steam library. You can also grab "free" alternatives to Lossless Scaling on GitHub. However, most of them don't offer all the options available in the Steam version.
+GTA 6 is best played at its native frame rate
+30fps isn't as bad as you might think
+Hear me out. 30fps in GTA 6 isn't as bad as it might sound. Now yes, I do agree that a 60fps performance option would've been ideal. In fact, I would've taken a 40fps mode in GTA 6 as well, which would make it perfect for VRR displays. However, at the same time, I do understand Rockstar Games' rationale behind locking the game's frame rate to 60fps. You see, both the PS5 and Xbox Series X are incredibly powerful consoles, but with very dated CPUs.
+I mean, these consoles are still running on AMD's Zen 2 CPU, which is equivalent to the Ryzen 5 3600, a CPU that can be considered an ancient relic by today's standards.
+That's the single biggest reason why GTA 6 is locked to a measly 30fps. Open-world games like GTA require a beefy CPU to handle the multitude of simulations and physics systems that all coalesce into delivering an immersive experience. However, if a system is CPU-bottlenecked, that's bound to limit performance, even if you have a very good GPU.
+30fps is perfectly playable on consoles; it just takes a bit of getting used to.
+And that's the case with the current-generation PlayStation and Xbox consoles. That being said, after having spent roughly 20 hours playing the game on my base PS5, I don't think I really dislike the idea of playing at 30fps.
+It just takes a bit of time to get used to the lower frame rate. While you might get slightly better performance on Xbox Series X, thanks to the better SSD, the base PS5 is more than enough to offer a playable experience in GTA 6. And hey, you can always just wait a few more months for the official PC version of the game.
+I'm sure Rockstar Games won't take another 13 years to deliver on that.

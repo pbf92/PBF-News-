@@ -1,0 +1,15 @@
+URL: https://cryptobriefing.com/ai-code-review-automation/
+TITLE: Anthropic launches Claude Ship to automate code reviews and approvals
+OUTLET: Crypto Briefing
+
+The new platform uses AI agents to review pull requests, resolve coding issues and approve changes based on company policies.
+Anthropic launched Claude Ship on Monday, a new platform that allows AI agents to review code, fix errors and approve pull requests based on rules established by engineering teams.
+The platform, available in beta for Claude Team and Enterprise customers using GitHub, combines the existing Code Review feature with two new agents, PR Steward and Claude Approvals.
+Code Review examines proposed changes for bugs and other issues, while PR Steward automatically addresses failed checks, merge conflicts and reviewer feedback. Claude Approvals determines whether changes can be approved automatically or require human authorization under policies defined by each team.
+Developers can also use a new /ship command in Claude Code to push changes, open pull requests and initiate automated reviews and fixes. Organizations can configure the system to operate across entire repositories, with administrators controlling review levels, approval requirements and spending limits.
+AI, tech, and the markets they move—in one daily briefing.
+Daily. Free. Join 34,000+ readers across crypto, finance, and policy.
+Anthropic said the number of merged pull requests on its Claude Code team more than doubled between June and September, while the share of reverted changes declined by more than 40%.
+The company is offering eligible Claude Enterprise customers at least $10,000 in promotional Claude Ship credits, which must be claimed by January 15, 2027.
+Claude Ship usage is billed based on token consumption, with costs depending on the size and number of pull requests, review complexity and automated fixes.
+Disclosure: This article was edited by Diego Almada Lopez. For more information on how we create and review content, see our Editorial Policy.

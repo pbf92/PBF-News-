@@ -1,0 +1,27 @@
+URL: https://superpowerdaily.com/posts/melio-adds-bill-management-to-claude-keeping-payment-confirmation-in-its-own-app
+TITLE: Melio adds bill management to Claude, keeping payment confirmation in its own app
+OUTLET: Superpower Daily
+
+Melio adds bill management to Claude, keeping payment confirmation in its own app
+The November directory addition goes beyond financial questions: users can create bills and update vendors in chat. Anthropic’s verification label is not a guarantee that the tools work as intended.
+Melio’s Claude connector brings invoice intake and supported bill and vendor record updates into chat, extending it beyond financial lookups. It can prepare payments for one or multiple bills, but users must review and confirm them in Melio before funds move. The connector’s Anthropic-verified label is not a guarantee that its tools will work as intended; Anthropic advises connecting only tools from developers users trust.
+01
+The connector joined Claude’s directory in November 2026 and requires users to sign in to Melio.
+02
+Users can upload vendor invoices as PDFs or images to create bills, and add or update vendor records.
+03
+Searches cover due bills, payment history and items awaiting approval, with filters for vendor, amount, status or date.
+Melio’s connector joined Claude’s directory in November 2026, giving users a way to look up business bills, update vendor records and prepare payments through conversation. The payment boundary is explicit: Claude can line up a single payment or a batch, but users must review and confirm it in Melio before money moves.
+Made by Melio, the connection requires sign-in and is marked Anthropic verified. Melio, a Xero company, serves U.S. small businesses and accounting firms. The integration puts account information and supported account changes in the same conversation, rather than limiting Claude to answering questions about financial records.
+Find the bill, then work on it
+The listing describes plain-language questions about what is due, what has already been paid and which payments still need approval. Users can narrow a search by vendor, amount, status or date, and request totals over a chosen period. Results appear as cards inside the chat, keeping the underlying bill or payment details available for review.
+Those searches cover several distinct bookkeeping questions:
+Upcoming obligations: identify bills coming due and inspect their details.
+Payment history: check which vendors have been paid and retrieve payments matching an amount or date.
+Approval status: find payments waiting for a decision.
+The write functions start with invoices. Users can upload a vendor invoice as a PDF or image to create a bill, then add or update bills and vendor records directly in conversation. That makes the connector more than a read-only view of Melio: supported requests can change the records used to organize business payments.
+Users can also configure how vendors receive payments. For payments already awaiting approval, the connector can open the pending item in Melio so the user can approve or decline it. Preparing several bills for payment can span multiple vendors, rather than requiring a separate preparation request for each vendor.
+Verification has a stated limit
+The Anthropic verified badge appears alongside a broader warning about connector use. Anthropic says it does not control which tools developers make available and cannot verify that they will work as intended or remain unchanged. It advises users to connect only tools from developers they trust. The badge should not be read as a performance guarantee.
+That distinction is especially concrete here: the listed tools include bill uploads, vendor management, payment preparation and payment review, not just searches. The payment-confirmation requirement describes where authorization happens; it is separate from Anthropic’s warning about whether a developer’s tools will behave as intended.
+For small businesses and accounting firms using Melio, the addition brings invoice intake, record maintenance and financial questions into Claude. It does not make the chat the final place where a payment is authorized.

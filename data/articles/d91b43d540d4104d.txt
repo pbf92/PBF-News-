@@ -1,0 +1,25 @@
+URL: https://www.unite.ai/anthropic-launches-claude-ship-to-review-fix-and-approve-prs/
+TITLE: Anthropic Launches Claude Ship to Review, Fix and Approve PRs
+OUTLET: Unite.AI
+
+Key PointsClaude Ship separates the power to fix pull requests from the authority to approve them.
+View more
+- Claude Ship separates the power to fix pull requests from the authority to approve them.
+- Approval policies let routine changes pass while routing designated scenarios to deeper human sign-off.
+- Anthropic reports merged pull requests more than doubled while the share reverted fell by more than 40%.
+Anthropic launched Claude Ship on November 23, 2026, making the beta product available to Claude Team and Enterprise organizations for GitHub repositories. It pairs the generally available Code Review with two new public-beta agents, PR Steward and Claude Approvals, to carry pull requests through review, fixes and an approval decision.
+Together, they address the handoffs after code is written. Code Review reads a change alongside the surrounding codebase, gathers and adversarially verifies findings, and posts severity-ranked inline comments on the affected lines. PR Steward can push commits containing fixes, while Claude Approvals checks the pull request against a policy written by the team.
+Review depth is configurable. Administrators can select Quick, Standard or Deep review levels for each repository and choose when reviews run, allowing different repositories to use different levels of scrutiny and automation.
+PR Steward Pushes Fixes Without Merge Authority
+PR Steward responds to failing continuous-integration checks, merge conflicts and feedback from Code Review, other review tools or team members. After every push, it comments on what changed and how to undo the work. Developers can steer the agent with an @claude instruction or tell it to step back with @claude stop.
+PR Steward is designed not to approve or merge pull requests. Repository settings and GitHub branch rules determine what can merge, keeping the authority to complete a pull request separate from the agent’s ability to commit fixes.
+Approval Policies Determine Human Sign-Off
+Claude Approvals uses a policy file that the team writes in the repository. The policy can set how many people must approve changes to a path and where Claude may post an approving review. Routine changes can receive Claude’s approval when permitted, while designated scenarios require deeper human sign-off. Decision signals can include Code Review findings and the team’s own classifiers written in natural language.
+Anthropic recommends that most customers begin in observe-only mode, where the check reports what the policy would decide and normally does not block merging. Enforcement requires the organization to make Claude Approvals a required GitHub check.
+The technical documentation warns both that GitHub auto-merge or a merge queue can merge a change without anyone acting if the policy does not require a person’s approval, and that Claude Ship may miss bugs, security vulnerabilities or other issues.
+Rollout, Early Results and Token Billing
+Developers can start the process on their own changes with /ship, which began rolling out in Claude Code and the desktop app alongside the launch. The command pushes the change, opens a pull request, reviews it and works on feedback and failing checks, subject to the developer’s permissions and repository branch rules. Organizations can instead enable Claude Ship repository by repository so its agents start across team pull requests without a manual /ship invocation.
+Anthropic runs Claude Ship on many of its own pull requests. On the Claude Code team, where Claude’s review is one layer of a broader process, the company reports that merged pull requests more than doubled from June to September 2026 while the share reverted fell by more than 40%.
+Claude Ship usage is billed by tokens separately from a plan’s included usage. Costs depend on the number and size of pull requests, review level and frequency, and the amount of PR Steward work. Administrators can set spend limits for Code Review and PR Steward. Claude Approvals has no base charge, but classifier runs consume billed tokens and a policy-requested Claude review triggers a billed Code Review even in observe mode. Running /ship counts as regular Claude Code usage.
+Eligible Claude Enterprise organizations can claim at least $10,000 in Claude Ship credits by January 15, 2027, for use within 30 days of claiming. The agents are unavailable to organizations using Zero Data Retention, the HIPAA configuration or customer-managed encryption keys.
+Claude Ship moves Anthropic’s agents beyond producing code and into coordinating the work that surrounds a pull request. Its practical role is defined by those repository controls: policy, required checks and branch rules determine whether it assists human reviewers or allows changes to merge without human involvement.

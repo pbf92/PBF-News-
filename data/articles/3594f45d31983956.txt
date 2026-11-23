@@ -1,0 +1,37 @@
+URL: https://www.nature.com/articles/s41575-026-01290-w
+TITLE: Contemporary management of Crohn’s disease: optimizing outcomes
+OUTLET: Nature
+
+Strategy studies published in 2026 demonstrated that, with already approved medications or established surgical approaches, better outcomes for patients with Crohn’s disease can be achieved.
+Key advances
+- The PROFILE trial’s 5-year follow-up supports early top-down anti-TNF combination therapy in newly diagnosed Crohn’s disease, with fewer abdominal surgeries, hospitalizations and B2–B3 complications than a step-up strategy3.
+- The 10-year follow-up in the LIR!C trial demonstrates significantly higher therapy-free remission after ileocaecal resection than after infliximab in selected patients with limited ileal Crohn’s disease, supporting shared medical–surgical decision-making5.
+- In the REScUE study7, 4-weekly ustekinumab was not superior to 8-weekly dosing after intravenous reinduction; objective reassessment within 24 weeks can help to identify patients who should switch treatment rather than continue ineffective intensification.
+Access options
+Access Nature and 54 other Nature Portfolio journals
+Get Nature+, our best-value online-access subscription
+Subscribe to this journal
+Receive 12 print issues and online access
+Buy this article
+- Purchase on SpringerLink
+- Instant access to the full article PDF.
+USD 39.95
+Prices may be subject to local taxes which are calculated during checkout
+References
+- Wu, L., Yang, C. & Wu, J. Biologic and small-molecule therapies for inflammatory bowel disease: mechanisms, comparative evidence and the emerging pipeline. Front. Pharmacol. 17, 1948258 https://doi.org/10.3389/fphar.2026.1948258 (2026).
+- Todescatto, A. D., Mendes, C. R. S., Araujo, S. E. A. & Kotze, P. G. Robotic surgery in inflammatory bowel disease: a systematic review. Int. J. Colorectal Dis. 41, 174 https://doi.org/10.1007/s00384-026-05213-8 (2026).
+- Noor, N. M. et al. Long-term outcomes of top-down therapy versus a conventional step-up strategy in adults newly diagnosed with Crohn’s disease: 5-year follow-up of the PROFILE trial. Lancet Gastroenterol. Hepatol. 11, 960–970 https://doi.org/10.1016/S2468-1253(26)00192-5 (2026).
+- Noor, N. M. et al. A biomarker-stratified comparison of top-down versus accelerated step-up treatment strategies for patients with newly diagnosed Crohn’s disease (PROFILE): a multicentre, open-label randomised controlled trial. Lancet Gastroenterol. Hepatol. 9, 415–427 https://doi.org/10.1016/S2468-1253(24)00034-7 (2024).
+- Ponsioen, C. Y. et al. Laparoscopic ileocaecal resection versus infliximab for terminal ileitis in Crohn’s disease: a randomised controlled, open-label, multicentre trial. Lancet Gastroenterol. Hepatol. 2, 785–792 https://doi.org/10.1016/S2468-1253(17)30248-0 (2017).
+- Oldenburg, L. et al. Ileocaecal resection versus infliximab for ileal Crohn’s disease: retrospective 10-year follow-up of the LIR!C trial. Lancet Gastroenterol. Hepatol. 11, 314–322 https://doi.org/10.1016/S2468-1253(25)00374-7 (2026).
+- Bossuyt, P. et al. The effect of dose intensification after secondary loss of response to ustekinumab in Crohn’s disease: results of the REScUE study. Gastroenterology 171, 99–109 https://doi.org/10.1053/j.gastro.2026.01.042 (2026).
+- Hupé, M. et al. Impact of immediate drug optimization of ustekinumab on medium term targets in Crohn’s disease: results from the multicentre retrospective real-life study MUST. Dig. Liver Dis. 57, 1772–1777 https://doi.org/10.1016/j.dld.2025.05.024 (2025).
+Ethics declarations
+Competing interests
+P.G.K. has consulted for Abbvie, Johnson & Johnson, Pfizer, Takeda and Celltrion; has received speaking honoraria from Abbvie, Johnson & Johnson, Pfizer, Takeda and Celltrion; and has received scientific grants from Pfizer and Takeda. R.P. has consulted for Abbott, AbbVie, Abbivax, Alimentiv (formerly Robarts), Amgen, AnaptysBio, Arena, AstraZeneca, Biogen, BI, BMS, Celgene, Celltrion, Cosmos, Eisai, Elan, Eli Lilly, Ferring, Galapagos, Fresenius Kabi, Genentech, Gilead, GSK, JAMP Bio, Janssen, Merck, Mylan, Novartis, Oppilan, Organon, Pandion, Pendopharm, Pfizer, Progenity, Prometheus, Protagonist Therapeutics, Roche, Sanofi, Sandoz, Satisfai Health, Shire, Sublimity Therapeutics, Takeda, Theravance, Trellus, Viatris, Ventyx and UCB; has received speaker’s fees from AbbVie, Amgen, Arena, BMS, Celgene, Eli Lilly, Ferring, Fresenius Kabi, Gilead, Janssen, Merck, Organon, Pfizer, Roche, Sandoz, Shire and Takeda; and has served on advisory boards for AbbVie, Alimentiv (formerly Robarts), Amgen, Arena, AstraZeneca, Biogen, BI, BMS, Celgene, Eli Lilly, Ferring, Fresenius Kabi, Genentech, Gilead, GSK, JAMP Bio, Janssen, Merck, Mylan, Novartis, Oppilan, Organon, Pandion, Pfizer, Progenity, Protagonist Therapeutics, Roche, Sandoz, Shire, Sublimity Therapeutics, Takeda and Ventyx.
+About this article
+Cite this article
+Kotze, P.G., Panaccione, R. Contemporary management of Crohn’s disease: optimizing outcomes. Nat Rev Gastroenterol Hepatol (2026). https://doi.org/10.1038/s41575-026-01290-w
+- Published:
+- Version of record:
+- DOI: https://doi.org/10.1038/s41575-026-01290-w

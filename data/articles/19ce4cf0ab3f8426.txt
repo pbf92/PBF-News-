@@ -1,0 +1,13 @@
+URL: https://www.digitaltrends.com/computing/anthropic-claude-ship-code-review/
+TITLE: Anthropic expands Claude Code’s review tools with automated fixes and approvals
+OUTLET: Digital Trends
+
+Anthropic’s Claude Code already has a pretty useful Code Review feature that can examine pull requests and flag problems before the code gets merged. But finding issues is only one part of the process. Developers still have to go back, fix the problems, run the checks again, and find someone to approve the changes. Anthropic has now introduced Claude Ship, a new tool that expands upon the existing Code Review feature and lets Claude handle the fixes and approvals, too.
+What’s the new trick?
+Claude Ship can now review, fix, and approve pull requests based on the rules set by each team. It has three components, starting with Code Review, which is already generally available. Anthropic is adding two new AI agents, called PR Steward and Claude Approvals, which are currently available in beta.
+PR Steward takes care of the fixing part. It can work on problems flagged during code reviews, failing checks, and merge conflicts. It will even leave a comment explaining what it changed and how to undo those changes. Developers can simply use @claude to give it further instructions, or @claude stop to tell the agent to step back.
+Claude Approvals, meanwhile, handles the approval process. Teams just have to define their own rules in a repository file, and Claude can automatically approve routine changes that meet those requirements. For example, a team can let Claude approve changes to documentation, while keeping human approval mandatory for more sensitive code. PR Steward itself cannot approve or merge pull requests.
+How can you start using it?
+Getting started with Claude Ship is fairly easy. You just have to update Claude Code and run the new /ship command when your code is ready. Claude will push the changes, open a pull request, review the code, and work on any issues that come up. Developers can also enable it for an entire repository, so the process starts automatically.
+The new tool is available in beta for GitHub repositories on Claude Team and Enterprise plans. But do keep in mind that usage is billed based on tokens, which means it can add to the overall cost depending on how much work Claude handles.
+There’s also an important restriction here. Organizations using Zero Data Retention cannot use Claude Ship. Anthropic has also excluded organizations with HIPAA configurations or customer-managed encryption keys. For teams operating under such data protection requirements, the new automation features are simply not available.

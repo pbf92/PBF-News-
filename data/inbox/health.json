@@ -1,8 +1,19 @@
 {
- "updated": "2026-11-23T20:09:02Z",
- "new_this_run": 428,
+ "updated": "2026-11-23T21:38:25Z",
+ "new_this_run": 212,
  "failed_sources": [
-  "ppcland"
+  "abs",
+  "ap",
+  "athletic",
+  "australian",
+  "blscal",
+  "cme",
+  "earnings",
+  "manutd",
+  "ons",
+  "polls",
+  "ppcland",
+  "reuters"
  ],
  "sources": [
   {
@@ -10,16 +21,18 @@
    "desk": "world",
    "ok": true,
    "fetched": 25,
-   "new": 15,
+   "new": 14,
    "errors": []
   },
   {
    "id": "abs",
    "desk": "world",
-   "ok": true,
-   "fetched": 1,
+   "ok": false,
+   "fetched": 0,
    "new": 0,
-   "errors": []
+   "errors": [
+    "gn: HTTPError: HTTP Error 429: Too Many Requests"
+   ]
   },
   {
    "id": "aeon",
@@ -40,10 +53,12 @@
   {
    "id": "ap",
    "desk": "world",
-   "ok": true,
-   "fetched": 100,
-   "new": 15,
-   "errors": []
+   "ok": false,
+   "fetched": 0,
+   "new": 0,
+   "errors": [
+    "gn: HTTPError: HTTP Error 429: Too Many Requests"
+   ]
   },
   {
    "id": "apex",
@@ -58,7 +73,7 @@
    "desk": "ai",
    "ok": true,
    "fetched": 18,
-   "new": 7,
+   "new": 3,
    "errors": []
   },
   {
@@ -72,33 +87,37 @@
   {
    "id": "athletic",
    "desk": "united",
-   "ok": true,
-   "fetched": 32,
-   "new": 6,
-   "errors": []
+   "ok": false,
+   "fetched": 0,
+   "new": 0,
+   "errors": [
+    "gn: HTTPError: HTTP Error 429: Too Many Requests"
+   ]
   },
   {
    "id": "atlantic",
    "desk": "world",
    "ok": true,
    "fetched": 25,
-   "new": 10,
+   "new": 1,
    "errors": []
   },
   {
    "id": "australian",
    "desk": "world",
-   "ok": true,
-   "fetched": 98,
-   "new": 15,
-   "errors": []
+   "ok": false,
+   "fetched": 0,
+   "new": 0,
+   "errors": [
+    "gn: HTTPError: HTTP Error 429: Too Many Requests"
+   ]
   },
   {
    "id": "bas",
    "desk": "faith",
    "ok": true,
    "fetched": 4,
-   "new": 3,
+   "new": 0,
    "errors": []
   },
   {
@@ -106,7 +125,7 @@
    "desk": "world",
    "ok": true,
    "fetched": 98,
-   "new": 15,
+   "new": 3,
    "errors": []
   },
   {
@@ -114,7 +133,7 @@
    "desk": "united",
    "ok": true,
    "fetched": 76,
-   "new": 12,
+   "new": 1,
    "errors": []
   },
   {
@@ -128,10 +147,12 @@
   {
    "id": "blscal",
    "desk": "markets",
-   "ok": true,
-   "fetched": 5,
-   "new": 2,
-   "errors": []
+   "ok": false,
+   "fetched": 0,
+   "new": 0,
+   "errors": [
+    "gn: HTTPError: HTTP Error 429: Too Many Requests"
+   ]
   },
   {
    "id": "boe",
@@ -152,17 +173,19 @@
   {
    "id": "cme",
    "desk": "markets",
-   "ok": true,
-   "fetched": 17,
-   "new": 1,
-   "errors": []
+   "ok": false,
+   "fetched": 0,
+   "new": 0,
+   "errors": [
+    "gn: HTTPError: HTTP Error 429: Too Many Requests"
+   ]
   },
   {
    "id": "cochrane",
    "desk": "health",
    "ok": true,
    "fetched": 70,
-   "new": 15,
+   "new": 5,
    "errors": []
   },
   {
@@ -170,15 +193,15 @@
    "desk": "faith",
    "ok": true,
    "fetched": 2,
-   "new": 1,
+   "new": 0,
    "errors": []
   },
   {
    "id": "df",
    "desk": "gaming",
    "ok": true,
-   "fetched": 20,
-   "new": 9,
+   "fetched": 22,
+   "new": 1,
    "errors": []
   },
   {
@@ -192,17 +215,19 @@
   {
    "id": "earnings",
    "desk": "markets",
-   "ok": true,
-   "fetched": 20,
-   "new": 10,
-   "errors": []
+   "ok": false,
+   "fetched": 0,
+   "new": 0,
+   "errors": [
+    "gn: HTTPError: HTTP Error 429: Too Many Requests"
+   ]
   },
   {
    "id": "eurekalert",
    "desk": "health",
    "ok": true,
-   "fetched": 57,
-   "new": 15,
+   "fetched": 61,
+   "new": 11,
    "errors": []
   },
   {
@@ -217,7 +242,7 @@
    "id": "fed",
    "desk": "world",
    "ok": true,
-   "fetched": 1,
+   "fetched": 0,
    "new": 0,
    "errors": []
   },
@@ -242,15 +267,15 @@
    "desk": "ai",
    "ok": true,
    "fetched": 2,
-   "new": 2,
+   "new": 0,
    "errors": []
   },
   {
    "id": "guardian",
    "desk": "world",
    "ok": true,
-   "fetched": 78,
-   "new": 15,
+   "fetched": 77,
+   "new": 6,
    "errors": []
   },
   {
@@ -258,7 +283,7 @@
    "desk": "united",
    "ok": true,
    "fetched": 11,
-   "new": 3,
+   "new": 0,
    "errors": []
   },
   {
@@ -273,16 +298,16 @@
    "id": "information",
    "desk": "ai",
    "ok": true,
-   "fetched": 26,
-   "new": 8,
+   "fetched": 29,
+   "new": 3,
    "errors": []
   },
   {
    "id": "journals",
    "desk": "health",
    "ok": true,
-   "fetched": 24,
-   "new": 9,
+   "fetched": 53,
+   "new": 15,
    "errors": []
   },
   {
@@ -296,16 +321,18 @@
   {
    "id": "manutd",
    "desk": "united",
-   "ok": true,
-   "fetched": 11,
-   "new": 1,
-   "errors": []
+   "ok": false,
+   "fetched": 0,
+   "new": 0,
+   "errors": [
+    "gn: HTTPError: HTTP Error 429: Too Many Requests"
+   ]
   },
   {
    "id": "marketingbrew",
    "desk": "business",
    "ok": true,
-   "fetched": 2,
+   "fetched": 4,
    "new": 2,
    "errors": []
   },
@@ -314,7 +341,7 @@
    "desk": "united",
    "ok": true,
    "fetched": 99,
-   "new": 15,
+   "new": 6,
    "errors": []
   },
   {
@@ -322,7 +349,7 @@
    "desk": "business",
    "ok": true,
    "fetched": 32,
-   "new": 4,
+   "new": 2,
    "errors": []
   },
   {
@@ -338,7 +365,7 @@
    "desk": "expand",
    "ok": true,
    "fetched": 3,
-   "new": 1,
+   "new": 0,
    "errors": []
   },
   {
@@ -346,7 +373,7 @@
    "desk": "business",
    "ok": true,
    "fetched": 3,
-   "new": 1,
+   "new": 0,
    "errors": []
   },
   {
@@ -354,7 +381,7 @@
    "desk": "world",
    "ok": true,
    "fetched": 17,
-   "new": 2,
+   "new": 1,
    "errors": []
   },
   {
@@ -362,22 +389,24 @@
    "desk": "expand",
    "ok": true,
    "fetched": 12,
-   "new": 8,
+   "new": 0,
    "errors": []
   },
   {
    "id": "ons",
    "desk": "world",
-   "ok": true,
-   "fetched": 13,
-   "new": 1,
-   "errors": []
+   "ok": false,
+   "fetched": 0,
+   "new": 0,
+   "errors": [
+    "gn: HTTPError: HTTP Error 429: Too Many Requests"
+   ]
   },
   {
    "id": "openai",
    "desk": "ai",
    "ok": true,
-   "fetched": 2,
+   "fetched": 3,
    "new": 1,
    "errors": []
   },
@@ -392,17 +421,19 @@
   {
    "id": "polls",
    "desk": "world",
-   "ok": true,
-   "fetched": 50,
-   "new": 15,
-   "errors": []
+   "ok": false,
+   "fetched": 0,
+   "new": 0,
+   "errors": [
+    "gn: HTTPError: HTTP Error 429: Too Many Requests"
+   ]
   },
   {
    "id": "ppcland",
    "desk": "business",
    "ok": false,
-   "fetched": 76,
-   "new": 14,
+   "fetched": 96,
+   "new": 12,
    "errors": [
     "feed: HTTPError: HTTP Error 403: Forbidden"
    ]
@@ -411,16 +442,16 @@
    "id": "premier",
    "desk": "faith",
    "ok": true,
-   "fetched": 19,
-   "new": 5,
+   "fetched": 20,
+   "new": 0,
    "errors": []
   },
   {
    "id": "propindustry",
    "desk": "prop",
    "ok": true,
-   "fetched": 4,
-   "new": 1,
+   "fetched": 3,
+   "new": 0,
    "errors": []
   },
   {
@@ -444,7 +475,7 @@
    "desk": "expand",
    "ok": true,
    "fetched": 1,
-   "new": 1,
+   "new": 0,
    "errors": []
   },
   {
@@ -466,17 +497,19 @@
   {
    "id": "reuters",
    "desk": "world",
-   "ok": true,
-   "fetched": 100,
-   "new": 15,
-   "errors": []
+   "ok": false,
+   "fetched": 0,
+   "new": 0,
+   "errors": [
+    "gn: HTTPError: HTTP Error 429: Too Many Requests"
+   ]
   },
   {
    "id": "rns",
    "desk": "faith",
    "ok": true,
    "fetched": 10,
-   "new": 5,
+   "new": 2,
    "errors": []
   },
   {
@@ -491,8 +524,8 @@
    "id": "shopify",
    "desk": "business",
    "ok": true,
-   "fetched": 12,
-   "new": 3,
+   "fetched": 10,
+   "new": 0,
    "errors": []
   },
   {
@@ -500,15 +533,15 @@
    "desk": "world",
    "ok": true,
    "fetched": 20,
-   "new": 15,
+   "new": 5,
    "errors": []
   },
   {
    "id": "stat",
    "desk": "health",
    "ok": true,
-   "fetched": 15,
-   "new": 2,
+   "fetched": 14,
+   "new": 1,
    "errors": []
   },
   {
@@ -532,7 +565,7 @@
    "desk": "world",
    "ok": true,
    "fetched": 100,
-   "new": 15,
+   "new": 11,
    "errors": []
   },
   {
@@ -604,7 +637,7 @@
    "desk": "ai",
    "ok": true,
    "fetched": 10,
-   "new": 6,
+   "new": 1,
    "errors": []
   },
   {
@@ -612,7 +645,7 @@
    "desk": "gaming",
    "ok": true,
    "fetched": 30,
-   "new": 15,
+   "new": 13,
    "errors": []
   },
   {
@@ -635,7 +668,7 @@
    "id": "xboxwire",
    "desk": "gaming",
    "ok": true,
-   "fetched": 1,
+   "fetched": 2,
    "new": 1,
    "errors": []
   }
