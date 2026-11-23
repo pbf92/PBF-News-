@@ -1,0 +1,58 @@
+URL: https://www.ons.gov.uk/news/statementsandletters/letterfromlizmckeowntoedhumphersonhistoricgrossfixedcapitalformationstatistics
+TITLE: Letter from Liz McKeown to Ed Humpherson: historic gross fixed capital formation statistics
+OUTLET: Office for National Statistics
+
+From: Liz McKeown, Director of Economic Statistics Production and Analysis
+To: Ed Humpherson, Director General for Regulation, Office for Statistics Regulation
+23 November 2026
+Dear Ed
+Thank you for your letter of 12 October regarding the review of historical gross fixed capital formation (GFCF) statistics.
+I welcome OSR's continued engagement with this work and agree that users would benefit from greater clarity regarding the remaining programme of work, the approach to implementation, and the planned publication of further information.
+Long-running historical GFCF statistics provide important evidence for understanding the development of the UK economy, including changes in investment since the post-war period. We recognise the value of these statistics to economic analysts, researchers and other users, and the importance of addressing the identified quality issues transparently and thoroughly.
+As outlined in our July 2026 update, ONS confirmed quality issues are affecting the historic pre-1997 GFCF series. Since then, our focus has been on developing and implementing solutions to the historical issues identified through the review. As this work progresses, ONS is assessing the implications of the revised historical estimates and undertaking detailed quality assurance required to support future publication and implementation.
+We agree that users should receive information on the likely scale and direction of impacts at the earliest credible opportunity, accompanied by clear explanations of uncertainty and the provisional nature of any findings. We also recognise the importance of assessing and communicating any implications for wider National Accounts aggregates before revisions are fully implemented. The compilation of National Accounts is a complex process which follows an integrated framework, so any change, including to historical data, needs to be sequenced correctly.
+We are committed to working with interested stakeholders throughout this period. We will invite feedback on the indicative estimates and analysis as we progress, and will consider this feedback as we develop the subsequent analysis, explanatory material and user guidance.
+To support transparency, Annex A sets out the remaining programme of work, the key stages in our assessment of impacts, and our planned approach to publication and implementation.
+In summary, ONS plans to publish indicative impacts on historic GFCF estimates in May 2027, followed by analysis of the consequential impacts on wider National Accounts aggregates in November 2027. Subject to successful completion of the required quality assurance, governance and methodological approvals, and alignment with the wider National Accounts change programme, ONS is planning to implement the revisions as part of our Blue Book 2028 publication.
+The annex provides users with a clear understanding of the work that remains, the stages for our assessment of impacts, and our plans for implementing revisions through the National Accounts.
+We will continue to engage with the OSR as the work develops.
+Yours sincerely
+Liz McKeown
+Director, Economic Statistics Production and Analysis, Office for National Statistics
+Annex A: Historic Gross Fixed Capital Formation Review
+1. Background
+In July 2026, ONS published an update on its review of the historic gross fixed capital formation (GFCF) series. That update summarised the findings of the review to date, including the identification of significant quality issues affecting parts of the published pre-1997 series and the potential implications for historic estimates.
+Since publishing that update, ONS has focused on developing and implementing solutions to the issues identified through the review. This includes recalculating a historic current price GFCF series from a revised baseline set of data that addresses the identified issues, while incorporating improvements and scope changes introduced into the National Accounts since the review of the historical pre-1997 dataset in 2014. In parallel, ONS is assessing the impact of the revised estimates and undertaking the quality assurance required to support future publication and implementation.
+2. Remaining work
+The remaining programme of work will focus on:
+- completing development of revised historic current price GFCF estimates for the period 1948 to 1996;
+- undertaking detailed quality assurance and validation of revised estimates;
+- assessing the implications of revised GFCF estimates for wider National Accounts aggregates;
+- undertaking balancing and consistency work across the National Accounts;
+- developing and assuring associated chained volume measures;
+- securing appropriate methodological, governance and quality approvals; and
+- preparing supporting methods information and user guidance.
+3. Planned publications and implementation timetable
+Indicative impacts on historic GFCF estimates
+Planned publication: May 2027
+ONS intends to publish analysis of the likely impacts of the review on historic GFCF estimates.
+This publication will:
+- explain the issues identified through the review;
+- present indicative information on the likely scale and direction of revisions;
+- explain uncertainty and limitations associated with the historical estimates; and
+- summarise the remaining work required before implementation.
+The publication will provide users with the earliest credible indication of the potential implications for historic GFCF statistics.
+Indicative impacts on the wider National Accounts
+Planned publication: November 2027
+This publication will:
+- set out the implications for relevant historical National Accounts aggregates;
+- explain effects on the interpretation of long-run economic trends;
+- provide an update on any remaining methodological and quality assurance work.
+Implementation
+Subject to successful completion of the required quality assurance, governance and methodological approvals, and alignment with the wider National Accounts change programme, ONS intends to implement revisions to historic GFCF through as part of the Blue Book 2028 set of integrated changes.
+Implementation will include integration of the revised historic estimates within the National Accounts framework, together with supporting methodology information and guidance for users.
+4. Interim guidance for users
+Until revised estimates are available, users should continue to refer to the guidance set out in ONS's July 2026 update when interpreting the affected pre-1997 GFCF series. This includes reference to the Blue Book 2010 vintage as an alternative source for historical estimates. We recognise that these estimates were produced using older methods and are not coherent with the current post-1997 series, and users should take these limitations into account when using the data.
+ONS will update its guidance alongside the planned publications in May and November 2027, reflecting the latest evidence on the likely scale and direction of revisions and their implications for wider National Accounts aggregates.
+5. Stakeholder feedback
+ONS will invite feedback from stakeholders on the indicative estimates and analysis published in May and November 2027. We will consider this feedback when developing subsequent analysis, explanatory material and guidance ahead of implementation. This will help ONS understand how the revisions affect different uses of the data and communicate their implications clearly.

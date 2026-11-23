@@ -1,0 +1,11 @@
+URL: https://www.tradingview.com/news/gurufocus:1dcd3ed15094b:0-goldman-sachs-warns-s-p-500-selloff-may-not-be-over/
+TITLE: Goldman Sachs Warns S&P 500 Selloff May Not Be Over
+OUTLET: TradingView
+
+Goldman Sachs Warns S&P 500 Selloff May Not Be Over
+The S&P 500 sits 12% below its Oct. 6 record, a deeper drop than the 10% median calendar-year decline since 1980, and Goldman Sachs (GS) says a few signals could show when selling is exhausted, according to a note to clients.
+The pain has spread beyond AI: Goldman's AI basket is down 32% since the peak, and the index excluding AI sits 6% below its high.
+Goldman would read any of these as supportive of a low: evidence that AI spending will pay off in earnings, a dovish, or rate-friendly, Federal Reserve signal, or a much sharper pullback in investor positioning.
+That last one is not yet in place. Hedge funds have cut net leverage to its lowest since April 2025, yet Goldman's wider positioning gauge remains above average.
+Past corrections of at least 10% have usually been followed by gains. Across 22 such episodes since 1980, the S&P 500 added an average 4% over three months and rose in 73% of them.
+Goldman's 12-month forecast for the S&P 500 is 8,700, a target set before the latest slide.

@@ -1,0 +1,43 @@
+URL: https://mp1st.com/title-updates-and-patches/gta-6-first-update-1-002-002-released-on-november-23
+TITLE: GTA 6 First Update 1.002.002 Released on November 23
+OUTLET: MP1st
+
+The first game update for Grand Theft Auto 6 has been released today, November 23. If you can’t see it, it’s most likely because how Rockstar Games is handling patches, which is a rolling update worldwide.
+For now, the first 33% of players will be able to download GTA 6 update 1.002.002, and it clocks in at a modest 600 MB. Don’t expect any new content from this, as this should deal with some priority bugs.
+While this patch squashes bugs, don’t expect everything to be sorted out in one update.
+GTA 6 Receives First Update on November 23
+As expected, Rockstar Games has not released the official changelog just yet, though that should change within the day.
+For now, here are the known issues players are dealing with.
+Game crashes and stability
+- Game crashes to the PS5 home screen, sometimes with error code CE-108255-1.
+- Repeated crashes during the opening prologue and cutscenes.
+- Xbox consoles reportedly shutting down unexpectedly while playing.
+- Random freezing during gameplay, sometimes requiring a restart.
+- Crash frequency reportedly increases for some players after playing for a period of time.
+Gameplay and mission bugs
+- Missions becoming stuck because an NPC fails to appear or behaves incorrectly.
+- Mission objectives failing to register, preventing progression.
+- Players falling through the map or terrain.
+- Characters becoming stuck in animations or unable to perform certain actions.
+- NPCs clipping through characters, furniture, or other objects.
+- Objects, vehicles, and characters spawning or behaving incorrectly.
+- Softlocks requiring players to restart a mission or reload a save.
+Graphics and visual issues
+- Missing textures or textures failing to load properly.
+- Blurry graphics, particularly at a distance on some Xbox Series S reports.
+- Flickering lights and graphical artifacts.
+- Green, pink, cyan, or other unusual color tints covering the screen.
+- Black flashing artifacts, especially around water and reflective surfaces.
+- Water rendering incorrectly, including distorted or stretched visual effects.
+- Characters and environmental objects clipping through geometry.
+Audio issues
+- Crackling or distorted audio on Xbox Series S.
+- Audio cutting out intermittently.
+- Sound issues occurring alongside controller vibration problems.
+- Audio glitches during certain opening sequences.
+Save and progression problems
+- Lost progress following crashes or unexpected console shutdowns.
+- Save progress reportedly failing to retain some recent gameplay.
+- Players having to replay sections after crashes or mission softlocks.
+Once the official patch notes are available, we’ll update the article. Hopefully, this sorts out the PS5 error code that makes the game crash.
+In other GTA 6 news, check out our article detailing the secret/hidden controls that will make the experience better.

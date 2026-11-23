@@ -1,0 +1,18 @@
+URL: https://stocktwits.com/news-articles/markets/equity/meta-could-overtake-google-search-ad-revenue-in-2026-bernstein-says-ai-is-driving-the-shift/cZYyrqfRJsO
+TITLE: Meta Could Overtake Google Search Ad Revenue In 2026, Bernstein Says: AI Is Driving The Shift
+OUTLET: Stocktwits
+
+Meta Platforms (META) is on track to surpass Alphabet’s (GOOG, GOOGL) Google Search advertising revenue before the end of 2026, and artificial intelligence (AI) is driving the shift, according to Bernstein analysts.
+Meta captured nearly half of every incremental digital advertising dollar in the second quarter, according to a Bernstein note cited by Investing. The firm said estimates made in 2024 had projected digital advertising growth in 2026 at less than half the pace that Meta and Google Search are now delivering.
+The firm attributed much of the acceleration to AI, which it said is improving almost every part of the advertising process, from content recommendations and user engagement to ad targeting, delivery, and the path from discovering a product to making a purchase.
+META stock edged 0.4% lower in pre-market trade on Monday amid weakness in the broader market, while GOOGL stock fell around 0.6%. On Stocktwits, retail sentiment showed a broader divergence. Sentiment around Meta trended in ‘bullish’ territory over the past day while sentiment around Alphabet trended lower, falling to ‘extremely bearish’ from the ‘bearish’ zone.
+Bernstein noted that the largest platforms, Meta, Google, and Amazon (AMZN), are seeing their strongest ad growth in years despite already operating at massive scale.
+Larger platforms have more user data, more sophisticated audience targeting, stronger advertising automation, and better measurement tools. Those advantages give AI more data to work with and make its output more effective.
+Bernstein noted that Google is still seeing strong growth in its core advertising business. Search advertising revenue increased 19% year over year in the first quarter of 2026, while query volume reached an all-time high. The firm said AI Overviews and AI Mode have helped support Google's search business.
+However, Bernstein also noted that Google's broader advertising business is not moving uniformly. Network and AdSense revenue, which comes from Google's publisher network, fell 4% during the same period.
+According to the firm, Meta may already be roughly comparable with Google Search when looking at advertising revenue on a more like-for-like basis and excluding certain Google businesses such as Maps and Gmail.
+During its second-quarter (Q2) earnings report, Meta said its Advantage+ automated campaign platform was generating roughly $60 billion in annualized revenue. The company said advertisers using the system generated an average return of $4.52 for every dollar spent, around 22% higher than campaigns configured manually.
+CEO Mark Zuckerberg has said Meta wants to make ad creation fully automated by the end of 2026.
+META stock has fallen over 12% this year, while GOOGL stock has gained over 9%. The Mark Zuckerberg-led company has been under fire for allegedly facilitating social media addiction. Last week, Meta agreed to a $17 billion multi-state settlement in California after two recent losses in New Mexico. A trial in Tennessee and other litigation against the company remain open.
+For updates and corrections, email newsroom[at]stocktwits[dot]com.
+Comments posted here will also appear on symbol pages.

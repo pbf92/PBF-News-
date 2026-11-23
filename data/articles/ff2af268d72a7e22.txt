@@ -1,0 +1,34 @@
+URL: https://www.tradingview.com/news/stocktwits:39237aa48094b:0-nvidia-s-slide-bitcoin-s-sell-off-oil-s-fed-impact-3-charts-to-watch-this-week/
+TITLE: Nvidia's Slide, Bitcoin's Sell-Off, Oil's Fed Impact: 3 Charts To Watch This Week
+OUTLET: TradingView
+
+Nvidia's Slide, Bitcoin's Sell-Off, Oil's Fed Impact: 3 Charts To Watch This Week
+- October's PCE inflation report will be a key data point this week ahead of the Fed’s December policy rate decision meeting.
+- Bitcoin faces another test near its recent lows, while Strategy's planned removal from MSCI indexes on November 30 could trigger additional selling.
+- Oil's continued decline could offer some relief on inflation, but any escalation around the Strait of Hormuz or potential U.S. strikes could send crude prices back toward $100 a barrel.
+The AI trade got a fresh dose of good news last week, but the market continued to sell off.
+Nvidia (NVDA) beat earnings estimates and raised its revenue outlook, yet chip stocks and other AI-related names kept falling. Wall Street now heads into a shortened Thanksgiving week, with markets closed on Thursday and trading ending early on Friday. Thinner holiday trading could amplify moves in either direction.
+Three forces are weighing on stocks. Chipmakers remain under pressure despite strong earnings, Federal Reserve minutes point to continued concerns about inflation, and Bitcoin (BTC) has been sliding alongside technology stocks. Even Anthropic's (ANT) blockbuster IPO on Thursday lost momentum after an initial surge.
+Here are three charts that show what to watch this week:
+Will The Nasdaq Enter Bear Market Territory?
+The question this week is whether chip stocks can stabilize without another earnings catalyst. The Nasdaq-100 is down roughly 18% from its October peak, bringing it closer to the 20% decline commonly used to define a bear market.
+A rebound would suggest buyers are beginning to step back in. Another leg lower, however, could bring the index closer to that bear-market threshold.
+Investors will be watching for updates on Nvidia's leadership succession, any developments in U.S. chip export restrictions to China, and whether AMD can recover from last week's steep decline.
+Nvidia beat both earnings and revenue expectations in its third-quarter (Q3) results last week. Even though the market expected a guidance cut, Nvidia guided to about $130 billion in revenue next quarter, versus the $124.8 billion analysts had penciled in. Yet the stock kept falling and is down roughly 45% since its October peak.
+Questions around CEO Jensen Huang's abrupt departure, restrictions on chip sales to China, and the sustainability of AI infrastructure spending are weighing on the sector. Nvidia's own revenue forecast assumes no data center sales to China, while Advanced Micro Devices (AMD) fell as much as 11% on Thursday following a report related to China and firmware.
+In pre-market trading on Monday, NVDA stock rose around 8%, on track to post its biggest single-day hop since August, and was among the top trending tickers on Stocktwits at the time of writing. Retail sentiment around the AI bellwether trended in ‘extremely bullish’ territory over the past week, alongside ‘extremely high’ levels of chatter.
+The Nasdaq-100 tracking Invesco QQQ Trust Series 1 (QQQ) was also among the top trending tickers on Stocktwits at the time of writing, up 3.7% in pre-market trade. Retail sentiment around the ETF trended in ‘bullish’ territory over the past day, accompanied by ‘high’ levels of chatter.
+AMD stock was also on the track to recover in pre-market trade, rising around 6%, with retail sentiment trending in the ‘bullish’ zone and chatter at ‘high’ levels.
+Bitcoin Faces A Fresh Test On Nov. 30
+Bitcoin and crypto-linked stocks have fallen even faster than the Nasdaq-100. Bitcoin is down more than 25% since October, with the apex cryptocurrency hitting a low of around $55,000 on Friday. Strategy (MSTR), the largest corporate holder of Bitcoin, has lost roughly half its market value over the same period.
+The selling has also extended to investment products. Bitcoin investment vehicles recorded more than $1 billion in net outflows for a second consecutive week, adding to pressure on the cryptocurrency.
+The next major catalyst comes on November 30, when index provider MSCI is set to remove Strategy from its global indexes. The move would force funds tracking those indexes to sell their holdings.
+Strategy has historically funded Bitcoin purchases through stock sales and debt issuance, making a weaker share price a potential constraint on its ability to raise capital.
+If Bitcoin holds near recent lows through month-end, some of the anticipated index-related selling may already be reflected in prices. A further decline in Bitcoin, however, could compound the pressure on Strategy, leaving the company particularly exposed to the next leg of the crypto sell-off.
+Bitcoin’s price edged 0.8% higher in early morning trade on Monday. The apex cryptocurrency had recovered to around $61,000 over the weekend. On Stocktwits, retail sentiment around BTC improved to ‘neutral’ from ‘bearish’ over the past day, while chatter stayed ‘high.’
+Meanwhile, MSTR stock jumped almost 10% in pre-market trade. Retail sentiment around the Bitcoin treasury on Stocktwits trended in the ‘bearish’ zone over the past day, alongside chatter at ‘high’ levels.
+Falling Oil Prices Offer The Fed Some Relief
+Oil is one of the few areas providing a tailwind for markets. Brent crude has fallen roughly 20% this month to around $92 a barrel, helped by recovering shipments from the Persian Gulf and a faster-than-expected build in U.S. crude inventories.
+Lower oil prices could help ease inflation, a key concern for the Federal Reserve as policymakers weigh further rate increases ahead of the December monetary policy meeting. Minutes from the Fed's October meeting showed that almost all officials expected additional rate hikes, while some were open to a half-percentage-point increase in December.
+This week's October Personal Consumption Expenditures (PCE) report, the Fed's preferred inflation gauge, will offer another data point, although it will not fully capture the more recent decline in oil prices. The Fed will not receive November's Consumer Price Index (CPI) report until Dec. 10, a day after its policy decision.
+The United States Oil Fund (USO) slipped more than 1% in pre-market trading on Monday. On Stocktwits, retail sentiment around the ETF trended in ‘bearish’ territory with chatter at ‘low’ levels over the past day.

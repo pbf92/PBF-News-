@@ -1,0 +1,48 @@
+URL: https://macaubusiness.com/ecg-launches-ai-ecommerce-for-smes-one-ai-brain-four-agents-zero-transaction-fee-from-us19-a-month/
+TITLE: eCG Launches AI Ecommerce for SMEs: One AI Brain, Four Agents, Zero Transaction Fee from US$19 a Month
+OUTLET: Macau Business
+
+eCG Launches AI Ecommerce for SMEs: One AI Brain, Four Agents, Zero Transaction Fee from US$19 a Month
+By Plentisoft
+eCG platform positions “AI staff that run your business” against the store-plus-assistant model of Shopify, Wix and Squarespace
+— HONG KONG, 21 November 2026 — eCG today introduced eCG AI Ecommerce, a platform that gives small and medium-sized enterprises an AI-built online store plus a team of AI agents (Social Media, Outreach, Customer Service and Mail), all connected to one central knowledge layer, eCG Cloud. Plans start at US$19 per month with app, eCG Cloud and agents included. eCG charges no transaction fee, and new customers can register a .hk, .com.hk, .ca or .com domain for USD1.9 or HKD19 in the first year.
+Ecommerce platforms have spent 2026 adding AI to their admin panels. eCG takes a different approach: instead of an assistant that waits inside a store dashboard, eCG deploys agents that share one understanding of the business and work across the channels where Asia-Pacific SMEs actually sell, including WhatsApp, email and direct outreach.
+“SMEs don’t need another dashboard with a chatbot. They need staff. eCG gives every small business an AI team that knows the business and gets on with the work, at a price below a single entry-level store plan.”, Ondy, CEO, founder, eCG.
+Entry price: a full AI stack from US$19 a month
+eCG’s entry plan is US$19 per month and includes the app, eCG Cloud and AI agents in one subscription. The comparable entry plans published by competitors are Shopify Basic at US$29 a month billed yearly (US$39 monthly), Wix Core, the first Wix plan that can sell online, at US$29 a month yearly, and Squarespace Basic at US$19 a month yearly (US$25 monthly). At the same or lower price, eCG adds agents that competitors either don’t offer or meter by credits.
+File storage: start lean, scale when needed
+Every eCG plan includes 10 GB of file storage, with an add-on to 100 GB for US19. eCG keeps the entry price low so SMEs pay for media capacity only when their catalogue needs it, while products, apps and agents remain part of the core plan.
+Transaction fee: zero
+eCG charges no transaction fee on sales, so merchants keep more of every order. By comparison, Shopify applies a 2% fee on its Basic plan when a third-party payment gateway is used, falling to 0.2% on Plus, and Squarespace charges 2% on its Basic plan plus up to 7% on digital content. Standard payment-provider card processing charges still apply.
+Data architecture: eCG Cloud, one business brain
+eCG Cloud is a shared layer of SME AI knowledge and functions. Every eCG app and agent draws on it, so the Customer Service agent knows what the Social Media agent is promoting and the Mail agent knows the latest offer. Each project runs on its own database, with encrypted secrets and role-gated, logged actions. Competitor AI tools typically work from the data of a single store or site.
+Domain: USD1.9 or HKD19 for the first year
+eCG customers can register a .hk, .com.hk, .ca or .com domain for USD1.9 or HK$19 in the first year and go straight into building their store. Shopify does not include a domain in its plans. Wix and Squarespace include a free first-year domain only on yearly subscriptions.
+AI store builder: domain to live store in one flow
+Once a domain is registered, the eCG AI agent builds and publishes the website or online store, so there’s no template hunting or separate setup step. Shopify, Wix and Squarespace all offer AI site generation (Shopify’s prompt-based store builder, Wix Harmony with Aria, and Squarespace Blueprint AI). eCG’s difference is that the build is the first step of an always-on AI operation, not the end of the AI journey.
+AI agents: a team, not a chatbot
+eCG ships four business agents, all linked to eCG Cloud:
+- Social Media agent plans content calendars and drafts posts based on current offers.
+- Outreach agent finds and follows up leads across email, social and WhatsApp, and books meetings.
+- Customer Service agent answers customers using the business’s own knowledge, FAQs, tone and rules.
+- Mail agent groups, summarises and replies to email by person or conversation.
+Agents run on schedules and through connectors such as WhatsApp, Gmail and calendar, with every step auditable. By comparison, Shopify centres on a single admin assistant, Sidekick, and Squarespace caps its AI at 10 one-time to 120 monthly credits depending on plan.
+Open AI interface: built for developers and partners
+Every eCG app exposes a per-app MCP (Model Context Protocol) interface with configurable read and write access to design, data and agent logs, plus schema discovery so developers and resellers can build on top of eCG without blanket access to the account. This gives eCG partners a controlled way to extend customer stores with their own AI tools.
+Regional focus: Hong Kong, Singapore, Taiwan, Malaysia and Canada
+eCG is built in Hong Kong for the markets it serves first: Hong Kong, Singapore, Taiwan, Malaysia and Canada. Global platforms often roll out AI commerce features to the US first. Wix’s AI-channel product sync currently targets eligible US stores, and Squarespace’s AI Visibility tool is available only for English-language accounts. eCG pairs local domains with agents that work in the messaging channels these markets rely on.
+Availability
+eCG AI Ecommerce is available now at ecomgear.dev. Plans start at US$19 per month, with USD1.9 or HKD19 first-year domains for .hk, .com.hk, .ca and .com.
+About eCG
+eCG (eComGear) helps SMEs move from digital to AI transformation. Its single AI-powered platform combines application development, cross-border infrastructure and intelligent automation for businesses expanding across global, China and ASEAN markets. Learn more at ecomgear.dev.
+Media contact
+info@ecomgear.dev
+Contact Info: 
+Name: Ondy M.
+Email: Send Email
+Organization: eCG Technology Limited
+Website: https://www.ecomgear.dev
+Video URL: https://youtube.com/shorts/W3Sx6o4N8ZI
+Release ID: 89210440
+Should you identify any discrepancies, concerns, or inaccuracies in the content provided in this press release or require assistance with a press release takedown, we strongly urge you to notify us promptly by contacting error@releasecontact.com (it is important to note that this email is the authorized channel for such matters, sending multiple emails to multiple addresses does not necessarily help expedite your request). Our responsive team is committed to addressing your concerns within 8 hours by taking necessary actions to resolve identified issues diligently or guiding you through the necessary steps for removal. Our dedication lies in providing accurate and reliable information.
+Leveraging its new LPW institutional-grade trading acco

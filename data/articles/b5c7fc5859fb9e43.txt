@@ -1,0 +1,33 @@
+URL: https://www.medianama.com/2026/11/223-bombay-hc-metas-blink-digitals-ad/
+TITLE: Bombay HC backs Meta’s decision to shut down Blink Digital’s ad accounts, says agency broke Meta’s rules
+OUTLET: MediaNama
+
+The Bombay High Court has refused to order Meta to restore Blink Digital India’s four disabled Business Manager accounts, which together ran about 9,000 advertising accounts. In a November 20 order, Justice Sandeep V. Marne held that Meta was justified in suspending the accounts
+“Plaintiff otherwise does not have any right to do business with Meta. Plaintiff cannot insist that it must be permitted to use Meta’s platforms for its advertising business,” the court said.
+Meta “is not a government agency nor does it owe any public duty,” the court added. It held that Blink Digital had “failed to make out a rare and exceptional case” for restoring the accounts before trial. The court didn’t decide whether Meta’s action was proportionate. It said Blink Digital can recover damages if it proves a breach at trial.
+However, the court allowed Blink Digital to ask Meta afresh to restore its accounts if it promises to follow Meta’s policies. Meta must decide within two weeks of receiving the request.
+Why did the court side with Meta?
+- “Ban-proof” ads: Blink Digital promoted “ban proof advertisements,” “zero spend limits” and “rental” ad accounts to advertisers, according to material Meta placed on record. It asked clients whether they “wanted an unfair edge” and claimed it had found the “latest workarounds,” the court noted. The court found that the agency had prima facie promised clients “something which is expressly prohibited under Meta policies.”
+- Ads on its network: Meta placed 25 ads on record. One used Paytm’s logo to offer loans of Rs 1 lakh to Rs 5 lakh against an Aadhaar card “without interest” and “without CIBIL check.” Others promised US government subsidies, or promoted Viagra, online gambling and sexually suggestive content.
+- Agency responsibility: “It was Plaintiff’s responsibility to know the violating policies,” the court said. It held that Meta owed Blink Digital no contractual or statutory duty to warn it about its conduct.
+- Past conduct counts: The court rejected Blink Digital’s argument that much of Meta’s material was old. It held that Meta could weigh the agency’s cumulative conduct.
+Blink Digital argued that Meta’s enforcement was flawed. When Meta suspended about 500 of its ad accounts on February 6, 2026, it gave reasons for only three, the agency said. Meta also gave reasons for only three of another 140 accounts it suspended between May and July. Blink Digital said a Meta escalation desk had assured it on June 11 that there was no risk to its Business Manager accounts.
+The court said this “damages its case more than improving the same,” because the agency showed repeated suspensions. It noted that Blink Digital “repeatedly expressed its willingness to offload the offending advertising accounts.”
+What about the IT Rules?
+Blink Digital argued that Meta disabled its accounts without notice, reasons or a chance to respond, as we reported in October. It relied on Rule 4(8) of the IT Rules, 2021, which requires large social media platforms to tell users why they disabled access and give them a reasonable chance to dispute it.
+The court pointed to Meta’s August 4 email, which gave notice and reasons, and the correspondence that followed.
+“There is thus substantial compliance with provisions of Rule 4(8) of the Intermediary Rules,” the court said.
+Even if Meta had failed to comply strictly, that alone wouldn’t justify ordering it to restore the accounts, given Blink Digital’s conduct, the court added. It also held that Meta had a statutory duty to act. Where ads violate the IT Rules, “it is the statutory duty of Meta, as a significant social media intermediary, to remove such violating advertisements,” the court said. It held that removing the ads “may not be enough,” and that Meta was “fully justified” in deactivating the accounts.
+What else did the court order?
+Meta must preserve all data linked to Blink Digital’s accounts, Facebook page and Instagram account while it decides the reinstatement request. That protection ends if Blink Digital doesn’t apply within four weeks, or if Meta rejects the request. The court said it couldn’t order indefinite preservation, since Rule 3(1)(g) of the IT Rules requires platforms to keep such records for only 180 days for investigation.
+The order decides only Blink Digital’s interim application. The main suit, in which Blink Digital seeks Rs 1,000 crore in damages, continues. Its appeal to the government’s Grievance Appellate Committee (GAC) was still pending in October, past its October 7 deadline.
+How did the case get here?
+- August 4: Meta disabled the four Business Manager accounts, Hustle Neo, Hustle Digital, Hustle AI and Hustle New.
+- September: Blink Digital sued Meta in the Bombay High Court, saying 80 to 90% of its revenue comes from Meta’s platforms.
+- October 12: Meta told the court it disabled the accounts over alleged scams and sexual services ads, and argued the case belonged in California.
+- October 27: The court refused to move the case to California, saying courts there “cannot decide” questions under India’s IT Rules.
+What does the ruling mean?
+- Meta retains control despite its dominant position: The court said Blink Digital can advertise on Google, TikTok, Snapchat and Yahoo. Yet it also acknowledged that “Meta controls giant space on the digital platform and holds a dominant footprint across the global digital ecosystem.” Its remedy leaves restoration “entirely for Meta to consider.”
+- Rule 4(8) offers limited urgent relief: The court found that an email with notice and reasons, followed by correspondence, was enough. That makes the rule a weak basis for businesses trying to get banned accounts back quickly.
+- Agencies answer for their clients’ ads: The ruling puts the burden on agencies that manage ad accounts to know platform policies and make sure their clients’ ads follow them.
+Also Read:

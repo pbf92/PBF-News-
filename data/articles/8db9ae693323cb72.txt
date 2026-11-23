@@ -1,0 +1,21 @@
+URL: https://theprint.in/science/new-genetic-eye-disease-night-blindness/3106570/
+TITLE: Scientists identify new genetic eye disease that causes night blindness
+OUTLET: ThePrint
+
+New Delhi: Researchers have identified a new genetic eye disease that affects both night and peripheral vision over time while leaving central vision largely intact. The finding offers a potential explanation for why some individuals struggle with vision loss despite having eyes that appear healthy during standard exams.
+The study, published in JAMA Ophthalmology on 10 September, found that a particular mutation in the EFEMP1 gene causes a form of late-onset retinal degeneration. The same gene was already known to cause another rare genetic disease that affects the eyes, which the new disease may be related to.
+The researchers, from institutions in the US, UK, Germany, Switzerland and the Czech Republic, examined three unrelated families carrying the mutation, known as p.Arg140Trp, and compared their symptoms with those of a family carrying the EFEMP1 mutation that causes Doyne Honeycomb Retinal Dystrophy.
+How the newly identified disease affects vision
+The retina, a light-sensitive layer at the back of the eye, contains specialised cells called photoreceptors that convert light into electrical signals. Rod photoreceptors are particularly important for seeing in dim light, while cones help with colour perception and detailed central vision.
+The researchers found that people carrying the p.Arg140Trp mutation experienced progressive deterioration of peripheral retinal function, signalling damage to the rods, eventually developing difficulty seeing at night and losing parts of their visual field.
+In one family, the condition was first identified in a patient who developed night blindness in their 50s. Further examination of five of their relatives, all aged 50–58, found that four carrying the same mutation had unusually slow adaptation to darkness, despite retaining normal 20/20 vision and showing no visible abnormalities during routine eye exams.
+“We can detect a major abnormality in the way rod photoreceptors recover in darkness,” researcher Artur Cideciyan of the University of Pennsylvania told Penn Medicine.
+Also read: CT scans, X-rays can raise brain tumour risk in children, study warns
+Same gene, different diseases
+The researchers compared the newly identified condition with Doyne honeycomb retinal dystrophy, also called malattia leventinese, which is caused by another mutation in the EFEMP1 gene, known as p.Arg345Trp.
+While this previously recognised disease primarily damages the central retina, the newly identified variant affects peripheral vision and the ability of the eyes to adjust to darkness.
+Laboratory experiments also showed that both mutations disrupted the normal processing and secretion of the EFEMP1 protein, although the newly-identified variant displayed a greater tendency to form abnormal protein complexes.
+The findings could help doctors identify inherited retinal degeneration before significant vision loss occurs, particularly in patients whose eyes initially appear normal. However, further research will need to be done to determine if that can be done.
+Tomas Aleman, a professor of ophthalmology at the University of Pennsylvania and contributor to the study, said studying rare genetic conditions could “offer glimpses at possible mechanisms of disease for much more frequent retinal problems”.
+However, researchers do not yet know how widespread the mutation is or how many people may be affected. The study examined only a small number of families, and no treatment was tested, since there is no cure for the closely-related Malattia Leventinese as of yet.
+(Edited by Saptak Datta)

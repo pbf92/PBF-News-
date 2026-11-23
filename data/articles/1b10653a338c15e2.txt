@@ -1,0 +1,73 @@
+URL: https://felloai.com/claude-code-effort-levels/
+TITLE: Claude Code Effort Levels: What They Do, Which to Use
+OUTLET: Fello AI
+
+The Claude Code effort level decides how much work Claude does on every turn. In Anthropic's own test, the same prompt to build a fitness tracker took 1.5 minutes at low effort and 67 minutes at max. The low version was a log and a simple graph. The max version came with a heat chart.
+That gap cuts both ways. Set effort too low and Claude stops before it has properly tested its work. Set it too high and a small app build can run for over an hour. This guide explains what effort actually controls and every way to change it in Claude Code, including which ones save your choice. It also covers the default for each Claude model, what ultracode is and is not, and which level to use for the work in front of you. Every command and default here comes from Anthropic's Claude Code model configuration docs as published on 22 November 2026, and every measurement comes from tests Anthropic itself published.
+The Key Takeaways
+- Five levels: Claude Code offers low, medium, high, xhigh and max. Effort controls thinking, but also how many files Claude reads, how much it verifies and how far it goes before checking in.
+- The default is medium on Fable 5.2, Opus 5.5, Sonnet 5.5 and Haiku 5.5. It is xhigh on Opus 4.7 and high on the other supported models.
+- Change it with /effort: press Enter to save the level as your default, or s to use it for this session only. Max never saves unless you set it through an environment variable.
+- Ultracode is not a sixth level. It is a separate setting that makes Claude plan multi-agent workflows, and it runs at whatever effort level you choose.
+- Higher effort pays off on edge cases: in Anthropic's Terminal-Bench 3.0 runs, Fable 5.1 passed 214 of 370 attempts at max against 140 at low, using about three times the tokens.
+What Is the Claude Code Effort Level?
+The Claude Code effort level tells the model how much work to put into each turn. Lower effort is faster and cheaper for straightforward tasks. Higher effort gives deeper reasoning for complex problems. The model still decides step by step whether to think, so a simple request does not get padded just because the level is high.
+Effort is not only "thinking time". Lydia Hallie of the Claude Code team writes on the Claude blog that effort also controls how many files Claude reads and how much it verifies. It also sets how far Claude pushes through a multi-step task before checking in with you. At lower effort, Claude would rather ask you for more context than spend tokens working it out alone.
+Three facts about effort in Claude Code are easy to miss. First, you pay for all of it: thinking tokens are billed even when Claude Code collapses or redacts them on screen. Second, effort is the only thinking dial on the newest models. Claude Code does not let you turn thinking off on Opus 5.5, Sonnet 5.5, Haiku 5.5 or the Fable models, so lowering effort is how you reduce it. Third, switching mid-conversation is cheap. Anthropic says its newest models respond to a new effort level without breaking the prompt cache.
+The Five Claude Code Effort Levels (Plus Ultracode)
+Claude Code has five effort levels, from low to max, and one separate setting called ultracode. The table summarises Anthropic's own guidance for each level and the models that use it as their default.
+Which models support which levels
+Not every model offers all five levels. Opus 4.6 and Sonnet 4.6 stop at low, medium, high and max, with no xhigh. If you pick a level the model does not support, Claude Code drops to the highest supported level below it, so xhigh runs as high on Opus 4.6.
+The level names also mean different things on different models. Anthropic calibrates the effort scale per model, so the high level on Sonnet 5.5 is not the same amount of work as the high level on Opus 5.5. Anthropic says Opus 5.5 at medium matches or exceeds Opus 5 at high on its coding and knowledge-work evaluations. That is why it tells you to start Opus 5.5 at medium instead of carrying over the level you used on Opus 5.
+Claude Code defaults vs API defaults
+The Claude Code default is not always the API default. Fable 5.2 and Sonnet 5.5 default to medium in Claude Code but to high on the Claude API. If a guide tells you the default is high everywhere, it is describing the API or an older model. For how the defaults differ in the Claude apps, see our guide to Sonnet 5.5's effort defaults.
+How to Change the Claude Code Effort Level
+The fastest way to change the Claude Code effort level is to type /effort in a session. There are six routes in total, and they differ in one way that matters: whether your choice survives the next session.
+With the /effort command
+Typing /effort with no argument opens an interactive slider. Typing a level after it, such as /effort high, sets that level directly. How you confirm decides how long it lasts:
+Claude Code saves levels per model, so Opus and Sonnet can each keep their own. The new level starts with the next message you send. A turn that is already running can finish at the old level.
+In the /model picker
+The /model picker has the same effort slider. Use the left and right arrow keys to move it while you choose a model, then press Enter to save or s for this session only.
+At launch with --effort
+Starting Claude Code with a flag sets the level for that one session:
+claude --effort high
+With an environment variable
+The CLAUDE_CODE_EFFORT_LEVEL environment variable outranks every other way of setting the level, including /effort. Only a maxEffortLevel cap still applies on top of it. It is also the only way to make max persist. Setting it to auto or unset makes Claude Code send no effort level at all, so the API default applies.
+export CLAUDE_CODE_EFFORT_LEVEL=xhigh
+In settings.json
+Settings files can store a level per model under modelSettings, or a fallback level under effortLevel. Both accept low, medium, high and xhigh. Neither accepts max, and neither accepts ultracode, which has its own key. This example keeps Opus 5.5 at high:
+{
+  "modelSettings": {
+    "claude-opus-5-5": { "effortLevel": "high" }
+  }
+}
+In a skill or subagent
+A skill or subagent file can set effort in its frontmatter, and that level applies while it runs. That is useful for a review skill that should always verify hard, whatever level you work at. Our guide to creating your own Claude Code skills shows where the frontmatter goes.
+When several sources set a level, Claude Code takes the first one that applies. The order is the environment variable, a level you pick in the session, the --effort flag, your settings, and finally the model's default.
+Which Claude Code Effort Level Should You Use?
+Start at the model's default and change the Claude Code effort level only when a result tells you to. That is Anthropic's own advice: the default is the level where Claude scales its work to what most people would want to spend on a task.
+What Anthropic's own runs show
+Thariq Shihipar of Anthropic tested the same tasks at several levels for the post Spending your effort (25 September 2026). These are Anthropic's runs, not ours, and the results show the trade clearly.
+A vague build task ("build a personal fitness and workout tracker app") on Opus 5.5 took 1.5 minutes at low, 4 at medium, 11 at high and 67 at max. Higher levels built more, but also made more choices on your behalf.
+A design task (redesigning Claude Code's /config menu) took about 1 minute at low and 28 at max. Low gave a rough interactive sketch. Max gave a polished mockup with walkthroughs.
+An edge-case-heavy task asked for an HTML sanitizer that blocks every way of smuggling in JavaScript. Fable 5.1 went from 1 pass in 5 attempts at low to 5 in 5 at xhigh. A low attempt took about 2 minutes. A high-effort run took about 33, because Claude reviewed its own draft, ran a standard XSS test suite and wrote a fuzzer.
+Where higher effort pays off
+Higher effort pays off most on work with hidden edge cases, and least on work that follows a rulebook. Across Terminal-Bench 3.0, Fable 5.1 passed 140 of 370 attempts at low and 214 at max, while median tokens per attempt rose from about 73,000 to 222,000. Anthropic's category breakdown pools each model's two lowest settings as low effort and its three highest as top effort:
+Anthropic ran these internally, with five attempts per task and its production safety interventions off for Fable 5.1, so they will not match the public leaderboard. The pattern still holds: more effort mostly fixes missed edge cases. It does not fix a model that picked the wrong approach.
+A rule of thumb by task
+Anthropic's guidance and Shihipar's tests point to the same simple split. Use low for quick back-and-forth where you review every result, such as brainstorming, sketches and small edits. Use medium for most regular feature work with a clear scope. Use high for bug fixes in an existing codebase and any task where verification matters. Keep xhigh or max for hard problems you want Claude to work through alone, such as a security review. Anthropic warns that max may show diminishing returns and overthink, so test it before making it a habit.
+Shihipar's own loop for feature work mixes levels: ask Claude to interview you about the spec, implement on low, review the result, then verify and test on high. And if the job is a quick question rather than code, you do not need a terminal agent at any level. A chat app such as Fello AI answers it in one window, with Claude, GPT and Gemini side by side.
+When more effort won't help
+More effort only helps when Claude did not try hard enough. Hallie's test is a useful one: if Claude skipped a file, did not run the tests or did not double-check, raise the effort level. If Claude had all the context, clearly tried and was still wrong, the problem is the model, not the effort, so switch to a more capable one. Our comparison of Opus and Sonnet at every effort level shows where the bigger model becomes the cheaper choice.
+High vs Max in Claude Code
+When the default is not enough, high is the right next step, and max is a tool for specific jobs. High already makes Claude check edge cases and verify its work. Max lets it keep going much longer, which Anthropic recommends for hard problems you want solved without you, such as hunting for security vulnerabilities.
+The cost difference is real: in Shihipar's one-line fitness-app test, max took six times as long as high, 67 minutes against 11. Max also applies to the current session only, so Claude Code drops back to your saved level next time. The reset means one hard task cannot quietly make every later session slower and more expensive.
+What Is Ultracode in Claude Code?
+Ultracode is a Claude Code setting, not an effort level. With it on, Claude plans a dynamic workflow for each substantive task. A dynamic workflow is a script Claude writes that runs many subagents in the background. One request may turn into several workflows in a row: one to understand the code, one to make the change and one to verify it.
+Ultracode vs max
+Max controls how hard each turn thinks. Ultracode controls whether a task becomes a multi-agent workflow. Since Claude Code v2.1.284 the two are independent, so you can run ultracode at medium or at max. Before v2.1.284, turning ultracode on forced the session to xhigh, which is why many older guides still describe it as the top effort level.
+How to turn ultracode on and off
+Ultracode has five switches, and only one of them changes your effort level:
+Why ultracode is missing or costs so much
+Ultracode disappears when dynamic workflows are turned off, or when the model does not support xhigh, such as Opus 4.6. Dynamic workflows are available on all paid plans and the API, but on Pro you have to switch them on in /config first.
+Ultracode is also expensive by design. Anthropic's documentation says every request takes more tokens and more time, and that on a subscription a session with ultracode on hits its session or weekly limit sooner. Our guide to Claude usage limits explains how those limits res

@@ -1,0 +1,70 @@
+URL: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/newinsightsonlabourmarketdynamicsfromuklinkedemployeremployeedataleed/2026
+TITLE: New insights on labour market dynamics from UK Linked Employer-Employee Data (LEED): 2026
+OUTLET: Office for National Statistics
+
+- This article introduces measures of job hires, job separations and job-to-job flows from the Linked Employer-Employee Dataset (LEED) for the first time, a new UK data platform linking payroll data to the Office for National Statistics' (ONS's) business register.
+- The monthly job hire rate for February 2026 was 3.3%, and the monthly separation rate was 3.5%; both rates have been steadily declining since 2022 and are now 0.8 and 0.6 percentage points below their pre-coronavirus (COVID-19) pandemic levels, respectively.
+- The decline in monthly job hire and separation rates are across all broad industry categories, with the largest falls seen in the business and professional services sectors; reduced job hire and separation rates indicate lower labour market churn, with fewer workers hired and employment relationships ending less frequently.
+- The number of payroll jobs being filled each month has fallen across all age groups since 2022, with the largest decline among workers aged under 25 years.
+- Payrolled employees have also become less likely to switch main employers since the coronavirus pandemic, with 1.9% of employees making a job-to-job move each month in 2025; the largest decrease in job-to-job moves since 2022 have been among young workers aged under 25 years.
+- In 2025, 56% of job-to-job moves involved workers moving to firms with higher average weekly earnings than their previous employer; however, the reduced job-to-job mobility on a main-job basis has led to fewer transitions, indicating a reduction in these upward movements.
+Back to table of contents
+Changes in the number of individuals in payrolled employment and the number of employee jobs held provide important insights into labour market conditions. However, headline changes can conceal substantial movement of workers into, out of and between jobs.
+Linked administrative data offer a new way to examine these movements in and out of payrolled employment in greater detail and more frequently. The Office for National Statistics (ONS), in collaboration with the Economic Statistics Centre of Excellence (ESCoE), have built the UK Linked Employer-Employee Dataset (LEED).
+The LEED connects information on employees from HM Revenue and Customs' (HMRC's) Pay As You Earn (PAYE) Real Time Information (RTI) with information on businesses from the Inter-Departmental Business Register (IDBR). The LEED enables detailed analysis of the payrolled employment population, on a monthly basis, between 2014 and 2026.
+The LEED provides two complementary perspectives on payrolled employment:
+- job-level analysis
+- main-job analysis
+Job-level analysis provides new high-frequency statistics on hires and separations by firm and worker characteristics. Main-job analysis enables new insights on employees entering and leaving payrolled employment and moving between main employers.
+This article presents new indicators of labour market dynamics among payrolled employees, derived from the LEED, which provide new insights on UK labour market conditions. The accompanying ESCoE technical paper outlines the underlying data, methods and future plans in greater detail.
+Back to table of contents
+In the period before the outbreak of the coronavirus (COVID-19) pandemic in 2020, the monthly job hire and separation rates each accounted for around 4% of payroll employee jobs. This corresponds to four jobs being added and four jobs being removed each month for every 100 employee jobs. The difference between job hires and separations within a month corresponds to the number of employee jobs added or removed from the total stock of employee jobs, relative to the previous month.
+The monthly job hire and separation rates fell substantially at the start of the coronavirus pandemic, with the job hiring rate falling more sharply than the separation rate. The monthly job hire and separation rates recovered strongly between March 2021 and March 2022, reflecting a period of growth in payrolled employee jobs. Since then, the monthly job hire and separation rates have generally declined since 2022, following relatively high levels of labour market activity during the recovery from the coronavirus pandemic.
+Both the monthly job hire and separation rates have been below their pre-coronavirus pandemic levels. The monthly job hire rate for February 2026 was 3.3% and the monthly separation rate was 3.5%; a decline of 0.8 and 0.6 percentage points, respectively, since 2018.
+The decline in both measures suggests that there is less movement into and out of jobs than there was before the coronavirus pandemic. This indicates a reduction in labour market turnover, with employers hiring workers less frequently and existing employment relationships ending less frequently.
+Figure 1: Payroll job hires and separations have fallen below their pre-coronavirus (COVID-19) pandemic level
+Job hire and separation rates, all job-basis, monthly, seasonally adjusted, UK, January 2015 to February 2026
+Embed code
+Notes:
+- Rates are calculated as the total number of jobs, hires and separations, divided by average employment across the current (t) and previous (t-1) period.
+- LEED covers jobs in the public and private sectors that are paid through Pay As You Earn (PAYE) and can be linked to the Inter-Departmental Business Register (IDBR).
+- A job is defined as a unique worker to IDBR enterprise combination.
+Job hire and separation rates have been broadly decreasing across all broad industry categories since 2022 and rates were stable or rising in most industries before falling sharply in March 2020. This rebound may reflect expansion and contraction which was delayed by coronavirus pandemic-related uncertainty, as well as policies supporting firm survival and job retention. Job hiring and separation rates have since slowed gradually across almost all industries, with most rates now below pre-coronavirus pandemic levels.
+Between 2018 and 2025, the business and professional services sector was the broad industry category that recorded the largest decline in job hire and separation rates, at 1.3 and 1.1 percentage points, respectively. It still has the highest monthly rates across the broad industry categories shown, at 4.8% in February 2026.
+Since 2022, periods of high inflation and rising interest rates have coincided with growing business use of artificial intelligence (AI). The decline in job hires and separations over this period is therefore likely to reflect a combination of these factors. Further analysis linking firm-level AI adoption data would be needed to quantify any contribution from AI to the slowdown.
+Figure 2: The declines in job hires and separation rates have been seen across all broad industries since 2022
+Job hire and separation rates by broad industry category, all job basis, monthly, seasonally adjusted, UK, January 2015 to February 2026
+Embed code
+Notes:
+- Rates are calculated as the total number of job hires and separations for each subcategory, divided by average employment across the current (t) and previous (t-1) period in that specific sub-category.
+- LEED covers jobs in the public and private sectors that are paid through Pay As You Earn (PAYE) and can be linked to the Inter-Departmental Business Register (IDBR).
+- Industry groups are based on SIC 2007 sections: Production, construction and utilities (A,B,D,E,F); Manufacturing (C); Retail, hospitality & transport (G,H,I); Business and professional services (J to N); Government, healthcare & education (O,P,Q); and Arts & other services (R,S,T,U).
+Back to table of contents
+Job hires and separations fell across all age groups from their peaks in 2021 and 2022, to 2026 (Figure 3). The decline was largest among payrolled employees aged under 25 years. This group consistently recorded the most monthly job hires, peaking at 516,000 in May 2021 before falling to 340,000 in February 2026.
+Monthly separations followed a similar pattern among the youngest workers, falling from 413,000 in October 2021 to 304,000 by February 2026. This may partly reflect younger workers becoming less likely to enter payrolled employment over this period.
+Figure 3: Job hiring and separations have declined across all age groups, with the largest fall among young workers
+Job hires and separations by employee age band, all job basis, monthly, seasonally adjusted, UK, January 2015 to February 2026
+Embed code
+Notes:
+- LEED covers jobs in the public and private sectors that are paid through Pay As You Earn (PAYE) and can be linked to the Inter-Departmental Business Register (IDBR).
+- Employee age information is sourced from the PAYE Real Time Information (RTI) system.
+Back to table of contents
+In 2019, before the coronavirus (COVID-19) pandemic, monthly entrants to payrolled employment represented around 1.6% of all payrolled employees, while around 2.3% of employees changed their main employer each month. A move between main employers is called a job-to-job flow. Each move involves a separation from the original employer, recorded when the worker leaves, and a job hire by the destination employer, recorded when the worker starts.
+These job-to-job flows include moves directly from another employer in the previous month (continuous employment job-to-job flows) and those following a short period of non-employment (brief non-employment job-to-job flows).
+Both entry into main jobs and job to job flows fell sharply during the coronavirus pandemic before rising above pre-pandemic levels, potentially reflecting entries and job moves delayed by the effects of the coronavirus pandemic. Since May 2021, both monthly rates have declined and are now below pre-coronavirus pandemic levels: the main-job hire rate from non-employment and the job-to-job hire rate were 1.3% and 1.9% in February 2026, respectively.
+Separations into non-employment fell less sharply during the coronavirus pandemic, which is likely to partly reflect furlough schemes. Since the coronavirus pandemic, the main job separation rate into non-employment has been lower than before the pandemic, indicating fewer workers leaving payrolled employment. Workers exiting payrolled employment are not necessarily moving into unemployment or inactivity not seeking work. They could instead be;
+- leaving payrolled employment to become self-employed
+- leaving the country
+- entering full-time education
+- moving into any other type of activity not captured by Pay As You Earn Real Time Information (PAYE RTI)
+Less movement between main employers and fewer separations into non-employment suggest workers are staying in their main jobs longer. Lower job hiring and separation rates may reflect better worker-firm matches, improved retention and greater job stability. They may also represent fewer job opportunities, greater uncertainty, and higher labour costs.
+Figure 4: Entry into payrolled employment and job-to-job movements have weakened since 2022
+Main-job hire from non-employment rate, job-to-job flow rate and separation into non-employment rate, main job basis, monthly, seasonally adjusted, UK, January 2015 to February 2026
+Embed code
+Notes:
+- Rates are calculated as the total number of job hires and separations, divided by average employment (on a main-job basis) across the current (t) and previous (t-1) period.
+- Estimates are seasonally adjusted.
+- LEED covers jobs in the public and private sectors that are paid through Pay As You Earn (PAYE) and can be linked to the Inter-Departmental Business Register (IDBR).
+- A payrolled employee's main job is the one with the highest estimated gross pay over a centred three-month period.
+- LEED covers only payrolled employment recorded in PAYE Real Time Information (RTI), so "non-employment" means being outside this population, not necessarily being out of work (self-employment, for example).
+Hiring, separation, and job-to-job rates vary substantially by age. Workers aged under 25 years have the highest rates of entry to and exit from main jobs, and the highest rate of move
