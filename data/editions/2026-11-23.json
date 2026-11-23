@@ -703,7 +703,43 @@
   "desk": "expand"
  },
  "generated_at": "2026-11-23T13:28:59Z",
- "updates": [],
+ "updates": [
+  {
+   "desk": "markets",
+   "headline": "Nvidia reinstates Jensen Huang as CEO; Nvidia up about a third, Nasdaq nearly 7%",
+   "why": "The board reversed itself 11 days after Huang resigned, which overturns the 'Huang exit' premise in this morning's third lead. It set off the biggest AI-complex rebound of the sell-off, clawing back more than half of last week's plunge.",
+   "points": [
+    "Nvidia's board reinstated Huang as CEO, effective immediately, days after rejecting his offer to return (AP, Reuters, 23 Nov)",
+    "Nvidia shares surged about 28–33% and the Nasdaq rose nearly 7%; Reuters says the rally could add about $2tn to the Nasdaq-100",
+    "Trump says he urged the board and that Huang posed no national security threat; Democrats and some Republicans are criticising the move",
+    "The Senate Banking Committee has set Huang's testimony for 3 Dec (The Hill)"
+   ],
+   "next": "PCE inflation report Wed 25 Nov; Huang's Senate Banking testimony 3 Dec",
+   "confidence": "confirmed",
+   "impact": "high",
+   "thread": {
+    "id": "nvidia-earnings-nov",
+    "name": "Nvidia earnings 17 Nov",
+    "status": "changed",
+    "day": 9
+   },
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/technology/nvidia-reinstates-jensen-huang-ceo-2026-11-23/"
+    },
+    {
+     "name": "AP News",
+     "url": "https://apnews.com/article/stocks-markets-rates-technology-ai-anthropic-49ba1beba78fa4ed2bd5898029f79c91"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/business/ai-rally-set-add-2-trillion-nasdaq-100-huang-returns-nvidia-helm-2026-11-23/"
+    }
+   ],
+   "time": "1:42 PM"
+  }
+ ],
  "status": {
   "story": 8,
   "quiet": 2,
