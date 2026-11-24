@@ -1,0 +1,30 @@
+URL: https://newuniversity.org/2026/11/24/new-ai-watermarks-blur-the-line-on-who-wrote-what/
+TITLE: New AI watermarks blur the line on who wrote what
+OUTLET: New University
+
+Anthropic extended its invisible text watermark to four more Claude artificial intelligence models on Nov. 16, but the mark will only apply when developers keep sampling settings at their defaults, according to The Decoder.
+The four models are Claude Opus 4.6, Claude Opus 4.5, Claude Sonnet 4.5 and Claude Haiku 4.5. The watermark subtly shapes the words these models choose, so a detection tool can later check whether a given passage of text likely came from Claude, according to Anthropic’s policies page.
+That signal is not foolproof, raising concerns that students and writers could be wrongly accused of using AI. Anthropic says a detected mark does not by itself prove a text was AI-generated because Claude may have only edited or translated someone else’s work.
+Anthropic is racing to meet a Dec. 2 deadline set by the European Union (EU) AI Act, when a grace period ends for AI systems released before Aug. 2. The law’s Article 50 requires companies whose systems generate text to mark it in a machine-readable format that can be detected as AI-generated.
+According to Anthropic, readers cannot see the mark, and it reveals nothing about the person using Claude.
+The mark applies to supported models wherever Claude is offered, including in the U.S., according to Anthropic’s policies page. Every Claude model launched since Aug. 2 has carried it from its release, while older models are being added in waves.
+OpenAI announced its own watermark, textGrain, on Oct. 5. The company said the mark would roll out by default to ChatGPT and Codex users in the EU but remain off by default for OpenAI’s application programming interface customers worldwide, according to TechCrunch.
+The detector is also designed to incorrectly flag approximately one in 100 passages that do not carry a watermark. Both Anthropic and OpenAI emphasize that a detected mark does not prove a text is AI-generated, and a missing mark does not prove a human wrote it.
+Simon Cole, professor of criminology, law and society who studies forensic science, said AI detection should be expected to produce both false positives, or “innocent people accused of using AI,” and false negatives, in which people who used AI go unflagged.
+False negatives can happen when AI-generated text is edited after the fact. In OpenAI’s own tests, swapping just 10% of the words in a passage for synonyms cut detection from 92% to 66%, and swapping a quarter of them cut it to 17%, according to IEEE Spectrum.
+Presenting a detector’s result as a definitive finding, such as “this person used AI,” would be misleading, Professor Cole said in an interview with New University.
+For students, the possibility of being falsely flagged is already a familiar concern. According to a Payback survey reported by Inside Higher Ed, “Nearly three-quarters of college students are at least moderately concerned about being wrongly accused of using AI.”
+Earlier AI detectors, which make predictions based on writing style, flagged more than half of essays by non-native English speakers as AI-generated, according to a 2023 Stanford study. Watermark detection works differently by looking for a specific statistical signal left by the model.
+Both Anthropic and OpenAI currently limit their detectors to approved organizations, such as regulators and researchers.
+“That could be an issue if someone accused of something did not have access to be able to replicate the results that led to the accusation or otherwise test the detector,” Professor Cole said.
+He said watermark results could still be used in court if presented carefully, but courts should demand independent evidence of a detector’s accuracy. Those accused might also seek access to the underlying algorithm, a request he said companies may resist by citing trade secrets.
+At UCI, rules governing student AI use are determined on a course-by-course basis. The Academic Senate now requires every undergraduate syllabus to include a statement on generative AI, according to UCI’s Division of Teaching Excellence and Innovation.
+UCI’s Office of Student Conduct lists using generative AI tools without proper citation as an example of plagiarism. The university also provides students with free access to its own AI tool, ZotGPT, according to UCI Libraries.
+Duncan Pritchard, a UC Irvine distinguished professor of philosophy who directs the Center for Knowledge, Technology and Society, has argued in recent research that people cannot gain knowledge simply by trusting AI. Even systems that generally produce accurate information can deliver inaccurate results.
+“Until they can make the watermark a dependable indication that something is AI, then it’s useless,” Pritchard said in an email to New University. He compared the problem to counterfeit money. If genuine and counterfeit bills circulate, and no one can reliably distinguish between them, genuine money loses its value.
+The AI Act requires marking tools to be “effective, interoperable, robust and reliable as far as this is technically feasible,” but it does not establish measurable thresholds for any of these standards.
+California’s AI Transparency Act, SB 942, also took effect Aug. 2, after AB 853 delayed its implementation to align with the EU’s timeline. Its disclosure rules cover AI-generated images, videos and audio but not text.
+Pritchard said responsibility for evaluating AI-generated information falls on companies, regulators and readers alike.
+“While readers have responsibilities in this regard, this is obviously not something that they can do alone as no individual has the technical capacity to make this judgement in a consistent way,” Pritchard said. “We thus need structural solutions too, and these will come from regulators working in tandem with companies.”
+Aadya Mishra is a News Staff Writer. She can be reached at aadyam2@uci.edu.
+Edited by Anika Denny and Jaylynn Tsui.

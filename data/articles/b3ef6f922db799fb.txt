@@ -1,0 +1,37 @@
+URL: https://www.eurekalert.org/news-releases/1153199
+TITLE: Why disaster risks are systemic and co-evolutionary
+OUTLET: EurekAlert!
+
+Disasters rarely happen in isolation. New research highlights the need to rethink how we assess disaster risks by recognizing how natural hazards, the people and places exposed, and their vulnerability are interconnected and change over time.
+Published in Risk Analysis, the article is the result of an international collaboration of IIASA’s Systemic Risk and Resilience Research Group (SYRR) with several institutions, including EURAC Research’s Center for Climate Change and Transformation in Italy, the NASA Jet Propulsion Laboratory, and Stanford University. A workshop in 2025 at IIASA brought together more than 20 participants working across disaster and climate risk analysis, resilience, ecology, economics, engineering, geography, and the social sciences to debate frontiers in disaster and climate risk science.
+Standard disaster and climate risk assessments often examine three factors separately and then combine to an estimate of risk: the hazard itself, who or what is exposed, and how vulnerable these are. The authors argue that treating these factors separately can overlook connections that shape how disasters develop and how communities recover. They call this interconnectedness inseparability: the idea is that these factors cannot always be fully understood on their own as they co-evolve through continuous, reciprocal modifications and transformations of interacting components.
+“Hazards, exposure, and vulnerability are not fixed pieces of a puzzle. They evolve together in ways that can amplify or, ideally, also dampen risk,” says coauthor Stefan Hochrainer-Stigler, a principal research scholar in SYRR. “We knew this, but understanding these ever tighter systemic connections in the context of the Polycrisis and Climate Emergency is fundamental for planning interventions that work and can make a difference. Progress in risk science depends on identifying which feedbacks dominate under specific conditions and which interventions significantly modify these feedbacks rather than only marginally affecting hazard, vulnerability or exposure.”
+For example, major floods in 1993 and 1995 in the Rhine and Meuse catchments prompted Dutch authorities to move beyond simply hazard-reducing raising of dikes. The innovative Room for the River Programme created more space for rivers through floodplain restoration, dike relocation, and bypass channels, recognising that hazards and exposure evolve together rather than independently. This program of restoration and adaptive land use has been impactful and has influenced river-management and climate-adaptation strategies in many countries worldwide.
+A key issue to reckon with in this context is that past patterns may not reliably predict future outcomes, so-called non-ergodicity.
+“A risk estimate that multiplies hazard, exposure, and vulnerability together is only as reliable as its least predictable part,” says lead author Alexandre Dunant, a researcher at EURAC Research. “Yet the final number carries no trace of that limit. Being explicit about how far ahead each part of an assessment can be trusted helps decision makers avoid a false sense of precision: a scientist in the 1970s could, for instance, have sketched the broad contours of today’s climate and hazards as recent research has shown, but would have struggled to foresee how exposure and vulnerability evolved, as a consequence of our ever more strongly interacting lives and livelihoods.”
+In this context, the paper suggests that understanding autopoiesis of a vulnerable system, for instance the capacity of a system to produce and maintain itself through its own internal processes, also matters in terms of what is “inside” and what is “outside,” which is a prerequisite for meaningful intervention design.
+The authors emphasize that while the established risk equation, which has been foundational for IPCC reports on impacts, risk, and adaptation, remains very useful, it needs further attention. Decision makers should be clear about the assumptions behind them and pay closer attention to how the different components interact. The article therefore calls for approaches that account for changes across places and timescales, support adaptation as risks evolve, and bring researchers and stakeholders together to develop knowledge and solutions. It also highlights the need to connect models with the decisions people and institutions can make. If risk is increasingly systemic and past patterns cannot reliably predict future outcomes, resilience-focused interventions need to be equally systemic.
+As an example, the Climate Resilience Alliance, an action-focused Alliance of six NGOs, two research partners (IIASA being one), and the Zurich Foundation as funder and partner, have moved from single hazard risk and  incremental actions to multi-hazard resilience building efforts, such as multi-hazard warning systems and social protection mechanisms as well as investments in governance and shared infrastructure.
+“Decisions about preparedness, recovery, and development shape disaster risk for years to come, but they need to be made systemic,” says coauthor Reinhard Mechler. “By looking at how risks change and interact, communities and decision makers can focus on strengthening resilience over time.”
+References
+Dunant, A., S. Hochrainer-Stigler, L.J.O. Calderon, R.M. McGranaghan, R. Mechler, M. Pittore, S.M. Constantino, S.D. Angeli, M.C. de Ruiter, G. Falmagne, J.C. Gomez-Zapata, S. Kienberger, E. Koks, E.H. Krueger, S. Livne, D.E.R. Muñoz, R. Šakić Trogrlić, P. Schweizer, T.T.H. Vo, H. Wu, A. Zhu (2026). Inseparability in disaster risk science: accounting for coupled, co-evolving systems. Risk Analysis, 46 (11), https://doi.org/10.1111/risa.70386
+Hyun, J.H. Hochrainer-Stigler, S., Velev, S., & Mechler, R. (2026). Resilience-building interventions and their linkages to livelihood capitals and capacities: insights from community-based implementation across 19 flood-prone countries. Mitigation and Adaptation Strategies for Global Change 31 (4) e29. 10.1007/s11027-026-10294-5.
+Preprint available at: https://pure.iiasa.ac.at/id/eprint/21994/1/Preprint%20Risk%20Analysis%20paper.pdf
+Researcher contacts:
+Stefan Hochrainer-Stigler  
+Principal Research Scholar
+Systemic Risk and Resilience Research Group
+Advancing Systems Analysis Program
+hochrain@iiasa.ac.at
+Reinhard Mechler  
+Research Group Leader and Principal Research Scholar
+Systemic Risk and Resilience Research Group
+Advancing Systems Analysis Program
+mechler@iiasa.ac.at
+IIASA Press Office
+Bettina Greenwell
+Tel: +43 2236 807 282
+Mob: +43 676 83 807 282
+greenwell@iiasa.ac.at
+About IIASA:
+The International Institute for Applied Systems Analysis (IIASA) is an international scientific institute that conducts research into the critical issues of global environmental, economic, technological, and social change that we face in the twenty-first century. Our findings provide valuable options to policymakers to shape the future of our changing world. IIASA is independent and funded by prestigious research funding agencies in Africa, the Americas, Asia, and Europe. www.iiasa.ac.at

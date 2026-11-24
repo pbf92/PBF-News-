@@ -1,0 +1,33 @@
+URL: https://www.fool.com/investing/2026/11/24/anthropic-ipo-here-s-what-a-usd5-000-investment-could-look-like-in-5-years/
+TITLE: Anthropic IPO: Here's What a $5,000 Investment Could Look Like in 5 Years
+OUTLET: The Motley Fool
+
+By Johnny Rice –
+Key Points
+- Anthropic, the company behind Claude, priced its IPO at $83, raised $81.3 billion, and closed its first day of trading up 17% at $97.17.
+- Revenue hit $33.2 billion in the first nine months of 2026, up roughly 1,200% from a year earlier, but Anthropic swung back to a $567 million operating loss in Q3 and has about $895 billion in purchase commitments and leases.
+- I think the stock lands closest to the bear case, because I don't see a durable moat and expect AI to look more like a commodity in a few years.
+One of the most anticipated initial public offerings (IPOs) in market history has finally gone public. Anthropic (ANT -6.54%), the company behind Claude, priced its offering at $83, above the initial target. Those shares began trading on Nov. 19, opening at $111.50 before finishing their debut session at $97.17, still 17% above the IPO price.
+Dario Amodei. Image source: Getty Images.
+The company raised a whopping $81.3 billion, making it the largest public debut ever, surpassing even Space Exploration Technologies' (SPCX -5.65%) mega-IPO earlier this year. And at Thursday's close, Anthropic was worth $1.76 trillion on a fully diluted basis, instantly making it one of the largest public companies on the planet.
+If you manage to get ahold of $5,000 in Anthropic stock, what might that investment look like five years from now?
+Anthropic stock bull case: Can the growth continue?
+Anthropic brought in $41 million in revenue in 2023 and $4.6 billion in 2025, then did $33.2 billion in just the first nine months of 2026, up roughly 1,200% from the same stretch a year earlier. That is incredible growth that we really haven't seen at this scale.
+The bull case centers around this continuing. The bet is that Claude gets embedded in business processes across industries, and the sort of wholesale transformation of work we've seen in coding happens elsewhere.
+One of the most encouraging figures for the bull thesis is Anthropic's net revenue retention, which sits at about 900%. That means customers find Claude valuable enough not only to stick around, but to scale their usage -- and spending -- ninefold in a single year.
+Anthropic stock bear case: Heavy compute costs and slower growth
+The bear case is really centered around what all that growth costs. Anthropic's amended filing showed about $895 billion in purchase commitments and leases, mostly for compute and infrastructure -- the chips and data centers its models run on. About half of that is due before the end of 2030. And while Anthropic notched an operating gain in Q2 this year, it swung back to a $567 million operating loss in Q3.
+And then, of course, the bear case also assumes the incredible revenue growth we've seen slows down considerably. In the bear case, Claude remains highly valuable in the programming world, but its broader use across most of the rest of the economy is limited.
+Anthropic stock scenarios: Bull, base, and bear cases
+Here are a few scenarios sketched out.
+- The bull case is the sort of full technological revolution that transforms society. It assumes that rapid growth continues, margins substantially improve, and investors pay a big tech earnings multiple.
+- The base case assumes that, while growth continues, the pace cools as Anthropic is forced to compete on price and the technology's utility proves somewhat mixed outside of tech. It also assumes that profitability remains elusive and that the company is basically operating at break-even. Investors aren't willing to pay quite the same premium.
+- The bear case assumes the same sort of revenue issues as the base, only considerably more substantial. It also assumes that profitability is still only hoped for as costs run well ahead of revenue.
+Anthropic stock outlook: Why I lean toward the bear case
+The truth is that it is remarkably hard to predict where a stock like Anthropic's will be even a year from now. This truly is terra incognita.
+That said, I believe it will be closest to the bear case. I'm not sure investors appreciate just how precarious Anthropic's position is. It must commit to spending on compute and infrastructure well before it actually books the corresponding revenue. And with usage-based billing, its customers' spending habits can turn on a dime.
+My biggest issue is that I fail to see a durable moat. I think the most likely scenario is that artificial intelligence (AI) will look more like a commodity in a few years, and that Anthropic will find that its customers are happy to look elsewhere if it means they can pay less.
+Where to invest $1,000 right now
+When our analyst team has a stock tip, it can pay to listen. After all, Stock Advisor's total average return is 796%* — a market-crushing outperformance compared to 200% for the S&P 500.
+They just revealed what they believe are the 10 best stocks for investors to buy right now, available when you join Stock Advisor.
+*Stock Advisor returns as of November 24, 2026.

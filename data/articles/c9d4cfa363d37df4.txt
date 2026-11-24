@@ -1,0 +1,19 @@
+URL: https://www.tradingview.com/news/tradingview:4a10c169b9b47:0-hyster-yale-raises-135-million-in-7-50-convertible-notes-due-2031/
+TITLE: Hyster-Yale Raises $135 Million in 7.50% Convertible Notes Due 2031
+OUTLET: TradingView
+
+Hyster-Yale Raises $135 Million in 7.50% Convertible Notes Due 2031
+Hyster-Yale issued $135 million of 7.50% convertible senior notes due 2031, with initial purchasers able to buy up to an additional $20 million. It also entered into capped call transactions costing approximately $13.5 million to reduce potential dilution or offset certain cash payments upon conversion. Proceeds will help repay term-loan debt and fund the capped calls and a concurrent share repurchase, with any remaining proceeds available for general corporate purposes.
+Agreement 1: Hyster-Yale Raises $135 Million in 7.50% Convertible Notes Due 2031
+- Agreement type: 7.50% Convertible Senior Notes and Indenture
+- Counterparty: U.S. Bank Trust Company, as trustee; initial purchasers not named
+- Signed / Effective: Nov 23 2026 / Nov 23 2026
+- Duration / Termination: Matures Nov 15 2031, unless earlier repurchased, redeemed, or converted
+- Reason: Repay term debt, fund capped calls and share repurchase, and support general corporate purposes
+Agreement 2: Hyster-Yale Pays $13.5 Million for Convertible-Note Capped Calls
+- Agreement type: Capped call transactions
+- Counterparty: Certain financial institutions
+- Signed / Effective: Nov 18 2026 / Nov 18 2026
+- Duration / Termination: Expires Nov 15 2031, subject to earlier exercise
+- Reason: Reduce potential share dilution and offset certain conversion-related cash payments
+Original SEC Filing: HYSTER-YALE, INC. [ HY ] - 8-K - Nov. 24, 2026

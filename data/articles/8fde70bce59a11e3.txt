@@ -1,0 +1,62 @@
+URL: https://shattered.io/gta-6-pc-recompile-market-63-percent-manifold-nov-30/
+TITLE: GTA 6 PC Recompile Odds Hit 63% on Manifold as Traders Pile In Before Nov 30
+OUTLET: shattered.io
+
+GTA 6 PC Recompile Odds Hit 63% on Manifold as Traders Pile In Before Nov 30. A small prediction market asking whether Grand Theft Auto VI will be recompiled into a working PC build before the end of November sat at 63% implied probability of YES as of November 24, 2026, according to Manifold. Roughly 87% of the market’s all-time volume traded in the previous 24 hours. The trigger is not a Rockstar announcement. It is a claimed leak of a 209 GB Xbox Series X|S build, the release of its missing executable on November 23, and community recompilation projects that have reached the first mission’s loading screen without producing anything playable.
+What the market is actually asking
+The market, created by Manifold user apol, is titled “Will GTA6 be recompiled on a PC build before November 30, 2026?” and closes November 30 at 11:59 PM UTC. Its resolution criteria are narrower than the headline suggests, and that gap is most of the story.
+Per the market description, YES requires an unofficial community recompilation project (it names Leonida and Xbox2Windows) or an independent team to publicly demonstrate “a functional native PC build of Grand Theft Auto VI running on x86-64 Windows.” The build must come from translating or statically recompiling the leaked console binaries and assets, with no cloud streaming, remote play, or full system emulation. It must boot “beyond pre-rendered video into an interactive in-engine environment.” A crash or a static launcher does not count.
+Verification has to come from credible coverage by established outlets, with Digital Foundry, VideoCardz and DSOGaming named, or from an independently verified, reproducible public repository or binary release. An official Rockstar PC release before the deadline also resolves YES.
+The odds and the 24-hour volume surge
+As of November 24, 2026, Manifold’s public API reported a 63% implied probability of YES, 5,685 mana in all-time volume, 4,957 mana of that traded in the prior 24 hours, 1,000 mana of subsidised liquidity, and 47 unique bettors. The 24-hour share is about 87% of everything the market has ever traded.
+Two caveats matter before anyone reads 63% as a forecast. Manifold runs on mana, a play-money currency, not dollars, so the incentive to price carefully is reputational rather than financial. And 47 bettors with under 6,000 mana is a very small sample, where a single confident trader can move the number by double digits. The signal is less that the market knows something and more that a lot of attention arrived at once, in the last day.
+What is driving the move
+Grand Theft Auto VI launched on PS5 and Xbox Series X|S on November 19, 2026. Take-Two reported $3.79 billion in worldwide revenue by the end of launch day, which Forbes called the largest entertainment launch ever recorded. We covered the first-day sales figures then. There is no PC version.
+On the same day, the leaker persona CyberLeek claimed to have released a near-final Xbox Series X|S development build by torrent, roughly 209 GB, broadly consistent with the game’s reported console install size. The archive was missing the central executable, so nothing could be run. CyberLeek said the final file would arrive on November 23, with an earlier unlock if an associated crypto token reached a $15 million market cap. We covered it when one withheld file became the whole story.
+The executable arrived on November 23. Notebookcheck and XDA Developers reported CyberLeek publishing the Xbox build 1.0.2.1 executable roughly three hours ahead of its own countdown, with a readme framing it as an early Christmas gift. Neither Rockstar Games nor Take-Two Interactive has publicly authenticated the files or confirmed they are a genuine development build.
+Leonida is gone. Its rivals are not.
+Leonida was the largest recompilation effort, aiming to translate the Xbox Series X|S build to Windows through static recompilation plus shader translation and an Xbox compatibility runtime. XDA reported it had translated all 26,503 RDNA2 shaders to Vulkan SPIR-V. Coverage put its Discord at roughly 179,000 members and its GitHub repository above 34,000 stars.
+It disappeared overnight on November 23 into November 24. Both the Discord server and the GitHub repository went down, and lead developer NotRexed said goodbye on X, citing copyright interference and circumstances outside their control. TechRadar reported Rockstar’s legal team moving and the project lead confirming the takedown. Leonida never shipped a playable Windows build.
+What it did do was prove the approach was not absurd, and successors picked it up within hours. PC Games Hardware reported that with Leonida offline, VIctory and XCL were both loading the game world. VIctory, led by a developer going by Marvisak, is furthest along in public reporting: Mixed News described menus at 30 fps, intro videos cleared, the world loaded, and the first mission’s title card displayed on an AMD Radeon RX 6700 XT. The 3D scene renders dark at 0.5 to 1.8 seconds per frame, and entering the world can hang the GPU and take down the Windows display driver. Palmwave, a fork of XCL, was reported loading the world in roughly 84 seconds.
+As of November 24, 2026, no project has publicly demonstrated an independently verified, playable native Windows build. The market’s bar is an “interactive in-engine environment,” and a dark scene at under two frames per second is arguably at that line rather than past it. That ambiguity is a real risk for both sides.
+Timeline: from launch day to a 63% market
+Why an Xbox build is the softest target for a PC port
+The reason this went from fantasy to a 63% market in five days is architectural. Xbox Series X and Series S run x86-64 CPUs, the same instruction set as Windows PCs, so a large share of the game’s CPU code can in principle run natively rather than through emulation, which is the expensive part of most console-to-PC work.
+The hard part is the GPU. The consoles use RDNA2 graphics with console-specific APIs, shader formats and memory behaviour, which is why the projects’ progress reports keep circling back to shader translation. Leonida’s 26,503 shaders to Vulkan SPIR-V, and VIctory’s dark scenes and multi-second frame times, are the same problem from two angles: the CPU side boots, and the renderer does not yet produce a correct image at a usable rate. For how much of this ground Microsoft has paved on the official side, see our look at Xbox backwards compatibility and the PC library.
+Rockstar, Take-Two and the legal overhang
+This is the variable the odds price worst. Take-Two is an aggressive rights holder, and Leonida’s shutdown came within roughly a day of the executable release. Reporting indicates Take-Two has also pursued legal routes to identify CyberLeek, including seeking information from Discord, without success so far.
+Static recompilation of leaked, unreleased commercial binaries is a far weaker legal position than the retro recompilation projects it superficially resembles. The source material is not dumped from a disc the user owns; it is a build nobody was supposed to have. That changes both the legal exposure and the willingness of hosting platforms to stand behind it. The practical effect on the market is that a project can make real technical progress and still vanish before it demonstrates anything publicly, which is what happened to the largest one. Rockstar’s history with leaks is long, as the Kurtaj case and its latest court order show.
+The official PC version is the other route to YES
+The market also resolves YES if Rockstar ships a PC version before November 30, which nobody should price above roughly zero. GamesBeat reported in October, updated November 18, that four industry sources familiar with Rockstar’s plans expect a PC release in Q1 2027. Rockstar did not respond to a request for comment and has announced nothing. Q1 2027 would still be far faster than GTA V, whose PC version arrived about a year and seven months after console release.
+That console-to-PC gap was one of the sharper complaints in the launch-week reaction to GTA VI, and it is the demand pressure the recompilation scene feeds on.
+Scams, hoaxes and the malware problem
+The predictable consequence of a 63% market and a viral hunt for a playable build is fraud. TechRadar warned that scammers would distribute downloads claiming to be a “full working game for PC” that instead carry malware. XDA reported that a widely shared video of an unofficial GTA 6 PC port was a hoax assembled from recycled GTA V footage. There is no legitimate PC build of GTA VI right now, official or otherwise, and anything presenting itself as a finished download is a scam, malware, or both.
+What to watch before November 30
+- A correctly rendered frame. The renderer, not the boot, is the gate. Watch for the world rendering with correct lighting at a stable frame rate, from a named project with a reproducible build.
+- Independent verification. The market names Digital Foundry, VideoCardz and DSOGaming. Coverage from an outlet that ran the build itself resolves this, not a Discord clip.
+- More takedowns. VIctory, XCL, Palmwave, Xbox2Windows and AnyXboxX are all visible targets now. Each disappearance removes a path to YES.
+- Any Rockstar or Take-Two statement. Neither has authenticated the leak. An acknowledgement, or a PC date, changes the picture fast.
+- Resolution ambiguity. If a dark, sub-2fps interactive scene is the high-water mark, expect a dispute over whether that qualifies.
+FAQ
+Is GTA 6 playable on PC right now?
+No. As of November 24, 2026, no project has publicly demonstrated an independently verified playable native Windows build. VIctory reported reaching the first mission’s title card with the 3D scene rendering dark at 0.5 to 1.8 seconds per frame.
+What are the current odds, and where?
+63% implied probability of YES as of November 24, 2026, on Manifold’s market, with 5,685 mana of all-time volume and 47 unique bettors. Manifold uses play-money mana, not dollars.
+Why did Leonida shut down?
+Its Discord server and GitHub repository went offline on November 23 into November 24. Lead developer NotRexed cited copyright interference and circumstances beyond their control, and reporting attributes the takedowns to Rockstar and Discord action.
+Has Rockstar confirmed the leak is real?
+No. Neither Rockstar Games nor Take-Two Interactive has publicly authenticated the 209 GB build or the executable.
+When is the official GTA 6 PC version coming?
+Rockstar has not announced one. GamesBeat reported, citing four anonymous industry sources, a target window of Q1 2027.
+The Bottom Line
+Sources
+- Manifold — Will GTA6 be recompiled on a PC build before November 30, 2026?
+- XDA Developers — GTA 6’s Xbox executable has leaked
+- TechRadar — Unofficial GTA 6 PC port makes rapid progress in 24 hours
+- PC Games Hardware — GTA 6 on PC: Leonida gone, two rivals load the game world
+- Mixed News — GTA 6 PC project reaches the first mission, still far from playable
+- Notebookcheck — Cyberleek releases GTA 6 Xbox build .exe, boosting playable PC port chances
+- GamesBeat — Grand Theft Auto VI’s PC release is slated for Q1 2027
+- Forbes — GTA 6 Raked In $3.8 Billion Sales On First Day
+- PC Gamer — After the GTA 6 Xbox port leaked, modders reckon it will be playable in mere days
+Disclaimer: prediction-market odds are not forecasts and are not advice. Manifold trades in play-money mana, and thin markets with few participants can move sharply on small positions. Nothing in this article is financial, investment, or betting advice. Do your own research. Prediction-market and betting availability is restricted by jurisdiction: Polymarket is not available to US persons, and Kalshi is a CFTC-regulated US exchange. Age restrictions of 18+ or 21+ apply as applicable in your jurisdiction. If gambling is affecting you or someone you know, call 1-800-GAMBLER (US) or visit begambleaware.org.

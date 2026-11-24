@@ -1,0 +1,33 @@
+URL: https://www.eurekalert.org/news-releases/1153022
+TITLE: Household-specific indoor particulate matter associated with Kawasaki disease onset in children
+OUTLET: EurekAlert!
+
+Kawasaki disease (KD) is an acute inflammatory condition that primarily affects children under 5 years of age. It causes inflammation of blood vessels throughout the body and can lead to serious complications, particularly affecting the coronary arteries that supply blood to the heart. Although Kawasaki disease is a major cause of acquired heart disease in children, its exact cause remains unclear. Genetic susceptibility and environmental exposures are thought to contribute to its development, but the underlying mechanisms are not fully understood.
+Previous studies have suggested associations between outdoor particulate matter (PM) and Kawasaki disease. However, less is known about whether exposure to PM inside homes is associated with Kawasaki disease. To investigate this potential link, researchers from the University of Toyama, Japan, led by Professor Kenta Matsumura (Aomori University of Health and Welfare, Japan) along with Professor Emeritus Hidekuni Inadera, examined the association between household-specific indoor PM exposure during early childhood and Kawasaki disease onset by age 6. The study, made available online on September 11, 2026, and published in Volume 278 of the International Journal of Hygiene and Environmental Health, aimed to determine whether exposure to fine or coarse particles was associated with the likelihood of developing the condition.
+The researchers analyzed data from 3,846 mother–child pairs enrolled in the Japan Environment and Children’s Study (JECS), a large prospective birth cohort study. Indoor concentrations of fine PM (PM2.5) and coarse PM (PM10–2.5) were measured in participants’ homes over 1-week periods when children were 1.5 and 3 years old. The measurements were averaged to estimate household-specific exposure. The consistency of exposure levels between the two measurement periods was moderate, with intraclass correlation coefficients (ICCs) of 0.52 for PM2.5 and 0.55 for PM10–2.5.
+Kawasaki disease onset was assessed through age 6. During follow-up, 59 children developed the disease, corresponding to a cumulative incidence of 15.34 cases per 1,000 singleton live births. The researchers used logistic regression models to compare the odds of Kawasaki disease across exposure groups, adjusting for potential confounding factors. The analysis revealed an inverse association between indoor coarse PM exposure and Kawasaki disease. “Children in the highest PM10–2.5 exposure tertile had 58% lower odds of developing Kawasaki disease than those in the lowest tertile (fully adjusted odds ratio (aOR): 0.42; 95% confidence interval [CI]: 0.19–0.86). PM2.5 showed a similar trend, but the association was weaker and not statistically significant, with a fully aOR of 0.67 (95% CI: 0.33–1.32),” explains Prof. Matsumura. These findings do not establish a causal relationship or indicate that indoor PM protects against Kawasaki disease.
+A key strength of the study is its use of a prospective birth cohort and household-level air pollution measurements collected at two stages of early childhood. This approach provides insight into indoor exposure patterns that may not be captured by outdoor air pollution measurements alone. Prof. Matsumura shares, “Our findings highlight the importance of considering household-specific indoor environments, alongside outdoor air quality, when investigating the onset of Kawasaki disease.” Future larger-scale studies should examine particle composition, including microbial components, and household characteristics to better understand this unexpected association.
+In conclusion, higher indoor PM10–2.5 exposure was associated with lower odds of Kawasaki disease by age 6, while the association with PM2.5 was not statistically significant. These findings should not be interpreted as evidence that PM protects against the disease. Further research is needed to confirm the association, assess potential confounding factors, and clarify how indoor environmental exposures may relate to Kawasaki disease development.
+Reference 
+Title of original paper: Household-specific indoor PM2.5 and PM10–2.5 concentrations and Kawasaki disease onset by age six: the Japan Environment and Childrenʼs Study  
+Journal: International Journal of Hygiene and Environmental Health  
+DOI: https://doi.org/10.1016/j.ijheh.2026.114893  
+About University of Toyama  
+The University of Toyama is a national university located in Toyama Prefecture, Japan, with campuses in Toyama City and Takaoka City. Established in October 2005 through the integration of three former national institutions, it offers a broad range of academic programs across nine schools and multiple graduate schools. Its disciplines include medicine, pharmaceutical sciences, engineering, natural sciences, humanities, economics, education, art and design, and sustainable design. The university emphasizes interdisciplinary education, advanced research, international collaboration, and contributions to regional and global communities. It also supports international students through exchange programs and academic services.  
+Website: https://www.u-toyama.ac.jp/en/ 
+About Professor Kenta Matsumura from University of Toyama, Japan 
+Professor Kenta Matsumura received his M.A. and Ph.D. degrees in Human Sciences from Hokkaido University in 2004 and 2007, respectively. He joined the University of Toyama in 2018 and became a Professor at Aomori University of Health and Welfare in 2025, while maintaining an affiliation with the University of Toyama as a Visiting Researcher. His research focuses on epidemiology, public health, mental health, nutritional psychiatry, and biological psychology. He has published more than 140 research papers, including studies using large-scale population data from the Japan Environment and Children's Study (JECS). 
+Funding information 
+This study was funded by the Ministry of the Environment, Japan. The funding source played no role in the study's design; in the collection, analysis, or interpretation of data; in the writing of the report; or in the decision to submit this paper for publication.
+Journal
+International Journal of Hygiene and Environmental Health
+Method of Research
+Observational study
+Subject of Research
+People
+Article Title
+Household-specific indoor PM2.5 and PM10–2.5 concentrations and Kawasaki disease onset by age six: the Japan Environment and Childrenʼs Study
+Article Publication Date
+11-Sep-2026
+COI Statement
+NA

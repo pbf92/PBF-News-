@@ -1,0 +1,24 @@
+URL: https://www.eurekalert.org/news-releases/1153164
+TITLE: Efficacy of 99Tc-MDP combined with electroacupuncture of hip acupoints for osteonecrosis of the femoral head
+OUTLET: EurekAlert!
+
+Without effective intervention, osteonecrosis of the femoral head (ONFH) typically progresses to femoral head collapse and subsequent joint failure. Consequently, any intervention measures that could delay or prevent disease progression would be clinically relevant, particularly in Asian populations, where ONFH accounts for 40% of primary total hip arthroplasty indications. 99Tc-MDP, made in China, has anti-inflammatory, analgesic, immune-modulatory, and bone-protective properties. Electroacupuncture of Hip Acupoints (EAHA) is a traditional Chinese treatment to enhance blood supply within the femoral head. Therefore, the multicenter trial was conducted to comparatively evaluate the efficacy of 99Tc-MDP, EAHA, and their combination therapy in treating ONFH for delaying disease progression. The findings of the study were made available online on August 19, 2026 in the Chinese Medical Journal.
+A total of 159 patients (201 hips) were included in the study. At the 12-month mark, significant improvement was observed in the combined treatment. The overall Association Research Circulation Osseous progression rates in the 99Tc-MDP, EAHA, and combination therapy groups were 3.85% (3/78, all from III to IV), 14.06% (9/64, 3 from II to III and 6 from III to IV), and 1.69% (1/59, from III to IV), respectively. 99Tc-MDP treatment and the 99Tc-MDP combined EAHA group also showed significantly partial improvement in hip function and quality of life. No significant adverse effects were observed in any treatment group. 
+Reference 
+Title of original paper: Efficacy of 99Tc-MDP combined with electroacupuncture of hip acupoints for delaying the progression of osteonecrosis of the femoral head  
+Journal: Chinese Medical Journal  
+DOI: https://doi.org/10.1097/CM9.0000000000004217  
+About Dr. Chao Ma from Tongji University, China  
+Dr. Chao Ma is Professor and Director of Nuclear Medicine, Tongji University of Shanghai Tenth People's Hospital. She has been engaged in clinical and scientific research of thyroid cancer for more than 20 years and bone osteonecrosis for 11 years, and is proficient in the radionuclide targeted diagnosis and treatment of thyroid diseases and bone disease. She is especially good at the iodine-131 in the treatment of hyperthyroidism, thyroid cancer, PSMA targeted treatment for prostate cancer, and bone metastasis. In addition, she is greatly interested in 99mTc-MDP/99Tc-MDP targeted diagnosis and treatment of bone osteonecrosis such as the osteonecrosis of the femoral head and talus. She published more than 60 papers on bone and thyroid disease. 
+About Mr. Huo Yanlei from Tongji University, China 
+Mr. Huo Yanlei is from the Department of Nuclear Medicine, Tenth People’s Hospital of Tongji University, China. He is mainly engaged in molecular imaging, radioactive particle implantation, and radionuclide diagnosis and treatment of bone and joint diseases. He published 11 papers in Chinese and English, including five first-author articles (including co-first-author). 
+Funding information 
+This work was supported by grants from the Shanghai Science and Technology Commission Project (No. 18401901300). 
+Journal
+Chinese Medical Journal
+Article Title
+Efficacy of 99Tc-MDP combined with electroacupuncture of hip acupoints for delaying the progression of osteonecrosis of the femoral head
+Article Publication Date
+19-Aug-2026
+COI Statement
+None

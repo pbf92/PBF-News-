@@ -1,0 +1,25 @@
+URL: https://www.tradingview.com/news/tradingview:177aa90cf8ee7:0-gridai-power-acquires-pronghorn-for-66-million-common-equivalent-shares/
+TITLE: GridAI Power Acquires Pronghorn for 66 Million Common-Equivalent Shares
+OUTLET: TradingView
+
+GridAI Power Acquires Pronghorn for 66 Million Common-Equivalent Shares
+GridAI Power completed its acquisition of Pronghorn Resources through a share exchange, with consideration representing 66 million common-equivalent shares, and assumed Sigma9 Capital's rights and obligations under a Wyoming small modular reactor joint venture. The transaction makes Pronghorn a wholly owned subsidiary and gives GridAI Power the joint venture development rights. At closing, the company also amended Pronghorn's $5 million secured note to require cash repayment only, while its security interest remained in place.
+Agreement 1: GridAI Power Acquires Pronghorn for 66 Million Common-Equivalent Shares
+- Agreement type: Share exchange agreement
+- Counterparty: Pronghorn Resources and its sellers
+- Signed / Effective: Nov 12 2026 / Nov 22 2026
+- Duration / Termination: Completed at closing
+- Reason: Acquire Pronghorn and expand the company's energy business
+Agreement 2: GridAI Power Takes Over Wyoming Reactor JV Rights From Sigma9
+- Agreement type: Assignment and assumption of joint venture agreement
+- Counterparty: Sigma9 Capital
+- Signed / Effective: Nov 22 2026 / Nov 22 2026
+- Duration / Termination: Ongoing under the joint venture agreement
+- Reason: Secure rights to develop small modular reactor facilities in Wyoming
+Agreement 3: GridAI Power Converts Pronghorn's $5 Million Secured Note to Cash-Only Repayment
+- Agreement type: Amendment to secured convertible note
+- Counterparty: Pronghorn Resources
+- Signed / Effective: Nov 22 2026 / Nov 22 2026
+- Duration / Termination: Until the note is repaid
+- Reason: Make the note payable in cash while preserving the security interest
+Original SEC Filing: GridAI Power Corp. [ GRDX ] - 8-K - Nov. 24, 2026

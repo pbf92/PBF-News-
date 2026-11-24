@@ -1,0 +1,34 @@
+URL: https://freeyork.org/design/gta-6-pricedown-font/
+TITLE: Rockstar Kept GTA’s Pricedown Font in GTA 6 While Modernising the HUD
+OUTLET: freeyork
+
+The first thing I noticed about GTA 6’s interface was how much it felt like GTA, right down to the gta 6 pricedown font in the lettering. The icons sit where they always have, only sharper and more refined. Holding that look steady across nearly 25 years of the series takes deliberate design work.
+After reviewing the game, I found the gta 6 hud familiar but updated. The same layout appears alongside in-game apps and the character’s phone. Rockstar’s UI team spent the development cycle working out how much of the old look to keep, including the gta 6 pricedown font, and how much to change.
+Keeping the gta 6 pricedown font
+Stuart Petri, Vice President of Art: 2D/UI Design, says the team started near the beginning of the series. “Almost 25 years ago, we helped bring Vice City to life,” Petri says. The early visual language was simple, he says, and it has since become “far more sophisticated, layered, and considered.”
+The brief was to make the interface “feel fresh, contemporary, and relevant for a new generation, while retaining the heritage that makes it unmistakably GTA.” Petri names the signatures that link the old games to the new one: the gta 6 pricedown font, the minimap, the wanted stars and the Wasted screen.
+Font choices like these show how far GTA branding reaches beyond the screen, from typefaces to large public works. Canva’s new multilingual font library from Monotype offers a useful look at how typefaces get licensed and scaled for wide use.
+The interface also has to know when to get out of the way. “It should be there when you need it, but at the same time is not distracting,” Petri says. “A single press of a button gets you what you need, then back to the game and it’s gone.”
+Players can change a good deal of the layout. The minimap can be enlarged or made dynamic, a compass can sit at the top of the screen, or the whole layer can be removed. The default setup is modest, with a small map, subtle police ratings and small health bars.
+A phone you hold in your hand
+Sam Grosset, Associate UI Director, UI/UX Design, says the aim is an interface that acts as “a natural extension of the game world.” It should support players “without interrupting gameplay or breaking immersion, unless necessary to do so.”
+The clearest example is the phone. “It was a big shift for our phone interface to be in-hand,” Grosset says. The change, he argues, supports the feeling of playing as Jason or Lucia and keeps the player inside the world.
+The phone also carries the game’s humour. Apps such as BuckMe and RydeMe sit alongside Waink, which scans and records the world around the player. Together they make the interface feel current while staying recognisably Rockstar.
+Grosset says accessibility was “considered from the outset.” He points to choices such as a larger font size, a more minimal screen and a control tweak for sprinting. “Designing for diverse needs enables us to create better games for everyone,” he says.
+Rockstar’s approach gives players a classic setup or a version with more assistance. In my own play, I did not miss the button tap that made the character run for a second. Bikes still use the old input.
+Animation behind the interface
+Mark Tennant, Vice President of Animation, says the physical side of the Jason and Lucia relationship needed “a lot of thought and iteration.” Players can interact with their partner in “a natural, loving way,” and the response develops with their investment in the relationship.
+Tennant says the team had to balance “player agency and partner response” while keeping the scenes “fun, passionate, and rewarding.” The work sits on top of everyday animation. Tennant says there are “close to a thousand animation sets for ambient activities” and “hundreds of bespoke one-off events and custom sequences.”
+Keeping that volume consistent required close work with the design team across the entire game world. Most players will never notice it directly. A character who cannot open a door without bumping a hip, however, shows how much weight Rockstar wants the city of Leonida to carry.
+The GTA identity also leaves the console and appears on city walls, where artists reinterpret it. Paris’s giant GTA 6 mural and the debate it caused shows how fans respond when that familiar look gets altered.
+The interface keeps the gta 6 pricedown font and the old layout because those elements carry the series’ identity. Rockstar’s team has made the rest of the screen quieter, faster to dismiss and easier to adjust. Petri’s summary is the simplest measure of the effort: “Twenty-five years on, the DNA remains.”
+H/T creativebloq.com
+Frequently asked questions
+Does GTA 6 keep the Pricedown font in its interface?
+Yes, GTA 6 keeps the Pricedown font along with the old HUD layout, because those elements carry the series’ identity. Rockstar’s UI team updated the rest of the interface while retaining these signature elements.
+Can players customize the GTA 6 HUD layout?
+Players can change much of the GTA 6 HUD layout. The minimap can be enlarged or made dynamic, a compass can sit at the top of the screen, or the whole layer can be removed. The default setup is modest, with a small map, subtle police ratings and small health bars.
+Why does the GTA 6 phone appear in the character’s hand?
+Rockstar moved the phone interface into the character’s hand because it supports the feeling of playing as Jason or Lucia and keeps the player inside the game world. Sam Grosset, Associate UI Director, described this as a big shift for the team.
+What accessibility features does GTA 6’s interface include?
+GTA 6’s interface includes a larger font size, a more minimal screen and a control tweak for sprinting. Rockstar also offers a classic setup or a version with more assistance, and accessibility was considered from the outset.

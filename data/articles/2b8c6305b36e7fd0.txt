@@ -1,0 +1,29 @@
+URL: https://decrypt.co/383929/anthropic-claude-ship-ai-write-review-approve-own-code
+TITLE: Anthropic’s Claude Ship Lets AI Write, Review and Approve Its Own Code
+OUTLET: Decrypt
+
+In brief
+- Anthropic launched Claude Ship, a collection of AI agents that review, repair and approve software changes.
+- Developers can configure their repositories to allow certain changes to merge without human intervention.
+- Anthropic already uses a similar system internally, though independent research suggests AI models struggle to identify vulnerabilities in AI-generated code.
+Anthropic is automating another part of software engineering: the process of deciding whether the code an AI writes is actually good enough to use.
+The company introduced Claude Ship on Monday, a collection of AI agents capable of reviewing software changes, fixing errors, and approving code according to rules established by development teams.
+Under certain configurations, software changes can make their way into a company's codebase without a human reading a single line of code.
+Did you know?
+You can now act on the news you read: Go long or short Anthropic with perpetual futures, all from your Decrypt Money Account.
+AI coding tools have become so good at producing software that reviewing it has become a bottleneck. Developers who previously spent hours writing a feature can now generate several in that time, but someone still has to check whether those changes work without breaking something else.
+Anthropic is experiencing that problem itself. The company says Claude already writes most of the code produced by its Claude Code team.
+Claude Ship combines three tools, each responsible for a different stage of the process. The first, Code Review, examines proposed changes against the existing codebase, using multiple agents to find potential bugs and verify each other's findings.
+PR Steward, the second tool, makes the necessary corrections when automated tests fail or reviewers identify problems. It documents its modifications and provides instructions for reversing them, allowing developers to intervene if necessary.
+The third tool, Claude Approvals, decides whether the proposed changes satisfy the company's approval policies. According to Anthropic's technical documentation, repositories configured for automatic merging can incorporate changes without anyone manually approving them.
+Who checks the AI checking the AI?
+The ability to delegate code reviews to AI is particularly attractive in the age of vibe coding, where developers—and increasingly people with little programming experience—build software by describing what they want in natural language.
+But having an AI double-check another AI's work doesn't necessarily eliminate their shared weaknesses. A human programmer and a language model might approach a problem differently, whereas two agents powered by similar models could overlook the same flawed assumption.
+A peer-reviewed study published earlier this year found that models from OpenAI and Anthropic performed slightly better at identifying and repairing security vulnerabilities in human-written code than in AI-generated code.
+AI-assisted software development has already produced some expensive mistakes. In April, a startup founder reported that a coding agent running Anthropic's Claude Opus 4.6 deleted his company's production database and its volume-level backups through a single API call.
+Anthropic's own experience with automated code reviews illustrates a different problem: AI agents can get stuck correcting each other. In one instance, according to an October engineering report, a proposed software change went through more than 50 rounds of automated reviews and corrections overnight before its author intervened.
+The company nevertheless reported encouraging internal results. The number of merged changes more than doubled between June and September, while the proportion of changes that had to be reversed fell by more than 40%.
+Those results came from a broader review process that retained human oversight for sensitive modifications, rather than a fully autonomous system. Changes to documentation can pass without human approval at Anthropic, whereas particularly risky modifications require two people to sign off.
+“A person is accountable for every change that ships, whoever typed it,” Anthropic's engineers wrote.
+Whether other companies adopt equally restrictive policies is up to them. Claude Ship allows administrators to determine which parts of their software require human supervision and which decisions they are comfortable delegating to an AI.
+The service is available for GitHub repositories on Claude Team and Enterprise plans, with charges based on token consumption. For now, Anthropic recommends running its automated approval system in observation mode, letting the AI demonstrate what it would have approved before giving it the authority to do so.

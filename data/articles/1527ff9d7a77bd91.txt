@@ -1,0 +1,24 @@
+URL: https://asia.nikkei.com/business/markets/anthropic-falls-below-83-ipo-price-in-swift-reversal-after-record-listing
+TITLE: Anthropic falls below $83 IPO price in swift reversal after record listing
+OUTLET: Nikkei Asia
+
+(Reuters) -- Anthropic's shares slipped below their $83 initial public offering price in early trading on Tuesday, a striking unwind just days after the Claude developer's record-breaking Nasdaq debut.
+The stock was last down 5.4% at $82.78, extending a steep retreat from its $111.50 opening price on Nov. 19.
+It had closed 17% above the IPO price in its debut trading session but has since been swept up in a broader technology sell-off that pushed the S&P 500 and the Dow into confirmed correction territory the previous week.
+Anthropic's rapid reversal has added to concerns about stretched AI valuations and the vast sums being poured into computing infrastructure, with rising interest rates threatening to push those costs even higher. As the first frontier artificial intelligence company to go public, Anthropic is widely seen as a proxy for the sector.
+"If we do see a slowdown in the data center buildout, then that obviously can impact the speed at which Anthropic can develop and therefore future revenue and therefore its valuation," said Fiona Cincotta, senior market analyst at StoneX.
+Anthropic missed out on a broad Wall Street rally driven by AI-related stocks after Nvidia reinstated Jensen Huang as chief executive on Monday.
+Anthropic is not alone among blockbuster technology IPOs in quickly surrendering early gains and falling below its offer price. SpaceX, whose $85.7 billion June listing was the world's biggest before Anthropic, took about a month to fall below its offer price.
+In 2012, Facebook, now Meta Platforms, slipped below its offer price on its second trading day.
+The comparisons show that a swift loss of an IPO premium is not unprecedented even for highly anticipated listings, and that an early break below the offer price is not necessarily a guide to longer-term performance.
+"Like most IPOs, it probably came in overpriced and it is now the real price discovery as to what the true value should be," said Peter Andersen, founder of Andersen Capital Management.
+After touching $2 trillion in valuation on debut day, Anthropic was last trading at a $1.5 trillion valuation, which is about 40 times its sales over the last 12 months.
+With Anthropic's shares now testing their IPO price, attention is turning to risks that could determine where the stock goes next, including insider selling, pressure from open-weight models and a potential slowdown in data center investments.
+Anthropic's IPO lockup provisions allow certain employees and insiders to sell portions of their holdings from the first trading day, with further staggered releases tied to earnings announcements.
+CEO Dario Amodei and President Daniela Amodei sold more than 3.37 million shares worth over $280 million each to the IPO's underwriters a day after the debut, according to a filing late on Monday.
+Anthropic's underwriters also exercised their option to buy additional shares, lifting the IPO's gross proceeds to a record $93.5 billion, while removing a potential source of support for the stock after its debut.
+Anthropic also faces growing competition from cheaper open-weight AI models, which it has warned could pressure pricing.
+Users can download and adapt models from DeepSeek, Mistral and Moonshot AI, unlike proprietary models such as Claude, ChatGPT and Gemini, with Chinese developers in particular gaining ground globally.
+Huang's return could also sharpen the competitive threat to Anthropic, given his strong advocacy for open-weight AI models.
+Some support could emerge in the coming days as Anthropic's addition to major indexes prompts buying from passive funds.
+Index rebalance analytics firm Intropic estimates passive funds could buy up to 30% of the shares offered by year-end. MSCI will add Anthropic to its global standard indexes as of the Nov. 30 close.

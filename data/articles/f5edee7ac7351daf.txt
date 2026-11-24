@@ -1,0 +1,44 @@
+URL: https://www.eurekalert.org/news-releases/1153167
+TITLE: Sex differences linked to distinct patterns of health decline in aging rats
+OUTLET: EurekAlert!
+
+“A subset of these parameters illustrates the importance of sex as a biological variable in the aging process.”
+BUFFALO, NY — November 24, 2026 — A new research paper was published in Volume 18 of Aging on November 11, 2026, titled “Comprehensive healthspan assessments and influence of sex as a biological variable in aging rats.”
+The study examines how aging affects physical function, metabolism and overall health in male and female rats. Researchers found that although both sexes experienced age-related decline, several changes developed differently, highlighting the importance of biological sex in understanding aging and evaluating potential interventions.
+The study's first author and one of the corresponding authors is Abhishek Chandra. The other corresponding author is Robert J. Pignolo. Both are affiliated with Mayo Clinic in Rochester, MN.
+Aging affects multiple systems in the body, often leading to reduced physical strength, changes in metabolism and increased vulnerability to disease. Understanding these changes is essential for developing interventions aimed at extending healthspan, the period of life spent in relatively good health.
+Although mice are widely used in aging research, rats offer certain physiological and behavioral advantages that may improve the relevance of some experimental findings to humans. However, comprehensive studies examining age-related changes across multiple health measures in rats remain limited.
+To address this gap, researchers evaluated male and female Brown-Norway rats at 6, 17 and 27 months of age. They examined physical performance, frailty, metabolism, bone health, cellular aging markers and changes in organ function.
+The findings showed that frailty increased with age in both sexes, but the changes were more pronounced in males. Male rats showed significant increases in frailty by 17 months, while similar changes in females appeared later. Physical performance also declined with age, although some measures, including grip strength, differed between males and females.
+Metabolic changes revealed another important distinction. Older male rats accumulated more body fat and developed impaired glucose tolerance, while glucose tolerance in females remained largely unchanged. The researchers also observed sex-specific differences in cellular senescence markers, which are associated with aging-related changes in tissue function.
+Despite these differences, some effects of aging were shared by both sexes, including reduced treadmill performance, changes in bone structure and increased vascular stiffness.
+“Our data provides age-related healthspan metrics as a reference for genetic or pharmacological aging studies in rats.”
+The findings provide a broad set of measurements that researchers can use to evaluate aging interventions. They also highlight why biological sex should be considered when designing preclinical studies and interpreting how treatments affect different aspects of aging.
+However, the study was cross-sectional, comparing rats at different ages rather than following the same animals over time. The findings are also specific to Brown-Norway rats and may not directly reflect aging patterns in humans. Further research is needed to determine how these measures respond to potential anti-aging interventions.
+Overall, the study provides a useful foundation for understanding how aging affects different biological systems in rats. Recognizing sex-related differences could help researchers design more informative studies and assess future strategies aimed at preserving health and function during aging.
+Paper DOI: https://doi.org/10.18632/aging.206438           
+Corresponding authors: Abhishek Chandra - chandra.abhishek1@mayo.edu, Robert J. Pignolo - pignolo.robert@mayo.edu
+Abstract video: https://www.youtube.com/watch?v=OdaUKxNTUVg
+Keywords: aging, healthspan, rats, senescence
+Click here to sign up for free Altmetric alerts about this article.
+______
+To learn more about the journal, please visit www.Aging-US.com and connect with us on social media:
+- Bluesky
+- ResearchGate
+- X
+- YouTube
+- Spotify, and available wherever you listen to podcasts
+Click here to subscribe to Aging publication updates.
+For media inquiries, please contact media@impactjournals.com.
+Journal
+Aging-US
+Method of Research
+News article
+Subject of Research
+Animals
+Article Title
+Comprehensive healthspan assessments and influence of sex as a biological variable in aging rats
+Article Publication Date
+11-Nov-2026
+COI Statement
+The authors declare that they have no conflicts of interest.

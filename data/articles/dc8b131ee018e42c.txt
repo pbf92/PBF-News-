@@ -1,0 +1,35 @@
+URL: https://superpowerdaily.com/posts/meta-adds-muse-ai-chats-to-instagram-dms-and-tools-for-organizing-saved-posts
+TITLE: Meta adds Muse AI chats to Instagram DMs and tools for organizing saved posts
+OUTLET: Superpower Daily
+
+Meta adds Muse AI chats to Instagram DMs and tools for organizing saved posts
+The DM rollout covers five countries on iOS and Android. Tools for sorting saved posts and turning them into lists or plans start in the U.S. and Canada.
+Loading page…
+Listen to this story
+Meta is embedding its Muse assistant into Instagram’s content workflow, letting people use posts and saved Reels as inputs for questions, plans and organization without leaving the app. DM access rolls out on iOS and Android in the U.S., Canada, Mexico, Japan and Singapore from Nov. 24, 2026; saved-content assistance is initially limited to the U.S. and Canada. Instagram conversations will also appear in the Muse app, connecting the new entry point to Meta’s standalone assistant.
+Users can ask Muse to add a place from a post to an itinerary, look for a product deal or catch them up on missed DMs.
+For saved posts and Reels, Muse can create Instagram Collections and turn content into grocery lists, trip plans or outfit suggestions.
+Meta says Muse will not share, publish or send anything without approval; users can also ask it to forget information or undo actions.
+Meta is bringing its Muse AI assistant into Instagram DMs, promising a shorter path from discovering something to acting on it. The rollout announced November 24 lets users send posts to the assistant and request help. But the accompanying tools for organizing saved posts and Reels are starting in fewer countries than the chat integration.
+The change puts a conversation with Muse inside Instagram rather than requiring users to switch to the separate Muse app. It is an additional way to reach the assistant: Meta says conversations started through Instagram will also appear as a side chat in the main Muse app.
+Users can share an Instagram post with Muse and ask for more context about the post, a place or a product. Meta’s examples go beyond asking the assistant to explain what is on screen. A user could ask it to add a coffee shop to a Mexico City itinerary or find a Black Friday deal on shoes.
+Meta also says users can ask Muse to help them catch up on conversations missed in other DMs.
+The saved-content part of the announcement gives Muse another entry point. Starting November 24, users in the U.S. and Canada will see a prompt offering Muse’s help when they save a post. Meta says they can ask the assistant to sort bookmarked posts and Reels into custom folders, which Instagram calls Collections.
+Beyond sorting, Meta gives three examples of how users can ask Muse to turn saved content into lists, plans or suggestions:
+Meta pairs these requests for action with a stated approval boundary. The company says Muse will not share, publish or send anything without the user’s approval.
+The controls Meta describes also extend beyond the initial request. Users can ask Muse to forget information or undo actions at any time, the company says.
+Meta’s personal AI agent does not need to show ads to help its advertising business. By prompting Instagram users to organize saved posts through Muse, Meta is making it easier to return to products and buy them, CNBC reported November 24. A senior Meta executive said that process improves the rate at which advertisers turn…
+Meta’s personal AI agent does not need to show ads to help its advertising business. By prompting Instagram users to organize saved posts through Muse, Meta is making it easier to return to products and buy them, CNBC reported November 24. A senior Meta executive said that process improves the rate at which advertisers turn interest into purchases.
+The starting point is an existing Instagram habit. About 20% of daily users save at least one post each day, a person familiar with the figures told CNBC. Many of those saved posts are shoppable items or advertisements, the person said. Both sources spoke anonymously because the details were not public.
+Meta’s own description of its Instagram connection offers a simple example: users can turn a saved recipe Reel into a shopping list. Users choose which services Muse can connect to and can remove a connection through settings.
+Forter Intelligence describes Muse as a browser-based shopping agent: it opens store pages, fills in forms and clicks through checkout. That lets it buy from stores without a dedicated integration, although changing pages, confusing forms and bot checks can interrupt the process. Meta says Muse asks for approval before making a purchase and shows users what it has done.
+Shopping is already Muse’s most common use, according to Mark Zuckerberg’s comments on Meta’s latest earnings call, cited by CNBC. He said 25% of Muse users shop through the agent and the average purchase price exceeds $200. CNBC did not provide a numerical measure of the claimed conversion improvement.
+Forter’s dated figures put Muse at 50% of AI-agent orders identified on its merchant network from November 17–23. Over the 90 days ending November 23, Muse accounted for 45% of agent orders and 43% of agent spending. Its average order was $219, compared with $230 across all agents.
+These are shares of purchases Forter identifies as agent-driven, not shares of all online shopping. Forter aggregates anonymized orders across its network and says it is independent of Meta. It began reliably detecting Muse orders on September 21, partway through the 90-day window.
+Helping complete a purchase is distinct from feeding an assistant’s private conversations into advertising systems. Meta explicitly says Muse conversations and data held in each user’s virtual computer are not shared with its advertising systems.
+Meta also has a more direct revenue plan. Zuckerberg said the company intends to take a small fee on transactions made through Muse.
+Ads inside Muse remain a possibility, not an announced launch. People familiar with Meta’s thinking told CNBC that its feed could be a natural place to test them, but the company faces no financial pressure to rush.
+Loading discussion...
+Join the conversation
+Explain whether that would feel useful or intrusive.
+Be the first to share a perspective or an experience.

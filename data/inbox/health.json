@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T21:38:07Z",
- "new_this_run": 34,
+ "updated": "2026-11-24T22:44:23Z",
+ "new_this_run": 164,
  "failed_sources": [
   "ppcland"
  ],
@@ -10,7 +10,7 @@
    "desk": "world",
    "ok": true,
    "fetched": 25,
-   "new": 3,
+   "new": 8,
    "errors": []
   },
   {
@@ -34,7 +34,7 @@
    "desk": "ai",
    "ok": true,
    "fetched": 100,
-   "new": 0,
+   "new": 12,
    "errors": []
   },
   {
@@ -42,7 +42,7 @@
    "desk": "world",
    "ok": true,
    "fetched": 100,
-   "new": 2,
+   "new": 4,
    "errors": []
   },
   {
@@ -58,7 +58,7 @@
    "desk": "ai",
    "ok": true,
    "fetched": 20,
-   "new": 0,
+   "new": 1,
    "errors": []
   },
   {
@@ -73,8 +73,8 @@
    "id": "athletic",
    "desk": "united",
    "ok": true,
-   "fetched": 57,
-   "new": 4,
+   "fetched": 58,
+   "new": 3,
    "errors": []
   },
   {
@@ -82,7 +82,7 @@
    "desk": "world",
    "ok": true,
    "fetched": 25,
-   "new": 0,
+   "new": 1,
    "errors": []
   },
   {
@@ -90,7 +90,7 @@
    "desk": "world",
    "ok": true,
    "fetched": 99,
-   "new": 3,
+   "new": 14,
    "errors": []
   },
   {
@@ -113,8 +113,8 @@
    "id": "bbcsport",
    "desk": "united",
    "ok": true,
-   "fetched": 76,
-   "new": 0,
+   "fetched": 68,
+   "new": 2,
    "errors": []
   },
   {
@@ -153,15 +153,15 @@
    "id": "cme",
    "desk": "markets",
    "ok": true,
-   "fetched": 18,
-   "new": 0,
+   "fetched": 39,
+   "new": 4,
    "errors": []
   },
   {
    "id": "cochrane",
    "desk": "health",
    "ok": true,
-   "fetched": 25,
+   "fetched": 56,
    "new": 1,
    "errors": []
   },
@@ -177,8 +177,8 @@
    "id": "df",
    "desk": "gaming",
    "ok": true,
-   "fetched": 28,
-   "new": 0,
+   "fetched": 32,
+   "new": 1,
    "errors": []
   },
   {
@@ -193,7 +193,7 @@
    "id": "earnings",
    "desk": "markets",
    "ok": true,
-   "fetched": 21,
+   "fetched": 19,
    "new": 0,
    "errors": []
   },
@@ -201,8 +201,8 @@
    "id": "eurekalert",
    "desk": "health",
    "ok": true,
-   "fetched": 83,
-   "new": 0,
+   "fetched": 93,
+   "new": 11,
    "errors": []
   },
   {
@@ -250,7 +250,7 @@
    "desk": "world",
    "ok": true,
    "fetched": 84,
-   "new": 0,
+   "new": 5,
    "errors": []
   },
   {
@@ -258,7 +258,7 @@
    "desk": "united",
    "ok": true,
    "fetched": 11,
-   "new": 0,
+   "new": 1,
    "errors": []
   },
   {
@@ -273,7 +273,7 @@
    "id": "information",
    "desk": "ai",
    "ok": true,
-   "fetched": 51,
+   "fetched": 52,
    "new": 0,
    "errors": []
   },
@@ -321,8 +321,8 @@
    "id": "meta",
    "desk": "business",
    "ok": true,
-   "fetched": 25,
-   "new": 0,
+   "fetched": 55,
+   "new": 4,
    "errors": []
   },
   {
@@ -353,16 +353,16 @@
    "id": "natreview",
    "desk": "world",
    "ok": true,
-   "fetched": 17,
-   "new": 0,
+   "fetched": 19,
+   "new": 2,
    "errors": []
   },
   {
    "id": "nature",
    "desk": "expand",
    "ok": true,
-   "fetched": 30,
-   "new": 0,
+   "fetched": 31,
+   "new": 1,
    "errors": []
   },
   {
@@ -370,7 +370,7 @@
    "desk": "world",
    "ok": true,
    "fetched": 24,
-   "new": 1,
+   "new": 0,
    "errors": []
   },
   {
@@ -393,16 +393,16 @@
    "id": "polls",
    "desk": "world",
    "ok": true,
-   "fetched": 55,
-   "new": 0,
+   "fetched": 56,
+   "new": 4,
    "errors": []
   },
   {
    "id": "ppcland",
    "desk": "business",
    "ok": false,
-   "fetched": 94,
-   "new": 1,
+   "fetched": 71,
+   "new": 0,
    "errors": [
     "feed: HTTPError: HTTP Error 403: Forbidden"
    ]
@@ -468,7 +468,7 @@
    "desk": "world",
    "ok": true,
    "fetched": 100,
-   "new": 2,
+   "new": 6,
    "errors": []
   },
   {
@@ -484,14 +484,14 @@
    "desk": "gaming",
    "ok": true,
    "fetched": 100,
-   "new": 3,
+   "new": 15,
    "errors": []
   },
   {
    "id": "shopify",
    "desk": "business",
    "ok": true,
-   "fetched": 12,
+   "fetched": 11,
    "new": 0,
    "errors": []
   },
@@ -500,7 +500,7 @@
    "desk": "world",
    "ok": true,
    "fetched": 20,
-   "new": 0,
+   "new": 2,
    "errors": []
   },
   {
@@ -516,7 +516,7 @@
    "desk": "tradetech",
    "ok": true,
    "fetched": 100,
-   "new": 6,
+   "new": 15,
    "errors": []
   },
   {
@@ -532,7 +532,7 @@
    "desk": "world",
    "ok": true,
    "fetched": 100,
-   "new": 0,
+   "new": 6,
    "errors": []
   },
   {
@@ -540,7 +540,7 @@
    "desk": "ai",
    "ok": true,
    "fetched": 100,
-   "new": 5,
+   "new": 15,
    "errors": []
   },
   {
@@ -548,7 +548,7 @@
    "desk": "gaming",
    "ok": true,
    "fetched": 100,
-   "new": 1,
+   "new": 5,
    "errors": []
   },
   {
@@ -556,7 +556,7 @@
    "desk": "united",
    "ok": true,
    "fetched": 100,
-   "new": 0,
+   "new": 14,
    "errors": []
   },
   {
@@ -612,7 +612,7 @@
    "desk": "gaming",
    "ok": true,
    "fetched": 30,
-   "new": 0,
+   "new": 5,
    "errors": []
   },
   {

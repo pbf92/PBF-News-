@@ -1,0 +1,25 @@
+URL: https://www.eurekalert.org/news-releases/1153252
+TITLE: MASLD burden rises across Asia-Pacific, with young adults at the forefront
+OUTLET: EurekAlert!
+
+A region-wide picture of a growing epidemic
+Metabolic dysfunction-associated steatotic liver disease (MASLD) is rising throughout the Asia-Pacific region, but its distribution and consequences differ substantially between countries. In a new eGastroenterology study, researchers analysed Global Burden of Disease (GBD) 2023 estimates from 1990 to 2023, assessing age-standardised prevalence, incidence, mortality and disability-adjusted life years (DALYs), together with patterns by age, sex and socioeconomic development.
+Burden increased everywhere but unevenly
+In 2023, Oceania recorded the highest age-standardised MASLD prevalence, at 15,360.55 cases per 100,000 people, followed by Central Asia, South-East Asia and East Asia. Prevalence was lower in Australasia and high-income Asia Pacific. Nevertheless, no subregion was spared: from 1990 to 2023, prevalence increased by 11% in Oceania and by as much as 29% in Australasia and 27% in East Asia.
+The consequences of disease were also unevenly distributed. Central Asia had the highest age-standardised mortality rate, at 3.34 deaths per 100,000, and the highest DALY rate, at 88.53 per 100,000. At country level, prevalence ranged from 7,839.84 per 100,000 in Japan to 22,917.89 per 100,000 in American Samoa. Mongolia and Turkmenistan experienced particularly high mortality or disability burdens, illustrating that prevalence alone does not capture the full public health impact.
+A concerning shift towards younger adults
+The most striking age-related finding was that MASLD incidence peaked among individuals aged 20–24 years across all analysed subregions. Incidence was generally relatively high below age 40 and declined thereafter, although women showed another increase around ages 50–60 in several regions. Men generally had higher prevalence than women, whereas women experienced higher death and DALY rates, particularly at older ages.
+The authors emphasise that the young-adult peak should be interpreted cautiously. It may reflect genuine increases in obesity and metabolic dysfunction, but also differences in screening, coding, transition from paediatric to adult healthcare, sparse primary data and assumptions within the GBD model. Even so, early-onset MASLD is important because it extends lifetime exposure to risks of fibrosis, cirrhosis, liver cancer, diabetes and cardiovascular disease.
+Development does not produce a simple gradient
+MASLD prevalence and incidence followed an inverse U-shaped relationship with the Socio-demographic Index. Burden increased as development rose in lower-SDI settings, likely reflecting urbanisation, dietary transition and sedentary behaviour, but declined after an SDI of approximately 0.62. Greater preventive capacity and healthcare access may partly explain the lower burden at higher SDI levels.
+Decomposition analyses revealed different regional drivers. Population growth and epidemiological change were major contributors in East Asia, whereas ageing played a larger role in South Asia. These differences argue against a uniform regional response.
+From surveillance to prevention
+The findings support policies tailored to local demographic and healthcare conditions. Priorities include healthier food environments, physical activity and school-based prevention; early metabolic assessment in at-risk young people; wider use of non-invasive fibrosis tools such as FIB-4 and vibration-controlled transient elastography; and integrated management of obesity, diabetes, dyslipidaemia and hypertension.
+The estimates remain model-based and derive from the GBD "NAFLD" category rather than direct application of current MASLD criteria, although the two populations overlap substantially. Variable data quality, underdiagnosis and unequal access to imaging may affect national estimates. The study therefore provides a valuable comparative roadmap—not a substitute for stronger country-level surveillance.
+See the articles:
+Zhou X-D, Chen QF, Targher G, et al. Burden of metabolic dysfunctionassociated steatotic liver disease in the Asia-Pacific region from 1990 to 2023. eGastroenterology 2026;4:e100369. doi:10.1136/egastro-2026-100369
+About eGastroenterology
+eGastroenterology, a BMJ journal partnered with Gut and launched by leading scientists in gastroenterology and hepatology, has been indexed in the Web of Science Core Collection (ESCI), PubMed, DOAJ, Scopus, CAS, ROAD, and many other major international databases within just two years of its launch.
+eGastroenterology has recently received its first Journal Impact Factor of 10.5 and now ranks 11/153 in the Web of Science Gastroenterology & Hepatology category.
+For more information, please visit: egastroenterology.bmj.com and follow us on Twitter (@eGastro_BMJ).
+Sign-up to Email Alerts for eGastroenterology: https://emails.bmj.com/k/Bmj/jausu/egastroenterology

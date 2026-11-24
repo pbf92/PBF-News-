@@ -1,0 +1,17 @@
+URL: https://www.eurekalert.org/news-releases/1153206
+TITLE: Counting gut bacteria sheds new light on multiple sclerosis
+OUTLET: EurekAlert!
+
+Researchers from the Vrije Universiteit Brussel (VUB), Flemish Institute for Biotechnology, KU Leuven and the Belgian National MS Centre in Melsbroek have taken a significant step towards understanding the relationship between gut microbiota and MS. This could lead to better insights and treatments in the future.
+MS is a common chronic disorder of the central nervous system, with an unpredictable course. Previous studies have shown differences in the composition of gut microbiota between people with and without MS, but the results have often been contradictory.
+Counting bacteria
+The Belgian scientists discovered the possible reasons for this: previous studies did not always correctly account for other factors influencing gut microbiota, such as how quickly food passes through the gut (‘gut transit’), amongst other factors. The team also used a method involving the precise counting of bacteria to filter out additional noise.
+“Instead of just looking at the ratios between bacteria, it is better to actually count the cells. We have also observed that people with MS have, on average, a lower moisture content in their stool samples, indicating slower bowel transit, which must be taken into account,” explains lead author and neurologist Dr Ayla Pauwels (VUB).
+After adjusting for these factors, it emerged that some bacterial species were more common in people with MS than in the general population, whilst other species were found less frequently. The findings were then compared with those of international studies. Some bacterial groups were confirmed as reliable markers of MS, whilst others were not.
+Certain ‘good’ bacteria, which may have an anti-inflammatory effect, were found to be less abundant in people with MS. A specific bacterial profile was also linked to a milder course of the disease.
+“By taking confounding factors into account more effectively, we were able to distinguish which differences in the gut microbiota are truly robustly associated with MS,” says co-first author Lindsay Devolder (VIB-KU Leuven). “This helps us to better understand conflicting findings from previous studies and provides us with a more reliable basis for further research into the role of the microbiome in MS.”
+No miracle cure
+These results are promising. However, it is important to emphasise that these are associations; further research is needed to establish a cause-and-effect relationship. “Patients shouldn’t all rush to the chemist’s for probiotics just yet,” the researchers warn. “The findings do, however, support the growing understanding that general health factors, such as a varied diet rich in wholemeal products and avoiding ultra-processed foods, can have a positive impact on gut flora and overall health in people with MS.”
+Reference:
+Pauwels, A., Devolder, L., Falony, G., D’haeseleer, M., Nagels, G., Van Remoortel, A., … Raes, J. (2026). Deconfounded, quantitative microbiome profiling identifies robust multiple sclerosis markers and clinical covariate associations. Gut Microbes, 18(1). https://doi.org/10.1080/19490976.2026.2681876
+Disclaimer: AAAS and EurekAlert! are not responsible for the accuracy of news releases posted to EurekAlert! by contributing institutions or for the use of any information through the EurekAlert system.

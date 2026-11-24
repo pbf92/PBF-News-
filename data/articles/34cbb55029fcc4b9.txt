@@ -1,0 +1,17 @@
+URL: https://screenrant.com/gta-6-pc-port-shutdown-rockstar-leonida-recomp/
+TITLE: GTA 6 PC Port Officially Shut Down By Rockstar
+OUTLET: ScreenRant
+
+Grand Theft Auto 6 is smashing records in sales, but it's currently doing so without any assistance from the PC market. Despite the juggernaut status of the game's launch, it's only available to those with a PlayStation 5 or Xbox Series X/S, leaving plenty of fans anticipating the game to wait until a PC release that is assumed to be on the way.
+Some fans who aren't willing to wait, however, have attempted to take things into their own hands first. The biggest project to bring GTA 6 to PC was a recompilation effort called "Leonida," but its development is officially over, in part due to GTA 6 Rockstar Games stepping in.
+On X, "Leonida" creator NotRexed announced that they were stepping away from the project thanks to issues that they "can't control." The announcement followed its disappearance from GitHub on the previous day. In a follow-up tweet, they clarified that Rockstar taking down their server was one part of the reason for quitting, but that they already had too much going on as a teenager "without having middle aged men yell and complain to you on discord."
+Leonida was intended to provide a framework for running GTA 6 on PC, natively running the code thanks to the similarity of Xbox and PC architecture, reimplementing Xbox system software, and translating graphics computing programs. While it was still in an early stage of development, making it impossible to actually play the game on PC at the moment, it was considered a promising foundation for playability in the future.
+Leonida's shutdown likely won't be the last anyone sees of GTA 6 recompilation projects, as the wait for a PC port will leave plenty of fans with time on their hands. Recomps have become increasingly common in recent months thanks to the accessibility of pulling them off with the use of AI "vibe coding," although there have also been recent projects made entirely manually with a higher standard of all-human coding.
+For those who are able to play GTA 6 on consoles, it's proven to be a technical masterpiece. The game pushes the PS5 and Xbox Series X to their limits, but it manages to retain visual clarity, using traditional scaling solutions to bump up an internal 1440p resolution to 4K output rather than relying on a sub-HD resolution and a scaling solution like DLSS for blurrier results. Xbox Series S takes a hit, unsurprisingly, but the results are still impressive considering the system's weaknesses.
+In terms of performance, the biggest appeal of a PC port would be the potential for 60 FPS performance, which is currently inaccessible even on the PS5 Pro. A port will also open the door to modding, which, in traditional Grand Theft Auto fashion, will doubtless take the game in some wild new directions. Hopefully, Rockstar Games will introduce the world to an official PC version of Grand Theft Auto 6 in 2026, along with the anticipated release of a new online mode.
+- Released
+- November 19, 2026
+- ESRB
+- Rating Pending - Likely Mature 17+
+- Engine
+- Rockstar Advanced Game Engine (RAGE)

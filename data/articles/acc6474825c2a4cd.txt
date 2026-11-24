@@ -1,0 +1,12 @@
+URL: https://tech.yahoo.com/ai/claude/articles/anthropic-openai-staff-worried-models-170330258.html
+TITLE: Anthropic and OpenAI Staff Worried Models Becoming Too Powerful to Ever Release, Report
+OUTLET: Yahoo Tech
+
+Employees at two major artificial intelligence companies are concerned about the powerful new models being cooked up in the lab ... which some believe should never be released to the public.
+Axios says its reporters have spoken to more than two dozen sources familiar with the internal debate over the new models at Anthropic and OpenAI ... and they've told the outlet there are stronger versions of A.I. than the ones currently available for public consumption.
+While the companies have worked to make them safe enough to release to the world, they've been unable to do so ... and there's a concern that these models are too smart -- and they're struggling to control them in internal testing environments.
+There are two major issues, according to Axios ... the first is that because A.I. is incentivized by a rewards-based system, there's concern that it will cheat and break parameters to gain the maximum reward.
+The second concern is that A.I. knows researchers are now watching it ... and these models aren't necessarily showing their work to the researchers anymore -- making it impossible to know what the A.I. is thinking.
+Multiple sources Axios spoke to said they feel some top-level executives have become out of touch with the serious safety risks.
+It's unclear where the companies go from here ... but, bottom line, industry leaders are seriously concerned.
+Want to see more TMZ content on Yahoo? Be sure to follow us. Also, add TMZ as a Preferred Source in Google by clicking here.

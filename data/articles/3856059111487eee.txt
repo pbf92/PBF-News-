@@ -1,0 +1,70 @@
+URL: https://www.indexbox.io/blog/gallup-survey-finds-black-adults-face-food-unaffordability-at-triple-the-rate-of-asian-adults/
+TITLE: Gallup: 3 in 10 Black Adults Couldn't Afford Food in Past Year - News and Statistics
+OUTLET: IndexBox
+
+Nestlé USA
+Subsidiary of Nestlé S.A., major US food processor
+A Gallup survey released Nov. 23 found that Black adults are more likely than White, Asian and Hispanic adults to experience not having enough money for food, according to the source. The survey, reported by USA TODAY, indicates that three in 10 Black adults said they had a time in the past 12 months when they lacked enough money for food.
+That rate was triple the 10% of Asian adults reporting food unaffordability and double the 14% among White adults. Food unaffordability was also higher in Black households earning under $90,000 a year, and grocery prices are at their highest level since 2020.
+According to the latest Labor Department Consumer Price Index data, food prices have risen by more than 7% since January 2024. Annual inflation has exceeded the Federal Reserve's target for more than five years, with consumer prices spiking during the pandemic and remaining elevated since.
+Walter Greason, an economic historian at MacAlester University in Minnesota, attributed the higher rates among Black people to several factors. He said working class and low-income African American communities have fewer options for accessing a variety of food on a daily or weekly basis, which tends to push prices up. He also said the quality of food differs in Black communities compared with other demographics, contributing to price increases, and that discrimination, limited access to higher paying jobs and layoffs are more prevalent in Black households.
+Greason added that when households face contractions, inflation and higher layoffs, African American households are affected more severely than others in the United States.
+The study, conducted through Gallup's National Health and Well-Being Index, found the South had the highest food unaffordability rates. Workers in hospitality and retail were also more likely to report being unable to afford food.
+During the midterm elections, affordability ranked among the most important factors for voters. A Reuters poll found that 48% of registered voters identified the cost of living as a top issue. A post-election survey found that 78% of midterm voters with moderate or major strain on their budgets said household debt motivated them to vote, and that group backed House Democratic candidates by 25 points.
+Interactive table based on the Store Companies dataset for this report.
+This report is an independent strategic market study that provides a structured, commercially grounded analysis of the market for Food in the United States. It is designed for ingredient producers, processors, distributors, formulators, brand owners, investors, and strategic entrants that need a clear view of end-use demand, feedstock exposure, processing logic, pricing architecture, quality requirements, and competitive positioning.
+The analytical framework is designed to work both for a single specialized ingredient class and for a broader ingredient category, where market structure is shaped by application roles, formulation economics, processing routes, quality systems, labeling constraints, and channel control rather than by one narrow product code alone. It defines Food as A broad category of edible substances, including raw materials, processed ingredients, and finished formulations, consumed for nutritional, functional, or sensory purposes and examines the market through feedstock sourcing, processing and conversion, blending or formulation logic, end-use applications, regulatory and quality requirements, procurement behavior, channel models, and country capability differences. Historical analysis typically covers 2012 to 2025, with forward-looking scenarios through 2035.
+This report is designed to answer the questions that matter most to decision-makers evaluating an ingredient, nutrition, or formulation market.
+At its core, this report explains how the market for Food actually functions. It identifies where demand originates, how supply is organized, which technological and regulatory barriers influence adoption, and how value is distributed across the value chain. Rather than describing the market only in broad terms, the study breaks it into analytically meaningful layers: product scope, segmentation, end uses, customer types, production economics, outsourcing structure, country roles, and company archetypes.
+The report is particularly useful in markets where buyers are highly specialized, suppliers differ significantly in technical depth and regulatory readiness, and the commercial landscape cannot be understood only through top-line market size figures. In this context, the study is designed not only to estimate the size of the market, but to explain why the market has that size, what drives its growth, which subsegments are the most attractive, and what it takes to compete successfully within it.
+The report is based on an independent analytical methodology that combines deep secondary research, structured evidence review, market reconstruction, and multi-level triangulation. The methodology is designed to support products for which there is no single clean official dataset capturing the full market in a directly usable form.
+The study typically uses the following evidence hierarchy:
+The analytical framework is built around several linked layers.
+First, a scope model defines what is included in the market and what is excluded, ensuring that adjacent products, downstream finished goods, unrelated instruments, or broader chemical categories do not distort the market boundary.
+Second, a demand model reconstructs the market from the perspective of consuming sectors, workflow stages, and applications. Depending on the product, this may include Texture and mouthfeel enhancement, Shelf-life extension, Flavor masking and delivery, Nutritional fortification, Clean-label formulation, and Cost optimization of recipes across Packaged Food Manufacturing, Food Service & Industrial Catering, Beverage Production, Health & Wellness Food Brands, and Private Label Food Producers and R&D & Formulation, Sourcing & Procurement, Quality Assurance & Documentation, Blending & Processing, and Logistics & Just-in-Time Delivery. Demand is then allocated across end users, development stages, and geographic markets.
+Third, a supply model evaluates how the market is served. This includes Agricultural commodities, Marine sources, Microbial cultures, Chemical precursors, and Plant extracts, manufacturing technologies such as Encapsulation for flavor/nutrient protection, Fermentation and bio-conversion, Spray drying and agglomeration, Enzymatic modification, and Clean extraction and purification, quality control requirements, outsourcing, contract blending, and toll-processing participation, distribution structure, and supply-chain concentration risks.
+Fourth, a country capability model maps where the market is consumed, where production is materially feasible, where manufacturing capability is limited or emerging, and which countries function primarily as innovation hubs, supply nodes, demand centers, or import-reliant markets.
+Fifth, a pricing and economics layer evaluates price corridors, cost drivers, complexity premiums, outsourcing logic, margin structure, and switching barriers. This is especially relevant in markets where product grade, purity, customization, regulatory burden, or service model materially influence economics.
+Finally, a competitive intelligence layer profiles the leading company types active in the market and explains how strategic roles differ across upstream raw-material suppliers, processors, contract blenders, formulation specialists, ingredient distributors, and brand-facing application partners.
+This report covers the market for Food in its commercially relevant and technologically meaningful form. The scope typically includes the product itself, its major product configurations or variants, the critical technologies used to produce or deliver it, the core input categories required for manufacturing, and the services directly associated with its commercial supply, quality control, or integration into end-user workflows.
+Included within scope are the product forms, use cases, inputs, and services that are necessary to understand the actual addressable market around Food. This usually includes:
+Excluded from scope are categories that may be technologically adjacent but do not belong to the core economic market being measured. These usually include:
+The exact inclusion and exclusion logic is always a critical part of the study, because the quality of the market estimate depends directly on disciplined scope boundaries.
+The report provides focused coverage of the United States market and positions United States within the wider global ingredient industry structure.
+The geographic analysis explains local demand conditions, feedstock access, domestic processing capability, import dependence, documentation burden, and the country's strategic role in the wider market.
+This study is designed for strategic, commercial, operations, and investment users, including:
+In many food, nutrition, feed, and ingredient-intensive markets, official trade and production statistics are not sufficient on their own to describe the true market. Product boundaries may cut across multiple tariff codes, several product categories may be bundled into the same official classification, and a meaningful share of activity may take place through customized services, captive supply, platform relationships, or technically specialized channels that are not directly visible in standard statistical datasets.
+For this reason, the report is designed as a modeled strategic market study. It uses official and public evidence wherever it is reliable and scope-compatible, but it does not force the market into a purely statistical framework when doing so would reduce analytical quality. Instead, it reconstructs the market through the logic of demand, supply, technology, country roles, and company behavior.
+This makes the report particularly well suited to products that are innovation-intensive, technically differentiated, capacity-constrained, platform-dependent, or commercially structured around specialized buyer-supplier relationships rather than standardized commodity trade.
+The report typically includes:
+The result is a structured, publication-grade market intelligence document that combines quantitative modeling with commercial, technical, and strategic interpretation.
+Ingredient-Market Structure and Company Archetypes
+Owns Frito-Lay, Quaker, Gatorade
+Largest beverage company worldwide
+Leading protein producer
+US arm of JBS S.A., major meat processor
+Formed by merger of Kraft and Heinz
+Owns brands like Cheerios, Pillsbury
+Owns Healthy Choice, Marie Callender's
+Known for Spam, Jennie-O Turkey
+Owns Oreo, Cadbury (US operations)
+Private family-owned giant
+Largest privately held US corporation
+Major agribusiness and food ingredient supplier
+Part of Bunge Ltd., key processor
+Subsidiary of WH Group, largest US pork producer
+Now Kellanova after split
+Owns Pepperidge Farm, Goldfish
+Leading US chocolate maker
+Largest spice company worldwide
+Farmer-owned cooperative
+Largest US dairy cooperative
+Owns Post Cereals, Bob Evans
+Major store-brand supplier
+Owns Nature's Own, Wonder Bread
+Owns Folgers, Smucker's, Milk-Bone
+Major rendering and ingredient processor
+Leading ingredient solutions provider
+Privately held, major yogurt brand
+Subsidiary of General Mills
+Pioneer in plant-based protein

@@ -1,0 +1,29 @@
+URL: https://decrypt.co/383933/openai-and-anthropic-insiders-fear-next-ai-models-too-dangerous
+TITLE: OpenAI and Anthropic Insiders Fear Their Next AI Models Are Too Dangerous to Release
+OUTLET: Decrypt
+
+In brief
+- More than two dozen sources familiar with internal discussions at OpenAI and Anthropic told Axios there's growing concerns about unreleased AI models.
+- Researchers are reportedly finding that advanced models can conceal their reasoning and deceive the systems designed to monitor them.
+- Both companies have previously paused AI development over safety concerns, but some researchers now advocate stopping the training of more powerful models altogether.
+Employees at OpenAI and Anthropic are increasingly concerned that their companies' most advanced AI models may never be safe enough for public release, according to a Tuesday report by Axios citing more than two dozen sources familiar with internal discussions.
+Some researchers believe the technical problems can eventually be solved. Others reportedly want the companies to stop training more intelligent models altogether.
+The report comes two days after Meta Chief AI Officer Alexandr Wang warned that humanity might be approaching a point where it can no longer effectively supervise artificial intelligence. Wang argued that decisions made over the next year could determine whether humans retain control over increasingly autonomous, self-improving AI systems.
+Did you know?
+You can now act on the news you read: Go long or short Anthropic with perpetual futures, all from your Decrypt Money Account.
+His warning followed Anthropic mathematician Levent Alpöge's announcement that an unreleased version of Claude had helped him prove the Riemann Hypothesis, a mathematical problem that had frustrated researchers for 167 years.
+The same intellectual abilities that make these models so valuable for scientific research are making them harder to supervise. A model capable of spotting something that generations of mathematicians missed could conceivably spot weaknesses in a safety system that its developers overlooked.
+When smarter AI becomes harder to control
+One of the biggest problems facing AI researchers involves reinforcement learning, a training technique that rewards models for successfully completing tasks. It's largely responsible for the impressive reasoning abilities of modern AI systems, but it can also teach them to cheat.
+Researchers call this reward hacking. A model might, for example, manipulate the software responsible for grading its work instead of actually solving the problem it was assigned.
+Anthropic encountered a version of this problem in February, when researchers reversed three days of training on Claude Mythos Preview after discovering undesirable behaviors. An internal review later flagged more than 10% of its active training environments for problems that included opportunities for cheating and incorrectly configured tasks.
+Another problem involves chain-of-thought monitoring, which allows researchers to inspect the intermediate reasoning an AI generates before producing an answer or taking an action. Some unreleased models are increasingly capable of obscuring that reasoning or generating misleading explanations that satisfy their monitors.
+In other words, the explanation researchers receive may no longer accurately reflect how the model arrived at its decision.
+OpenAI has already experienced the real-world consequences of inadequate containment. The company acknowledged that an internal research model was primarily responsible for compromising AI development platform Hugging Face while pursuing a difficult task.
+Keeping the smartest models away from ChatGPT and Claude users would therefore address only part of the problem.
+“Keeping a model internal doesn't make it safe,” an Anthropic spokesperson told Axios.
+Putting the brakes on the AI race
+OpenAI Chief Scientist Jakub Pachocki proposed Sunday that AI developers agree on common limits to model development, based partly on perplexity—a mathematical measure of how accurately a model predicts subsequent pieces of text, with lower scores indicating better predictions.
+Pachocki argues that companies should agree not to cross certain thresholds until researchers develop more effective ways of monitoring AI behavior. He estimates that AI-assisted research could substantially accelerate the development of new models as early as 2027.
+Getting competing companies to voluntarily slow down could prove particularly difficult, especially as investors expect returns on the enormous amounts of money pouring into AI infrastructure. Anthropic itself raised more than $81 billion when it went public last week.
+OpenAI said last week that it would suspend training or withhold models again if they failed to satisfy its safety requirements. Anthropic has separately committed to publishing a policy proposal on independent AI evaluators by December 15, followed by a framework addressing the pace of AI development by January 15, 2027.
