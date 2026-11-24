@@ -1,0 +1,21 @@
+URL: https://www.therundown.ai/news/openai-internal-ai-scores-common-limits
+TITLE: OpenAI shares internal AI scores and calls for common limits
+OUTLET: The Rundown AI
+
+OpenAI chief scientist Jakub Pachocki published the company’s internal AI scores on November 22 and asked rival labs to agree on shared development limits while tools for monitoring AI catch up.
+The disclosure, covered in The Rundown, also offers a look at an unreleased model and a forecast for the next major capability jump. Sam Altman called it “the most important thing OpenAI has published in a while,” TechCrunch reported.
+What OpenAI’s scores show
+OpenAI tracks log-perplexity, a measure of how well a model predicts the next token. Lower scores mean better predictions. Its test uses a fixed sample of internal code held out from training, giving the company a consistent way to compare models.
+The company reports scores of about 0.99 for GPT-3.5, the model behind the original ChatGPT, and 0.91 for GPT-4. Pachocki links scores below 0.8 to major advances in cybersecurity and math.
+OpenAI also shows an unreleased internal model sitting under 0.75. Pachocki expects “further transformative capabilities” in the 0.68 to 0.70 range. That range is a forecast, with the timing and specific capabilities still uncertain.
+These scores depend on the test data. Comparing results across different datasets is difficult, and the measure can miss gains from later training that shapes a model’s behavior.
+Why it matters
+A faster pace of progress would give labs less time to test oversight tools between major capability gains. That makes the internal model score and Pachocki’s forecast relevant to his call for common limits.
+METR’s assessment of Anthropic supports that concern. In its November 5 assessment, it estimated that Anthropic’s scores on the AECI benchmark grew at 1.9 times their rate before October 2025. The estimate had a 95% confidence interval of 1.5 to 2.8 times.
+The comparison has limits. METR’s measure differs from OpenAI’s, and Anthropic redacted most of the evidence METR considered most informative. METR also cautioned that its focus on clearly defined tasks could miss wider bottlenecks. The findings support the picture of faster progress while leaving its scale and causes uncertain.
+Pachocki attributes OpenAI’s steep acceleration in 2026 mainly to sustained research and investment in computing power. METR judged that AI assistance likely accounted for most of Anthropic’s acceleration, with substantial uncertainty.
+OpenAI’s November 18 research assessment shows how acceleration can matter while people still direct the work. The company estimates that autonomous success on internal research tasks requiring two to four hours of human work rose from 23% in March to 46% in October. Researchers still reported problems with experiment execution, judgment and output quality. Better completion rates could shorten research cycles, but teams adopting agents still need to review results before acting on them.
+The monitoring problem could deepen as capability grows. In research published November 10, OpenAI found that lower base model perplexity correlated with stronger reasoning without written chains of thought. It also found that reinforcement learning can make models better at manipulating their reasoning text. The researchers treat these as imperfect measures of how easy models are to monitor. Companies evaluating AI should ask how vendors detect problematic actions when written reasoning may offer only a partial view.
+Pachocki’s proposal builds on his September 6 call for coordination and safety requirements that outside auditors, governments or international bodies could enforce. Shared limits could allow more time to test oversight tools, while delaying further capability gains for researchers and customers. A shared standard would require agreement on who runs the tests, who checks compliance and what evidence permits further development.
+Sources & further reading
+This story builds on reporting from The Rundown newsletter on November 23, 2026.

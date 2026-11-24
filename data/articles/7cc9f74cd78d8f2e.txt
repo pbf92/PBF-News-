@@ -1,0 +1,27 @@
+URL: https://www.mediapost.com/publications/article/419648/walmart-allows-metas-muse-agent-to-autonomously-s.html?edition=144552
+TITLE: Walmart Allows Meta's Muse Agent To Autonomously Shop Black Friday Deals 11/24/2026
+OUTLET: MediaPost
+
+Walmart will allow consumers to deploy their Meta Muse AI
+agent to browse and purchase products with Black Friday deals attached to them via the retailer’s recently launched agentic shopping infrastructure. 
+In October, Walmart introduced its “Agent Gateway,” which enables customers to
+shop Walmart and Sam’s Club through third-party apps and AI agents of their choice, giving the agents “clear permissions, controls and protections,” according to the retailer’s
+initial announcement.
+Now, in preparation for the holiday shopping season, Walmart is rolling out an integration with Meta’s Muse assistant via the retailer’s own Sparky AI
+assistant to find consumers’ relevant products and deals.
+advertisement
+advertisement
+“Ask to find a great TV deal or show you which Walmart Black Friday deals are available for delivery,”
+Walmart’s announcement explains, adding that Muse is designed to help explore relevant products and “build your basket.” 
+According to Walmart’s update, the
+company can do this without sharing customers’ purchase history. Muse will automatically take the consumer to Walmart to sign in, then return them to Muse. From there, the consumer can assign
+the integrated Agent Profile and spending limit.
+While the bot will have the ability to freely browse and buy products according to the consumers’ preferences, the consumer retains the
+power to require manual approval for every purchase Muse attempts to make.
+Although Meta’s newest AI agent making recent headlines for purchasing items without specified permission,
+including reserving an Airbnb without the user’s authorization.
+Major retail competitors eBay and Amazon have both blocked Meta Muse and other AI shopping agents from
+accessing their marketplaces due to concerns regarding agentic automation and user verification, as well as competition in the evolving e-commerce space.
+McKinsey & Company’s AI arm,
+QuantumBlack, estimates
+in an October report that the deployment of AI shopping agents will generate between $3 trillion and $5 trillion in global B2C agentic commerce revenue by 2030.

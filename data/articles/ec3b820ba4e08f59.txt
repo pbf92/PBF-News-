@@ -1,0 +1,30 @@
+URL: https://www.fool.com/investing/2026/11/21/after-its-worst-week-in-18-years-nvidia-now-faces-an-sec-investigation-what-it-means-for-investors/
+TITLE: After Its Worst Week in 18 Years, Nvidia Now Faces an SEC Investigation. What It Means for Investors
+OUTLET: The Motley Fool
+
+By Jeremy Bowman –
+Key Points
+- Nvidia fell 14% on Friday as Reuters reported that the SEC had opened an accounting probe into the company.
+- The stock fell 23% over the week, its worst weekly slide since 2008.
+- Investigations are likely to hang over the company for at least several months.
+If you think you've had a bad week, just be glad you're not on Nvidia's (NVDA +31.48%) management team.
+Shares of the top AI stock fell 23% this week, wiping out roughly $1 trillion from its market cap. It was its worst weekly performance since October 2008 during the height of the financial crisis. The slide was initially sparked by Jensen Huang's resignation the week before, and even a strong earnings report on Tuesday wasn't enough to stem the sell-off. On Friday, Nvidia stock plunged 14%, heading sharply lower in the afternoon after Reuters reported that the Securities and Exchange Commission had opened an investigation into the company over accounting irregularities. That comes in addition to multiple investigations from different agencies and branches of the federal government over Huang's affair with an alleged Chinese agent and possible violation of chip export rules.
+Image source: Nvidia.
+What we know about the SEC investigation
+Reuters said that the SEC was investigating Nvidia's accounting practices, but did not provide many details beyond that. Its report came three days after The Wall Street Journal said the SEC was investigating Nvidia, but did not say what for.
+Given the other news last week and the Commerce Dept. issuing tighter chip export rules to Southeast Asia, the SEC probe could focus on how Nvidia reports geographic revenue, which potentially obfuscates where its chips end up. Last year, it changed how it records geographic revenue, shifting it from billing addresses to customer headquarters. As a result of that change, the company no longer reports revenue from Singapore as its own line item.
+In fiscal 2026, Nvidia recorded $19.7 billion in revenue from customers headquartered in China, likely from permitted chips, though the SEC may be curious about how chips that ended up in China via other countries were recorded.
+What it means for investors
+It's important for investors to understand that an investigation doesn't mean that Nvidia committed fraud, or that it will face any enforcement actions.
+A probe is not evidence of wrongdoing, and many are closed without going further.
+Given the other news surrounding Nvidia, the SEC probe seems less surprising and may not be as impactful on the stock as it otherwise would be, as the company is already in turmoil. Even a finding of wrongdoing wouldn't be a terminal event for Nvidia, though it could damage its reputation, in addition to any fines or consequences the company could face.
+Executives at Super Micro Computer, a server-maker and close partner of Nvidia, were charged by the DOJ with conspiring to divert AI servers to China, though Supermicro's internal investigation found that no one on the senior management team was aware of the diversion scheme.
+What's next for Nvidia
+It will take months or longer for the investigations into Nvidia to play out, and the company is likely to continue to receive scrutiny from the media in the wake of Huang's departure and the myriad investigations now surrounding it.
+Investors will note that Nvidia's forward P/E has fallen all the way to 8 as the stock has plunged, but with so much uncertainty surrounding the stock, buying it seems speculative at this point, and the stock's future performance depends on what the investigations uncover.
+Nvidia's "circular financing" is also in the spotlight after the change in leadership, and that could get attention from the SEC as well.
+There's simply so much we don't know about the stock and its future right now. Risk-tolerant investors may choose to buy the stock at the current price, but they should be aware that the volatility for Nvidia, after it's fallen for seven sessions in a row, is likely to continue.
+Where to invest $1,000 right now
+When our analyst team has a stock tip, it can pay to listen. After all, Stock Advisor's total average return is 719%* — a market-crushing outperformance compared to 192% for the S&P 500.
+They just revealed what they believe are the 10 best stocks for investors to buy right now, available when you join Stock Advisor.
+*Stock Advisor returns as of November 23, 2026.

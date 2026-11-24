@@ -1,0 +1,30 @@
+URL: https://247wallst.com/investing/2026/11/21/chip-stocks-are-now-repeating-what-happened-in-2001/?tpid=1712471&tv=link&tc=in_content
+TITLE: Chip Stocks are Now Repeating What Happened in 2001
+OUTLET: 24/7 Wall St.
+
+Chip Stocks are Now Repeating What Happened in 2001
+This post may contain links from our sponsors and affiliates, and Flywheel Publishing may receive compensation for actions taken through them.
+The PHLX Semiconductor Index (SOX) closed at 8,408.59 on Friday, November 20, 2026, after falling 10.73% in that one session. It finished the week down 17.13% from its 10,146.32 close on November 13. That was the worst week for chip stocks since the week ended September 21, 2001.
+VanEck Semiconductor ETF (NASDAQ:SMH) closed at $400.06 and lost 17.8% for the week, its worst week since that same week in 2001. NVIDIA (NASDAQ:NVDA | NVDA Price Prediction) is the fund’s largest holding, and it closed at $125.53 after a 14.01% drop on Friday.
+For chip fund owners, this selloff tests whether a cycle that still makes money can absorb a sharp correction. The speed and size of the drop look a lot like 2001, but the profits behind today’s leaders are far larger than anything chip companies earned back then.
+A Week Ranking Among the Worst Since 1994
+This was the fourth-worst week in the index’s daily history back to 1994, and every worse week came as the dot-com bust extended: the -27.1% April 14, 2000 week opened the collapse, the -20.2% December 1, 2000 week compounded it, and the -25.2% September 21, 2001 week ended it.
+U.S. markets were closed September 11 through 14, 2001. That week’s figure therefore compares the September 21 close with 509.15 on September 10, the last close before the attacks.
+Friday’s drop was the index’s fifth-worst day on record and its worst since a 12.25% fall on November 5, 2026, as selling did not let up.
+Losses Spread Across the Whole Chip Group
+Market analyst Jared Blikre counted 62 chip stocks that together lost about $1.5 trillion of market value on Friday alone. Blikre also found five AI hardware and cloud names, NVIDIA among them, that each fell more than 20% for the week.
+Chips dragged broader indexes lower. The S&P 500 fell 3.70% to 6,910.39, and the tech-heavy Nasdaq Composite dropped 5.28% to 22,617.73.
+The SOX peaked at 1,332.73 on March 10, 2000. By September 21, 2001, it was 71.4% below that high.
+The index hit a low of 354.63 on October 2, 2001, then rallied 47% to 522.16 by December 31. The rally did not last, and the index made its final bottom on October 9, 2002, at 214.06, which was 83.9% below the 2000 peak.
+The current decline has been faster. The index took 151 days to fall 42.5% from its June 22 record of 14,634.72, while the same drop took 214 days in 2000. A faster fall suggests traders unwound borrowed money and crowded positions quickly, which likely uses up the selling sooner, unless forced sellers remain. The harder question is when to step away from a mania before it breaks, which is the whole subject of our free bubble survivor’s handbook.
+Why Today’s Leaders Stand on Firmer Ground
+Matt Orton, a strategist at Raymond James, argued that today’s market differs sharply from 2000 because the fundamentals are very different. In 2000, many chipmakers traded on hope, while today’s biggest names earn large profits.
+NVIDIA’s revenue for the third quarter of fiscal 2027 was $115.84 billion[1], up 103.2%, and net income was $65.29 billion. For the fourth quarter, the company guided to revenue of $130.0 billion, plus or minus 3%[1].
+Bulls still have to show that AI chip demand holds up. Three direct customers accounted for 14%, 11% and 11%[1] of NVIDIA’s quarterly revenue. Jensen Huang has also resigned[2] as CEO, and SEC enforcement staff are reportedly examining Nvidia’s accounting practices, although no misconduct has been established.
+Even after the selloff, the SOX is up 18.7% for 2026 from its 7,083.13 close at the end of 2025, which shows how far the rally had run before the selloff.
+What SMH Holders Should Weigh After the Selloff
+SMH carries specific risks at $400.06. The 2001 record shows that a sharp rally after a crash can fail. This fund also puts more than 19%[3] of its assets in one company that is searching for a CEO and faces a reported SEC review.
+Chip earnings are far stronger than they were in 2001, so the sector’s earnings base remains far stronger, but SMH puts so much of that exposure in one stock.
+State Street SPDR S&P Semiconductor ETF (NYSEARCA:XSD) offers a different structure, because it tracks a modified equal-weighted index. On its latest fact sheet, its largest positions each held about 3% of assets, so trouble at one company cannot hurt it the way NVIDIA hurts SMH.
+The view is wrong if the SOX closes back above 10,146.32 before NVIDIA’s next quarterly filing explains the SEC matter. That filing is worth reading closely for anyone considering concentrated chip exposure.
+Contact [email protected] for any questions or corrections.

@@ -1,0 +1,15 @@
+URL: https://www.eurekalert.org/news-releases/1152936
+TITLE: Primary care clinicians offering a broader range of services deliver better care
+OUTLET: EurekAlert!
+
+Primary Care Clinicians Offering a Broader Range of Services Deliver Better Care
+Meeting most of a patient's health needs is a core feature of primary care. However, no established quality measure captures it. Researchers built a clinician-level digital measure and applied it to 2018-2019 health record data on 2,117 clinicians in more than 1,000 practices.
+Researchers found:
+- Primary care clinicians’ average comprehensiveness score was 0.51 on a scale from zero to one, with values closer to one signaling more comprehensive care.
+- Higher comprehensiveness scores were linked with better performance on several quality measures. A 10-point increase in the comprehensiveness score was associated with 4.2% to 5.2% higher cancer screening rates, a 14.3% higher depression screening rate, and an 11.8% lower percentage of diabetic patients with uncontrolled diabetes.
+Why It Matters: Having a digital quality measure of comprehensiveness that is calculated from existing health record data could reduce the need for clinicians to report many separate disease-specific measures.
+Development of a Clinician-Level Measure of Comprehensiveness and Its Associations With Primary Care Quality
+Corresponding Author: YoonKyung Chung, PhD, et al
+Harvey L. Neiman Health Policy Institute
+Permanent link (accessible beginning 5 PM ET on Monday, November 23, 2026)
+Disclaimer: AAAS and EurekAlert! are not responsible for the accuracy of news releases posted to EurekAlert! by contributing institutions or for the use of any information through the EurekAlert system.

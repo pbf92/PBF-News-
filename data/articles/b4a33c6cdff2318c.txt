@@ -1,0 +1,17 @@
+URL: https://www.tribuneindia.com/news/business/meta-ai-chief-warns-humanity-must-rethink-control-as-superintelligence-nears/amp
+TITLE: Meta AI chief warns humanity must rethink control as superintelligence nears
+OUTLET: The Tribune
+
+New Delhi [India], November 23 (ANI): Meta Chief AI Officer Alexandr Wang has called for a fundamental rethink of how the artificial intelligence industry develops advanced systems, warning that the arrival of superintelligence could make it difficult for humanity to retain control over technology capable of surpassing human abilities across fields.
+In a post titled 'Superintelligence is Arriving', Wang said decisions taken over the next year would have far-reaching consequences for the future of society, and urged AI companies to prioritise safety, alignment and security alongside technological progress.
+“It is now incredibly important for us to be thoughtful about the future we want and how we get there,” he said.
+Wang pointed to the claimed proof of the Riemann Hypothesis, a longstanding mathematical problem, with the assistance of an AI system as a sign of how quickly machine intelligence is advancing.
+He described the development as a turning point and said the remaining barriers to AI surpassing human capabilities were increasingly related to specialised knowledge, experimentation and practical implementation rather than raw intelligence.
+Wang said advances in coding, cyber capabilities and AI agents over the past two years showed how models were becoming increasingly useful across different areas of work.
+He also warned that the prospect of systems improving themselves without meaningful human restrictions raised serious questions about the future.
+“It is hard to imagine a world where humanity can maintain control over fully unconstrained recursive self-improvement,” he said.
+Wang argued that the industry should not treat the transfer of decision-making power to AI as inevitable, but should work towards technology that gives people greater control and opportunities.
+“We should not be okay with a ‘handover’ of society to AI,” he said, calling for the industry to move away from what he described as its default development path.
+Wang joined Meta in June 2025 as its first Chief AI Officer and leads Meta Superintelligence Labs. He previously founded AI data company Scale AI.
+He further said that the challenge ahead was not only to develop more capable systems, but also to ensure that their progress delivers a positive future for humanity. (ANI)
+(This content is sourced from a syndicated feed and is published as received. The Tribune assumes no responsibility or liability for its accuracy, completeness, or content.)

@@ -1,0 +1,22 @@
+URL: https://www.indiatoday.in/technology/news/story/anthropic-launches-claude-ship-to-review-fix-and-approve-code-changes-3045608-2026-11-24
+TITLE: Anthropic launches Claude Ship to review, fix and approve code changes
+OUTLET: India Today
+
+Anthropic launches Claude Ship to review, fix and approve code changes
+Anthropic's new Claude Ship brings AI agents to GitHub that can automatically review, fix, and even approve routine code changes based on a team's rules, helping developers ship software much faster.
+Artificial intelligence has been helping software engineers write code for a while now, and Anthropic is ready to hand over the next big part of the job. On Monday, the newly public AI company launched Claude Ship, a new set of AI agents designed to automatically review, fix, and even approve routine code changes before they go live.
+While several AI coding tools already scan code for errors, Claude Ship goes a step further. Instead of just flagging mistakes and waiting for a programmer to step in, it allows an AI agent to actually sign off on code updates based on rules set by a company’s engineering team.
+Why Anthropic built Claude Ship
+Over the past year, AI coding assistants have become very good at generating large volumes of code quickly. However, that speed has created a new headache for tech teams. Even when AI writes the code in minutes, human developers still have to spend hours checking every proposed update, known as a pull request, before approving it.
+In a blog post explaining the launch, Anthropic pointed out that having a human approve every single change works well when people are writing every line of code. Today, many developers rely heavily on AI agents to build software.
+Anthropic noted that on its own Claude Code team, Claude already writes most of the code, and the company wanted every step after a pull request to move just as fast. Claude Ship is built to clear that bottleneck.
+How Claude Ship works
+Claude Ship brings together three different tools to manage the journey from a code submission to a final approval. The first is Code Review, which is already generally available and scans proposed code changes to catch bugs and other issues.
+Joining it are two new AI agents that are launching in beta. The first is PR Steward, which actively fixes problems rather than just listing them. It handles common roadblocks such as failing automated tests, known as CI checks, merge conflicts, and feedback flagged by Code Review. To keep things transparent, PR Steward leaves a comment after every update explaining exactly what it changed and how developers can undo it if anything goes wrong.
+The second new agent, Claude Approvals, is the biggest shift in the workflow. It decides whether a code change is safe to approve by following an approval policy written by the development team in plain, natural language and saved as a file inside the project repository. The agent weighs signals like Code Review findings and Anthropic’s own classifiers against those rules before giving the green light.
+Keeping human developers in control
+Handing approval powers to an AI naturally raises concerns about a faulty update slipping through and breaking live software. Anthropic says it has built several guardrails so teams do not lose control of their codebases.
+Because the new agents are still in beta, Anthropic recommends that teams run Claude Approvals in an observe-only mode at first to see how it behaves before letting it make real decisions. Companies can also start small by testing it on just one repository and setting monthly spending limits.
+Developers remain in charge of where Claude Ship runs, how deeply it inspects code through Quick, Standard, or Deep settings, and which critical changes must always be sent to a human for the final call.
+Availability and rollout
+Claude Ship is rolling out for repositories hosted on GitHub and is available to users on Anthropic’s Claude Team and Enterprise plans. While Code Review is already widely available, both PR Steward and Claude Approvals are currently being offered in beta for early adopters looking to speed up how quickly their software gets shipped.

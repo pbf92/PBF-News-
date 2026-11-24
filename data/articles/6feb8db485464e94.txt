@@ -1,0 +1,35 @@
+URL: https://247wallst.com/investing/2026/11/21/nvidia-stock-has-crashed-48-and-now-trades-at-15-times-earnings-its-cheapest-in-more-than-a-decade-and-cheaper-than-microsoft-and-broadcom/
+TITLE: Nvidia Stock Has Crashed 48% and Now Trades at 15 Times Earnings, Its Cheapest in More Than a Decade and Cheaper Than Microsoft and Broadcom
+OUTLET: 24/7 Wall St.
+
+Nvidia Stock Has Crashed 48% and Now Trades at 15 Times Earnings, Its Cheapest in More Than a Decade and Cheaper Than Microsoft and Broadcom
+This post may contain links from our sponsors and affiliates, and Flywheel Publishing may receive compensation for actions taken through them.
+A 64-year-old retired accountant with an $800,000 IRA has kept $40,000 of it in cash since 2020, waiting for Nvidia (NASDAQ: NVDA) stock to get cheaper. On Friday Nvidia closed at $125.53, 48% below the record it set on Oct. 6, and it now trades at 15 times its earnings of the last four quarters. That is the lowest price-to-earnings ratio Nvidia has had since at least 2014.
+The accountant is an example. If you also passed on Nvidia because it looked too expensive, the stock has not been this cheap on that measure in more than a decade. Since January 2014 its median price-to-earnings ratio has been 45. At the October record, six weeks ago, it was 34.
+My reading is that a price this low assumes Nvidia’s profit growth is nearly over. The limit of that reading is that a price-to-earnings ratio is only as good as the earnings in it, and investors have two new reasons to question Nvidia’s: the board accepted co-founder Jensen Huang’s resignation as chief executive on Nov. 11 and has not named a permanent successor, and Reuters reported on Friday that Securities and Exchange Commission staff are examining its accounting.
+The figures come from “Nvidia Without Jensen,” a new research report from 24/7 Wall St. The measure is the share price divided by adjusted earnings per share for the last four reported quarters, which add up to $8.39. The report checked it at the end of every month from January 2014 through Friday, using Nasdaq closing prices adjusted for splits and the earnings in Nvidia’s quarterly releases.
+The ratio fell because the price dropped while earnings rose. At the October record, the last four quarters of adjusted earnings came to $7.01 a share. Nvidia reported another quarter on Nov. 17, and the total is now 20% higher. Over the same six weeks the share price fell from $239.24 to $125.53.
+The retired accountant had good reason to wait. From 2020 through this September, the ratio ended a month below 30 only once.
+Cheaper than Microsoft, Broadcom and AMD on forward earnings
+The forward price-to-earnings ratio divides the share price by what analysts expect a company to earn in its next fiscal year. It rests on estimates, so it is softer than a ratio built on reported results.
+At Friday’s close Nvidia traded at 8.2 times forward earnings. Broadcom traded at 16.5 times, Meta Platforms at 16.8, Alphabet at 18.4 and Microsoft at 24.5. Amazon and Advanced Micro Devices were both above 20. Every one of those companies grew sales more slowly than Nvidia did in its latest quarter. Microsoft and Broadcom also cost more than Nvidia on the reported earnings of their last four quarters, at about 25 and 39 times.
+Of the eight companies the report compared, only Micron Technology was lower, at less than 4 times forward earnings. Memory chips are a boom-and-bust business, and my reading of a forward ratio that low is that investors expect the forecast profits to fade. At 8.2 times, the market is applying some of the same doubt to Nvidia.
+What a $125.53 share price assumes
+Suppose the accountant wants that $40,000 to earn 10% a year. In five years it has to be worth about $64,400. Here is what that takes from Nvidia. The 10% return and the future ratio of 20 are our assumptions, picked to be modest, and you can swap in your own.
+- Nvidia’s market value at Friday’s close was about $3.03 trillion.
+- For the stock to return 10% a year for five years, that value has to reach about $4.88 trillion in late 2031, or about $202 a share at today’s share count.
+- Assume the stock then trades at 20 times earnings, which is less than half its median since 2014.
+- Nvidia would then need to earn about $244 billion a year.
+Its net income for the last four quarters was $226 billion under standard accounting rules, according to its filings with the SEC. So the price needs profit to grow 7.9% in five years, about 1.5% a year. In the past year that profit more than doubled.
+If the stock still trades at 15 times earnings in 2031, the same return takes $325 billion of yearly profit, 44% more than today’s.
+Why the market doubts the earnings
+Nothing in Nvidia’s latest report shows growth stopping. Revenue has risen for eight straight quarters, from $39.3 billion to $115.8 billion, and was up 103% from a year earlier in the quarter that ended Oct. 25. The company’s outlook for the current quarter is $130 billion.
+The doubt comes from three things a ratio cannot measure.
+- Customers. Three direct customers paid 36% of Nvidia’s revenue last quarter: 14%, 11% and 11%. If one of them cuts its orders, sales will show it quickly.
+- Leadership. Huang led Nvidia for 33 years, from its founding in 1993. Colette Kress is interim CEO.
+- Accounting. Reuters could not determine which issues the SEC staff are examining, and an inquiry is not a finding of wrongdoing. It weighs on this stock because every ratio above starts with reported earnings.
+So Nvidia is cheap on the numbers, and the numbers are what investors are questioning. In my view, buying at this price is a bet that the reported profits are sound and that the next chief executive keeps the biggest customers buying.
+If you waited years for a lower price, three pieces of news matter more than the ratio now: the name of the permanent CEO, whatever Nvidia or the SEC says about the inquiry, and the customer percentages in the next quarterly report.
+We’ll flag each of those three the morning it lands in The Daily Profit, along with what Eric Bleeker, who runs our $1 million AI portfolio, does about it. It comes free here.
+Until then, size the purchase for the chance that the doubters are right. The accountant’s $40,000 is 5% of the IRA. If Nvidia’s earnings shrink and the stock falls by half again, the loss is $20,000, or 2.5% of the account. A low price-to-earnings ratio can go lower, so buy only an amount you can hold through bad news on all three.
+Contact [email protected] for any questions or corrections.

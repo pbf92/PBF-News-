@@ -1,0 +1,16 @@
+URL: https://tech.yahoo.com/gaming/articles/gta-6-patch-notes-everything-155549869.html
+TITLE: GTA 6 patch notes: Everything new in November 23 update
+OUTLET: Yahoo Tech
+
+Rockstar has just revealed their first round of patch notes for GTA 6 since the game launched last Thursday, so your game will need to do a quick download before you can boot it up again. The update is for both PS5 and Xbox and is just centered around fixing a few of the major issues that have arisen in the launch period.
+We'll break everything down for you.
+Full November 23 patch notes for GTA 6
+Here is the full list of patch notes:
+- Fixed several issues that caused the game to crash
+- Fixed an issue that resulted in the weather not changing for extended periods
+- Fixed an issue that resulted in the game not autosaving correctly
+- Fixed several issues that resulted in phone calls not triggering correctly, including those that progressed the story or unlocked mission content
+- Fixed an issue that resulted in the players being unable to lose their Wanted Level
+- Fixed an issue that resulted in the player being unable to use the deadlift bar in the Gym
+- Fixed an issue that resulted in partners not handing over bags so that players could sell them to fences
+As you can see, this is a relatively simple list of fixes, but ones that were essential to be done as fast as possible. There have been more reports of bugs throughout the game, but Rockstar will likely be working on a bigger patch to release in a week or two to address those now that these major ones are out of the way.

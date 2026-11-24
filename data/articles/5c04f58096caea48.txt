@@ -1,0 +1,18 @@
+URL: https://www.eurekalert.org/news-releases/1153142
+TITLE: Nature may cushion the impact of catching juvenile fish in tropical fisheries
+OUTLET: EurekAlert!
+
+Much of the bycatch in tropical fisheries is kept as “trash fish”, which is processed into fishmeal, mainly for aquaculture feed. But this bycatch contains many juvenile fish, and there is a concern that catching so many juveniles could lead to a decrease in the adult population. A new study led by researchers at Thailand’s Department of Fisheries and Hokkaido University suggests that in these fisheries, the loss of juveniles might be partly offset by better survival among the remaining juveniles.
+This happens through a mechanism known as density-dependent mortality. The basic idea is that when the juvenile population in an area is smaller, there’s less competition for food and habitat, so a higher proportion of them survive. In higher-density populations, the competition is fiercer and there are fewer survivors. Previous studies have confirmed density-dependent mortality in temperate regions, but there has been only limited evidence for it in tropical fisheries, where the ecosystems are richer and more complex.
+In the new study published in Fisheries Science, researchers looked at monthly surveys of trawl landings in the Gulf of Thailand from 2016 to 2023, collected by Thailand’s Department of Fisheries. Such continuous long-term records of the composition of trash fish are rare worldwide. In this study researchers focused on the 25 taxa (species or groups of species) caught in the largest volumes, together about 40% of the total trawl landings. The team used the length of the fish to estimate growth and calculate ages. With these figures, they could work out how much of the juvenile population survived from one month to the next, enabling them to test whether a drop in the juvenile population led to a higher survival rate (and vice versa).
+The analysis found this pattern in 21 of the 25 taxa, and it was statistically significant in 17 of them; none showed a significant opposite trend. In other words, in those groups, the loss of juveniles was partially offset by increased survival, so catching juveniles may not always lead to a proportional long-term decline in the population. The effect varied by species, and several taxa showed no clear pattern. Nevertheless, the findings do not necessarily imply that catching juvenile fish is harmless or that more can be taken. While some species may have a natural ability to compensate for early losses, this ability has limits and may weaken under continued high fishing pressure.
+In this context, the researchers write that “resilience alone does not eliminate the need for effective management.” While density-dependent mortality may partly balance out the impact of juvenile loss to bycatch, this understanding should be incorporated into an overall assessment and management framework. The study suggests “explicitly recognizing [trash fish] as a managed output,” with stronger monitoring and rules based on fish size to safeguard the long-term health of the fish populations.
+Overall, the authors say their findings point towards “a more nuanced understanding of balanced harvest strategies that recognize both ecological resilience and species-specific vulnerability.” Protecting these ecosystems means understanding their resilience and limits—and that both vary from species to species.
+Journal
+Fisheries Science
+Method of Research
+Observational study
+Article Title
+Early-life density-dependent mortality in the Gulf of Thailand
+Article Publication Date
+18-Sep-2026

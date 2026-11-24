@@ -1,0 +1,39 @@
+URL: https://www.eurekalert.org/news-releases/1153128
+TITLE: Seasonal migration is a great survival strategy for hoofed mammals…until it’s not
+OUTLET: EurekAlert!
+
+With their long legs, hoofed feet and nimble gait, big game mammals and their smaller cousins were built to roam, so it is natural that many of these creatures, known as ungulates, exhibit seasonal migrations spanning hundreds of miles. Many, but not all, ungulate species evolved to migrate between habitats where they could access seasonally available resources necessary for survival.
+But that survival strategy has likely placed them at greater risk of extinction, according to new research that examined extinction and speciation rates for ungulate species that once roamed Africa, Eurasia, North America and South America.
+“Among the species that went extinct in the last 100,000 years, a disproportionate number were migratory, which was quite telling,” said senior author Tyler Faith, Curator of Paleontology at the Natural History Museum of Utah and professor in University of Utah’s Department of Anthropology. “We knew that these animals at risk when their habitats become fragmented and migratory routes are disrupted today, and now we have evidence that this has been playing out over geological timescales.”
+The research team examined fossil evidence and data from modern-day ungulates to infer the migratory behavior of 51 species that went extinct through the late Quaternary, or about the past 100,00 years. They inferred that 41 of those species, or 80%, were probably migratory, while migratory behavior has been documented in just 46% of 207 modern ungulate species.
+In a surprise finding, the team also found evidence that migratory hoofed mammals had higher speciation rates than nonmigratory mammals.
+“Migration on average increases the diversification of ungulates, which is probably how it's been able to spread across the ungulate phylogeny,” said lead author Joel Abraham, a postdoctoral researcher at Princeton University. “Possibly part of the reason we have so many ungulate species today is because of the evolution of migration and its benefits for diversification.”
+The results appear in PLOS Biology.
+What’s driving population declines today
+Migratory mammals today are seeing steep population declines around the world in response to human activity that is destroying their habitats, by contributing to climate change and converting land for agriculture and cutting off their migration routes by building infrastructure such as roads, fences and pipelines.
+“Those human activities are having very discrete impacts on migrations today, but there are parallels in natural Earth system processes that do similar things. If a river course changes, that could cut off a migration. If there's a period of rapid climate change that causes habitats to shift, that could also cut off a migration,” Abraham said. “Modern human impacts tell us that migrations are very susceptible to these disruptions. Yes, we're disrupting migrations in an unprecedented way at an unprecedented rate. But those same disruptions have been happening throughout evolutionary history. And as a consequence, migration has always been a risky strategy.”
+Migratory behavior offers many benefits in terms of accessing food or suitable habitat for rearing young or evading predators. But these benefits come at a cost and can put individuals’ survival at risk if the environment changes.
+“When it doesn't work, it's pretty bad,” said Faith. “We're talking massive declines in the population because they're blocked off from where they need to go.”
+How to tell which extinct species migrated
+To understand the relationship between migration and extinction, the team needed to identify migratory or nonmigratory behavior in extinct species where the evidence indicated they were. They selected only species for which there were data available on their body size, how much grass they ate, and their geographic distribution, which are reliable proxies for migratory habits within contemporary species. Because of these data constraints, most of the 51 species selected were ungulates from Africa, although 35 others occurred in the Americas and Eurasia.
+“Most of those extinct American ungulates are equid species or pronghorn relatives,” Abraham said.
+Modern ungulates that migrate tend to be large-bodied grass eaters that inhabit higher latitudes in temperate regions, which is why nearly all North American species—think deer, elk, bison and pronghorn—go on seasonal journeys, often between mountain and valley locations.
+“In temperate regions, it's an almost ubiquitous strategy because the magnitude of seasonality is so intense. A lot of the non-migratory species live in the tropics in places where there's less seasonality, and so there's just less need for them to migrate,” Abraham said.
+Migration accelerates the emergence of new species
+To investigate the role of migration in ungulate speciation, the emergence of new species over the course of evolution, the team used a statistical tool known as hidden state speciation and extinction modeling. They were “very intrigued” by what they discovered: Migration was associated with both higher extinction and speciation rates among these animals, something that has also been observed in birds.
+In lineages of migratory ungulates, the estimated speciation rate was 2.8 per million years, compared with 1.7 per million years for nonmigratory lineages. “Paired with the evidence for greater extinction rates, this means a lot more turnover among groups of species that migrate,” Faith said.
+“Migration is associated with these boom-bust population dynamics where migration allows a population to get really big, but then if a migration gets cut off, the population collapses very rapidly,” Abraham said. “That creates a genetic bottleneck where you basically go from having a lot of genetic diversity to very little. There's always some randomness associated with that. If that happens to two disconnected populations, then they could randomly become separate species because you have this filtering mechanism that's pushed populations in different directions. Suddenly you've created a barrier to gene flow between these two populations.”
+#####
+The study was published Nov. 5 under the title “Phylogenetic evidence that migratory behavior increases ungulate extinction rates” in PLOS Biology. Co-authors include former Utah graduate student Kaedan O’Brien, now an assistant professor of biological anthropology at the State University of New York, Oneonta. Others are Nathan Upham of Arizona State University, Brett Jesmer of Illinois State University and Faysal Bibi of Museum für Naturkunde in Berlin. Funding was provided by the National Science Foundation and National Institutes of Health.
+Journal
+PLOS Biology
+Method of Research
+Data/statistical analysis
+Subject of Research
+Not applicable
+Article Title
+Phylogenetic evidence that migratory behavior increases ungulate extinction rates
+Article Publication Date
+5-Nov-2026
+COI Statement
+The authors have declared that no competing interests exist.

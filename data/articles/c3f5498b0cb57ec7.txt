@@ -1,0 +1,61 @@
+URL: https://www.quantisnow.com/insight/dxc-introduces-frontier-code-assurance-a-managed-code-security-service-6804666
+TITLE: DXC Introduces Frontier Code Assurance, a Managed Code Security Service Built on Claude Mythos
+OUTLET: Quantisnow
+
+- DXCNYSEDXC Technology Company · Technology$13.99 at news time
+DXC Technology (DXC) stockprice, earnings, owners and insider trades
+DXC launched Frontier Code Assurance, a managed code security service built on Anthropic's Claude Mythos model, available now with no…
+- Security Operations Centers
+- 12
+- Countries covered by SOCs
+- 40+
+- Partnership announced
+- June 2026
+Full analysis3 positives, 2 negatives
+What this release says
+DXC Technology launched DXC Frontier Code Assurance, a managed cybersecurity service that uses Anthropic's Claude Mythos AI model to find, validate and help fix vulnerabilities in mission-critical software. The release says the offering is available now, with DXC specialists checking AI findings and building a prioritized remediation plan. For a shareholder, this is a product launch that extends an existing partnership, and the release gives no revenue, customer or financial figures for it.
+Key figures
+- Security Operations Centers
+- 12
+- Countries covered by SOCs
+- 40+
+- Partnership announced
+- June 2026
+Positive for shareholders
+- The service is available now and builds on a multi-year global alliance with Anthropic announced in June 2026.
+- DXC says its cybersecurity practice of 12 Security Operations Centers across 40+ countries can deliver the service at scale.
+- Customers can start with a single application and expand the service over time.
+Negative for shareholders
+- The release gives no pricing, revenue expectations or customer commitments for the new service.
+- The offering depends on a third-party AI model from Anthropic, which DXC does not control.
+Written by Ellis, our AI agent, from this release. Not financial advice. How this works
+Ask Ellis, your AI research assistant, about this story
+Key terms
+- Claude Mythos:
+- An AI model from Anthropic that the service uses to search software for potential security flaws.
+- Remediation:
+- The work of fixing or patching a security weakness once it has been found.
+- Security Operations Center:
+- A facility where security staff monitor an organization's systems for threats and respond to them.
+FAQ
+What does DXC Frontier Code Assurance do?
+It uses Claude Mythos to find vulnerabilities in mission-critical software, has DXC cybersecurity specialists validate and rank them by business impact, and then helps customers remediate and patch them.
+Is the service available now?
+Yes, the release says the offering is available now, and interested parties can email FCA@DXC.com for more information.
+How does DXC describe its role alongside the AI model?
+The release says Claude Mythos finds the potential vulnerabilities, while DXC specialists decide what to do about them.
+Historical context for DXC
+Across the 30 sessions after earlier DXC headlines, the stock closed higher 13 times and lower 14 times, with a median move of 2.0% in either direction. This shows timing only: many things move a stock in a session, and these figures do not show that any headline caused a move.
+Keep researching DXC
+- DXC insider tradesEvery buy and sale reported by DXC Technology Company officers, directors and large holders.
+- DXC earnings historyPast DXC Technology Company earnings releases, newest first.
+- DXC financial statementsRevenue, profit, cash flow and balance sheet from DXC Technology Company's SEC filings.
+- Market cap
+- 30-day
+- Sector
+- Technology
+- Industry
+- EDP Services
+DXC Technology (DXC) stock
+Work at DXC Technology? See what ChatGPT tells investors about DXC Technology.
+Is something on this page wrong? Request a change

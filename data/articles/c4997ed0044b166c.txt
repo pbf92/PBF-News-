@@ -1,0 +1,13 @@
+URL: https://simonwillison.net/2026/Nov/24/datasette-charts/
+TITLE: datasette-charts 0.2a0
+OUTLET: Simon Willison
+
+24th November 2026
+I introduced this new charting plugin for Datasette yesterday. Today it's gained integration with Datasette Agent, so now you can ask chat for a chart and it will create one for you using the same underlying chart suggestion and generation tools.
+Here's a demo video, recorded on agent.datasette.io where you can sign in with GitHub to try the plugin yourself:
+Here's a Markdown export of the chat from the video.
+Recent articles
+- Ladybird's first alpha release - 23rd November 2026
+- Running the full server-side Datasette Python app in the browser with service workers and Pyodide - 17th November 2026
+- Locating the source of a mysterious beep with Claude - 9th November 2026
+- Hide your slop PR descriptions behind <details><summary> - 9th November 2026

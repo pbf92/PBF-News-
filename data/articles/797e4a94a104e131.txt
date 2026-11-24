@@ -1,0 +1,16 @@
+URL: https://www.eurekalert.org/news-releases/1152944
+TITLE: Spanish-speaking Latino patients with diabetes receive less telehealth care than white patients, especially where internet access is limited
+OUTLET: EurekAlert!
+
+Researchers at Oregon Health & Science University and OCHIN analyzed health records for 123,541 adults with type 2 diabetes treated at 929 community health centers in 30 states from April 2020 to January 2024. They compared telehealth use and whether neighborhood internet access affected those patterns among Latino patients who prefer English, Latino patients who prefer Spanish, and non-Hispanic White patients.
+The study found:
+- Within each of the three groups, patients in neighborhoods with high internet access had more telehealth visits per year than patients in neighborhoods with low access.
+- Non-Hispanic white patients had the most telehealth visits, more than seven per year, regardless of neighborhood internet access.
+- Spanish-preferring Latino patients had the fewest, ranging from 5.9 visits per year in high-access neighborhoods to 5.1 in low-access neighborhoods.
+Why It Matters: Lack of internet access is a barrier to telehealth diabetes care and affects Latino patients more than non-Hispanic White patients.
+Telehealth Use by Ethnicity and Language Across Levels of Neighborhood Internet Access: Assessment of Community Health Center Patients With Diabetes
+Corresponding Author: Jennifer A. Lucas, PhD, et al
+Oregon Health & Science University, Department of Family Medicine, Portland, Oregon
+Permanent link (accessible beginning 5 PM ET on Monday, November 23, 2026)
+Journal
+The Annals of Family Medicine

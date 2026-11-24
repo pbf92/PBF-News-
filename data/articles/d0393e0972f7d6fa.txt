@@ -1,0 +1,49 @@
+URL: https://fastcompanyme.com/technology/why-enterprise-ai-agents-get-stuck-after-the-pilot/
+TITLE: Why enterprise AI agents get stuck after the pilot
+OUTLET: Fast Company Middle East
+
+Enterprise AI agents are getting better at demonstrating what they can do. They can retrieve information, navigate workflows, interact with software, and perform tasks that once required several steps from a human employee. Still, making an agent work in a pilot is different from rolling it out across a whole company.
+The real challenges often emerge after the proof of concept works. At that point, the agent needs access to enterprise data, integration with legacy systems, defined permissions, security controls, and a way to prove it adds value without causing new risks.
+“The main challenge is not usually the model itself,” says Asanka Abeysinghe, CTO at WSO2. “It is creating a reliable path between the agent and the enterprise capabilities it needs to use.”
+That path, he says, needs to support controlled access, policy enforcement, observability, auditability, and clear operational boundaries. As companies move beyond isolated experiments, these requirements become interconnected rather than separate technical considerations.
+Saadallah Chebaro, Lead AI Solutions Architect at DataRobot, sees a similar pattern. The difficult moment often arrives after a successful pilot, when teams begin to ask how the agent will operate at scale within the enterprise.
+“Security is often the first obstacle,” he says. “Does the agent act under a user’s permissions or its own managed identity? Which records can it see, and what is it allowed to change? Those answers affect the integration design, not just a security review at the end.”
+AN API DOESN’T SETTLE THE ACCESS QUESTION
+Connecting an agent to an enterprise system might sound straightforward, particularly when APIs are available. But access to those APIs, the quality of the underlying data, and the associated permissions can complicate deployment.
+Abeysinghe says companies often underestimate the complexity of connecting agents to systems with different interfaces, ownership structures, identity boundaries, data classifications, and operational constraints.
+“The technical challenge is not simply making those systems reachable,” he says. “The enterprise has to expose the right capabilities in a form the agent can use consistently, while preserving the controls that already exist around the underlying systems.”
+Data is another challenge. Enterprise information is often fragmented, duplicated, inconsistently maintained, or missing the context a human employee would instinctively understand.
+Chebaro says that even when an API is available, the underlying data may require considerable work. Legacy records can contain missing fields or inconsistent identifiers, while scanned documents may need optical character recognition before they can be processed and indexed.
+And the work does not end once the information is searchable. If an agent retrieves company data, it must continue respecting the permissions attached to the original material. Updates, deletions, and access changes need to be reflected in the index, too.
+“Otherwise, the agent may use an old record or show someone content they are no longer entitled to see,” he says.
+The problem becomes more complicated as agents begin using multiple systems. An agent that initially needs access to one application may eventually require access to several others, increasing the number of permissions, integrations, and potential failure points.
+Abeysinghe argues that enterprises need a governed capability layer that brings APIs, tools, data, identity, policies, and observability together, instead of relying on a growing collection of individual integrations.
+WHO IS ACCOUNTABLE WHEN AGENTS ACT?
+Deploying AI agents is also forcing companies to reconsider who owns decisions about their behavior.
+In some organizations, governance may sit with security. Others may place responsibility with IT, the platform team, data leadership, or business functions. Abeysinghe says AI responsibilities once concentrated in dedicated centers of excellence are increasingly being absorbed into existing organizational structures.
+But agent governance cannot be the sole responsibility of a single department.
+“The CISO organization typically owns the security and risk model. Platform and IT teams operationalize those controls. Business and process owners are accountable for the outcome and for deciding how much autonomy is appropriate,” he says.
+Chebaro believes every use case needs a named business owner, especially when agents can take action.
+“Someone has to decide whether the agent may approve a refund, for example, or whether it should prepare a recommendation for a person to approve,” he says.
+Security can define controls, system and data owners can approve access, and IT can operate the service. But someone must remain accountable for what the agent actually does.
+That also means establishing a managed identity, clearly defined permissions, a way to trace actions, and the ability to revoke access or stop the agent during an incident.
+As autonomy increases, the question is no longer simply whether an agent can complete a task. It is whether the organization knows what it is authorized to do, who is responsible for its actions, and how to intervene when something goes wrong.
+NOT EVERY USE CASE DESERVES AN AGENT
+As enterprises look to expand deployments, the pressure to identify use cases that demonstrate value is growing. But both experts caution against choosing projects based on how impressive they appear in a demonstration.
+Abeysinghe says companies should start with a business outcome, accessible data and systems, and a manageable risk profile. A use case with existing integrations, a well-understood workflow, and limited consequences if something goes wrong may be a better starting point than a more ambitious project.
+Human approval can also help companies introduce automation gradually, before increasing an agent’s autonomy.
+Chebaro recommends beginning with a problem the business can measure. If an agent is meant to resolve service requests faster, for example, organizations need to establish how long those requests take today and who will measure the improvement.
+They also need to account for the cost of infrastructure, model usage, licensing, and human oversight. A seemingly successful agent may not deliver meaningful savings if employees spend too much time reviewing its outputs or correcting mistakes.
+And sometimes, the right solution may not involve an agent at all.
+“Does this task really need an agent?” Chebaro asks. “Traditional automation may do it more predictably and at lower cost.”
+An agent makes sense when its ability to interpret requests, draw on information, and decide what to do next adds genuine value. For tasks that require a stronger degree of autonomy, enterprises also need to understand how errors can be detected and reversed.
+THE TEST CONTINUES AFTER LAUNCH
+The transition from pilot to production requires more than a working model. It demands a system that can operate repeatedly, within policy, at an acceptable cost, and with enough oversight to understand what happens when something goes wrong.
+Abeysinghe says enterprises should treat production readiness as part of the initial architecture rather than something introduced after the pilot succeeds. That includes testing the agent before deployment and continuously evaluating it as models, prompts, tools, policies, and workflows change.
+Chebaro similarly believes organizations need to define success before building. They should measure task completion, the frequency of human intervention, response time, and the cost of each completed task. They also need to identify which actions require approval.
+Testing should extend beyond the quality of an agent’s responses. Teams need to understand how it handles permissions, tool calls, sensitive information, and attempts to manipulate its behavior.
+And those responsibilities do not end at launch.
+“An agent can repeat a mistake many times before anyone notices,” Chebaro says. Clear supervision, a way to stop it, and a person accountable for the result are part of making it useful in production.
+The enterprise agent race may be defined by how quickly companies can build capable systems. But the organizations that make those systems work at scale will likely be the ones that know how to govern, integrate, measure, and recognize when the technology is actually worth deploying.
+Featured Videos
+"We want to see more Anghamis in the Middle East" say MEVP investors

@@ -1,0 +1,6 @@
+URL: https://www.wilmerhale.com/en/insights/news/20261123-wilmerhale-team-earns-shoutout-in-litigation-dailys-litigators-of-the-week-for-meta-victory
+TITLE: WilmerHale Team Recognized in Litigation Daily’s “Litigators of the Week” for Meta Victory
+OUTLET: WilmerHale
+
+On November 20, 2026, Litigation Daily recognized WilmerHale partners Sonal Mehta, Ari Holtzblatt and Jessica Lewis in its “Litigator of the Week Runners-Up and Shout-Outs” column for their representation of Meta Platforms in a proposed class action involving allegedly deceptive advertisements.
+The plaintiffs alleged that Meta profited from advertisements that used the images and identities of legitimate financial advisers to direct investors to pump-and-dump schemes. After twice winning dismissal of the claims, the WilmerHale team challenged the plaintiffs’ latest theory that Meta’s own artificial intelligence advertising tools had autonomously retrieved the plaintiffs’ names, photographs and credentials and incorporated them into fraudulent advertisements. The Plaintiffs agreed to a stipulation acknowledging that their theory was incorrect and dismissing the case with prejudice.

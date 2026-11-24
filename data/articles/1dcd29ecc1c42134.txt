@@ -1,0 +1,20 @@
+URL: https://www.macobserver.com/news/major-banks-block-ai-agents-ahead-of-apples-siri-upgrade/
+TITLE: Major Banks Block AI Agents Ahead of Apple’s Siri Upgrade
+OUTLET: The Mac Observer
+
+Intelligent assistants that can open apps and complete tasks on their own are quickly becoming the next big thing in tech. While Apple is busy building new agent features for Siri, major banks are already stepping in to block these tools from customer accounts. Financial institutions worry about security risks and mistakes when automated software gets access to personal banking logins, putting Apple’s upcoming plans on a collision course with the banking industry.
+Apple is pushing hard to turn Siri into an autonomous agent
+Tech companies like OpenAI, Anthropic, and xAI have already added agent abilities to chatbots such as ChatGPT, Claude, and Grok. Apple is expected to follow their lead by bringing similar AI agent features to Siri sometime next year.
+Recent reports and leaks point to a big internal push at the company:
+Don’t miss the best of The Mac Observer
+Set us as a preferred source and our Apple reporting ranks higher in your Google Search results and Discover feed — one tap, no account changes.
+- Bloomberg’s Mark Gurman reported earlier this month that Apple plans to add agent features to Siri next year.
+- CEO John Ternus has reportedly been urging software chief Craig Federighi to move faster and push Siri beyond basic improvements.
+- A recently spotted Apple job listing also mentioned plans for building autonomous AI agents before the company took the post down.
+Major banks are updating terms to block third-party AI tools
+Even before Apple launches its version, banks are moving quickly to shut outside agents out of their systems. According to Wired, several major banks have updated their user rules to ban these tools or warn people against using them.
+JPMorgan Chase changed its terms to ban third-party agents that log in with your credentials. That same day, Bank of America warned its customers not to share login info with agents. Along with the announced change coming from Wells Fargo, Citibank and PNC have also changed their terms to include warnings about agents.
+Wells Fargo took its warning a step further in its updated terms of service. The bank wrote in all capital letters that using any AI agent is at your own risk, making it clear it will not cover losses if something goes wrong.
+Other industries may soon push back against automated shopping agents
+Banking is unlikely to be the only industry putting up roadblocks against automated software. Online stores and retail platforms could soon introduce similar limits to protect their businesses.
+When artificial intelligence tools shop on behalf of users, simple misunderstandings can lead to wrong orders, extra shipping costs, and high return rates. Until tech companies prove their agents can handle sensitive tasks without costly errors, banks and retailers will keep locking their doors.

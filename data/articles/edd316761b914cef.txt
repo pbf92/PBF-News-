@@ -1,0 +1,27 @@
+URL: https://www.aol.com/articles/meta-ai-privacy-concerns-protect-180202000.html
+TITLE: Meta AI Privacy Concerns: How to Protect Your Data and Avoid Black Friday Scams
+OUTLET: AOL.com
+
+The biggest shopping day of the year is almost here. After making your lists, check your app settings and familiarize yourself with current Black Friday scams – especially if you use Meta’s Muse app.
+A personal AI agent, Muse is a relatively new app, launched in September. Since then, more than 10 million people have downloaded it, according to Sensor Tower.
+Read Next: Cyberattack Targets Payment Info Major Websites - What This Means For Your Money
+It’s supposed to make your life easier, but privacy issues surrounding Muse have caused headaches for many users.
+For example, a Threads user revealed his Muse tried to check his email while the phone was unattended, claiming he directed it to perform an action he did not. A Meta employee responded, saying it was a hallucination – i.e., when an AI agent delivers false information, posed as accurate – but the user didn’t buy it, citing its specificity.
+A recent Reuters story also highlighted several instances where employees have raised red flags about the agent mixing up users’ conversations and revealing private data.
+If you have Muse, you might be planning to put it to work on Black Friday. This could be helpful, but it may also prove costly without the right protections in place. Keep reading to learn how to safeguard your data and identify costly scams.
+Protect Your Data From Muse on Black Friday
+If Muse doesn’t explicitly need access to a certain app, it’s probably best to remove it. This applies even if you don’t think there’s a reason the AI agent would try to tap into it.
+Advertisement
+Check which apps Muse has access to by navigating to Settings, then the Permissions tab. This will allow you to see exactly what information the AI agent can currently access and the actions the agent is authorized to perform on your behalf.
+Keep only the settings intact that you currently use and trust Muse to continue performing.
+How to Avoid Black Friday Scams
+Muse may present a new class of Black Friday scams not currently on your radar. Since they’re relayed through the AI agent, they can be harder to spot. Proceed with caution if you see the following red flags.
+Deals Too Good to Be True
+Scammers are known for creating fake retailer sites that closely resemble the real thing. You might be able to spot the difference, but Muse may not be so sharp.
+If you ask Muse to browse online for specific deals, it could land on one that looks incredible but actually isn’t real. Avoid falling victim by not clicking any links and instead navigate to the site yourself.
+Be Wary of Connection Requests
+Scammers may trick Muse by sending messages imploring you to urgently reconnect the app to specific accounts to ensure you don’t miss out on savings opportunities. In reality, this could direct you to fake pages that steal your credentials. Again, clicking any provided links is the best way to avoid falling victim.
+Don’t Pay Through Muse
+It will require a little extra work on your part, but using Muse strictly for Black Friday research is your safest bet. While it would be easier to pay purchases through the app, a scammer could be on the other end. Playing it safe can mean the difference between actually scoring a Black Friday deal or losing your hard-earned money.
+This article was provided by MoneyLion.com for informational purposes only and should not be construed as financial, legal or tax advice.
+More From MoneyLion:

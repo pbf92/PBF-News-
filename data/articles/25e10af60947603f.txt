@@ -1,0 +1,54 @@
+URL: https://digiday.com/media-buying/ad-tech-briefing-meta-eyes-ctv-as-applovin-circles-criteo-signs-of-the-squeeze-on-independent-ad-tech/
+TITLE: Ad Tech Briefing: Meta eyes CTV as AppLovin circles Criteo, signs of the squeeze on independent ad tech
+OUTLET: Digiday
+
+This Ad Tech Briefing covers the latest in ad tech and platforms for Digiday+ members and is distributed over email every Tuesday at 10 a.m. ET. More from the series →
+AppLovin’s reported interest in Criteo and Meta’s plans to explore CTV could put further pressure on independent ad tech, with some companies reporting challenging circumstances in the latest round of earnings calls.
+Last week, Reuters reported unconfirmed acquisition discussions involving AppLovin and Criteo, the same day Next in Media reported that Meta was exploring partnerships with television manufacturers and free FAST services to extend its advertising platform into CTV.
+If both sets of developments materialize, it would represent two of the largest established (mobile) ad platforms expanding into new channels using existing advertiser relationships, data, and buying technology.
+It’s well understood that AppLovin wants to extend its performance advertising business beyond mobile applications, and Criteo — a company that is reportedly seeking an exit from the public markets — could provide retail relationships, commerce data, and access to advertisers across the open web.
+Meanwhile, Meta could use its existing buying platform to help advertisers reach television audiences without relying on a separate demand-side platform.
+In recent weeks, separate sources told Digiday this could prove a key advantage in helping the social networking outfit eat into Google’s lead in markets where its DSP, DV 360, dominates.
+However, developments could reduce advertisers’ dependence on independent DSPs and supply-side platforms.
+AppLovin’s potential shortcut into commerce
+Private equity firms Vista Equity Partners and Quinti Capital have also reportedly expressed interest in Criteo, which has engaged an investment bank to evaluate its options.
+AppLovin reported third-quarter revenue of $2.19 billion, up 55% year over year, alongside $1.44 billion in net income.
+Criteo reported a 12% revenue decline to $416 million, with net income falling to approximately $6 million.
+AppLovin’s growth has been driven by mobile advertising, although the company is increasingly targeting e-commerce advertisers outside of gaming.
+Criteo has spent years expanding beyond retargeting into commerce media, developing relationships with retailers, access to shopper data and cross-channel advertising capabilities.
+Per official figures, Criteo’s commerce intelligence draws on more than $1 trillion in annual transactions, 740 million daily active users and over 5 billion product SKUs, and acquiring it could accelerate AppLovin’s expansion into retail media, providing relationships and data it would otherwise need to develop independently.
+However, integrating the businesses would be complicated given that AppLovin’s core technology is built around mobile apps, while Criteo operates across retailers, publishers, and other commerce environments.
+The potential benefits would depend on whether their different data assets, buying systems, and commercial relationships could work effectively when integrated.
+Meta’s CTV ambitions
+Earlier in the year, multiple sources told Digiday that Meta is exploring an option that would allow advertisers to extend campaigns into third-party television inventory through its existing advertising tools — a measurement tactic commonly known as audience extension.
+The latest reporting suggests Meta is considering how those relationships could support an advertiser-facing buying option, resembling Pinterest’s CTV audience-extension offering, which lets advertisers use Pinterest’s audience data to reach consumers beyond its owned properties. Meta could pursue a similar approach at considerably greater scale.
+Its existing advertiser base could access television inventory without establishing separate relationships with specialist CTV buying platforms, an attractive option for smaller advertisers already using Meta’s automated campaign tools.
+For DSPs and SSPs, the competitive implications would be significant, as Meta could bring more advertisers directly into CTV, potentially reducing the role of intermediaries that connect buyers with television inventory.
+But questions remain about how the proposed model would operate. For example, would Meta determine which inventory advertisers purchase? Plus, how would fees and media costs be disclosed? And what independent measurement would be available?
+Such details are likely to determine whether Meta’s proposed offering creates a meaningful alternative to existing CTV buying arrangements or simply adds another layer between advertisers and publishers.
+Growing competition
+AppLovin’s interest in Criteo and Meta’s reported CTV expansion reflect a broader shift in advertising technology, as larger companies with bigger advertiser bases and proprietary data extend their buying capabilities into additional channels. Amazon is pursuing a similar strategy through its DSP and retail media business, which is morphing into a unified agentic platform.
+The Trade Desk’s recent financial performance illustrates the difficulties facing some independent players. The company reported a 0.5% third-quarter revenue decline to $736 million, marking a rare contraction after years of sustained growth, and is on course to simplify and offer new measurement capabilities as it attempts to restore growth.
+While The Trade Desk’s recent revenue decline cannot be attributed to Meta’s reported plans or AppLovin’s potential acquisition, the contrast provides context for broader competitive pressure on independent buying platforms.
+The emergence of unified media platforms is another response, as last week’s explainer outlined; these systems aim to coordinate advertising across search, social, programmatic, and direct publisher relationships.
+But coordinating buying across platforms is not the same as controlling the underlying inventory, data, or optimization technology. Independent companies will need to demonstrate value beyond simplifying workflows, particularly as AI makes campaign execution easier.
+For independent ad tech, maintaining a meaningful role in that environment will become increasingly difficult.
+Numbers to know
+Figures from HUMAN Security’s BADBOX 3.0 investigation, published Nov. 18.
+- 40 billion: Fraudulent or misrepresented advertising bid requests generated daily at the operation’s reported peak.
+- More than 4%: Share of CTV traffic observed by HUMAN’s defense platform associated with the operation at its peak.
+- 11: Residential proxy networks in which compromised devices were enrolled without their owners’ consent.
+What we’ve covered
+The industry’s emerging buying platforms promise to coordinate advertising across channels, but their ability to control actual spending decisions remains contested.
+Google’s European antitrust exposure and The Trade Desk’s financial difficulties illustrate the challenges facing established ad tech businesses.
+What we’ve heard
+“Global Privacy Control (GPC) WebKit API, for all you browser and browsing experience developers out there.”
+— John Wilander, Apple’s privacy frontman, introduces a software update that will let app developers let users signal their preference to opt out of data sharing and cross-context targeted advertising, a right supported by regulations like the CCPA.
+What we’re reading
+Anthropic’s opposition to advertising raises questions about whether the company can maintain that position as the cost of developing and operating AI models increases.
+Ampersand’s restructuring and the transfer of its independent agency business to Comcast and Spectrum highlight the pressures facing traditional television advertising intermediaries.
+Jonathan Bellack examines how AI coding tools are reducing opportunities for junior engineers, and considers whether professional certification could help establish new standards for software development.
+The Electronic Frontier Foundation examines how technology companies are attempting to redefine privacy protections as AI systems create new opportunities to collect and process personal information.
+HUMAN Security’s latest investigation queries the effectiveness of CTV verification safeguards.
+Advertisers continue to increase investments on the retail weekend but AI, tariffs and discounting pressure present banana skins.
+The shift has been playing for the best part of a decade. COMvergence’s first Global Advertiser Survey shows had far its got. T
