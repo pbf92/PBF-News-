@@ -1,0 +1,30 @@
+URL: https://www.eurekalert.org/news-releases/1153100
+TITLE: Beyond removing resistance genes: Scientists call for smarter strategies to fight antibiotic resistance
+OUTLET: EurekAlert!
+
+Antibiotic resistance is a growing global health threat. For decades, scientists have focused on detecting and removing antibiotic resistance genes (ARGs) from wastewater, soil, and other environments. However, removing more resistance genes does not necessarily mean reducing health risks.
+In a commentary published in Biocontaminant, researchers Haining Huang and Yinguang Chen from Tongji University challenge this traditional approach. They propose a shift from indiscriminate gene removal to targeted, risk-based management.
+"Not all antibiotic resistance genes pose the same threat," said corresponding author Yinguang Chen. "Our goal should not be to eliminate every resistance gene, but to identify and control those most likely to spread resistance and endanger human health."
+The researchers highlight three major problems with conventional strategies. First, counting all resistance genes equally can exaggerate environmental risks. Second, treatment processes may reduce overall gene abundance while allowing dangerous genes to persist or spread. Third, some naturally occurring resistance genes perform beneficial ecological functions.
+To address these challenges, the authors recommend three strategic changes:
+- Risk-based regulation: Establish different monitoring thresholds and control measures according to the potential health risks of resistance genes.
+- Source-focused prevention: Target high-risk sources, including hospital wastewater, pharmaceutical discharges, and livestock waste, before resistance genes spread into the wider environment.
+- Precision technologies: Explore emerging tools, including CRISPR-based gene targeting and bacteriophages, to selectively control dangerous resistance genes.
+The researchers also emphasize the need for internationally standardized risk assessment methods that consider gene mobility, bacterial hosts, and clinical relevance.
+Although technical and regulatory challenges remain, this approach could help governments and wastewater treatment facilities allocate resources more effectively.
+The central message is clear: The future of antibiotic resistance management lies not in removing the most genes, but in reducing the greatest risks.
+===
+Journal reference: Huang H, Chen Y. 2026. Rethinking antibiotic resistance genes after 20 years: from one-size-fits-all removal to differentiated risk management. Biocontaminant 2: e015 doi: 10.48130/biocontam-0026-0012
+https://www.maxapress.com/article/doi/10.48130/biocontam-0026-0012
+===
+About Biocontaminant:
+Biocontaminant (e-ISSN: 3070-359X) is a multidisciplinary platform dedicated to advancing fundamental and applied research on biological contaminants across diverse environments and systems. The journal serves as an innovative, efficient, and professional forum for global researchers to disseminate findings in this rapidly evolving field.
+Follow us on Facebook, X, and Bluesky.
+Journal
+Biocontaminant
+Method of Research
+Commentary/editorial
+Article Title
+Rethinking antibiotic resistance genes after 20 years: from one-size-fits-all removal to differentiated risk management
+Article Publication Date
+27-Oct-2026

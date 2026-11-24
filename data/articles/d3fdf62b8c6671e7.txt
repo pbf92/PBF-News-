@@ -1,0 +1,28 @@
+URL: https://cryptobriefing.com/ershares-passes-openai-anthropic-financing-risks/
+TITLE: ERShares passes on OpenAI and Anthropic, citing financing risks
+OUTLET: Crypto Briefing
+
+The XOVR issuer says the capital demands of frontier AI labs far outrun their near-term revenue visibility
+ERShares has backed SpaceX. It is not, however, writing checks to OpenAI or Anthropic.
+The ETF issuer declined to add either AI lab to its funds, pointing to financing risks. The firm looked at how much money these companies will need and how little of their future revenue is locked in.
+Why ERShares said no
+The decision involves the XOVR Private-Public Crossover ETF, the ERShares fund that considered private stakes in both companies. Executives explained their reasoning in interviews during October and November 2026.
+Two people led the case: Chief Investment Strategist Eva Ados and founder Joel Shulman. Their central objection was a mismatch in time horizons.
+Frontier AI labs need enormous amounts of capital over many years. Their visible revenue, by contrast, stretches out only a short distance. For Anthropic, long-term capital requirements have been estimated at nearly $900 billion, a figure that dwarfs its shorter-term revenue contracts.
+Unit economics were another sore spot. Anthropic reportedly spent approximately $1.60 on compute for every $1 of revenue in the previous year.
+ERShares flagged a growing wave of lower-cost AI models, with rivals from China singled out. In the firm’s view, that pressure undercuts both the economic durability and the competitive standing of the premium model makers.
+AI, tech, and the markets they move—in one daily briefing.
+Daily. Free. Join 34,000+ readers across crypto, finance, and policy.
+A venture capital lens on a public fund
+ERShares says it evaluates private companies the way a venture firm would. The checklist covers leadership quality, product-market fit and valuation discipline.
+OpenAI and Anthropic arguably clear the first two bars with ease. The sticking point for ERShares was the third item, plus the broader question of whether the business model holds up financially over time.
+The XOVR strategy leans toward AI infrastructure rather than model-layer companies.
+The market has not cooled off
+Anthropic filed for its initial public offering in November 2026. Shares priced at $83 on November 19, 2026. That pricing implied a valuation of around $1.5 trillion, an extraordinary number for a company whose compute bill reportedly outran its revenue the year before.
+Following the listing, multiple ETF issuers rolled out leveraged and synthetic products aimed at AI companies, and those funds began trading in late November 2026.
+What this means for investors
+The ERShares decision is less a verdict on AI as a technology than on how its leading labs pay for themselves. The firm is not arguing that the products are bad. It is arguing that the financing structure carries risks the current valuations may not fully reflect.
+There are three things worth tracking from here. The first is the compute-to-revenue ratio: if Anthropic’s reported $1.60 of compute per dollar of revenue shrinks meaningfully, the cost argument weakens. The second is pricing pressure from lower-cost models, particularly those from China, and whether they force premium labs to cut rates.
+The third is the gap between capital needs and contracted revenue. An estimated need of nearly $900 billion requires steady access to funding markets. Public listing opens one door, but it also exposes the company to quarterly scrutiny that private investors rarely apply.
+For now, ERShares has placed its chips on the infrastructure side of the AI build-out rather than the labs at its center. The rest of the ETF industry, judging by the wave of leveraged launches, is wagering on the opposite end of the stack.
+Disclosure: This article was edited by Diego Almada Lopez. For more information on how we create and review content, see our Editorial Policy.

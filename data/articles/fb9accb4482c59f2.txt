@@ -1,0 +1,30 @@
+URL: https://www.eurekalert.org/news-releases/1153102
+TITLE: Research reveals how the brain's visual system shapes lasting fear memories
+OUTLET: EurekAlert!
+
+Researchers at McGovern Medical School at UTHealth Houston have discovered how the brain's visual system plays an active role in transforming threatening experiences into lasting fear memories and how noninvasive brain stimulation can interrupt this process.
+These findings reveal a novel mechanism underlying human fear memory, opening new possibilities for preventing persistent fear and treating PTSD and other trauma-related conditions.
+The study, led by Wen Li, PhD, John S. Dunn professor in the Louis A. Faillace, MD, Department of Psychiatry and Behavioral Sciences at McGovern Medical School, was published Nov. 14 in Nature Communications. Titled "Sensory cortical disinhibition underlies long-term fear memory in humans," the research combined neuroimaging, artificial intelligence, and noninvasive brain stimulation.
+Fear memories serve an important purpose, helping people recognize and avoid potentially dangerous situations. However, when those memories become overly persistent, they can contribute to conditions such as post-traumatic stress disorder and anxiety disorders.
+Traditionally, research into fear memory has focused heavily on brain regions associated with emotion, including the amygdala. The new findings suggest that the visual cortex, typically associated with processing what people see, also helps determine whether a threatening experience becomes embedded as a lasting memory.
+Tracking fear memories in the brain
+To investigate how those memories develop, researchers conducted fear-learning experiments in human participants while measuring brain activity through electroencephalography (EEG) and functional magnetic resonance imaging (fMRI).
+During the experiments, researchers also used high-definition transcranial alternating current stimulation (tACS), a noninvasive form of brain stimulation, to temporarily inhibit activity in the visual cortex during fear learning.
+The team then used advanced machine-learning and artificial intelligence methods to analyze the imaging data and identify patterns of brain activity associated with fear memories. Researchers tracked these patterns at several intervals, including 15 minutes, 24 hours, and seven days after the initial learning experience.
+The approach allowed researchers to examine how fear memories developed over time and whether altering activity within the visual cortex during learning affected their persistence.
+Disrupting long-term fear memories
+Researchers found that altering activity in the visual system during fear learning disrupted the subsequent formation and retention of long-term fear memories without substantially affecting the initial learning experience.
+Participants could still learn to recognize and respond to a threatening situation, but the brain stimulation interfered with the processes that would ordinarily enable the fear memory to persist.
+The team also identified patterns of activity in the visual cortex that predicted the strength of long-term fear memories. These findings suggest that sensory regions of the brain do more than passively process information from a person's surroundings. Instead, they actively influence which threatening experiences become lasting memories.
+The study provides direct evidence in humans that noninvasive brain stimulation targeting the visual cortex can interfere with the formation of persistent fear memories. The findings challenge traditional views that have emphasized emotional centers of the brain and identify the visual cortex as a potential target for future therapeutic interventions.
+"The sensory cortex does more than detect threatening experiences—it helps determine whether they become lasting memories," Li said. "Our findings suggest that we may be able to intervene in this process before fear memories become persistent."
+The research builds on Li's previous work, including a 2025 Nature Communications study, "Trait-like visual cortical hyperactivity in trait anxiety," which linked heightened activity in the visual cortex with anxiety traits in humans. Together, the studies suggest that sensory regions may have a broader role in mental health than previously understood, potentially influencing both vulnerability to anxiety and the formation of persistent fear memories.
+Exploring potential applications
+Building on these findings, Li and her collaborators plan to investigate how sensory cortical mechanisms contribute to persistent emotional memories in people affected by trauma-related disorders.
+Future studies will explore whether processes within the sensory cortex can be therapeutically targeted to reduce maladaptive fear memories and potentially improve treatment outcomes for individuals with PTSD, anxiety disorders, and other trauma-related conditions.
+Although the findings offer a promising direction for future research, additional studies will be needed to determine whether the approach can be translated into effective clinical treatments.
+Joshua A. Brown, PhD, and Yijia Ma, PhD, both faculty in the Faillace Department of Psychiatry and Behavioral Sciences, contributed equally to the study. Additional McGovern Medical School contributors include John J. Massa; Peter Kuan-Hao Cheng, PhD; Chaowen Chen, MD, PhD; Mohammed R. Milad, PhD; and Jair C. Soares, MD, PhD.
+Other collaborators include Yifan Wang and Chenyu You of Stony Brook University; Mingzhou Ding of the University of Florida; Norman B. Schmidt of Florida State University; and Raymond J. Dolan of University College London and South China Normal University.
+The research was supported by the National Institutes of Health through grants R21MH126479 and R01MH132209.
+Journal
+Nature Communications

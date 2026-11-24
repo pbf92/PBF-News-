@@ -1,0 +1,45 @@
+URL: https://gamenewsplus.net/2026/11/24/does-gta-6-have-a-60-fps-mode-ps5-ps5-pro-and-xbox-explained-40146/
+TITLE: Does GTA 6 Have a 60 FPS Mode? PS5, PS5 Pro and Xbox Explained
+OUTLET: Game News Plus
+
+No. GTA 6 does not have a 60 FPS mode on PS5, PS5 Pro, Xbox Series X, or Xbox Series S. Rockstar Games officially targets 30 frames per second on every console version, and the game does not include a 40 FPS balanced mode or a selectable 60 FPS performance mode.
+The four versions are not identical, however. PS5 Pro produces the sharpest image and the most consistent 30 FPS performance in independent testing, while Xbox Series S makes the largest image-quality and frame-rate compromises. The key difference is stability and presentation, not access to a hidden higher-frame-rate setting.
+GTA 6 Quick Facts
+Rockstar’s official GTA 6 Extended Look was captured entirely from in-game footage on a standard PS5. It shows the intended console presentation, but it does not demonstrate or advertise a 60 FPS mode.
+GTA 6 console performance comparison
+The official figures below come from Rockstar’s 30 FPS console announcement and technical answers supplied to Wccftech. The performance observations are from Digital Foundry’s independent launch testing, not from Game News Plus testing.
+These measurements describe the launch build and representative stress tests. They do not mean every player will see the same minimum in every scene, and later patches could change performance without changing the official 30 FPS target.
+Does GTA 6 run at 60 FPS on PS5?
+No. The standard PS5 version targets 30 FPS and has no performance-mode toggle. Rockstar says it renders from a 1440p base image and reconstructs that image to 4K using the studio’s own temporal anti-aliasing solution.
+Digital Foundry’s four-console comparison found that the base PS5 usually reaches the target but can slip below it during fast traversal, combat, and other demanding scenes. Our previous coverage has more detail on GTA 6’s confirmed console resolutions and upscaling methods.
+Does GTA 6 run at 60 FPS on PS5 Pro?
+No. PS5 Pro also targets 30 FPS and does not offer a higher-frame-rate mode. Its advantages are visual: Rockstar uses PSSR2 to reconstruct a 1440p base image to 4K, and PS5 Pro is the only console version with ray-traced shadows.
+Rockstar technology production director Marc Chambers told Push Square that the Pro’s upgraded GPU and upscaling improve visual fidelity, but its CPU is only slightly faster than the base PS5 processor and is not powerful enough to run GTA 6’s complex simulation at a higher frame rate.
+Independent testing still gives PS5 Pro a meaningful advantage. Digital Foundry found that it holds 30 FPS more consistently than the other console versions during ordinary play. That makes it the smoothest console option, but it does not turn GTA 6 into a 60 FPS game.
+Does GTA 6 run at 60 FPS on Xbox Series X?
+No. Xbox Series X targets 30 FPS, with no performance, quality, or 40 FPS balanced setting. Its official rendering setup matches the base PS5: a 1440p base image upscaled to 4K with Rockstar’s in-house TAA.
+Digital Foundry found that Series X delivers a mostly stable 30 FPS experience but can fall below the target in demanding driving, combat, and heavy-effects scenes. A recently discovered uncapped-frame-rate glitch can make the counter rise above 30 in some situations, but it is not an official graphics mode. Digital Foundry’s follow-up test found inconsistent results and gameplay-speed problems, so the glitch should not be described as a 40 FPS or 60 FPS option.
+Does GTA 6 run at 60 FPS on Xbox Series S?
+No. Xbox Series S also targets 30 FPS and has no higher-frame-rate mode. Rockstar starts from a 720p base image and uses AMD FSR Upscaling 4 to reach a 1080p presentation. The studio said memory pressure was a particular challenge when adapting its ray-traced lighting system to the smaller console.
+Independent testing found the Series S version less stable than the other three. It can reach 30 FPS in lighter scenes, but demanding gameplay often runs in the mid-to-high 20s, with heavier stress capable of pushing lower. This is still the full console game, but Series S makes the clearest trade-offs in image quality and frame-rate stability.
+Why is GTA 6 limited to 30 FPS on consoles?
+Rockstar says the limit is about more than graphics. GTA 6 must simulate and render a dense open world while coordinating many systems on both the CPU and GPU. At 30 FPS, the game has about 33 milliseconds to prepare each frame. A 60 FPS target would cut that budget to about 16.7 milliseconds.
+In direct answers provided to TechRadar, Rockstar senior vice president of technology Jonathon Ashcroft said the chosen frame rate gives the team the required balance among presentation, simulation, and gameplay. That also explains why reducing resolution alone would not necessarily double performance. A lower resolution mainly reduces GPU work, while the game’s simulation remains demanding for the CPU.
+What remains unconfirmed
+Rockstar has not announced a future 60 FPS patch for PS5, PS5 Pro, Xbox Series X, or Xbox Series S. It has also not announced a later 40 FPS balanced mode. The company’s explanation makes either option look technically difficult on current hardware, but it is still important to separate that assessment from a permanent promise. Only a future Rockstar announcement can confirm whether the available modes will ever change.
+The November 23 GTA 6 update addressed crashes and several gameplay issues. Rockstar’s published notes did not add or announce a new graphics mode.
+Frequently Asked Questions
+Is there a GTA 6 performance mode?
+No. The console versions do not include selectable performance or quality modes.
+Can PS5 Pro play GTA 6 at 60 FPS?
+No. PS5 Pro targets 30 FPS. It offers improved image reconstruction through PSSR2, exclusive ray-traced shadows, and more consistent frame-rate delivery instead.
+Is GTA 6 4K on PS5 and Xbox Series X?
+Rockstar says PS5 and Xbox Series X start from a 1440p base image and upscale it to a 4K presentation. That is not the same as rendering every pixel natively at 4K.
+What resolution does GTA 6 use on Xbox Series S?
+Rockstar says Xbox Series S starts from 720p and uses AMD FSR Upscaling 4 to produce a 1080p presentation.
+Could Rockstar add 60 FPS later?
+It is possible for modes to change through a future update, but Rockstar has not announced a 60 FPS patch. Claims that one is confirmed are speculation.
+Does an Xbox frame-rate unlock glitch provide 60 FPS?
+No. It is not an official mode, does not hold 60 FPS, and can cause gameplay-speed problems. It should not be treated as a usable performance option.
+This FAQ reflects official information and independent technical analysis available as of November 24, 2026.
+Would you prefer a steadier 30 FPS presentation, or would you accept bigger visual cuts for a higher-frame-rate GTA 6 mode?

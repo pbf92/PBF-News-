@@ -1,0 +1,10 @@
+URL: https://news.jkn.co.kr/editions/english/post/1117939
+TITLE: Is Claude / Anthropic Down? Add-in Issue Affects Personal Microsoft Accounts : 서비스 장애 : JKN
+OUTLET: 재경일보
+
+Anthropic has launched an investigation into an issue affecting the Claude add-in across several Microsoft Office applications. Users signed in to Microsoft Office with a personal Microsoft account may notice that the Claude add-in has disappeared from Microsoft Excel, Microsoft Word, and Microsoft PowerPoint.
+The incident was officially posted to Anthropic's status page on November 24 at 00:10 UTC, which corresponds to 11:10 a.m. Australian Eastern Daylight Time (AEDT).
+According to the company, core Claude functionality remains unaffected, and the issue does not appear to impact users signed in with work or school accounts.
+What the official status page says
+According to the official status update published by Anthropic, technical teams are actively investigating the root cause of the problem. The status update notes that the Claude add-in is disappearing specifically within Excel, Word, and PowerPoint for people using personal Microsoft credentials.
+The report clarifies that the main Claude services remain operational. Users accessing Claude through its core interfaces should experience normal functionality, and organizational users accessing Microsoft Office via work or school accounts are not currently experiencing the disappearing add-in issue.

@@ -1,0 +1,30 @@
+URL: https://cryptobriefing.com/anthropic-enterprise-frontier-safeguards-public-beta/
+TITLE: Anthropic opens Enterprise Frontier Safeguards to businesses in public beta
+OUTLET: Crypto Briefing
+
+The zero data retention system keeps sensitive Claude prompts and responses in customers' own cloud accounts, encrypted with their own keys
+Anthropic has opened its Enterprise Frontier Safeguards to eligible businesses in public beta. The system is built for companies that want frontier AI without handing their most sensitive data to the vendor running it.
+The launch, dated November 23, 2026, targets users of the Claude Platform. It arrives as more enterprise clients ask for zero data retention, a request AI providers have spent the past year trying to answer.
+How Enterprise Frontier Safeguards works
+The setup, known as EFS, changes where the data lives. Sensitive prompts, model responses and reasoning are encrypted and stored in the customer’s own cloud environment.
+Supported destinations include Amazon S3 and Google Cloud. Customers hold their own encryption keys, so they keep full control over who can unlock the records.
+Anthropic does not retain any of this data under EFS. It also does not use the data to train its models.
+Safety oversight stays in place through automated monitoring. When the system detects possible misuse, it flags the concern directly to the customer’s own security team within a week of detection.
+From private beta to public rollout
+EFS did not appear out of nowhere. Before the public release, more than 100 customers took part in a private beta.
+That group included a significant number of Fortune 100 companies. They came from finance, healthcare and legal, three industries where a data leak is a regulatory event, not just an awkward email.
+AI, tech, and the markets they move—in one daily briefing.
+Daily. Free. Join 34,000+ readers across crypto, finance, and policy.
+The public beta has drawn notable early users as well. Bridgewater, Salesforce and Stripe are among the names attached to the program.
+There is one notable exclusion. EFS is not available to organizations that already have HIPAA readiness enabled, so healthcare customers running under that configuration will need to sit this one out for now.
+Why Anthropic needed this
+The backstory is a policy that did not land well with large buyers. In mid-2026, Anthropic introduced a 30-day data retention policy alongside its Fable 5 models.
+For many enterprises, that window was too permissive. Thirty days is a long time when the data in question involves client portfolios, patient records or privileged legal material.
+EFS is Anthropic’s direct answer to those objections. It aims to deliver zero data retention while keeping safety standards intact through automated monitoring.
+Competitive pressure is part of the picture too. OpenAI’s earlier zero-retention offerings have set the standard in the industry, and Anthropic is now presenting its own version to enterprise buyers who expect that option by default.
+What this means for enterprise AI buyers
+Under EFS, Anthropic detects the possible issue, but the customer’s security team receives the flag and handles the response. Customers gain control and privacy, but they also take on more of the work of acting on safety alerts.
+The one-week window for flagging concerns is another detail worth watching. Enterprises with strict incident response requirements will want to see how that timeline fits with their own internal policies.
+The HIPAA exclusion is the clearest gap for now. Healthcare was one of the sectors represented in the private beta, so whether Anthropic extends EFS to HIPAA-enabled organizations later could shape how far the product reaches in that market.
+With over 100 private beta participants, recognizable early adopters and major cloud partners on board, Anthropic may strengthen its pitch as a bridge between advanced AI capability and strict data governance.
+Disclosure: This article was edited by Diego Almada Lopez. For more information on how we create and review content, see our Editorial Policy.

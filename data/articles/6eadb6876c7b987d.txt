@@ -1,0 +1,28 @@
+URL: https://wisevoter.com/world/2026/11/23/global-infantile-onset-epilepsy-incidence-meta-analysis
+TITLE: Study Maps Global Burden of Infantile Epilepsy
+OUTLET: Wisevoter
+
+Study Maps Global Burden of Infantile Epilepsy
+A meta-analysis of 86 studies across 30 countries estimates how often epilepsy begins in infancy worldwide.
+Updated on Nov. 23, 2026 in Diseases — General
+Researchers publishing in JAMA Neurology pooled data from 86 studies in 30 countries to estimate the global incidence of infantile-onset epilepsy. The pooled cumulative incidence is 236.0 per 100,000 live births in the first two years of life and 159.6 per 100,000 in the first year.
+Why it matters
+The authors sought to characterize the global epidemiological burden of neonatal and infantile-onset epilepsy, which had not been fully characterized. The findings provide a baseline for understanding how common these early-life seizure disorders are across regions.
+The pooled prevalence of infantile-onset epilepsy during the first year of life is 35.7 per 100,000 children, drawn from 86 studies published between 1969 and 2025. Substantial between-study heterogeneity and sparse data from several regions leave the global estimates uncertain.
+The players
+JAMA Neurology
+JAMA Neurology is a peer-reviewed medical journal published by the American Medical Association that focuses on neurological research and clinical neurology.
+The details
+The team conducted a systematic review and meta-analysis of studies published through December 18, 2025. Meta-regression found that World Health Organization region and publication year were significant predictors of pooled incidence estimates for infantile epileptic spasms syndrome.
+Timeline
+- Earliest included study was published in 1969.
+- Literature search cutoff for included studies was December 18, 2025.
+- The article was published on November 23, 2026.
+Health Landscape
+The study's regional breakdown relies on WHO regional classifications, and its evidence base is concentrated in Europe, which accounts for 59% of included studies. Most of the world's population is therefore underrepresented in the current estimates of infantile-onset epilepsy.
+Families and clinicians may find the estimated incidence useful for recognizing how common infantile-onset seizure disorders are across different regions. The findings do not change individual diagnosis or treatment recommendations.
+The takeaway
+Infantile-onset epilepsy appears in roughly 160 of every 100,000 infants in their first year, based on pooled global data. Readers interested in these estimates should note the limited coverage of low- and middle-income regions.
+Further reading
+Explore more in Diseases — General.
+Source note: This article includes information reported by Neurology Advisor.

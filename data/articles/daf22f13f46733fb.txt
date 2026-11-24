@@ -1,0 +1,46 @@
+URL: https://roboticsandautomationnews.com/2026/11/22/anthropic-launches-claude-for-manufacturing-to-automate-administrative-and-engineering-workflows/107487/
+TITLE: Anthropic launches Claude for Manufacturing to automate administrative and engineering workflows
+OUTLET: Robotics & Automation News
+
+Anthropic has introduced Claude for Manufacturing, a new AI software offering designed to help manufacturers streamline everyday tasks, including preparing quotations, investigating quality problems, diagnosing equipment failures and managing supplier relationships.
+Announced on November 12, the offering combines 17 manufacturing-specific skills with four software connectors, enabling Claude to work with information stored in systems already used by industrial companies.
+The connectors support Autodesk Fusion, Infor, Microsoft 365 and Oracle NetSuite, bringing together engineering, operational, financial and administrative information.
+Anthropic says the system is intended to reduce the time manufacturing professionals spend collecting and organizing information, while leaving important decisions and approvals to employees.
+The company cites a 2025 Manufacturing Leadership Council survey in which 79 percent of manufacturers reported entering data manually.
+AI assistance across manufacturing operations
+Claude for Manufacturing includes skills covering sales, quality management, operations, supply chains, engineering design and equipment setup.
+The software can carry out individual tasks or coordinate several stages of a process before presenting its findings for human review.
+For example, when a manufacturer receives a request for quotation, an estimator can ask Claude to examine the customer’s requirements, identify missing information, compare costs from previous jobs and prepare a draft quotation.
+Quality engineers can use the system to investigate failed inspections by reviewing previous reports, identifying possible causes and preparing corrective action documentation.
+Maintenance technicians can provide sensor data, repair records, photographs and equipment manuals to help Claude identify potential causes of a breakdown.
+The system can then rank possible explanations for the technician to investigate.
+Other applications include preparing supplier requests, comparing quotations, generating engineering design variations and compiling production performance reports.
+For plant managers, Claude can combine production figures into reports showing output against targets, equipment downtime and the financial consequences of lost production.
+Connecting AI with existing manufacturing software
+A central feature of the offering is its ability to retrieve information from established manufacturing and business software.
+Through Autodesk Fusion, engineers can use Claude to generate variations of existing designs, compare them against specified requirements and prepare recommendations.
+The Microsoft 365 connector provides access to relevant documents, emails, procedures and reports, while Oracle NetSuite enables estimators to incorporate information about inventory, production costs and previous orders.
+Infor integration allows buyers and planners to retrieve purchasing and inventory information.
+Anthropic says manufacturers can also work with systems that do not have dedicated connectors by exporting their data into Microsoft 365, where Claude can access the resulting files.
+The company plans to expand the available manufacturing skills over time, while allowing organizations to adapt existing skills to their own operations.
+Infor partnership extends AI into business transactions
+Alongside Anthropic’s announcement, enterprise software company Infor has introduced Infor Industry AI for Claude, a separate plugin designed to support actions within Infor’s manufacturing software.
+While the connector included in Claude for Manufacturing allows users to retrieve records, Infor’s plugin also enables approved changes to business systems.
+For example, if a steel shipment is delayed, a purchasing manager could ask Claude to identify affected customer orders, check inventory at other facilities and find alternative suppliers.
+Following human approval, the system could issue a replacement purchase order and reschedule production through Infor.
+The integration maintains existing Infor user permissions, meaning employees can access and modify only the information and functions authorized for their roles.
+The approach illustrates how AI assistants are moving beyond answering questions and generating documents toward coordinating business processes across enterprise software.
+Human oversight remains central
+Anthropic emphasizes that Claude for Manufacturing is designed to support employees rather than make final operational decisions independently.
+The system’s workflows are structured around review and approval, with estimators responsible for releasing quotations and quality engineers responsible for verifying corrective actions.
+Claude can also link figures and findings to the underlying records and documents, allowing users to check the information supporting its recommendations.
+Importantly, the new offering does not directly control manufacturing equipment.
+Anthropic is separately developing a Model Hardware Standard, currently described as a research preview, intended to provide a standardized way for programmable equipment to communicate measurements, operating settings and safety limits.
+That distinction separates the company’s immediate focus on manufacturing information and workflows from the more demanding task of connecting AI systems directly to industrial machinery.
+Availability and industrial applications
+Claude for Manufacturing is available as a plugin for organizations using Claude Team or Enterprise plans.
+After installation, the software can help users identify their existing systems, test the available connectors and determine which manufacturing skills can operate with the information currently accessible.
+The introduction reflects growing interest in applying generative AI to industrial operations beyond conventional chatbots and document generation.
+Manufacturers already rely on numerous software systems for engineering, purchasing, production planning, quality management and maintenance. Connecting information across those systems can require considerable manual work.
+Anthropic’s approach is to use AI to gather relevant information, prepare documentation and coordinate routine processes, while employees retain responsibility for technical judgments and business decisions.
+Whether the technology delivers substantial productivity improvements will depend on the quality of manufacturers’ existing data, the reliability of the integrations and how effectively the software fits established workflows.

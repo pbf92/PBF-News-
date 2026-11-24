@@ -1,0 +1,19 @@
+URL: https://www.eurekalert.org/news-releases/1152941
+TITLE: Alternative measure of insulin sensitivity may help identify risk of heart disease and stroke in people without diabetes
+OUTLET: EurekAlert!
+
+Insulin sensitivity is associated with a higher risk of cardiovascular disease. Using data from the China Health and Retirement Longitudinal Study collected from 2011 to 2018, researchers analyzed 6,901 adults who started out without diabetes or cardiovascular disease to see whether an alternative measure to traditional statistical models and machine-learning approaches for insulin sensitivity could predict their risk of developing cardiovascular disease. The alternative measure is called the Estimated Insulin Sensitivity (e-IS).
+The study found:
+- During follow-up, 1,083 individuals developed cardiovascular disease, including heart disease and stroke.
+- Lower scores on the Estimated Insulin Sensitivity index (e-IS) were associated with greater risk of cardiovascular disease.
+- Inflammation and impaired kidney were found to partially account for this link, about 3% and 5%, respectively.
+- Adding the index to a standard risk model modestly improved its ability to predict who would develop cardiovascular disease and improved prediction more than the triglyceride-glucose index, another commonly used substitute measure for insulin resistance.
+Why It Matters: The e-IS index, which relies on routinely collected measurements, may help clinicians identify nondiabetic individuals who are at higher cardiovascular risk and intervene before cardiovascular disease develops.
+Association of Estimated Insulin Sensitivity With Cardiovascular Diseases in Individuals Without Diabetes: Use of Traditional and Machine Learning
+Corresponding Author: Keyang Chen, et al
+Department of Neurology, Second Affiliated Hospital and Yuying Children’s Hospital
+of Wenzhou Medical University, Wenzhou, China
+Wenzhou Key Laboratory of Neurogenetics, Wenzhou, China
+Permanent link (accessible beginning 5 PM ET on Monday, November 23, 2026)
+Journal
+The Annals of Family Medicine
