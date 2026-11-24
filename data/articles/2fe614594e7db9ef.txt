@@ -1,0 +1,21 @@
+URL: https://www.eurekalert.org/news-releases/1153241
+TITLE: Smarter EHR alerts increase use of first-line antibiotics for patients with penicillin allergy labels
+OUTLET: EurekAlert!
+
+Researchers at Vanderbilt Health successfully redesigned electronic health records (EHR) pop-up alerts when clinicians prescribe antibiotics to patients with penicillin allergies. This adjustment significantly reduced alarm notifications for clinicians and safely provided more patients with a first-line antibiotic, cephalosporins, despite their untested penicillin allergies.
+While cephalosporin-penicillin cross-reactivity reactions were previously thought to occur 8%-10% of the time, increasing evidence has shown that only 2% or less of patients who report a penicillin allergy might have a true allergy with a potential cross-reactivity. Such reactions are now more predictable based on better understanding of the cross-reactive chemical structures.
+The research letter, published this month in JAMA Network Open, outlined the collaboration among allergy, infectious disease and biomedical informatics specialists at Vanderbilt Health in designing and implementing a customized risk classification system that determines when alerts should appear based on the patient’s potential allergic risk. The study builds on a previous framework and a decade of research done at Vanderbilt Health in assessing beta-lactam (penicillin and cephalosporin) allergy reactions.
+The team deployed the improved alert framework to approximately 26,000 patients in the health system with a penicillin allergy label over a 21-month assessment window.
+After deployment, clinicians saw weekly alerts decrease from more than 700 to about 100, which helps reduce distraction and can cut down on alarm fatigue often reported by practitioners. Cephalosporin use for inpatients rose to almost 18% and in outpatient settings to 16%, decreasing clindamycin and fluoroquinolone use, which are often used as secondary substitute treatments.
+Increases were especially high, reaching 35%, in the surgical environment where the use of cephalosporins is well known to be a key factor that significantly reduces the likelihood of a surgical site infection.
+Most importantly, during the 21-month window, the team observed no anaphylaxis when cephalosporins were used in patients with untested penicillin allergies.
+“For patients, this means a penicillin allergy label on the chart is less likely to push them toward a second-choice antibiotic when a first-line option is appropriate. For doctors and the health care system, this means that our patients are more likely to have good outcomes and that we can use antibiotics that are more targeted and effective, which is a key goal for preventing drug resistance and side effects,” said Cosby Stone, MD, MPH, Assistant Professor of Medicine in the Division of Allergy, Pulmonary and Critical Care Medicine and corresponding author of the study.
+“The best news is that our approach is easy to copy, and we are glad to share it,” he added. “Having already shared it with other institutions, we found in some cases other health systems can immediately adapt this risk-based approach to cross-reactivity alerts in their own EHRs.”
+Stone also encourages patients interested in testing to remove an allergy label to do so. “More than 98% of patients who get their penicillin allergy tested will leave knowing that they can actually tolerate them and that the days of calling themselves allergic are past.”
+This study was supported by funding from the Agency for Healthcare Research and Quality (grant R01HS030234).
+Journal
+JAMA Network Open
+Article Title
+Penicillin-Cephalosporin Cross-Reactivity Alert Modifications and Cephalosporin Use Among Patients With Untested Penicillin Allergy Labels
+Article Publication Date
+13-Nov-2026

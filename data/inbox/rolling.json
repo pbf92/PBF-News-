@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T21:30:17Z",
- "count": 3722,
+ "updated": "2026-11-24T21:38:07Z",
+ "count": 3756,
  "items": [
   {
    "key": "9fbd9327633bddb8",
@@ -49164,7 +49164,10 @@
    "outlet": "Anthropic",
    "published": "2026-11-23T21:12:08Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.anthropic.com/research/working-with-ai",
+   "article": "data/articles/3529268033650fa7.txt"
   },
   {
    "key": "d38f63a2752d3c95",
@@ -49299,7 +49302,10 @@
    "outlet": "The Motley Fool",
    "published": "2026-11-24T02:47:00Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.fool.com/investing/2026/11/23/anthropic-stock-fell-about-20-from-its-first-trade-in-its-first-2-days-here-s-the-price-at-which-i-d-buy-it/",
+   "article": "data/articles/4fcbeabb9ebf1713.txt"
   },
   {
    "key": "2c70f7fff6a72e37",
@@ -49316,7 +49322,10 @@
    "outlet": "Interesting Engineering",
    "published": "2026-11-24T01:27:00Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://interestingengineering.com/ai-robotics/claude-proves-vp-not-vnp-valiant-conjecture",
+   "article": "data/articles/2c70f7fff6a72e37.txt"
   },
   {
    "key": "f1feb2b12fc66e94",
@@ -49353,7 +49362,10 @@
    "outlet": "Yahoo Finance",
    "published": "2026-11-23T19:38:10Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://finance.yahoo.com/markets/stocks/articles/why-jensen-huangs-nvidia-return-193810591.html",
+   "article": "data/articles/17ff7dae27a52ed5.txt"
   },
   {
    "key": "3cdfe4c5be76f437",
@@ -49899,7 +49911,10 @@
    "outlet": "arXiv cs.AI",
    "published": "2026-11-24T05:00:00Z",
    "summary": "arXiv:2611.28277v1 Announce Type: new Abstract: In dynamic scenes---football matches, traffic streams, surgery, or assembly---actions unfold at fundamentally different time scales: in football, a kick happens in milliseconds, a possession lasts seconds, and complex events such as a successful pass f…",
-   "via": "feed"
+   "via": "feed",
+   "article_tried": true,
+   "resolved_url": "https://arxiv.org/abs/2611.28277",
+   "article": "data/articles/b59de6a7a17444c9.txt"
   },
   {
    "key": "9f97f281b3020f08",
@@ -49916,7 +49931,10 @@
    "outlet": "arXiv cs.AI",
    "published": "2026-11-24T05:00:00Z",
    "summary": "arXiv:2611.28285v1 Announce Type: new Abstract: Standard autoregressive large language models attend to the growing history of generated tokens, making the key-value (KV) cache a central memory and throughput bottleneck in long-chain reasoning and multi-branch sampling. Yet an important class of rea…",
-   "via": "feed"
+   "via": "feed",
+   "article_tried": true,
+   "resolved_url": "https://arxiv.org/abs/2611.28285",
+   "article": "data/articles/9f97f281b3020f08.txt"
   },
   {
    "key": "466591fec1e93d14",
@@ -49933,7 +49951,10 @@
    "outlet": "arXiv cs.AI",
    "published": "2026-11-24T05:00:00Z",
    "summary": "arXiv:2611.28293v1 Announce Type: new Abstract: Contribution: This study has shown that a shared prompt-refinement procedure, guided by distinct affective and cognitive feedback signals, can improve held-out reference agreement and multi-label classification while reducing affective-generation varia…",
-   "via": "feed"
+   "via": "feed",
+   "article_tried": true,
+   "resolved_url": "https://arxiv.org/abs/2611.28293",
+   "article": "data/articles/466591fec1e93d14.txt"
   },
   {
    "key": "5da15c188d675849",
@@ -56573,7 +56594,9 @@
    "outlet": "AP News",
    "published": "2026-11-24T15:52:00Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://apnews.com/article/consumer-economy-confidence-inflation-9d13d96cc3e4bac8f334f9145c718e42"
   },
   {
    "key": "aec9be8abf8253f5",
@@ -57762,7 +57785,10 @@
    "outlet": "Bank of England",
    "published": "2026-11-24T16:00:00Z",
    "summary": "Daniel E. Pinto has been appointed as an external member of the Financial Policy Committee.",
-   "via": "feed"
+   "via": "feed",
+   "article_tried": true,
+   "resolved_url": "https://www.bankofengland.co.uk/news/2026/november/daniel-pinto-appointment-fpc",
+   "article": "data/articles/d7f9f42644faea6c.txt"
   },
   {
    "key": "41d26a186d651f46",
@@ -58508,7 +58534,10 @@
    "outlet": "EurekAlert!",
    "published": "2026-11-24T19:31:30Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.eurekalert.org/news-releases/1153272",
+   "article": "data/articles/f907d728426159d7.txt"
   },
   {
    "key": "9a69c9dad48b3f30",
@@ -58559,7 +58588,10 @@
    "outlet": "EurekAlert!",
    "published": "2026-11-24T18:39:41Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.eurekalert.org/news-releases/1153241",
+   "article": "data/articles/2fe614594e7db9ef.txt"
   },
   {
    "key": "60157db9dccabfd8",
@@ -58576,7 +58608,10 @@
    "outlet": "EurekAlert!",
    "published": "2026-11-24T18:41:48Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.eurekalert.org/news-releases/1153271",
+   "article": "data/articles/60157db9dccabfd8.txt"
   },
   {
    "key": "5cebd84a36559dfe",
@@ -58593,7 +58628,10 @@
    "outlet": "EurekAlert!",
    "published": "2026-11-24T18:41:47Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.eurekalert.org/news-releases/1153210",
+   "article": "data/articles/5cebd84a36559dfe.txt"
   },
   {
    "key": "2f4fed6b39dd2a8c",
@@ -58610,7 +58648,10 @@
    "outlet": "EurekAlert!",
    "published": "2026-11-24T17:56:50Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.eurekalert.org/news-releases/1153101",
+   "article": "data/articles/2f4fed6b39dd2a8c.txt"
   },
   {
    "key": "f86ed0313a630d2a",
@@ -58627,7 +58668,10 @@
    "outlet": "EurekAlert!",
    "published": "2026-11-24T18:57:49Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.eurekalert.org/news-releases/1153237",
+   "article": "data/articles/f86ed0313a630d2a.txt"
   },
   {
    "key": "735498a0f50a0246",
@@ -58678,7 +58722,10 @@
    "outlet": "EurekAlert!",
    "published": "2026-11-24T19:31:31Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.eurekalert.org/news-releases/1151870",
+   "article": "data/articles/86d7719435d0bfe7.txt"
   },
   {
    "key": "c8d9ec2f3d55ac8d",
@@ -58729,7 +58776,10 @@
    "outlet": "EurekAlert!",
    "published": "2026-11-24T18:32:26Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.eurekalert.org/news-releases/1153249",
+   "article": "data/articles/1278b01aeb6b7553.txt"
   },
   {
    "key": "e87c5aaeafc273b2",
@@ -59058,7 +59108,10 @@
    "outlet": "The Guardian football",
    "published": "2026-11-24T18:19:37Z",
    "summary": "Player now eligible to face Brentford on Saturday Referees’ chief Webb said it was ‘certainly not clearly wrong’ Manchester United have successfully appealed against Leny Yoro’s red card in their 4-0 defeat to Liverpool on the day referees’ chief Howard Webb gave his backing to the original decision…",
-   "via": "feed"
+   "via": "feed",
+   "article_tried": true,
+   "resolved_url": "https://www.theguardian.com/football/2026/nov/23/manchester-united-appeal-leny-yoro-red-card-liverpool",
+   "article": "data/articles/b796e013879b4905.txt"
   },
   {
    "key": "a2c4b9d503d7bcf0",
@@ -60273,7 +60326,10 @@
    "outlet": "OpenAI",
    "published": "2026-11-24T00:00:00Z",
    "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
-   "via": "feed"
+   "via": "feed",
+   "article_tried": true,
+   "resolved_url": "https://openai.com/business/customer-stories/intentful-dots",
+   "article": "data/articles/5de58ae615612dfa.txt"
   },
   {
    "key": "262ac7f7124627c6",
@@ -60290,7 +60346,10 @@
    "outlet": "OpenAI",
    "published": "2026-11-24T00:00:00Z",
    "summary": "",
-   "via": "feed"
+   "via": "feed",
+   "article_tried": true,
+   "resolved_url": "https://openai.com/business/customer-stories/ifood",
+   "article": "data/articles/262ac7f7124627c6.txt"
   },
   {
    "key": "05d58056bbb32181",
@@ -60346,7 +60405,9 @@
    "outlet": "The Hill",
    "published": "2026-11-24T16:02:00Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://thehill.com/policy/healthcare/6239924-gallup-poll-childhood-vaccination-support/"
   },
   {
    "key": "e423c4ff91c51fb4",
@@ -60363,7 +60424,10 @@
    "outlet": "Post and Courier",
    "published": "2026-11-24T17:00:00Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.postandcourier.com/york-county/news/midterm-election-polled-winthrop-university-results-fraud/article_7953cce2-ecba-4459-92cd-9c6c91b2f4e3.html",
+   "article": "data/articles/e423c4ff91c51fb4.txt"
   },
   {
    "key": "f8f2592371213835",
@@ -60397,7 +60461,10 @@
    "outlet": "The Independent",
    "published": "2026-11-24T16:52:00Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.independent.co.uk/bulletin/news/burnham-brexit-poll-yougov-eu-b3090865.html",
+   "article": "data/articles/3e10c5b3d1b260f1.txt"
   },
   {
    "key": "99a3f280936a108d",
@@ -60414,7 +60481,10 @@
    "outlet": "The Independent",
    "published": "2026-11-24T16:39:00Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.independent.co.uk/news/uk/politics/brexit-eu-uk-deal-poll-burnham-yougov-b3090705.html",
+   "article": "data/articles/99a3f280936a108d.txt"
   },
   {
    "key": "f071a25d8eeac9fe",
@@ -60468,7 +60538,10 @@
    "outlet": "The Korea Times",
    "published": "2026-11-24T16:30:00Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.koreatimes.co.kr/world/20261125/us-poised-to-unveil-new-tariffs-targeting-s-korea-15-other-trading-partners",
+   "article": "data/articles/023aaa0d7c4c1db8.txt"
   },
   {
    "key": "a9b6d0d7b9911eaf",
@@ -60519,7 +60592,9 @@
    "outlet": "Political Wire",
    "published": "2026-11-24T15:24:00Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://politicalwire.com/2026/11/24/trump-approval-at-33/"
   },
   {
    "key": "48fc8e79c4f2ee66",
@@ -60694,7 +60769,9 @@
    "outlet": "Reuters",
    "published": "2026-11-24T16:57:17Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/"
   },
   {
    "key": "eddcad61fe5bb5ca",
@@ -60844,7 +60921,9 @@
    "outlet": "Reuters",
    "published": "2026-11-24T16:05:57Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.reuters.com/business/autos-transportation/chinas-byd-talks-buy-french-car-factory-ineos-automotive-2026-11-24/"
   },
   {
    "key": "53e5a2c6c6115ad2",
@@ -60861,7 +60940,9 @@
    "outlet": "Reuters",
    "published": "2026-11-24T16:48:20Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.reuters.com/world/middle-east/saudi-led-coalition-says-tower-riyadh-finance-district-targeted-by-terrorist-2026-11-24/"
   },
   {
    "key": "bc7ffa0e3bc89e97",
@@ -61089,7 +61170,9 @@
    "outlet": "Red Bull",
    "published": "2026-11-24T11:19:04Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.redbull.com/ie-en/how-gta-6-revolutionises-the-open-world-genre"
   },
   {
    "key": "ce7d349f9fcaadfa",
@@ -61265,7 +61348,10 @@
    "outlet": "IGN",
    "published": "2026-11-24T14:00:00Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.ign.com/articles/i-watched-gta-6s-in-game-tv-shows-for-hours-theyre-absolutely-wild",
+   "article": "data/articles/9b865e09a0a100da.txt"
   },
   {
    "key": "b7913557bc27d54d",
@@ -61596,7 +61682,10 @@
    "outlet": "STAT News",
    "published": "2026-11-24T19:30:29Z",
    "summary": "A partially redacted calendar showing health secretary Robert F. Kennedy Jr.’s activities was made public on Tuesday.",
-   "via": "feed"
+   "via": "feed",
+   "article_tried": true,
+   "resolved_url": "https://www.statnews.com/2026/11/24/rfk-jr-calendar-hhs-records-rollout/?utm_campaign=rss",
+   "article": "data/articles/b1f46ed6403e0fcd.txt"
   },
   {
    "key": "06f1034cbcf01407",
@@ -62863,7 +62952,10 @@
    "outlet": "Sports Illustrated",
    "published": "2026-11-24T18:30:00Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.si.com/soccer/man-utd-predicted-lineup-vs-sporting-cp-champions-league-11-25-26",
+   "article": "data/articles/ab920cdd6c7076c8.txt"
   },
   {
    "key": "0f7fda357f8d0b6c",
@@ -63058,7 +63150,10 @@
    "outlet": "Yahoo Sports",
    "published": "2026-11-24T18:19:42Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://sports.yahoo.com/articles/referees-chief-backs-leny-yoro-181942786.html",
+   "article": "data/articles/24f53f81c024faff.txt"
   },
   {
    "key": "5797f86d82cf00c8",
@@ -64571,7 +64666,10 @@
    "outlet": "EurekAlert!",
    "published": "2026-11-24T18:57:49Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.eurekalert.org/news-releases/1153231",
+   "article": "data/articles/3473d820a3daf96a.txt"
   },
   {
    "key": "7d82e7843f615c38",
@@ -64588,7 +64686,10 @@
    "outlet": "EurekAlert!",
    "published": "2026-11-24T19:43:29Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.eurekalert.org/news-releases/1153267",
+   "article": "data/articles/7d82e7843f615c38.txt"
   },
   {
    "key": "07331cf4e63a50a6",
@@ -64605,7 +64706,10 @@
    "outlet": "EurekAlert!",
    "published": "2026-11-24T18:39:41Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.eurekalert.org/news-releases/1153247",
+   "article": "data/articles/07331cf4e63a50a6.txt"
   },
   {
    "key": "aa6fb14854bdc72b",
@@ -64622,7 +64726,10 @@
    "outlet": "EurekAlert!",
    "published": "2026-11-24T18:39:41Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.eurekalert.org/news-releases/1152752",
+   "article": "data/articles/aa6fb14854bdc72b.txt"
   },
   {
    "key": "7c411c9fbf48f9d5",
@@ -64639,7 +64746,10 @@
    "outlet": "EurekAlert!",
    "published": "2026-11-24T20:30:23Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.eurekalert.org/news-releases/1153289",
+   "article": "data/articles/7c411c9fbf48f9d5.txt"
   },
   {
    "key": "55cc889e05b57dca",
@@ -65036,7 +65146,10 @@
    "outlet": "Manchester Evening News",
    "published": "2026-11-24T20:35:00Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-pochettino-yoro-var-34960882",
+   "article": "data/articles/067c82a6a60982e7.txt"
   },
   {
    "key": "dcd4ea9a24240f95",
@@ -65070,7 +65183,10 @@
    "outlet": "Manchester Evening News",
    "published": "2026-11-24T20:05:00Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.manchestereveningnews.co.uk/news/uk-news/moment-ian-huntleys-killer-boasted-34961435",
+   "article": "data/articles/8d0896fe417ceab3.txt"
   },
   {
    "key": "9a11e9a19e9cb19f",
@@ -65454,7 +65570,9 @@
    "outlet": "Reuters",
    "published": "2026-11-24T15:12:58Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.reuters.com/legal/litigation/bayer-withdraw-kidney-drug-kerendia-germany-2026-11-24/"
   },
   {
    "key": "2f6ab30f944c2acc",
@@ -65613,7 +65731,10 @@
    "outlet": "Instant Gaming News",
    "published": "2026-11-24T11:13:18Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://news.instant-gaming.com/en/articles/23178-rockstar-is-trying-to-have-the-unofficial-pc-port-for-gta-vi-taken-down",
+   "article": "data/articles/47ccc49f229ae305.txt"
   },
   {
    "key": "c3091d0bd168d0e4",
@@ -66493,7 +66614,9 @@
    "outlet": "Cybersecurity Dive",
    "published": "2026-11-24T21:06:31Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.cybersecuritydive.com/news/ai-vulnerability-openai-cisco-shirudo-linux/875644/"
   },
   {
    "key": "c4ecdb1ea7ce09d9",
@@ -66680,7 +66803,10 @@
    "outlet": "New York Post",
    "published": "2026-11-24T20:51:00Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://nypost.com/2026/11/24/business/openai-engineer-who-allegedly-wrapped-recording-bug-in-toilet-paper-to-be-freed-on-1m-bond/",
+   "article": "data/articles/55a584896625726c.txt"
   },
   {
    "key": "5e9e36dfce59d7ed",
@@ -66697,7 +66823,9 @@
    "outlet": "Forbes",
    "published": "2026-11-24T21:19:14Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.forbes.com/sites/murtuza-merchant/2026/11/24/ai-agents-now-earn-money-for-you-set-these-limits-first/"
   },
   {
    "key": "fba922fd139b5f52",
@@ -66782,7 +66910,10 @@
    "outlet": "IGN Nordic",
    "published": "2026-11-24T20:50:31Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://nordic.ign.com/grand-theft-auto-vi/116051/crazy-secretive-gta-6-voice-actor-reveals-details-of-rockstars-humongous-nda",
+   "article": "data/articles/2510d3b900b27514.txt"
   },
   {
    "key": "7a81a87c4286b397",
@@ -66833,7 +66964,10 @@
    "outlet": "GameGPU",
    "published": "2026-11-24T21:20:28Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://en.gamegpu.com/news/igry/igroki-gta-6-obnaruzhili-kultovye-mashiny-iz-izvestnykh-filmov-i-serialov",
+   "article": "data/articles/21ddc494c48f1e2c.txt"
   },
   {
    "key": "ed19ea93a120c8fb",
@@ -66867,7 +67001,10 @@
    "outlet": "GameGPU",
    "published": "2026-11-24T21:12:16Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://en.gamegpu.com/news/zhelezo/opublikovan-spisok-videokart-amd-dlya-neofitsialnogo-zapuska-gta-6-na-pk",
+   "article": "data/articles/af050990e0f4cc73.txt"
   },
   {
    "key": "c20308653bacfd33",
@@ -66918,7 +67055,9 @@
    "outlet": "IMDb",
    "published": "2026-11-24T21:13:10Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.imdb.com/news/ni66126914/?ref_=nmnw_art_perm"
   },
   {
    "key": "71909e0213671af9",
@@ -66935,7 +67074,9 @@
    "outlet": "Mobalytics",
    "published": "2026-11-24T20:54:57Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://mobalytics.gg/gamebase/guides/grand-theft-auto-6-mod-shop"
   },
   {
    "key": "0893276f629b7bd8",
@@ -67023,7 +67164,8 @@
    "outlet": "Sports Illustrated",
    "published": "2026-11-24T20:30:00Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true
   },
   {
    "key": "9664b9be0d5b96a4",
@@ -67040,7 +67182,10 @@
    "outlet": "RFI",
    "published": "2026-11-24T20:39:30Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.rfi.fr/en/sports/20261124-man-united-strong-not-fragile-coach-pochettino",
+   "article": "data/articles/9664b9be0d5b96a4.txt"
   },
   {
    "key": "2ac60a73e533762d",
@@ -67057,7 +67202,10 @@
    "outlet": "Goal.com",
    "published": "2026-11-24T20:31:32Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.goal.com/en-us/news/-mauricio-pochettino-questions-decision-leny-yoro-liverpool-red-card/blt0fcc1754ad0fe738",
+   "article": "data/articles/2ac60a73e533762d.txt"
   },
   {
    "key": "21eb790168935ca6",
@@ -67074,7 +67222,10 @@
    "outlet": "Yahoo Sports",
    "published": "2026-11-24T20:21:28Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://sports.yahoo.com/articles/mauricio-pochettino-man-united-measly-202128926.html",
+   "article": "data/articles/21eb790168935ca6.txt"
   },
   {
    "key": "fc11f9a4db378219",
@@ -67111,7 +67262,8 @@
    "outlet": "The Irish News",
    "published": "2026-11-24T20:15:39Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true
   },
   {
    "key": "c867e9786da5b0fc",
@@ -67186,7 +67338,9 @@
    "outlet": "Manchester United",
    "published": "2026-11-24T20:46:41Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.manutd.com/en/mutv/videos/detail/schmeichel-asks-pochettino-a-question-sporting-v-united"
   },
   {
    "key": "6fa153d09965f572",
@@ -67240,7 +67394,10 @@
    "outlet": "London Evening Standard",
    "published": "2026-11-24T18:24:35Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.standard.co.uk/sport/football/man-utd-injury-news-pochettino-cunha-shaw-b1306224.html",
+   "article": "data/articles/d1ba870ddbaea608.txt"
   },
   {
    "key": "19bcdee338a24d33",
@@ -67257,7 +67414,10 @@
    "outlet": "TribalFootball",
    "published": "2026-11-24T20:46:32Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.tribalfootball.com/article/soccer-premier-league-manchester-united-board-and-pochettino-agree-on-two-signings-ahead-of-january-window-3ed40644-f67e-442b-88e5-4074a6a7f694",
+   "article": "data/articles/19bcdee338a24d33.txt"
   },
   {
    "key": "908b75dd7b755732",
@@ -67291,7 +67451,10 @@
    "outlet": "VGC / IGN",
    "published": "2026-11-24T21:10:38Z",
    "summary": "How many missions are in GTA 6 Chapter 5? All missions listed",
-   "via": "feed"
+   "via": "feed",
+   "article_tried": true,
+   "resolved_url": "https://www.videogameschronicle.com/guide/gta-6-chapter-5-mission-list-every-mission-in-order-point-of-no-return/",
+   "article": "data/articles/3bd27512714c6c32.txt"
   },
   {
    "key": "fdedcf8e664cf47a",
@@ -67308,7 +67471,10 @@
    "outlet": "VGC / IGN",
    "published": "2026-11-24T21:20:50Z",
    "summary": "Diablo 4 Season 16: Season of Tyrael's Gambit officially kicks off on December 1. We finally know a bit more about what the new season holds in store, and it's going to make one of the biggest activities much less of a pain.",
-   "via": "feed"
+   "via": "feed",
+   "article_tried": true,
+   "resolved_url": "https://www.ign.com/articles/diablo-4-season-16-fixes-one-of-the-biggest-problems-with-helltide",
+   "article": "data/articles/fdedcf8e664cf47a.txt"
   },
   {
    "key": "2df8308c11f39b4c",
@@ -67325,7 +67491,10 @@
    "outlet": "VGC / IGN",
    "published": "2026-11-24T21:15:26Z",
    "summary": "CD Projekt Red expects a leap between The Witcher 3 and 4 that is comparable to the one between GTA 5 and 6.",
-   "via": "feed"
+   "via": "feed",
+   "article_tried": true,
+   "resolved_url": "https://www.ign.com/articles/the-witcher-4-will-have-a-comparable-leap-from-gta-5-to-gta-6-says-cd-projekt-red",
+   "article": "data/articles/2df8308c11f39b4c.txt"
   },
   {
    "key": "cae24d2235b66e07",
@@ -67428,6 +67597,639 @@
    "published": "2026-11-24T19:25:55Z",
    "summary": "Marvel Studios boss Kevin Feige has revealed that he and the Russo brothers are creating a tribute to honor the late great Patrick Stewart in light of his final performance in Avengers: Doomsday.",
    "via": "feed"
+  },
+  {
+   "key": "db4d10abdbcc9ca2",
+   "desk": "world",
+   "source_id": "abcau",
+   "source": "ABC News (Australia)",
+   "tier": 2,
+   "side": null,
+   "status": "Keep",
+   "paywall": false,
+   "first_seen": "2026-11-24T21:38:07Z",
+   "title": "Senegal reinstated as African champions after appeal",
+   "link": "https://www.abc.net.au/news/2026-11-25/senegal-reinstated-as-african-champions-morocco-afcon/107423820",
+   "outlet": "ABC News (Australia)",
+   "published": "2026-11-24T21:31:33Z",
+   "summary": "After a successful appeal to the Court of Arbitration for Sport, Senegal has overturned a ruling that deemed Morocco the victors of their controversial Africa Cup of Nations final.",
+   "via": "feed"
+  },
+  {
+   "key": "49e3e2b4419bbe28",
+   "desk": "world",
+   "source_id": "abcau",
+   "source": "ABC News (Australia)",
+   "tier": 2,
+   "side": null,
+   "status": "Keep",
+   "paywall": false,
+   "first_seen": "2026-11-24T21:38:07Z",
+   "title": "Injured duckling allegedly killed 'without authorisation' at Queanbeyan pool",
+   "link": "https://www.abc.net.au/news/2026-11-25/act-injured-duckling-killed-no-authorisation-queanbeyan-pool/107422750",
+   "outlet": "ABC News (Australia)",
+   "published": "2026-11-24T19:36:22Z",
+   "summary": "Two staff members are stood down after allegedly killing an injured duckling \"without authorisation\" at a public swimming pool in Queanbeyan.",
+   "via": "feed"
+  },
+  {
+   "key": "e74fb2959f3b66fb",
+   "desk": "world",
+   "source_id": "abcau",
+   "source": "ABC News (Australia)",
+   "tier": 2,
+   "side": null,
+   "status": "Keep",
+   "paywall": false,
+   "first_seen": "2026-11-24T21:38:07Z",
+   "title": "Condition of Tasmania's ports a 'significant risk to the state'",
+   "link": "https://www.abc.net.au/news/2026-11-25/tasports-failures-tasmanian-auditor-general/107421288",
+   "outlet": "ABC News (Australia)",
+   "published": "2026-11-24T18:56:40Z",
+   "summary": "The auditor-general's report about Tasmania's port infrastructure warns of \"significant\" future costs and potentially severe service disruptions because of poor management over a \"long period of time\".",
+   "via": "feed"
+  },
+  {
+   "key": "e39d3ab61bbadd4e",
+   "desk": "world",
+   "source_id": "ap",
+   "source": "AP News",
+   "tier": 1,
+   "side": null,
+   "status": "Keep",
+   "paywall": false,
+   "first_seen": "2026-11-24T21:38:07Z",
+   "title": "AP Player of the Week: Nebraska QB Colandrea had a hand in 4 TDs in breakthrough win over Buckeyes",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY2ZndHVkeFA2SHJPeVRnQTJLRUNnWkJOSmU0cklxdlcyOEFUTXZHSXh2TGFBVnRCTE5mRFh3ZzNseEpYS0hjQXl0cnVEVm9heF94bEh0T1VYc3AwZndNaEt5SjJtSmlWSVhvTzVsRVh5d1A5RTlvQ3BYTlpLQkJiQU1LRnRMVko4OGhzZGFSSDdfeHVjVmhkM1Q0RE15VVQ5MF9Z?oc=5",
+   "outlet": "AP News",
+   "published": "2026-11-23T16:07:00Z",
+   "summary": "",
+   "via": "gn"
+  },
+  {
+   "key": "d62be71a18ba90d4",
+   "desk": "world",
+   "source_id": "ap",
+   "source": "AP News",
+   "tier": 1,
+   "side": null,
+   "status": "Keep",
+   "paywall": false,
+   "first_seen": "2026-11-24T21:38:07Z",
+   "title": "Nebraska ends 31-game losing streak against AP Top 25 opponents with 31-28 win over No. 16 Buckeyes",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRnJDNkhKZ1BETms3bl9XTW1DMTJxY0pmYVI1R19vNElOZ09DbTBRbldnS2l2TGpqRmtnQkE0MmtjWXl2REpzSGQ2QW11Z09KRDhocXJ1cHVsLWVkYWFnbnZwcHJONkNXOGQwa0szSWhKUlpZUVROS1lWS05lOHpvTnFsdnNEV3ZDbkdJUTBEaGtGTzZOOE5rWl9B?oc=5",
+   "outlet": "AP News",
+   "published": "2026-11-22T02:47:00Z",
+   "summary": "",
+   "via": "gn"
+  },
+  {
+   "key": "22ccbe11bdccc155",
+   "desk": "united",
+   "source_id": "athletic",
+   "source": "The Athletic",
+   "tier": 2,
+   "side": null,
+   "status": "Keep",
+   "paywall": true,
+   "first_seen": "2026-11-24T21:38:07Z",
+   "title": "Man United suffer major setback as managerial target makes future intentions clear",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNR2NLdkJhcjZ6clFuSEpuek9MR0lmUW1aaEVtM3dCT1FiUVZRaUsyX2d4OVJuNE5QUS1OU0V0MXpZUk4tck5qQkh5YmRCdGIxM1U5U2hwRS1VVUUxb0RjLWZrOXNXczRmQVc3N2R5aGVBcDJaUzRXUFZOVmRSNkdQTDFxNGpiNUJhdnFmd1ZiYjIybGV6eFRkZzJ0a3pVcnZEVV9vb3VtMzQwWFd5VEE4VnpucWpsRE8xXzNZWFh0Y1J1YkJIZWhiMHhKVWNRMFFaU1NRdjNfQ0FJb2c0ZEE?oc=5",
+   "outlet": "LiveScore",
+   "published": "2026-11-24T07:51:28Z",
+   "summary": "",
+   "via": "gn"
+  },
+  {
+   "key": "59706ef968411623",
+   "desk": "united",
+   "source_id": "athletic",
+   "source": "The Athletic",
+   "tier": 2,
+   "side": null,
+   "status": "Keep",
+   "paywall": true,
+   "first_seen": "2026-11-24T21:38:07Z",
+   "title": "Paul Scholes says 'rabbit in the headlights' £52m Man United man is not Premier League level",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbHFlN1gyT1JiYjExdFhKOE96eDBmWFhKT3Rtd0s1Y2xvSERZdDlTeHFUVDVqR3NuSmh2eGswZnNROTV3T3FVaUdONW42SkJHMVc4NE5maVpINWVKQXJqV2tmR05ZMEhEeE4wWWtmak9RUzRtZWg5QnUxamQwdE5Zb0VSSmtoYWJua0NKT1VsU2xmZUxjQUE?oc=5",
+   "outlet": "talkSPORT",
+   "published": "2026-11-24T18:23:12Z",
+   "summary": "",
+   "via": "gn"
+  },
+  {
+   "key": "7f0e9014430bf78c",
+   "desk": "united",
+   "source_id": "athletic",
+   "source": "The Athletic",
+   "tier": 2,
+   "side": null,
+   "status": "Keep",
+   "paywall": true,
+   "first_seen": "2026-11-24T21:38:07Z",
+   "title": "Pochettino urges Man Utd to reverse shock transfer call which affected Carrick",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUjhwamJfQ1VPZ0xzSHhZcEZycm5hSnZkOWpxLThpQk5YVk56TUF2ZVZTY1BiazY4cWFnMEhKTlRqN1FVSlhkXzc1N09mLXVkTEJZMnlXWEJmYkJJcU5IOTFSNlB3enlfU29HN19RM2RNS0RXbFlfYjZyS0NtR2JQSXZBWHRlNDlDOXBYNmJwZFpuZGxXMF9vOWVncjg2MXdVS29fSmZRYUtIT1dnMUw5WmNjcjdkSkhTQjlWYi1DbDJZR2JMUE5zazV2NWhXTjNCeHhMcjhzUnZWYXVGZFpKdGlrM3pGa19RcVlB?oc=5",
+   "outlet": "LiveScore",
+   "published": "2026-11-24T12:27:23Z",
+   "summary": "",
+   "via": "gn"
+  },
+  {
+   "key": "9c558459be48f439",
+   "desk": "united",
+   "source_id": "athletic",
+   "source": "The Athletic",
+   "tier": 2,
+   "side": null,
+   "status": "Keep",
+   "paywall": true,
+   "first_seen": "2026-11-24T21:38:07Z",
+   "title": "Bruno Fernandes reveals reason for not extending contract with Man United",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONjBHUTFIazdsTXNIMG4zM0R1V0lXYXN5cWY2cGVaNG1DQzJIYzZteTJzRDVlLWZSbEZ5TnVzOHdlbE1KTDZVMHdnXzYyWllhMElKbXFydl83b3ptN0hHVWg3U1A4ZVZmSjFVejJVbmIzdHRvXzJoeWo0V3VqUEZKNzFJd2NIOTFKZG5lVllTT01tMGJmS3ZZb294NzVwVy0xT2Eta2p5QlRrQk9CUWhVMFQtcmJHelI3LWc?oc=5",
+   "outlet": "Laodong.vn",
+   "published": "2026-11-24T07:39:56Z",
+   "summary": "",
+   "via": "gn"
+  },
+  {
+   "key": "00c10b09ff6dacd4",
+   "desk": "world",
+   "source_id": "australian",
+   "source": "The Australian",
+   "tier": 3,
+   "side": "R",
+   "status": "Keep",
+   "paywall": true,
+   "first_seen": "2026-11-24T21:38:07Z",
+   "title": "Solomon Islands to end China security pact as it prepares to sign landmark treaty with Australia",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQTUVQVk0wUTBtNkFGWXFKOHNXSFhvSkxFa0ZObXVXMFM5ZjJzQUpSRlF1MHV2ZE1XMVh4ZFRjNm5pTk1OZUFfaXBqUmR3eTVnU1RxQWFlQ1NtQ2Y3VVNubVBEczVncUFaeDgtN0Nwc19UMldmNS15TEdfNkVyUVcwRTBqTl95MzFoSWRkd29QejcwZkhRQTBlQktydEFVdVo1Q2EyUHNIRWdkOEU3a2cybDJyZWJYUnBnZ2lHOU1KcjhjOWEwY1I4SlhDUVZIZFo2MVhSNlVlZFNEanMwREhzUWtSWW90LWlSd0VFOWZsbXgtdmdSMnZyWnRPRkVycUd4OVJR?oc=5",
+   "outlet": "The Australian",
+   "published": "2026-11-24T08:59:04Z",
+   "summary": "",
+   "via": "gn"
+  },
+  {
+   "key": "55a27d8ccb50fe28",
+   "desk": "world",
+   "source_id": "australian",
+   "source": "The Australian",
+   "tier": 3,
+   "side": "R",
+   "status": "Keep",
+   "paywall": true,
+   "first_seen": "2026-11-24T21:38:07Z",
+   "title": "New Zealand labelled ‘hostile’ to Jews as ‘Free Palestine’ is scrawled everywhere",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORi1Zdkl0UTNHdVYwSFBEOUotMVZVYXVCZGRVZ0lVY0NZUElLQUpGd0ZxOEk0ZmxZbHo5dXpBTGxFLWhPMlVocXZ4SjJiOWt1OG0wOFVockdXOFQzQWhoalNHLUdDeG1HZGViTWJFaDZNVGtuT1JRSXoySVdJUjlHWFFycjIxaHUzQ1NtOFZmV09xaFliY2pyY1FxUDJoU0R5SlktclB1c2JSZ0FVMWRPTi1Wd1lNVk85SkNPcHJobEx4QnlMNERzVS1ETGJIc2FhaU9WZDRsTlRRYjBIYVphdzZTTWFvTV9QQnc?oc=5",
+   "outlet": "The Australian",
+   "published": "2026-11-24T08:48:17Z",
+   "summary": "",
+   "via": "gn"
+  },
+  {
+   "key": "37b9d7a268ed73df",
+   "desk": "world",
+   "source_id": "australian",
+   "source": "The Australian",
+   "tier": 3,
+   "side": "R",
+   "status": "Keep",
+   "paywall": true,
+   "first_seen": "2026-11-24T21:38:07Z",
+   "title": "Josh Barnes",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VZ0VMZUxiNkJnTG1QbmY3dGVUZjVid2FxWUJyUE40aVpRcGpIU1A1TXdQUk9lWV9iZF80S01QcE13Mml0UTYxRVdRWEMwT2ZUR3lXeExZWmVvT2hDZUktNkRVc2hzY2xzYUhGdA?oc=5",
+   "outlet": "The Australian",
+   "published": "2026-11-24T11:20:26Z",
+   "summary": "",
+   "via": "gn"
+  },
+  {
+   "key": "b886efdebfabd4f4",
+   "desk": "health",
+   "source_id": "cochrane",
+   "source": "Cochrane",
+   "tier": 1,
+   "side": null,
+   "status": "Keep",
+   "paywall": false,
+   "first_seen": "2026-11-24T21:38:07Z",
+   "title": "California Department of Health Wants You in a Mask This Thanksgiving",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb2RMZnZsdktBNGJCcGFnSlZyT3RoaXp1TzJPbE9zLTlvR04yUHk0TFdwZUN0Q250d0x3Y21heFJ3Z0N5NVpkck5OVnhiUGp2Y1RPcEpGa2lNN05valQtVm9OekNZd3pGM0U5aUZHeVZLcGZCQURKV3dnOTVMTVRhLUd0bjhSdG5BRFlJMk1XeG1jYjNkQ2NqRlYyRElTdkFfazdr?oc=5",
+   "outlet": "California Globe",
+   "published": "2026-11-24T16:37:10Z",
+   "summary": "",
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://californiaglobe.com/fr/california-department-of-health-wants-you-in-a-mask-this-thanksgiving/",
+   "article": "data/articles/b886efdebfabd4f4.txt"
+  },
+  {
+   "key": "0bb81fbe6be19afb",
+   "desk": "united",
+   "source_id": "men",
+   "source": "Manchester Evening News",
+   "tier": 2,
+   "side": null,
+   "status": "Unsure",
+   "paywall": false,
+   "first_seen": "2026-11-24T21:38:07Z",
+   "title": "Police probe suspected robberies at Co-Op Live after gas incident sparks chaos at Don Toliver gig",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQjNDUFdVUC1SeWVVZ3dzRVdJYVBRTEpfMDVIUW55aS1IZG5EOUloNTdQOGF2bmxiTHhqTUgyeEdWRW9LUFl1NEVGczMxZHo5cTFnV09GMDhHcVIzaUFXenVZYU5TMUtoTm9KczZkS1RHRUFiUHcwUVJ0T0wzaGhpWkc5eVppOWhVVWppSUpOUjJ6QnNXZ1htTllfSTJSR20tTXpmS3lPakxrc09YSzczRnE1ONIBuAFBVV95cUxOWGNtdlJ4Q3NJUVpFcld6Sl83a2xoSjZNZDVpVU1UMUZ4azJ5UGk5bkdXd3F3eTlYdjRtYzk1ZzI5S3VFbU5reDVlcmVJSjVuRlMwcHc1RnJuMkpzTUJSTFRYeGYxNkw0S1VEc0puWU0yX2dTaHpnMlVwYjktNWJrNzgzazZzSk1yQWF5cTNoSjA5eTVXTEFfQXE2V2dBdlkzN1c1Umk2a3NhQnNUbUhjSklOUU0yU3p5?oc=5",
+   "outlet": "Manchester Evening News",
+   "published": "2026-11-24T18:31:00Z",
+   "summary": "",
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/police-probe-suspected-robberies-co-34961257",
+   "article": "data/articles/0bb81fbe6be19afb.txt"
+  },
+  {
+   "key": "19f15a17641ba7e6",
+   "desk": "united",
+   "source_id": "men",
+   "source": "Manchester Evening News",
+   "tier": 2,
+   "side": null,
+   "status": "Unsure",
+   "paywall": false,
+   "first_seen": "2026-11-24T21:38:07Z",
+   "title": "M61 shut in both directions after serious crash",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcTMzbXNZc1BPek5JbzFZM0RlcUxHOXJBTmRJQnB4cHRQbU5MOUdpdFF4UEZqVTNHeGUyUDBJSG52cUx4WFZLZEk2YlMxa1ZPRHliSG9uTHhPVURLVHJDZTJvdFZoaUYtSUdVc1ZhM3pldERNRnJJNi1lYkhlTS1qZklfUWlrZ0Q4NjNMUjUzV0JrX3d6V1liVnRsdmU4MTZEcmlEa1c0Wm40Z3lV?oc=5",
+   "outlet": "Manchester Evening News",
+   "published": "2026-11-24T19:50:29Z",
+   "summary": "",
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/m61-traffic-live-serious-crash-34961411",
+   "article": "data/articles/19f15a17641ba7e6.txt"
+  },
+  {
+   "key": "e07b1ec0e6fa679b",
+   "desk": "world",
+   "source_id": "ons",
+   "source": "ONS / OBR",
+   "tier": 1,
+   "side": null,
+   "status": "Keep",
+   "paywall": false,
+   "first_seen": "2026-11-24T21:38:07Z",
+   "title": "Internet retail sales by sector, Great Britain: up to October 2026",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOEwzTlJ1VHNqMkM0M2F0YWIxNnNVdUxpejZ3ZHZiNHRVcmFrVVJZZ3hxLURYSVR1WUFRZUYxZWFnOTdIQUhudVdMMEdfeDJwZUxIbHRHeTIxUEVVYXl1TVVnVTRiV2RlY3F3cFBDMFE0S05rTFNBOFdhakNNYjd2RDNSRUg1M004by1ONWpKQUZTcV9Kdms2R1ZPSkw0SG9HS0VGa2J6a0h4VXNkMTVQNE5nZ3dMN2Y1RTA5eEE2blVJV2U2VEEw?oc=5",
+   "outlet": "Office for National Statistics",
+   "published": "2026-11-24T19:43:38Z",
+   "summary": "",
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.ons.gov.uk/businessindustryandtrade/retailindustry/adhocs/3747internetretailsalesbysectorgreatbritainuptooctober2026"
+  },
+  {
+   "key": "dd5ed5f8384788f7",
+   "desk": "business",
+   "source_id": "ppcland",
+   "source": "PPC Land / Search Engine Land",
+   "tier": 2,
+   "side": null,
+   "status": "Unsure",
+   "paywall": false,
+   "first_seen": "2026-11-24T21:38:07Z",
+   "title": "Character.ai's banker wins court approval for its $1.75m sale fee",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeG1paDdodUhUSXJSUzRHTGI2ekJTcmJnVTNFcmFxU0lHU3p0eU9xQ2lVeWo3OEp4LVFWdm1DbVdnRUw2REpISlVJNTE1WmN1S1k2S3ZTVnJwM2pERUJFcHFsNzU0UEJTNDZCRlZENmhqb3o1WjNwTExQQ2pPQ1FrSnRLeUphbkVU?oc=5",
+   "outlet": "PPC Land",
+   "published": "2026-11-24T00:55:44Z",
+   "summary": "",
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://ppc.land/character-ais-banker-wins-court-approval-for-its-1-75m-sale-fee/",
+   "article": "data/articles/dd5ed5f8384788f7.txt"
+  },
+  {
+   "key": "44a129d40cefb51d",
+   "desk": "world",
+   "source_id": "reuters",
+   "source": "Reuters",
+   "tier": 1,
+   "side": null,
+   "status": "Keep",
+   "paywall": false,
+   "first_seen": "2026-11-24T21:38:07Z",
+   "title": "China's Huawei convicted in sprawling US criminal trial over Iran business",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSmhBaGpBTEdjQXR4UmRuMy1KVWY0anJiNkxHQ2NVTjBFbWc4RE5MRk5KU1lzZ1BKMVNKVUNRV3hlRmxtYWc0cmlpSlAxWkJDXzBhdjFqY0RfbE54clBNU1hDODJjbEk2ZENVMWtuM3F6VVZjWGpDZXNhZGowZW1UNUlLWGJSU0tYbXhlYU8xRkYweTJrd1JsM0pDdzd3UkM1ZkpTSXdHYTkxQjNzNlhfU2pTcXExSlFJ?oc=5",
+   "outlet": "Reuters",
+   "published": "2026-11-24T20:53:41Z",
+   "summary": "",
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.reuters.com/legal/litigation/chinas-huawei-convicted-us-criminal-trial-stemming-iran-business-2026-11-24/"
+  },
+  {
+   "key": "416292f618e37252",
+   "desk": "world",
+   "source_id": "reuters",
+   "source": "Reuters",
+   "tier": 1,
+   "side": null,
+   "status": "Keep",
+   "paywall": false,
+   "first_seen": "2026-11-24T21:38:07Z",
+   "title": "WHO chief calls on US to lift oil blockade on Cuba, citing health impact",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQenFOcnIxTVk4RGhvcVZBTzl5NFpZWGIzWnYtai1QdEVicGl5bjR5N2IzZzUtUVdvdldyMHM3NzVkclUtVl9UZmVrTXZEd0o2Tjh3QWJpemNwaVF3R3JtZzFVQnpGdHppMFM1Tl8zZ1hjNEJ0S2xoRlpjenhXRjR0czItcWRBcEVXZE04VG9qQ2FnYl9GWW1Ydjk2OUFycnVhcm4zeGRCZHVwT1h3aDZXODlaX3Vqdw?oc=5",
+   "outlet": "Reuters",
+   "published": "2026-11-24T19:27:43Z",
+   "summary": "",
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.reuters.com/legal/government/who-chief-calls-us-lift-oil-blockade-cuba-citing-health-impact-2026-11-24/"
+  },
+  {
+   "key": "b88e5841cd4b9563",
+   "desk": "gaming",
+   "source_id": "rockstar",
+   "source": "Rockstar Newswire",
+   "tier": 1,
+   "side": null,
+   "status": "Keep",
+   "paywall": false,
+   "first_seen": "2026-11-24T21:38:07Z",
+   "title": "'Grand Theft Auto VI': First Impressions",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMGhlTG5GZ01ZM0Z4MHFCd0E4UHhDMEctX0J5MEViZmNHRGZxem81bHRUTmVGQnRDVzVtNFkyUUw2UXlKWHZjY2NSNUJQRVI4N1N4NllSY1VwQ3VPUHc4YnJQaV9VWVhRdzZzYXNiQklwNVlBMUdFdUlKX0FfeGlRRU5id1lrQQ?oc=5",
+   "outlet": "Yahoo Tech",
+   "published": "2026-11-24T17:47:40Z",
+   "summary": "",
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://tech.yahoo.com/gaming/articles/grand-theft-auto-vi-first-174740712.html",
+   "article": "data/articles/b88e5841cd4b9563.txt"
+  },
+  {
+   "key": "290ef5cc50253ff1",
+   "desk": "gaming",
+   "source_id": "rockstar",
+   "source": "Rockstar Newswire",
+   "tier": 1,
+   "side": null,
+   "status": "Keep",
+   "paywall": false,
+   "first_seen": "2026-11-24T21:38:07Z",
+   "title": "10 Games to Play While Waiting for GTA VI to Go on Sale",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQzlXX09tTGdwbUxpbF9DRmFQdUlQdnRRV1NxczM2VW5WX1ZMblRXUnFPUHlhZ2NBTVhuYlhvNEQ4TGw1THB4YlVwQUljUXptMlhpN05hX2dKTWhKOGVZTXdSTjFOX0JJQ0F0UEdmOTF2Tm1nSmFjWWtTYWJ5aFFNaGxPWkNxNVRHUXc?oc=5",
+   "outlet": "DualShockers",
+   "published": "2026-11-24T21:30:00Z",
+   "summary": "",
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.dualshockers.com/games-to-play-while-waiting-for-gta-vi-to-go-on-sale/",
+   "article": "data/articles/290ef5cc50253ff1.txt"
+  },
+  {
+   "key": "1e57447e9f7d17ff",
+   "desk": "gaming",
+   "source_id": "rockstar",
+   "source": "Rockstar Newswire",
+   "tier": 1,
+   "side": null,
+   "status": "Keep",
+   "paywall": false,
+   "first_seen": "2026-11-24T21:38:07Z",
+   "title": "Grand Theft Auto 6 Players Point Out Major Flaw with Jason and Lucia",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdlNLTW43MzVFNHNVNXJQMVl1cmhibnFYc1NRU1RRUnNObG9UVUlUZUt6WlNSRWhBRjB4ejhfT0ppblJVM2tJcGY3Tm0tcDVIeHQ4THlKVHhvVTVzTVFPX0tCbmJkZ3lYQm9YSElOaXl2VFVDT0F6NmtNSHktNWt6dVlWWGJDYS1XdzMtaFQ5UmFweUFVMTFZVlF2bTRfMjN4NGg5YQ?oc=5",
+   "outlet": "OpenCritic",
+   "published": "2026-11-24T21:15:44Z",
+   "summary": "",
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://opencritic.com/news/40280/grand-theft-auto-6-players-point-out-major-flaw-with-jason-and-lucia",
+   "article": "data/articles/1e57447e9f7d17ff.txt"
+  },
+  {
+   "key": "a1ef0148e05329e1",
+   "desk": "tradetech",
+   "source_id": "techwatch",
+   "source": "Trading tech search",
+   "tier": 1,
+   "side": null,
+   "status": "Keep",
+   "paywall": false,
+   "first_seen": "2026-11-24T21:38:07Z",
+   "title": "Nasdaq short interest up 0.4% in early November",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU3ZSUjBFWFpjMkRxUzRvX056MVpySFA2ZVBidVpOb01lbnhYSzRWMDBGeTNQWmdDdVZsYWl1c0VtSVdJOS1XR01HQkwxZklzekV1elJIZ2xMMnpRZ1FHZGJGTnZmQVRuZlVfUWttMkhqLW9mV1FNcURRV1hTTW45Q1pWTUdaTy1lUXNhSzY0VnVTRWc0Y1hmQ1BkajZndjFaN0c3bXZtRlJLSmlpNGluNUpZLTVCVGFFMTdKVVdXYw?oc=5",
+   "outlet": "TradingView",
+   "published": "2026-11-24T21:10:49Z",
+   "summary": "",
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.tradingview.com/news/reuters.com,2026-11-24:newsml_AQN2MV21S:0-nasdaq-short-interest-up-0-4-in-early-november/"
+  },
+  {
+   "key": "59aa308a6b448cbe",
+   "desk": "tradetech",
+   "source_id": "techwatch",
+   "source": "Trading tech search",
+   "tier": 1,
+   "side": null,
+   "status": "Keep",
+   "paywall": false,
+   "first_seen": "2026-11-24T21:38:07Z",
+   "title": "Insight Molecular Diagnostics expands CFO's role to COO",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS1Q5RGFmcWNlMl81R0hJTTBXcVNvQkY4a1NLQ0psSDhfQTBEN01MSzFfRTBzLXlBZklJeUs4U29OMXBJbEZMOVdPYjJFTXRSdkZING9USWZxdE16YUZUZmpUT19hZTktbENNZEpuWEVqaVNla2VyY1MzNm5NTmMyZDc3akxPQkhFdEVxNGktR0ZjNi1rRUp3Qm9XVWRQNVd1U2FlUkhmRWhlWFU1WjNZOExudE1BUU50SUE?oc=5",
+   "outlet": "TradingView",
+   "published": "2026-11-24T21:08:16Z",
+   "summary": "",
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.tradingview.com/news/seekingalpha:21913445b094b:0-insight-molecular-diagnostics-expands-cfo-s-role-to-coo/",
+   "article": "data/articles/59aa308a6b448cbe.txt"
+  },
+  {
+   "key": "ca8005c8a5ed1980",
+   "desk": "tradetech",
+   "source_id": "techwatch",
+   "source": "Trading tech search",
+   "tier": 1,
+   "side": null,
+   "status": "Keep",
+   "paywall": false,
+   "first_seen": "2026-11-24T21:38:07Z",
+   "title": "Winchester Bancorp amends deferred compensation agreements for John A. Carroll and Elda Heller",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRmJLdWZwUHJJQjVhZ21waFdHVnNNOVkyZHhzdUtEZmRrVk9mTUpJejlZZlBzdEFWYVBXcHdpQ05ZOS1GRkFsckg4Y1V3MkNZZ05RVHFqOEFmVGIzMGZFTkxJVThsdTJxdUNmbzdSMC1SaWlLek15TWFGS2FaYWt6eFBDdm1XUzNxUllFMW5EZU91QktBampmZ3FhTWtCSVB4YVdiTG9ZVE5obV94TTBpMnp2bmtMNDNYQ0huc3ZDUWdXcnVUcGhFdmN5aDIzS19MT0NrOWFDaUFfSVQzR0JiTWJMTTRfMFhpVXlv?oc=5",
+   "outlet": "TradingView",
+   "published": "2026-11-24T20:53:15Z",
+   "summary": "",
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.tradingview.com/news/tradingview:84816f3047535:0-winchester-bancorp-amends-deferred-compensation-agreements-for-john-a-carroll-and-elda-heller/",
+   "article": "data/articles/ca8005c8a5ed1980.txt"
+  },
+  {
+   "key": "d70acbfa6576a4eb",
+   "desk": "tradetech",
+   "source_id": "techwatch",
+   "source": "Trading tech search",
+   "tier": 1,
+   "side": null,
+   "status": "Keep",
+   "paywall": false,
+   "first_seen": "2026-11-24T21:38:07Z",
+   "title": "Burlington 4Q 2026: Revenue $2.94B, EPS $1.67 — 10-Q Summary",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY2ZRa1pWV25nRmJ4Y0dhdEFERFRpRzV5b2dWUHR1WVZ2bklsZ1RJT0JxVF9EVThNSklWRnBTM25PUld2dVAzd09Mb1F0bGM2ZHJfSy1SM2pzT2d3TGxBSl9QS0l5ZFB3ZHF5cWtpZ202eHRTd1p6eEl2RHdvdTMyX2VvdlcxNy1OZThjVG00RUhJOXU1Y3h4WVRNSzMzNmlZNno1Z0doRE0ySTlOMDJuVzVwQlFHbnc?oc=5",
+   "outlet": "TradingView",
+   "published": "2026-11-24T21:21:01Z",
+   "summary": "",
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.tradingview.com/news/tradingview:a2ce91ac2981e:0-burlington-4q-2026-revenue-2-94b-eps-1-67-10-q-summary/",
+   "article": "data/articles/d70acbfa6576a4eb.txt"
+  },
+  {
+   "key": "7957a6fbfc236006",
+   "desk": "tradetech",
+   "source_id": "techwatch",
+   "source": "Trading tech search",
+   "tier": 1,
+   "side": null,
+   "status": "Keep",
+   "paywall": false,
+   "first_seen": "2026-11-24T21:38:07Z",
+   "title": "HF Sinclair Corporation Stock 12‑Month Price Target Cut to $120.07, Implies 38% Upside",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONzU3bDV4YWFmSDVNNW1tZTNqdjdYajBuLVNvRXlibzVFN0ZNdnQtNHhvSGRpR1NWUUJFQU9QcVVJTW9VaGVmUEJOakdwSkQycXJPVThBLUk2XzFxaURxZTQ3M3k3aEh3SENlNWp0SUNocW1yVFRvc0ZKXzB6XzlOSjNINF9rVGd3T3RLR0xNNlFHRERqT2ZYTzdSX2Fjb0Z6N3ZqaWhvdVoxZUhkYnVVWjBacTFxLTdtRmhQSFdPRlRqa1E1WkFxWlRMaUltcFZJcS1FSGoxX05XNDgzVnc?oc=5",
+   "outlet": "TradingView",
+   "published": "2026-11-24T19:20:00Z",
+   "summary": "",
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.tradingview.com/news/tradingview:6a207b91b667d:0-hf-sinclair-corporation-stock-12-month-price-target-cut-to-120-07-implies-38-upside/",
+   "article": "data/articles/7957a6fbfc236006.txt"
+  },
+  {
+   "key": "db69a7b4229d6b46",
+   "desk": "tradetech",
+   "source_id": "techwatch",
+   "source": "Trading tech search",
+   "tier": 1,
+   "side": null,
+   "status": "Keep",
+   "paywall": false,
+   "first_seen": "2026-11-24T21:38:07Z",
+   "title": "Ambarella Reports $115.2 Million Revenue, $12.7 Million GAAP Net Loss",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeE5wTnpKWVpLQmt4TjIxRDVYenZ1S25KVnZYR0FHWFNOR09vUWttNlJ5Zkg1M3dYc3VBSUM5M1FvYm5uT3JhZGJOZjh2N0d3cmlqbHUtbXdodE43LWlaZUJUMHBzUXZSNXlBX3FFVEJEeWJkblFwdlJONHVaMGxFWHRkQnVrRmRoQmhTSDZoRmZGb0hydi1Va1p1b0c3SzFVeFpUSTF1TDB4OXpqazNOejQxTDVDLWxmeVdxQW0yYWliT291alhj?oc=5",
+   "outlet": "TradingView",
+   "published": "2026-11-24T21:23:00Z",
+   "summary": "",
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.tradingview.com/news/tradingview:44fc8f3bbb557:0-ambarella-reports-115-2-million-revenue-12-7-million-gaap-net-loss/",
+   "article": "data/articles/db69a7b4229d6b46.txt"
+  },
+  {
+   "key": "7ada5a94efaa39a3",
+   "desk": "ai",
+   "source_id": "topic-ai-2",
+   "source": "Topic search",
+   "tier": 2,
+   "side": null,
+   "status": "Keep",
+   "paywall": false,
+   "first_seen": "2026-11-24T21:38:07Z",
+   "title": "Signal Moves to Block AI Agents",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00cE8ydHcyVlZmaS1vbnR1bnl5U1MycnhQb0dfUWgzNHEzNnZqWWFKcUVXOEg5N1VVaF9vckN2aHI3VHAxNHhDWUVxcUltWDNrb3lLRlpxVG9jRUhHRS1tNHZfZEVrQ0o0Rmp4M1A1LVduTmM?oc=5",
+   "outlet": "Electronic Frontier Foundation",
+   "published": "2026-11-24T19:43:49Z",
+   "summary": "",
+   "via": "gn"
+  },
+  {
+   "key": "884b5abb91c815c4",
+   "desk": "ai",
+   "source_id": "topic-ai-2",
+   "source": "Topic search",
+   "tier": 2,
+   "side": null,
+   "status": "Keep",
+   "paywall": false,
+   "first_seen": "2026-11-24T21:38:07Z",
+   "title": "Even the best AI agents struggle with everyday life",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaUpPVFFPTnhESWdjcjQ0NVZaOU9EV2JJaWZjS21OOFBYQUUwZlVNU3FBdXlZZExqb0puYk1ocG9yTEZPZkJXV1NVUm9hYTdJN0MwQktWRE5DZkFzMkp5eG4wdDdoRGp0Q3hqeWhUazRLMVJaTHlaSl9saUJkRDNpLTNRX21wM21ocWJRRVhfWQ?oc=5",
+   "outlet": "TechCrunch",
+   "published": "2026-11-24T21:33:29Z",
+   "summary": "",
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+   "article": "data/articles/884b5abb91c815c4.txt"
+  },
+  {
+   "key": "327900c3e52eb808",
+   "desk": "ai",
+   "source_id": "topic-ai-2",
+   "source": "Topic search",
+   "tier": 2,
+   "side": null,
+   "status": "Keep",
+   "paywall": false,
+   "first_seen": "2026-11-24T21:38:07Z",
+   "title": "Set These Limits As Visa Brings AI Agents Closer To Managing Your Money",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWUppMFBnT0VrdmpNcm5PUlFzVjhTd01HV2ctNk54T2M4My1GclpTdjFqMnVfOWphS3VvUm5BbnNrTjdDbnFCTVJ5X2lQejF6Nk41dUk3ckpCM2xYdHBHa3BCV2dFQmhxeXJ2aFhjOFZHSlgyVjhVcmRSRXZZejNkY3JNQzFGNEZUTDZxVWZBMy04RG9EZXhXbkdZaG1BRjg4UW4yMV9tczh6bV9MRXJTVUF6dw?oc=5",
+   "outlet": "Forbes",
+   "published": "2026-11-24T21:19:14Z",
+   "summary": "",
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.forbes.com/sites/murtuza-merchant/2026/11/24/ai-agents-now-earn-money-for-you-set-these-limits-first/"
+  },
+  {
+   "key": "84b6a8b599db2738",
+   "desk": "ai",
+   "source_id": "topic-ai-2",
+   "source": "Topic search",
+   "tier": 2,
+   "side": null,
+   "status": "Keep",
+   "paywall": false,
+   "first_seen": "2026-11-24T21:38:07Z",
+   "title": "Anthropic is now testing the rogue AI agents by tempting them",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUk1ZdDZmRzkwLVpya1Fzd084QVB1NFA4NlpLS0lOSTN3cXBaX0Q2Ym5nQk0tcVlWek5zZnhlY2xRSUNBUnZKNmVFMHhzRFRiZ2YxWFBLYmhIMjNLWDJJX3Y3U0xGS2FCTklvaVZJTXRDcnhpcERKVlVTcHE3dU9xekdnNlZTODc3b1VkUk5jVUNDbTdtUVhGQ2tUWlExY1VMYjBrYg?oc=5",
+   "outlet": "Digital Trends",
+   "published": "2026-11-24T21:33:37Z",
+   "summary": "",
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.digitaltrends.com/cool-tech/anthropic-is-now-testing-the-rogue-ai-agents-by-tempting-them/",
+   "article": "data/articles/84b6a8b599db2738.txt"
+  },
+  {
+   "key": "5a745f0575c5ca7a",
+   "desk": "ai",
+   "source_id": "topic-ai-2",
+   "source": "Topic search",
+   "tier": 2,
+   "side": null,
+   "status": "Keep",
+   "paywall": false,
+   "first_seen": "2026-11-24T21:38:07Z",
+   "title": "Google’s 2027 Nest and Gemini Deadlines: What Owners Need to Do",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tVW9VR1ZON1NDVVFzOXo2MTZEdGVGd1pMM0ZvaENyLW00WmtXenUyY0xaT1pCTVhVaVpmdUtldnFOUXdFQV9iZEIwZjY2dThrN3dxQ3pQSHZaS3AzSkZXZ1BMZHFVZk03N1MwQ1ZCdjFFTHRkMnc?oc=5",
+   "outlet": "TechRepublic",
+   "published": "2026-11-24T17:02:58Z",
+   "summary": "",
+   "via": "gn"
+  },
+  {
+   "key": "a003c391e7ec61e6",
+   "desk": "gaming",
+   "source_id": "topic-gaming-1",
+   "source": "Topic search",
+   "tier": 2,
+   "side": null,
+   "status": "Keep",
+   "paywall": false,
+   "first_seen": "2026-11-24T21:38:07Z",
+   "title": "How to Get Jason & Lucia’s Relationship to Max Level in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjRWJMWEZVY3lDM3B1U1VQbktRcHpxcFJ1dGs0N1RmZFNEcGJHalhjbHBfV05aU1NFdFBlNFotQ3B5eXMyZld3Yk5kRkxBVjZOUmNFbkRFdVFCc0dRRWxiMlBKdzJDcW9INlFYZmh3UQ?oc=5",
+   "outlet": "Insider Gaming",
+   "published": "2026-11-24T21:25:12Z",
+   "summary": "",
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://insider-gaming.com/jason-lucia-relationship-max-gta-6/",
+   "article": "data/articles/a003c391e7ec61e6.txt"
   }
  ]
 }

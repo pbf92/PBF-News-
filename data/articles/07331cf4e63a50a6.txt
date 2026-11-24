@@ -1,0 +1,43 @@
+URL: https://www.eurekalert.org/news-releases/1153247
+TITLE: COVID-19 vaccine mRNA and spike examined for potential effects on tumor signaling
+OUTLET: EurekAlert!
+
+“At present, there is no formal evidence of the association between COVID-19 mRNA vaccines and the formation/development of tumors.”
+BUFFALO, NY - November 24, 2026 – A new research perspective was published in Volume 17 of Oncotarget on November 18, 2026, titled “COVID-19 vaccine mRNA and Spike induce cell signaling pathways favoring the growth of tumor cells.”
+The paper explores how messenger RNA (mRNA) used in COVID-19 vaccines and the SARS-CoV-2 Spike protein may influence cellular signaling pathways involved in cancer development and progression. Drawing on previously published research, the author examines potential biological mechanisms that warrant further investigation while acknowledging that a causal link between COVID-19 vaccination and cancer has not been established.
+The research perspective was authored by Maurizio Federico, who is also the corresponding author, affiliated with the National Center for Global Health at the Istituto Superiore di Sanità in Rome, Italy.
+COVID-19 mRNA vaccines work by delivering genetic instructions that allow cells to produce the SARS-CoV-2 Spike protein, triggering an immune response. Beyond this intended effect, both synthetic mRNA and Spike proteins can interact with cellular signaling pathways that regulate inflammation, immune activity and cell behavior.
+The perspective examines how these interactions might influence processes associated with tumor growth. One focus is PD-L1, an immune checkpoint protein that can help cancer cells evade immune surveillance. The author discusses studies reporting changes in PD-L1 expression following mRNA vaccination and considers how these responses might affect tumor immunity.
+Another focus is transforming growth factor-beta (TGF-β), a signaling molecule involved in immune regulation and cancer progression. Experimental studies involving Spike protein have reported increased TGF-β signaling, which may affect cellular processes associated with tumor growth and invasion.
+The paper also explores how Spike-related signaling could influence the activity of cytotoxic T cells, which help recognize and eliminate abnormal cells. These proposed mechanisms raise questions about how different immune and cellular responses might interact within the tumor microenvironment.
+“In sum, these findings support the hypothesis that synthetic mRNA can stimulate cell signaling pathways leading to a functionally relevant innate immune response.”
+The author further reviews experimental findings involving signaling pathways such as NF-κB, ERK and AKT, which regulate cell growth, survival and inflammation. Some laboratory studies have reported changes in cancer cell behavior following exposure to Spike protein, although these observations do not establish that vaccination produces the same effects in patients.
+Importantly, the perspective does not present new clinical trial results or demonstrate that COVID-19 vaccination causes cancer. Many of the discussed mechanisms come from cell-based experiments or studies involving isolated Spike protein, and their clinical relevance remains uncertain. The author also acknowledges limitations in observational studies examining possible associations between vaccination and cancer outcomes.
+Overall, the perspective brings together research on how synthetic mRNA and Spike proteins affect cellular signaling and raises questions for future investigation. Further experimental and long-term clinical studies would be needed to determine whether the proposed mechanisms have meaningful implications for cancer development or progression.
+DOI: https://doi.org/10.18632/oncotarget.28927
+Correspondence to: Maurizio Federico - federicomaurizio2@gmail.com (ORCID 0000-0003-4154-1025)
+Keywords: COVID-19 mRNA vaccines, cell signaling, tumor cells, PD-L1, TGF-β
+Click here to sign up for free Altmetric alerts about this article.
+________
+To learn more about the journal, visit Oncotarget.com and connect with us on social media:
+X
+Facebook
+YouTube
+Instagram
+LinkedIn
+Pinterest
+Spotify, and available wherever you listen to podcasts
+Click here to subscribe to Oncotarget publication updates.
+For media inquiries, please contact media@impactjournals.com.
+Journal
+Oncotarget
+Method of Research
+News article
+Subject of Research
+Cells
+Article Title
+COVID-19 vaccine mRNA and Spike induce cell signaling pathways favoring the growth of tumor cells
+Article Publication Date
+18-Nov-2026
+COI Statement
+Author has no conflicts of interest to declare.

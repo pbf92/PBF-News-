@@ -1,0 +1,29 @@
+URL: https://www.eurekalert.org/news-releases/1152752
+TITLE: Outsmarting deadly fungi: South African researchers identify promising strategy against emerging fungal infections
+OUTLET: EurekAlert!
+
+By targeting the biological processes that determine fungal virulence, microbiologists from Stellenbosch University are suggesting a promising new strategy for combatting emerging fungal infections.
+In 2022, the World Health Organisation (WHO) published the first-ever list of fungal “priority pathogens” – a catalogue of 19 fungi that represent the greatest threat to public health. Fungal disease is a serious yet neglected public health concern, especially in patients with compromised immune systems, including those with cancer, HIV/AIDS, organ transplants, chronic respiratory disease, and post-primary tuberculosis infection.
+The increasing threat is largely attributed to a rise in global temperatures, and the misuse of antifungals in healthcare and agricultural sectors. As global temperatures increase, fungi are adapting to become more thermotolerant. This evolution makes them better suited to survive the naturally high body temperatures of mammals, breaking down one of our primary defenses against fungal infections.
+Outsmarting the fungi
+In a review article published in Clinical Microbiology Reviews, Prof. Alf Botha from Stellenbosch University’s Department of Microbiology, and Dr Elizaveta Koroleva, a specialist at the Wemmershoek Diagnostic Laboratory, explore how targeting fungal polyamine metabolism could offer a promising frontier against emerging and difficult-to-treat fungal infections.
+Polyamines are small multifunctional biogenic molecules that play key roles in fungal biology and virulence.
+“Drawing on previous studies on pathogenic fungi, as well as our own research, we explore how polyamine metabolism can be targeted in biological contexts where fungi are most dependent on these molecules”, says Dr Koroleva.
+In other words, if you can disrupt basic cell functioning at a time when the fungus needs it most, you hamper its ability to replicate and cause disease.
+Although research into polyamine inhibition strategies has been underway for more than 40 years, single-molecule inhibition has not always translated into clinically viable treatments. By reviewing global literature, the authors identify alternative approaches that may offer greater therapeutic potential.
+Their findings suggest that polyamine inhibition may be particularly effective when fungi produce virulence factors – the biological tools that contribute to disease. One example is hyphae formation in Candida spp., that help them adhere to tissue and evade the immune response. Inhibiting polyamine synthesis disrupts this process. Moreover, combining polyamine inhibitors with established antifungal drugs has also been shown to be more effective than polyamine inhibition on its own.
+“The idea is to inhibit fungal virulence while also interfering with essential cellular functions that the pathogens require,” explains Dr Koroleva.
+The next challenge is finding compounds that disrupt fungal polyamine metabolism without harming healthy human cells. By highlighting both the progress made and remaining hurdles in this relatively underexplored field, the authors hope to stimulate further research towards a new generation of safe and effective antifungal therapies.
+“Identifying new antifungal strategies is becoming increasingly important with the rise of fungal infections and drug resistance among clinically relevant fungi. Polyamine metabolic pathways in fungi represent a viable and underexplored target for antifungal intervention,” they conclude.
+Journal
+Clinical Microbiology Reviews
+Method of Research
+Systematic review
+Subject of Research
+Not applicable
+Article Title
+Polyamine metabolism as a drug target in clinically relevant fungi
+Article Publication Date
+24-Nov-2026
+COI Statement
+None

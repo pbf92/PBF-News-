@@ -1,0 +1,23 @@
+URL: https://www.eurekalert.org/news-releases/1151870
+TITLE: Summer may be best time to test for vitamin D deficiency
+OUTLET: EurekAlert!
+
+Swedish women and men with low vitamin D levels when tested in the summer had a higher risk of bone fractures and death – risks not seen in people with low test results during winter. Hannah Brooke of Uppsala University, Sweden, and colleagues report these findings in a new study published November 24th in the open access journal PLOS Medicine.
+Everyone needs vitamin D, which can be obtained from diet and from exposure to sunlight. About half of women who are middle-aged and older in the U.S. and many European countries regularly take vitamin D supplements, but randomized trials typically have shown no benefits for protecting against bone fractures or death. Researchers wanted to know whether testing people in the summer would be a better way to identify individuals who need supplements.
+In the new study, researchers looked at vitamin D levels in the blood of more than 12,000 older Swedish men and women and followed up about a decade later to see which individuals had died or experienced a bone fracture. When they accounted for other factors, like age, sex, and body size, the researchers found that people who had low vitamin D levels when tested in the summer faced a higher risk of bone fractures and death, compared to people who had high levels during that time. In contrast, people with low levels when tested in the darker months, from January through March, had no increased risk.
+The new findings suggest that summer may be the best time to measure vitamin D levels to identify people who are chronically deficient and would most likely benefit from supplements. Many people in the northern hemisphere have low blood levels when tested in the winter, but can access stores of vitamin D in their fat, which they build up over the sunnier months. The results also offer a potential explanation for why supplementation trials have not shown a clear benefit. The researchers suggest that randomized trials involving people with low summer vitamin D levels should be done to better understand the potential benefits of supplements.
+The authors add, “Low vitamin D levels in summer were strongly linked to an increased risk of death and fracture, while low vitamin D levels in winter were not. This suggests that the timing of vitamin D measurement is crucial when assessing long-term health risk.
+“We should think carefully about when we measure vitamin D. Winter measurements are heavily influenced by seasonal variation, whereas low vitamin D levels during summer are more likely to reflect persistently low vitamin D status and a higher risk of adverse health outcomes.
+“Millions of people take vitamin D supplements, despite limited evidence of broad health benefits. Our findings suggest that a more targeted approach in future trials, focusing on people with low summer vitamin D levels, may be necessary to determine who truly benefits from vitamin D supplements.”
+In your coverage, please use this URL to provide access to the freely available paper in PLOS Medicine: https://plos.io/4z0L8oS 
+Citation: Michaëlsson K, Höijer J, Landberg R, Byberg L, Larsson SC, Svennblad B, et al. (2026) Season of sampling and the relationship of serum 25-hydroxyvitamin D3 with mortality and fracture: A population-based cohort study. PLoS Med 23(11): e1005080. https://doi.org/10.1371/journal.pmed.1005080
+Author countries: Sweden
+Funding: The study was supported by grants from the Swedish Research Council https://www.vr.se/ to KM (grant no 2002-6147, 2005-6662, 2005-8214, 2008-2202, 2011-02427, 2015-03257, 2017-00644, 2017-06100, 2019-01291, 2021-00160, and 2025-03170, grants from the Swedish Research Council for Health, Working Life and Welfare to KM (FORTE https://forte.se/ with grant numbers 2011-0346, and 2017-00721), and annual grants from Avtal om Läkarutbildning och Forskning (ALF; Agreement concerning Cooperation on Medical Education and Research https://www.uu.se/en/disciplinary-domain/medicine-and-pharmacy/collaboration/alf) between Uppsala University and Uppsala County Council to KM. The funding bodies had no role in the study design; in the collection, analysis, and interpretation of data; in the writing of the report; or in the decision to submit the article for publication.
+Journal
+PLOS Medicine
+Method of Research
+Observational study
+Subject of Research
+People
+COI Statement
+Competing interests: The authors have declared that no competing interests exist.

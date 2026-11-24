@@ -1,0 +1,29 @@
+URL: https://finance.yahoo.com/markets/stocks/articles/why-jensen-huangs-nvidia-return-193810591.html
+TITLE: Why Jensen Huang's Nvidia Return Could Hurt Anthropic Stock
+OUTLET: Yahoo Finance
+
+Jensen Huang's return to Nvidia sent its shares soaring roughly 30% on Monday. But Anthropic, whose Claude AI models face growing competition from Nvidia, missed the rally.
+The Nasdaq jumped around 6%, while Anthropic (ANT) slipped 3%. The stock has also fallen from its $97.17 first-day closing price.
+So why could Huang's comeback be bad news for Anthropic investors?
+Why Jensen Huang is Bad News for Anthropic
+Anthropic makes money by charging customers to use Claude. Businesses pay for access but cannot download its models and run them independently.
+Nvidia takes a different approach.
+Its Nemotron AI models are free to download and can run on a company's own computers.
+That could save businesses money on AI subscriptions, although running these models still requires computing resources.
+If more companies choose cheaper alternatives, Anthropic could lose customers or face pressure to lower prices.
+Nvidia has also backed open-model developers, including Reflection AI, Thinking Machines Lab, and Poolside.
+CNBC's David Faber warned Monday that Huang's return could hurt Anthropic because of his support for open-source AI.
+The disagreement goes back months.
+In July, Huang urged Washington against "premature restrictions" on open models. Anthropic refused to sign his letter.
+CEO Dario Amodei later insisted that his company "has never advocated for a ban on open-weights models."
+Nvidia Still Has $10 Billion Riding on Anthropic
+Despite their rivalry, Nvidia invested approximately $10 billion alongside Anthropic's IPO.
+Anthropic also relies on Nvidia's chips, although it is diversifying across other suppliers.
+During IPO week, Amodei described Nvidia as a "long and productive partnership."
+Meanwhile, Nvidia's comeback lifted crypto stocks. Strive gained 15.8%, Strategy rose 12.1%, and Coinbase climbed 7%.
+      "Glad the Board acted before we needed to," said Strive CEO Matt Cole, whose clients hold nearly $100 million in Nvidia shares.
+What Should Anthropic Investors Watch?
+With Morgan Stanley's IPO price support over, investors should watch the $83 offering price.
+Longer term, the bigger question is whether OpenAI models start taking paying customers away from Claude.
+For now, Huang's return increases competitive pressure on Anthropic. Whether that translates into weaker growth remains uncertain.
+Read the Original story Why Jensen Huang's Nvidia Return Could Hurt Anthropic Stock by Lockridge Okoth at beincrypto.com

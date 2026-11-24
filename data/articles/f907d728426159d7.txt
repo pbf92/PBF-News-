@@ -1,0 +1,39 @@
+URL: https://www.eurekalert.org/news-releases/1153272
+TITLE: Stanford Medicine study links a practice’s efficiency to less doctor burnout
+OUTLET: EurekAlert!
+
+When it comes to physician burnout, how you spend your working hours may matter more than how many hours you work.
+A new study led by Stanford Medicine researchers, to publish Nov. 24 in Mayo Clinic Proceedings, found that physicians who perceived their clinical practices as more efficient reported less burnout, greater professional fulfillment and less intention to leave their jobs, regardless of how many hours they worked each week.
+The findings suggest that improving clinical workflows, reducing administrative burdens and making better use of care teams could be important strategies for addressing physician burnout.
+“This is good news if you’re a clinician or a health system administrator and you’re worried about productivity, but you’re also worried about physician well-being,” said Bryan Bohman, MD, associate chief medical officer for Stanford Medicine’s Workforce Health and Wellness and the lead author of the study. “You may not need to ‘balance’ those two goals, one against the other; in fact, our data suggest that you may be able to improve both well-being and productivity by focusing on improving practice efficiency.”
+Not just about hours worked
+The researchers analyzed survey responses from 16,649 physicians at 14 academic health systems across the United States. The survey asked them about their experiences with clinical workflows, scheduling, administrative responsibilities and other factors that could affect their ability to provide care efficiently.
+Physicians who rated their practices as more efficient reported significantly less burnout and greater professional fulfillment. Physicians who perceived their practices as more efficient were also substantially less likely to report an intent to leave their employer within two years.
+The relationship between efficiency and burnout remained strong even after researchers accounted for hours worked. In fact, physicians who reported low practice efficiency and worked 40 hours or fewer per week experienced more burnout than those who reported high efficiency and worked 66 hours or more.
+“What we doctors want is to give high-quality care to our patients in an efficient way,” said Bohman, a clinical professor of primary care and population health. “That makes us feel fulfilled, and it reduces burnout — even when we work long hours.”
+That doesn’t mean long work hours are harmless. Previous research has consistently linked excessive work hours with physician burnout, and this study didn’t establish that inefficiency causes burnout. But the findings suggest that reducing work hours isn’t the only way — and alone may not be enough — to improve physicians’ experience.
+Inefficiency impedes good patient care
+Efficiency isn’t simply about how many patients a physician sees or how quickly they complete their work. It’s also about whether the systems around them make it easier or harder to provide high-quality care.
+Consider a surgeon whose first surgery starts late because the operating room isn’t ready. Or a doctor who must track down missing imaging results, take on tasks that could be handled by other care team members or finish documentation after an already full day of appointments.
+Together these problems can make the workday frustrating, unpredictable and unnecessarily demanding. They can also have an impact on personal life, further exacerbating burnout and reducing the quality of care.
+“In other research, we’ve shown that the impact of work on personal relationships has a very high correlation with burnout — they didn’t make it to the wedding, the violin recital, the soccer game because it took an hour and a half to prepare the operating room for the final surgery of the day,” Bohman said.
+To capture physicians’ workplace experiences, the researchers asked physicians whether operational problems interfere with patient care, make it difficult to stay on schedule or prevent them from completing their work during the day. Other questions addressed the availability of patient information, appropriate delegation of tasks, and whether the clinical environment feels chaotic or unpredictable.
+Finding the friction points
+The researchers say the questions on their survey could help health system leaders identify where operational problems may be contributing to burnout.
+If physicians at one outpatient clinic, for example, report substantially lower efficiency than those at another location, administrators may be able to pinpoint the problem, with the understanding that it could be contributing to burnout and professional dissatisfaction. Bohman recommends bringing physicians together with operational and quality improvement leaders to develop solutions.
+There are still unanswered questions. The study relied on physicians’ perceptions rather than objective measures of efficiency or productivity. Because it captured responses at a single point in time, it also cannot determine whether improving efficiency would directly reduce burnout. Future research could examine how perceived efficiency relates to quantifiable productivity and whether changes in efficiency lead to improvements in physician well-being.
+“A productive clinical day where we provide good-quality care to more patients is an important element of our professional fulfillment and helps protect us against burnout,” Bohman said.
+Researchers from Texas A&M University, College of Medicine; the University of Wisconsin School of Medicine and Public Health; The Ohio State University Wexner Medical Center; and Yale University School of Medicine contributed to the study.
+# # #
+About Stanford Medicine
+Stanford Medicine is an integrated academic health system comprising the Stanford School of Medicine and adult and pediatric health care delivery systems. Together, they harness the full potential of biomedicine through collaborative research, education and clinical care for patients. For more information, please visit med.stanford.edu.
+Journal
+Mayo Clinic Proceedings
+Method of Research
+Survey
+Subject of Research
+People
+Article Title
+Associations of Perceived Efficiency of Clinical Practice With Physician Well-Being
+Article Publication Date
+24-Nov-2026

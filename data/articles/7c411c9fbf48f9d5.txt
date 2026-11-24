@@ -1,0 +1,25 @@
+URL: https://www.eurekalert.org/news-releases/1153289
+TITLE: Study finds GLP-1 medications may have an unexpected effect on drinking habits
+OUTLET: EurekAlert!
+
+GLP-1 medications may be changing more than what people put on their plates.
+A new study led by researchers at the Brown University School of Public Health found that nearly half of adults who drank alcohol when they began taking GLP-1 medications reported drinking less within the first three months of treatment. The finding was even more pronounced among people with potentially unhealthy drinking habits.
+Published in JAMA Psychiatry in October, the study explores growing reports that people taking GLP-1 medications such as Ozempic and Wegovy are experiencing reduced cravings for alcohol. The work comes as new research continues to highlight the dangers of alcohol, which contributes to an estimated 140,000 deaths annually in the U.S. and poses health risks ranging from brain damage to heart and liver disease.
+The team from Brown — which also included scientists from Harvard, McLean Hospital, Duke and Brandeis Universities and the Boston-based RAND Corporation — sought to understand whether patients were noticing those changes themselves.
+The team surveyed 2,009 U.S. adults through RAND's American Life Panel in March and April 2026.
+Of those surveyed, 368 reported current or past use of GLP-1 medications and 242 said they drank alcohol when they began taking the drugs. During the first three months on a GLP-1, 44.2% reported drinking less. Another 52.6% reported no change, while 3.3% said they drank more.
+The researchers also looked at participants who reported at least one episode of heavy drinking in the previous year, defined as four or more drinks on one occasion for women and five or more for men.
+In that group, 54.1% reported reducing their alcohol consumption after starting treatment, 40.2 percent said there was no change and 5.7% — just three individuals — were drinking more.
+Researchers cautioned that the findings do not establish that GLP-1 medications directly reduce alcohol consumption or treat alcohol use disorder, which the study did not screen for. Larger clinical trials will be needed to establish whether the medications could eventually help reduce unhealthy alcohol use.
+Another caveat is that the study relied on participants' recollections of their drinking habits and did not determine how much their consumption actually changed.
+Still, the findings lend more weight to anecdotal reports that GLP-1 medications may reduce alcohol cravings, a potential benefit that remains largely unknown to the public. Just 9.7% of survey respondents had heard that the medications might reduce the urge to drink alcohol.
+Lori Uscher-Pines, the study’s lead author and a distinguished senior research scientist in the Department of Health Services, Policy and Practice, said public awareness is likely to grow over time, along with the potential of GLP-1s to treat alcohol cravings.
+“If future studies lead to [Food and Drug Administration] approval of GLP-1s to treat alcohol use disorder, this could be a gamechanger in addiction treatment," she said. "Clinicians we spoke to are very excited about the potential here.”
+Journal
+JAMA Psychiatry
+Method of Research
+Meta-analysis
+Article Title
+Patient-Reported Changes in Alcohol Use Following GLP-1 Initiation
+Article Publication Date
+14-Oct-2026

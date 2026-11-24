@@ -1,0 +1,29 @@
+URL: https://interestingengineering.com/ai-robotics/claude-proves-vp-not-vnp-valiant-conjecture
+TITLE: Claude claims to prove VP ≠ VNP in Valiant's 47-year-old conjecture
+OUTLET: Interesting Engineering
+
+Anthropic has published a 70-page mathematical paper credited entirely to Claude, claiming to settle a longstanding problem in algebraic complexity theory. The research targets Valiant’s conjecture, a mathematical counterpart to the famous P versus NP problem.
+An internal research model reportedly discovered the result before producing a formal proof using Lean 4. Anthropic has published both documents in its GitHub repository, making the work available for independent examination. However, no human mathematician has reviewed the proof so far.
+The paper, titled “VP ≠ VNP over every field,” claims to establish that VP is strictly contained within VNP across every field. If correct, the result would resolve a major open question in algebraic complexity theory. It would not, however, settle the broader P versus NP problem.
+Difficult computational problem
+At the center of the research lies the permanent, a mathematical expression closely related to the determinant of a matrix. Both involve multiplying selected matrix entries and adding the resulting products. However, their mathematical properties produce very different computational challenges.
+The determinant allows efficient calculations through established mathematical techniques. The permanent lacks an equivalent shortcut, making its computation considerably more difficult as matrix dimensions increase.
+For example, a 13-by-13 matrix produces billions of terms in its permanent expansion. Calculating every term individually becomes impractical as matrices grow larger.
+The research claims that arithmetic circuits cannot overcome this difficulty through efficient combinations of additions and multiplications. Its results establish superpolynomial lower bounds on the number of operations required.
+Specifically, circuits computing the permanent of an m-by-m matrix require more than m raised to c times the logarithm of m raised to one-third. Here, c represents a positive constant, and the bound applies to sufficiently large matrices.
+The same lower bound applies to the permanent over fields with characteristics other than two. The Hamiltonian cycle polynomial also satisfies this bound across every field.
+Why the distinction matters
+Valiant introduced the VP versus VNP problem in 1979. These complexity classes describe the computational difficulty of evaluating families of mathematical polynomials.
+VP broadly represents problems that arithmetic circuits can solve efficiently. VNP encompasses a wider class of problems whose solutions admit efficient verification through algebraic computations.
+The relationship resembles the distinction between P and NP in conventional computational complexity. However, the two frameworks examine different computational models.
+Arithmetic circuits operate on mathematical values across an entire field, including its extensions. Boolean circuits, meanwhile, process binary inputs and use logical operations.
+That difference explains why the claimed result does not resolve P versus NP. A lower bound for arithmetic circuits does not automatically establish equivalent limitations for Boolean circuits.
+The permanent provides a particularly important example. Its computational difficulty contrasts with the determinant, which has efficient polynomial-size arithmetic circuits.
+Lean verification has limits
+Anthropic has also published a Lean 4 formalization alongside the research paper. Lean is a proof assistant that checks mathematical arguments against formally specified statements.
+The formalization allows automated systems to examine whether individual proof steps follow from the preceding mathematical statements. Its inclusion provides another way to scrutinize the extensive argument.
+However, successful automated checks do not establish that the formalized statements accurately represent every claim in the paper. That distinction remains important when evaluating the research.
+Anthropic explicitly acknowledges that no human mathematician has checked the proof. The repository also warns that no machine verifies whether the formalized statement fully matches the intended conclusion.
+Independent mathematical scrutiny will therefore play an essential role in establishing the result’s credibility. Until researchers examine the argument and its formalization, the claimed resolution remains unconfirmed.
+Even with those limitations, the publication presents an unusual research milestone. An internal Claude model reportedly developed the argument, wrote the paper, and produced its formal verification files.
+The mathematical community now has an opportunity to examine a machine-generated attempt at resolving a problem that has remained open for decades.

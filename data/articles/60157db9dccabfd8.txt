@@ -1,0 +1,36 @@
+URL: https://www.eurekalert.org/news-releases/1153271
+TITLE: Environmental pollution and policy gaps linked to cancer risks in the Global South
+OUTLET: EurekAlert!
+
+“Climate change acts as a risk amplifier of environmental carcinogenesis.”
+BUFFALO, NY — November 24, 2026 — A new review was published in Volume 13 of Oncoscience on October 19, 2026, titled “Planetary health and oncology: policy roadmap to mitigate environmental carcinogens in the global south.”
+The review examines how environmental degradation, climate change and inadequate pollution controls contribute to cancer risks in the Global South. Drawing on published research and policy reports, the authors propose a framework for integrating environmental protection, public health surveillance and cancer prevention, particularly in low- and middle-income countries.
+The review’s first and corresponding author is Pragnesh Parmar from the All India Institute of Medical Sciences (AIIMS) Bibinagar in Hyderabad, India.
+Cancer control has traditionally focused on lifestyle factors, genetic susceptibility, early detection and treatment. However, exposure to environmental carcinogens, including air pollution, contaminated drinking water, industrial chemicals and certain pesticides, also contributes to cancer risk.
+These exposures are particularly concerning in parts of the Global South, where rapid industrialization, urban expansion and limited environmental regulation can increase contact with hazardous substances. Communities living near industrial facilities, mining operations and agricultural areas may face greater risks, often with limited access to healthcare and environmental protections.
+The review also explores how climate change can intensify these challenges. Wildfires release harmful pollutants into the air, while flooding and extreme weather can spread toxic substances from industrial sites and contaminated land into water supplies and surrounding communities.
+Another major concern is the lack of coordination between environmental monitoring and cancer surveillance. In many low- and middle-income countries, cancer registries and pollution monitoring systems operate separately, making it difficult to identify cancer patterns associated with environmental exposures and respond through preventive measures.
+“Effective pollution control remains the cornerstone of environmental cancer prevention.”
+To address these challenges, the authors propose a policy roadmap that combines stronger pollution regulations, improved environmental surveillance, safer agricultural practices and more sustainable urban planning. The framework also emphasizes community participation and environmental justice to protect populations disproportionately affected by hazardous exposures.
+The review highlights the need for collaboration between healthcare systems, environmental agencies, governments and local communities. Rather than relying solely on cancer diagnosis and treatment, the authors advocate addressing environmental risks before they contribute to disease.
+However, the paper is a narrative review and policy proposal rather than a new experimental or clinical study. The proposed framework draws on existing evidence, and its effectiveness in reducing cancer incidence would require further evaluation.
+Overall, the review presents environmental protection as an important component of cancer prevention in the Global South. Strengthening pollution control, surveillance and public health policies could help reduce exposure to carcinogens and support more equitable approaches to cancer prevention.
+DOI: https://doi.org/10.18632/oncoscience.680     
+Correspondence to: Pragnesh Parmar – pragnesh.fmt@aiimsbibinagar.edu.in   
+Keywords: cancer prevention, climate change, environmental justice, air pollution, public health policy
+Click here to sign up for free Altmetric alerts about this article.
+_________
+To learn more about the journal, please visit Oncoscience.us and connect with us on social media at:
+For media inquiries, please contact media@impactjournals.com.
+Journal
+Oncoscience
+Method of Research
+Literature review
+Subject of Research
+Not applicable
+Article Title
+Planetary health and oncology: policy roadmap to mitigate environmental carcinogens in the global south
+Article Publication Date
+19-Oct-2026
+COI Statement
+Authors have no conflicts of interest to declare.
