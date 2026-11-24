@@ -1,0 +1,19 @@
+URL: https://interestingengineering.com/ai-robotics/anthropic-mathematician-riemann-proof-joke
+TITLE: 250,000-page Riemann Hypothesis proof ‘was a joke,’ Anthropic mathematician says
+OUTLET: Interesting Engineering
+
+Levent Alpöge, the Anthropic mathematician who claimed to have proved the Riemann Hypothesis with Claude, has clarified a detail that attracted widespread attention. The much-discussed figure of 250,000 pages was never meant as a serious description of his mathematical work. Alpöge says he used the enormous number as a joke, amused by how absurdly large it sounded. He has now apologized for allowing the figure to fuel confusion around his announcement.
+In a follow-up statement, Alpöge explained that he enjoys making jokes about unusually large numbers. He had expected the technical language surrounding his theorem to make the humor apparent. However, readers took the figure literally, and he chose not to address the resulting discussion immediately.
+The joke behind the numbers
+Alpöge also referenced an earlier mathematical project involving the Yang-Mills existence problem. He recalled joking about working through 60,000 pages of what he described as unnecessarily complicated material. A committee’s request for a formal Lean version eventually made him question that approach.
+His latest clarification also explains why he published computer-checkable Lean code instead of a conventional mathematical paper. He considered a massive, machine-generated explanation unsuitable for publication. Consequently, he chose to release the formalized argument instead.
+The mathematician acknowledged that the Lean submission contains considerable unnecessary material. Although the code compiles, he accepted that criticism of its organization and quality was justified. He admitted that cleaning it up proved unexpectedly difficult.
+Proof needs simplifying
+Alpöge also addressed criticism from mathematician Scott N. Armstrong about the quality of his mathematical write-up. He acknowledged that producing clear explanations has challenged him throughout his academic career. Some previous theorems took nearly a decade to document properly.
+He hopes to approach the current work more responsibly. Alpöge suspects that much of the existing argument could eventually disappear through simplification. Waiting for that process might have produced a cleaner submission. However, he chose to publish the existing formalization.
+His comments also reveal what he considers the central contribution. He argues that the mathematical arguments themselves provide building blocks for developing definitions. Their importance may not immediately register with readers unfamiliar with the underlying mathematics.
+What the breakthrough means
+The Riemann Hypothesis dates back to 1859 and concerns the distribution of prime numbers. It predicts that every nontrivial zero of the Riemann zeta function lies on a specific vertical line. Mathematicians have investigated the conjecture for more than 160 years.
+Alpöge previously said Claude helped him develop an argument addressing the hypothesis. His announcement also extended to the Generalized Riemann Hypothesis. He released the work as a formal Lean submission instead of a conventional research paper.
+The distinction between a computer-checked argument and a mathematical explanation remains important. Lean can check whether formal reasoning follows from the definitions and assumptions encoded in a submission. However, mathematicians still need to understand the underlying ideas and establish their broader significance.
+Alpöge says he wants the Riemann Hypothesis to become easier to understand. He believes genuine mathematical difficulty can expose weaknesses in the definitions researchers currently use. His latest comments suggest that simplifying the argument matters more than celebrating its extraordinary length.

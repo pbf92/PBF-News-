@@ -1,0 +1,34 @@
+URL: https://wisevoter.com/world/us/2026/11/23/race-removal-dialysis-facility-mortality-rankings
+TITLE: Race Removal Reshapes Dialysis Facility Mortality Rankings
+OUTLET: Wisevoter
+
+Race Removal Reshapes Dialysis Facility Mortality Rankings
+A JAMA Internal Medicine study finds excluding race from dialysis quality measures changes how facilities rank on mortality performance.
+Updated on Nov. 23, 2026 in Diabetes
+Live Poll
+Do you trust government health quality ratings to fairly judge dialysis providers?
+Researchers analyzing 6,895 U.S. dialysis facilities found that removing race and ethnicity from standardized mortality ratio calculations shifted facility performance rankings. The study, published online November 16 in JAMA Internal Medicine, used U.S. Renal Data System and Renal Management Information Systems data from 2017 through December 2020.
+Why it matters
+Dialysis quality measures influence how facilities are judged and where patients receive care, so changes in risk adjustment can alter those assessments. The findings suggest that race-based adjustment may affect which facilities appear to perform well, particularly those serving high-social-risk populations.
+The analysis compared 6,895 facilities' mean SMR of 0.93 for lowest-social-risk versus 1.03 for highest-social-risk facilities under race-inclusive adjustment, and a difference of -0.002 after race exclusion. Whether these ranking shifts translate into changes in facility oversight or patient outcomes is not addressed in the study data.
+The players
+JAMA Internal Medicine
+JAMA Internal Medicine is a peer-reviewed medical journal published by the American Medical Association that features research across internal medicine specialties.
+U.S. Renal Data System
+The U.S. Renal Data System is a national data registry funded by the National Institute of Diabetes and Digestive and Kidney Diseases that tracks kidney disease and dialysis across the United States.
+The details
+Researchers evaluated facility-level performance with and without race and ethnicity in standardized mortality ratio calculations. After race exclusion, 26.6 percent of facilities serving the highest proportion of non-Hispanic Black patients improved their SMR performance, compared with 4.7 percent of all other facilities. The study was affiliated with Brown University School of Public Health in Providence, Rhode Island, and one author disclosed ties to the pharmaceutical industry.
+Timeline
+- 2017 through December 2020: Dialysis facility data period analyzed in the study.
+- November 16, 2026: Study published online in JAMA Internal Medicine.
+- November 23, 2026: HealthDay News report published.
+Big Picture
+The study tests the risk-adjustment methodology behind the standardized mortality ratio measures used in the End-Stage Renal Disease Quality Incentive Program, asking whether race-based inputs change how dialysis facilities are scored. Its findings bear directly on how federal dialysis quality payments and public ratings are calculated.
+Patients choosing a dialysis facility may see different quality ratings depending on whether race is included in mortality adjustments. Reviewing a facility's published performance data alongside its patient population can help patients understand what those scores measure.
+The takeaway
+Quality scores for dialysis facilities depend heavily on how risk is adjusted, so patients and families should ask what factors feed into any rating they review. Understanding the methodology behind a score can make it easier to compare facilities fairly.
+Further reading
+Explore more diabetes coverage on how chronic kidney conditions intersect with metabolic disease.
+Source note: This article includes information reported by Healthday.
+Live Poll
+Do you trust government health quality ratings to fairly judge dialysis providers?

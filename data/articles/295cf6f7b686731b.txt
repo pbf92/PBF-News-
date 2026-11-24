@@ -1,0 +1,26 @@
+URL: https://www.tradingview.com/news/smallcaps:f9835dc2b094b:0-eroad-posts-strong-australian-revenue-growth-but-north-american-weakness-weighs/
+TITLE: EROAD Posts Strong Australian Revenue Growth but North American Weakness Weighs
+OUTLET: TradingView
+
+EROAD Posts Strong Australian Revenue Growth but North American Weakness Weighs
+EROAD Limited ERD has reported a 1% decline in first-half revenue to A$80.9 million (NZ$98.1m), with rapid growth in Australia unable to fully offset weaker trading in North America.
+The transportation technology group increased Australian revenue by 66.3% during the six months to 30 September 2026, while North American revenue fell 18.2% following a major customer non-renewal.
+Annualised recurring revenue (ARR) declined 3.6% to A$141.6m (NZ$171.7m), reflecting continuing pressure on the North American customer base despite stronger Australian subscriptions.
+For the current financial year, EROAD expects revenue between A$158.3m (NZ$192m) and A$161.6m (NZ$196m), alongside reported free cash flow between A$0.8m (NZ$1m) and A$6.6m (NZ$8m).
+Management expects stronger second-half cash generation from annual customer receipts and lower deployment spending, while a more detailed strategy is scheduled for release with its full-year results in May 2027.
+Enterprise Customer Deployment
+Australian revenue climbed to A$11.0m (NZ$13.3m), supported by a large enterprise customer deployment that has expanded the scale of EROAD’s local operations.
+The enterprise rollout was completed on 15 November, connecting more than 3,200 assets across approximately 330 sites and demonstrating the group’s capacity to deliver nationally.
+Australian ARR increased 59.4% to A$20.0m (NZ$24.2m), while average monthly software subscription revenue per unit grew 40.3% and New Zealand revenue edged 1.5% higher to A$43.6m (NZ$52.9m), retaining its role as the group’s main cash-generating market.
+Together, the Australian and New Zealand businesses accounted for approximately 67% of group revenue, reinforcing management’s emphasis on its home markets.
+North American Struggles
+North American revenue contracted to A$26.3m (NZ$31.9m), while regional ARR fell 20.2% as EROAD narrowed its focus to sectors where it believes it has a competitive advantage.
+The business is concentrating on areas including cold chain transport, but customer retention and legacy service issues remain obstacles to restoring growth.
+Group normalised EBIT declined to A$1.7m (NZ$2.1m) from A$2.1m (NZ$2.5m), with operating costs rising 7% on investment outlays and higher provisions.
+The reported after-tax loss narrowed to A$10.0m (NZ$12.1m) from A$118.9m (NZ$144.2m), although the earlier period included a substantial non-cash impairment.
+Normalised free cash flow fell to A$0.7m (NZ$0.8m) from A$13.8m (NZ$16.7m), while reported free cash flow was an outflow of A$2.6m (NZ$3.1m) following rollout spending and other cash timing effects.
+Transformation into FY28
+Chief executive officer David Leach, who joined in October, is prioritising operational discipline, customer satisfaction, and AI-led improvements as the group works through its transformation.
+EROAD has established regional accountability, strengthened commercial leadership, and begun modernising its technology platform, with management expecting the full benefits of these initiatives to emerge from FY28 onward.
+“The board is confident in the direction of the business and the team’s ability to execute, while recognising that delivering the full benefits of the transformation will take time,” chair John Scott said.
+“We still have work to do but we are making real progress.”

@@ -1,0 +1,34 @@
+URL: https://wisevoter.com/world/2026/11/23/mri-yield-multiple-sclerosis-declines-with-age
+TITLE: MRI Yield in MS Declines With Patient Age
+OUTLET: Wisevoter
+
+MRI Yield in MS Declines With Patient Age
+A study of 21,836 MRI scans finds that monitoring for new multiple sclerosis activity becomes less productive as patients get older.
+Updated on Nov. 23, 2026 in Alzheimer’s
+Live Poll
+Do you trust your doctor's advice on how often to get scans?
+Researchers led by Luca Prosperini at San Camillo Forlanini Hospital in Rome analyzed 21,836 MRI scans from 3,715 patients with multiple sclerosis and found that MRI activity appeared in 14.7% of scans. The findings were published in JAMA Neurology on November 23.
+Why it matters
+Consensus guidelines recommend annual brain MRI monitoring, which does not account for the diminishing diagnostic yield seen as patients age and their disease duration increases. The results suggest scan schedules could be individualized for older, stable patients.
+The analysis covered 21,836 MRI scans from 3,715 patients, with a median of five scans per patient, and the number needed to scan rose about 12% for each additional preceding inactive scan. The study did not yet validate these patterns in independent or international cohorts, and spinal cord lesions were not included.
+The players
+Luca Prosperini
+Prosperini is the lead researcher on the study, based at San Camillo Forlanini Hospital in Rome, Italy.
+JAMA Neurology
+JAMA Neurology is a peer-reviewed medical journal published by the American Medical Association that covers neurological research and clinical practice.
+The details
+The researchers used model-based estimates of the number needed to scan, which increased with both age and disease-modifying therapy intensity. Moderate-efficacy therapies did not differ significantly from low-efficacy therapies (p = 0.14). The team plans to implement the approach in clinical practice and evaluate it prospectively.
+Timeline
+- JAMA Neurology published the study findings on November 23, 2026.
+Health Landscape
+The findings challenge the annual brain MRI monitoring recommended in current consensus guidelines for multiple sclerosis. The results point toward age- and treatment-adjusted scan intervals that could reduce low-yield imaging for older, stable patients.
+For people with multiple sclerosis who are older and have been stable for several scans, the schedule of routine MRI checks may be spaced out rather than kept annual. Any change to monitoring should be discussed with a treating neurologist, since the approach is not yet established in everyday practice.
+The takeaway
+Routine MRI monitoring may be adjusted over time for multiple sclerosis patients, so the schedule of scans is worth reviewing with a neurologist as patients age.
+What happens next
+The research team plans to validate the findings in independent and international cohorts and to include spinal cord lesions in future analysis.
+Further reading
+For more on neurological disease monitoring, see our Alzheimer's coverage.
+Source note: This article includes information reported by AuntMinnieEurope.
+Live Poll
+Do you trust your doctor's advice on how often to get scans?

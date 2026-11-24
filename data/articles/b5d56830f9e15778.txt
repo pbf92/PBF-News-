@@ -1,0 +1,22 @@
+URL: https://mezha.net/eng/news/mezha-64c73aed56fcd086243554d3_gta_6_developer/
+TITLE: GTA 6 developer says Rockstar reduced mission failures to give players more freedom
+OUTLET: Mezha.net
+
+GTA 6 developer says Rockstar reduced mission failures to give players more freedom
+Photo source: TechRadar
+Rockstar says it designed GTA 6 missions to support different approaches, with fewer failures for players who experiment or try something different.
+Rockstar Games says it took an open-ended approach to designing missions in Grand Theft Auto 6, as well as other types of content. David Hynd, the company’s vice president of technology, discussed the approach in developer notes sent to TechRadar Gaming.
+This is reported by TechRadar.
+“The team embraced more of an open-ended design philosophy on this project.”
+- David Hynd
+One part of that approach was reducing the number of mission failures triggered when players experimented or tried a different approach. Hynd said Rockstar wanted players to do what felt right for their playstyle.
+“To achieve that, we leveraged a lot more of our regular mechanics/AI and systems within Missions to better support the many different ways a player can approach a particular bit of content,”
+- David Hynd
+Hynd said keeping missions as open as possible was harder in a game of this scale, but the resulting freedom and flexibility were worth it. He added that the approach helped establish consistent rules players could learn and use throughout the game, so that systems would not behave differently during missions and outside them.
+Stephen Donkin, Rockstar’s vice president of design, said the missions have many different types of content running behind the scenes, often at the same time.
+“This is the most seamless experience we have achieved in a game,”
+- Luke Howard
+Howard is senior design director for missions and visualization.
+Read also:
+- The latest Grand Theft Auto Online expansion introduces chaotic KnoWay robotaxis, reflecting real-world autonomous vehicle controversies, available from December 10, 2025.
+- Psychologist Serhiy Mykhailyk talks about the methods of recruiting teenagers by pro-Russian special services through games, TikTok, and Telegram, as well as ways to protect children from manipulation.

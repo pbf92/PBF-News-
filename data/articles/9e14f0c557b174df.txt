@@ -1,0 +1,14 @@
+URL: https://www.eurekalert.org/news-releases/1152949
+TITLE: Timely access paired with team-based care may reduce number of patient ER visits
+OUTLET: EurekAlert!
+
+Team-based care, where family physicians work alongside nurses, social workers, and other health professionals, aims to improve quality of care, which in theory should reduce emergency department visits and hospital stays. However, studies of whether teams actually reduce this use have shown mixed results. Researchers linked survey responses with health records for 5,480 adults and examined whether three key aspects of care quality—timely access, access to routine care and care coordination—act as the bridge between team-based care and emergency department visits and hospitalizations.
+They found:
+- Taken as a whole, care provided by interprofessional primary care teams was not significantly linked to emergency department visits or hospitalizations, regardless of which quality measure the researchers examined.
+- However, when interprofessional primary care teams were paired with timely access, patients had about 8% fewer nonurgent emergency departments visits and 7% fewer total emergency department visits. Access to routine care and care coordination did not explain the teams’ impact.
+Why It Matters: Timely access may be a key condition for team-based primary care to reduce emergency department use.
+The Mediating Effect of Quality of Care on the Association Between Interprofessional Primary Care Teams and Health Service Use
+Corresponding Author: Nadia Sourial, PhD, et al
+School of Public Health, Department of Health Management Evaluation and Policy, Université de Montréal, Montreal, Canada
+Research Centre of the Centre Hospitalier de l’Université de Montréal (CRCHUM), Montreal, Canada
+Permanent link (accessible beginning 5 PM ET on Monday, November 23, 2026)

@@ -1,0 +1,32 @@
+URL: https://wisevoter.com/world/2026/11/24/cancer-dna-changes-matched-approved-drugs
+TITLE: Cancer DNA Changes Could Be Targeted by Approved Drugs
+OUTLET: Wisevoter
+
+Cancer DNA Changes Could Be Targeted by Approved Drugs
+Researchers at the University of Cambridge found that one in five primary cancers and one in four metastatic cancers carry DNA changes treatable with existing approved therapies.
+Updated on Nov. 24, 2026 in Cancer
+Live Poll
+Should public research funding prioritise testing cancer patients' DNA for existing drug matches?
+University of Cambridge researchers analysed whole-genome sequencing data from more than 17,000 tumours and found DNA changes targetable by approved therapies in about 19% of primary cancers and 26% of metastatic cancers. The findings were published in The Lancet Oncology on 16 November 2026.
+Why it matters
+Current genomic testing and targeted treatment approvals are organised around where a cancer originates in the body rather than its DNA, so many actionable changes go unmatched. More than half of the potentially actionable changes occurred in cancer types for which the corresponding drugs lack FDA approval.
+The analysis drew on whole-genome sequencing of more than 17,000 tumours, with about 19% of primary cancers and 26% of metastatic cancers carrying targetable DNA changes. Whether these changes translate into better patient outcomes when drugs are used outside their approved cancer types remains unknown and untested in clinical trials.
+The players
+University of Cambridge
+The University of Cambridge is a public research university in England whose researchers led the analysis of tumour genomes described in this study.
+The Lancet Oncology
+The Lancet Oncology is a peer-reviewed medical journal published by Elsevier that specialises in cancer research and clinical oncology.
+The details
+The team screened every genome for biomarkers linked to therapies already approved by the US Food and Drug Administration, using whole-genome sequencing to search for DNA damage patterns that reveal defects in fundamental biological pathways. The dataset combined 11,000 primary cancers from the UK-based 100,000 Genomes Project with 6,000 metastatic cancers from the Netherlands-based Hartwig Medical Foundation.
+Timeline
+- 16 November 2026: Study published in The Lancet Oncology.
+Health Landscape
+The findings challenge the FDA's approval model, which ties targeted therapies to where a cancer begins in the body rather than to its genetic profile. The study suggests that a wider population of cancer patients could benefit if regulators and clinicians looked beyond tumour origin to specific DNA changes.
+Patients whose cancers carry a targetable DNA change may one day be offered a drug approved for a different tumour type, though this depends on future clinical trials. Until then, current treatment decisions continue to follow the approval rules for each cancer type.
+The takeaway
+Genomic profiling of a tumour may reveal treatment options that standard cancer-type classifications miss. Patients and clinicians should ask whether a tumour's DNA changes match an approved therapy, even if the cancer type differs.
+Further reading
+Explore more cancer research to see how tumour genetics is reshaping treatment options.
+Source note: This article includes information reported by University of Cambridge.
+Live Poll
+Should public research funding prioritise testing cancer patients' DNA for existing drug matches?

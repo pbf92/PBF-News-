@@ -1,0 +1,18 @@
+URL: https://medicaldialogues.in/amp/pediatrics-neonatology/news/maternal-egg-and-peanut-intake-does-not-prevent-infant-allergies-nejm-182575
+TITLE: Maternal Egg and Peanut Intake Does Not Prevent Infant Allergies: NEJM
+OUTLET: Medical Dialogues
+
+The study, published in The New England Journal of Medicine, was conducted by Debra J. Palmer, Ph.D., of Kids Research Institute Australia, University of Western Australia, Nedlands, Australia, and colleagues. The researchers investigated whether exposing infants to greater amounts of food allergens before birth and through breast milk could influence the development of food allergy during early childhood.
+Food allergy can involve immune responses that begin developing very early in life, potentially before an infant starts consuming solid foods. Although maternal dietary exposure during pregnancy and breastfeeding has been proposed as a possible strategy for reducing allergy risk, evidence from randomized trials has remained limited.
+The multisite randomized trial enrolled pregnant women whose unborn children had at least two biological family members with medically diagnosed allergic disease, placing the infants at increased risk of developing allergies.
+A total of 2,137 women were randomly assigned to one of two dietary groups. The high egg-peanut group included a maternal diet containing at least six eggs and 60 peanuts per week. The standard-diet group was advised to consume no more than three eggs and 30 peanuts weekly.
+The assigned dietary patterns were followed from before 23 weeks of pregnancy through four months after delivery while the mothers were breastfeeding. Researchers then assessed whether the infants developed IgE-mediated egg or peanut allergy by 1 year of age.
+Key findings:
+- Egg or peanut allergy occurred in 83 of 1,066 infants (7.8%) whose mothers followed the high egg-peanut diet.
+- In the standard-diet group, 89 of 1,064 infants (8.4%) developed egg or peanut allergy.
+- The difference between the groups was not statistically significant (relative risk, 0.93).
+- Safety outcomes were comparable between the two maternal dietary groups.
+The findings suggest that higher maternal egg and peanut intake during pregnancy and breastfeeding does not reduce the risk of IgE-mediated egg or peanut allergy in infants by 1 year, including those with a strong family history of allergic disease.
+The researchers concluded that increased maternal consumption offered no significant protective benefit, highlighting direct infant introduction of appropriate allergenic foods during complementary feeding as a potentially more relevant allergy-prevention strategy.
+Reference:
+DOI: 10.1056/NEJMoa260565

@@ -1,0 +1,20 @@
+URL: https://www.theregister.com/ai-and-ml/2026/11/24/anthropic-says-claude-solved-an-age-old-math-problem-but-the-written-proof-is-250000-pages-of-slop/5311775
+TITLE: Anthropic says Claude solved an age-old math problem, but the written proof is 250,000 pages of slop
+OUTLET: The Register
+
+- Anthropic says Claude solved an age-old math problem, but the written proof is 250,000 pages of slop If the AI can't explain what it's proven, are we actually any closer to understanding?
+- Trump says he won't allow US companies to build datacenters abroad President threatens 'tremendous tax' on overseas builds, but analysts question how restrictions would work
+- Palo Alto Networks opens wallet for open-weight training biz Security shop buys the hand that feeds it
+- SC26 Qualcomm offers test drive of its rack-scale Nvidia AI challenger Selected customers can put Dragonfly AI200 through its paces on Cirrascale's cloud
+- To rank the world's biggest supercomputers, we're gonna need a bigger bench AI has birthed some truly colossal supers, they just aren't on the Top500
+- Security Russians are posing as Signal support to launch phishing attacks PLUS: US takes down Iranian propaganda sites; Marketing company asks 'Why Do We Have Your Information?' And more!
+- Security Microsoft patches failed to fix on-prem SharePoint, which is now under zero-day attack PLUS: China upgrades smartphone surveillance tools; Ring eases anti-snooping stance; and more
+- Black Hat and DEF CON DEF CON Franklin project enlists hackers to harden critical infrastructure Voting village reports have been so successful, says Jeff Moss, that the whole of DEF CON will now be included
+- Security EQT buys majority share in Swiss cybersecurity biz Acronis Went at equivalent of $3.5B+ valuation for entire firm, though portion sold not specified
+- Malware Month Ten years since the first corp ransomware, Mikko Hyppönen sees no end in sight On the plus side, infosec's a good bet for a long, stable career
+- Ubuntu Core Desktop targets 28.04 debut, with default status in its sights Canonical's stretch goal is to make the immutable OS standard in 30.04 – without retiring the traditional distro
+- Inspiring FOSS project Crosspoint Reader has lessons about tech, communities, and LLMs Cheap tiny e-readers and the perils of LLM-generated drive-by pull requests – plus much more
+- Omaxian takes the Omarchy look down a different Linux backstreet Devuan-based distro swaps Wayland for XLibre and i3, with Xfce waiting if the tiling gets tiresome
+- Microsoft’s Azure Linux dons Fedora to dress itself up for mainstream workloads Version 4.0 of Redmond’s cloudy OS is free to use in its cloud. Repeat. Free to use
+- Another Linux kernel developer steps back from some duties due to overload You can probably guess what he blames for the excessive workload
+- The latest FreeBSD report is here, and the AI debate is ongoing Only a minority want to ban it. Plus plenty of updates on 16 projects

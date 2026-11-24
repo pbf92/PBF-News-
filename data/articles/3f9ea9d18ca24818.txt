@@ -1,0 +1,11 @@
+URL: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/adhocs/3742lfstotlfscrossoversurveygreatbritain2025
+TITLE: LFS to TLFS cross-over survey, Great Britain, 2025
+OUTLET: Office for National Statistics
+
+Summary of request
+The cross-over survey compared responses from the same people under the interviewer-led Labour Force Survey (LFS) and online self-completion Transformed Labour Force Survey (TLFS).
+The unweighted, selective matched sample is not representative of the population, however matching the same respondents helps separate response differences from differences in sample composition.
+The "classification agreement", that is, the proportion of matched respondents who were placed in the same category in both surveys, was high for economic activity, employment status, employment type and zero-hour contracts, but larger differences occurred in inactivity reasons. The evidence helps explain differences, including those associated with redesigned questions, but does not establish which survey is more accurate or provide adjustment factors for discontinuities.
+Results presented should not be treated as indicative of differences between LFS and TLFS labour-market estimates.
+Contact
+For more information about this request, please email Labour.Market.Transformation@ons.gov.uk

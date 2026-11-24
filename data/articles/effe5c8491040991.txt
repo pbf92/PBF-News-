@@ -1,0 +1,16 @@
+URL: https://www.eurekalert.org/news-releases/1152934
+TITLE: Monthly prescribing feedback reduces unnecessary antibiotic prescribing at primary care clinics
+OUTLET: EurekAlert!
+
+Featured New Research
+Monthly Prescribing Feedback Reduces Unnecessary Antibiotic Prescribing at Primary Care Clinics
+Researchers at Prisma Health in South Carolina tested a program to curb unnecessary antibiotic prescribing for respiratory illnesses in 20 primary care clinics, with 54 clinics as the comparison group, from January 2023 to March 2025. The intervention centered on monthly reports comparing each clinician's prescribing with that of their peers, plus education and patient materials.
+The study found:
+- Within intervention clinics, antibiotics were prescribed in 14% of visits for diagnoses that never require them, down from 28%. At the comparison clinics, the rate rose slightly, from 32% to 34%.
+- Prescribing for diagnoses that always require antibiotics did not change.
+Why It Matters: Unnecessary antibiotic use can cause side effects and drug interactions and contribute to antibiotic resistance.
+Effect of Ambulatory Antimicrobial Stewardship Intervention on Respiratory Antibiotic Prescribing in Primary Care Clinics
+Corresponding Author: Hana R. Winders, PharmD, et al
+Department of Pharmacy, Prisma Health Midlands, Columbia, South Carolina
+Permanent link (accessible beginning 5 PM ET on Monday, November 23, 2026)
+Disclaimer: AAAS and EurekAlert! are not responsible for the accuracy of news releases posted to EurekAlert! by contributing institutions or for the use of any information through the EurekAlert system.

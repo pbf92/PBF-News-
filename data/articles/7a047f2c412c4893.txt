@@ -1,0 +1,10 @@
+URL: https://www.notebookcheck.net/As-GTA-6-PC-port-gets-closer-to-becoming-playable-Rockstar-is-reportedly-taking-action-against-modders-and-Discord-communities.1458181.0.html
+TITLE: As GTA 6 PC port gets closer to becoming playable, Rockstar is reportedly taking action against modders and Discord communities
+OUTLET: Notebookcheck
+
+Cyberleek recently released the missing executable file for the leaked Xbox build of GTA 6, bringing modders a step closer to making the game playable on PC. In fact, within hours of its release, some modders managed to boot the game on PC and even get past the initial setup. However, it appears that Rockstar Games is now taking action against communities involved in these efforts.
+One of the most notable projects working on bringing GTA 6 to PC was Leonida. Developed by ItsNotRexed, it was an open-source static recompilation project hosted on GitHub. Its main goal was to get the Xbox version of GTA 6 running natively on PC.
+However, NotRexed has now announced that he is stepping away from the project, citing circumstances beyond his control. At the time of writing, the Leonida Project's GitHub page is no longer accessible, while its Discord server has also been taken down. His statement suggests that the project's removal may not have been his own decision, although the exact circumstances remain unclear.
+Leonida isn't the only community to have disappeared. According to reports from users on Reddit, Rockstar Games is allegedly targeting several GTA 6-related Discord servers, with users claiming that even a community with around six million members has been taken down.
+Several other Discord servers associated with GTA 6 modding and unofficial PC port development have reportedly suffered a similar fate. However, Rockstar has yet to publicly comment on these reported takedowns.
+Despite these developments, several other modders are still actively working on getting GTA 6 running on PC. It remains to be seen whether Rockstar will take similar action against the remaining projects and how much this will slow down their progress.

@@ -1,0 +1,23 @@
+URL: https://siliconangle.com/2026/11/23/anthropics-claude-ship-automates-the-final-stage-of-the-software-development-pipeline/
+TITLE: Anthropic’s Claude Ship automates the final stage of the software development pipeline
+OUTLET: SiliconANGLE
+
+Anthropic’s Claude Ship automates the final stage of the software development pipeline
+Anthropic PBC isn’t satisfied with having Claude just write new software. With a new update today, Claude now can tell developers when the code it has generated is ready to ship into production environments.
+The company announced the launch of Claude Ship, which is a new suite of artificial intelligence agents capable of automating code reviews, bug fixes and approvals. The last one is the most interesting of those capabilities, because code reviews and fixes are nothing new for AI. But Claude’s ability to automatically approve code changes based on the policies predetermined by an organization’s developer team is a novel development that has not been seen before.
+Claude Ship is an effort by Anthropic to eliminate the new bottleneck that has emerged in the code review and approval process at companies that have already adopted AI code generation tools. At those organizations, fresh code is being whipped up in double-quick time, and there are also AI agents for checking that code and providing fixes if it’s not working as hoped. But until now, the final review and approval process has always been performed by humans. Claude Ship changes that.
+The idea is that human developers can delegate final approval authority to Claude, so now all they really have to do is determine the quality and security standards of the code they’re asking AI to create.
+“Most teams want a person to approve every change and that’s easy to keep up with when people write every line,” Anthropic said in a blog post. “But a lot of developers build with agents now. On the Claude Code team, Claude writes most of our code and we wanted everything after the pull request to move that fast too.”
+Anthropic said Claude Ship consists of three parts. The first is Code Review, which is a tool that has been generally available for some time already. The other two are PR Steward and Claude Approvals, and they’re both still in beta.
+PR Steward is designed to handle issues such as failing continuous integration checks, merge conflicts and feedback from Code Review. After each push, it will leave comments on what changes were made and how to roll them back if necessary.
+Once PR Steward is done, Claude Approvals takes over. It works by applying an approval policy that’s left as a file in the codebase’s repository. The approval process can incorporate various elements, including the findings in Code Review and the organization’s own classifiers, with policies written in natural language.
+Anthropic is urging early adopters to be cautious. Because Claude Ship is still in beta, it recommends running Claude Approvals in observe-only mode first. It also advises teams to begin with just one repository first, and set monthly spending limits so they can maintain more control over everything.
+Claude Ship is being made available to Claude Team and Enterprise subscribers and is compatible with repositories on GitHub, the company said.
+Images: Anthropic
+A message from John Furrier, co-founder of SiliconANGLE:
+Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE’s Alumni Trust Network, where technology leaders connect, share intelligence and create opportunities.
+- 15M+ viewers of theCUBE videos, powering conversations across AI, cloud, cybersecurity and more
+- 11.4k+ theCUBE alumni — Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network
+Are you an AWS customer? Support SiliconANGLE financially by buying your AWS services from our Marketplace portal page and links: https://siliconangle.com/aws-marketplace/
+About SiliconANGLE Media
+Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.
