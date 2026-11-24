@@ -1,6 +1,21 @@
 {
- "latest": "2026-11-23",
+ "latest": "2026-11-24",
  "editions": [
+  {
+   "date": "2026-11-24",
+   "type": "weekday",
+   "top": [
+    "Chips give back a quarter of Monday's Nvidia-led rally before the open",
+    "Fed's Williams: inflation still too high, more rate hikes possible",
+    "Anthropic launches Claude Ship: agents that fix, review and can approve pull requests"
+   ],
+   "status": {
+    "story": 7,
+    "quiet": 3,
+    "failed": 0
+   },
+   "updates": 0
+  },
   {
    "date": "2026-11-23",
    "type": "weekday",

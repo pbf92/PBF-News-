@@ -1,0 +1,680 @@
+{
+ "date": "2026-11-24",
+ "type": "weekday",
+ "read_minutes": 6,
+ "note": "No BLS releases today and the Fed calendar page did not load, so no Fed speakers are confirmed in Before the open. US markets closed Thu, early close Fri.",
+ "before_open": [
+  {
+   "time": "6:00 AM",
+   "what": "FHFA/home price index",
+   "detail": "9:00 AM ET per Stock Titan's calendar; consensus not given.",
+   "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-24-2026"
+  },
+  {
+   "time": "6:15 AM",
+   "what": "Fed industrial production",
+   "detail": "9:15 AM ET per Stock Titan's calendar; consensus not given.",
+   "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-24-2026"
+  },
+  {
+   "time": "7:00 AM",
+   "what": "Analog Devices earnings call (stock -9.4% pre-market after Q4 revenue +42%)",
+   "detail": "10:00 AM ET.",
+   "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-24-2026"
+  },
+  {
+   "time": "Overnight",
+   "what": "Nasdaq 100 (QQQ) -1.7% pre-market as chips give back Monday's rally: Nvidia -4.7%, Micron -6%, HPE -12%",
+   "detail": "Monday close: Nasdaq +6.5%, S&P +4.7%.",
+   "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-24-2026"
+  },
+  {
+   "time": "Overnight",
+   "what": "Sanofi to buy Insmed for $175/share cash (about $41B); Insmed +14.6% pre-market",
+   "detail": "Close expected H1 2027.",
+   "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-24-2026"
+  },
+  {
+   "time": "Overnight",
+   "what": "Retail earnings: Dick's (+15.6%, raised outlook), Dollar Tree (+8.2%), plus Best Buy, Kohl's, Burlington, Abercrombie higher",
+   "detail": "Reported before the open.",
+   "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-24-2026"
+  },
+  {
+   "time": "Overnight",
+   "what": "Dollar firmer on Fed hike bets; oil near three-month low; Anthropic below $83 IPO price",
+   "detail": "Per Reuters headlines.",
+   "url": "https://www.reuters.com/business/dollar-climbs-renewed-ai-euphoria-fuels-fed-hike-bets-2026-11-24/"
+  },
+  {
+   "time": "1:30 PM",
+   "what": "Workday and Dell earnings calls (after close)",
+   "detail": "4:30 PM ET.",
+   "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-24-2026"
+  },
+  {
+   "time": "2:00 PM",
+   "what": "HP and Autodesk earnings calls (after close)",
+   "detail": "5:00 PM ET.",
+   "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-24-2026"
+  }
+ ],
+ "week_ahead": [],
+ "top": [
+  {
+   "headline": "Chips give back a quarter of Monday's Nvidia-led rally before the open",
+   "why": "Monday's rebound (Nasdaq +6.5%) is already fading, so the 'oversold bounce' framing holds and the Fed and AI-funding drivers remain unresolved.",
+   "points": [
+    "At 8:00 AM ET QQQ was down 1.71% vs Monday's close, having given back about a quarter of Monday's $42.58 gain; SPY down 0.90% at 6:34 AM ET (Stock Titan).",
+    "Nvidia -4.7%, Micron about -6%, Intel about -6%; HPE -11.9% despite 50% revenue growth; Analog Devices -9.4% after 42% revenue growth.",
+    "Monday: Nasdaq Composite +6.51%, S&P 500 +4.73%, Dow +3.01% after Huang's reinstatement as Nvidia CEO (Yahoo Finance).",
+    "Reuters reports Anthropic fell below its $83 IPO price."
+   ],
+   "next": "PCE/GDP Wed 25 Nov 5:30 AM PT; US markets closed Thu 26 Nov, early close Fri 27 Nov 10:00 AM PT.",
+   "confidence": "reported",
+   "impact": "high",
+   "thread": {
+    "id": "ai-selloff-nov",
+    "name": "AI sell-off and market correction",
+    "status": "changed",
+    "day": 4
+   },
+   "sources": [
+    {
+     "name": "Stock Titan",
+     "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-24-2026"
+    },
+    {
+     "name": "Yahoo Finance UK",
+     "url": "https://uk.finance.yahoo.com/news/wall-street-futures-stabilise-following-101536918.html"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/business/anthropic-breaks-below-83-ipo-price-debut-rally-unravels-2026-11-24/"
+    }
+   ],
+   "desk": "world"
+  },
+  {
+   "headline": "Fed's Williams: inflation still too high, more rate hikes possible",
+   "why": "Another senior Fed voice backs the hawkish December read just as equities bounce on AI relief, so rate risk is the main threat to the rally.",
+   "points": [
+    "Reuters reports New York Fed's Williams said on 23 Nov that inflation is still too high and further hikes are possible.",
+    "Reuters also reports the dollar rose on 24 Nov as renewed AI optimism fed Fed hike bets.",
+    "October PCE and the second Q3 GDP estimate land Wednesday 25 Nov, 8:30 AM ET (5:30 AM PT), per Stock Titan's preview.",
+    "Fed minutes (18 Nov) showed almost all officials saw a further hike as likely appropriate (via Stock Titan)."
+   ],
+   "next": "PCE and GDP, Wed 25 Nov 5:30 AM PT; FOMC in December.",
+   "confidence": "reported",
+   "region": "US",
+   "impact": "high",
+   "thread": {
+    "id": "fed-december",
+    "name": "Fed December decision",
+    "status": "changed",
+    "day": 20
+   },
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/business/fed-has-work-do-lower-inflation-williams-says-2026-11-23/"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/business/dollar-climbs-renewed-ai-euphoria-fuels-fed-hike-bets-2026-11-24/"
+    },
+    {
+     "name": "Stock Titan",
+     "url": "https://www.stocktitan.net/articles/october-2026-pce-inflation-preview"
+    }
+   ],
+   "desk": "world"
+  },
+  {
+   "headline": "Anthropic launches Claude Ship: agents that fix, review and can approve pull requests",
+   "why": "Claude moves from writing code to being allowed to sign it off, which can remove humans from merges entirely if you enable it. Useful for anyone running a small codebase, but billed separately and uncapped by default.",
+   "points": [
+    "Beta, announced 23-24 Nov: bundles Code Review (generally available) with two new agents, PR Steward and Claude Approvals.",
+    "PR Steward fixes failing CI, merge conflicts and review feedback, and comments on each change with how to undo it; it does not approve or merge.",
+    "Claude Approvals applies a policy file in the repo; with GitHub auto-merge on, code can merge with no human involved. Anthropic advises starting in observe-only mode.",
+    "Team and Enterprise plans, billed on token usage; PR Steward has no spending cap by default. Anthropic says merged PRs on the Claude Code team more than doubled June to September and reverts fell over 40% (company claim). It warns the tool may miss bugs and vulnerabilities."
+   ],
+   "next": "Beta now; watch for independent reports of bad auto-merges and any general availability date (none announced in saved articles).",
+   "confidence": "confirmed",
+   "impact": "high",
+   "thread": {
+    "id": "claude-ship",
+    "name": "Claude Ship agentic code review",
+    "status": "new",
+    "day": 1
+   },
+   "sources": [
+    {
+     "name": "Help Net Security",
+     "url": "https://www.helpnetsecurity.com/2026/11/24/anthropic-claude-ship-beta/"
+    },
+    {
+     "name": "The Decoder",
+     "url": "https://the-decoder.com/anthropics-claude-ship-lets-ai-agents-review-fix-and-approve-pull-requests-on-their-own/"
+    },
+    {
+     "name": "InfoWorld",
+     "url": "https://www.infoworld.com/article/4252505/anthropic-launches-claude-ship-extending-ai-assisted-development-to-pull-request-approvals.html"
+    }
+   ],
+   "desk": "ai"
+  }
+ ],
+ "desks": [
+  {
+   "id": "united",
+   "name": "Manchester United & Football",
+   "status": "story",
+   "note": "",
+   "stories": [
+    {
+     "headline": "Shaw back in Carrington training; could return for Sporting in Champions League",
+     "why": "A fit left-back is the first real defensive relief for Pochettino after the 4-0 loss at Liverpool left United with the most goals conceded (34) in Europe's top five leagues.",
+     "points": [
+      "Shaw, 31, has missed eight games since the 10 October Spurs draw and was in the open training session at Carrington",
+      "United remain without Sesko and Baleba; Rashford absent and Cunha suspended, so Zirkzee may start at nine",
+      "Pochettino and Fernandes face the media in Lisbon at 18:15 GMT; Fernandes meets Sporting for the first time since joining in 2020",
+      "Pochettino coached Shaw at Southampton"
+     ],
+     "next": "Sporting v Man Utd, Champions League, Wednesday 25 Nov, Jose Alvalade; Pochettino press conference Tuesday 24 Nov, 18:15 GMT",
+     "confidence": "reported",
+     "impact": "medium",
+     "thread": {
+      "id": "pochettino-era",
+      "name": "Pochettino era begins",
+      "status": "changed",
+      "day": 12
+     },
+     "sources": [
+      {
+       "name": "Yahoo Sports",
+       "url": "https://sports.yahoo.com/articles/shaw-set-man-utd-return-125134671.html"
+      },
+      {
+       "name": "The Independent",
+       "url": "https://www.independent.co.uk/sport/football/man-utd-news-luke-shaw-injury-sporting-champions-b3090606.html"
+      }
+     ],
+     "desk": "united"
+    },
+    {
+     "headline": "Times: striker is United's January priority as Sesko is out until at least January",
+     "why": "The recruitment plan is tilting toward attack as well as defence, which competes with the centre-back search for a limited January budget.",
+     "points": [
+      "The Times (via Yahoo) says Pochettino and the board agree reinforcements are needed after one win in 11 league games",
+      "Sesko's shin injury has limited him to two starts this season; he has 14 goals in 38 appearances since a 73.7m pound move",
+      "Zirkzee has 11 goals in 86 appearances and is described as better behind a striker; LiveScore says three Serie A clubs are interested (unverified)",
+      "Other outlets (talkSPORT, Yahoo) claim a budget under 50m pounds, unconfirmed"
+     ],
+     "next": "January transfer window opens 1 Jan 2027 (standard date; no club confirmation)",
+     "confidence": "rumour",
+     "impact": "medium",
+     "thread": {
+      "id": "united-january-defender",
+      "name": "January defender search",
+      "status": "changed",
+      "day": 2
+     },
+     "sources": [
+      {
+       "name": "Yahoo Sports (citing The Times)",
+       "url": "https://sports.yahoo.com/articles/manchester-united-crucial-transfer-decision-115000976.html"
+      },
+      {
+       "name": "LiveScore",
+       "url": "https://www.livescore.com/en/news/football/serie-a/joshua-zirkzee-could-leave-manchester-united-as-three-serie-a-clubs-show-interest-red-devil-armada/"
+      }
+     ],
+     "desk": "united"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "name": "World Affairs & Politics",
+   "status": "story",
+   "note": "Lead stories: see top (chips give back Monday's rally; Fed's Williams keeps hike risk alive).",
+   "stories": [
+    {
+     "headline": "Oil near three-month low as supply offsets Hormuz threat; US eyes Iran over ship cyberattacks",
+     "why": "Supply is outweighing the Gulf risk premium for now, but a WSJ-sourced attribution of ship cyberattacks to Iran keeps escalation risk live.",
+     "points": [
+      "Reuters: oil holds near a three-month low on 24 Nov as rising supply offsets the Hormuz threat.",
+      "Reuters, citing WSJ: US officials see Iran as a possible culprit in dozens of new cyberattacks on ships.",
+      "Attribution is unconfirmed by officials in the headline reporting."
+     ],
+     "next": "No dated catalyst found; watch Gulf shipping incidents and OPEC+ supply news.",
+     "confidence": "reported",
+     "region": "Global",
+     "impact": "medium",
+     "thread": {
+      "id": "hormuz",
+      "name": "Strait of Hormuz attacks",
+      "status": "changed",
+      "day": 23
+     },
+     "sources": [
+      {
+       "name": "Reuters",
+       "url": "https://www.reuters.com/business/energy/oil-holds-near-three-month-low-rising-supply-offsets-hormuz-threat-2026-11-24/"
+      },
+      {
+       "name": "Reuters",
+       "url": "https://www.reuters.com/world/middle-east/us-eyes-iran-possible-culprit-dozens-new-cyberattacks-against-ships-wsj-reports-2026-11-24/"
+      }
+     ],
+     "desk": "world"
+    }
+   ]
+  },
+  {
+   "id": "prop",
+   "name": "Futures & Prop Firms",
+   "status": "quiet",
+   "note": "Nothing confirmed by a firm source. Unconfirmed: Take Profit Trader launching end-of-day drawdown in PRO and PRO+ (EOD25/50/150 plans, from 23 Nov 2026) appears only in an investingLive piece that reads as a TPT promo (code NOFEE40); a search found no TPT site or help-page confirmation. Check takeprofittrader.com before relying on it. PropFirmTrend awards/relaunch is a press release, not a rule change.",
+   "stories": []
+  },
+  {
+   "id": "tradetech",
+   "name": "Trading Technology",
+   "status": "quiet",
+   "note": "Feed was general TradingView market news with no platform or tooling changes; a search for new TradingView order-flow/Pine updates found nothing dated this week.",
+   "stories": []
+  },
+  {
+   "id": "ai",
+   "name": "Artificial Intelligence",
+   "status": "story",
+   "note": "Lead story: Claude Ship, see top.",
+   "stories": [
+    {
+     "headline": "Claude's VP vs VNP proof posted with Lean check but no human verification",
+     "why": "The earlier claim is now a published paper plus a machine-checked formalisation, yet Anthropic itself says nobody has verified it. It is a test of how science handles AI-authored results.",
+     "points": [
+      "Anthropic's repository credits the paper to Claude alone and claims a superpolynomial lower bound for VP vs VNP over every field; the README says it does not settle P vs NP.",
+      "README: both paper and formal proof were written by AI and no human mathematician has checked the proof; Lean checks the proofs but not that the statement says what is claimed.",
+      "Reported size varies by outlet (a 70-page paper; roughly 324 Lean files, ~73,000 lines per AI Weekly, not Anthropic).",
+      "The Register's framing is critical: the written output is unwieldy rather than explanatory."
+     ],
+     "next": "Human mathematician review of the Lean statements; no date set.",
+     "confidence": "claim",
+     "impact": "medium",
+     "thread": {
+      "id": "ai-science-claims",
+      "name": "AI contributions to science",
+      "status": "changed",
+      "day": 9
+     },
+     "sources": [
+      {
+       "name": "CASRAI",
+       "url": "https://casrai.org/news/anthropic-claude-authored-vp-vnp-proof-unverified-lean-2026"
+      },
+      {
+       "name": "The Register",
+       "url": "https://www.theregister.com/ai-and-ml/2026/11/24/anthropic-says-claude-solved-an-age-old-math-problem-but-the-written-proof-is-250000-pages-of-slop/5311775"
+      }
+     ],
+     "desk": "ai"
+    },
+    {
+     "headline": "Anthropic opens Enterprise Frontier Safeguards in public beta with zero data retention",
+     "why": "Sensitive Claude prompts can stay in the customer's own cloud with their keys, removing a common enterprise blocker.",
+     "points": [
+      "Announced 23 Nov for Claude Platform users: prompts, responses and reasoning encrypted and stored in the customer's S3 or Google Cloud.",
+      "Anthropic retains nothing and does not train on it; misuse flags go to the customer's security team within a week.",
+      "More than 100 customers in the private beta; Bridgewater, Salesforce and Stripe named.",
+      "Not available to organisations with HIPAA readiness enabled."
+     ],
+     "next": "Public beta running; general availability not dated.",
+     "confidence": "reported",
+     "impact": "low",
+     "thread": {
+      "id": "anthropic-efs",
+      "name": "Enterprise Frontier Safeguards",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Crypto Briefing",
+       "url": "https://cryptobriefing.com/anthropic-enterprise-frontier-safeguards-public-beta/"
+      }
+     ],
+     "desk": "ai"
+    }
+   ]
+  },
+  {
+   "id": "business",
+   "name": "Business & E-commerce",
+   "status": "story",
+   "note": "",
+   "stories": [
+    {
+     "headline": "Walmart lets Meta's Muse agent shop and buy Black Friday deals",
+     "why": "Agentic checkout reaches a major retailer in peak week, while eBay and Amazon block such agents. Brands selling via Walmart should expect AI-selected baskets.",
+     "points": [
+      "Walmart is integrating Muse via its Sparky assistant and the Agent Gateway launched in October.",
+      "Consumers set an agent profile and spending limit and can require manual approval for every purchase; Walmart says purchase history is not shared.",
+      "MediaPost notes Muse has been reported buying without permission, including an Airbnb booking.",
+      "eBay and Amazon have blocked Muse and similar agents."
+     ],
+     "next": "Black Friday, 27 Nov: first real test of agent-led purchases.",
+     "confidence": "reported",
+     "impact": "medium",
+     "thread": {
+      "id": "meta-muse-commerce",
+      "name": "Meta Muse agentic shopping",
+      "status": "changed",
+      "day": 6
+     },
+     "sources": [
+      {
+       "name": "MediaPost",
+       "url": "https://www.mediapost.com/publications/article/419648/walmart-allows-metas-muse-agent-to-autonomously-s.html?edition=144552"
+      }
+     ],
+     "desk": "business"
+    },
+    {
+     "headline": "Meta reportedly exploring CTV ads as AppLovin eyes Criteo",
+     "why": "Meta may offer TV reach through its own buying platform, and AppLovin's reported interest in Criteo suggests consolidation. Both could shift where performance budgets go in 2027.",
+     "points": [
+      "Next in Media reported Meta is exploring partnerships with TV makers and free FAST services; Digiday says sources see it as a way to take on Google's DV360.",
+      "Reuters reported unconfirmed AppLovin-Criteo talks; Vista and Quinti are also said to be interested.",
+      "AppLovin Q3 revenue was $2.19bn (+55%); Criteo revenue fell 12% to $416m.",
+      "Separately JPMorgan cut its Meta price target to $775 from $940 on AI spending concerns."
+     ],
+     "next": "Any confirmed AppLovin-Criteo deal or Meta CTV partner announcement; none dated.",
+     "confidence": "reported",
+     "impact": "low",
+     "thread": {
+      "id": "meta-ctv-adtech",
+      "name": "Meta CTV and ad-tech consolidation",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Digiday",
+       "url": "https://digiday.com/media-buying/ad-tech-briefing-meta-eyes-ctv-as-applovin-circles-criteo-signs-of-the-squeeze-on-independent-ad-tech/"
+      },
+      {
+       "name": "Business Upturn",
+       "url": "https://businessupturn.com/usa/money/us-markets/jpmorgan-slashes-meta-price-target-to-775-from-940-as-ai-spending-concerns-return/"
+      }
+     ],
+     "desk": "business"
+    }
+   ]
+  },
+  {
+   "id": "faith",
+   "name": "Christianity & Theology",
+   "status": "story",
+   "note": "",
+   "stories": [
+    {
+     "headline": "Ushabti trove at Tanis may point to Sheshonq III's missing tomb",
+     "why": "A rare case where new finds could settle where a Third Intermediate Period pharaoh was buried, in the era just after the Bible's Shishak-period Egypt. The identification is still an inference, not proven.",
+     "points": [
+      "French team conserving Osorkon II's tomb (r. 872-837 BCE) found 225 ushabti figurines naming Sheshonq III (r. 841-803 BCE).",
+      "Found in situ under thick silt in the northern chamber, which had only been partly excavated.",
+      "An uninscribed granite sarcophagus found nearby earlier is now thought most likely his; his own tomb has never been located.",
+      "Open question: was he buried in his predecessor's tomb, or were his goods moved there? New inscriptions await translation."
+     ],
+     "next": "Translation of the new inscriptions in the northern chamber (no date given).",
+     "confidence": "reported",
+     "impact": "low",
+     "thread": {
+      "id": "tanis-sheshonq-iii",
+      "name": "Sheshonq III ushabti find at Tanis",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Biblical Archaeology Society",
+       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-egypt/is-sheshonq-buried-at-tanis/"
+      }
+     ],
+     "desk": "faith"
+    }
+   ]
+  },
+  {
+   "id": "health",
+   "name": "Health & Wellness",
+   "status": "story",
+   "note": "Cut: a JAMA Network Open study on neonatal deaths in abortion-ban states (politically contested; no balancing coverage seen). Menopause HRT item moved here from Expand.",
+   "stories": [
+    {
+     "headline": "Eating more egg and peanut in pregnancy did not cut infant allergy in NEJM trial",
+     "why": "Tests a common idea that a mother's diet can prevent food allergy in high-risk babies. It did not, so the focus stays on feeding allergens to the infant directly.",
+     "points": [
+      "2,137 pregnant women with a family history of allergy, randomised to at least 6 eggs and 60 peanuts a week or a standard diet (max 3 eggs, 30 peanuts).",
+      "Diet followed from before 23 weeks of pregnancy to 4 months of breastfeeding.",
+      "Egg or peanut allergy by age 1: 7.8% (83/1,066) versus 8.4% (89/1,064); relative risk 0.93, not significant.",
+      "Safety outcomes were similar between groups."
+     ],
+     "next": "None scheduled; watch for guideline bodies' response.",
+     "confidence": "reported",
+     "grade": "B",
+     "study": "Multisite RCT, n=2,137, pregnant women with infants at high allergy risk; outcome at 1 year only, secondhand summary of NEJM paper",
+     "impact": "medium",
+     "thread": {
+      "id": "maternal-egg-peanut-allergy",
+      "name": "Maternal diet and infant food allergy",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Medical Dialogues (NEJM report)",
+       "url": "https://medicaldialogues.in/amp/pediatrics-neonatology/news/maternal-egg-and-peanut-intake-does-not-prevent-infant-allergies-nejm-182575"
+      }
+     ],
+     "desk": "health"
+    },
+    {
+     "headline": "Cambridge genome study: about 1 in 5 cancers carry changes matching approved drugs",
+     "why": "Suggests many patients might qualify for existing drugs if treatment followed DNA rather than tumour site. Benefit in practice is untested.",
+     "points": [
+      "Whole-genome data from over 17,000 tumours: 11,000 primary (UK 100,000 Genomes) and 6,000 metastatic (Dutch Hartwig).",
+      "Targetable changes in about 19% of primary and 26% of metastatic cancers.",
+      "More than half sat in cancer types where the matching drug lacks FDA approval.",
+      "Published in The Lancet Oncology, 16 Nov 2026."
+     ],
+     "next": "Clinical trials of off-label matching would be needed; none dated.",
+     "confidence": "reported",
+     "grade": "C",
+     "study": "Retrospective genomic analysis, >17,000 tumours, UK and Dutch cohorts; no outcome data on treatment benefit; seen via secondary summary",
+     "impact": "medium",
+     "thread": {
+      "id": "cambridge-cancer-actionable-dna",
+      "name": "Cancer DNA matched to approved drugs",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Wisevoter (summary of Lancet Oncology paper)",
+       "url": "https://wisevoter.com/world/2026/11/24/cancer-dna-changes-matched-approved-drugs"
+      }
+     ],
+     "desk": "health"
+    },
+    {
+     "headline": "Oestradiol-based menopause hormone therapy linked to better memory, not lower dementia risk",
+     "why": "Fits the women's-health interest and the tangle of mixed HRT evidence: formulation seems to matter. It is conference data, not trial proof.",
+     "points": [
+      "Analysis of about 14,000 women on different HRT types or none, presented at Neuroscience 2026 (began 14 Nov).",
+      "Oestradiol-based therapy tied to better episodic memory than mixed natural/synthetic oestrogens.",
+      "In APOE4 carriers, oestradiol users had thicker cortex and less white-matter damage.",
+      "HRT did not change progression to dementia; Susan Davis says a randomised trial is needed."
+     ],
+     "next": "Peer-reviewed publication and randomised testing; no date given.",
+     "confidence": "claim",
+     "impact": "low",
+     "thread": {
+      "id": "menopause-hrt-brain",
+      "name": "Menopause hormone therapy and the brain",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Nature News",
+       "url": "https://www.nature.com/articles/d41586-026-03667-y"
+      }
+     ],
+     "grade": "C",
+     "study": "Observational analysis, ~14,000 women, conference presentation (Neuroscience 2026); not peer-reviewed, cannot show cause",
+     "desk": "health"
+    }
+   ]
+  },
+  {
+   "id": "gaming",
+   "name": "Gaming & PlayStation",
+   "status": "story",
+   "note": "",
+   "stories": [
+    {
+     "headline": "Sony: GTA VI is the biggest launch in PlayStation history, 39m+ PS5 players",
+     "why": "First hard demand figure for the launch, and a Sony number rather than Rockstar's, so it sets the holiday-season baseline for PS5.",
+     "points": [
+      "More than 39 million unique PS5 players in the launch window to 22 Nov",
+      "683 million cumulative hours, average 17.4 hours per player",
+      "Record concurrent players for any game on PlayStation across single-player, multiplayer and free-to-play",
+      "Figure covers PS5 only; Xbox numbers not given"
+     ],
+     "next": "Rockstar/Take-Two sales update, date not announced; Take-Two earnings are the likely venue",
+     "confidence": "confirmed",
+     "impact": "high",
+     "thread": {
+      "id": "gta6-launch",
+      "name": "GTA VI launch",
+      "status": "changed",
+      "day": 30
+     },
+     "sources": [
+      {
+       "name": "PlayStation Blog",
+       "url": "https://blog.playstation.com/2026/11/23/thank-you-for-making-grand-theft-auto-vi-the-biggest-launch-in-playstation-history/"
+      },
+      {
+       "name": "Polygon",
+       "url": "https://www.polygon.com/gta-6-biggest-launch-in-ps-history/"
+      }
+     ],
+     "desk": "gaming"
+    },
+    {
+     "headline": "Leaked GTA VI Xbox build boots on PC; Rockstar reportedly shuts down Leonida port project",
+     "why": "An unofficial PC version is a piracy and cheating risk before Rockstar's own PC release, but the main port effort has just been taken down.",
+     "points": [
+      "Leaker Cyberleek released the missing .exe for a November 2026 Xbox build; one group reportedly reached the main menu and intro (about 70% on its own tracker)",
+      "The Leonida recompilation project lost its Discord and GitHub and its lead dev NotRexed quit, citing circumstances beyond his control",
+      "Reports say Rockstar letters and Discord takedowns were involved; Rockstar has not commented publicly (per Notebookcheck)",
+      "Other closed groups reportedly continue; claims come from an anonymous leaker promoting a memecoin"
+     ],
+     "next": "No date; watch for a Rockstar statement or an official PC date",
+     "confidence": "reported",
+     "impact": "medium",
+     "thread": {
+      "id": "gta6-cyberleek-leak",
+      "name": "Cyberleek GTA VI leak",
+      "status": "changed",
+      "day": 2
+     },
+     "sources": [
+      {
+       "name": "GameGPU",
+       "url": "https://en.gamegpu.com/news/igry/rockstar-games-i-discord-zablokirovali-proekt-leonida-po-portirovaniyu-gta-vi"
+      },
+      {
+       "name": "Notebookcheck",
+       "url": "https://www.notebookcheck.net/As-GTA-6-PC-port-gets-closer-to-becoming-playable-Rockstar-is-reportedly-taking-action-against-modders-and-Discord-communities.1458181.0.html"
+      },
+      {
+       "name": "RockstarINTEL",
+       "url": "https://rockstarintel.com/gta-vi-is-coming-to-pc-thanks-to-major-leak/"
+      }
+     ],
+     "desk": "gaming"
+    },
+    {
+     "headline": "GTA VI update adds PS Plus Premium cloud streaming to PS5 and PS Portal",
+     "why": "Useful for PS Portal owners, and it settles earlier talk of Microsoft streaming exclusivity.",
+     "points": [
+      "Owners with PS Plus Premium can stream the game they already own from Sony's servers",
+      "Game is not in the PS Plus Premium catalogue; purchase still required",
+      "Push Square tested it on a UK PS5 and says it works well",
+      "Not available at launch"
+     ],
+     "next": "None dated",
+     "confidence": "reported",
+     "impact": "low",
+     "thread": {
+      "id": "gta6-launch",
+      "name": "GTA VI launch",
+      "status": "changed",
+      "day": 30
+     },
+     "sources": [
+      {
+       "name": "Push Square",
+       "url": "https://www.pushsquare.com/news/2026/11/gta-6-owners-can-now-stream-the-game-to-ps5-ps-portal-with-ps-plus-premium"
+      }
+     ],
+     "desk": "gaming"
+    }
+   ]
+  },
+  {
+   "id": "expand",
+   "name": "Expand My World",
+   "status": "quiet",
+   "note": "Nothing outside Pete's usual interests cleared the bar today; skipped rather than padded.",
+   "stories": []
+  }
+ ],
+ "watching": [
+  {
+   "thread": "ukraine-talks",
+   "line": "German poll shows narrow majority against more military aid; Patriots allocated to Ukraine reportedly not yet approved by US defence chief. No ceasefire movement."
+  },
+  {
+   "thread": "nvidia-earnings-nov",
+   "line": "Huang back as CEO; congressional hearings expected; Nvidia about -4.7% pre-market after Monday's surge."
+  },
+  {
+   "thread": "topstep-nov-2026-rules",
+   "line": "Still awaiting confirmation on Topstep's own help pages."
+  },
+  {
+   "thread": "gta6-ps5-crashes",
+   "line": "No Rockstar patch notes seen yet."
+  },
+  {
+   "thread": "fernandes-contract",
+   "line": "No new club statement; Fernandes at the Lisbon press conference today."
+  }
+ ],
+ "close_threads": [],
+ "expand": null,
+ "generated_at": "2026-11-24T13:28:28Z",
+ "updates": [],
+ "status": {
+  "story": 7,
+  "quiet": 3,
+  "failed": 0
+ }
+}
