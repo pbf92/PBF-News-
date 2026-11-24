@@ -1,0 +1,22 @@
+URL: https://uk.finance.yahoo.com/news/wall-street-futures-stabilise-following-101536918.html
+TITLE: Wall Street Futures Stabilise Following Nvidia Rebound as Fed Policy and Technology Earnings Remain in Focus: Dow Jones, S&P, Nasdaq
+OUTLET: Yahoo Finance UK
+
+US equity futures fluctuated around unchanged levels on Tuesday after a substantial recovery in global stock markets following the reinstatement of Jensen Huang as chief executive of Nvidia (NASDAQ:NVDA).
+Investors were also assessing the outlook for US monetary policy, quarterly results from Hewlett Packard Enterprise and expectations of a global oil supply surplus.
+Nvidia Leadership Announcement Drives Global Equity Recovery
+Nvidia shares fell more than 3% in Tuesday's premarket session after advancing more than 30% on Monday, an increase that added over US$1 trillion to the semiconductor manufacturer's market value.
+The recovery followed the announcement that Huang would return as chief executive, having resigned approximately two weeks earlier.
+The development supported widespread gains across Wall Street, particularly among technology companies exposed to artificial intelligence investment.
+The Nasdaq Composite finished Monday's session 6.51% higher, while the S&P 500 gained 4.73% and the Dow Jones Industrial Average advanced 3.01%.
+The session represented the strongest performance for US equity markets since April 2025.
+"Jensen Huang's return as Nvidia CEO lifted stocks on Monday and cleared the negative sentiment, opening room for a near-term rebound," analysts at BCA Research said in a research note.
+Taiwan and South Korea Lead Asian Market Gains
+Asian semiconductor-related markets recorded substantial increases following Monday's recovery in US technology stocks.
+Taiwanese equities advanced 8.99%, while South Korea's KOSPI index gained 6.32%, reflecting renewed investor interest in companies supplying components for artificial intelligence infrastructure.
+Nvidia's expansion under Huang has positioned the company as a major supplier of advanced processors for AI datacentres, alongside its established gaming semiconductor operations.
+The company has also supported investment across the AI industry through commercial and financing arrangements, some involving its own customers.
+Despite the recovery in technology shares, uncertainty remains regarding the returns on AI infrastructure expenditure, the industry's reliance on debt financing and the future pace of US datacentre development.
+Huang is expected to appear before US congressional committees, where Nvidia's business relationships with China and adherence to export restrictions could be examined.
+Federal Reserve Rate Expectations Remain Elevated Ahead of December Meeting
+Financial markets continue to anticipate a further increase in US interest rates at the Federal Reserve's December policy meeting.

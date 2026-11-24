@@ -1,0 +1,18 @@
+URL: https://forklog.com/en/anthropic-launches-claude-ship-for-automated-code-review-and-approval/
+TITLE: Anthropic Launches Claude Ship for Automated Code Review and Approval
+OUTLET: ForkLog
+
+Anthropic Launches Claude Ship for Automated Code Review and Approval
+Anthropic launches Claude Ship for automated code review.
+Anthropic has introduced Claude Ship, a tool that enables AI agents to review code changes, address feedback, and approve them before merging into the main project.
+The service integrates three components:
+Code Review — analyzes pull requests to identify errors, vulnerabilities, and other issues;
+PR Steward — addresses feedback, resolves merge conflicts, and responds to automated check failures;
+Claude Approvals — evaluates changes based on developer-defined rules and can autonomously approve suitable updates.
+Teams retain control over the process: they decide which changes require human involvement and can initially run the system in observation mode without automatic approvals.
+Claude Ship Integrates with GitHub
+Developers can manually initiate Claude Ship using the /ship command in Claude Code. In this mode, the agent creates a pull request, reviews changes, and works on resolving feedback and errors from automated tests.
+Administrators can also deploy the tool across entire repositories, allowing agents to automatically engage in reviewing new changes according to team-specific settings and policies.
+Claude Ship is available to Claude Team and Enterprise subscribers for GitHub repositories. Code Review has exited beta, while PR Steward and Claude Approvals are still in testing.
+Anthropic noted that the tool uses tokens and may increase organizational costs depending on the number of changes reviewed and the depth of analysis.
+Earlier, on November 19, the company began trading on Nasdaq following a record IPO valued at $81.3 billion.

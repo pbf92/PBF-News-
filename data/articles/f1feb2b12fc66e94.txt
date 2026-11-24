@@ -1,0 +1,38 @@
+URL: https://www.infoworld.com/article/4252505/anthropic-launches-claude-ship-extending-ai-assisted-development-to-pull-request-approvals.html
+TITLE: Anthropic launches Claude Ship, extending AI-assisted development to pull request approvals
+OUTLET: InfoWorld
+
+Anthropic has launched Claude Ship in beta, letting software development teams delegate code approval to AI agents within limits set by individual repository policies.
+The launch targets a potential bottleneck in AI-assisted software development, where the speed at which developers can generate code may outpace their ability to review it.
+By combining automated reviews with the corrective work needed to prepare pull requests for approval, Anthropic is competing across a broader stretch of the software development lifecycle.
+Its integration with Claude Code could make it particularly attractive to enterprises already using Anthropic’s coding tools, according to Lian Jye Su, chief analyst at Omdia.
+But GitHub and GitLab have an advantage in how closely their AI tools integrate with their respective development platforms, said Deepika Giri, vice president of Asia/Pacific artificial intelligence platforms and advisory at IDC.
+“Anthropic’s Claude Ship is not a breakthrough innovation as much as an evolution of existing AI-assisted code review capabilities,” said Nitish Tyagi, senior principal analyst at Gartner.
+Claude Ship incorporates Anthropic’s generally available Code Review tool alongside PR Steward and Claude Approvals, both of which are in beta. Review depth is configurable at the repository level, with teams able to choose between Quick, Standard, and Deep reviews.
+PR Steward handles corrective work on open pull requests, responding to review feedback and problems that arise during continuous integration (CI). Its remit includes resolving merge conflicts but excludes approving or merging changes.
+Claude Approvals evaluates proposed changes against a policy file maintained within each repository. Engineering teams can authorize the agent to approve routine changes while reserving more sensitive decisions for human reviewers.
+Teams can incorporate automated review findings into approval policies and define additional classification criteria in natural language.
+Anthropic recommends that most customers initially run the agent in an observation-only mode before requiring its approval for code to be merged.
+Running /ship in Claude Code initiates the workflow from the point at which a developer has a change ready for submission. Claude opens the pull request and begins working toward getting it ready to merge.
+Organizations can also automate the workflow across a repository. Existing branch protection rules and developer permissions continue to govern merging.
+Anthropic said the number of pull requests merged by its Claude Code team more than doubled between June and September, while the proportion subsequently declined by more than 40%. Anthropic did not specify how much of the improvement was attributable to its AI code review tool.
+Where human oversight is still necessary
+Giving AI agents approval authority introduces a different set of risks from using them to generate code. Engineering teams must establish who is accountable for changes that pass an automated review but subsequently cause problems in production.
+One concern is that models used to generate code and those reviewing it could share blind spots, allowing certain defects to pass undetected, Giri said.
+Using a different model for review does not necessarily provide sufficient assurance either.
+“AI models are inherently non-deterministic, which makes them unsuitable as the sole quality gate,” Tyagi said.
+Automated approvals need not displace conventional software quality controls. Linters and static application security testing (SAST) can evaluate code independently of the AI reviewer’s judgment.
+The scope of automated approvals also needs to account for industry-specific requirements.
+“Agents may not fully appreciate all the security and compliance requirements that are constantly evolving in some industries,” Su said.
+Giri recommended restricting automated approvals to low-risk changes while keeping security scans and CI checks independent of the agent. Every merge should still have a designated human owner, she said.
+Accountability also depends on whether organizations can distinguish an agent’s actions from those of individual developers. Tyagi recommended assigning review agents separate identities linked to the team or developer responsible for the pull request.
+The service also has deployment restrictions. Organizations using Anthropic’s zero data retention or HIPAA configurations cannot currently use Claude Ship. The same restriction applies to organizations using customer-managed encryption keys.
+The economics of automated code review
+Claude Ship supports GitHub repositories under Anthropic’s Team and Enterprise plans.
+Token-based costs will depend on the number and size of pull requests, as well as how frequently and thoroughly they are reviewed. Spending on PR Steward will also depend on the corrective work it performs. Administrators can set spending limits for Code Review and PR Steward.
+There is no fixed charge for Claude Approvals itself, but processing natural-language classifiers incurs token charges. Organizations running approval policies that depend on Claude’s review findings must also pay for those reviews, even when the approval agent is running in observation mode. Invoking /ship falls under existing Claude Code billing.
+Development practices could have a bearing on those costs. Large pull requests can be particularly expensive to review when premium AI models are involved, Tyagi said. Submitting smaller changes could make reviews more effective while helping contain token consumption, he added.
+For engineering leaders, one useful measure of adoption costs is the amount spent per merged pull request. Giri recommended establishing that benchmark through an initial deployment in a single repository before expanding the rollout.
+The assessment should extend beyond cost savings. Platform engineering teams will need to establish whether automated reviews can uphold existing engineering standards without creating additional work elsewhere in the development process.
+Developer satisfaction should also factor into evaluations of the technology, Su said.
+Giri recommended assessing improvements in software delivery cycle times against change failure rates and monitoring whether teams need to revert changes more frequently. Defects that escape review and the subsequent rework are equally relevant. “If speed rises while those also rise, it’s technical debt, not productivity,” Giri said.

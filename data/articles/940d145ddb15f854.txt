@@ -1,0 +1,47 @@
+URL: https://www.itpro.com/software-engineering/anthropics-new-claude-ship-service-hands-the-reins-to-agents-to-fix-and-review-code-changes-but-the-company-warns-it-may-miss-bugs-security-vulnerabilities-or-other-issues
+TITLE: Anthropic's new Claude Ship service hands the reins to agents to fix and review code changes – but the company warns it may 'miss bugs, security vulnerabilities, or other issues'
+OUTLET: IT Pro
+
+Anthropic has unveiled Claude Ship, claiming the new service will allow agents to review pull requests, fix code problems, and even approve changes.
+According to the company, the goal of the new service is to help "ship code as fast as teams write it," while still keeping control of policies.
+The rise of AI-powered coding has caused issues for developers in recent years, with half saying they don't bother to check AI generated code because it takes longer than reviewing code written by their colleagues.
+In a bid to address that, Claude Ship can review pull requests, fix any issues, and then decide using policies whether to merge the change.
+"Most teams want a person to approve every change, and that's easy to keep up with when people write every line," the company said in a blog post. "But a lot of developers build with agents now. On the Claude Code team, Claude writes most of our code, and we wanted everything after the PR to move that fast too."
+"Teams stay in control of where it runs and which changes need a person," the company added.
+Anthropic said that the new features have been supporting teams internally at the company, with developers reporting promising gains.
+Sign up today and you will receive a free copy of our Future Focus 2026 report - the leading resource for IT decision-maker insight on priorities and investment areas in AI, security and more.
+"On the Claude Code team, where Claude's review is one layer of a broader process, merged PRs more than doubled from June to September while the share reverted fell by more than 40%," the company said.
+Claude Ship is currently available in beta and available now on Claude Team and Enterprise plans for repositories on GitHub.
+How Claude Ship works
+According to Anthropic, Claude Ship is a combination of its existing Code Review product, as well as two beta agents, PR Steward and Claud Approvals.
+Those tools manage code through a process of looking for issues, sorting fixes, looking for further issues, fixing those, and then finally pushing the code through to approval.
+Claude Approvals will consider team policies before approving routine changes, with any more challenging or risky changes sent to a human to look over first.
+"Code Review performs an in-depth review of pull requests against the codebase through multiple lenses," the company noted. "It collects findings, adversarially verifies them, categorizes them, and posts them to a PR."
+The PR Steward tool doesn't approve or merge pull requests, but looks at conflicts and problems, reviewing feedback from Code Review or even team members, who can tell it to stop or send it instructions.
+"After every push, it comments with what it changed and how to undo it," Anthropic explained.
+Thereafter, Claude Approvals takes over, using a policy that the human coding team has created as a file in the repository.
+"Claude can approve routine changes on its own if the policy allows it, or can require deeper human sign-off for certain scenarios," the company said.
+Anthropic advised that users start slow rather than leaping into automated code approvals. Indeed, the company said the tool “may miss bugs, security vulnerabilities, or other issues."
+"For most customers, we recommend enabling this first in observe-only mode to build confidence before configuring branch protection to require Claude Approvals' green light," the blog post said.
+FOLLOW US ON SOCIAL MEDIA
+Follow ITPro on Google News and add us as a preferred source to keep tabs on all our latest news, analysis, views, and reviews.
+You can also follow ITPro on LinkedIn, X, Facebook, and BlueSky.
+Freelance journalist Nicole Kobie first started writing for ITPro in 2007, with bylines in New Scientist, Wired, PC Pro and many more.
+Nicole the author of a book about the history of technology, The Long History of the Future.
+- 
+Anthropic is increasing Claude Code usage limits — here’s everything you need to know News The new deal will help Anthropic increase Claude Code usage limits, and API rate limits for Claude Opus models
+- 
+‘There was a manual deploy step that should have been better automated’: Claude Code creator confirms cause of massive source code leak News Over half a million lines of Claude Code source code was leaked, with the company attributing the blunder to human error
+- 
+Anthropic says ‘code review has become a bottleneck’ – this new Claude Code feature aims to solve that News Anthropic’s new tool aims to address code review bottlenecks with AI tool — but it won't come cheap
+- 
+Anthropic says Claude Code can help streamline 'cost-prohibitive' COBOL modernization, but IBM says it's not that simple – 'decades of hardware-software integration cannot be replicated by moving code' News Research from Anthropic claims Claude Code can simplify modernization of COBOL systems
+- 
+Claude Code creator Boris Cherny says software engineers are 'more important than ever’ as AI transforms the profession – but Anthropic CEO Dario Amodei still thinks full automation is coming News There’s still plenty of room for software engineers in the age of AI, at least for now
+- 
+Anthropic Labs chief Mike Krieger claims Claude is essentially writing itself – and it validates a bold prediction by CEO Dario Amodei News Internal teams at Anthropic are supercharging production and shoring up code security with Claude, claims executive
+- 
+Claude Code is coming to Slack — here’s how to use it, what it can do, and how to get access News Users can get access to Claude Code in Slack today and begin delegating tasks
+- 
+GitHub is scrapping some Claude, OpenAI, and Gemini models in Copilot – here's what you need to know and what alternatives are available News GitHub Copilot users are urged to switch to the newer models following the retirement cut-off
+View More ▸

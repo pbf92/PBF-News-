@@ -1,0 +1,17 @@
+URL: https://www.macobserver.com/news/anthropic-launches-claude-ship-to-speed-up-code-reviews-for-builders/
+TITLE: Anthropic Launches Claude Ship to Speed Up Code Reviews for Builders
+OUTLET: The Mac Observer
+
+Software developers can already write code fast with artificial intelligence helpers, yet checking and approving that work still slows down teams. To solve this bottleneck, Anthropic has rolled out a new beta feature called Claude Ship. Built specifically for developers who rely on coding agents, this tool lets Claude review pull requests, fix problems, and approve routine updates so teams can release software much faster.
+Claude Ship helps coding teams manage pull requests automatically
+Developers who build software with agents often hit a wall once their code is ready for review. Checking pull requests, fixing small errors, and waiting for a human to approve changes can take a lot of time. Anthropic designed Claude Ship to make handling pull requests just as fast and automated as writing the initial code.
+The company says the main goal is to help teams ship code as quickly as they write it. While the tool automates many steps after a pull request opens, engineering teams still stay in charge. Admins decide which GitHub repositories use the feature and set clear rules for which changes still require a human reviewer before merging.
+Don’t miss the best of The Mac Observer
+Set us as a preferred source and our Apple reporting ranks higher in your Google Search results and Discover feed — one tap, no account changes.
+Three separate agents handle reviews, fixes, and final approvals
+Instead of relying on a single bot, Claude Ship uses three different agents that work together to guide a pull request from start to finish. Developers can trigger this workflow on their own pull requests by typing the new /ship command inside Claude Code, or admins can turn it on across an entire repository.
+Here is how the three agents divide the work:
+- Code Review: This agent is already generally available and scans proposed code changes to flag potential bugs or issues before they cause trouble.
+- PR Steward: Currently in beta, this agent resolves failed automated checks, fixes merge conflicts, and addresses reviewer feedback. It explains every change it makes and shows developers how to undo them, though it cannot approve or merge code on its own.
+- Claude Approvals: Also in beta, this agent reads a policy file written by the team and approves routine changes on its own, while sending riskier updates to a human.
+Claude Ship is rolling out now for users on Claude Team and Enterprise plans working on GitHub repositories. By letting AI handle routine code checks and fixes, builders can spend less time waiting on approvals and more time creating new features.

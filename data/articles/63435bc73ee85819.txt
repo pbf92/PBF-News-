@@ -1,0 +1,30 @@
+URL: https://www.escudodigital.com/en/cybersecurity/cybercriminals-use-gta-6-as-bait-to-drain-victims-digital-accounts.html
+TITLE: Cybercriminals use GTA 6 as bait to drain victims' digital accounts
+OUTLET: Escudo Digital
+
+The cybersecurity company Bitdefender has identified a supposed tool to play GTA 6 from Windows as a lure to infect computers.
+The cybercriminals promise an alternative to access the popular video game in an official PC version that, in reality, does not exist. What is actually behind it is a program designed to steal passwords, open sessions, and digital service credentials.
+A fake GTA 6 application hides the cyberattack
+The operation begins on a fraudulent page that advertises GTA VI Cloud Client, a supposed program that would allow enjoying the video game via streaming from a console.
+To convince victims, the perpetrators present two installation procedures.
+The first consists of downloading a compressed ZIP file containing an executable called GTA6Cloud.exe.
+The second is particularly dangerous because it uses a social engineering technique known as ClickFix, whereby the user is tricked into executing malicious instructions.
+In this case, the page requests simultaneously pressing the Windows and R keys, which open the Run window of the operating system. Then, it instructs to enter a PowerShell command.
+The goal is for the victim themselves to activate the infection process, believing they are completing a legitimate installation.
+Steam, Discord, and digital wallets among the targets
+The program used belongs to the category of infostealers, malicious tools specialized in collecting confidential information.
+According to researchers, it can also access cookies and authentication tokens, elements that allow keeping sessions open for certain services.
+Among the data it seeks to steal are:
+- Passwords stored in browsers, used to access pages and applications.
+- Credentials for Steam and Discord, two platforms especially popular among gamers.
+- Cookies and session tokens, which can facilitate unauthorized access.
+- Cryptocurrency wallet information, susceptible to being used to attempt to appropriate digital assets.
+- Credentials for artificial intelligence and development tools, which can compromise professional environments.
+The stolen information can facilitate identity theft, account hijacking, and new fraud attempts.
+Malware that tries to hide within Windows
+Another concerning feature is its ability to hinder detection by legitimate operating system tools, combined with code injection techniques into other processes.
+This procedure allows executing malicious instructions by leveraging existing processes and complicating the identification of suspicious activities.
+How to avoid falling for the GTA 6 scam
+The main recommendation is to distrust any platform that promises to install an unofficial version of the video game for computers. Because no, Rockstar has not released an official edition of GTA 6 for PC, at least not yet.
+It's also advisable to avoid executing commands copied from unknown pages, especially when they request using PowerShell or modifying security settings.
+Keeping Windows and antivirus updated, using multi-factor authentication, and downloading programs only from official channels are fundamental measures to reduce risk.

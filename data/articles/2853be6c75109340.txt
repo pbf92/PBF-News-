@@ -1,0 +1,16 @@
+URL: https://www.pcguide.com/news/gta-6-unofficial-pc-port-closer-than-ever-as-notorious-leaker-reportedly-drops-xbox-build/
+TITLE: GTA 6 unofficial PC port closer than ever as notorious leaker reportedly drops Xbox build
+OUTLET: PC Guide
+
+GTA 6 unofficial PC port closer than ever as notorious leaker reportedly drops Xbox build
+While millions of players explore Leonida on PS5 and Xbox Series X/S, PC gamers are still waiting for Rockstar Games to announce when GTA 6 will be available on their platform. However, an unofficial PC port of the game is looking likely, partly thanks to notorious leaker Cyberleek. Modders have already made some noticeable progress, although getting the game into a fully playable state remains a major challenge.
+🔥 More offers: see our Black Friday GTA 6 deals 2026 guide, updated daily, or browse all Black Friday deals.
+For those unaware, Cyberleek released an alleged Xbox build of GTA 6 shortly after the game’s launch last week. The leaked package was around 209GB in size and contained a large collection of game files. However, it was missing one of the most important files, the main executable, which limited what modders could do with the build.
+Latest tech deals.
+Prices correct as of November 5th, 2026.
+Cyberleek has now reportedly released the missing executable through a 57MB archive, giving community developers access to the file they had been waiting for. And within just a few hours of its release, evidence of GTA 6 booting on PC started appearing online. Yesterday, modders were providing potential system requirements for the unofficial PC port, claiming it’ll run on an 8GB GPU.
+Modders are already testing GTA 6 on PC
+Some modders have reportedly managed to get past the health warnings and copyright screens and reach the initial settings menu. However, the game crashes before players can enter the open world. In other words, while getting GTA 6 to boot on PC is a significant achievement, there’s still a lot of work that needs to be done before anyone can actually play it.
+Some community developers are also reportedly using AI tools, including Anthropic’s Claude, to assist with their work. While there are predictions that an unofficial PC port could become playable within days, there’s currently no guarantee that modders will be able to overcome the remaining technical challenges that quickly.
+Meanwhile, Rockstar appears to be taking action against some of the communities involved. Leonida, one of the most prominent GTA 6 recompilation projects, has already been discontinued, with its GitHub page and Discord server no longer accessible. Its developer, NotRexed, has announced his departure, citing both the removal of his Discord server and the pressure of managing the community alongside his personal commitments.
+Rockstar has yet to announce an official PC port for Grand Theft Auto VI. The most recently rumored date was early 2027, which would make it the quickest port in the series’ history in the 3D era (excluding the first two GTA titles). Red Dead Redemption 2 also took just over a year to make it to PC following its console launch, but we can’t say it wasn’t well worth the wait.

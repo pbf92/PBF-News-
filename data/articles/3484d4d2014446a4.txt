@@ -1,0 +1,95 @@
+URL: https://www.ons.gov.uk/economy/nationalaccounts/satelliteaccounts/bulletins/householdsatelliteaccountuk/2024andprovisional2025estimates
+TITLE: Household Satellite Account, UK: 2024 (and provisional 2025) estimates
+OUTLET: Office for National Statistics
+
+- The value of unpaid household services was £1.5 trillion in 2024 and is provisionally estimated to have risen to £1.6 trillion in 2025.
+- Household services were equivalent to 52% of gross domestic product (GDP) in 2024, with provisional estimates indicating that this will remain unchanged in 2025.
+- Transport services represented the highest value of unpaid household services in 2024, valued at £458 billion in current prices.
+- The value of nutrition services has fallen from its peak relative size of 8.1% of GDP during the coronavirus (COVID-19) pandemic to 4.4% in 2024, and an estimated 4.1% in 2025, largely reflecting lower household calorie consumption.
+Provisional 2025 estimates are included for the first time in this release and are partially based on modelled data.
+The Household Satellite Account (HHSA) extends the System of National Accounts (SNA) to include the value of unpaid household service work, providing a more complete view of economic activity. It recognises all contributions, especially those from households, providing users with comprehensive data on total output. These activities are not captured in the core national accounts production boundary so are not typically reflected in gross domestic product (GDP). For example, unpaid:
+- childcare
+- adult care
+- cooking
+- gardening
+- repair work in the home
+- transport
+- other services provided by individuals outside of business or government
+However, by quantifying the contribution of these unpaid services, the HHSA supports better policymaking by providing a more comprehensive understanding of the nation's economic activity. It also highlights the significance of household production in everyday life.
+In this release, data have been updated to include the reference year, 2024. Some revisions back to 2005 have been made because of methodological and input data improvements, where data are more readily available. As part of this process, we have revised our intermediate consumption estimates back to 2005, following a broader review of how we value goods used up in providing unpaid household services. These revisions result in lower estimates of gross value added (GVA), reflecting different criteria for determining which goods qualify as inputs to unpaid household services. Data are now considered comparable from 2005 to the latest reference year. However, some small revisions may still be made to transport estimates prior to 2014 so care should be taken when comparing pre-2014 transport estimates with later estimates.
+To improve timeliness, a new provisional estimate for reference year "t-1" has been produced. Where some data are not yet available for the provisional year, some of the estimates are partially or fully modelled. Those services include:
+- unpaid household transport services
+- adult care services
+- housing services
+- nutrition services
+Using this approach, the total value of unpaid work was found to be within 1% of the final estimates in testing.
+More information on the provisional data, data revisions and the review of our intermediate consumption methodology can be found in Section 5: Data sources and quality, in the Quality and methodology subsection.
+Figure 1: GDP grew by 106% between 2005 and 2024; if the economy is extended to include unpaid household services, the increase is 116%
+Gross value added (GVA) in current prices, as shown by GDP, total unpaid household services and then GDP with unpaid household service GVA included, UK, 2005 to 2025
+Source: UK Household Satellite Account from the Office for National Statistics
+Notes:
+- Unpaid Household Service output is not seasonally adjusted.
+- Analyses are based on monetary values in current prices.
+- Gross domestic product YBHA (GDP YBHA) is UK GDP at current market prices.
+- GDP data are based on the first quarterly estimate of GDP as of 13 August 2026. For the latest GDP data, please refer to the ONS website.
+- Estimates have been partially revised back to 2005.
+- Results for 2025 are provisional and may be partially or fully modelled. All estimates are subject to revision.
+Download this chart Figure 1: GDP grew by 106% between 2005 and 2024; if the economy is extended to include unpaid household services, the increase is 116%
+Image .csv .xls
+The value of unpaid household services rose to £1.5 trillion in 2024, with a provisional estimate of £1.6 trillion for 2025. Figure 1 adds the GVA of unpaid household services to GDP to provide a broader measure of economic activity. The combined value of GVA and GDP was £4.4 trillion in 2024, compared with the value of GDP (£2.9 trillion). Both the combined value of GVA and GDP and the non-combined value were measured in current prices.
+Figure 2: Transport services represented the highest value in unpaid household services in 2024, valued at £458 billion in current prices
+The value of individual unpaid household services, gross value added (GVA) in current prices, UK, 2005 to 2025
+Embed code
+Notes
+- Unpaid Household Service output is not seasonally adjusted.
+- Analyses are based on monetary values in current prices.
+- Estimates have been partially revised back to 2005.
+- Results for 2025 are provisional and may be partially or fully modelled. All estimates are subject to revision.
+Figure 2 shows that transport and childcare were consistently the highest-value unpaid household services between 2005 and 2024. The coronavirus (COVID-19) pandemic in 2020 led to school and childcare closures, and therefore increased unpaid childcare services, while movement restrictions reduced unpaid transport services. Transport and childcare unpaid household services were of equal value in 2023 and transport became the highest-value unpaid household service in 2024, reaching £458 billion.
+Figure 3: The relative size of unpaid household services increased during the 2008 financial downturn and again during the COVID-19 pandemic
+Proportionate size of unpaid household service value relative to GDP, UK, 2005 to 2025
+Source: UK Household Satellite Account from the Office for National Statistics
+Notes:
+- Unpaid Household Service output is not seasonally adjusted.
+- Analyses are based on monetary values in current prices.
+- Gross domestic product YBHA (GDP YBHA) is UK GDP at current market prices.
+- GDP data are based on the first quarterly estimate of GDP as of 13 August 2026. For the latest GDP data, please refer to the ONS website.
+- Estimates have been partially revised back to 2005.
+- Results for 2025 are provisional and may be partially or fully modelled. All estimates are subject to revision.
+Download this chart Figure 3: The relative size of unpaid household services increased during the 2008 financial downturn and again during the COVID-19 pandemic
+Image .csv .xls
+The value of unpaid household services has exceeded 40% of GDP since 2005. During the 2008 financial downturn, the falling value of GDP and growth in unpaid household services increased its relative size from 45% of the size of GDP in 2007 to 53% in 2009.
+The value of unpaid household services continued to grow to 58% of the size of GDP at its peak in 2015. Its value was the equivalent of 57% of the size of GDP in 2020, and would have set a new peak, but falling transport services offset growth in other unpaid household services. Since 2020, the relative size has fallen to around 50% of the size of GDP, mostly because of lower volumes of:
+• nutrition
+• childcare
+• volunteering services
+Although transport services have increased in value since the coronavirus pandemic, this growth has not offset declines in the value of these other services. In 2024, the value of unpaid household services was the equivalent to 52% of GDP.
+Figure 4: Nutrition services recorded the largest decline in value relative to GDP, falling from a peak of 8.1% during the COVID-19 pandemic to 4.4% in 2024, and a provisional decline to 4.1% in 2025
+Proportionate size of individual unpaid household services relative to GDP, UK, 2005 to 2025
+Embed code
+Notes
+- Unpaid Household Service output is not seasonally adjusted.
+- Analyses are based on monetary values in current prices.
+- Gross domestic product YBHA (GDP YBHA) is UK GDP at current market prices.
+- GDP data are based on the first quarterly estimate of GDP as of 13 August 2026. For the latest GDP data, please refer to the ONS website.
+- Estimates have been partially revised back to 2005.
+- Results for 2025 are provisional and may be partially or fully modelled. All estimates are subject to revision.
+Unpaid transport services have shown the greatest growth in value relative to GDP among unpaid household services since 2005. Its value rose from 9.8% of GDP in 2005 to 14.6% in 2009, following the 2008 financial downturn, and was 15.8% of GDP in 2024. Much of this growth reflects fuel prices rising faster than prices across the wider economy. Nutrition services have declined most in value relative to GDP, falling from its peak during the coronavirus pandemic of 8.1% to 4.4% in 2024, with a provisional estimate of 4.1% for 2025, despite rising food prices. This decline was mainly caused by fewer calories consumed in households, particularly following the coronavirus pandemic.
+The value of unpaid childcare services relative to GDP remained at 15% between 2022 and 2024, with provisional results suggesting no change for 2025. Although informal care hours for children aged under five years have fallen between 2022 and 2024, this has been offset by increased hours of informal childcare for children aged over five years.
+The value of volunteering services also fell relative to GDP, from 1.6% in 2005 to 0.7% in 2024, but has remained at 0.7% since 2020.
+It is important to understand the overall growth in the value of different services over time, as shown in earlier figures. However, it is also useful to understand to what extent this is caused by underlying changes to the quantity of service production and consumption by households. This is rather than factors such as price rises (inflation) and changes to the size of the population. We do this by calculating volume estimates on an overall and per-head basis, which control these factors.
+Figure 5: Of all the unpaid household services, the volume of adult care services has increased most between 2014 and 2024
+Indexed volume series for each service, based on the number of units consumed or produced, UK, 2014 to 2025
+Embed code
+Notes
+- A clothing series is not included as no volume series is currently available.
+- Unpaid household services must be measured in units of service either consumed or produced, depending on the method. These units represent volume changes and so are directly comparable over time.
+- Results for 2025 are provisional and may be partially or fully modelled. All estimates are subject to revision.
+Between 2014 and 2024, the volume of adult care services grew more than any other unpaid household service. However, provisional results suggest that growth in unpaid housing services, such as housework, gardening and do-it-yourself (DIY) to maintain homes, may have slightly exceeded that of unpaid adult care in 2025.
+The UK's ageing population may partially explain why unpaid adult care hours received showed the greatest growth by 2024.
+Figure 6: The volume per head of adult care services grew more than other unpaid household services between 2014 and 2024
+Indexed volume series for each service, based on the number of units consumed or produced, per head, UK, 2014 to 2025
+Embed code
+Notes
+- Population figures used in the per head calculations are based on the total UK population and not the underlying number of people consuming or producing a service.
+Between 2014 and 2024, housing, adult care and laundry were the only unpaid household services whose volumes per head did not fall (Figure 6). Adult care hours saw the largest increase between 2014 and 2024, rising by 8 index points. Housework, gardening and do-it-yourself (DIY) increased by 3.8 index points, while laundry increased 

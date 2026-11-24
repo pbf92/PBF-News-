@@ -1,0 +1,69 @@
+URL: https://www.openpr.com/news/4698277/endertech-outlines-its-shopify-and-storis-integration-work
+TITLE: Endertech Outlines Its Shopify and STORIS Integration Work for Furniture Retailers
+OUTLET: openPR.com
+
+Endertech Outlines Its Shopify and STORIS Integration Work for Furniture Retailers
+Pasadena, Calif. - Nov. 23, 2026 - Endertech [https://endertech.com/solutions/furniture], a Shopify Plus Partner and STORIS Website Integration Partner, today outlined how it connects Shopify storefronts to STORIS for furniture and mattress retailers. The work uses owned middleware so availability, delivery, and orders stay aligned across the website, showroom, and back office.
+Shopify does not ship a native STORIS connector. Furniture and mattress retailers commonly run Shopify or Shopify Plus as the storefront while STORIS remains the system of record for inventory, orders, delivery, and store operations. Endertech builds the connection with queued middleware that maps SKUs, locations, orders, and available-to-promise stock. Shopify Admin GraphQL and webhooks feed one side of that middleware. The STORIS APIs or exports included in a retailer's license supply catalog, inventory, and fulfillment data on the other.
+The programs go beyond a nightly product export. Typical scope includes available-to-promise stock by warehouse and showroom, multi-location inventory, special orders with vendor lead times, and delivery-date scheduling. When a retailer's STORIS deployment exposes the workflows, financing applications can start on the website and finish in the ERP. Shopify Plus is used in multi-store programs to keep locations, available-to-promise stock, and orders aligned.
+"Furniture shoppers want to know when a sofa will actually arrive at their door, not just that it's in stock. Connecting Shopify to STORIS gives retailers that delivery clarity online, along with the accurate product details buyers need before they commit to a big purchase," said Gabriel Richards, founder and CEO of Endertech.
+That approach is already in production. For American Freight, a retailer with more than 60 stores, Endertech middleware syncs the STORIS catalog, variant data, and store-based availability, with a My Store picker so shoppers browse stock for their location. For Mattress Warehouse, Endertech redesigned and re-engineered the site across more than 500 stores, connecting ERP, marketing, and the in-store experience. Endertech reports a 300 percent increase in online sales since that work. For Today's Patio, Endertech moved the store from WooCommerce to Shopify, connected STORIS, and rebuilt the catalog. Endertech reports a 175 percent increase in online revenue.
+Endertech is a Shopify Plus Partner [https://endertech.com/technology/shopify] with furniture experience in large catalogs, fabric and variant handling, showroom POS, delivery logic, and multi-store inventory. Many clients keep STORIS as back-office truth and run Shopify for the storefront and checkout. The firm also takes on rescue work when an existing sync oversells, fails silently, or drifts on order status, beginning with a read-only audit of queues, error logs, and order diffs.
+About Endertech
+Endertech is a fully remote web and software team founded in 2000. It is a Shopify Plus Partner and a STORIS Website Integration Partner, and has served more than 300 clients. The company designs and builds Shopify stores for furniture and home furnishings, migrates retailers from platforms such as WooCommerce and nopCommerce, and connects storefronts to ERP systems including STORIS.
+More information is available at http://endertech.com/solutions/furniture.
+Media Contact
+Company Name: Endertech
+Contact Person: Jonathan Anderson
+Email:Send Email [https://www.abnewswire.com/email_contact_us.php?pr=endertech-outlines-its-shopify-and-storis-integration-work-for-furniture-retailers]
+Phone: 310-400-0800
+Address:1001 Wilshire Blvd Ste 2036
+City: Los Angeles
+State: CA
+Country: United States
+Website: https://endertech.com
+Legal Disclaimer: Information contained on this page is provided by an independent third-party content provider. ABNewswire makes no warranties or responsibility or liability for the accuracy, content, images, videos, licenses, completeness, legality, or reliability of the information contained in this article. If you are affiliated with this article or have any complaints or copyright issues related to this article and would like it to be removed, please contact retract@swscontact.com
+This release was published on openPR.
+Permanent link to this press release:
+ Please set a link in the press area of your homepage to this press release on openPR.  openPR disclaims liability for any content contained in this release. 
+You can edit or delete your press release Endertech Outlines Its Shopify and STORIS Integration Work for Furniture Retailers here
+News-ID: 4698277 • Views: …
+More Releases from ABNewswire
+                                                    Same-day Portuguese translation is available for USCIS filing deadlines                                                
+                                            Same-day Portuguese translation from Brazil USA Translations gives applicants facing USCIS deadlines a rush option. Most short documents are ready in about four hours, with a signed Certificate of Accuracy included.
+Cape Coral, FL - Nov. 23, 2026 - Same-day Portuguese translation from Brazil USA Translations is available for Brazilian documents needed for USCIS filings. Most short documents are ready in about four hours with the rush option. Each rush order… 
+                                                    Unexplained Water Bills and Warm Floors: What Los Angeles Homeowners Should Chec …                                                
+                                            A higher water bill or a warm spot on the floor can warrant a closer look. Leak Detection in Los Angeles explains how to compare water use, check for common leaks and decide when to arrange an inspection.
+Los Angeles, California - Nov. 23, 2026 - A water bill can rise without a visible drip, and a warm patch on the floor can appear long before any moisture reaches the surface.… 
+                                                    Local Dominator AI Visibility Software Lets Agencies Pull Maps Rankings by Devic …                                                
+                                            Local Dominator Public API accepts desktop, mobile or both for Google Maps grid scans, so dashboards can show rankings by device
+CHANDLER, Ariz. - Nov. 23, 2026 - Local Dominator, AI visibility software for local SEO agencies and businesses, lets agencies choose desktop, mobile or both when running GeoGrid scans of Google Maps rankings through its Public API. A Maps rank depends on where the searcher stands and which device they… 
+                                                    Jeje Studios Launches Wild West Brawl, a Free PvP Auto Battler Card Game for iPh …                                                
+                                            Jeje Studios has released Wild West Brawl, a free player-versus-player auto battler card game for iPhone and Android starring the Gunslingers, the studio's own cast of hand-drawn western characters. Players draft a posse three cards at a time and watch it fight another player's in a dirt yard. The game is a free download on the App Store and Google Play.
+New York, NY - Nov. 23, 2026 - Jeje Studios… 
+More Releases for Shopify
+                                                    Shopify Experts India Announces Custom Shopify Store Development for Luxury Bran …                                                
+                                            Shopify Experts India is a Shopify development company based in Gurugram, India, delivering custom store development, Shopify Plus solutions, app development, UI/UX design, migration, and integration services to startups, DTC brands, luxury retailers, and enterprise businesses across 15+ countries. 
+Shopify Experts India, a Shopify development company [https://shopifyexpertsindia.com] with over 15 years of experience and 500+ successfully delivered eCommerce projects, has announced a Custom Shopify Store Development service designed specifically for… 
+                                                    DVISIONMEDIA, Denmark's Best Shopify Agency Is Now an Official Shopify Select Pa …                                                
+                                            As one of the most recommended Shopify agencies in the Nordics, DVISIONMEDIA has officially earned Shopify Select Partner status - a recognition reserved for agencies with a documented track record of building, scaling, and optimizing high-performing Shopify and Shopify Plus stores. Here is what that means for your e-commerce business.
+Key Takeaways
+DVISIONMEDIA is a certified Shopify Select Partner since 2021, recognized for expertise in Shopify and Shopify Plus development
+Partner status is… 
+                                                    Shopify AI SEO Booster Ranked Best Shopify Chrome Extension                                                
+                                            Free Chrome extension Shopify AI SEO Booster tops TechBullion's expert-reviewed list of the best Chrome extensions for Shopify in 2026
+The Shopify AI SEO Booster Chrome extension has been ranked the best Chrome extension for Shopify [hromewebstore.google.com/detail/shopify-ai-seo-booster/cjgpdflccdbicpbplhkcfgdgnpbjlibj] merchants in 2026 by TechBullion, one of the web's most widely read technology publications.
+In an expert-reviewed roundup published on 6 March 2026, TechBullion placed Shopify AI SEO Booster at the top of its list… 
+                                                    Salesforce Specialists Introduce Shopify Connector                                                
+                                            Shopify Merchants Ready to Scale Can Now Transition Seamlessly to Salesforce Commerce
+Boca Raton, FL - January 12, 2026 - FortéNext, the USA's leading B2B Commerce specialists, today launched Shopify Connector, a purpose-built integration framework that simplifies migration from Shopify to Salesforce Commerce. The solution addresses a growing market need as businesses outgrow Shopify's capabilities and seek enterprise-grade commerce platforms without sacrificing existing digital assets.
+https://www.fortenext.com/insights/salesforce-specialists-introduce-shopify-connector
+Shopify Connector enables direct transfer of product… 
+                                                    Webplanex Unveils "Cashback Wallet" Shopify App, Earns Esteemed "Built for Shopi …                                                
+                                            Webplanex, a distinguished Shopify Partner company, proudly announces the official launch of its cutting-edge Shopify app, "Webplanex: Cashback Wallet," accompanied by the coveted "Built for Shopify" badges at: apps.shopify.com/cashback-sale-booster
+The "Built for Shopify" badges serve as a hallmark of the Cashback Wallet app's exceptional quality and functionality, underscoring Webplanex's unwavering dedication to delivering premier solutions for Shopify merchants.
+Key Features of Webplanex: Cashback Wallet:
+Effortless Integration: Seamlessly integrate the Cashback Wallet into your… 
+                                                    Optimiser has Introduced Optimiser-Shopify Integration to Empower Shopify Stores                                                
+                                            Optimiser has introduced Optimiser-Shopify integration to support the growth of businesses that work on Shopify platform. With Optimiser's latest Shopify Suite launch, retail businesses can connect workflows to build nurturing customer relationships. The power of Optimiser brings efficiency through a single platform to automate marketing campaigns and manage customer orders. 
+Business owners can use the Shopify integration to automate tedious tasks and review the sales and marketing ROIs. Contacts can…
