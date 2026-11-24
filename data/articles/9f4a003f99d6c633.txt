@@ -1,0 +1,27 @@
+URL: https://coinpaper.com/39350/stock-market-today-s-and-p-500-and-nasdaq-fall-as-nvidia-drops-5-5
+TITLE: Stock Market Today: S&P 500 and Nasdaq Fall as Nvidia Drops 5.5%
+OUTLET: Coinpaper
+
+Key takeaways
+- S&P 500 and Nasdaq open 0.9% and 1.43% lower
+- Nvidia retreats following Monday's historic 31% stock rally
+- Dell earnings and inflation data remain key catalysts
+US stocks opened lower on Tuesday, November 24, as technology and artificial intelligence companies surrendered part of Monday's historic gains. Investors are assessing renewed corporate uncertainty, potential US tariff increases and upcoming inflation data.
+The S&P 500 opened 0.90% lower at 7,172.33, while the Nasdaq Composite dropped 1.43% to 23,745.86. The Dow Jones Industrial Average declined 0.20% to 49,494.60.
+The losses follow Monday's historic market rally, which saw the S&P 500 and Nasdaq gain 4.73% and 6.51%, respectively, in their strongest daily performance since April 2025.
+Nvidia and Anthropic Lead Renewed AI Stock Weakness
+Nvidia fell approximately 5.5% in early trading after surging 31.48% on Monday following Jensen Huang's reinstatement as chief executive.
+The reversal comes as investors continue assessing corporate governance risks surrounding the semiconductor giant, alongside broader concerns about the sustainability of AI infrastructure spending.
+Meanwhile, Anthropic stock slipped below its $83 IPO price, erasing the premium generated during its Nasdaq debut last week.
+AMD, Micron, CoreWeave and Nebius also recorded substantial losses during premarket trading, reflecting continued uncertainty across the AI infrastructure sector.
+The renewed weakness follows last week's technology stock selloff, which pushed major US indices into correction territory.
+Trump Tariffs and Fed Rate Concerns Return
+The Trump administration is reportedly preparing additional tariffs targeting China, the European Union and other major trading partners, potentially restoring import duties to levels seen in 2025.
+The prospect of higher import costs arrives as the Federal Reserve faces persistent inflation pressures. Additional tariffs could increase operating expenses for American companies, particularly those relying heavily on international supply chains.
+Meanwhile, the US dollar index has reached a 20-month high, while benchmark Treasury yields remain close to 5%.
+Elevated borrowing costs continue to present challenges for growth stocks, whose valuations depend heavily on expectations of future earnings.
+Wednesday's October PCE inflation report could provide another indication of whether the Federal Reserve will raise interest rates at its December meeting.
+Dell Earnings Could Determine the Next Move for AI Stocks
+Dell Technologies (NYSE: DELL) is scheduled to release its third-quarter results after Tuesday's closing bell.
+Investors will closely examine its AI server sales, order backlog, profit margins and forward guidance. The results could provide additional insight into whether growing infrastructure spending continues to translate into sustainable revenue and profitability.
+The announcement follows Monday's sharp rebound across AI infrastructure companies, many of which suffered substantial losses during November.

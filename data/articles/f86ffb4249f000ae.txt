@@ -1,0 +1,16 @@
+URL: https://finance.yahoo.com/markets/stocks/articles/nvidia-could-generate-741-billion-101501759.html
+TITLE: Nvidia Could Generate $741 Billion in Revenue Next Year. Here’s What That Means for the Stock.
+OUTLET: Yahoo Finance
+
+Nvidia's (NASDAQ:NVDA) earnings report last week, without Jensen Huang leading the company, went better than expected. Revenue climbed 103% year over year to $115.8 billion, and earnings per share climbed to $2.70, up 108%. Both came in above analysts' expectations.
+Perhaps more important was CFO and interim CEO Colette Kress's fiscal 2028 guidance. Last quarter she said she expects 70% revenue growth. This quarter, she increased it to 75%. That's despite higher-than-expected revenue growth last quarter and strong fourth-quarter guidance.
+Missed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a "Double Down" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same "Total Conviction" signal is flashing for a company 1/100th the size of Nvidia. Continue »
+Her fourth-quarter guidance calls for $130 billion in revenue, bringing fiscal 2027 total revenue to $423.7 billion. A 75% growth rate implies $741 billion in revenue next year. Here's what that means for the stock.
+Image source: Nvidia.
+Nvidia stock is incredibly cheap right now
+With the recent sell-off in shares, the company has a market cap of about $4 trillion as of this writing. That means the stock is priced just over 5 times next year's sales. Its stock price has dropped to 10 times analysts' expectations for next year's earnings.
+There are a few reasons why a stock would be so cheap.
+- The market may be indicating that the analysts are overconfident in the business and their estimates are too high. Kress's increased 2028 outlook decreases that likelihood, although it's possible Kress is overconfident as well.
+- The market may be indicating that the earnings aren't sustainable and an earnings downcycle will hit extremely hard in the not-too-distant future. But Nvidia is an asset-light, fabless semiconductor stock, so while earnings might drop and its margin might contract, it doesn't face the same cyclical pressure as semiconductor stocks with huge capital investment requirements.
+- The market believes the risks to the company are extremely high, requiring a larger margin of safety to buy the stock. With growing uncertainty about the future of artificial intelligence stocks, this is the clear reason for Nvidia's current stock price.
+Kress looked to put investors at ease during the earnings call. She said her 75% revenue growth outlook is based on "data center readiness, the strength and durability of end customer demand, and our customers' access to capital." She noted the $32 billion in financial commitments to neocloud companies require those partners to secure their own capital for data centers first. She stressed that Nvidia has a multi-year roadmap in place and it's "business as usual."

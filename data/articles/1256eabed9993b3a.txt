@@ -1,0 +1,28 @@
+URL: https://www.gadgetreview.com/major-study-finds-the-internets-addictive-features-are-basically-frying-the-human-brain
+TITLE: Major Study Finds the Internet’s Addictive Features Are Basically Frying the Human Brain
+OUTLET: Gadget Review
+
+A major review in Lancet Psychiatry shifts the conversation from individual screen-time habits to the platform design features that may encourage compulsive engagement, raising concerns about how platforms may be tracking users and shaping behavior.
+The Estimate Is Big. The Uncertainty Is Bigger.
+Pooled evidence suggests more than 10% of people globally struggle with problematic internet use, but the number requires serious context.
+That figure comes from a Lancet Psychiatry Commission review of existing meta-analytic research, not from a single controlled study. Estimates in the underlying literature vary substantially, depending on how researchers define problematic use, which instruments they apply, and which countries and populations they sample.
+High Hours Are Not the Point
+The commission defines problematic internet use by impaired control and real-world consequences, not by time spent online.
+Functional harm is the threshold: damage to physical or mental health, relationships, school performance, employment, or overall quality of life. Spending four hours a day on a platform does not automatically qualify. Such patterns of compulsive use are increasingly relevant to understanding young people’s keyboard skills and broader digital behaviors.
+Doomscrolling Is Only One Piece
+The commission’s scope covers gaming, gambling, online shopping, social-media use, pornography use, cyberbullying, digital hoarding, and compulsive health-information seeking.
+That breadth matters for policymakers and clinicians alike. Problematic internet use is not a single behavior with a single profile; it is a cluster of distinct patterns that share impaired control as a common feature.
+The Design Features Under Scrutiny
+Infinite scrolling, autoplay, personalized recommendations, and persistent notifications are specifically named as mechanisms that may encourage compulsive engagement.
+The commission’s argument is careful on this point. These features do not make every user unable to stop. They interact with individual vulnerabilities and reward processes, making disengagement harder for some.
+The commercial incentive compounds the problem. Platforms earning revenue from advertising or engagement-based transactions have structural reasons to maximize time on service, even when prolonged use harms certain users.
+Calls for Regulation Go Beyond Age Restrictions
+Restricting platform access by age alone does not address the design features the commission identifies as drivers of compulsive use.
+The commission calls for government action targeting those mechanisms directly, including infinite feeds, autoplay systems, recommendation algorithms, and notification design. It also calls for improved transparency, better measurement standards, and meaningful access to prevention and treatment services.
+Preserve the Benefits, Reduce the Harm
+Commission contributor Zsolt Demetrovics frames the challenge as a design and incentive problem, not a case against the internet itself.
+Demetrovics, of Flinders University, said digital technologies provide substantial benefits and that the goal is reducing harms while preserving those benefits, per the university’s official release. That framing reflects the commission’s broader position: the internet is not inherently harmful, but the ways platforms are designed and monetized can create foreseeable harm for a meaningful share of users.
+What This Report Is and Is Not
+A Spanish Science Media Centre commentary urges caution about how far the current evidence extends.
+The commission is a policy analysis and expert review, not a new empirical experiment. Evidence is not yet sufficient to establish that digital design features operate identically to addictive substances, and the report does not claim they do.
+What it does establish is that the question warrants coordinated action. Governments, technology companies, researchers, clinicians, and educators are all named as necessary participants in addressing a concern the commission regards as a genuine global public-health issue.

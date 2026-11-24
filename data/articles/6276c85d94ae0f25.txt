@@ -1,0 +1,28 @@
+URL: https://www.thekeyword.co/news/pinterest-microsoft-advertising
+TITLE: Pinterest Opens Its Ad Inventory to Microsoft Advertising
+OUTLET: https://www.thekeyword.co/
+
+Pinterest is opening its ad inventory to Microsoft Advertising, so eligible campaigns bought through Microsoft's platform can run in Pinterest's home feed, search results and related Pins. Advertisers reach that inventory without adopting a new buying tool.
+Pinterest announced the integration on 23 November in its newsroom post. It will be available in North America, Australia and New Zealand "to start". The post gives no start date. It does not say which Microsoft Advertising campaigns are eligible, and it publishes no pricing or ad formats.
+How the Integration Works
+Placement is decided by what Pinterest calls a custom contextual bidding model. Pinterest says the model is built on its own search queries, contextual signals and first-party intent data, and that it picks placements across the inventory around its visual search.
+Contextual advertising usually matches an ad to the content on screen. This model adds what Pinterest knows about what people are searching for. It runs on Pinterest Intelligence, the company's name for the AI that predicts people's interests from visual understanding and behavioural signals.
+The ads reach Pinterest's open auction, where impressions are sold in real time to any qualifying bidder rather than through reserved deals. Pinterest describes the delivery only as programmatic infrastructure and does not name a partner in between. The demand comes from advertisers who buy across Microsoft's own media properties, which Pinterest lists as Bing, MSN, Xbox, Microsoft Casual Games and Outlook.
+Pinterest's Second Outside Buying Route in a Month
+On 26 October, Pinterest made Programmatic Deals generally available. That route lets enterprise advertisers buy its display and video inventory inside demand-side platforms, including Amazon Ads DVA+, Google Display & Video 360, Yahoo DSP and DeepIntent.
+The two routes differ in what they sell. Programmatic Deals sell selected inventory through negotiated deals. The Microsoft integration opens the auction itself to a search and native ad platform. Both sit with Jason Fairchild, who became general manager of Pinterest's programmatic and affiliate business after the tvScientific acquisition. Neither route includes Europe.
+The search pitch is not new. Pinterest has spent the past year repositioning itself around search, and selling through Microsoft Advertising puts that pitch inside a platform built for search budgets. Microsoft is widening its own supply at the same time: on 19 November, it opened AI Overviews on Bing to ads.
+What Pinterest Is Selling
+Pinterest says it reaches 661 million monthly active users, and that more than half of its 80 billion monthly searches carry commercial intent. It also says more than 96% of text searches are unbranded, meaning people search for ideas rather than a named product.
+The footnotes behind those figures are not shown on the page, and they come from different years. The user count is internal data from the third quarter of 2026. The search volume and commercial-intent share are global internal data from the fourth quarter of 2025. The unbranded figure was calculated on the top 1,000 searches globally in June 2023, so it describes the most popular queries three years ago rather than all searches today.
+What Advertisers Still Do Not Know
+Fairchild describes the "potential to extend existing campaigns, reach incremental audiences and use familiar measurement tools". The post backs that with no test results or audience-overlap figures.
+It also leaves out the controls a buyer would check first. It does not say whether eligible campaigns are opted in automatically or whether advertisers can exclude Pinterest. It does not say whether Pinterest appears as its own line in Microsoft's reporting, or how a conversion on Pinterest is attributed. Microsoft Advertising has published no documentation of its own on the integration.
+Until either company publishes eligibility rules, advertisers in the three launch markets cannot tell from the announcement whether a given campaign will reach Pinterest.
+Recap
+What is the Pinterest and Microsoft Advertising integration?
+It lets eligible Microsoft Advertising campaigns run in Pinterest's open-auction inventory across the home feed, search results and related Pins. Pinterest announced it on 23 November 2026, for North America, Australia and New Zealand to start.
+How does the Pinterest integration with Microsoft Advertising work?
+A custom contextual bidding model built on Pinterest search queries, contextual signals and first-party intent data picks where ads appear. Delivery is programmatic, so advertisers keep their existing Microsoft Advertising buying tools.
+What does the integration change for advertisers?
+Advertisers buying through Microsoft Advertising can reach Pinterest without a separate buying tool, if their campaigns qualify. Neither company has published which campaigns are eligible, the pricing, the ad formats or a start date.

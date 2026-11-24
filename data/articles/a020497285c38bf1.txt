@@ -1,0 +1,31 @@
+URL: https://www.tradingview.com/news/invezz:9441577d1094b:0-wedbush-sees-opportunity-in-anthropic-stock-s-post-ipo-decline/
+TITLE: Wedbush sees opportunity in Anthropic stock's post IPO decline
+OUTLET: TradingView
+
+Wedbush sees opportunity in Anthropic stock's post IPO decline
+Anthropic (ANT) shares slipped below their IPO price on Tuesday morning, but a senior Wedbush Securities analyst sees opportunity in the sell-off.
+Analyst Ygal Arounian initiated coverage on the AI giant with an “Outperform” rating and a $120 price target, indicating potential upside of more than 40% from current levels.
+His thesis rests on how much more businesses could spend on Claude once it becomes part of their daily work.
+The bigger question for investors is how much of it Anthropic can turn into profit.
+Why Wedbush is bullish on Anthropic stock
+Arounian’s bullish view on ANT stock looks beyond what companies already spend on Claude.
+If the frontier AI model helps a team ship code faster or review more documents in the same number of hours, managers can justify spending on artificial intelligence with gains in output.
+“The genie is out of the bottle. And ANT is a strong play on that theme,” the analyst told clients.
+Wedbush estimates Anthropic has so far penetrated less than 1% of the market it might eventually serve, suggesting there’s massive growth potential for the company ahead.
+At the time of writing, Anthropic is trading at under $80, about 4% below its IPO price.
+Claude already has customers spending millions
+In its IPO filing, Anthropic showed just how far Claude has moved into corporate budgets.
+The company now has nearly 12,000 customers who have committed to spending at least $100K with it, up sharply from just 950 a year earlier.
+More than 1,900 have cleared the $1 million mark, and about 250 have even reached $10 million.
+Those figures matter because they suggest ANT is growing revenue within accounts it has already won.
+A company that starts with Claude in software engineering can expand it to legal or operations.
+Plus, there’s further room for expansion among those established clients.
+Anthropic accounted for less than 0.1% of total expenses – on average – at its qualifying Fortune 500 customers in the Sept. quarter.
+How to play ANT shares at current levels?
+All in all, each new use for Claude gives Anthropic another way to generate revenue and adds to the computing demand it must serve.
+The firm’s Q3 revenue came in up 47% sequentially to $16.96 billion, but ANT also swung from $974 million in operating profit to a $567 million operating loss as computing costs increased.
+That gives investors a concrete way to judge Wedbush’s call over the next few quarters.
+If existing customers keep expanding their use of Claude and Anthropic can serve that demand at lower cost per task, revenue growth has a better chance of translating into operating profit.
+And the pullback lowers the price investors pay while they wait for that evidence.
+With Wedbush setting a $120 target after the post-IPO dip, investors weighing an entry point can follow analyst ratings through investment platforms.
+AI disclosure: AI tools assisted with research and drafting of this piece. An Invezz editor reviewed the facts, sources and wording before publication. Any opinions or analysis are Invezz’s, not those of an automated system.

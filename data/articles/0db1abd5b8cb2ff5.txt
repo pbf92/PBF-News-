@@ -1,0 +1,18 @@
+URL: https://www.contagionlive.com/view/prehospital-ceftriaxone-fails-to-cut-sepsis-mortality-in-pitstop-trial
+TITLE: Prehospital Ceftriaxone Fails to Cut Sepsis Mortality in PITSTOP trial
+OUTLET: Contagion Live
+
+What You Need to Know
+Hospital mortality was 18.0% with prehospital ceftriaxone vs 18.4% with placebo (RR, 0.97; 95% CI, 0.81-1.17; P = .77), even though antibiotics were given about 3 hours earlier.
+All 17 secondary outcomes were similar between groups, including 90-day mortality, ICU admission, and need for mechanical ventilation.
+Adverse events related to the study drug were more common with ceftriaxone (6.2% vs 1.5%), and PITSTOP-Antibiotics is now the second randomized trial, after PHANTASi, to find no mortality benefit from prehospital antibiotics.
+Looking at Ambulance-Administered Antibiotics for Sepsis
+All 17 secondary outcomes were similar between groups.¹ Ninety-day mortality was 27.1% with ceftriaxone vs 25.2% with placebo (RR, 1.07; 95% CI, 0.93-1.24), and ICU admission occurred in 18.9% vs 17.2% (RR, 1.12; 95% CI, 0.93-1.30).¹ Median hospital length of stay was 8 days in both groups.
+Acute kidney injury occurred in 37.8% of the ceftriaxone group and 34.2% of the placebo group (RR, 1.10; 95% CI, 0.98-1.24).¹ Vasopressor use within 24 hours was 18.7% vs 20.5% (RR, 0.91; 95% CI, 0.69-1.20).¹
+Adverse events related to the study drug were more frequent with ceftriaxone (6.2% vs 1.5%; difference, 4.8%; 95% CI, 3.1%-6.4%).¹ Time from patient contact to study drug was 37.1 minutes with ceftriaxone and 38.9 minutes with placebo. On average, prehospital antibiotics came about 3 hours before in-hospital antibiotics, and resistance was rare.¹
+The authors weighed several explanations for the null result, including antibiotic choice or route, enrollment of uninfected patients, and confounding in prior observational data.¹ They noted intramuscular and intravenous ceftriaxone have similar pharmacokinetics, and most enrolled patients had elevated lactate and an ED diagnosis of infection. Antibiotics given 3 hours earlier may simply offer no added benefit.¹
+Blood cultures were not drawn before the study drug was given, and culture positivity was lower with ceftriaxone (40.1% vs 52.7%).¹ The investigators also acknowledged the trial was underpowered to detect small but potentially important mortality differences.¹
+PITSTOP-Antibiotics is now the second randomized trial, after PHANTASi, to find no mortality benefit with prehospital antibiotics for suspected sepsis.¹,²
+References
+- Scales DC, Rogowsky A, Seymour CW, et al; PITSTOP Investigators. Prehospital antibiotics for patients with suspected sepsis: the PITSTOP-Antibiotics factorial randomized clinical trial. JAMA. Published online November 24, 2026. doi:10.1001/jama.2026.25627
+- Alam N, Oskam E, Stassen PM, et al. Prehospital antibiotics in the ambulance for sepsis: a multicentre, open label, randomised trial. Lancet Respir Med. 2018;6(1):40-50. doi:10.1016/S2213-2600(17)30469-1

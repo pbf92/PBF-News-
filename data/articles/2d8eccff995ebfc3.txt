@@ -1,0 +1,18 @@
+URL: https://eyewire.news/news/study-reveals-conjunctival-autografting-reduces-pterygium-recurrence-compared-with-mitomycin-c
+TITLE: Study Reveals Conjunctival Autografting Reduces Pterygium Recurrence Compared With Mitomycin C
+OUTLET: Eyewire+
+
+Key Takeaways
+- Conjunctival autografting demonstrated the lowest 12-month recurrence rate among the 3 surgical approaches evaluated
+- Intraoperative mitomycin C was more effective than amniotic membrane transplantation and may offer advantages in cost and conjunctival tissue preservation
+- No intervention-related serious adverse events were reported across the 3 treatment groups
+Conjunctival autografting (CAG) was more effective in preventing postoperative recurrence following primary pterygium excision than intraoperative mitomycin C (MMC) or amniotic membrane transplantation (AMT), according to findings from a randomized clinical trial published in JAMA Ophthalmology.1
+The multicenter, open-label trial, conducted by Wen-yan Peng, MD, PhD, and colleagues at 5 tertiary hospitals in China, enrolled 750 adults aged 18 to 80 years with primary pterygium. Investigators randomly assigned participants to undergo standardized pterygium excision combined with AMT (n = 249), MMC (n = 248), or CAG (n = 253).
+The primary endpoint was postoperative recurrence at 12 months. Secondary end points included best-corrected visual acuity, epithelial healing time, and conjunctival congestion. Overall, 681 participants (90.8%) completed the follow-up period.
+In the intention-to-treat analysis, 12-month recurrence rates were 5.0% with conjunctival autografting, 13.7% with intraoperative mitomycin C, and 22.9% with amniotic membrane transplantation.
+CAG reduced the absolute risk of recurrence by 8.7 percentage points compared with MMC (P = .001) and 17.9 percentage points compared with AMT (P<.001). MMC also demonstrated greater efficacy than AMT (P = .01).
+Adverse events were reported in 6.3% of patients receiving CAG, 7.2% receiving AMT, and 11.3% receiving MMC. No treatment-related serious adverse events were reported.
+The investigators noted that although CAG demonstrated the greatest efficacy in preventing recurrence, MMC may remain a practical alternative because of its potential cost advantages and preservation of conjunctival tissue.
+The findings support consideration of recurrence risk alongside other clinical and surgical factors when individualizing treatment for patients undergoing primary pterygium excision.
+Reference
+1. Peng W, Deng W, Luo L, et al. Grafting vs intraoperative mitomycin C for preventing pterygium recurrence: a randomized clinical trial. JAMA Ophthalmol. Published online November 19, 2026. doi:10.1001/jamaophthalmol.2026.5279

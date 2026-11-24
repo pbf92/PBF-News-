@@ -1,0 +1,29 @@
+URL: https://247wallst.com/investing/2026/11/24/meta-fell-8-over-the-last-30-days-mutiple-wall-street-desks-expect-67-returns-from-here/
+TITLE: Meta Fell 8% Over the Last 30 Days: Mutiple Wall Street Desks Expect 67% Returns From Here
+OUTLET: 24/7 Wall St.
+
+Meta Fell 8% Over the Last 30 Days: Mutiple Wall Street Desks Expect 67% Returns From Here
+This post may contain links from our sponsors and affiliates, and Flywheel Publishing may receive compensation for actions taken through them.
+Meta Platforms (NASDAQ:META | META Price Prediction) is trading at $597.60 right now. The average analyst price target is $848.23, which implies about 41.9% upside.
+Meta owns the largest social advertising business in the world. Facebook, Instagram, WhatsApp and Messenger together reach 3.64 billion[1] daily users. The most bullish analysts are well above consensus. Truist and Rothschild & Co Redburn have $1,000 targets, and Wells Fargo and Tigress Financial sit at $995. Those targets are about 67% above the current price.
+Even the consensus gap is more than 40%, which is wide for a megacap. Investors have to decide which story the market has wrong: a business growing revenue at 26%, or a spending cycle with no clear ceiling.
+Negative Free Cash Flow and a $9.89 Billion Legal Charge Broke Meta’s Momentum
+The biggest hit was free cash flow turning negative. Meta spent $34.91 billion[1] on capex in Q3, up 85.38% from a year earlier. That drove free cash flow to -$2.12 billion[1]. Total costs rose 68%[1], partly because of a $9.89 billion charge to settle teen mental health claims with 52 state attorneys general. GAAP EPS of $3.83[1] missed expectations of $5.70, and operating margin fell to 20% from 40%.
+Revenue held up well. It came in at $64.60 billion[1], up 26.07% and ahead of estimates. Still, management raised its 2026 expense guidance to $175-179B[1], kept capex guidance at $135-145B and warned that more youth-related trials are coming. The stock remains far below its 52-week high of $779.82. Rivals fell too, so part of the damage reflects sector-wide fatigue with AI capex, the same expansion powering a group of suppliers we profiled in a free report on seven AI infrastructure names that aren’t chipmakers.
+Analysts Are Looking Past the Spending to an Ad Engine That Keeps Growing
+The core bull case rests on advertising. Ad prices rose 14%[1] and impressions rose 10%. CFO Susan Li said “our AI investments are already delivering incremental advertising revenue through stronger engagement, better recommendations, and more efficient monetization.”[2]
+The second piece is new revenue. Over 10 million[2] people set up Muse personal agents in about six weeks. Mark Zuckerberg expects Muse’s cost efficiency to improve more than 10x in the next year[2]. Li expects the new AI businesses to start adding revenue in 2027[2]. Reality Labs losses are also expected to reduce from $18-19B[1] to about $15B.
+Valuation is the third piece. Meta trades at a forward P/E of 16, and bulls see room for the multiple to expand to 28x-30x once capex growth slows. Most analysts rate the stock a Buy, with 46 Buy and 10 Strong Buy ratings.
+Recent moves have mostly been cuts, though. Morgan Stanley lowered its target from $820 to $720, and UBS went from $892 to $815. The 2026 EPS consensus has dropped from $31.7944 to $29.0735, with 40 down revisions against 7 up. Whether the thesis works depends on 2027.
+Ad Stocks Fell Together, and Meta Held Up Best
+Every stock in the group sold off, and Meta fell the least.
+Shares of Alphabet (NASDAQ:GOOGL) are down 11.9% over the past month. It trades at $282.10 against a $397.13 target, implying 40.8% upside. Analyst ratings break down as 10 Strong Buy, 43 Buy, 5 Hold and no Sells. Its upside is close to Meta’s.
+Snap (NYSE:SNAP) dropped 22.4% over the month. At $4.92 against a $6.96 target, it shows 41.5% upside. Conviction is much weaker: 29 Holds outnumber 8 Buys, and three analysts rate it a Sell or Strong Sell.
+Meta has the group’s largest consensus upside by a narrow margin. It pairs that with deep Buy support, which suggests the market discount reflects sector-wide doubt about AI spending. Price targets are estimates and can change.
+Meta Trails the S&P 500 This Year
+At $597.60, Meta has 41.9% upside to the $848.23 consensus and 67.3% upside to the $1,000 Street high. 56 analysts project 2027 EPS of $33.9007.
+Meta is down 7.01% over the past month, while the S&P 500 fell 4.93%. This year, Meta is down 9.25% and the S&P 500 is up 5.95%. The stock did jump 6.55% in its most recent session as the broader market rallied.
+Meta Looks Mispriced, as Long as Cash Flow Recovers
+The bull case improves if ad growth holds in the mid-20% range and Muse starts producing revenue in 2027, letting capex growth slow and the multiple expand. The bear case gains ground if 2027 spending rises again, free cash flow stays negative and more youth-related trials lead to further charges.
+Investors appear to be pricing in a long payback period, and analysts may be underweighting how long negative cash flow could last. Still, at 16 times forward earnings, a company growing revenue at 26.07%[1] already reflects a lot of bad news. The setup tends toward opportunity, with the next capex guidance as the key test.
+Contact [email protected] for any questions or corrections.

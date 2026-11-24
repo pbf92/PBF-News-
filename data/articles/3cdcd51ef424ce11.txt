@@ -1,0 +1,18 @@
+URL: https://www.tradingview.com/news/cointelegraph:c616e7b45094b:0-bitcoin-sell-off-driven-by-weak-demand-forced-liquidations-21shares/
+TITLE: Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares
+OUTLET: TradingView
+
+Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares
+The $6.4 billion hack of cryptocurrency exchange Binance in October triggered Bitcoin’s recent sell-off, but weakening investor demand and forced liquidations drove most of the subsequent losses, according to a Nov. 24 report from crypto asset manager 21Shares.
+While the Oct. 29 hack triggered the initial decline, the report found that weakening demand drove Bitcoin BTCUSD down a further 8.3% between Nov. 4 and Nov. 11. Forced selling of leveraged positions led to the steepest decline, sending BTC down another 13.5% over the next three days. Crypto liquidations totaled $5.8 billion in the week ending Nov. 15, with long positions accounting for 81%.
+Bitcoin’s sell-off and leverage unwind. Source: 21Shares
+Signs of weakening demand were also seen in the stablecoin supply, which contracted by $10.7 billion following the hack, marking the largest 18-day decline in dollar terms since the Terra collapse in 2022. US spot Bitcoin and Ether ETHUSD exchange-traded funds (ETFs) recorded combined outflows of $3.9 billion between Oct. 30 and Nov. 13.
+Eliezer Ndinga, global head of research at 21Shares, told Cointelegraph that the market was already vulnerable before the hack:
+The report also found little evidence of selling by other major Bitcoin holders. The 18,270 BTC and 522,409 ETH stolen in the Binance hack remained unspent as of mid-November, while neither the US government nor the Mt. Gox trustee had transferred Bitcoin to exchanges since the attack.
+Bitcoin treasury firm Strategy continued buying, adding 2,332 BTC between Oct. 26 and Nov. 15. Meanwhile, miner transfers to exchanges fell to their lowest levels since at least 2020, although the data may not capture sales by publicly traded mining companies.
+21Shares sees a K-shaped recovery for crypto
+21Shares believes Bitcoin is already more than a year into a cyclical bear market. Historically, such downturns have lasted about two and a half years and resulted in average price declines of 84%, according to the report.
+However, the researchers see a low probability of Bitcoin revisiting the depths of previous bear markets, citing the growing presence of institutional investors and spot ETFs. Ndinga said the competitive landscape for crypto has also changed:
+Ndinga warned that a larger-than-expected Federal Reserve rate hike in December could prolong the downturn. Another potential source of selling pressure is the $2.2 billion in BTC and ETH stolen in the Binance hack, which could reach the market through over-the-counter (OTC) brokers in the coming months.
+Ndinga identified Bitcoin’s realized price of $53,250, a measure of the average investor cost basis, as a key downside level to watch. Conversely, a return to the $73,000 to $75,500 range coupled with sustained ETF inflows and rising stablecoin balances would signal renewed investor demand.
+Stablecoin supply changes following major market shocks. Source: 21Shares

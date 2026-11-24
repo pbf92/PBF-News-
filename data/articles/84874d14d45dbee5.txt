@@ -1,0 +1,19 @@
+URL: https://mezha.net/eng/news/mezha-6dfdbe5c35873a75dd2342c6_anthropic_adds_beta/
+TITLE: Anthropic adds beta feature for installing Claude artifacts as desktop apps
+OUTLET: Mezha.net
+
+Anthropic adds beta feature for installing Claude artifacts as desktop apps
+Photo source: 9to5Mac
+Claude artifacts installed as apps get their own icon and window, with users able to control whether they can interact with the computer.
+Anthropic is rolling out “Install as app” in beta in Claude for Mac and Windows. The feature lets users create, run, and share desktop apps using Claude artifacts.
+This is reported by 9to5Mac.
+Starting today, you can use Claude artifacts to create, run, and share desktop apps. The “Install as app” feature is rolling out in beta in Claude for Mac and Windows.
+- Anthropic
+When an artifact is installed as a Mac or Windows app, it gets its own icon and opens in its own window instead of inside Claude. You can share it with others, and it needs your permission before it can interact with your computer. You choose how much to allow.
+- Anthropic
+Anthropic says apps made this way can benefit from Claude connectors. Claude usage is tied to desktop apps made with artifacts. The apps can send notifications, add items to the menu bar, and have their own permissions.
+This is the second Claude update this week made specifically for builders.
+You may be interested in these materials:
+- Donald Trump will attend a White House summit on science and AI, where officials plan to announce more than $1 billion in commitments from technology companies, along with federal research funding and computing initiatives.
+- Anthropic is reportedly negotiating to acquire Nvidia-backed Decart AI in a potential $6 billion deal that could expand Claude’s infrastructure and processing capacity.
+- Anthropic has unified Claude Chat, Cowork, and Artifacts in one interface, enabling users to manage AI tasks, documents, presentations, and designs without switching tabs.

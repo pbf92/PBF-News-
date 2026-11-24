@@ -1,0 +1,21 @@
+URL: https://www.mediapost.com/publications/article/417176/meta-brings-exclusion-only-capabilities-to-ads-man.html
+TITLE: Meta Brings Exclusion-Only Capabilities To Ads Manager 08/12/2026
+OUTLET: MediaPost
+
+To help marketers further specify their
+ad-targeting practices and save on ad spend, Meta is now introducing the ability to create exclusion-only audiences within customer lists in Ads Manager.
+“An exclusion-only custom
+audience is a type of customer list custom audience that can only be used to exclude people from your ad audience,” Meta’s announcement explains. “Unlike a regular custom audience,
+an exclusion-only custom audience cannot be used to include people in your audience.”
+Meta designed exclusion-only custom list capabilities for advertisers that may want to avoid serving
+ads to specific groups of people, including those who have opted out of their services or are already self-excluded.
+Other consumer groups brands may want to block from seeing their ads may
+include users who “have a legal or regulatory obligation not to target” or people a brand wants a permanent guardrail against accident inclusion when setting up custom audiences.
+advertisement
+advertisement
+“As an advertiser, you can use a regular custom audience to include and exclude people from your ad audience,” Meta’s announcement notes. “If you use an exclusion-only
+custom audience, however, you can only exclude people from your ad audience.”
+Advertisers are not able to use an exclusion-only custom audience to include people in their ad
+audience, and cannot change an exclusion-only custom audience to a regular custom audience after it has been created.
+  The new targeting feature brings an added layer of specificity to the tech
+giant’s existing audience controls, which allow advertisers to include and exclude people via standard custom audience settings.

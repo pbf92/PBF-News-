@@ -1,0 +1,41 @@
+URL: https://www.tradingview.com/news/zacks:a4745c6b2094b:0-microsoft-vs-meta-which-ai-infrastructure-stock-has-an-edge-now/
+TITLE: Microsoft vs. Meta: Which AI Infrastructure Stock Has An Edge Now?
+OUTLET: TradingView
+
+Microsoft vs. Meta: Which AI Infrastructure Stock Has An Edge Now?
+Microsoft MSFT and Meta Platforms META sit at the center of the artificial intelligence (AI) infrastructure race. Both companies are pouring record sums into data centers, custom silicon and frontier models, betting that compute capacity will define the next decade of technology leadership.
+Yet their paths diverge. Microsoft monetizes AI largely through Azure and enterprise software, while Meta channels its buildout into advertising and consumer AI. With both lifting spending plans after October 2026 results, the comparison is timely.
+Let's delve deeper and closely compare the fundamentals of the two stocks to determine which one is a better investment now.
+The Case for MSFT
+Microsoft's AI infrastructure strategy is translating into tangible revenues. In first-quarter fiscal 2027, Azure revenues, reported under the new Agents and Infra segment, reached $33.2 billion, up 48% year over year, while Microsoft Cloud revenues rose 30% to $63.9 billion. Commercial remaining performance obligation jumped 73% to $677 billion, offering strong multi-year visibility.
+Demand continues to outpace supply. Microsoft expects fiscal second-quarter capital expenditures to exceed $50 billion, taking calendar 2026 spending to roughly $170 billion, with about three-fourths of first-quarter spending directed toward short-lived assets such as GPUs and CPUs. Importantly, management expects to remain free cash flow positive in fiscal 2027, a key differentiator in a capital-intensive cycle.
+The AI monetization funnel is broadening. Microsoft Foundry now serves more than 120,000 customers, with revenues more than tripling year over year. Copilot customers consuming credits through usage-based billing grew more than 75% sequentially. At Ignite 2026 in November, Microsoft launched Agent 365 Business Analytics, Copilot Workspaces and Autopilot, made Cobalt 200 virtual machines generally available with up to 50% higher performance, and introduced Azure Catalyst for agent-led modernization.
+For the fiscal second quarter, Microsoft guided revenues of $96-$97.1 billion and Azure growth of 49-50% in constant currency, signaling further acceleration ahead.
+Challenges remain. Windows OEM and devices revenues fell 22%, Xbox content and services slipped 2% and commercial bookings declined 12% on a tough comparison. Delays in third-party capacity deliveries also constrained supply. Still, Microsoft's diversified enterprise base and expanding AI portfolio position it well for sustained growth.
+The Zacks Consensus Estimate for MSFT’s fiscal 2027 earnings is pegged at $19.65 per share. The estimate indicates 9.47% year-over-year growth.
+Microsoft Corporation Price and Consensus
+Microsoft Corporation price-consensus-chart | Microsoft Corporation Quote
+The Case for META
+Meta's core advertising engine remains robust. Third-quarter 2026 revenues rose 26% year over year to $64.6 billion, driven by a 10% increase in ad impressions and a 14% rise in average price per ad. Family daily active people averaged 3.64 billion in September, up 3%.
+Meta is building AI capacity in pursuit of personal superintelligence. The company launched Muse and its first frontier model, Muse Wonder, and on Nov. 6 began rolling out specialized Muse Wonder-trained models to Muse and Meta AI users. Newer avenues, including enterprise APIs, subscriptions and business AI, could diversify revenues over time. Meta also announced a new non-voting Class C common stock, which it may use for capital raising, employee compensation and acquisitions.
+However, costs are rising. Third-quarter capital expenditures surged to $34.91 billion, exceeding operating cash flow of $32.79 billion and resulting in negative free cash flow of $2.12 billion. Total expenses jumped 68%, partly due to a $9.89 billion legal charge, pushing the operating margin down to 20% from 40%.
+For the fourth quarter, Meta expects revenues of $73-$76 billion. Full-year 2026 capital expenditures are projected to be $135-$145 billion and total expenses are expected to be $175-$179 billion. Management anticipates strong revenue growth throughout 2027 but acknowledged that newer AI investments will take longer to generate returns than the core business. Reality Labs losses are expected to narrow to around $15 billion next year.
+The Zacks Consensus Estimate for Meta’s 2026 earnings is pegged at $29.29 per share, down 5% over the past 30 days, suggesting a 24.7% rise from the figure reported in 2025.
+Meta Platforms, Inc. Price and Consensus
+Meta Platforms, Inc. price-consensus-chart | Meta Platforms, Inc. Quote
+Unlike Microsoft, Meta lacks an established third-party cloud business to directly monetize its infrastructure. Youth-related litigation and regulatory risks add further uncertainty.
+Valuation and Price Performance Comparison
+Microsoft shares have gained 2.2% year to date, reflecting confidence in accelerating Azure growth. Meanwhile, Meta shares have declined 9.4% year to date as soaring capital expenditures, negative free cash flow and legal charges weighed on sentiment.
+MSFT Outperforms META YTD
+Meta trades at a forward 12-month P/E of 17.87X, a discount to Microsoft's steeper 22.92X. However, Microsoft's premium appears justified, given its $677 billion commercial backlog, direct infrastructure monetization through Azure and positive free cash flow guidance. Investors should track MSFT for its visible growth trajectory, while META holders may stay put until AI spending returns become clearer.
+MSFT vs. META P/E Ratio
+Conclusion
+Microsoft holds a clear edge over Meta in AI infrastructure. Its Azure business directly monetizes data center investments, delivering 48% growth, while a $677 billion commercial backlog provides multi-year visibility. Microsoft's guidance for accelerating Azure growth, broadening Copilot and Foundry adoption, and positive free cash flow despite record capital spending strengthen its case.
+Meta's advertising business remains strong, but surging expenses, negative free cash flow, legal charges and uncertain returns on newer AI bets weigh on its outlook. Hence, Microsoft offers better upside potential. Investors should track and hold MSFT stock while waiting for a better entry point for META. Microsoft and Meta carry a Zacks Rank #3 (Hold) each. You can see the complete list of today’s Zacks #1 Rank (Strong Buy) stocks here.
+Beyond Nvidia: AI's Second Wave Is Here
+The AI revolution has already minted millionaires. But the stocks everyone knows about aren't likely to keep delivering the biggest profits. AI’s second wave is moving from infrastructure to implementation and these companies are at the forefront of this transition, positioned to become what Amazon and Google were to the internet era.See Stocks Now >>
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report
+Microsoft Corporation (MSFT): Free Stock Analysis Report
+Meta Platforms, Inc. (META): Free Stock Analysis Report
+This article originally published on Zacks Investment Research (zacks.com).
+Zacks Investment Research

@@ -1,0 +1,24 @@
+URL: https://superpowerdaily.com/posts/anthropic-adds-workflow-guidance-and-background-jobs-to-claude-connections
+TITLE: Anthropic adds workflow guidance and background jobs to Claude connections
+OUTLET: Superpower Daily
+
+Anthropic adds workflow guidance and background jobs to Claude connections
+Skills enters public beta and Tasks and Elicitation become generally available, while direct file transfers remain forthcoming.
+Loading page…
+Listen to this story
+Anthropic is making MCP connections support more autonomous workflows: servers can provide organization-specific playbooks, run long operations in the background, and pause to request user input. Skills over MCP is in public beta; Tasks and Elicitation are generally available, while file transfers have not launched. Access depends on subscription tier, and some Team and Enterprise availability is still rolling out. Because the capabilities extend the open MCP specification, compatible clients beyond Claude can use them too.
+Shopify uses Skills for store design and updates, HubSpot for customer onboarding, and Atlassian for organizational work analysis.
+Tasks lets Claude continue working while an operation runs; ZoomInfo uses it for deeper account and contact research that previously took several prompts.
+Elicitation can request input through a form or link; Supabase and GitHub use it to add checks before paid projects or destructive database and repository actions.
+Anthropic is giving Claude’s external connections more responsibility: supplying workflow instructions, running background jobs and asking users for decisions. Its November 24, 2026 announcement has a staggered rollout: Skills over MCP is in public beta, Tasks and Elicitation are generally available, and File Uploads is still coming. Access also varies by subscription plan.
+The changes build on Model Context Protocol, or MCP, the open standard Anthropic introduced two years ago to connect AI agents with outside systems and data. MCP servers provide those connections.
+A tool’s name and description tell Claude what it can do, but not necessarily how to carry out an assignment. Skills over MCP adds that procedural layer: best practices, step-by-step workflows and playbooks tailored to a customer’s account or organization.
+Claude loads a skill only when it needs it. The guidance updates with the server, so developers can distribute revised tools and instructions together. Users do not have to install a separate skills package.
+Anthropic names Shopify’s store design and update workflows, HubSpot’s customer onboarding and Atlassian’s organizational work analysis as implementations.
+Previously, a tool call had to finish before Claude could move on. Tasks lets a server run longer operations while Claude keeps working and retrieves the result later. Anthropic says ZoomInfo uses this for deeper account and contact research that previously required several prompts.
+Elicitation lets a server pause to request input through a form or link, then resume. Anthropic says Supabase confirms costs before creating paid projects and asks before running database commands that destroy data. GitHub requires users to enter a repository’s name before an agent deletes it.
+Developers can add support through the open MCP specification and its extensions. These server capabilities are not exclusive to Claude: they can work with any compatible client.
+Loading discussion...
+Join the conversation
+Explain when automatic updates would feel helpful rather than unwelcome.
+Be the first to share a perspective or an experience.

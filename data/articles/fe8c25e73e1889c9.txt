@@ -1,0 +1,23 @@
+URL: https://erp.today/infor-and-anthropic-connect-claude-to-manufacturing-applications/
+TITLE: Infor and Anthropic Connect Claude to Manufacturing Applications
+OUTLET: ERP Today
+
+Infor and Anthropic announced a partnership that connects Claude to Infor’s manufacturing applications. The offering, Infor Industry AI for Claude, lets users put questions to Infor systems in everyday terms, review what comes back, and approve the actions Claude recommends, which Infor then carries out.
+The first roles covered are production planning, purchasing, and customer service. Select Infor Velocity Suite customers can use the connector now, and anyone needing a detailed view of the business can switch to Infor’s role-based workspaces.
+Questions Start in Claude, Approved Actions Run in Infor
+The offering runs through a plugin and connector that follow the open Model Context Protocol standard. Infor notes that teams can therefore use Infor alongside other compatible tools from inside Claude.
+Manufacturing knowledge arrives through skills Infor built for Claude. Because the connector identifies who is signed in, answers reflect that user’s role and site. Infor configures this context at the company level, so individual users do not need to teach Claude their business.
+A planner investigating a delayed production order can learn whether materials, machine capacity, or labor is behind it and begin corrective steps in Infor. A customer service representative can look up availability and warehouse locations, then expedite an order or commit to a delivery date during the customer’s call.
+A buyer dealing with a late supplier receipt can trace the production and customer orders affected, locate other suppliers, and issue replacement purchase orders. Other approved actions Infor lists include shipping an order, moving stock to an urgent order, and changing production lines after unplanned downtime.
+Infor Permissions and User Approval Govern Claude’s Actions
+Each user signs in once, and the entitlements already configured in Infor decide what that person can view and change. Infor describes authorization controls as covering every action the connector performs, with each one recorded in Infor.
+Claude recommends a next step, and the user decides whether it goes ahead. The plugin is designed to obtain explicit user approval before it changes anything in Infor. Infor also describes the connector as certified by Infor and Anthropic.
+Use requires a Claude license that the customer holds, plus an administrator who switches on the Infor connector. Infor plans to widen coverage over time with more roles, skills, and applications. An Infor webinar on December 3, 2026, at 11 a.m. EST will demonstrate each role, and an Infor customer is scheduled to discuss the value they have seen.
+Infor Names Claude Its Preferred AI Assistant
+Claude is the AI assistant Infor prefers for working with its products, and Infor names Claude models as its preferred engine for Infor’s Industry AI solutions. Customers can work in Claude or in Infor, and the logic, process controls, and guardrails Infor built for its industries are available to Claude.
+Infor CEO Kevin Samuelson argues that when AI starts managing workflows, “the system underneath matters more, not less.”
+Jessica Vincent, vice president of business solutions at Oldcastle APG, welcomed the chance for employees to put questions to Infor systems in plain language from the interface they already use. She added that linking Claude with Infor can keep data access inside the governance her organization requires.
+What This Means for ERP Insiders
+Assistants become a front door to enterprise applications. Infor’s decision to name Claude its preferred AI assistant, while keeping its own workspaces available, shows an application provider building for a conversation layer it does not own. Manufacturers choose the interface their planners, buyers, and service teams already use.
+Governance stays with the system of record. Access rules and action records remain in Infor even when a request starts in Claude. Manufacturers that let AI touch purchase orders and production orders keep accountability in the application that already holds those records.
+Industry logic stays with the application. Infor’s position is that Claude supplies the conversation and Infor’s applications supply the manufacturing logic, process controls, and guardrails. The depth of a software provider’s industry logic therefore shapes what an AI assistant can do for its customers.

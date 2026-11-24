@@ -1,0 +1,15 @@
+URL: https://futurism.com/artificial-intelligence/anthropic-stock-slumps-below-ipo
+TITLE: Anthropic Stock Slumps Below IPO Price After Claiming to Have Solved the Most Famous Math Problem in the World
+OUTLET: Futurism
+
+Late last week, an Anthropic mathematician claimed he had used the company’s Claude AI assistant to prove the Riemann hypothesis, one of the most notorious problems in the field that dates back decades.
+While human mathematicians continue to struggle making sense of the provided proof, which appears to only make sense to a large language model, the company is contending with more mundane matters: its stock, which only began publicly trading last Thursday, is already sinking in spite of the supposed mathematical breakthrough.
+In fact, the stock has already fallen below its IPO listing price of $83, indicating the company is struggling to keep the party growing as the rest of the market is dealing with the ripples of the ongoing scandal surrounding Nvidia CEO Jensen Huang.
+By Tuesday afternoon, Anthropic shares dropped to an all-time low of $76, before recovering to just above $79. The company is on track to lose almost $200 billion in value.
+The drop highlights how Anthropic is far from immune from broader concerns over an AI bubble. Analysts continue to balk at the enormous amount of money and debt being poured into data centers — and Anthropic is very much a linchpin in that movement.
+“If we do see a slowdown in the data-center buildout, then that obviously can impact the speed at which Anthropic can develop and therefore future revenue and therefore its valuation,” StoneX senior market analyst Fiona Cincotta told Reuters.
+Others say it’s far too early to tell how investors actually value the Claude maker.
+“Like most IPOs, it probably came in overpriced and it is now the real price discovery as to what the true value should be,” Andersen Capital Management founder Peter Anderson told Reuters.
+Complicating matters is Huang’s continued support of open-weight AI models, which individual users can run on their own machines at home instead of relying on subscription-based services offered by the likes of Anthropic and OpenAI.
+Trump reportedly saw Huang as the best chance the United States had in developing its own open-weight models to rival the extremely popular ones being offered by Chinese firms.
+More on Anthropic: Anthropic Stock Sputters After Historic IPO
