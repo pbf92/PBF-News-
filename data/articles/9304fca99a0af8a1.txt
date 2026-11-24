@@ -1,0 +1,140 @@
+URL: https://www.tradingview.com/news/newsbtc:0e6ad8c2e094b:0-prop-firm-payouts-near-2-billion-10-best-prop-firms-in-2026/
+TITLE: Prop Firm Payouts Near $2 Billion: 10 Best Prop Firms In 2026
+OUTLET: TradingView
+
+Prop Firm Payouts Near $2 Billion: 10 Best Prop Firms In 2026
+Key takeaways
+- Tracked prop firm payouts are nearing $1.97 billion across 45 firms since October 2023, with more than $115 million recorded in November alone, according to Payout Junction.
+- Payout totals show that payments occurred, not that the average trader is profitable after challenge fees, resets and subscriptions.
+- A $100,000 futures account with a $3,000 maximum drawdown leaves very little room for error; compare loss allowances and profit targets, not account size.
+- Consistency rules, payout buffers, withdrawal caps and trailing drawdowns can stop a profitable trader from withdrawing.
+- The guide compares ten firms across forex, futures and crypto based on published rules, not firsthand testing. Payouts are never guaranteed.
+Prop firm payouts are approaching the $2 billion mark, with data from Payout Junction showing nearly $1.97 billion in cumulative payments across 45 tracked firms since October 2023. More than $115 million has been recorded in November 2026 alone.
+The figures offer a glimpse into how large the funded trading industry has become. But finding the best prop firms in 2026 requires looking at something payout leaderboards rarely tell you: what traders actually have to go through to get paid.
+A $100,000 futures account with a $3,000 maximum drawdown gives a trader just $3,000 of room for error. Add consistency requirements, withdrawal caps and restrictions on trading strategies, and two accounts with identical advertised balances can offer very different trading conditions.
+The industry is also expanding beyond its traditional forex and futures markets. New platforms are introducing prop trading for cryptocurrencies and tokenized stocks, giving traders access to a wider range of markets without having to commit the full advertised account balance themselves.
+For this guide, we examine ten prop firms across forex, futures and cryptocurrency markets, looking beyond advertised profit splits to compare evaluation rules, trading conditions, costs and payout eligibility.
+Editorial disclosure: This guide is based on published trading rules, product documentation and available payout data. Traders can lose their challenge fees, and most retail funded trading programs initially use simulated accounts. Receiving a payout is not guaranteed.
+Best Prop Firms In 2026 At A Glance
+The firms are grouped by their suitability for different trading styles rather than ranked by a single payout leaderboard.
+Prop Firm Payouts Approach $2 Billion
+According to Payout Junction’s November 24 data, approximately 1.19 million payout transactions have been matched to public blockchain records since October 2023.
+The tracker covers 45 firms, although its figures do not necessarily represent all payments made by those businesses. Bank transfers and other payments outside its blockchain tracking coverage may not appear in the dataset.
+November has already recorded roughly $115.5 million in tracked payments across more than 91,000 transactions.
+These are substantial figures, but they need context.
+A firm paying out $50 million does not necessarily offer a better opportunity than one paying out $5 million. The larger business could simply have more customers, higher fees or a larger number of accounts.
+Chart by NewsBTC, data from Payout Junction, November 16–22, 2026. Tracked blockchain payments only.
+Nor do the figures tell us how much traders collectively spent on challenges, resets and subscriptions before receiving those payouts.
+Without that information, it is impossible to determine the industry’s aggregate profitability for traders.
+Payout data is useful evidence that payments have occurred. It is not evidence that the average customer makes money.
+That distinction matters when comparing the following firms.
+1. FTMO — Best For Traditional Evaluation Traders
+FTMO offers a conventional two-phase evaluation for traders who prefer clearly defined profit objectives and fixed overall loss limits.
+Its two-step model requires a 10% profit target during the first phase and 5% during verification.
+The maximum daily loss is 5% of the initial simulated capital, while the overall loss limit is 10%.
+For a $100,000 evaluation, that translates into a $10,000 first-phase profit target and a $10,000 maximum overall loss allowance. FTMO Trading Conditions
+- Evaluation: Two phases under its traditional model.
+- Profit targets: 10% and 5%.
+- Maximum daily loss: 5%.
+- Maximum overall loss: 10%.
+- Funded environment: Simulated trading under contractual reward conditions.
+FTMO also offers a separate one-step model. Traders should not assume that its rules are identical to the traditional challenge.
+The two-step structure may appeal to traders whose strategies require more breathing room than accounts with narrow trailing loss limits.
+The first-phase target, however, requires meaningful performance relative to the allowed drawdown.Pros
+- Conventional evaluation structure.
+- Clearly documented trading objectives.
+- Static overall loss allowance on the two-step model.
+- No minimum trading-days requirement on the subsequent two-step FTMO Account.
+Cons
+- A 10% initial profit target can be demanding.
+- Restrictions differ between account types.
+- Challenge fees remain at risk if the trader breaches the rules.
+Our view
+FTMO is worth considering for traders with an existing, tested forex or CFD strategy. Its two-step structure is easier to assess mathematically than many trailing-drawdown alternatives, although that does not make it easy to pass.
+2. FundedNext — Best For Account Model Variety
+FundedNext operates across CFDs and futures, offering several routes to funded-style trading.
+Its Stellar 2-Step model is particularly interesting for traders who want a traditional evaluation with relatively conventional risk limits.
+The first phase requires an 8% return, followed by 5% in verification. Both phases apply a 5% daily loss limit and 10% maximum overall loss.
+The published rules specify five minimum trading days per phase. FundedNext Trading Conditions
+- Representative model: Stellar 2-Step.
+- Profit targets: 8% and 5%.
+- Maximum daily loss: 5%.
+- Maximum overall loss: 10%.
+- Minimum trading days: Five per evaluation phase.
+The firm also offers alternative CFD challenge formats and futures evaluations.
+One area worth examining is its performance reward policy. Reward frequency and eligibility can vary according to the option selected, with some routes requiring a specific number of profitable trading days.
+This makes comparing the headline profit split alone insufficient.Pros
+- Multiple routes across different markets.
+- Traditional two-step model with an 8% initial target.
+- Different reward arrangements.
+- Detailed online help documentation.
+Cons
+- Rules vary considerably between products.
+- Some reward options impose additional profitable-day requirements.
+- Promotional benefits and account add-ons may change the total cost.
+Our view
+FundedNext’s strongest feature is choice. Its biggest complication is also choice. Traders should compare the funded-stage conditions of each product before deciding which evaluation to purchase.
+3. FundingPips — Best For Traders Comparing Payout Options
+FundingPips offers several evaluation models, including one-step, two-step and evaluation-free alternatives.
+Its 2-Step Standard model requires an 8% profit target followed by 5% in verification.
+The firm’s current documentation also confirms that the previous optional 10% first-phase target was discontinued on July 24, 2026. FundingPips Trading Conditions
+- Representative model: 2-Step Standard.
+- Profit targets: 8% and 5%.
+- Maximum daily loss: 5%.
+- Maximum overall loss: 10%.
+- Additional conditions: Dependent on the selected reward cycle.
+FundingPips is an example of why traders must pay attention to changes in prop firm rules.
+Its Standard model documentation applies a 35% consistency condition to the on-demand reward cycle.
+This means a trader who generates most of their profit during one unusually successful session could need additional trading before qualifying for a withdrawal.
+That might suit a strategy producing relatively steady returns. It could be less suitable for traders whose profits are concentrated around a handful of strong market opportunities.Pros
+- Multiple evaluation routes.
+- Different reward-cycle choices.
+- Competitive first-phase target on the Standard model.
+- Extensive model-specific documentation.
+Cons
+- Certain withdrawal options have consistency conditions.
+- Strategy restrictions require careful review.
+- Older account descriptions may no longer reflect current rules.
+Our view
+FundingPips deserves consideration for its payout flexibility, but traders should examine the conditions attached to their preferred withdrawal cycle rather than choosing whichever option advertises the highest reward share.
+4. The5ers — Best For Longer-Term Account Development
+The5ers offers several forex-focused evaluation and account-development programs.
+Its High Stakes program is built around a two-stage evaluation and subsequent growth opportunities.
+The firm distinguishes between different versions of High Stakes, making it important to identify the exact account being purchased rather than relying on older comparisons. The5ers Trading Conditions
+- Representative model: High Stakes.
+- Evaluation: Two phases.
+- Drawdown: Program and account-specific limits.
+- Account growth: Subject to published scaling conditions.
+- Withdrawal eligibility: Dependent on the funded program.
+The appeal of The5ers is its focus on account development over time.
+Traders who already have a strategy capable of producing steady returns may find growth-oriented programs more interesting than accounts designed primarily around rapid evaluations.
+However, scaling opportunities should not be treated as guaranteed increases in accessible trading capital.
+The trader must meet the conditions attached to the program, and trading restrictions continue to apply.Pros
+- Programs designed around longer-term account development.
+- Published rules for growth and profitable trading days.
+- Forex-focused product selection.
+- Different evaluation structures.
+Cons
+- Growth conditions can extend the time required to increase account size.
+- Different program versions complicate comparisons.
+- News-trading restrictions require attention.
+Our view
+The5ers is a reasonable candidate for patient forex traders who value gradual account development. Its suitability depends on the precise High Stakes version and the trader’s ability to satisfy its growth criteria.
+5. Hola Prime — Best For Traders Seeking Platform Choice
+Hola Prime offers multiple evaluation formats across forex, CFDs and futures.
+Its 2-Step Prime challenge requires an 8% profit target during the first phase and 5% during the second, with at least three trading days in each phase.
+The firm’s published schedules also differentiate risk limits according to account size. Hola Prime Trading Conditions
+- Representative model: 2-Step Prime.
+- Profit targets: 8% and 5%.
+- Minimum trading days: Three per phase.
+- Maximum overall loss: Generally 10%, with 8% applying to the $200,000 tier.
+- Daily loss: Account-specific.
+Hola Prime’s product range gives traders alternatives to the standard evaluation experience. However, account fees, platform access and withdrawal terms differ across models.
+Its advertised challenge-fee refund also comes with conditions. Under the reviewed 2-Step Prime terms, the refund is distributed across the first four successful payouts rather than returned immediately upon passing.
+That is an important detail for anyone calculating how much they need to earn before recovering their initial expenses.Pros
+- Multiple forex and futures programs.
+- Broad platform selection across products.
+- Relatively short minimum evaluation period.
+- Published reference tables for account rules.
+Cons
+- Larger accounts can carry tighter

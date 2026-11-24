@@ -1,0 +1,66 @@
+URL: https://shattered.io/gta-6-decompile-market-50-percent-manifold-nov-24/
+TITLE: GTA 6 Decompile Market Sits at a Coin Flip After Xbox .exe Leak
+OUTLET: shattered.io
+
+GTA 6 Decompile Market Sits at a Coin Flip After the Xbox Executable Leak. A Manifold Markets question asking whether Grand Theft Auto VI will be decompiled within a month of release is priced as close to a coin flip, around 50% implied probability of YES as of November 24, 2026, with roughly 140 holders and more than 500 trades logged. The catalyst is not a confirmed decompilation. It is the November 23 release of an executable for an alleged 209 GB Xbox Series X|S build, five days after Rockstar launched the game on consoles with no PC version. Within hours, community recompilation projects were loading the game world on Windows, and the largest of them deleted itself.
+What the market is actually asking
+The question, “Will GTA 6 be decompiled within a month of release”, was created by Manifold user gallerdude and resolves on a 31-day window measured from the official global retail release. Rockstar shipped the game on November 19, 2026, which puts resolution around December 20.
+The criteria are stricter than the title implies. Per the description, a YES requires a reverse-engineered source repository, written in a high-level language such as C or C++, published publicly online, that compiles and runs at least the introductory sequence or first playable mission. It must be reconstructed from retail binaries, and an official source code leak does not count.
+That wording is load-bearing. What the modding scene has produced so far is not a decompilation in that sense, but a set of static-recompilation and compatibility layers, a different technical object with a different legal profile.
+The odds as of November 24, 2026, and what they imply
+As of November 24, 2026, the decompilation market on Manifold sits at roughly 50% YES, having traded in the high 40s to low 50s since the executable dropped, across about 140 holders and more than 500 trades.
+Two caveats come first. Manifold runs on mana, a play-money currency, so the incentive to price carefully is reputational rather than financial, and 140 holders is a thin pool in which a few confident traders can move the number by double digits.
+A sister market is pricing the easier version of the same question higher. “Will GTA6 be recompiled on a PC build before November 30, 2026?”, created by Manifold user apol, sat at 63% as of November 24 across 47 holders. That one requires a functional native x86-64 Windows build that boots into an interactive in-engine environment, verified by a named outlet or shipped as a reproducible public repository. We tracked that market’s climb in our breakdown of the 63% recompile odds.
+The 13-point gap between the two is the most informative number here. Traders are more confident that something will boot on Windows than that anyone will publish reconstructed C or C++ source. Those are not the same bar, and the cheaper one is closer to reality.
+The catalyst: 209 GB, then the missing .exe
+CyberLeek, the persona behind the long-running GTA VI leak campaign, resurfaced at launch with what they claimed was a near-complete Xbox build. Video Games Chronicle and PC Gamer both reported a roughly 200 GB package circulating by torrent, close to the game’s console install footprint, containing assets, RAGE engine files and shaders.
+It shipped without its central executable, which made it inert. CyberLeek set a countdown and said the file would follow. XDA Developers reported the executable for build 1.0.2.1 going out on November 23 with the message “the exe is out. Always free.”
+Neither Rockstar Games nor Take-Two Interactive has publicly authenticated the archive or the executable. Every claim about what the build contains traces back to CyberLeek or to developers who say the files work in their tooling.
+Who is doing the work, and how far they got
+The effort is spread across several named projects, tracked publicly by the community site PortWatch VI.
+Leonida, built by a developer going by NotRexed, was the most visible: a static recompilation project targeting the Xbox Series X|S build on Windows. It carved DXBC containers out of shaders.rpf, unpacked the native RDNA2 programs, disassembled them with LLVM and translated them to SPIR-V. NotRexed said all 26,503 shaders passed validation with spirv-val. Validated shaders without a working graphics path still produce no image, which is roughly where the project stood.
+Two others moved ahead. PC Games Hardware reported VIctory at 67% on PortWatch’s progress bar, loading the game world and rendering the first mission’s title card behind a dark scene at roughly 0.5 to 1.8 seconds per frame, with around 30 fps only on boot screens. It uses a Rust-based compatibility layer with DirectX 12 shader translation. XCL sat at 62.5%, reaching the world but stalling on a loading icon, with GPU watchdog timeouts ending runs after three to fourteen minutes on both AMD and Nvidia cards. A private group, CGBJ, building on VIctory’s work, has reportedly gone furthest. None of it is playable, and none of it is a decompilation under the market’s criteria.
+Timeline of the five days that moved the market
+Leonida goes dark, and the attribution is disputed
+On November 23 into November 24, Leonida’s GitHub repository and Discord server both disappeared. Decrypt reported that the GTA6Modding Discord was shut down and the Chasm server locked, quoting a mod named Freakman: “Leonida and GTA6Modding have both been nuked. Multiple servers have been struck, we’re staying low for tonight.”
+The cause is unsettled. Several outlets attributed the removals to Rockstar and Discord acting directly, and NotRexed said Rockstar took down the Discord server. But GitHub’s public DMCA archive shows no copyright notice filed against Leonida, and the repository returns a 404 rather than a takedown page, which is what voluntary deletion looks like. NotRexed, who describes themselves as a 15-year-old, cited pressure and circumstances beyond their control.
+For traders, the shutdown cuts two ways. It removed the project with the clearest path to a published repository, which argues against YES. It also failed to stop the work, since VIctory, XCL and CGBJ all advanced afterward.
+Record launch, no PC release, standing legal pressure
+Any of this has an audience because Rockstar shipped the biggest entertainment launch on record and did not ship it on PC. Take-Two announced $3.79 billion in day-one retail sales and 32.5 million units sold before release, which it framed as a record across any medium. That figure is retail sales value, not revenue the publisher keeps after platform and storefront cuts.
+No PC date exists. GTA V‘s PC version arrived roughly 19 months after its console debut, and that gap is the demand the recompilation scene feeds on. We covered the launch-week pricing and platform tensions in our analysis of the $79.99 debut and the scale of the rollout in Australia’s NBN traffic spike. For how console-to-PC compatibility works when a platform holder does it deliberately, see Xbox backwards compatibility versus PS5 and Switch 2.
+Take-Two has also been pursuing CyberLeek since August. Game Developer reported the publisher filing DMCA subpoenas in a New York federal court targeting Microsoft, including GitHub and OneDrive, and Discord, seeking account identifiers, IP logs and device records tied to the persona. A court granted them. CyberLeek kept leaking.
+That history matters for pricing. It establishes that enforcement targets the leaker and the distribution channels, not only the derivative port projects, and it makes a durable public C or C++ repository a riskier artefact to publish than a private binary. That argues against the market’s YES condition even if the engineering succeeds. The franchise’s leak history also has a criminal dimension, which we covered in the Kurtaj case file.
+Why “decompiled” is the hardest word in the question
+Static recompilation translates compiled machine code from one instruction set and platform to another. Decompilation reconstructs human-readable source. Comparable community decompilations, such as those for Super Mario 64 and Ocarina of Time, took years of volunteer work on games orders of magnitude smaller than GTA VI.
+Market comments show active disagreement over whether compatibility layers like Leonida or Xbox2Windows qualify at all, and the creator has not resolved it despite requests. A market that can plausibly resolve either way on definitional grounds is partly trading on the creator’s eventual judgment rather than on what modders ship.
+One practical warning: the hunt for a playable build has produced fraud. Reporting around the leak has flagged downloads advertised as a finished GTA VI PC build that instead carry malware, plus a widely shared video of an unofficial port assembled from recycled GTA V footage.
+What to watch next
+- A public repository, not a private binary. This market needs published code. Watch whether VIctory, XCL or CGBJ ships something reproducible.
+- A correctly rendered first mission. The renderer is the gate, not the boot. Lit, interactive gameplay at a usable frame rate is the November 30 market’s threshold.
+- Visible enforcement. DMCA notices against the surviving projects would appear in GitHub’s public archive. Each removal closes a path to YES.
+- Any Rockstar or Take-Two statement. Neither has authenticated the leak. An acknowledgement, or a PC date, reprices everything.
+- A clarification from the creator. If gallerdude defines whether recompilation counts, that alone could move the market by double digits.
+FAQ
+Has GTA 6 actually been decompiled?
+No. As of November 24, 2026, no reverse-engineered C or C++ source repository has been published that compiles and runs the opening mission. What exists are recompilation layers that partially boot the leaked Xbox build on Windows.
+Is there a playable PC version?
+No. The furthest-along public projects reach the game world at roughly one frame every one to two seconds, or stall on loading screens before GPU watchdog timeouts end the run.
+Are the leaked files confirmed genuine?
+Not officially. Neither Rockstar nor Take-Two has authenticated the 209 GB build or the executable.
+Why did Leonida shut down?
+Disputed. Reporting attributes it to Rockstar and Discord action, and the lead developer said Rockstar took down the Discord. But no DMCA notice appears in GitHub’s public archive, and the repository was apparently deleted by its creator.
+Is real money at stake?
+No. Manifold is a play-money platform using its mana currency, so the price reflects crowd conviction rather than cash positions.
+The Bottom Line
+Sources
+- Manifold Markets — Will GTA 6 be decompiled within a month of release
+- Manifold Markets — Will GTA6 be recompiled on a PC build before November 30, 2026?
+- Video Games Chronicle — Cyberleek claims to release development build of GTA 6
+- PC Gamer — Cyberleek drops what they claim is a near-complete GTA 6 Xbox build online
+- XDA Developers — GTA 6’s Xbox executable has leaked, opening the door for unofficial PC port projects
+- PC Games Hardware — GTA 6 PC ports: Leonida offline, VIctory leads XCL
+- Decrypt — GTA 6 PC ports ‘nuked’ just days before devs expected it to be playable
+- Game Developer — Take-Two subpoenas Microsoft, Discord in bid to halt extensive Grand Theft Auto VI leak
+- Take-Two Interactive — Grand Theft Auto VI shatters entertainment box office records with $3.79 billion in day one retail sales
+- PortWatch VI — community tracker for unofficial GTA VI PC port projects
+Disclaimer: prediction-market odds are crowd-sourced prices, not forecasts, and they are frequently wrong. Manifold trades in play-money mana, and thin markets with few participants can move sharply on small positions. Nothing in this article is financial, investment, or betting advice. Do your own research before acting on anything here. Prediction-market and betting availability is restricted by jurisdiction: Polymarket is not available to US persons, and Kalshi is a CFTC-regulated US exchange. Ag

@@ -1,0 +1,38 @@
+URL: https://www.tvrev.com/news/media-needs-a-fear-and-greed-index-tv-already-has-one
+TITLE: Media Needs A Fear And Greed Index. TV Already Has One
+OUTLET: TVREV
+
+Every investor knows the fear and greed cycle. Greed inflates prices. Fear corrects them. Over time, markets learn to regulate themselves: with rules, audits and circuit breakers that slow things down before they break.
+Media markets face a similar tension. The pursuit of growth drives more content, more viewing time and more advertising inventory. But growth alone does not guarantee value. Without safeguards, the very things that attract audiences and advertisers — quality, trust and a considered experience — can be undermined by the pursuit of more.
+Digital-native platforms have repeatedly moved this pursuit from one format to another, without necessarily correcting the underlying incentives.
+In investor terms, fear isn't panic. It's prudence: the discipline to check before you buy.
+As digital-native players move onto the big screen, they are discovering what television built over decades: an ecosystem where growth is balanced by safeguards. Because safeguards don't necessarily limit the value of a market. They make it more investable.
+When greed becomes the business model
+Social media is no longer very social. Meta's own figures, presented during its US antitrust trial, put the share of time spent on content from friends at 7% on Instagram and 17% on Facebook in 2025, down from 11% and 22% two years earlier. The feed has increasingly become an algorithm that keeps people watching content from people they don't know, creating more opportunities to serve advertising.
+The same volume-first logic is increasingly visible in brand investment. Unilever's creator network reportedly grew from 75,000 in 2024 to more than 500,000, producing twelve times more content.
+The underlying belief is that more time spent and more content create more advertising exposure and, consequently, more growth. But more exposure does not automatically mean more value. Beyond a certain point, abundance stops working, and scarcity starts creating value.
+Television's built-in circuit breakers
+Television has always had to reconcile two commercial imperatives: building audiences at scale and protecting the quality of the experience that attracts them.
+At its best, that balance is maintained through several safeguards: investment in content, editorial and commercial standards, considered advertising loads and the design of formats that respect the viewing experience. Together, they help protect the conditions in which audiences engage and advertising can work.
+There is a commercial feedback loop at the heart of this model. High-quality content and a considered viewing experience attract audiences. Advertising revenue helps fund the content and standards that sustain that experience.
+The streaming platforms have understood this too. Netflix and Disney+ have introduced limited advertising loads in their ad-supported tiers. As Ampere Analysis has noted, their challenge is to increase monetisation without compromising the premium viewing experience.
+New advertising formats follow the same logic. Home-screen and pause ads make use of available space and moments without interrupting the programme itself. TV networks such as Seven.One Media, RTL and ITV have embraced these formats, while the market is still negotiating their value. In an Index Exchange survey, buyers expected pause ads to clear below a $15 CPM, while publishers valued them at $15 to $25 or more. Greed and fear, priced side by side.
+The point is not whether media companies pursue monetisation. They all do. It is whether monetisation protects or undermines the experience that creates the value in the first place.
+The measurement that keeps the market honest
+Among television's safeguards, independent audience measurement plays a particularly important role in keeping the market accountable.
+It protects both sides of the market. Advertisers need to know the reach and scale they are buying. Broadcasters need a credible way to demonstrate the value of their audiences. Independent measurement provides common ground: counting people rather than just devices, using transparent methods and establishing a currency that buyers and sellers can both trust.
+For years, digital transformation made television question that system. Today, the newcomers are adopting it. Netflix, Disney+ and Prime Video are measured by Barb in the UK, and Rakuten TV joined this year. YouTube has built co-viewing into its planning tools since 2022 and, since 16 November, into its public view counts. One play, three views. YouTube now counts the room.
+The history matters. In 2023, YouTube told agencies it would trade CTV on its own co-viewing estimates. Buyers pushed back, and YouTube postponed the move, promising third-party validation. Prudence, from the buy side.
+Europe has now put that prudence into law. The European Media Freedom Act requires audience measurement systems and their methodologies to meet principles including transparency, impartiality, comparability and verifiability. Providers of proprietary measurement systems must make detailed methodological information available to relevant market participants, and their methodologies and application must undergo independent annual audits.
+Importantly, the Act also recognises the role of industry self-regulation. That puts collaborative, independent measurement at the centre, where buyers and sellers agree on the rules before money changes hands.
+Why prudence reduces advertising risk
+For advertisers, this balance makes television a solid foundation rather than a gamble. The advertising environment is curated. Audiences are counted as people, not just devices, and measurement reflects actual viewing. The screen, the sound and the shared moment create room to tell stories and move people. These are the conditions that brand building needs.
+And brand building is risk reduction.
+A new UK study by Thinkbox, in collaboration with Ebiquity, Gain Theory, WPP Media and YouGov, finds that ad awareness explains 17% of brand consideration, and that total TV drives half of all ad awareness uplift.
+The study points to something every CFO understands: awareness moves before sales do. It is an early indicator of future commercial potential. Building it today helps reduce the risk of having to generate demand from scratch tomorrow.
+Growth needs both ambition and restraint
+Psychology explains why this balance matters. People pursue their goals through two complementary motivational orientations. A promotion focus drives advancement, opportunities and growth. A prevention focus protects against losses, manages risks and maintains security. Neither is sufficient on its own. Both serve the desire to do better.
+The same balance applies to the TV advertising market. Its next source of growth may lie in understanding advertisers' own combination of ambition and risk management: their desire to expand and their need to protect returns.
+And this balance may become even more valuable as AI changes how media is bought and sold. When agents increasingly transact with agents, trusted data, transparent rules and independently verified outcomes become essential. In that environment, television's accumulated experience in balancing growth with safeguards is a human and institutional capability worth pricing in.
+Count people. Check the count. Grow with confidence.
+Sources: Meta; Unilever; Ampere Analysis; Seven.One Media; Ad Alliance; ITV; Index Exchange (Jun 2026); Barb; Google; European Media Freedom Act; Higgins, "Beyond pleasure and pain", American Psychologist

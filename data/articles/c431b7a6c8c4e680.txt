@@ -1,0 +1,35 @@
+URL: https://holder.io/news/prop-firms-2b-payouts/
+TITLE: Prop firms recorded $1.97 billion in payouts since October 2023
+OUTLET: Holder.io
+
+Prop firms recorded $1.97 billion in payouts since October 2023
+Tracked prop firm payouts are nearing $2 billion since October 2023 across 45 firms, with more than $115 million in November 2026 alone, based on Payout Junction’s blockchain-matched data. These figures verify that payments occurred, not that average traders are profitable after fees, resets and subscriptions. Evaluation rules, drawdown mechanics and payout eligibility determine whether a profitable trading record converts into a withdrawal. Advertised account size is a weak comparator: compare loss allowances, trailing versus static drawdowns, profit targets, buffers, caps and consistency rules. The industry is expanding into crypto and tokenized stocks, but most programs start with simulated accounts and payouts are not guaranteed.
+- Nearly $1.97 billion tracked payouts since Oct 2023; ~1.19 million transactions; November 2026: ~$115.5 million across 91,000+ transactions. Coverage excludes off-chain payments like bank transfers.
+- Payout totals confirm payments but do not show net trader profitability. Fees and rule breaches can erase gains.
+- $100,000 futures accounts with $3,000 maximum loss allow limited error. Trailing drawdowns and intraday adjustments can shrink risk room as profits accrue.
+- Consistency rules, payout buffers, withdrawal caps and strategy restrictions can block withdrawals despite profitability.
+- Guide compares ten firms across forex, futures and crypto by published rules. Most funded accounts are simulated. Receiving a payout is not guaranteed.
+Chart by NewsBTC, data from Payout Junction, November 16–22, 2026. Tracked blockchain payments only.
+Best Prop Firms In 2026 At A Glance
+Suitability depends on trading style and withdrawal needs. The table groups firms by fit instead of payouts.
+Notable firm-specific rules
+- FTMO: Two-step evaluation with 10% then 5% targets; 5% daily and 10% overall loss limits; separate one-step model has different rules.
+- FundedNext: Stellar 2-Step: 8% then 5%; 5% daily and 10% overall; five minimum days per phase; performance reward eligibility varies by option.
+- FundingPips: 2-Step Standard: 8% then 5%; 5% daily and 10% overall; on-demand withdrawals can require 35% consistency.
+- The5ers: High Stakes two-stage evaluation with program-specific drawdowns and scaling conditions; different versions have distinct rules.
+- Hola Prime: 2-Step Prime: 8% then 5%; minimum 3 days per phase; loss limits vary by account size; fee refunds distributed across first four payouts.
+- Topstep: Futures; loss allowances: $2k on $50k, $3k on $100k, $4.5k on $150k; Express Funded Account is simulated; withdrawals affect loss thresholds.
+- Tradeify: Select evaluation has no daily loss limit but requires consistency; funded-stage choice between Select Flex and Select Daily is permanent.
+- Take Profit Trader: Futures; single-phase evaluation with three trading-day minimum; new PRO plans: no funded-stage consistency; daily withdrawals subject to buffers.
+- Lucid Trading: LucidFlex: no funded-stage consistency or separate payout buffer; 90% reward share; payout conditions still apply and withdrawals can alter loss thresholds.
+- HyroTrader: Crypto one-step: 10% target; 4% daily and 6% overall drawdown; minimum five days; simulated accounts with contractual payouts.
+How To Compare Accounts: Key Numbers
+- Target-to-loss ratio: Profit target divided by loss allowance indicates difficulty relative to risk room. Larger advertised balances can mask tighter allowances.
+- Static vs trailing drawdown: Trailing thresholds can rise with unrealized gains, reducing cushion for later losses, especially with intraday trailing logic.
+- Payout eligibility: Consistency rules, buffers and caps can delay or limit withdrawals even after profits.
+- Prohibited strategies: Copy trading, news trading, automation and hedging rules differ by firm and phase.
+- Total cost: Beyond challenge fees, include subscriptions, resets, funded activation, data and platform fees, plus withdrawal charges.
+Legitimacy And Risk
+Retail prop programs sell evaluations and simulated funded accounts with contractual payouts for eligible performance. Belgium’s FSMA warns about repeated-challenge costs and program risks. Review the operating entity, governing law, dispute venue and rule-change provisions. High payout counts do not guarantee future payments or firm solvency.
+Final Verdict
+Approaching $2 billion in tracked payouts signals industry scale, not net trader profits. The most suitable firm is the one whose evaluation and funded-stage rules match the trader’s strategy and risk control. Calculate real loss room, target-to-loss ratios, trailing effects, payout buffers and total attempt costs before purchase. These metrics are more predictive than advertised account size or headline profit splits.

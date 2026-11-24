@@ -1,0 +1,21 @@
+URL: https://www.unite.ai/anthropic-lets-claude-users-install-ai-built-tools-as-desktop-apps/
+TITLE: Anthropic Lets Claude Users Install AI-Built Tools as Desktop Apps
+OUTLET: Unite.AI
+
+Key PointsInstalled apps stay tied to the original artifact so edits by any editor change the app…
+View more
+- Installed apps stay tied to the original artifact so edits by any editor change the app itself.
+- Anthropic does not review apps before installation and warns users to grant full access cautiously.
+- Permission grants are version-specific so an update requires fresh approval even when the user made the edit.
+Anthropic announced on November 24, 2026 that Claude users can install artifacts as desktop apps in beta on macOS and Windows. The apps have their own windows and icons, are rolling out to free and paid plans, and can request access to files, programs, notifications, and other operating-system features.
+Artifacts are Claude-generated designs, documents, dashboards, and small interactive tools that open beside a conversation for editing and sharing. A user describes the desired tool in chat, and Claude writes the code. Tools that call Claude run on Anthropic’s infrastructure without API keys; each person signs in with their own Claude account and gets a separate instance, with usage counted against that person’s plan rather than the builder’s.
+Installation Adds a Desktop Container
+The beta is rolling out on Free, Pro, Max, Ultra, Team, and Enterprise plans and requires Claude for Mac or Claude for Windows version 6.28899.0 or later. A user opens the artifact in Claude Desktop, selects Install as app from its title menu, context menu, or sharing options, and confirms. macOS places apps in a Claude Apps folder, while Windows apps can be opened from the Start menu or a desktop shortcut.
+Installation adds a desktop container without creating an independent copy: the app remains the same artifact. Edits by the owner or another editor therefore change the app, and opening it requires an internet connection and a signed-in Claude Desktop session. An app with a menu bar item or system tray icon keeps running after its window closes.
+Permissions and Organizational Controls
+Installed apps retain the artifact’s access to Claude and connectors. They can also request permission to show notifications, respond to keyboard shortcuts while other apps are in use, float over other windows and read cursor position, and display a macOS menu bar item or Windows system tray icon. A separate full-access tier can run programs and read, change, or delete files without repeated prompts. The installation guide warns that Anthropic does not review apps before installation and advises granting full access only when the user trusts everyone who wrote the app.
+Claude generally prevents full-access requests if someone outside the user’s organization wrote part of the app or authorship cannot be confirmed. On Free, Pro, Max, and Ultra plans, anyone other than the user counts as outside. Permission is version-specific: allowing one version does not cover an update, even when the user made the edit, while a refusal remains until changed. Code loaded from another site can change without triggering a new request.
+Team plans enable installation by default but leave full computer access off until an admin enables it. Enterprise plans keep the entire feature off until an owner turns it on. Building an app and any requests it makes to Claude count toward the user’s plan limits.
+Beta Limits Define Availability
+At launch, installation is unavailable on Linux, the web, and mobile. Artifacts made from templates, including Docs, Slides, and Sheets, cannot be installed, nor can legacy artifacts or live artifacts from Claude Cowork. Organizations with HIPAA-ready configurations cannot use the apps. Full access is unavailable in Claude for Teachers and K-12 organizations, and installed apps are not covered by zero data retention in organizations using it for Claude Code.
+The change gives a conversational request a route to software that sits beside other desktop programs, but it also brings code authorship, file access, retention, and administrative policy into that route. The result is an app-distribution model whose identity, updates, usage, and controls remain tied to Claude and the underlying artifact.

@@ -1,0 +1,22 @@
+URL: https://superpowerdaily.com/posts/anthropic-will-remove-sonnet-4-6-from-claude-s-individual-plans-on-december-8
+TITLE: Anthropic will remove Sonnet 4.6 from Claude’s individual plans on December 8
+OUTLET: Superpower Daily
+
+Anthropic will remove Sonnet 4.6 from Claude’s individual plans on December 8
+Chat histories will stay, but continuing them can trigger a model change. Anthropic recommends Sonnet 5.5 and warns that not every task will switch automatically.
+Loading page…
+Listen to this story
+The change is limited to Claude’s individual subscriptions: after December 8, 2026, Free, Pro, Max and Ultra users will lose Sonnet 4.6 as a selectable model in Claude chat and Cowork, including desktop and mobile apps. Existing conversation histories stay in users’ accounts, but the model used for future replies may change. Anthropic recommends selecting Sonnet 5.5 in each conversation and scheduled task beforehand because not every item will migrate automatically. Sonnet 4.6 remains available through Claude Code, Team and Enterprise plans, and the Claude Platform API.
+Users can still select Sonnet 4.6 through December 8, 2026.
+Changing a chat’s model affects its next response, and users can choose another available model later.
+Anthropic says users can export their Claude data at any time for a separate copy of their conversation history.
+Claude users will keep their Sonnet 4.6 conversations, but not the option to keep choosing that model on Free, Pro, Max and Ultra plans. Anthropic will remove it from the model selector on December 8, 2026, with existing chats beginning to move to Sonnet 5.5 or the user’s default model as conversations continue.
+The change covers both Claude chat and Claude Cowork, including Claude Desktop and Claude Mobile. Until December 8, affected users can still select Sonnet 4.6. Anthropic recommends Sonnet 5.5 as the replacement, rather than asking users to abandon their existing conversations.
+This is not a shutdown of Sonnet 4.6 across Anthropic’s services. The company explicitly excludes Claude Code, Team and Enterprise plans, and the Claude Platform API from the change. Access therefore depends on where someone uses the model, not simply whether they have used it before.
+Existing Sonnet 4.6 chats will remain in users’ accounts, and nothing will be deleted. The migration happens as users continue those conversations. Preserving the history is therefore separate from preserving the model that produces the next answer.
+There is an important exception to relying on that migration: not every chat, task or scheduled task will switch automatically. Anthropic recommends choosing Sonnet 5.5 in each one before December 8. Its guidance calls for checking individual conversations and tasks, rather than assuming that every item will move on its own.
+Users are not required to stick with Sonnet 5.5: Anthropic says they can choose a different available model at any point in a chat. Anyone who wants a separate copy of their conversation history can also export their Claude data at any time.
+Loading discussion...
+Join the conversation
+Explain when keeping a familiar model would matter to you.
+Be the first to share a perspective or an experience.

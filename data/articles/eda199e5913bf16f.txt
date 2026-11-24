@@ -1,0 +1,28 @@
+URL: https://www.bbc.com/news/articles/ckq5v48vejj5o
+TITLE: Cambridge Uni study says approved drugs might treat more cancers
+OUTLET: BBC
+
+Existing cancer drugs might help more patients
+There have been "striking" missed opportunities to treat cancer patients with drugs already approved for other forms of the disease, according to new research.
+The study from the University of Cambridge found about one in five cancers, and one in four cancers that have spread, contained changes to their DNA that could be targeted with existing therapies.
+Many targeted drugs have only been approved for certain cancers, meaning they cannot be used for other types without lengthy clinical trials.
+"We may be missing opportunities to treat cancers simply because we're looking for particular genetic changes in only certain types of cancer," said Prof Serena Nik-Zainal, the study's senior author.
+"The scale of potentially missed opportunities is striking," she added.
+The researchers suggested urgent work was needed to see how drugs and cancers could be better matched according to their genomic make-up.
+Researchers at Cambridge's Early Cancer Institute analysed whole-genome sequencing data from more than 17,000 tumours for the study, which has been published in The Lancet Oncology.
+These included 11,000 primary cancers (where the original tumour site is known, such as in bowel cancer) from the UK-based 100,000 Genomes Project, and 6,000 metastatic cancers that had spread, from the Netherlands-based Hartwig Medical Foundation.
+The team screened every genome and looked for DNA damage that could be linked to therapies already approved by the US Food and Drug Administration.
+They also looked for genetic changes linked to drugs currently in development or in clinical trials, but not yet fully approved.
+The results showed 19% of primary cancers and one in four metastatic cancers (26%) contained changes to their DNA that could be targeted with existing approved therapies.
+However, more than half of the changes occurred in cancers that differed from those for which drugs had been approved.
+Genetic changes
+Nik-Zainal, from the university's Department of Medical Genetics, said: "The scale of potentially missed opportunities is striking."
+She said some of the drugs that target these changes "are already approved by NICE [National Institute for Health and Care Excellence] for use in the NHS, but only for specific cancers".
+"Our findings suggest these same drugs could potentially benefit patients with other cancers, including rare or difficult-to-treat ones," she said.
+"The challenge now is to test these possibilities in clinical trials, so that more patients across the NHS could benefit from treatments we already have."
+Tanya Hollands, the science engagement manager at Cancer Research UK, "Our determine trial is putting this idea to the test in adults and children with rare cancers, testing whether drugs already approved for more common cancers can help treat tumours with similar genetic changes," she said.
+"We hope this could open up new treatment possibilities for people with cancers where options are often limited."
+Dr Ellen Thomas, the chief medical officer at Genomics England, said: "Continuing to better understand our genes offers a significant step forward in how we diagnose and treat conditions like cancer."
+The research was funded by the National Institute for Health and Care Research (NIHR), with support from Cancer Research UK, the Breast Cancer Research Foundation and the Jeffrey Cheah Foundation. It was supported by the NIHR Biomedical Research Centre: Cambridge.
+Correction 24 November 2026: This article was amended to make clear the research was funded by the NIHR and not by NICE, as originally stated.
+Do you have a story suggestion for Cambridgeshire? Contact us below.

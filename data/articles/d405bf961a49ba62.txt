@@ -1,0 +1,53 @@
+URL: https://www.eurekalert.org/news-releases/1153303
+TITLE: Court-appointed medical guardian study reveals role in care of highly vulnerable older adults
+OUTLET: EurekAlert!
+
+When University of Michigan Health geriatrician Kahli Zietlow, M.D., gets summoned to the hospital room of a seriously ill older adult, she knows the assessments she performs might help determine if the patient can make their own medical decisions, or if someone else will have to.
+But if the patient’s health or mental capacity has declined too far before they could legally authorize someone to make medical decisions for them, then Zietlow knows that the hospital may ask a probate court to assign a guardian to make those decisions, either temporarily or permanently.
+The hospital can write to the court in support of a relative, friend or neighbor who is willing to serve as the patient’s court-appointed guardian. But if there is none, the probate judge will turn to a professional guardian. Paid by the state, they often handle the cases of dozens of patients at a time.
+In Michigan and other states, spouses and adult children don’t automatically have medical decision-making rights for adult patients. These rights can only be granted via a signed advance directive form.
+After years of navigating this system during her geriatric medicine training and then after joining the Geriatric & Palliative Care Medicine team at University of Michigan Health, Zietlow noticed patterns in the types of patients who were getting referred to guardianship, and especially professional guardians.
+Now, she and her colleagues, including first author and U-M Medical School alumna Shannon Clare, M.D., have published a study in the Journal of the American Geriatrics Society that documents these patterns in detail among more than 200 patients over the age of 60 who were referred for guardianship hearings while hospitalized at U-M’s University Hospital between 2019 and 2024.
+Zietlow says the findings confirm what smaller studies in other populations have suggested: that older adults entering guardianship are some of the most vulnerable in society, and that there are stark differences by guardianship type.
+The findings carry a message for everyone, she said.
+“All adults should complete advance directives, and have them in their electronic medical records, as well as informing family members and friends of their wishes,” said Zietlow. “We need to do more upstream to empower older adults to complete these documents, including in community settings such as senior centers, religious organizations, shelters, and low-income housing.”
+In all, patients entering guardianship had extremely high scores on measures of illness severity and complexity. By the time the hospital petitioned for a guardianship hearing, they had been hospitalized for a month on average.
+Of the 211 patients who lived long enough to be assigned a guardian, just over half (53%) received a guardian they knew, while the rest were assigned a professional guardian – a complete stranger assigned to make decisions about their care, and about where they would go after they left the hospital.
+State regulation of professional guardians varies greatly; in Michigan there is no minimum required education or licensing.
+Differences by guardian type
+Those who had Medicaid coverage, alone or in combination with Medicare, were much more likely to be assigned to professional guardians than those with other forms of insurance, including Medicare alone or private insurance.
+The Medicaid-insured group made up 40% of all those referred to probate court for guardianship petitions. This suggests major disparities based on income and assets, which the study didn’t measure directly.
+No matter what kind of insurance they had, patients with a guardian who they knew were much more likely to receive care during their inpatient stay from U-M’s multidisciplinary Palliative Care team, which specializes in symptom management and supportive care for patients with chronic and life-limiting diseases.
+One of the biggest decisions guardians get involved in, Zietlow said, is where the patient will be discharged when their care team says they’re ready to leave the hospital. If their illness has impaired their thinking, mobility or self-care abilities, many factors go into deciding what’s safest, depending on what supports are available at home.
+While nearly all the patients in the study came to the hospital from their own homes, only 20% returned to those same homes.
+Patients who returned home were much more likely to have a guardian known to them who was assigned partial guardianship powers. Meanwhile, 80% of those who were assigned to a professional guardian were discharged to a different location, such as a nursing home.
+The study also found a major difference in guardianship based on patients’ education levels.
+Just under half of the patients’ formal educations had ended with high school or less. This group was more likely than patients who had attended or graduated from college to be assigned to guardians who were given full legal responsibility for their medical decisions, rather than limited guardianship or other status.
+Two-thirds of the initial guardianships were temporary, which hospitals may seek so someone to make medical decisions for an unrepresented adult during medical crises or procedures. Some of these may later become permanent, which the study could not track. But 25% received permanent guardian assignments from the start.
+The study also found other signs of high vulnerability in the guardianship population. Either before or during their hospitalization, 44% of the patients were referred to the state’s Adult Protective Services team that investigates abuse and neglect allegations. And 23% were either current or former users of illicit substances.
+Avoiding guardianship through advance directives
+Michigan does not have a surrogate consent statute that sets a standard for relatives to take a role in the medical decisions of a spouse, parent, sibling or other close relative unless they are specifically named in the person’s advance directive documents, completed when the person was competent to sign those documents.
+“Marriage does not protect you. Being the parent of someone over age 18 does not protect you,” said Zietlow.
+But even in states that have such statutes, adults can end up in guardianship if there are disagreements between relatives or the relative who has surrogate consent status is unwilling or unable to make decisions.
+There is also a growing effort to allow people with serious health conditions or disabilities to make medical decisions with the help of a trusted person who does not have a legal role in their care, through a process known as supported decision making.
+Once someone has entered later stages of dementia, severe mental illness, or medical frailty caused by sudden illness or multiple chronic conditions, or suffered a traumatic brain injury or massive physical trauma, it may be too late to sign anything.
+For young people with lifelong cognitive disabilities, putting an alternate to guardianship in place as soon as they reach majority age could help avoid issues later, Zietlow said.
+Resources for Michigan residents:
+Advance Directives Durable Power of Attorney for Health Care booklet and forms from U-M Health
+Michigan Legal Help - website from Michigan State Bar Foundation
+Michigan Guide to Guardianship from the Michigan Health and Hospital Association
+Legally Incapacitated Adult information from Washtenaw County, where the University of Michigan is located
+More about the study:
+In addition to Zietlow and Clare, the research team included Geriatrics faculty member Caroline Vitale, U-M Health social worker Leslie Dubin, Alison Hirschel and Nicole Shannon of the Michigan Elder Justice Initiative, and Ganga Vijayasiri of the U-M Center for Research and Innovations in Special Populations.
+The study was funded by Health Resources and Services Administration (K01HP49055).
+Hospital-Initiated Guardianship for Older Adults: A Retrospective Analysis, Journal of the American Geriatrics Society, DOI:10.1111/jgs.70782
+Journal
+Journal of the American Geriatrics Society
+Method of Research
+Data/statistical analysis
+Subject of Research
+People
+Article Title
+Hospital-Initiated Guardianship for Older Adults: A Retrospective Analysis
+Article Publication Date
+26-Oct-2026

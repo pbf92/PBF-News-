@@ -1,0 +1,15 @@
+URL: https://tribune.net.ph/2026/11/24/cisco-taps-anthropics-claude-mythos
+TITLE: Cisco taps Anthropic’s Claude Mythos
+OUTLET: Daily Tribune
+
+Cisco has announced plans to integrate Anthropic’s Claude Mythos into its AI Defense platform, strengthening cybersecurity protections as businesses increasingly deploy artificial intelligence agents across their operations.
+Unveiled at Cisco Live APJC in Melbourne, Australia, on 10 November 2026, the integration will allow organizations to simulate sophisticated cyberattacks and identify vulnerabilities in AI applications before they are exploited.
+Claude Mythos will enhance Cisco’s adaptive AI red-teaming framework by generating realistic, multistep attack scenarios tailored to specific systems.
+The technology will operate under strict safeguards, allowing testing only on authorized enterprise systems with authenticated operators and monitored sessions.
+“You cannot scale what you cannot secure, govern, or observe,” said Cisco President and Chief Product Officer Jeetu Patel.
+“By uniting frontier-level AI runtime protections with machine-speed agent quality controls, we are building a continuous trust loop: protecting agents from compromise while ensuring every token spent delivers measurable business value.”
+Cisco also introduced enhancements to Splunk Agent Observability, including Tokenomics, a feature that tracks AI spending against the quality and business value of automated tasks.
+The company said its new evaluation models can reduce assessment costs by up to 98 percent compared with commercial large language models while delivering results 2.5 times faster.
+Meanwhile, upgrades to Cisco IQ will help security teams identify network vulnerabilities and connect threat intelligence with automated remediation workflows.
+Cisco IQ currently serves nearly 17,000 customers across more than 22 million devices.
+The Claude Mythos integration will initially be available to select enterprise customers, while Tokenomics is scheduled for private preview in December 2026 and general availability in early 2027.

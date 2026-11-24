@@ -1,0 +1,56 @@
+URL: https://beinsure.com/news/us-stock-market-nasdaq-sp500-fall-ai-stocks-slide/
+TITLE: US stock market today: Nasdaq and S&P 500 fall as Nvidia and AI stocks slide, Dow gains
+OUTLET: Beinsure
+
+US stocks traded mixed on Tuesday, November 24, 2026, as renewed selling across artificial intelligence and semiconductor stocks interrupted Wall Street’s recovery. Investors shifted their attention from Jensen Huang’s reinstatement as Nvidia CEO to technology valuations, corporate profitability and the prospect of further monetary tightening.
+In late-afternoon trading, the Nasdaq Composite fell approximately 2%, the S&P 500 declined 0.8% and the Dow Jones Industrial Average gained 0.6% to nearly 49,886 points.
+- Technology stocks reversed part of Monday’s rally as investors reassessed AI valuations, corporate governance risks and infrastructure spending.
+- The Dow Jones outperformed the Nasdaq and S&P 500 as investors rotated into healthcare, consumer staples and other defensive sectors.
+- UBS remains positive on long-term AI investment but expects greater differentiation between companies based on financial strength and commercial returns.
+Monday’s rally had delivered the strongest session for the Nasdaq and S&P 500 since April 2025, following a sell-off that pushed major US equity indexes into correction territory.
+Nasdaq and semiconductor stocks face renewed selling pressure
+Nvidia shares fell more than 7% after surging 31.5% on Monday, when Huang’s reinstatement added approximately $952 bn to the company’s market capitalization.
+The leadership change reduced immediate uncertainty over Nvidia’s strategic direction but left concerns surrounding corporate governance, AI infrastructure financing and investment returns unresolved.
+The Philadelphia Semiconductor Index declined 9.2% during morning trading after gaining more than 14% in the previous session. Micron Technology fell more than 10%, AMD lost approximately 9%, while Broadcom, SanDisk, Seagate and Western Digital also traded lower.
+AI cloud infrastructure providers CoreWeave and Nebius declined approximately 13%. Their dependence on external financing and capital-intensive infrastructure makes them particularly vulnerable to higher borrowing costs.
+Anthropic traded around $79.57 in the afternoon, below its $83 IPO price. The company’s $81 bn initial public offering, before additional underwriting allocations, has intensified scrutiny of AI developers’ computing expenses and future profitability.
+Wedbush Securities remains positive on Anthropic’s growth prospects, citing expanding demand for AI infrastructure and services. However, competition among AI developers and the cost of training and operating advanced models complicate the path to sustainable earnings.
+UBS downgrades global equities as AI investment risks increase
+UBS Global Wealth Management has lowered its assessment of global equities from Attractive to Neutral, citing elevated valuations, market concentration and uncertainty over the financial returns from AI investment.
+The bank estimates that US technology companies could invest nearly $5 tn in AI infrastructure by the end of 2028. Annual revenue from AI models and applications may need to reach at least $1.5 tn by 2030 to generate adequate returns on that investment.
+UBS favors financially established hyperscalers, semiconductor manufacturing companies, equipment suppliers and infrastructure software providers with identifiable revenue opportunities.
+The bank also prefers Eurozone equities over US stocks, expecting comparable corporate earnings growth at lower valuations. Its preferred sectors include industrials and healthcare.
+S&P 500 forecast for 2027: Wall Street expects further gains
+Goldman Sachs and Morgan Stanley maintain S&P 500 targets of 8,700 for 2027, implying approximately 21% upside from current levels. Both banks expect corporate earnings to support the recovery but differ in their assumptions about profit growth.
+- Goldman Sachs projects earnings growth of approximately 11% in 2027, down from 30% in 2026. AI capital expenditure accounted for roughly half of this year’s earnings growth, a contribution expected to diminish as infrastructure investment slows and depreciation expenses increase.
+- Morgan Stanley forecasts S&P 500 earnings per share of $369 in 2026, $420 in 2027 and $458 in 2028. Its index target assumes a valuation of approximately 19 times projected 2028 earnings, supported by productivity improvements and profit expansion beyond the technology sector.
+- UBS Global Wealth Management, Wells Fargo and Bank of America forecast the S&P 500 at 8,200 by the end of 2027. JPMorgan Private Bank expects the benchmark to reach between 8,500 and 8,700, while UBS Global Research maintains a more bullish target of 8,900.
+Goldman Sachs has outlined a downside scenario in which the S&P 500 falls to approximately 5,600 if earnings expectations return to their long-term trend and the index’s valuation contracts to 17 times earnings.
+A November 24 Reuters survey of 42 market strategists and portfolio managers produced a more conservative median S&P 500 forecast of 8,150 for year-end 2027. The Dow Jones consensus target stands at 53,800, implying 8.5% appreciation from Monday’s close.
+LSEG estimates that S&P 500 earnings growth will moderate to 16.4% in 2027 from 37.1% in 2026. Wells Fargo expects AI spending to continue supporting corporate profits and considers current interest rates manageable for the broader economy.
+Dow Jones and Russell 2000 outperform technology indexes
+Healthcare and consumer staples attracted capital as investors reduced exposure to technology stocks. The Russell 2000 also traded higher during the session, indicating that selling remained concentrated in AI-related companies rather than spreading uniformly across US equities.
+The Dow’s price-weighted structure and lower exposure to semiconductor companies limited the impact of Nvidia’s decline.
+Advancing stocks outnumbered declining issues by a ratio of 1.29 to 1 on the NYSE and 1.22 to 1 on the Nasdaq during morning trading. However, the Nasdaq recorded 241 new 52-week lows against 40 new highs, reflecting persistent weakness beneath the index’s recent recovery.
+US consumer confidence reached its highest level in nearly two years in November, supported by improving perceptions of employment conditions and economic prospects following the midterm elections.
+Federal Reserve rate hike expectations weigh on stock valuations
+Interest rate futures indicate a 95% probability of a 25-basis-point increase at the Federal Reserve’s December meeting and a 5% probability of a larger 50-basis-point move.
+Wednesday’s PCE inflation report will provide an important indication of whether more aggressive tightening is warranted. The Cleveland Fed’s estimates point to October core PCE inflation of 3.2% year over year, compared with 3.1% in September, and a monthly increase of 0.3%.
+UBS forecasts quarter-point rate increases in December and March 2027. The bank expects average US inflation to moderate from 3.4% in 2026 to 2.3% in 2027, potentially limiting the duration of the tightening cycle.
+Reports that the Trump administration is preparing additional tariffs on dozens of trading partners, including China, have introduced another inflation risk.
+Higher energy prices associated with the Iran conflict could further complicate monetary policy, although oil prices declined approximately 1% on Tuesday.
+Corporate earnings expose pressure on AI profit margins
+Hewlett Packard Enterprise shares fell more than 17% despite raising its fiscal 2027 outlook. Fourth-quarter revenue increased 50% year over year, while orders surged 88%.
+The decline reflected concerns that expanding AI server sales could dilute profit margins. Dell Technologies and Super Micro Computer also recorded substantial losses.
+Strong demand for AI hardware does not necessarily translate into proportional earnings growth for equipment manufacturers. Rising component costs, competitive pricing and an increasing share of lower-margin server sales could constrain profitability despite expanding order books.
+Outside technology, Dollar Tree gained more than 11% after raising its annual profit forecast. Best Buy advanced after reporting its strongest comparable sales growth in five years.
+US banking sector faces rising unrealized bond losses
+Unrealized securities losses at US banks increased nearly 50% in the third quarter to $486 bn, reflecting the impact of higher interest rates on fixed-income portfolios.
+According to FDIC data, losses increased by $159.4 bn from the previous quarter, contributing to a decline in regulatory capital ratios. Nevertheless, total bank lending expanded 7.5% year over year, its fastest quarterly growth since early 2023. The country’s 4,205 FDIC-insured institutions generated combined quarterly net income of $84.8 bn, up 7%.
+The figures indicate that credit demand and banking profitability remain resilient, although additional monetary tightening could increase funding costs and balance sheet pressure.
+US stock market outlook: Earnings estimates and downside risks
+Goldman Sachs has identified three potential catalysts for market stabilization: greater confidence in AI-related earnings, less restrictive Federal Reserve guidance or a substantial reduction in investor positioning.
+The bank’s recent research indicates that the technology correction has extended into a broader reassessment of economic growth expectations, with cyclical stocks underperforming defensive sectors.
+US Bank Wealth Management believes much of the immediate correction has already occurred, although uncertainty surrounding technology investment and monetary policy is likely to sustain volatility.
+The principal valuation risk for the Nasdaq remains a deterioration in 2027 and 2028 earnings expectations. For the broader S&P 500, the ability of industrial, financial and consumer companies to sustain profit growth will determine how effectively the index can absorb further weakness in technology stocks.
+Market figures reflect intraday trading on November 24, 2026, at approximately 3 p.m. ET, rather than final closing prices.

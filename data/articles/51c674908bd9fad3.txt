@@ -1,0 +1,20 @@
+URL: https://medicaldialogues.in/amp/cardiology-ctvs/news/macrotroponin-i-may-alter-cardiovascular-risk-prediction-from-elevated-troponin-levels-study-finds-183768
+TITLE: Macrotroponin I May Alter Cardiovascular Risk Prediction From Elevated Troponin Levels, Study Finds
+OUTLET: Medical Dialogues
+
+The findings suggest that macro-cTnI, formed when troponin binds to circulating antibodies, may affect the interpretation of elevated troponin levels and lead to inaccurate cardiovascular risk assessment. The study was published in the European Heart Journal by Torbjørn Omland of the University of Oslo and Akershus University Hospital, Norway, and colleagues.     
+Cardiac troponin, a marker of myocardial injury, is used to detect subclinical heart damage and assess cardiovascular risk. However, elevated levels may occur without an apparent clinical cause. One possible explanation is macrotroponin, formed when troponin binds to circulating antibodies, creating complexes that remain in the bloodstream longer and raise measured levels.
+To examine whether macro-cTnI affects the link between troponin levels and future cardiovascular events, researchers analysed 3,703 participants in Norway's Akershus Cardiac Examination (ACE) 1950 Study. The median age was 64 years, and 49% were women. Blood samples collected between October 2017 and January 2018 were tested using a high-sensitivity cTnI assay.
+Macro-cTnI was assessed in 108 participants with cTnI levels above 10 ng/L using ultracentrifugation and immunodepletion. Participants were classified by macro-cTnI status, with those having cTnI levels below 5 ng/L or between 5 and 10 ng/L serving as comparison groups.
+Myocardial infarction, ischaemic stroke, heart failure, coronary revascularisation and cardiovascular death were monitored over a median follow-up of 8.3 years.
+The analysis revealed the following findings:
+- Among the 108 participants with cTnI above 10 ng/L, 88 (81%) had macro-cTnI. Similarly, 33 of 41 participants with cTnI levels exceeding the 99th percentile reference limit of 26 ng/L had macro-cTnI.
+- A total of 295 cardiovascular events were recorded during follow-up.
+- Among participants with cTnI above 10 ng/L without macro-cTnI, 50% experienced a cardiovascular event, compared with 6.8% of those with elevated cTnI and macro-cTnI.
+- Elevated cTnI without macro-cTnI was associated with a six-fold higher adjusted risk of cardiovascular events compared with cTnI below 5 ng/L (adjusted hazard ratio [aHR] 6.1).
+- Compared with participants who had elevated cTnI alongside macro-cTnI, those without macro-cTnI had an 8.5-fold higher adjusted risk of cardiovascular events.
+- In contrast, participants with elevated cTnI and macro-cTnI did not have a significantly different risk from those with cTnI below 5 ng/L.
+The researcher notes that identifying macro-cTnI may improve the interpretation of elevated troponin levels and prevent inaccurate cardiovascular risk classification. However, the findings are limited by the small number of participants with elevated cTnI, a largely homogeneous population, and lack of external validation. The laboratory techniques used may also be difficult to implement in routine practice.
+The authors called for larger, more diverse studies to validate the findings and establish the clinical value of macro-cTnI testing.
+Reference:
+Omland, T., Hammarsten, O., Aakre, K. M., Khachatryan, M., Berge, T., Tveit, A., Røsjø, H., De Lemos, J. A., & Lyngbakken, M. N. Macrotroponins and prognostic value of cardiac troponin I in the general population: The ACE 1950 study. European Heart Journal. https://doi.org/10.1093/eurheartj/ehag832
