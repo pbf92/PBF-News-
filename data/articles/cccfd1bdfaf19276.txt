@@ -1,0 +1,14 @@
+URL: https://www.ajupress.com/view/20261125092504279
+TITLE: Hacker leak opens door to unofficial GTA 6 PC port
+OUTLET: Aju Press
+
+The anonymous hacker known as CyberLeek posted the game's executable less than a week after its Nov. 19 console debut, British gaming outlet Eurogamer reported on Tuesday. The file had been held back from what the hacker described as a roughly 209-gigabyte Xbox build, leaked days earlier.
+Within hours, modders in a group called Project Leonida reportedly turned to Anthropic's Claude AI to adapt the code, coaxing it to an initial setup screen on PC before it collapsed into a black screen.
+The group's lead developer cautioned that "significant static recompilation work" lay ahead, while members estimated a playable build could emerge in about a week.
+The breach caps months of leaks.
+CyberLeek began publishing gameplay footage and what it claimed was a full map in August while promoting a cryptocurrency token, prompting Take-Two Interactive, the holding company owning Rockstar Games, to subpoena Microsoft and Discord in a bid to unmask the culprit.
+The leak shadows a record-shattering debut. Take-Two said on Friday the title rang up an estimated $3.79 billion in day-one retail sales and sold 32.5 million copies before release, calling it "the biggest entertainment launch in history."
+Arriving 13 years after its predecessor, the game is set in Leonida, a fictional take on Florida, and follows criminal couple Jason Duval and Lucia Caminos. Industry estimates put its budget as high as $3 billion, a figure the company has not confirmed.
+In South Korea, the launch fell on the day of the national college entrance exam, and the title carries an adults-only rating.
+Rockstar, which typically brings its titles to PC about a year after consoles, has yet to announce a PC date. Observers say the leak could push it to the first quarter of 2027, a window floated in an October report.
+Copyright ⓒ Aju Press All rights reserved.

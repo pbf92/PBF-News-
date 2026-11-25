@@ -1,0 +1,18 @@
+URL: https://www.foxbusiness.com/fox-news-tech/saudi-national-accused-bugging-openai-executive-conference-room-freed-1m-bond-report
+TITLE: Saudi national accused of bugging OpenAI executive conference room to be freed on $1M bond: report
+OUTLET: Fox Business
+
+A Saudi national and former OpenAI engineer accused of planting a secret recording device inside the tech giant’s headquarters was reportedly ordered released from jail on a $1 million bond, despite warnings from federal prosecutors that he poses a major flight risk to the Middle East.
+Abdulrahman Alfozan, 35, was ordered released Tuesday by U.S. Magistrate Judge Alex G. Tse, who ruled that he does not present an immediate threat to flee the country ahead of his January trial, The Wall Street Journal reported.
+Alfozan, who pleaded not guilty earlier this month to illegally recording oral communications, is scheduled to be released from the Santa Clara jail Wednesday morning.
+Under the terms of his release, he must wear an ankle monitor, be confined to home detention in Millbrae, California, and will be barred from leaving Northern California, according to the outlet.
+The ruling comes one day after prosecutors revealed new details from their investigation, disclosing that agents recovered hundreds of audio files from Alfozan’s personal computer — including dozens of secret recordings captured inside an OpenAI executive conference room between Sept. 9 and Sept. 28.
+According to court filings obtained by FOX Business, the recordings captured customer meetings involving potential trade secrets, attorney-client privileged conversations, and at least one bilateral briefing with foreign government officials.
+Investigators also found AI-generated transcripts meticulously labeled by date and topic.
+OpenAI first found an encrypted device on Sept. 30 wrapped in toilet paper and plugged into a USB port behind a conference room television, using its own AI models to trace the device back to Alfozan, who joined the company in July 2025, prosecutors previously said.
+Days later, on Oct. 5, security cameras caught Alfozan entering the conference room and checking behind the TV. That same day, OpenAI security found a second similar recorder inside an unattended bag containing Alfozan’s wallet and ID.
+He was subsequently arrested on Oct. 9.
+Prosecutors have argued Alfozan poses a major flight risk to Saudi Arabia — which has no U.S. extradition treaty — citing his WhatsApp chats with a Saudi royal and tech ministry officials and a one-way ticket to Riyadh.
+Meanwhile, defense attorney David W. Rizk has argued that the government's espionage narrative has collapsed.
+"We are simply grateful that the Court made the right decision to release Mr. Alfozan and we look forward to defending the case," Rizk told FOX Business in an email.
+FOX Business has reached out to OpenAI and the U.S. Attorney's Office for the Northern District of California for comment.

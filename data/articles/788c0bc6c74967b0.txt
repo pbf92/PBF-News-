@@ -1,0 +1,30 @@
+URL: https://cryptobriefing.com/openai-gpt-6-2-astra-performance-optimization/
+TITLE: OpenAI’s GPT-6.2 Astra finds optimizations that rival models cannot
+OUTLET: Crypto Briefing
+
+The new flagship model posts benchmark gains over its predecessor while cutting standard API prices by 20%
+OpenAI’s newest flagship model is earning a reputation as the engineer who finds the slow query everyone else walked past. A post on X said that GPT-6.2 Astra finds performance optimizations that other models cannot.
+That is a bold claim about a model barely out of the box. The benchmark numbers OpenAI attached to the release, however, give it some cover.
+Two models, two jobs
+OpenAI unveiled GPT-6.2 Astra and GPT-6.2 Sol on November 17, 2026. Both are available through the OpenAI API, ChatGPT Work and Codex.
+The pair splits the workload. Astra targets complex professional tasks, while Sol is built for everyday applications.
+Astra is pitched at long-horizon work, the kind of multi-step problem that takes hours rather than seconds. Its focus spans science, law, finance and coding.
+Both models carry a context window of 1,050,000 tokens.
+Both also run exclusively on OpenAI’s hosted infrastructure. Companies that want to deploy them on their own servers are out of luck.
+The benchmark scorecard
+On the Agents’ Last Exam, Astra scores 5.2 points higher than GPT-6 Astra. It does so while costing less than one-third as much as its predecessor on that test.
+AI, tech, and the markets they move—in one daily briefing.
+Daily. Free. Join 34,000+ readers across crypto, finance, and policy.
+The more pointed comparison is with a competitor. Astra comes in 5.5 points ahead of Claude Fable 5.2 on the same exam, at around 5% of the cost.
+The gains extend beyond a single test. Both new models posted a +9 point improvement on Terminal-Bench-Science 0.1 compared with GPT-6 Astra.
+They also logged a +6.2 point increase on OpenAI’s internal professional tests. On those tests, the models used 22% fewer output tokens to get there.
+Cheaper by design
+OpenAI paired the performance bump with a price cut. Standard API pricing for GPT-6.2 Astra is 20% lower than GPT-6 Astra.
+The new rates are $8 per million input tokens and $40 per million output tokens. Cached input costs $0.40 per million tokens.
+A fast release cadence
+GPT-6.2 Astra follows GPT-6 Astra, which launched approximately in September 2026. That puts roughly two months between a flagship and its upgrade.
+What it means for buyers and rivals
+The research accompanying the launch suggests that cheaper high-end capability may push businesses to adopt AI at a faster rate.
+There are trade-offs for customers too. The hosted-only setup means organizations with strict data residency or on-premises requirements cannot run these models inside their own walls.
+The claim from X about unique optimization skills will be tested the way these claims usually are: by developers throwing their slowest code at the model and seeing what comes back.
+Disclosure: This article was edited by Diego Almada Lopez. For more information on how we create and review content, see our Editorial Policy.

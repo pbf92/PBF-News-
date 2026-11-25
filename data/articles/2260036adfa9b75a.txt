@@ -1,0 +1,19 @@
+URL: https://www.abs.gov.au/methodologies/consumer-price-index-australia-methodology/oct-2026
+TITLE: Consumer Price Index, Australia methodology, October 2026
+OUTLET: Australian Bureau of Statistics
+
+Brief description of the CPI
+The Consumer Price Index (CPI) measures changes in the price of a 'basket' of goods and services which account for a high proportion of expenditure by the CPI population group (i.e. metropolitan households). This 'basket' covers a wide range of goods and services, arranged in the following eleven groups:
+- Food and non-alcoholic beverages
+- Alcohol and tobacco
+- Clothing and footwear
+- Housing
+- Furnishings, household equipment and services
+- Health
+- Transport
+- Communication
+- Recreation and culture
+- Education
+- Insurance and financial services.
+Capital city indexes used by the CPI are based on the 2011 Australian Statistical Geography Standard (ASGS) Greater Capital City Statistical Areas. The capital city indexes measure price movements over time in each city individually. They do not measure differences in retail price levels between cities.
+Further information about the CPI is contained in Consumer Price Index: Concepts, Sources and Methods.

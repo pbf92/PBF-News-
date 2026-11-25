@@ -1,0 +1,19 @@
+URL: https://medicaldialogues.in/amp/cardiology-ctvs/news/photon-counting-ct-may-reduce-need-for-sublingual-nitroglycerin-in-coronary-ct-angiography-study-182591
+TITLE: Photon-Counting CT May Reduce Need for Sublingual Nitroglycerin in Coronary CT Angiography: Study
+OUTLET: Medical Dialogues
+
+The study, published in the Journal of Cardiovascular Computed Tomography, was conducted by Ismail M. Kabakus, Division of Cardiothoracic Imaging, Department of Radiology, Medical University of South Carolina, Charleston, SC, USA, and colleagues. The researchers examined whether nitroglycerin continues to provide a meaningful diagnostic advantage with newer photon-counting detector CT (PCD-CT) technology.
+Sublingual nitroglycerin is commonly administered before CCTA because it dilates the coronary arteries and can improve their visualization. However, much of the evidence supporting its use comes from older CT systems and has primarily focused on image quality rather than diagnostic accuracy.
+For this retrospective, single-center study, investigators identified consecutive patients who underwent photon-counting CCTA between January 2023 and November 2025 and invasive coronary angiography (ICA) within 30 days. The final analysis included 124 patients, of whom 61 received sublingual nitroglycerin and 63 underwent CCTA without nitroglycerin. ICA served as the reference standard for identifying obstructive coronary artery disease.
+Diagnostic performance was assessed at both patient and coronary-vessel levels. Researchers also evaluated objective image quality using coronary attenuation, signal-to-noise ratio (SNR) and contrast-to-noise ratio (CNR).
+Key findings:
+- At the patient level, sensitivity was similar with nitroglycerin and without it (90.3% versus 90.9%; P=0.940).
+- Negative predictive value was also comparable between the groups (86.4% versus 88.9%; P=0.780).
+- Specificity, positive predictive value and overall accuracy were numerically higher in the non-nitroglycerin group, but none of these differences reached statistical significance.
+- No significant differences in diagnostic performance were observed in the per-vessel analysis.
+- Nitroglycerin increased coronary artery attenuation but did not produce significant improvements in SNR or CNR.
+The study was limited by its retrospective, single-center design, non-randomized treatment allocation and small sample size. Baseline differences may have introduced residual confounding, while vessel-level analyses did not account for within-patient correlations. The exclusion of left main disease and use of a single photon-counting CT system may also limit the generalizability of the findings.
+The study was also not designed to evaluate CT fractional flow reserve (CT-FFR). Therefore, the findings should not be extrapolated to CT-FFR protocols, for which recent expert recommendations support routine nitroglycerin administration.
+The authors concluded that, in patients undergoing photon-counting CCTA, nitroglycerin was not associated with a significant improvement in diagnostic performance compared with ICA. Larger prospective studies are needed to determine whether routine nitroglycerin administration provides additional value with photon-counting CT.
+Reference:
+Kabakus, I. M., Maisuria, D. M., Chamberlin, J. H., Mencken, I. L., Lopez Rodriguez, C. G., Sagatelian, M. M., Burt, J. R., & Baruah, D. (2026). Is nitroglycerin still necessary for coronary CT angiography in the era of photon-counting CT? Journal of Cardiovascular Computed Tomography. https://doi.org/10.1016/j.jcct.2026.08.007

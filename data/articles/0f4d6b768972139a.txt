@@ -1,0 +1,28 @@
+URL: https://superpowerdaily.com/posts/aws-explains-how-to-trace-ai-agents-delegated-access-with-cognito
+TITLE: AWS explains how to trace AI agents’ delegated access with Cognito
+OUTLET: Superpower Daily
+
+AWS explains how to trace AI agents’ delegated access with Cognito
+A new implementation guide explains how to preserve user identity and restrict downstream permissions. But the actor recorded can be a shared gateway, not the individual agent.
+Listen to this story
+The audio brief
+Story brief
+3 key points
+AWS published a Nov. 24 guide to using Amazon Cognito’s token-exchange feature, launched Nov. 12, 2026, in agent workflows that pass through tools and downstream APIs. A service can obtain a derived token that preserves the user’s identity and, in delegation mode, records the acting service, giving downstream APIs context for authorization and auditing. The design limits delegated access to permissions shared by the user token and calling app client, and can bind the token to its destination API.
+- 01 Impersonation tokens represent the user; delegation tokens also include the acting service in the act claim.
+- 02 Exchanged tokens cannot outlive the user token and include no refresh token.
+- 03 Downstream APIs must validate the token’s signature, issuer, expiry, audience and permissions; delegation also requires trusting the actor and matching act.client_id to client_id.
+An API receiving an AI agent’s request can see both the user being represented and the service acting for them. AWS’s November 24 guide explains how to configure that distinction in Amazon Cognito, using token exchange to carry identity and limited permissions into the next service rather than simply forwarding the user’s original access token.
+The feature itself launched on November 12, 2026. The new guide explains how to use it when agents call tools that, in turn, call other APIs. AWS’s launch announcement lists availability on Cognito’s Essentials and Plus plans in every AWS Region where Cognito is available.
+The identity problem at the next service
+AWS illustrates the problem with a restaurant app that books tables and sends email invitations. If its reservation service forwards the app’s access token, the email API cannot distinguish that service from the app. If the reservation service uses only its own credentials, the API sees the service but loses the identity of the user behind the request.
+Token exchange replaces that handoff with a request to Cognito for a new access token—a credential presented to the downstream API. The calling service supplies a token representing the user and authenticates itself. For delegation, it also submits an actor token identifying the service that will act for that user.
+Permissions can shrink, not grow
+Cognito limits the exchanged token to permissions allowed by both the user’s token and the calling app client. When an audience is requested, the token is bound to that destination API, and every requested permission must belong to it. The token cannot outlive the user token and comes without a refresh token.
+The invitation example makes that restriction concrete. A Model Context Protocol, or MCP, server—a service exposing tools to an agent—receives a user token allowing contact reading and message sending. It requests only message-sending permission for the email API, because sending invitations does not require reading contacts.
+Checks remain on both sides
+- Before issuing a token, Cognito checks the user token’s signature and expiry, rejects revoked tokens, and refuses tokens belonging to disabled users.
+- The destination API must still verify the issued token’s signature, issuer, expiry, audience and permissions. For delegation, AWS says it should check that the named actor is trusted and that act.client_id matches client_id.
+The recorded actor depends on the architecture
+Delegation does not automatically identify each individual agent. When a shared MCP server or AI gateway exchanges tokens for several agents using its own actor token, the recorded actor is that intermediary. When an agent performs the exchange using its own actor token, the recorded actor is the agent. That determines which component the downstream API can identify.
+Developers enable delegation or impersonation for each Cognito app client. Exchanges can then run through the user pool’s OAuth token endpoint or the GetDerivedToken API through an AWS software development kit. The latter does not require a user-pool domain; both routes return tokens with the same claims.

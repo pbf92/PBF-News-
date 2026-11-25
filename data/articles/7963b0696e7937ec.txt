@@ -1,0 +1,17 @@
+URL: https://www.pymnts.com/news/investment-tracker/ipo/2026/wsj-says-openai-ipo-delay-may-increase-exposure-to-potential-ai-downturn/
+TITLE: WSJ Says OpenAI IPO Delay May Increase Exposure to Potential AI Downturn
+OUTLET: PYMNTS.com
+
+The longer OpenAI waits to launch its initial public offering, the more time it is exposed to any potential downturn in the artificial intelligence (AI) market, the Wall Street Journal reported Tuesday (Nov. 24).
+“I don’t see a compelling reason to wait more than a couple months,” Jay Ritter, an economist and director of The IPO Initiative at the University of Florida’s business school said in the report.
+The market’s focus has turned to OpenAI after the company’s rival, Anthropic, completed its IPO, according to the report.
+OpenAI’s current plan is to wait until next year, and the factor that matters most for the success of its IPO is the health of the AI market, the report said.
+OpenAI may be working to make its story more compelling to investors by building a better financial case and by taking some market share from Anthropic in terms of selling AI tools to companies, according to the report.
+At the same time, OpenAI’s plans to spend $750 billion through 2030 on computing power may encourage it to move more quickly, per the report.
+The Information reported Nov. 10 that OpenAI said in an investor presentation that the company’s revenue increased by around 50% to $10 billion between the second quarter and the third.
+The report also said OpenAI’s adjusted operating margin improved from –150% to –109%.
+The Wall Street Journal reported at the time that these figures showed that although OpenAI’s revenue was accelerating, the company still had far to go to meet Anthropic’s sales and operating efficiency.
+According to that report, OpenAI also told investors that ChatGPT’s paying customer base increased to about 100 million, or 8.5% of total weekly active users, up slightly from the second quarter.
+Reuters reported Nov. 6 that OpenAI’s valuation reached $1.25 trillion, $50 billion less than the company had initially targeted, as it closed on new funding of $11 billion.
+OpenAI’s initial goal had been $30 billion in new funding and a valuation of $1.5 trillion, according to that report.
+OpenAI CEO Sam Altman told Fortune in September that the AI startup’s IPO would not take place in 2026 and that OpenAI had long insisted that it was in no rush to list.

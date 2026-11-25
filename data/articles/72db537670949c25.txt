@@ -1,0 +1,25 @@
+URL: https://cryptobriefing.com/signal-blocks-ai-agents-screen-privacy/
+TITLE: Signal tightens restrictions on AI agents that read your screen
+OUTLET: Crypto Briefing
+
+The encrypted messenger will block screenshots on iOS and switch on screen security on Android when built-in AI assistants try to look at your chats
+Signal has spent years making sure nobody can read your messages in transit. Now it is worried about the assistant already living on your phone.
+The privacy-focused messaging app announced on November 20, 2026 that it is adding new defenses against AI agents built into mobile operating systems. These are the assistants that can view whatever is on your screen, and Signal says that includes your supposedly private conversations.
+End-to-end encryption protects a message on its way between phones. It does very little once the message is sitting on a screen and the operating system decides to take a look.
+What Signal is changing
+Signal named two systems as the problem: Apple’s Siri with Onscreen Awareness and Google’s Gemini Intelligence. According to the company, these OS-level agents can “scan” what users see on their displays. That could mean capturing and storing Signal data somewhere the app has no control over.
+The response differs by platform. On iOS, Signal will block screenshots inside its app. The feature arrives as a new “Block Siri AI” setting for iOS 27.
+On Android, the approach is more reactive. Signal will turn on its screen security feature when it detects an AI assistant trying to read the screen, on supported versions of the operating system.
+The protections land in specific builds. iOS users need Signal version 8.37 or later running on iOS 27 or later. Android users need version 8.35.1 or later.
+AI, tech, and the markets they move—in one daily briefing.
+Daily. Free. Join 34,000+ readers across crypto, finance, and policy.
+Both protections are switched on by default. Users can turn them off, but Signal says that doing so voids its privacy guarantees.
+Signal’s president, Meredith Whittaker, criticized Apple and Google for building these features into their platforms. She described them as a growing threat to user privacy.
+The company is also asking Apple, Google, and Microsoft to give developers better tools. The goal is to let apps control how AI systems access their data.
+A familiar fight, new opponents
+This is not Signal’s first standoff with an operating system feature that watches the screen. In 2025, the company blocked Microsoft Recall in Windows 11. Recall periodically captures what is on a user’s display, which created the same basic tension.
+Signal is in an awkward spot. Its app runs on Apple’s and Google’s platforms, under their rules, alongside their assistants. It can switch off screenshots and turn on screen security inside its own window. It cannot rewrite how Siri or Gemini behave across the rest of the device.
+What this means for users and developers
+For everyday users, the trade-off is simple and slightly annoying. Screenshots of Signal chats on iOS will stop working by default. Anyone who relies on them for receipts, memes, or saving an address will need to opt out and accept weaker privacy.
+For developers, Signal’s request to Apple, Google, and Microsoft matters more than the screenshot block. A messaging app should not need to black out its own screen to protect user data. If the platforms built proper controls letting an app decide what AI can read, the screenshot ban might become unnecessary.
+Disclosure: This article was edited by Diego Almada Lopez. For more information on how we create and review content, see our Editorial Policy.

@@ -1,0 +1,30 @@
+URL: https://www.fool.com/investing/2026/11/23/nvidia-stock-is-down-over-30-from-its-high-is-it-a-buy/
+TITLE: Nvidia Stock Is Down Over 30% From Its High. Is It a Buy?
+OUTLET: The Motley Fool
+
+By John Ballard –
+Key Points
+- Jensen Huang's return as CEO settles the biggest question that had weighed on Nvidia's stock.
+- Nvidia's CUDA software moat and rapid growth never slowed, and management just raised its outlook.
+- Customer concentration and a pending board review are the risks, but the valuation still looks low for the growth.
+Nvidia (NVDA -5.86%), the designer of the graphics chips that power AI data centers, just got its founder back. On Nov. 23, the board reinstated Jensen Huang as CEO, less than two weeks after the company announced his resignation.
+The stock has whipsawed in November. It closed trading on Nov. 20 at about 48% below its 52-week high on Oct. 6. Following the news of Huang’s reinstatement on Monday, the shares were up over 30% from Friday's close but still about 32% below that October high.
+Huang's return settles the biggest question hanging over the stock, while the business never slowed down. Here's why Nvidia still looks like a buy.
+Nvidia got its most valuable asset back
+Huang understands graphics chip technology and the dynamics of the chip industry as well as anyone. He built Nvidia around CUDA, the software platform that lets developers run programs on its chips, which keeps customers locked into Nvidia's hardware. When Nvidia partnered with Intel in 2025, Huang described CUDA as the center of AI's reinvention of computing.
+He is also a skilled dealmaker. On Oct. 27, just weeks before his brief exit, Nvidia agreed to invest $3 billion in an equity offering by Meta Platforms, while Meta said it would expand its use of Nvidia's newest Vera Rubin systems and Spectrum-X networking. Deals like that help keep Nvidia at the center of its biggest customers' plans, even as some of those customers develop their own chips.
+Image source: Nvidia.
+Huang built Nvidia into the most important technology company to the global economy. It is the dominant leader in graphics processing units (GPUs), which remain the workhorse chips for AI workloads. With its founder back in charge and demand still strong, Nvidia is well-positioned to deliver further upside for shareholders.
+The business is still growing at a remarkable pace
+Nvidia's results tell a different story than its stock price. Third-quarter revenue jumped 103% from a year ago to $116 billion, driven by a 110% surge in data center sales. Its new Vera Rubin platform, a rack-sized AI computer, brought in nearly $20 billion in its first quarter of shipments, the fastest product ramp in company history. Management expects fourth-quarter revenue of about $130 billion.
+Nvidia also raised its outlook for next year, now calling for revenue to grow approximately 75% year over year, up from 70% previously. CFO Colette Kress said that Nvidia's supply agreements now extend to the end of the decade.
+The biggest risk is customer concentration. In fiscal 2026, one direct customer accounted for 22% of revenue, and another accounted for 14%. If either one pulled back on spending, Nvidia's sales and growth could take a big hit.
+The stock already prices in a lot of bad news
+Wall Street expects Nvidia to earn $16.61 per share in fiscal 2028, according to Yahoo! Finance. Even after the Nov. 23 jump, the stock is trading at just over 10 times next year's earnings, an incredibly low multiple for a company still growing this fast. Analysts expect earnings growth of about 49% annualized in the coming years.
+With Huang back, investors no longer have to wonder who will run Nvidia next, and the company doesn't have to replace a visionary founder.
+The remaining watch item is the board's independent investigation, which will proceed to its conclusion. The board also recently formed a National Security and Export Control Committee to oversee trade compliance. If the review turns up new problems, the stock could swing sharply again. Still, the board said it is confident, based on input from senior U.S. government officials, that Huang's return poses no national security risk.
+I believe Nvidia stock is worth buying at this price, given its growth and low valuation. What Huang built over the last 30-plus years won’t fade away anytime soon, and he's back to keep building it. Nvidia's momentum is strong, which should benefit the stock in 2027 and beyond.
+Where to invest $1,000 right now
+When our analyst team has a stock tip, it can pay to listen. After all, Stock Advisor's total average return is 796%* — a market-crushing outperformance compared to 200% for the S&P 500.
+They just revealed what they believe are the 10 best stocks for investors to buy right now, available when you join Stock Advisor.
+*Stock Advisor returns as of November 24, 2026.

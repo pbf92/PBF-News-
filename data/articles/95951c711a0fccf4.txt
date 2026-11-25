@@ -1,0 +1,22 @@
+URL: https://interestingengineering.com/culture/openai-exact-2-25-matrix-multiplication-exponent
+TITLE: OpenAI establishes exact 2.25 exponent for matrix multiplication
+OUTLET: Interesting Engineering
+
+OpenAI researchers have published a mathematical result claiming to establish an exact 2.25 exponent for square matrix multiplication, potentially resolving a decades-old question in theoretical computer science.
+The November 24 preprint, titled The matrix multiplication exponent is nine fourths, establishes matching upper and lower bounds for the computational complexity of multiplying square matrices over every field, according to the researchers.
+The result marks a significant development in a mathematical problem that has challenged researchers since the 1960s. It also goes beyond an earlier OpenAI result published on October 2, which established an upper bound of 2.25 over complex numbers.
+The matrix multiplication exponent, represented by the Greek letter omega (ω), describes how the number of arithmetic operations required to multiply two square matrices grows as their dimensions increase.
+The conventional approach requires roughly (n^3) operations for two (n \times n) matrices. A lower exponent indicates that fewer operations are theoretically needed as matrix sizes grow.
+Matching bounds establish exponent
+The latest paper claims that the exponent is exactly 9/4, or 2.25, over every field.
+Its central contribution is a matching lower bound for formal arithmetic circuits. The researchers state that, for every matrix dimension (n) of at least two, computing square matrix multiplication requires at least half of (n^{9/4}), rounded up, in nonscalar multiplication or division gates.
+The paper also establishes that the geometric border rank of the square matrix multiplication tensor is at least (n^{9/4}), while its asymptotic rank over the base field equals (n^{9/4}).
+These results provide a mathematical framework for determining the minimum computational resources required for the operation, rather than simply demonstrating a faster multiplication algorithm.
+The development builds on a long history of efforts to reduce matrix multiplication complexity. In 1969, mathematician Volker Strassen showed that multiplying two 2-by-2 matrices could be accomplished using seven multiplications instead of the conventional eight. His recursive method reduced the exponent from 3 to approximately 2.807.
+Subsequent research continued to push the theoretical upper bound lower, with OpenAI’s October paper establishing the 2.25 upper bound over complex numbers.
+Lean proofs support verification
+The November paper is accompanied by a Lean formalization, a machine-checkable mathematical proof framework designed to verify that formalized statements follow from their underlying assumptions.
+The formal development covers the square matrix multiplication exponent and related results, according to OpenAI’s accompanying documentation.
+A second paper on Euclidean geometry in the asymptotic spectrum of tensors supplies the geometric framework used for the new lower-bound result.
+The findings concern theoretical arithmetic complexity, counting mathematical operations rather than measuring execution time on physical processors. They do not establish that existing GPUs or computing systems can multiply matrices faster in practical applications.
+The result is presented as an OpenAI preprint and remains subject to scrutiny by the wider mathematical community. If its claims withstand independent examination, establishing the exact exponent would mark a major development in the study of computational complexity.
