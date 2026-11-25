@@ -1,0 +1,79 @@
+URL: https://invezz.com/trading/best-day-trading-platforms/
+TITLE: Best Day Trading Platforms in the US (2026): 8 Tested
+OUTLET: Invezz
+
+- Tradable markets
+- StocksETFsCryptoOptions
+- Minimum Deposit
+- $50
+- Platform Types
+- WebMobile
+- Demo account
+- Yes
+Disclaimer: 55% of retail investor accounts lose money when trading CFDs with this provider.
+For educational purposes only. Invezz is not registered with the SEC or FINRA. Consult a qualified financial adviser before investing.
+Your investments can go up and down, including cryptoassets which are highly volatile, unregulated, and not FDIC or SIPC insured. You may get back less than you invest. Past performance is not a reliable indicator of future results.
+We may earn a commission from partner links. This never influences our editorial opinions or evaluations.
+Our expert panel has 60+ years of combined experience across stocks, crypto, forex, and commodities. Every platform is tested hands-on: we open a real account, deposit funds, explore the features, contact customer support, and withdraw, before writing a word.
+Each service is then scored across 8 categories (cost, reliability, user experience, deposits & withdrawals, investing options, market range, research tools, and educational resources) to produce a star rating out of 5. Our editorial content is independent and never influenced by advertisers or commercial relationships.
+Read our review methodology and editorial guidelines.
+Interactive Brokers (IBKR) is our top pick for active US day traders who need direct routing, low-cost margin and global markets. Charles Schwab (thinkorswim), Webull, TradeStation, Robinhood, moomoo, Fidelity and eToro each win a different day-trading job.
+We ranked eight of the best day trading platforms on our live testing of costs, margin, apps and tools.
+The Financial Industry Regulatory Authority (FINRA) replaced the $25,000 pattern day trader (PDT) rule with intraday margin standards from 4 June 2026. Brokers may phase in the change until 20 October 2027.
+Based on our hands-on testing, these are our top eight day trading platforms for US traders:
+No partners match these filters.
+Disclaimer: 57.9% of retail investor accounts lose money when trading CFDs with IBKR.
+We tested all eight platforms against the same checklist.
+Interactive Brokers (IBKR) is a direct-access day trading platform built for traders who place many orders a day. In our testing you choose where each order is routed, Trader Workstation (TWS) handles order entry, and margin costs 5.38%, the lowest rate among the full-featured brokers we tested.
+The trade-off is a slower start: account opening takes a 20–30 minute application and 1–2 business days for approval.
+On Interactive Brokers (IBKR) Pro you decide how each order travels. SmartRouting searches exchanges and dark pools for the best available price, and directed orders go to a named exchange that you pick.
+That control matters if you place many orders a day, because a scalper cares which venue fills the trade and what that venue charges. Directed orders pay the exchange’s own fee as a pass-through, which IBKR itemizes on the trade.
+Rebates can lower the cost on some venues, so routing becomes a cost lever you can work rather than a black box.
+The Pro tiered schedule charges $0.0035 a share with a 35-cent minimum and a 1% cap. A 1,000-share round trip is $7 in commission before pass-throughs.
+Pro Fixed charges $0.005 a share with a $1 minimum and pass-throughs included, which is $10 on 1,000 shares each way. It is simpler to budget but costs more than Tiered.
+IBKR Lite costs $0 a share, but it gives up SmartRouting and directed orders. For a day trader that is a poor trade, because routing control is the main reason to use Interactive Brokers.
+Trader Workstation (TWS) adds BookTrader, a ladder for one-click entries, plus hotkeys, bracket orders and one-cancels-the-other (OCO) orders. Risk Navigator shows live margin and exposure as positions change.
+Options traders pay 25 to 65 cents per contract on the Pro schedule, depending on monthly volume.
+Margin interest is the quiet cost of holding a leveraged position, and Interactive Brokers keeps it low at 5.38%, the lowest rate among the full-featured brokers we tested. On $10,000 borrowed for a year that costs $538.
+Most day trades close before the bell and pay little interest. The rate matters if you hold leveraged swing positions overnight or short stocks for several days.
+Take a $20,000 position held on margin for five trading days. At 5.38% that costs about $14.70 in interest, against about $32.30 at 11.8%.
+That difference can decide whether a small edge survives. A strategy that earns $30 a week on the position keeps about half of it on Interactive Brokers and loses money at 11.8%.
+Intraday margin rules matter too. The Financial Industry Regulatory Authority (FINRA) replaced the old $25,000 pattern day trader (PDT) minimum with intraday margin standards on 4 June 2026, and brokers can keep house rules until 20 October 2027.
+Interactive Brokers also pays interest on idle cash above $10,000, with the full rate above $100,000. Nothing is paid on the first $10,000, which is a real drawback for small accounts.
+TWS is built for control, not speed of learning. The Level 2 (full order book of bids and offers) window, time and sales, BookTrader and hotkeys all need setting up before your first trade.
+If you want one tap to buy, it will feel slow. IBKR Desktop offers the same account on a simpler screen, and IBKR Mobile runs the full order set on a phone.
+The depth pays off once your layout is built. A demo account lets you learn the screen before real money is at risk.
+The start is slower than the platform itself: a 20–30 minute application and 1–2 business days for approval, the slowest start among our top three. Opening is fully digital, and the account types include individual, joint, tax-advantaged and trust.
+The minimum deposit is $0, so the hurdle is paperwork rather than capital.
+Customer service scored 3.2/5 and we recorded inconsistent response times across phone, chat and ticket. Self-sufficiency is part of the deal, which suits experienced traders and tests beginners who need help mid-session.
+Interactive Brokers accepts bank transfer, SEPA (Single Euro Payments Area), debit card and Wise. Withdrawals cost $0, with two free a month, and there are no withdrawal limits and no deposit fee.
+Bank transfers take 2–3 business days and wires take 1–2 business days. Instant deposits are not offered, so capital for tomorrow’s session should arrive a day or more ahead.
+If you move profits out often, two free withdrawals a month is enough for a regular schedule. Funding and withdrawals scored 3.3/5 in our testing, which is a solid result for a day trader.
+The account supports 27 base currencies and accepts USD, EUR, GBP, CAD, AUD, JPY and NZD. Currency conversion costs 0.002% with a $2 minimum.
+On a $5,000 conversion the percentage works out to $0.10, so the $2 minimum applies. That keeps conversion cheap if you fund in another currency.
+Commission is only part of what a trade costs. The rest is the difference between your fill and the midpoint price at the moment of the trade, and Interactive Brokers publishes a total trading cost that combines both parts, with the latest figure at 0.021% of trade value.
+On a $10,000 trade that is $2.10. A broker that publishes its cost can be judged, which is why it feeds the execution and transparency weights in our ranking.
+Data is a fixed cost to budget. Nasdaq TotalView is $16.50 a month, NYSE ArcaBook is $11 and OpenBook is $25, so taking TotalView and ArcaBook costs $27.50 a month, or $330 a year.
+IBKR is publicly listed on NASDAQ (National Association of Securities Dealers Automated Quotations) and holds segregated client accounts. SIPC (Securities Investor Protection Corporation) covers up to $500,000 for US securities.
+It is regulated by the SEC (Securities and Exchange Commission) and FINRA in the US, plus the FCA (Financial Conduct Authority), ASIC (Australian Securities and Investments Commission), CIRO (Canadian Investment Regulatory Organization) and the Central Bank of Ireland (CBI) elsewhere. Founded in 1978, it has the longest record among the platforms we scored.
+You get 90 stock markets, 13,000 ETFs (exchange-traded funds) and access to options, futures, forex, bonds and crypto. Most US day traders never leave US hours, but breadth matters when you want to trade a European open before the US session or hedge a position in another currency.
+The overnight session from 8pm to 3:50am Eastern on desktop and mobile lets you react to news after the close.
+Futures sit in the same account as stocks and options, which keeps margin, balances and reports in one place. Micro E-mini contracts cost 25 cents on the Pro schedule.
+IBKR also lists AI tools: Ask IBKR, AI Screeners, Investment Themes, AI News Summaries, IBot and a Model Context Protocol (MCP) integration. They speed up screening and news reading rather than replace a trading plan.
+Charles Schwab is a free professional desktop for day trading, built on thinkorswim with Level 2 (the full order book of bids and offers) and a live-market simulator called paperMoney included. Stocks cost $0, and in our testing the account opened in about one day.
+The trade-off is cost at the edges: margin is 11.8% a year, and our micro futures benchmark is $22.50.
+paperMoney runs the same thinkorswim layout against live market prices. Charts, the Active Trader ladder and Level 2 (the full order book of bids and offers) behave as they will with real money.
+That makes it a rehearsal tool, not a toy. You can test a bracket order (an entry with a stop-loss and profit target attached), a ladder entry or a multi-leg options spread before risking cash.
+OnDemand replays a past session tick by tick. You can practice a setup against a day that has already happened, and repeat it until the entry feels routine.
+Because the prices are live, you rehearse entries against the market you will actually trade. You also get thinkScript, the language for writing your own studies, so you can build and test a custom indicator before it goes on a live chart.
+None of this costs extra. Level 2 and time and sales (a running list of executed trades) are included in the free desktop.
+For a new day trader the sequence is simple: build the layout in paperMoney, replay a session in OnDemand, then move to live orders at small size. The platform stays identical at every step, so nothing needs relearning when real money goes in.
+thinkorswim is at its best at a desk. The desktop carries the Active Trader ladder with one-click entry, bracket orders attached at entry and drag-to-modify stops.
+Charting is deep, with hundreds of studies. Level 2 and time and sales sit as windows in the same layout, so you read the order flow without leaving the chart.
+The phone app is a working companion rather than a stripped-down viewer. It carries the ladder, the options chain and paperMoney, so you can manage a position away from your desk.
+For options, thinkorswim adds a chain with every multi-leg strategy and Greeks (figures showing how an option’s price responds to market moves). Futures trade from the same layout and account, so you do not switch tools to change market.
+That suits a trader who scans at a desk and manages trades from a phone. If you never sit at a desk, the layout is heavier than you need, because the platform’s strength is the free depth of the desktop.
+Execution quality is published too: 97% of orders price-improved and 0.05 seconds average speed in the second quarter of 2026. You can judge your fills against real numbers rather than take them on trust.
+Stocks and ETFs (exchange-traded funds) cost $0, so the cost question is really about options, futures and margin. Our options fee benchmark is $6.50, which equals $0.65 a contract.
+For that you get the Greeks, strategy analysis and OnDemand replay inside thinkorswim. That depth earns its keep if you trade spreads rather than single contracts.
+How much value you take from it depends on how you trade. A trader

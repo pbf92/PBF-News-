@@ -1,0 +1,44 @@
+URL: https://www.storyboard18.com/amp/digital/adam-mosseri-denies-instagram-listens-to-user-conversations-for-ads-ws-l-115421.htm
+TITLE: Adam Mosseri denies Instagram listens to user conversations for ads
+OUTLET: Storyboard18
+
+Special Coverage
+“Range matters now”: Microsoft’s Puneet Chandok, GrowthSchool’s Vaibhav Sisinty on the skills that will define Gen Z careers
+Instagram’s chief, Adam Mosseri, on Tuesday, came on record claiming that the platform does not listen to people’s conversations through their phones.
+In efforts to put to rest the long-going theories of surveillance by social media platforms for better ad targeting, Mosseri listed out the reasons why an ad comes up eerily in the feeds, even if the user has never searched about it. The reasons, in turn, are much weirder though.
+Firstly, Mosseri puts the pin on the user.
+According to Mosseri, users may have already seen an ad a couple of times on Instagram without paying much attention to it. It could have stayed somewhere in the back of their minds, making them more likely to bring up the product in a conversation.
+The second explanation is about how the human mind works. Once you talk about something, you are more likely to notice it when it appears again. So, the next time that product shows up in your feed, you may feel the platform has somehow picked up your conversation, when you could simply be noticing something you would have otherwise scrolled past.
+“After you talk about something, after it's top of mind, you're more likely to notice it when you see it in the real world or on Instagram,” Mosseri said.
+The third reason, however, is where things get a little more uncomfortable.
+Mosseri says Instagram uses information about not just you, but also your friends and people similar to you and your friends, to decide which ads you may be interested in.
+So, you may never have searched for a product, visited its website or interacted with an ad for it. But someone in your circle may have. And the information Instagram has about your connections and their interests could help it figure out that the same product may be relevant to you.
+This is not entirely out of the blue. Instagram's own data policy says it collects information about the people and accounts users are connected to, and how they interact with them. It also tracks the content users view, the accounts they engage with, how frequently they use the platform and how long they spend on it.
+Instagram knows more than what you do on Instagram
+The platform receives information from advertisers, websites, apps and other partners about users' activities outside Meta. This can include websites visited, purchases made, ads seen, the device being used and how people interact with other services.
+Instagram says it uses information about users' interests, actions and connections to select and personalise advertisements. It also combines information across devices, which means activity on one device can be used to personalise what a user sees on another.
+One of the technologies enabling this is the Meta Pixel. Businesses can install the tracking technology on their websites to record actions taken by visitors. These can include viewing a product, adding an item to a shopping basket or completing a purchase.
+The information can then be used to create Custom Audiences in Meta's advertising system. Businesses can retarget people who have visited their websites or interacted with their apps, subject to the platform's applicable rules and privacy controls.
+Meta also offers Lookalike Audiences, which allow advertisers to find potential customers who share characteristics with an existing customer group.
+Put all of that together, and Instagram has plenty of ways to figure out what might interest you without having to hear a conversation.
+“But no, we did not listen to you via your microphone or your camera or anything, any other recording device. I want to be very, very clear about that,” he stated.
+The scale of this operation is considerable. Meta reported advertising revenue of $196.17 billion for 2025, accounting for almost all of its $200.97 billion in total revenue. Its Family of Apps, which includes Facebook, Instagram, Messenger and WhatsApp, had an average of 3.58 billion daily active people in December 2025.
+The company also reported that advertising impressions across its Family of Apps increased 12% during 2025, while the average price per advertisement rose 9%.
+These figures underline the commercial importance of the advertising infrastructure that Mosseri is defending.
+The psychology behind advertisements that seem to read your mind
+There is a name for the experience of suddenly noticing something everywhere after encountering it for the first time or discussing it. It is commonly called the frequency illusion, also known as the Baader-Meinhof phenomenon.
+The phenomenon involves selective attention. Once something becomes relevant to a person, they are more likely to notice it in their surroundings. The increased attention can create the impression that the thing has suddenly become more common.
+There is also the mere-exposure effect, a well-studied psychological phenomenon in which repeated exposure to something can increase familiarity and, in certain circumstances, liking for it.
+A 2017 meta-analysis published in the journal Psychological Bulletin examined 268 exposure-response curves drawn from 81 research papers. It found that repeated exposure generally increased familiarity and positive evaluations of visual stimuli, although the effect followed an inverted-U pattern, meaning that too much repetition could reduce its positive impact.
+The combination of repeated exposure, selective attention and algorithmic targeting can make an advertisement appear much more precisely timed than it actually is.
+The bigger question is how much technology already knows about us
+The suspicion around Instagram's microphone is also part of a wider discomfort with how much technology can learn about people. And this is no longer limited to social media or advertising.
+Apple, which has repeatedly positioned privacy as a key part of its business, is now bringing features to its Apple Watch that can actually help users recall conversations they have had.
+Its new Audio Intelligence features include Live Rewind, which can show users the last 15 seconds of a conversation as text, and Siri Recap, which can summarise conversations and help users remember key points. These features are designed to help people catch things they missed and remember discussions without having to take notes.
+Apple presents this as a way of making its devices more useful, with privacy safeguards built into Apple Intelligence.
+But it also shows how technology is moving towards understanding users through the information already available to it, rather than waiting for them to spell everything out.
+And therein lies the problem. The same ability to understand someone's interests, habits, relationships and preferences can feel helpful when a digital assistant is finding an email or organising a task.
+When that understanding is used to serve an advertisement, it can feel as though someone knows a little too much.
+The conversation highlighted a fundamental shift underway in the relationship between audiences, platforms and brands. Rather than treating Gen Z as a uniform consumer segment, marketers are increasingly having to account for individual behaviours, fragmented content consumption and a stronger expectation
+Read More
+Storyboard18 is back with the second edition of its Awards for Creativity, celebrating innovative campaigns, brands, marketers, creators and agencies across storytelling, digital, social, AI, gaming, purpose and media. The awards will spotlight the ideas shaping India’s evolving creative landscape. More details coming soon.

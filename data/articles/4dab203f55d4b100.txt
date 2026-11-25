@@ -1,0 +1,36 @@
+URL: https://cwibc.co.id/en/meta-muse-instagram-ai-shopping
+TITLE: Meta Integrates Muse AI Into Instagram to Expand Shopping
+OUTLET: cwibc.co.id
+
+Meta Integrates Muse AI Into Instagram to Expand Shopping
+Meta is expanding its Muse artificial intelligence assistant across Instagram to connect product discovery, content organization and online shopping within a single social media experience. Announced Tuesday, November 24, 2026, the integration brings Muse into direct messages and allows users in several countries to interact with the assistant without switching applications.
+The new feature is rolling out to iOS and Android users in the United States, Canada, Mexico, Japan and Singapore. According to TechCrunch, users can share Instagram posts with Muse and request additional information about products, locations and conversations they have missed.
+Instagram users can also ask the assistant to perform practical tasks. Examples include adding a coffee shop to a Mexico City travel itinerary or finding discounted shoes ahead of Black Friday.
+Meta has simultaneously introduced additional tools for managing bookmarked content. Users in the United States and Canada can ask Muse to arrange saved posts and Reels into personalized folders called Collections.
+The assistant can also transform recipe videos into grocery lists, convert travel recommendations into itineraries and generate clothing suggestions based on previously saved fashion content. Instagram displays a Muse organization prompt when users save new posts.
+Meta says users retain control over these interactions. Conversations are not published, shared or sent without approval, and users can request that Muse forget information or reverse actions. Chats initiated through Instagram also appear in a separate conversation within the main Muse application.
+Beyond convenience, the integration supports Meta's advertising business by connecting saved content with potential purchases. CNBC reported that approximately 20% of daily Instagram users save at least one post each day, with many saved items consisting of advertisements or products available for purchase.
+A senior Meta executive explained that the assistant can improve advertising performance even without displaying advertisements directly inside Muse.
+"Muse is still very valuable for our ads business because it raises conversions for advertisers," a senior Meta executive told CNBC.
+The executive also explained that the assistant helps users return to products they previously discovered, reducing obstacles in the purchasing process.
+"It gives advertisers a way to get more ROI for the dollars they're already spending, and that's all because Muse is helping people shop," the executive said.
+Meta CEO Mark Zuckerberg previously disclosed during the company's latest earnings call that 25% of Muse users shop through the AI assistant. The average purchase value exceeds $200, making shopping its most common reported use case. Zuckerberg also said Meta plans to collect a small fee from transactions completed through the platform.
+Transaction data from Forter Intelligence further illustrates Muse's growing position in AI-assisted commerce. During the week ending November 22, Meta's assistant accounted for 51% of agentic shopping orders, compared with 24% for SpaceX's Grok and 22% for OpenAI's ChatGPT. Google and startup Instinct collectively represented the remaining 3%.
+Instagram Chief Adam Mosseri has also highlighted Muse's potential beyond shopping, particularly for creators and social media managers. Speaking with creator Marina Mogilko, known as Silicon Valley Girl, he described the assistant as a resource for generating content ideas.
+"If you're trying to come up with more ideas, telling [Muse] what your goal is, then asking it for 10, 20, 30, 50 ideas, telling Muse which ones you like and which you don't and iterating, it's a great way just to get, sometimes, the creative juices going," Mosseri said.
+Mosseri also identified content performance analysis and categorization as useful applications. He said the assistant can help professionals understand which posts perform well and identify emerging conversations relevant to their audiences.
+"So for your audience, or for your industry, what are the trends that are happening right now on social media, not even just on Instagram," Mosseri said. "Because that might surface conversations that you might want to jump in, for instance."
+He added that Muse can assess aspects of a profile's audience, including influential followers, although Instagram is continuing to improve those analytical capabilities.
+What's Your Reaction?
+- 
+        0Like
+- 
+        0Dislike
+- 
+        0Funny
+- 
+        0Angry
+- 
+        0Sad
+- 
+        0Wow

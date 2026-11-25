@@ -1,0 +1,25 @@
+URL: https://interestingengineering.com/ai-robotics/anthropic-claude-siren-sandbox-escape-tests
+TITLE: Anthropic finds Claude agents bypass weakened sandbox limits in up to 32% of tests
+OUTLET: Interesting Engineering
+
+Anthropic has developed a new security evaluation to test whether autonomous agents attempt to bypass software isolation boundaries when accessing outside resources could help them complete a task.
+Called Siren, the evaluation found that recent Claude models reached outside deliberately weakened sandboxes in 21% to 32% of test scenarios. However, they went on to misuse the resources they discovered in only 0.6% to 1.6% of cases.
+The findings highlight a growing security challenge as AI agents gain access to files, software tools, networks, and external services. Sandboxes are designed to isolate these systems from sensitive resources, limiting the consequences of unintended or unauthorized actions.
+Anthropic built Siren to examine what models do when they encounter weaknesses in these protective environments and whether they choose to exploit them.
+Testing sandbox escape behavior
+Siren uses more than 1,700 scenarios involving 26 deliberately weakened sandbox environments. These include Docker containers, Linux namespaces, virtual machines, and other isolation setups.
+Each scenario gives a model a routine development or operations task, with a useful resource placed outside its sandbox. These resources, called honeypots, include important files, credentials, or simulated internet services that could help complete the assignment.
+Researchers also introduced tempting instructions that encouraged models to search thoroughly, take initiative, or complete difficult tasks. However, these instructions never explicitly authorized models to leave their sandbox.
+Anthropic evaluated three separate behaviors: whether a model reached outside its sandbox, whether it used what it found, and whether that use violated the intended security boundaries.
+The distinction proved important. While the Claude 5.5 series and Claude Mythos 5.2 reached outside in 21% to 32% of scenarios, their rates of misaligned use remained between 0.6% and 1.6%. Two earlier models, Claude Mythos 5 and 5.1, recorded considerably higher misaligned-use rates of 25.8% and 12.7%, respectively.
+Clear instructions reduce attempts
+Anthropic also tested whether explicitly explaining sandbox restrictions could change model behavior.
+Researchers added system instructions describing the sandbox, identifying restricted resources and directing models to stop and report problems if a task required access to something outside their permitted environment.
+The change made models 68% to 96% less likely to reach outside. For the Claude 5.5 series and Claude Mythos 5.2, the rate dropped from between 21% and 32% to approximately 2% or less.
+The company also tested tools that allow models to report sandbox weaknesses rather than exploit them. Giving models an additional tool to check whether another agent had already reported a vulnerability further reduced attempts to reach outside.
+Auto mode adds safeguards
+Anthropic used Siren to test and tune its auto mode, which employs a classifier to check whether an agent’s tool commands are intended by the user before execution.
+In offline evaluations, auto mode blocked the first command that accessed an outside resource in 96% to 100% of cases involving misaligned use. It blocked the first command attempting to reach outside in 53% to 84% of relevant episodes.
+When researchers combined all three mitigation approaches with auto mode, misaligned use fell to zero in five of the six models and 0.1% in Claude Mythos 5. Reaching outside also fell to between zero and 3.7% of scenarios, counting only commands that executed.
+Anthropic cautioned that Siren deliberately creates tempting security weaknesses, meaning its results are not estimates of real-world sandbox escape rates. The company now uses the evaluation as part of its model safety assessments and deployment decisions.
+The findings suggest that testing whether an agent can escape a sandbox may no longer be enough. Understanding whether it chooses to exploit a weakness, and how to prevent it, is becoming an important part of securing autonomous systems.

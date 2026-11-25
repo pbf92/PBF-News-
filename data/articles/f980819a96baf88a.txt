@@ -1,0 +1,14 @@
+URL: https://www.analyticsinsight.net/amp/story/news/can-nintendo-switch-2-handle-gta-6-digital-foundry-has-an-interesting-answer
+TITLE: Can Nintendo Switch 2 Handle GTA 6? Digital Foundry Has an Interesting Answer
+OUTLET: Analytics Insight
+
+Could Nintendo Switch 2 owners eventually get to play Grand Theft Auto VI? It sounds unlikely, considering how demanding Rockstar's latest game is, but Digital Foundry's technical experts aren't completely ruling it out. Their view is that a Switch 2 version could work, provided Rockstar is willing to make some fairly serious changes.
+The biggest challenge isn't simply getting the graphics to look right. GTA 6 runs at a 30 FPS target even on current-generation consoles, including the PlayStation 5 Pro. A less powerful machine like the Switch 2 would need much more than a few reduced graphics settings to handle the game.
+Digital Foundry's John Linneman believes a port is technically possible, but the development team would have to remove or simplify several features. The game's strand-based hair system is one obvious candidate. Replacing it with a less demanding alternative could help, although that would mean additional development work.
+Also Read: GTA 6 Players have One Major Complaint About Jason and Lucia’s Relationship
+The more difficult cuts would involve the world itself. GTA 6 relies on detailed physics, complex NPC behavior, and many background simulations. Linneman believes Rockstar would need to reduce distant-world activity and update objects and characters less often when they are far from the player.
+Ray tracing would also need substantial changes, with alternative rendering techniques likely required to keep performance under control.
+Another complication is GTA Online. According to Digital Foundry's Richard Leadbetter, the game's CPU demands are already pushing existing consoles. Cutting back the simulation enough for Switch 2 could make it difficult to offer the same online experience. Rockstar might even need a separate version of GTA Online for Nintendo's hardware.
+That raises a bigger question than whether the game can run. Would Rockstar consider the compromises worthwhile, especially when GTA Online is an important long-term source of revenue?
+Also Read: GTA 6 Launch Triggers 15.5% Drop in Pornhub Traffic in the US
+For now, there is no confirmation that Rockstar is developing a Switch 2 version. Digital Foundry's comments describe a technical possibility, not an upcoming release. Getting GTA 6 running on Nintendo's handheld console would be an impressive achievement, but it could require changes beyond the graphics.

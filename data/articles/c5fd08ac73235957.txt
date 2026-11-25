@@ -1,0 +1,21 @@
+URL: https://digg.com/ai/s612b145
+TITLE: Anthropic says Claude helped rewrite its Messages API in Rust. Passing tests wasn’t enough.
+OUTLET: Digg
+
+Anthropic says it has migrated its Messages API from Python to Rust, using teams of Claude agents to hunt down behavioral differences against the existing service. In the engineering account it shared on November 25, the company reports about 70% lower CPU use per request in one measured region. Python supplied the answer key. Engineers still decided what was fit to ship. Source Source
+The Messages API is the service customers and apps such as Claude Code use to reach Claude. The work covered request and response processing around the model, rather than rewriting the model itself. Anthropic says public traffic moved to Rust in September 2026, without taking the service offline or freezing feature development. Source
+The tests missed the awkward bits
+Claude wrote a first version of the API’s core request path in about a week, according to Anthropic. Verification work ran from April onward, while the Python service kept changing. Source
+In April, Rust passed about 98% of its tests, yet only about a quarter of the production inputs being compared matched Python. Those figures measure different things; the mismatch rate wasn’t a customer request-failure rate. Differences could be as subtle as Python escaping an emoji in tool-call JSON while Rust left the character intact, producing slightly different prompts. Source
+Anthropic says Claude helped port both the implementation and its Python-dependent tests, and an audit found more than 100 weakened assertions—the checks that determine whether a test passes. A reassuring score is less reassuring when the marking scheme has changed. Source
+One model reply, two implementations
+Anthropic used the running Python service as its behavioral reference, comparing stages before and after the model call against Rust. Because Claude can answer the same request differently on separate runs, the team ran the model once and replayed that output to Rust. The comparison also had to ensure requests counted only once toward customer billing and limits. Source
+The team says it worked without reading customer requests or their replies. Instead, it recorded the location and size of differences, grouping them into bug “fingerprints.” Agents received those clues, then wrote their own requests or scripted replies to try to reproduce each mismatch. Source
+The workflow used three loops:
+- Sandbox checks: Agents reproduced differences, edited Rust and tested proposed fixes locally. Input comparisons could run in under a second because they didn’t call the model.
+- Production checks: After engineers reviewed and approved fixes, comparisons on shadowed live traffic checked whether the mismatch had actually disappeared.
+- Saved lessons: Review corrections became reusable notes, rules, tests and other checks for subsequent agents. “Memory” here meant saved guidance, not retraining Claude’s model weights. Source
+A passing fix could still get rejected
+In one example, Rust was missing a web-search tool description that Python fetched from an internal service. An agent proposed copying the description into files Rust could read. The prompts matched, and the local verifier passed the fix. Source
+An engineer rejected it: Rust still needed to fetch the description from the service before launch, so the workaround would become throwaway code. The check was satisfied. The engineer wasn’t. Source
+“A verifier can tell an agent whether the outputs matched, but not whether the fix is good enough to ship,” Anthropic wrote. Source

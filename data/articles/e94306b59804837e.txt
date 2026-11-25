@@ -1,0 +1,24 @@
+URL: https://www.eurekalert.org/news-releases/1153453
+TITLE: Deusto explores the use of artificial intelligence and smart sensors to improve food safety quickly and affordably
+OUTLET: EurekAlert!
+
+The smartJAN project, developed by the eVIDA research group at the University of Deusto in collaboration with Kernet and Fundación Miranda, has completed the development of a functional prototype capable of detecting the presence of LTPs (Lipid Transfer Proteins), a family of plant proteins that includes allergens capable of triggering severe allergic reactions, particularly relevant in the Mediterranean region.
+Funded through the Basque Government’s Hazitek programme, the initiative combines near-infrared spectroscopy (NIRS) with signal-processing algorithms and artificial intelligence. The technology works by shining light onto the food and analysing how it is reflected. This produces a spectral ‘fingerprint’ which the artificial intelligence system interprets instantly to determine whether the product contains potentially harmful substances, without the need to destroy it or send it to a laboratory.
+From university research to the food industry
+The main aim of the research was to test the technical feasibility of detecting allergenic proteins from the LTP family, which are found in many plant-based foods. These include Pru p 3, found mainly in peach skin, and Ara h 9, found in peanuts, both of which were studied as part of the project. Begoña García-Zapirain, head of Deusto’s eVIDA research group, points out that the technology could have a much wider range of applications. Previous tests have demonstrated its effectiveness in detecting gluten and the presence of bacteria in meat. The system could therefore also pave the way for the early detection of pathogens that cause food poisoning, such as Salmonella.
+Following the completion of the initial phase and the development of a validated prototype, the project is now ready to move towards commercialisation. The device is not intended for end consumers or domestic use, but rather for integration into quality control processes in the food industry, distribution chains and institutional catering facilities. Once the protocols for validating its reliability have been completed, the speed of the analysis could facilitate food screening and complement conventional analytical methods, helping to speed up quality control procedures and strengthen food safety.
+Vulnerable groups
+The participation of Fundación Miranda in the consortium adds a social dimension focused on healthcare for people aged over 65, a group for whom the prevention of food-related risks and attention to specific dietary needs are particularly important.
+With the research phase now complete, the next step towards bringing this tool to market will depend on industrial interest in turning the prototype into a commercially available testing device.
+The smartJAN project is an example of collaboration between the business, social and university sectors. It brings together eVIDA’s technological expertise, the experience of technology company Kernet and that of Fundación Miranda to develop innovative solutions focused on health and well-being.
+Rodriguez-Alonso, A., Del Barrio, I., Bernardo-Seisdedos, G. Osa-Sanchez, Ainhoa, Garcia-Zapirain, Begonya. Novel Artificial Intelligence Approach For nsLTP Early Detection Using NIRs Data. Food Anal. Methods 18, 2331–2343 (2025). https://doi.org/10.1007/s12161-025-02851-6
+Journal
+Food Analytical Methods
+Method of Research
+News article
+Subject of Research
+Not applicable
+Article Title
+Novel Artificial Intelligence Approach For nsLTP Early Detection Using NIRs Data
+Article Publication Date
+29-Jul-2025

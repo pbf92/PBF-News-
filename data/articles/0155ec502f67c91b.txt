@@ -1,0 +1,15 @@
+URL: https://www.androidauthority.com/gemini-for-home-update-faster-commands-bug-fixes-3739481/
+TITLE: Gemini for Home gets faster responses, smoother chats, and fixes for follow-up and music bugs
+OUTLET: Android Authority
+
+Gemini for Home gets faster responses, smoother chats, and fixes for follow-up and music bugs
+Nov 25, 2026 — 3:15 PM ET
+- Google has fully rolled out speed improvements for common Gemini for Home smart home commands.
+- The latest update fixes bugs affecting follow-up commands and stopping media playback.
+- Google is also rolling out an improved Gemini Live experience, more expressive storytelling, and web answer sources on supported smart displays.
+The story of Gemini for Home’s transition from Google Assistant is beginning to take a more positive turn. We’ve seen some users warming up to Google’s new voice assistant, particularly after noticeable improvements in response times. Now, Google is giving Gemini more polish, whether you’re asking it to switch off the lights or tell your kids a bedtime story.
+With its second November update, Google has confirmed that speed improvements for common smart home commands have fully rolled out to Gemini for Home Early Access users. So, whether you’re turning on the lights or adjusting the thermostat, Gemini should respond and act faster.
+Google has also fixed a bug where Gemini would occasionally forget the context of a conversation. For example, asking Gemini to turn the living room lights back on shortly after telling it to turn them off should now work as expected. Another fix addresses an issue where Gemini would incorrectly insist that nothing was playing when asked to stop music or other media.
+Beyond these fixes, Google is beginning to roll out the upgraded Gemini Live experience it announced last week alongside energy-saving improvements for Nest thermostats and new features for Google Home cameras. Over the coming weeks, Google Home Premium subscribers will get faster, more natural conversations with Gemini, along with the ability to set timers, add reminders, and control smart home devices without ending an ongoing chat.
+Gemini is also becoming a better storyteller. Starting today, stories will feature more expressive voices and varied pacing, and you can steer the plot as Gemini narrates. And if you own a supported smart display, you’ll be able to tap a new “Sources” option to see the websites Gemini used to answer your questions.
+With Google Assistant set to retire from smart home devices in August 2027, every little improvement counts. And while more entertaining bedtime stories are a welcome addition, getting Gemini to remember which lights you were talking about is likely to make a bigger difference in everyday life.

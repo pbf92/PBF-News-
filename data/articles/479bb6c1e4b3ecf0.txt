@@ -1,0 +1,35 @@
+URL: https://wisevoter.com/world/2026/11/25/meta-muse-agent-instagram-shopping-conversions
+TITLE: Meta's Muse Agent Pushes Instagram Shopping Conversions
+OUTLET: Wisevoter
+
+Meta's Muse Agent Pushes Instagram Shopping Conversions
+Meta's AI agent Muse helps users rediscover bookmarked products on Instagram, and the company is collecting a small fee on transactions completed through it.
+Updated on Nov. 25, 2026 in Advertising
+Live Poll
+Would you let an AI shopping assistant help you complete purchases you saved?
+Meta's AI agent Muse organises and rediscovers products users previously bookmarked, guiding them back to items they have already viewed to drive shopping conversions on Instagram. Muse currently carries no advertisements, and Meta has not announced an advertising launch or timeline for placing ads in it.
+Why it matters
+Shopping features are helping brands secure more conversions, feeding Meta's advertising business at a time when agentic AI tools are competing for online orders. The small transaction fee signals a monetisation path that does not depend on traditional ad placements.
+Shopping accounts for 25 per cent of Muse usage, and the average purchase exceeds $200, while Meta's agent held 51 per cent of agentic orders in the week ended 22 November. Meta has not disclosed the size of the transaction fee it plans to collect.
+The players
+Meta Platforms
+Meta Platforms is the parent company of Instagram, Facebook and WhatsApp, and operates the Muse AI agent.
+Mark Zuckerberg
+Mark Zuckerberg is the co-founder and chief executive of Meta Platforms, who disclosed Muse usage figures on the latest earnings call.
+OpenAI
+OpenAI is the artificial intelligence company behind ChatGPT, which accounted for 22 per cent of agentic orders in the week ended 22 November.
+The details
+Muse uses an AI agent to organise products users have previously bookmarked and guides them back to items they have already viewed. Around 20 per cent of Instagram's daily active users save at least one post every day, giving the feature a large pool of saved products to draw from.
+Timeline
+- Week ended 22 November: Meta's agent accounted for 51 per cent of agentic orders.
+- Latest earnings call: Zuckerberg disclosed that shopping accounts for 25 per cent of Muse usage.
+The Tech Race
+Meta's Muse leads a field where ChatGPT and SpaceX's Grok are competing for agentic orders, with Meta's agent taking 51 per cent of such orders in the week ended 22 November. The contest pits social-platform commerce against general-purpose AI assistants for the same purchase decisions.
+Shoppers who bookmark products on Instagram may see Muse surface those items again to prompt a purchase. The small transaction fee Meta plans to collect means purchases made through the agent may cost more than the same items bought directly.
+The takeaway
+Treat AI shopping prompts that resurface saved products as reminders rather than recommendations, and compare prices before completing a purchase. Watch for advertising inside the agent as Meta's monetisation plans develop.
+Further reading
+For more on how platforms are turning social engagement into sales, see Advertising.
+Source note: This article includes information reported by Indian Television Dot Com.
+Live Poll
+Would you let an AI shopping assistant help you complete purchases you saved?

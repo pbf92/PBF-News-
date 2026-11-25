@@ -1,0 +1,30 @@
+URL: https://www.thekeyword.co/news/google-wallet-personal-intelligence-ai-mode
+TITLE: Google Adds Wallet to Personal Intelligence in AI Mode
+OUTLET: www.thekeyword.co
+
+Google is adding Google Wallet to Personal Intelligence in AI Mode, the opt-in feature that lets Search answer from a user’s own Google apps. Wallet began rolling out on 23 November, and Google Drive and the Gemini app will follow “in the coming weeks”, according to a Google blog post by Robby Stein, Google Search’s VP of Product. The three join Gmail, Google Calendar and Google Photos.
+The expansion continues a programme Google started in January, when it brought Personal Intelligence to AI Mode with Gmail and Photos. In March it opened the feature to free US users, and in October it began testing ads for Personal Intelligence users. Each step widens the personal data that Google’s own apps can feed into a search answer.
+What Each App Adds
+Wallet is aimed at spending. Google says users can map out financial milestones, find ways to trim everyday spending and get more from cash-back categories, travel perks and reward points on the cards linked in Wallet.
+Drive brings documents, spreadsheets and PDFs into the answer. Google’s example is a personalised preparation plan ahead of tax season.
+The Gemini app connection will run both ways. An idea explored in the Gemini app gives AI Mode a starting point, and the reverse. Users could already connect their Search history to the Gemini app, so this adds the missing direction.
+Google also says a “Personalization” icon will soon appear below any tailored response, showing the context AI Mode used. Users can correct that context in the conversation itself.
+One Consent Reaches Every Search Service
+The blog post frames the feature around AI Mode, but Google’s help page sets a wider scope. Connecting the apps means “all Search services will be permitted to access” them. Google lists those services as Search, including AI Mode and Discover, Maps, including Ask Maps, Shopping, Flights, Hotels, Translate and News.
+Eligibility is narrower. Users need a personal Google Account, Personalized Recommendations switched on and to be 18 or older. Connecting Calendar and Drive is available only in the US in English, and Photos and Wallet are not available in all regions.
+The help page’s country table lists no European Union member state and not the United Kingdom. Its European entries include Albania, Georgia, Serbia, Türkiye and Ukraine. Google gives no reason for the omission.
+What Google Says About Ads and Model Training
+The same help page answers the two questions advertisers and privacy teams will ask. Google says ads “will not be based directly” on a user’s Gmail inbox, Photos library or Gemini chats. Search may still reference “summaries, excerpts and inferences” from connected apps, and “that same info may be used to show you ads.” That answer names Gmail, Photos and Gemini chats and does not mention Wallet or Drive.
+Advertisers do not get access to the inboxes, libraries or chats themselves. Google also keeps sensitive categories, such as health and religion, out of personalised ads.
+Training follows the same line. Google says it does not train generative AI models directly on Gmail, Drive, Calendar or Wallet data. It does train them on the summaries, excerpts and inferences drawn from those apps when someone uses Search, and where an email, file or chat is brief, the summary “may just be” the item itself. Disconnecting an app does not delete data already in a user’s Search Services History, which can still be used for product improvement.
+Google’s Data Advantage Over Rival Assistants
+The Wallet connection arrives ten days after OpenAI launched ChatGPT Wallet on 13 November. The two wallets do different jobs. OpenAI’s pays for purchases on a user’s behalf, while Google’s reads spending and card benefits to shape answers.
+The difference for advertisers is where the data already sits. Google can draw on receipts in Gmail, bookings in Calendar, photos and now card activity from accounts its users already hold. OpenAI wants ChatGPT ads personalised with memory built up inside its own product.
+For marketers buying into AI Mode, the signals behind a tailored answer now include what a user spends and which cards they carry, everywhere the feature is offered.
+Recap
+What is Google adding to Personal Intelligence in AI Mode?
+Google is adding Google Wallet, which began rolling out on 23 November, with Google Drive and the Gemini app following in the coming weeks. They join Gmail, Google Calendar and Google Photos, which AI Mode could already draw on once a user connected them.
+How do users connect apps to Personal Intelligence?
+Users open Search Personalization, select Connected Apps and choose the apps to connect. Google’s help page says they need a personal Google Account, Personalized Recommendations switched on and to be 18 or older. Connecting Calendar and Drive is limited to the US in English, and the feature is not offered in the EU or the UK.
+What changes once a user connects their apps?
+The consent lets every Search service access the connected apps, including AI Mode, Discover, Maps, Shopping, Flights, Hotels, Translate and News. Google says summaries, excerpts and inferences from the apps may be used to show ads and to train its generative AI models, though it does not train directly on the inboxes, files or Wallet data themselves.

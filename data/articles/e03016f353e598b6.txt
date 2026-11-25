@@ -1,0 +1,43 @@
+URL: https://mbiz.heraldcorp.com/article/10946317
+TITLE: Milk thistle trims liver enzyme levels slightly, but evidence for alcohol protection remains thin
+OUTLET: 헤럴드경제
+
+Korean meta-analysis of 47 trials finds modest ALT, AST reductions; Cochrane review finds no proof of fatty liver tissue improvement; long-term fibrosis data still lacking
+'It's a year-end party tonight — better take a milk thistle capsule first.'
+As year-end drinking gatherings pick up, more people reach for liver supplements, and milk thistle has become the go-to ingredient. Extracted from the seeds of the Silybum marianum plant — a member of the daisy family — it contains silymarin as its active compound, which is widely believed to protect liver cells.
+The Ministry of Food and Drug Safety recognizes milk thistle extract as a functional ingredient that "may support liver health" at a daily dose of 130 milligrams of silymarin. Pharmacies also sell it as an over-the-counter drug at 210 to 420 milligrams of silymarin per day.
+So can milk thistle protect a liver worn down by alcohol? Recent research suggests it modestly lowers liver enzyme levels, but evidence that it shields the liver from alcohol-related damage is hard to find.
+Milk thistle intake linked to modest drop in liver enzyme levels
+A research team led by Professor Jeon Dae-won of Hanyang University College of Medicine published results this month in the international journal Nutrients, pooling 47 studies that examined silymarin's effects in patients with chronic liver disease.
+When the team isolated and analyzed clinical trials in which participants took silymarin alone — without other supplements or dietary changes — liver enzyme levels fell further than in those who received a placebo. ALT, an enzyme that leaks into the bloodstream when liver cells are damaged, dropped by 7.25 more, and AST fell by 5.36 more.
+Ultrasound-measured liver stiffness also edged down slightly.
+In patients with active hepatitis C virus, silymarin alone did not produce a clear reduction in liver enzyme levels. Side effects were generally mild — mostly loose stools or nausea — and no serious adverse events were reported even in trials using doses of up to 2,100 milligrams per day.
+The research team said long-term clinical trials are needed to determine whether the changes in liver enzyme levels and liver stiffness translate into real benefits such as reduced fibrosis. The team also said silymarin cannot replace dietary management and lifestyle changes.
+Drinkers were excluded from the analysis
+In scoping the research to chronic liver conditions such as fatty liver disease, the team excluded studies involving patients with alcoholic liver disease or people who consumed more than 20 grams of alcohol per day — roughly three shots of soju.
+The positive results on liver enzyme levels came mainly from fatty liver patients who drank little or no alcohol. That is a far cry from what people taking milk thistle ahead of a year-end drinking party are hoping for.
+Research on alcohol-damaged livers dates back further. A team at the Copenhagen Trial Unit in Denmark pooled 18 clinical trials covering 1,088 patients with alcoholic liver disease or hepatitis B or C in a 2007 Cochrane review.
+Cochrane reviews are widely regarded in the medical community as highly reliable evidence assessments, synthesizing multiple clinical trials against rigorous standards.
+The analysis found no difference in mortality or liver disease complications between those who took milk thistle and those who took a placebo. Some results suggested a reduction in liver-related deaths, but that difference disappeared when only the most rigorously designed trials were examined.
+The research team concluded that the findings cast doubt on the effectiveness of milk thistle.
+There is also analysis focused on patients with cirrhosis — livers that have already hardened. A research team at Isfahan University of Medical Sciences in Iran published results in June in the international journal Hepatology Forum, pooling eight clinical trials in cirrhosis patients.
+Patients who took silymarin saw AST fall by 5.41 more and ALT by 6.07 more than those on placebo, and albumin levels — a marker of liver function — also rose slightly. Other liver function indicators, including bilirubin, which is linked to jaundice, showed no difference from placebo.
+The research team said silymarin could be a safe and inexpensive treatment option, but cautioned that the findings should be interpreted carefully given that only eight trials were analyzed.
+May help with fatty liver — but at 16 times the recommended daily dose
+Evidence for milk thistle's effect on fatty liver disease also remains thin. An international research team published results in June last year in a Cochrane review, pooling silymarin clinical trials conducted in patients with fatty liver disease.
+The team found that silymarin alone could lower liver enzyme levels more than a placebo. However, it found no evidence that fatty liver disease actually improved on liver biopsy. The team concluded that it remains unclear whether silymarin is beneficial or harmful for fatty liver patients.
+At least one clinical trial pointed in a different direction. A research team at the University of Malaya in Malaysia gave 99 patients with biopsy-confirmed nonalcoholic steatohepatitis 2,100 milligrams of silymarin per day for 48 weeks in 2017.
+The primary endpoint — the rate of steatohepatitis improvement — showed no difference from placebo, but 22.4 percent of patients in the silymarin group showed at least a one-stage improvement in liver fibrosis, compared with 6.0 percent in the placebo group.
+However, the dose used in the Malaysian trial was 16 times the domestic health functional food standard of 130 milligrams of silymarin per day.
+References
+DOI: 10.3390/nu18213685
+Lee HY, Oh H, Yoon EL, Jun DW. Silymarin-based therapies in chronic liver disease: a systematic review of biochemical, cardiometabolic, steatosis, and fibrosis-related outcomes. Nutrients. 2026;18(21):3685.
+DOI: 10.14744/hf.2025.81811
+Amini S, Rouhani MH, Sharma M, Bagherniya M. The effect of silymarin (milk thistle) on cirrhosis: a systematic review and meta-analysis of clinical trials. Hepatol Forum. 2026;7(4):374-392.
+DOI: 10.1002/14651858.CD015524.pub2
+Wang C, et al. Silymarin for adults with metabolic dysfunction-associated steatotic liver disease. Cochrane Database Syst Rev. 2025;6:CD015524.
+DOI: 10.1002/14651858.CD003620.pub3
+Rambaldi A, Jacobs BP, Gluud C. Milk thistle for alcoholic and/or hepatitis B or C virus liver diseases. Cochrane Database Syst Rev. 2007;(4):CD003620.
+DOI: 10.1016/j.cgh.2017.04.016
+Wah Kheong C, Nik Mustapha NR, Mahadeva S. A randomized trial of silymarin for the treatment of nonalcoholic steatohepatitis. Clin Gastroenterol Hepatol. 2017;15(12):1940-1949.e8.
+dbsdn1110@heraldcorp.com

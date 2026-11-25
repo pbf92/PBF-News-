@@ -1,0 +1,39 @@
+URL: https://www.eurekalert.org/news-releases/1153440
+TITLE: Gut microbiome may shape blood sugar benefits of whole grains
+OUTLET: EurekAlert!
+
+COLUMBUS, Ohio – People with prediabetes are at very high risk for developing type 2 diabetes, and improving their diet is one way they can try to fend off advanced disease.
+Better health through nutrition is not only about the foods we eat, however: New research suggests gut microbes have a significant influence on how our bodies respond to a dietary change. In essence, our outcomes can be affected by both the microbiome we start with and how our microbiome shifts in response to a nutritional change.
+The Ohio State University clinical trial demonstrated better blood sugar control in people with prediabetes when refined white bread in their diet was replaced with whole wheat bread. But the study also showed that gut microbe shifts were associated with the benefits the more nutritious and fiber-rich bread offered.
+On average, glucose control improved 27% among participants – but individually, the results varied widely, from relatively small to large improvements. Microbial community changes were linked to those differences, hinting at the promise for future nutritional guidance that is based on biomarkers produced by our gut activity, researchers say.
+In the study, some participants started the trial with a signature of gut microbes that predicted their blood sugar control would improve. In others, consuming whole wheat bread shifted the abundance of microbes associated with better blood glucose results.
+“So we have two separate paradigms,” said Richard Bruno, professor of human nutrition at The Ohio State University and co-senior author of the study.
+“One, we have certain microbes predicting health benefits before people even change their diets. And, at the end of the controlled dietary intervention, we have certain microbes that are associated with those favorable health benefits on blood glucose control, such that not only does your baseline microbiome signature support favorable outcomes, but also how the whole grain modifies the microbiome signature is likely to be contributing to those favorable outcomes as well.”
+The study was published recently in Frontiers in Nutrition.
+Over 115 million Americans have prediabetes, meaning they have elevated blood glucose that’s not high enough to be diagnosed as diabetes. At the prediabetes stage, people aren’t typically prescribed medication – instead, they’re commonly advised to make lifestyle changes that include improving their diet and exercising more.
+During the trial, the Ohio State team provided all meals for a total of four weeks to 39 study participants who had prediabetes. The only difference between the two two-week diet periods was the bread: either refined white bread or whole wheat bread that was homemade by Ohio State food scientists. After each study phase, researchers collected fasting blood and stool samples and administered an oral glucose tolerance test to determine whether each participant’s body used sugar as it should.
+Results showed that compared to outcomes after the diet containing white bread, the spike in blood sugar from a glucose tolerance test dropped by 27% on average among all participants after they followed the diet containing whole wheat bread. These results were unaffected by differences in body weight, inflammation, insulin concentration, cellular stress or the presence of short-chain fatty acids in the gut.
+Findings also showed shifts in gut microbial communities, establishing distinct profiles associated with greater benefit from the wheat bread relative to white bread. Specifically, the analysis showed higher abundance of Agathobacter, Agathobaculum and Lachnospiraceae NK4A136 group and lower abundance of Streptococcus, Lachnoclostridium and Mediterraneibacter.
+Abundance of Lachnoclostridium and Lachnospiraceae NK4A136 group at the start of the trial predicted healthier post-eating glucose responses, said first author Jillian Pierson, a graduate fellow in Bruno’s lab.
+“The Lachnoclostridium is frequently associated with more of a pro-inflammatory state – such as that from a less healthy diet. And there are other studies demonstrating that it’s diet responsive, so improving certain diet parameters helped to decrease this bug,” she said.
+Co-senior author Jiangjiang (Chris) Zhu, professor of human nutrition at Ohio State, is digging deeper to learn more specific ways in which the diet and microbiome interact to influence health. His lab uses modeling and machine learning to characterize changes to the microbiome at the molecular level – shifts in genetic signatures of the microbiota as well as microbial metabolites, the products of biochemical reactions that break down food components to produce energy and perform other essential functions.
+“We’re trying to get additional molecular signatures that could help us understand how molecular-level combinations might have additional or maybe stronger predictive values for a person’s outcome when they have different types of dietary intake,” said Zhu, also an investigator in The Ohio State University Comprehensive Cancer Center Molecular Carcinogenesis and Chemoprevention Research Program. “The work we’re performing also looks at not only single bacteria, but also bacteria-to-bacteria relationships because they live together.”
+The work is too time-intensive and expensive to be used for patients clinically at this stage, but developing a test for individual microbiome compositional signatures is “what the field is expecting and hoping for,” Zhu said. “We still need to get as much information as possible to generate stronger and precise predictive machines that can really tell you what to eat, what not to eat, which food is good for you, which food is not. Food really is medicine in many respects.”
+The concept is called precision nutrition, and it’s inspired in this context by what researchers have known for a long time: Whole grains are viewed as healthy foods that support metabolic health, but their effects on people are highly variable.
+“Some individuals are ‘super responders,’ where they have a lot of benefits, and others have marginal responses,” Bruno said. “And we believe that some of that difference lies in the unique signatures of the bugs in the gut and the distinct metabolites that they generate.”
+This work was supported by the U.S. Department of Agriculture, the Academy of Nutrition and Dietetics Foundation, and the Ohio Agricultural Research and Development Center.
+Co-authors, all of Ohio State, include Ariana Bond, Sisi Cao, Shiqi Zhang, Andrew Gold, Huan Zhang, Kaitlyn Zamary, Ayse Gurer, Chao Guo, Menuka Bhandari, Matthew Teegarden, Devin Peterson and Xiaokui Mo.
+#
+Contacts:
+Richard Bruno, Bruno.27@osu.edu
+Jiangjiang Zhu, Zhu.2484@osu.edu
+Jillian Pierson, Pierson.150@osu.edu
+Written by Emily Caldwell, Caldwell.151@osu.edu
+Journal
+Frontiers in Nutrition
+Method of Research
+Randomized controlled/clinical trial
+Subject of Research
+People
+Article Title
+Whole wheat bread improves postprandial glucose tolerance in adults with prediabetes: a controlled-feeding randomized crossover trial with microbiome-associated variation in response
