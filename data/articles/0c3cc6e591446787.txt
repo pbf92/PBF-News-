@@ -1,0 +1,18 @@
+URL: https://www.tweaktown.com/news/114883/rockstar-games-website-seized-by-authorities-after-players-scan-in-game-gta-6-qr-code/index.html
+TITLE: Rockstar Games website 'seized by authorities' after players scan in-game GTA 6 QR code
+OUTLET: TweakTown
+
+Rockstar Games has hidden working QR codes throughout Grand Theft Auto 6, and players scanning them with their real phones are landing on a parody "website seized" notice hosted on Rockstar's own site.
+Go ad-free with SupporterSee plans and prices
+So, where do the GTA 6 QR codes actually go? Rockstar's rsg.ms/qr1 short link, which fan tracking site Peekhole.de lists as a QR destination, redirects to a page on rockstargames.com stating the site was seized "by the Federal Investigation Bureau," GTA's version of the FBI, under a seizure warrant citing "47 U.S.C. § 11.25(A)," alongside a Vice City Police Department badge.
+The page then jokes that "due to lack of federal funding, the FIB is selling ad space on seized IP addresses," and seemingly these ads and sponsors change per player or between visits as one player's version cited organ trafficking and a "Dark Web Dating" ad, while the version I loaded cited wire fraud and an ad for a pet delivery service offering black rhinos.
+Notably, Peekhole.de says the seized pages tie into Peekhole, GTA 6's parody of creator subscription sites, whose QR stickers show up on cars around Leonida. Movistar eSports' post closes with actually fantastic information, and a general rule of thumb, "Never scan codes you don't recognize."
+Story Q&A
+Powered by TweakBot
+From TweakTown's coverage of this story.
+What is Peekhole in GTA 6, and how does it connect to the QR-code pages?
+How does Rockstar's rsg.ms/qr1 short link route GTA 6 QR scans to the seized-site page?
+What different ads and alleged crimes have players seen on the GTA 6 QR-code page?
+What does the fictional FIB seizure notice and its warrant citation parody?
+Got another question? Ask TweakBot.
+However, any codes within GTA 6 should be completely safe. But outside of the safety of Leonida, it's generally recommended to avoid scanning codes if you aren't sure where they are taking you.

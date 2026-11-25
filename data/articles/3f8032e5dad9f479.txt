@@ -1,0 +1,30 @@
+URL: https://wisevoter.com/world/us/2026/11/25/mock-juries-blame-doctors-defying-ai
+TITLE: Mock Juries Favor Plaintiffs Over Doctors Who Defy AI
+OUTLET: Wisevoter
+
+Mock Juries Favor Plaintiffs Over Doctors Who Defy AI
+A study in NEJM AI finds jurors blame physicians more when an AI assessment conflicts with a radiologist's judgment.
+Updated on Nov. 25, 2026 in Artificial Intelligence
+Live Poll
+Would you trust your doctor's judgment over an AI tool's recommendation?
+Mock juries sided more often with the plaintiff in malpractice cases when an AI assessment conflicted with a radiologist's judgment, according to a study published in NEJM AI. Juror bias against physicians who departed from AI guidance dropped substantially when jurors were told the AI's error rate or shown the doctor had double-checked the scan.
+Why it matters
+Rapid AI adoption across hospitals and clinics has left doctors in a legal bind, where overriding an algorithm can expose them to liability in court. Without clearer legal standards and transparent reporting on tool accuracy, physicians may feel pressured to defer to algorithms even when clinical judgment calls for caution.
+The NEJM AI study used simulated court scenarios with mock juries rather than real verdicts, and the extraction gives no sample size or effect magnitude. Juror bias fell substantially when jurors learned of the AI's error rate or saw evidence of a double-check, but the extraction does not say whether the findings apply to actual malpractice trials.
+The players
+American Medical Association
+The American Medical Association is the largest professional association of physicians in the United States, known for advocacy on medical practice, ethics and health policy.
+The details
+Researchers presented simulated court scenarios to mock juries to test how they evaluate clinical decisions involving AI tools. Mock jurors were given information about the AI's error rate or evidence of the doctor's double-check to test changes in blame assignment.
+Timeline
+- Digital Trends published its report on the mock jury AI study on November 25, 2026.
+Roadmap
+The American Medical Association has pressed federal and state policymakers to shield doctors from liability when AI tools are used as intended, while also seeking rules requiring AI developers to carry adequate liability insurance and disclose performance data and limitations. The mock jury findings give that advocacy an empirical basis by showing that juror bias against physicians who depart from AI guidance is measurable and can be reduced through transparency.
+Patients and clinicians may see more physicians deferring to AI outputs out of legal caution, which can change how diagnoses are reviewed. Clinicians who document their own independent verification of AI findings may be better positioned if a case is later disputed.
+The takeaway
+Doctors who use AI tools should document their independent review of the output, since jurors in the study were more forgiving when the physician's own check was visible. Transparent disclosure of an AI tool's error rate also appears to reduce the blame placed on clinicians.
+Further reading
+For related coverage, browse Artificial Intelligence news on Wisevoter.
+Source note: This article includes information reported by Digital Trends.
+Live Poll
+Would you trust your doctor's judgment over an AI tool's recommendation?

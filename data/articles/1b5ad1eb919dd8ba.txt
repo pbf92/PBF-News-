@@ -1,0 +1,18 @@
+URL: https://finance.yahoo.com/media-advertising/articles/amazon-meta-reportedly-discuss-restoring-115619335.html
+TITLE: Amazon, Meta Reportedly Discuss Restoring Muse Shopping Bot Access As Advertising Concerns Persist
+OUTLET: Yahoo Finance
+
+- Any agreement would require approval from both companies' CEOs, Fortune reported.
+- Amazon's advertising business generates $68.6 billion, accounting for nearly 10% of its annual revenue.
+- More than 25% of Muse's active users engage in shopping, with an average purchase size above $200, Zuckerberg said.
+Amazon (AMZN) and Meta Platforms (META) are reportedly in talks over a potential deal to restore access to Amazon's online store for Meta's Muse AI shopping agent, two months after Amazon blocked the tool.
+The companies have held multiple rounds of talks, with advertising and product search results emerging as key issues, Fortune reported, citing people familiar with the matter. Discussions remain fluid, and it is unclear whether or when an agreement will be reached.
+According to the report, any potential agreement between Amazon and Meta would require approval from both companies' CEOs. At the time of writing, META stock was down over 1%, while AMZN stock was down more than 3% in premarket trading.
+Amazon's Ad Business Among Key Concerns
+Amazon is concerned about potentially losing advertising revenue, the quality of product search results surfaced by Muse, and the possibility that shopping agents could weaken its direct relationships with customers, the report said.
+Amazon's advertising business generates $68.6 billion, accounting for nearly 10% of its annual revenue. Shopping agents such as Muse could theoretically bypass advertisements displayed on Amazon's website, according to the publication.
+Amazon CEO Andy Jassy said at a Semafor conference earlier this month that the company had not ruled out allowing third-party shopping agents onto its platform, but they would need to provide a "fair exchange of value."
+Stocktwits reached out to Amazon and Meta for comment but had not received a response from either company at the time of publication.
+Why Did Amazon Block Muse?
+Meta launched Muse in the U.S. in September as a personalized AI agent capable of autonomously performing tasks, including checking emails, managing calendars, booking reservations, and shopping.
+Amazon blocked Muse from accessing its online store that month, saying the agent's access would violate its user agreements. When users attempted to access Amazon through Muse, they received a warning stating, "Continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers have agreed."

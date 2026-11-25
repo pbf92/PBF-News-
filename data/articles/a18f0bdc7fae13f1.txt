@@ -1,0 +1,84 @@
+URL: https://stockinvest.us/stock/NVDA
+TITLE: Nvidia Stock Price Forecast. Should You Buy NVDA?
+OUTLET: StockInvest.us
+
+A
+The highest group in our stock classification.
+We group stocks from A to D using trading liquidity, market capitalization and share price, relative to other stocks on the same exchange.
+Daily buy/sell signals are evaluated separately.
+Nvidia Stock Forecast
+Should you buy NVDA stock?
+Last updated:
+Based on market data through , StockInvest.us rates NVIDIA (NVDA) as a Strong Sell Candidate with a technical score of -6.52 on its -10 to +10 scale. This is a downgrade from Sell in the previous daily evaluation.
+- Sell signal since
+- Price since signal Down 22.36%
+- 3-month trend forecast Down 26.09%
+NVIDIA falls sharply by -5.86% to $155.38 on Tuesday
+()
+NVIDIA fell sharply on Tuesday, 24 November 2026, losing -5.86% to close at $155.38, down from $165.05. The estimated loss in the company's market value was $233.05 billion. The price fell on lower volume of 379.24 million shares, down 393.25 million shares from the previous trading day. Estimated traded value came to $58.93 billion. During the session, the price ranged from $150.50 to $159.92, a spread of 6.26%.
+Across the last 10 trading sessions, the stock declined 8 times and is down -7.95% overall. For comparison, the Nasdaq-100 fell -1.99% between the closes on 23 Nov 2026 and 24 Nov 2026. The S&P 500 fell -0.50% over the same interval. The stock underperformed the Nasdaq-100 by 3.87 percentage points.
+NVDA Signals & Forecast for the Short, Medium and Long Term
+A buy signal from the short-term average is offset by a sell signal from the longer one. The shorter average also remains below the longer one, keeping their relationship negative. Support is at $150.64 and resistance at $195.23; breaking above resistance would turn the longer-term signal positive, while losing support would strengthen the negative picture.
+A pivot top on 23 Nov 2026 gives a sell signal, suggesting further downside until a new pivot bottom is established. The stock has moved -5.86% since that pivot top. The MACD momentum reading is negative on the 3-, 12- and 18-month charts.
+The decline attracted less volume, which may indicate easing selling pressure. This is relatively encouraging, but does not establish that the price has turned upward.
+There are encouraging individual signals, but they are not enough to outweigh the negative factors in the overall short-term technical assessment.
+The 21- and 100-period moving averages give sell signals at $177.78 and $209.09, respectively, with the shorter below the longer reinforcing the weakness. A break above either level would turn its signal positive.
+On the long-term chart, our unique Death Star signal dates from 11 Mar 2026. At 258 days old, it carries less weight; more recent signals are more relevant to the current outlook.
+Death Star — Long term
+Death Star is StockInvest.us’ unique bearish counterpart to Golden Star, highlighting the risk of further price declines. Its age of 258 days reduces its relevance compared with more recent signals.
+- Detected in NVDA on
+- Change to lowest price in first 90 days
+- -11.68%
+Historical price window: 11 Mar 2026–9 Jun 2026
+Explore Death Star signals
+The price is in the middle of a falling short-term trend, with a floor at $123.47 and a ceiling at $186.82. The channel still points to further weakness. The channel is very wide, so the range of possible outcomes is broad. Holding the current price or moving higher would gradually lift the forecast as the trend calculation incorporates new data. Individual buy signals can occur within a falling channel and do not, by themselves, confirm a trend reversal.
+The contrast is on the 12-month chart, where the trend still rises despite the shorter-term decline. Both the 12- and 18-month technical assessments are negative. These assessments weigh several indicators, so the channel direction alone does not determine their result.
+If the current short-term trend holds, the model projects a decline of -26.09% over the next three months, with a 90% probability range of $91.25 to $138.07 at the end of that period.
+Most analysts rate NVIDIA a Buy
+The overview covers 27 firms that published a recommendation in the 90 days through 24 Nov 2026, counting the latest from each firm. The contrast is clear between Wells Fargo’s Overweight and Wedbush’s Underperform.
+Over the 90 days through 24 Nov 2026, the latest targets from 19 firms ranged from $230.00 to $515.00 and averaged $339.00. That average is 118.17% above the last close of $155.38.
+Analyst recommendations
+23 Buy
+- Wells Fargo · Overweight
+- Bank of America Securities · Buy
+- RBC Capital · Outperform
+- Bernstein · Outperform
+- Goldman Sachs · Buy
+- Melius Research · Buy
+- Needham · Buy
+- UBS · Buy
+- Exane BNP Paribas · Outperform
+- Cantor Fitzgerald · Overweight
+- Rosenblatt · Buy
+- Raymond James · Outperform
+- Scotiabank · Outperform
+- Piper Sandler · Overweight
+- Evercore ISI · Outperform
+- DA Davidson · Buy
+- JP Morgan · Overweight
+- Truist Securities · Buy
+- Benchmark · Buy
+- Oppenheimer · Outperform
+- Mizuho · Outperform
+- Keybanc · Overweight
+- Evercore ISI Group · Outperform
+1 Hold
+- Deutsche Bank · Mixed
+3 Sell
+- Wedbush · Underperform
+- Morgan Stanley · Underweight
+- Citigroup · Cautious
+Trading Expectations for the Next Session (NVDA) — Wednesday, 25 November 2026
+Read the complete StockInvest.us technical commentary. Create a free account or sign in to reveal the analysis in this article.
+                        Want to trade but not sure how?
+                        
+                            Our step-by-step guide can help.
+                        
+                                                    
+Skip the guide? Open account with our trusted broker* 
+*Your capital is at risk
+                                            
+NVDA Performance
+The reference index represents the listing market.
+FAQ
+Click here for our free guide on how to buy NVIDIA Stock.

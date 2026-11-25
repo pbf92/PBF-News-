@@ -1,0 +1,34 @@
+URL: https://www.tradingview.com/news/benzinga:0c0ae763e094b:0-what-is-going-on-with-amd-stock-on-wednesday/
+TITLE: What Is Going on With AMD Stock on Wednesday?
+OUTLET: TradingView
+
+What Is Going on With AMD Stock on Wednesday?
+Advanced Micro Devices Inc. AMD stock fell more than 5% in Wednesday’s premarket trading as renewed congressional scrutiny of AI chip exports and national security concerns pressured semiconductor stocks.
+Congressional Scrutiny Weighs On Semiconductor Stocks
+U.S. lawmakers scheduled interviews with NVIDIA Corp. NVDA CEO Jensen Huang for Dec. 1 and NVIDIA General Counsel Tim Teter for Dec. 2 amid concerns surrounding AI chip exports and national security.
+CNAS expert Emily Kilcrease told CNBC on Wednesday that Huang’s return as NVIDIA CEO could support U.S. AI innovation but warned that chip smuggling and potential technology leakage to China could undermine America’s competitive advantage.
+She expects congressional scrutiny to uncover additional smuggling networks and urged stronger chip-tracking measures, while questioning the Trump administration’s emphasis on expanding AI chip sales over national security enforcement.
+Also Huang’s rebuttal of succession planning for NVIDIA did very little to reassure investors.
+The developments weighed on the broader semiconductor industry, with the iShares Semiconductor ETF SOXX and VanEck Semiconductor ETF SMH both declining approximately 4% Wednesday.
+Shares of NVIDIA, Intel Corp. INTC, Arm Holdings plc ARM, Broadcom Inc. AVGO, Marvell Technology Inc. MRVL and Taiwan Semiconductor Manufacturing Company Ltd. TSM also fell between 3% and 5%.
+Meanwhile, S&P 500 futures declined approximately 1.2%.
+Analysts Weigh Huang’s Return Against Governance Risks
+Bernstein analyst Stacy Rasgon and Roundhill Investments CEO Dave Mazza viewed Huang’s reinstatement as a positive development for NVIDIA, citing potential valuation recovery and renewed ETF inflows.
+However, Rasgon warned that ongoing investigations could constrain NVIDIA’s valuation.
+Corporate governance experts Charles Elson and Jeffrey Sonnenfeld also raised concerns about succession planning and board accountability.
+AMD’s Exposure To Nvidia And AI Infrastructure
+AMD develops processors and graphics chips for personal computers, gaming consoles, data centers, artificial intelligence, industrial applications and automotive systems.
+The company competes with NVIDIA in AI accelerators while maintaining indirect ties through shared customers and manufacturing infrastructure.
+Hyperscale data centers frequently deploy AMD’s EPYC server processors alongside NVIDIA GPUs.
+Both companies also rely on Taiwan Semiconductor Manufacturing Company for semiconductor fabrication and advanced packaging.
+These overlapping supply chains and customer relationships expose AMD to broader concerns surrounding AI infrastructure investments and U.S. semiconductor export policies.
+Technical Analysis
+AMD shares have gained 100.49% over the past 12 months despite the recent pullback.
+At $391.92, the stock trades approximately 21.3% below its 20-day simple moving average (SMA) of $497.84 and 28.8% below its 50-day SMA of $550.48.
+Shares also remain 9.3% below the 200-day SMA of $432, indicating weakness relative to both short-term and longer-term price trends.
+Analyst Ratings And Price Forecasts
+AMD carries a Buy consensus rating with an average analyst price forecast of $642.71.
+BofA Securities maintained its Buy rating and raised its price forecast to $700 on Nov. 12.
+RBC Capital maintained its Sector Perform rating and $540 price forecast on Nov. 12.
+William Blair upgraded AMD to Outperform on Nov. 12.
+AMD Price Action: Advanced Micro Devices shares were down 6.36% at $387.00 during premarket trading on Wednesday, according to Benzinga Pro data.Disclaimer Preview Photo Courtesy: Shutterstock.com

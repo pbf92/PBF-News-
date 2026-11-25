@@ -1,0 +1,18 @@
+URL: https://www.storyboard18.com/digital/metas-muse-ai-agent-strengthens-instagram-ad-business-through-shopping-activity-report-115423.htm
+TITLE: Meta's Muse AI agent strengthens Instagram ad business through shopping activity: Report
+OUTLET: Storyboard18
+
+Meta's AI agent Muse is helping the company strengthen its Instagram advertising business by encouraging users to revisit saved posts and complete purchases, CNBC reported. Although Muse currently operates without advertisements, its shopping features are improving the effectiveness of campaigns run by advertisers on Instagram.
+The social media company is using existing Instagram behaviour to encourage users to organise content they have saved through Muse. Around 20% of Instagram's daily active users save at least one post every day, according to a person familiar with the matter who spoke to CNBC on condition of anonymity. A significant share of these saved posts consists of advertisements and products available for purchase.
+A senior Meta executive told CNBC that Muse is contributing to the company's advertising business by helping advertisers generate more conversions. The agent makes it easier for consumers to return to products they have previously viewed, reducing obstacles between discovering an item and purchasing it.
+The executive said the tool enables advertisers to improve returns on their existing advertising expenditure by helping users through the shopping process.
+Shopping emerges as Muse's leading use case
+Meta CEO Mark Zuckerberg disclosed during the company's latest earnings call that shopping accounts for 25% of Muse usage, making it the most popular activity on the platform. He also said that the average purchase made through the agent exceeds $200.
+Zuckerberg indicated that Meta intends to collect a small fee on transactions completed through Muse, opening up another potential source of revenue for the company.
+The shopping activity also gives Meta access to information about consumer interests and purchasing preferences. Such insights could help the company make advertising on Instagram more targeted, while purchases completed through Muse could contribute directly to its transaction-based revenue.
+Meta leads agentic shopping transactions
+Muse has established a strong position in the emerging market for AI-assisted shopping. Data from e-commerce analytics and cybersecurity company Forter Intelligence showed that Meta's agent accounted for 51% of agentic orders during the week ended November 22.
+SpaceX's Grok followed with a 24% share, while OpenAI's ChatGPT accounted for 22%. Google and startup Instinct together made up the remaining 3%.
+Ads could eventually arrive on Muse
+Meta is expected to explore advertising within Muse in the future. However, people familiar with the company's plans told CNBC that there is currently no immediate financial pressure to introduce advertisements. The company generally prioritises building an audience before beginning monetisation.
+One possible approach would be to place advertisements within Muse's feed, which functions more like a conventional newsfeed than a system that only responds to individual user queries. This could offer Meta an opportunity to experiment with advertising on the platform.

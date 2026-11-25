@@ -1,0 +1,6 @@
+URL: https://www.tradingview.com/news/binance_news:37e6d3308094b:0-meta-uses-instagram-to-boost-advertising-through-muse-ai-agent/
+TITLE: Meta Uses Instagram to Boost Advertising Through Muse AI Agent
+OUTLET: TradingView
+
+Meta Uses Instagram to Boost Advertising Through Muse AI Agent
+According to CNBC, Meta is using Instagram to drive advertising value from its ad-free Muse personal AI agent by encouraging users to organize saved posts, many of which are shoppable items or ads. About 20% of daily Instagram users save at least one post each day, according to a person familiar with the matter. A senior executive said Muse helps increase advertiser conversions by making it easier for users to revisit products and shop. In Meta's last earnings call, Mark Zuckerberg said 25% of Muse users shop through the agent, its most common use, and the average purchase price exceeds $200. He said Meta plans to take a small fee from transactions on the platform. In the week ending Nov. 22, Muse accounted for 51% of agentic orders measured by Forter Intelligence, compared with 24% for SpaceX's Grok and 22% for OpenAI's ChatGPT; Google and Instinct accounted for the remaining 3%. Meta is expected to eventually introduce ads in Muse, though people familiar with the matter said the company is not under financial pressure to do so.

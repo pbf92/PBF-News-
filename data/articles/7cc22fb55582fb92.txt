@@ -1,0 +1,34 @@
+URL: https://www.eurekalert.org/news-releases/1153203
+TITLE: Few heart attack patients receive influenza vaccination despite guidelines
+OUTLET: EurekAlert!
+
+Influenza vaccination after a heart attack can reduce the risk of death during the following year. This has been shown in previous research from Sweden and international collaborations. A new Swedish study, published in The Lancet Regional Health – Europe, confirms these findings but also shows that only six per cent of patients who had not already been vaccinated received an influenza vaccine during their hospital stay.
+One of the researchers behind the new study is Ole Frøbert at Örebro University Hospital. He also led the international IAMI study, which showed that influenza vaccination in connection with a heart attack reduced the risk of death during the following year by 41 per cent.
+“In that study, the vaccine was administered in hospital before the patients were discharged. The results were published in 2021 and have since contributed to influenza vaccination of heart attack patients during the influenza season being given the highest Class of Recommendation (Class I) and the highest Level of Evidence (A) in international guidelines,” explains Ole Frøbert, consultant cardiologist in the Department of Cardiology, Respiratory Medicine and Clinical Physiology at Örebro University Hospital, professor at Aarhus University, and affiliated professor at Örebro University.
+Together with Sacharias von Koch, physician and researcher at Lund University, and colleagues from several Swedish hospitals, Ole Frøbert has now examined how well the recommendation is being followed in Swedish cardiac care.
+“When we look at mortality figures in routine Swedish healthcare, they are consistent with the results of our randomised study. This strengthens the reliability of the findings and shows that they are also relevant in everyday clinical practice,” he says.
+However, the study also shows that many patients are still not being offered the vaccine.
+“The fact that a treatment with a documented survival benefit and the highest recommendation class in international guidelines has still not been implemented as routine clinical practice is a serious indictment of Swedish cardiac care,” says Ole Frøbert.
+Lower mortality among vaccinated patients
+The researchers used data from the Swedish quality register SWEDEHEART and followed more than 12,000 patients who had been treated for a heart attack during four influenza seasons between 2021 and 2025. None of the patients had received that season’s influenza vaccine before being admitted to hospital.
+When the researchers compared patients with similar risk factors, mortality during the following year was 2.7 per cent among those who had been vaccinated and 4.9 per cent among those who had not. This means that vaccination was associated with a substantially lower risk of death.
+The results are close to those of the earlier IAMI study, in which the corresponding figures were 2.9 and 4.9 per cent.
+“The fact that we see such similar results in two different studies strengthens the evidence that influenza vaccination is an important part of care after a heart attack,” says Ole Frøbert.
+Few patients are offered vaccination
+Despite the recommendations, only 760 of the more than 12,000 patients received an influenza vaccine during their hospital stay, corresponding to around six per cent. Among those who were not vaccinated, 85 per cent had not even been offered the vaccine. Only 1.5 per cent declined.
+The researchers therefore argue that heart clinics need clearer procedures for checking patients’ vaccination status and offering vaccination to those who have not already received it.
+“We need to make better use of the opportunity to vaccinate patients while they are in hospital. It’s a simple way of providing protection that can have a significant impact on their health,” says Ole Frøbert.
+The vaccine should be administered during the hospital stay, before the patient is discharged. Annual influenza vaccination is then recommended. Side effects are usually mild and temporary.
+Facts
+The study “Influenza vaccination during hospitalization for myocardial infarction and 12-month all-cause mortality: a retrospective nationwide registry-based study” has been published in the scientific journal The Lancet Regional Health – Europe.
+The research is based on data from SWEDEHEART and national health registers.
+Journal
+The Lancet Regional Health - Europe
+Method of Research
+Observational study
+Subject of Research
+Not applicable
+Article Title
+Influenza vaccination during hospitalization for myocardial infarction and 12-month all-cause mortality: a retrospective nationwide registry-based study
+Article Publication Date
+20-Nov-2026

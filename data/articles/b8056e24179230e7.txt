@@ -1,0 +1,19 @@
+URL: https://theprint.in/feature/sepsis-antibioticsambulance-new-study/3108548/
+TITLE: Should sepsis patients get antibiotics in an ambulance? A new study has an unexpected answer
+OUTLET: ThePrint
+
+New Delhi: A new clinical trial conducted in Canada has concluded that administering antibiotics to patients with suspected sepsis in the ambulance before they reach the hospital does not significantly reduce their risk of death. The results have revived long-standing questions about whether starting treatment while in the ambulance offers any additional benefits over the care administered in the hospital’s emergency department.
+The ensuing study was published in JAMA on 24 November, in which researchers examined 2,048 adults with suspected sepsis across four ambulance services in Ontario. They found that 18 per cent of patients who received an antibiotic during transportation died within 90 days while in hospital, compared with 18.4 per cent of those receiving a placebo, a difference deemed statistically insignificant by the researchers.
+For context, sepsis is a life-threatening condition that occurs when the body’s response to infection causes organ function to break down. Early treatment with antibiotics is considered crucial to survival, particularly in severe cases, which is why it is commonly considered wise to administer treatments right in the ambulance and not wait till the patient reaches the hospital.
+Does earlier treatment improve odds of survival?
+The researchers conducted the PITSTOP-Antibiotics trial between March 2020 and August 2025, recruiting adults whose symptoms suggested sepsis, including suspected infection, fever and unusually low blood pressure.
+Participants were randomly assigned to receive either an injection of ceftriaxone, a broad-spectrum antibiotic, or a saline placebo during ambulance transportation. The antibiotic was administered much sooner than usual in this study to prevent ethical conflicts by giving treatment early rather than delaying it. Both groups still subsequently received standard hospital care.
+The patients all had a median age of 75, and approximately 57 per cent of them were men. Those receiving ceftriaxone were treated an average of 37 minutes after paramedics first arrived, approximately three hours earlier than the patients who received conventional treatments.
+“Yet this did not translate into differences in outcomes,” the researchers noted: 182 of the 1,009 patients in the antibiotic group died in hospital within 90 days, compared with 186 of 1,011 in the placebo group.
+The team also examined 17 secondary outcomes, including mortality, intensive care admissions and the need for mechanical ventilation or dialysis. None of these showed significant improvements that could be associated with administering antibiotics early.
+Also read: Marvel plans special tribute to Patrick Stewart after his final role in Avengers: Doomsday
+Why did it make no difference?
+The researchers questioned whether previous observational studies had mistaken early antibiotic administration for other aspects of care that improved patient outcomes, concluding that “there is no benefit to providing antibiotics 3 hours earlier than usual care”.
+An earlier randomised trial, known as PHANTASi, similarly found no mortality benefit from administering antibiotics in ambulances, despite examining patients with generally less severe illnesses.
+Adverse events were relatively uncommon in the latest trial but had in fact occurred more frequently among patients receiving ceftriaxone, at 6.2 per cent, compared with 1.5 per cent in the placebo group. Most involved pain at the injection site. The trial also could not rule out smaller but clinically important benefits, as it was not sufficiently detailed to detect them.
+(Edited by Ratan Priya)

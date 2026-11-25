@@ -1,0 +1,15 @@
+URL: https://www.tradingview.com/news/tradingview:5e58ccef08546:0-bullfrog-ai-announces-1-for-10-reverse-stock-split-to-address-nasdaq-compliance/
+TITLE: BullFrog AI Announces 1-for-10 Reverse Stock Split to Address Nasdaq Compliance
+OUTLET: TradingView
+
+BullFrog AI Announces 1-for-10 Reverse Stock Split to Address Nasdaq Compliance
+Less than 1 min read
+BullFrog AI announced a 1-for-10 reverse stock split intended to help regain compliance with Nasdaq’s minimum bid-price requirement.
+Key Highlights:
+- Split-adjusted trading is expected to begin November 30, 2026, under ticker BFRG and new CUSIP 12021E307.
+- Every 10 outstanding shares will combine into one; shares are expected to fall from 18,693,280 to approximately 1.88 million.
+- Fractional shares will be rounded up to one whole share, while authorized shares, par value and proportional ownership remain unchanged except for this treatment.
+- Options, warrants and other convertible securities, along with equity-plan share reserves, will be adjusted proportionately under their terms.
+- Nasdaq’s compliance deadline is February 8, 2027; the stock must close at or above $1.00 for at least 10 consecutive business days.
+Original SEC Filing: BullFrog AI Holdings, Inc. [ BFRG ] - 8-K - Nov. 25, 2026
+This is an AI-powered summary. It may contain inaccuracies. Consider verifying important information with the source. Please note this summary is solely based on documents filed with the SEC.

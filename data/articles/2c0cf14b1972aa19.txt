@@ -1,0 +1,16 @@
+URL: https://www.pcguide.com/news/unofficial-gta-6-pc-port-and-over-3000-repositories-taken-down-as-take-two-takes-action/
+TITLE: Unofficial GTA 6 PC port and over 3,000 repositories taken down as Take-Two takes action
+OUTLET: PC Guide
+
+Unofficial GTA 6 PC port and over 3,000 repositories taken down as Take-Two takes action
+It has just been over a week since GTA 6 launched on PS5 and Xbox Series X/S, and modders have already made some noticeable progress in getting the game to run on PC. However, Rockstar Games and its parent company, Take-Two Interactive, are now taking action against these unofficial projects, with one of the biggest efforts to bring GTA 6 to PC already shut down.
+🔥 More offers: see our Black Friday GTA 6 deals 2026 guide, updated daily, or browse all Black Friday deals.
+For those unaware, notorious GTA 6 leaker Cyberleek released an alleged 209GB Xbox build of the game shortly after its launch. While the build contained a large collection of game files, it was initially missing the main executable. However, Cyberleek released the missing file on Monday, allowing modders to make further progress with their unofficial PC ports.
+Black Friday is finally here. Below, you'll find some of the biggest and best deals from this year's most exciting sales event!
+Prices correct as of November 25th, 2026.
+Progress of unofficial PC ports for GTA 6
+One of the most popular projects that emerged following the leak was Leonida, led by a developer known as NotRexed. The project attracted a lot of attention from the community and was aimed at getting the Xbox version of GTA 6 to run natively on PC. However, its GitHub repository suddenly became inaccessible recently, and we now have confirmation that Take-Two was behind its removal.
+GitHub has published a DMCA takedown notice submitted by Take-Two’s intellectual property enforcement team. The company requested the removal of Leonida’s main repository along with thousands of copies of its code. According to GitHub, the takedown affected an entire network of 3,007 repositories.
+Interestingly, the developers behind Leonida did not distribute the leaked GTA 6 files themselves. Instead, the project required users to provide their own game files. However, Take-Two argued that this approach was intentionally misleading, pointing to the timing of the project’s creation and its reliance on the unauthorized Xbox build circulating online.
+Aside from the GitHub repository, Leonida’s Discord server was also taken down. Interestingly, NotRexed previously announced that he is stepping away from the project altogether. While Rockstar’s intervention contributed to his decision, he explained that managing the community alongside his personal commitments had also become increasingly difficult. However, he has now asked to “ignore” his other posts as “something’s coming soon.”
+That said, Leonida isn’t the only project working on an unofficial GTA 6 PC port. Other modders have reportedly managed to get the game’s opening scenes running on PC, although they are still dealing with graphical issues and poor frame rates. There’s still a significant amount of work left before these unofficial ports can offer a proper gameplay experience.

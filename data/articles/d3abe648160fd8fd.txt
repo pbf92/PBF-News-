@@ -1,0 +1,33 @@
+URL: https://www.fool.com/investing/2026/11/25/anthropic-stock-is-still-31-below-its-day-1-high-what-should-long-term-investors-do/
+TITLE: Anthropic Stock Is 31% Below Its Day 1 High. What Should Long-Term Investors Do?
+OUTLET: The Motley Fool
+
+By Neil Patel –
+Key Points
+- Growth is the key story, as Anthropic's revenue soared 1,127% year over year to $17 billion in Q3.
+- More than $900 billion in mostly non-cancelable computing commitments means demand must remain robust.
+- Anthropic is an impressive company, but there are a lot of unknowns investors have to grapple with.
+Anthropic (ANT -6.54%) just completed the largest, and perhaps most hotly anticipated, initial public offering (IPO) in history on Nov. 19. The maker of Claude, a leading family of artificial intelligence (AI) models, raised almost $120 billion in fresh capital (including the private placement). The deal was oversubscribed six times, which demonstrated strong investor appetite for the first publicly traded pure-play AI lab.
+Since the hype has worn off, the stock has gone on a losing streak. It's trading 31% below its first-day high of $115.10 (as of Nov. 24), although the overall market has held steady in recent days.
+What should long-term investors do? Is it smart to buy Anthropic not long after its IPO?
+Image source: Getty Images.
+Explosive growth and a real competitive advantage
+Anthropic builds Claude, a series of AI models that can write, reason, code, and increasingly complete tasks on their own. Unlike rival OpenAI, Anthropic earned most of its money from businesses from the start rather than consumers. More than half of the companies in the Fortune 500 are active customers.
+The business model is easy to grasp. Customers pay for what they use. Claude processes text in small chunks called tokens, and Anthropic bills by the token. These usage fees accounted for 79% of revenue during the nine months ended Sept. 30. Subscriptions accounted for the rest.
+And customers are using it a lot. Third-quarter revenue hit $17 billion, up a jaw-dropping 1,127% year over year. Customers generating at least $100,000 in annual revenue jumped to more than 11,900 from about 950 a year earlier. Agentic products like Claude Code, its AI coding assistant, are driving that expansion.
+No surprise, but management firmly believes the runway is enormous. Anthropic's IPO filing estimates the value of global knowledge work at more than $40 trillion per year. That isn't a sales forecast. But it shows the total addressable market if AI agents take on an increasing share of white-collar work.
+Growth alone doesn't make a company great. It comes down to durability. Investors should assess the company's expanding economic moat, which comes from two sources.
+The first is intangible assets. Anthropic's research know-how and safety training help Claude lead in high-value areas such as coding and cybersecurity, giving it pricing power.
+The second is a cost advantage. Training frontier models is incredibly expensive, keeping newcomers that lack the financial resources out of the game. Anthropic's software also spreads workloads across four types of AI chips, improving cost efficiency.
+The risks are just as big
+This growth comes with a staggering bill, a topic that gets a lot of press. Anthropic has committed more than $900 billion to lease computing capacity, spread over almost two decades. Those costs are non-cancelable.
+Revenue needs to keep pace. However, most customers can cut back with little notice, and the top five account for about 25% of revenue. If demand cools, the bills can lead to financial trouble.
+Anthropic also leans heavily on a handful of partners. Amazon (AMZN -1.21%) and Alphabet (GOOGL -1.08%) (GOOG -1.05%) supply much of its computing power and own nearly 30% of the company. Cloud marketplaces accounted for 44% of its sales through September. Yet they also compete with Anthropic in AI. The S-1 filing warns these ties could create conflicts of interest.
+Competition is the other threat. Alphabet's Gemini, OpenAI, and cheaper open-weight models, which are free to download and customize, from DeepSeek and Mistral target the same customers. Frontier leadership is always changing. If rivals catch up, AI models could become commodities with falling prices, which is a key risk.
+Valuation is next on the list. Even after the 31% slide since the Day 1 high, Anthropic trades at a price-to-sales ratio of 29.9. Based on the analyst community's average 2027 revenue forecast of $130.6 billion, the multiple drops to 8.
+Without question, Anthropic is an impressive business. But it's challenging to get comfortable when there still appears to be no margin of safety at the current stock price.
+Investors with a five- or 10-year time horizon should watch this exceptional company closely for now. Don't buy the IPO stock until there's more clarity about the variables involved.
+Where to invest $1,000 right now
+When our analyst team has a stock tip, it can pay to listen. After all, Stock Advisor's total average return is 796%* — a market-crushing outperformance compared to 200% for the S&P 500.
+They just revealed what they believe are the 10 best stocks for investors to buy right now, available when you join Stock Advisor.
+*Stock Advisor returns as of November 25, 2026.

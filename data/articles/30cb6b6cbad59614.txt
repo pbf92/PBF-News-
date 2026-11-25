@@ -1,0 +1,13 @@
+URL: https://www.macworld.com/article/3296218/anthropic-unveils-claude-powered-easy-button-for-making-mac-apps.html
+TITLE: Anthropic unveils Claude-powered easy button for making Mac apps
+OUTLET: Macworld
+
+Anthropic announced Tuesday that it is rolling out beta access to a new feature in Claude for Macs that allows users to save “artifacts” as apps. When a user creates an artifact app, it appears like a native Mac app that opens in its own window, rather than in the Claude app, essentially operating as an independent app. Artifact apps have their own icons and can be shared with others like normal Mac apps.
+Artifacts are projects that users create in Claude separately from the standard chat interface. Users can describe what they want their project to do, and Claude will create it. Users can adjust, edit, and tweak the design and functionality either manually or through conversations with Claude. They typically live inside a separate section in its sidebar for artifacts, and users typically use this space for creating things such as documents, graphics, code, and other projects. Artifacts are available on all Anthropic plans: Free, Pro, Max, Team, and Enterprise plans.
+Artifact apps can use Claude and its connectors, and they automatically update whenever someone with permissions makes changes. Apps can send notifications or add items to the Mac menu bar or system tray. However, any requests the artifact app makes count towards your plan’s usage limits. Anthropic shared a list of apps created by people at the company:
+- Vitals, a menu bar and tray app for peeking at your computer’s performance
+- Linnet, a full layered image editor
+- Phosphor, a file manager that looks made for a movie set
+- Sift, which sets up folder rules and uses Claude to keep your stuff organized
+- Tern, a terminal with Claude by your side to help and explain
+The artifact app creation beta is rolling out on all Claude plans but is not available to HIPAA-ready organizations and hybrid deployments. The Claude app is required to launch an artifact app.

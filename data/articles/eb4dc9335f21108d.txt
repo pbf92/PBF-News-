@@ -1,0 +1,21 @@
+URL: https://www.tradestation.com/insights/nasdaq-comeback-jensen-nvidia/
+TITLE: Nasdaq Rips: Another Trade War Comeback?
+OUTLET: TradeStation
+
+Technology was on pace for its worst month in decades. Then Jensen Huang returned to Nvidia.
+The sector jumped 9 percent, its biggest one-day gain since President Trump slashed tariffs on April 9, 2025. It's still down 9.5 percent in November, but was looking at a loss of 17 percent on Friday. (That would have been the sector's biggest one-month decline since February 2001.)
+NVDA's reversal was even more dramatic. The semiconductor stock rallied 31 percent, its biggest one-day advance since May 2003. It erased about half of a 39 percent drop for November, which would have been its worst month since the October 2008 subprime crash. Options volume hit a record near 11 million contracts, and NVDA's market cap gain of $952 billion was the largest in history.
+The moves follow a slide in technology stocks as investors worried about losing the executive who's largely built the AI ecosystem. His return also calmed fears about credit strains and the collapse of billions in circular financing.
+The rally also raises an important question: Are traders now facing a moment similar to the trade war of April 2025 or Iran war of March 2026? While history doesn't repeat, it can rhyme:
+- In all three cases, stocks fell on heavy pessimism despite strong earnings.
+- In all three cases, anxiety focused on external shocks.
+- In all three cases, Wilder's Relative Strength Index (RSI) hit oversold conditions on the S&P 500.
+- Stocks rallied to new highs after the first two events. They're still about 7 percent below recent highs now.
+Speaking of earnings, NVDA dropped last week despite profit and revenue beating estimates. Management also boosted revenue guidance for the next fiscal year. The stock additionally traded for about 8 times forward earnings last week, which Dow Jones said was the lowest in at least 15 years.
+Huge Changes in Sentiment
+Other indicators reflected big changes in sentiment.
+For example, the Nasdaq-100's Advance/Decline line jumped by 83, the most in a single session since May 27, 2025. That may reflect a sudden improvement in breadth.
+Last week, just 6 percent of the S&P 500's members managed to rise and only one company climbed at least 10 percent.
+Yesterday, only 16 percent of the S&P 500's members declined. There were no double-digit losers, but 34 companies rallied at least 10 percent.
+Last week, all 11 major sectors shed at least 2 percent of their value. Yesterday, nine sectors advanced and only one sector (energy) fell at least 1 percent.
+Options trading is not suitable for all investors. Your TradeStation Securities' account application to trade options will be considered and approved or disapproved based on all relevant factors, including your trading experience. See www.TradeStation.com/DisclosureOptions. Visit www.TradeStation.com/Pricing for full details on the costs and fees associated with options.
