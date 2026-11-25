@@ -1,0 +1,28 @@
+URL: https://www.eurekalert.org/news-releases/1152355
+TITLE: Mindfulness is linked to better mental health and more beneficial social media use
+OUTLET: EurekAlert!
+
+Mindfulness is associated with better mental health and with more beneficial patterns of social media use, according to a review published November 25, 2026, in the open access journal PLOS One by Marc Tibber and Charlotte Jones from University College London, United Kingdom.
+Between 2016 and 2026, the number of people who use social media jumped from 2.46 to 5.79 billion, and the average user spent 2.3 hours per day on social media and messaging apps. The heaviest users of this technology are teens and young adults, which has driven concern for the potential effects of social media use on mental health, and interested scientists in studying different factors that might affect both mental health and social media engagement. One of these factors is mindfulness, which can be defined as the ability to pay attention to the present moment with openness and awareness, including during social media use. To better understand the connection between mindfulness, mental health, and social media use, the authors of this study conducted a review and analysis of 43 studies with a total of 28,701 participants.
+Overall, 39 out of the 43 studies showed that mindfulness was associated with better mental wellbeing and/or healthier patterns of social media use. In some studies mindfulness was associated with less rumination, less comparison to others, and less fear of missing out (FoMo). More mindfulness was also linked to more positive patterns of social media use, including less compulsive use patterns. Some studies were also consistent with mindfulness playing a protective role in links between social media use and mental health.
+However, most of the studies included in the review were cross-sectional (33 of 43), while five were longitudinal and five were experimental. Although the findings generally indicate associations between mindfulness, better mental health, and healthier social media use, the available evidence does not establish that mindfulness causes improvements in mental health or changes in social media use. In addition, the studies were most often in White, Educated, Industrialized, Rich, and Democratic (WEIRD) samples, and study participants skewed young—average age of 23.7—with 46.5 percent using university students, and 34.9 percent in the general population, while another 18.6 percent used high school students.
+While the results are not causal, the authors suggest that mindfulness could be protective in the association between social media and mental health, and that mindfulness could be a useful target for potential intervention in supporting people to use social media in healthier ways.
+Dr Marc S Tibber, Lecturer in Clinical Psychology at University College London (UCL), adds: “Our findings support a move away from reductive questions about whether social media is inherently good or bad, towards an exploration of how complex interactions between individuals, technologies, and the broader social contexts in which they are embedded shape both the potential benefits and harms of social media for mental health. Specifically, the review suggests that mindfulness may play a protective role and, whilst further research is needed, its status as a trainable skill means it represents a potential target for interventions aimed at promoting healthier digital engagement.”
+“Our findings are consistent with my observations as a clinician as well as wider research and suggest that mindfulness may help people develop a healthier relationship with social media. By supporting people to notice their thoughts, feelings, and impulses without immediately acting on them, mindfulness may make it easier to step back from habitual reactions, direct attention more deliberately, and engage with social media in a more intentional way. This matters in an online environment where platforms are designed to attract and retain our attention. While formal practices such as meditation and yoga are great ways to cultivate mindfulness skills, simple practices that encourage people to pause before engaging and make more conscious choices about their online behavior may also be helpful.”
+Dr Charlotte A. Jones, Clinical Psychologist at the South London and Maudsley NHS Trust, adds: “I originally undertook this research as part of my clinical psychology doctorate thesis at UCL, and what really struck me was that when we updated the literature search in 2026, the number of papers in the field had doubled in three years. For me, this highlights growing interest in how, as a society, we might move towards using social media in ways that support rather than undermine our mental health. Since undertaking this research, I have also found discussions about mindful technology use with my clients really useful in my work with emerging adults.”
+In your coverage, please use this URL to provide access to the freely available article in PLOS One: https://plos.io/4zfkdFP
+Citation: Jones CA, Tibber MS (2026) Systematic review of quantitative studies exploring links between mindfulness, mental health, and social media use. PLoS One 21(11): e0337349. https://doi.org/10.1371/journal.pone.0337349
+Author countries: UK.
+Funding: The author(s) received no specific funding for this work.
+Journal
+PLOS One
+Method of Research
+Systematic review
+Subject of Research
+People
+Article Title
+Systematic review of quantitative studies exploring links between mindfulness, mental health, and social media use
+Article Publication Date
+25-Nov-2026
+COI Statement
+The authors have declared that no competing interests exist.

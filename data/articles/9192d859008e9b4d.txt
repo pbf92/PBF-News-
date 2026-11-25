@@ -1,0 +1,113 @@
+URL: https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/articles/domesticabuseprevalenceandtrendsenglandandwales/yearendingmarch2026
+TITLE: Domestic abuse prevalence and trends, England and Wales: year ending March 2026
+OUTLET: Office for National Statistics
+
+The statistics in this release are taken from the Crime Survey for England and Wales (CSEW) and police recorded crime. They refer to people aged 16 years and over, for year ending (YE) March 2026, unless otherwise stated.
+Our Domestic abuse in England and Wales overview article summarises our statistics on domestic abuse, while our Domestic abuse victim characteristics, England and Wales article provides detail about the characteristics of victims (for example, sex, age and ethnicity).
+Figure 1: The prevalence of domestic abuse increased significantly compared with the previous year
+Prevalence of domestic abuse in the last year for people aged 16 years and over, by perpetrator relationship, England and Wales, year ending (YE) March 2025 and YE March 2026
+Source: Crime Survey for England and Wales from the Office for National Statistics
+Download this chart Figure 1: The prevalence of domestic abuse increased significantly compared with the previous year
+Image .csv .xls
+Crime Survey for England and Wales
+The CSEW estimated that 9.6% of people aged 16 years and over (4.7 million) experienced domestic abuse in the last year.
+This was a statistically significant increase compared with the previous year (7.8%, 3.8 million) and was mainly the result of a significant increase in the prevalence of partner abuse in the last year (from 6.1% in YE March 2025 to 7.9% in YE March 2026).
+Our best assessment is that this increase includes real change. However, changes to the questionnaire and its implementation may have affected the scale of the increase. In addition, as a single year's data point, it is too early to say whether this increase will come to represent a new, higher level of prevalence.
+Around 24.6% of people (12.0 million) have experienced domestic abuse since the age of 16 years.
+Information on the terminology used in this release is available in Section 5: Definitions.
+Police recorded crime
+The police recorded 1,378,286 domestic abuse-related incidents and crimes in England and Wales. Of these, 824,854 were recorded as domestic abuse-related crimes.
+Police recorded crime data do not provide a measure of domestic abuse prevalence. Changes in police recording practices have affected the comparability of domestic abuse-related police recorded crime data over time.
+The number of domestic abuse-related crimes recorded by the police increased by 0.9% compared with YE March 2025.
+Statistical significance
+In this release, "significant" means "statistically significant" unless otherwise stated.
+Back to table of contents
+These statistics use data from the Crime Survey for England and Wales (CSEW) and police recorded crime.
+With these statistics, you can:
+- find estimates of the prevalence of domestic abuse from the CSEW
+- find the number of domestic abuse-related crimes the police have dealt with in England and Wales
+- examine domestic homicide data from the Home Office Homicide Index
+With these statistics, you cannot:
+- compare estimates derived from the new CSEW survey questions (used from year ending March 2024 onwards) with those derived from the previous survey questions
+- examine police recorded crime data in isolation as a measure of domestic abuse prevalence
+- compare police recorded crime trends over time because of changes in police recording practices
+Back to table of contents
+The statistics in this section are taken from the Crime Survey for England and Wales. They refer to people aged 16 years and over, for year ending (YE) March 2026.
+Domestic abuse in the last year
+An estimated 9.6% (around 4.7 million) of people aged 16 years and over had experienced domestic abuse in the last year. This is an increase compared with the YE March 2025 survey (7.8%; around 3.8 million people).
+Changes to the questionnaire and its implementation at the start of the survey year have likely affected the scale of this increase. While there is always uncertainty around survey estimates, our best assessment is that this increase also includes real change, rather than solely being the result of sampling uncertainty and question changes. As a single year's data point, it is too early to say whether this increase will come to represent a new trend at a higher level of prevalence.
+A higher percentage of people experienced domestic abuse by a partner or ex-partner (7.9%) than by a family member (2.8%) in the last year (Figure 1). When split by partner type:
+- 1.5% of people were victims of abuse by their current partner
+- 6.9% were victims of abuse by someone who was an ex-partner at the time of the interview
+Definitions of "current partner" and "ex-partner" are available in Section 5: Definitions.
+The increase in the prevalence of domestic abuse between YE March 2025 and YE March 2026 was mainly the result of a significant increase in partner abuse (7.9% compared with 6.1%). There was no significant difference in family abuse (2.8% in YE March 2026 compared with 2.7% in YE March 2025).
+The significant increase in partner abuse was caused by a significant increase in ex-partner abuse, from 5.0% to 6.9%.
+There were significant increases in domestic abuse prevalence for both males and females. Further analysis is provided in our Domestic abuse victim characteristics, England and Wales: year ending March 2026 article.
+There was a significant increase in prevalence for four of the eight abuse types experienced in the last year, compared with the previous year (Figure 2). The abuse types showing significant increases were:
+- emotional abuse
+- economic abuse
+- threats
+- domestic stalking
+Figure 2: Emotional abuse was the most prevalent abuse type for year ending March 2025 and year ending March 2026
+Prevalence of domestic abuse in the last year for people aged 16 years and over, by type of abuse, England and Wales, year ending (YE) March 2025 and YE March 2026
+Source: Crime Survey for England and Wales from the Office for National Statistics
+Download this chart Figure 2: Emotional abuse was the most prevalent abuse type for year ending March 2025 and year ending March 2026
+Image .csv .xls
+Domestic abuse since the age of 16 years
+An estimated 12.0 million people aged 16 years and over had experienced domestic abuse since the age of 16 years. This is a prevalence rate of approximately one in four people aged 16 years and over (24.6%, Figure 3).
+Figure 3: Approximately 1 in 4 people had experienced domestic abuse since the age of 16 years
+Prevalence of domestic abuse since the age of 16 years for people aged 16 years and over, by perpetrator relationship, England and Wales, year ending March 2026
+Source: Crime Survey for England and Wales from the Office for National Statistics
+Download this chart Figure 3: Approximately 1 in 4 people had experienced domestic abuse since the age of 16 years
+Image .csv .xls
+The abuse types experienced by the highest percentage of people were:
+- emotional abuse from a partner or family member (17.5%)
+- threats from a partner or family member (13.8%)
+- economic abuse from a partner or family member (11.6%)
+Split by relationship to the perpetrator:
+- 15.5% experienced emotional abuse from a current partner or ex-partner
+- 4.8% experienced emotional abuse from a family member
+Figure 4: Approximately 1 in 6 people experienced emotional abuse since the age of 16 years
+Prevalence of domestic abuse for people aged 16 years and over, by type of abuse, England and Wales, year ending March 2026
+Source: Crime Survey for England and Wales from the Office for National Statistics
+Download this chart Figure 4: Approximately 1 in 6 people experienced emotional abuse since the age of 16 years
+Image .csv .xls
+The statistics in this section are taken from police recorded crime, which are not designated as accredited official statistics. They refer to people aged 16 years and over, for year ending (YE) March 2026.
+The police recorded 1,378,286 domestic abuse-related incidents and crimes in England and Wales in YE March 2026. This was a small increase compared with the previous year (1,347,160).
+The number of domestic abuse-related incidents increased to 553,432 compared with 529,906 in YE March 2025. Domestic abuse-related crimes increased to 824,854 in YE March 2026, compared with 817,254 in YE March 2025.
+Police recorded crime data do not provide a measure of domestic abuse prevalence. Caution should be taken when comparing domestic abuse-related police recorded crime data with previous years because of changes in police recording practices.
+Figure 5: Domestic abuse-related incidents and domestic abuse-related crimes increased
+Domestic abuse-related incidents and crimes recorded by the police, England and Wales, year ending (YE) March 2016 to YE March 2026
+Source: Police recorded crime from the Home Office Data Hub
+Download this chart Figure 5: Domestic abuse-related incidents and domestic abuse-related crimes increased
+Image .csv .xls
+Domestic abuse-related crimes represented 15.8% of all offences recorded by the police.
+Figure 6: Around a third of violence against the person offences were identified as domestic abuse-related
+Percentage of offences recorded by the police that were identified as domestic abuse-related, England and Wales, year ending March 2026
+Source: Police recorded crime from the Home Office Data Hub
+Download this chart Figure 6: Around a third of violence against the person offences were identified as domestic abuse-related
+Image .csv .xls
+The police recorded 194,260 domestic abuse-related stalking and harassment offences (a subcategory of violence against the person), accounting for 23.6% of all domestic abuse-related crimes.
+Figure 7: The majority of domestic abuse-related stalking and harassment offences fell within the stalking subgroup
+Number of domestic abuse-related stalking and harassment offences recorded by the police, by offence, England and Wales, year ending March 2026
+Source: Police recorded crime from the Home Office Data Hub
+Download this chart Figure 7: The majority of domestic abuse-related stalking and harassment offences fell within the stalking subgroup
+Image .csv .xls
+Controlling or coercive behaviour
+The new domestic abuse questions on the Crime Survey for England and Wales (CSEW) provide substantial improvements in measuring controlling or coercive behaviours compared with the previous questions. However, the questions do not fully align with the offence definition and therefore cannot be used to calculate an estimate. More information can be found in our Evaluating a new measure of domestic abuse article.
+The police recorded 56,123 offences of coercive control in England and Wales in YE March 2026. Rises in coercive control offences over recent years may be attributed to improvements made by the police in recognising incidents of coercive control and using the Serious Crime Act 2015 law accordingly.
+Domestic homicide
+Analysis on data from the Home Office Homicide Index combines data for a three-year period to account for the year-to-year variability in the volume of homicides.
+There were 338 domestic homicides recorded by the police in the three-year period between YE March 2023 and YE March 2025. This represented 28.9% of all homicides where the victim was aged 16 years and over during this period.
+Back to table of contents
+Controlling or coercive behaviour
+Controlling behaviour is a range of acts designed to make a person subordinate and/or dependent by:
+- isolating them from sources of support
+- exploiting their resources and capacities for personal gain
+- depriving them of the means needed for independence, resistance and escape
+- regulating their everyday behaviour
+Coercive behaviour is a continuing act or a pattern of acts of assault, threats, humiliation and intimidation, or other abuse that is used to harm, punish or frighten the victim.
+Current partner
+A current partner is someone with whom the respondent was in an intimate relationship at the time of completing the Crime Survey for England and Wales (CSEW).
+Domestic abuse
+Domestic abu

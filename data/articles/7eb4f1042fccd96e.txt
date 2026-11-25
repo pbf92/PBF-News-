@@ -1,0 +1,16 @@
+URL: https://www.videogameschronicle.com/news/ubisoft-is-reportedly-requiring-developers-to-justify-not-using-generative-ai/
+TITLE: Ubisoft is reportedly requiring developers to justify not using generative AI
+OUTLET: VGC / IGN
+
+Ubisoft is reportedly asking developers pitching new games to outline how generative AI will be used in development.
+It is further claimed that if a developer does not want to use generative AI, they will have to justify why they won’t.
+That’s according to sources speaking to journalist Chris Kerr of Vertical Slice. They claim that Ubisoft wants its teams using generative AI to speed up game development times, but some are allegedly reluctant to use the tech.
+“The attitude shift among our leaders [means] we all feel cornered by generative AI all the time,” one source told Vertical Slice.
+Another source said that while this isn’t mandated, it is encouraged, because Ubisoft views AI in development as “unavoidable”.
+“If you planned on not using it, you would have to have a reason,” the source said.
+This report comes days after Ubisoft revealed that it has opened a new subsidiary dedicated to generative AI in game development. The new company, called Motherbrain, will work on ways of using “AI for gameplay innovation”.
+The team behind Motherbrain is made up of those who worked on Ubisoft’s AI game demo, Teammates.
+“We have also established Motherbrain, the team behind our first playable generative AI experience Teammates, as a dedicated subsidiary developing proprietary technologies for gameplay to empower creators and open up new possibilities for richer, more immersive and engaging player experiences,” Ubisoft CEO Yves Guillemot said on the studio’s founding.
+This coincided with another round of layoffs at Ubisoft, as part of the company’s ongoing reset. This started earlier this year, with more layoffs and multiple games being cancelled. That included the long-awaited Prince of Persia: The Sands of Time Remake, which appeared to be nearing a state in which it would have been ready to launch.
+Generative AI usage in game development remains a controversial topic. Instances of AI-generated art assets being found in-game have been met with widespread backlash, as we saw with Clair Obscur: Expedition 33.
+However, a new issue we are seeing come up increasingly is the use of AI in a game’s code. Big Walk developer House House admitted to using AI “sparingly” towards the end of the game’s development to address “difficult technical challenges and bugs” within the game’s code, which was also met with pushback.

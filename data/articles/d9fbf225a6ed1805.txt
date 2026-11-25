@@ -1,0 +1,97 @@
+URL: https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/articles/domesticabusevictimcharacteristicsenglandandwales/yearendingmarch2026
+TITLE: Domestic abuse victim characteristics, England and Wales: year ending March 2026
+OUTLET: Office for National Statistics
+
+The statistics in this release are taken from the Crime Survey for England and Wales (CSEW) and police recorded crime. They refer to people aged 16 years and over, for the year ending (YE) March 2026, unless otherwise stated.
+Our Domestic abuse in England and Wales overview article summarises our statistics on domestic abuse, while our Domestic abuse prevalence and trends, England and Wales article presents headline prevalence measures.
+Figure 1: A higher percentage of females than males were victims of domestic abuse in the last year
+Prevalence of domestic abuse in the last year for people aged 16 years and over, by sex and type of abuse, England and Wales, year ending March 2026
+Embed code
+Crime Survey for England and Wales
+According to the CSEW, 11.5% of females aged 16 years and over and 7.6% of males experienced domestic abuse in the last year. This is equivalent to 2.8 million females and 1.8 million males.
+There was a statistically significant increase in domestic abuse prevalence in the last year for both females and males in YE March 2026, compared with YE March 2025. Prevalence increased from 9.1% to 11.5% for females and from 6.5% to 7.6% for males.
+Our best assessment is that this increase includes real change. However, changes to the questionnaire and its implementation may have affected the scale of the increase. In addition, as a single year's data point, it is too early to say whether this increase will come to represent a new, higher level of prevalence.
+A significantly higher proportion of people aged 20 to 24 years were victims of domestic abuse in the last year, compared with those aged 25 years and over.
+Information on the terminology used in this release is available in Section 12: Definitions.
+Police recorded crime
+The police recorded that the victim was female in 71.6% of domestic abuse-related crimes, in YE March 2026.
+Police recorded crime data do not provide a measure of domestic abuse prevalence. Changes in police recording practices have affected the comparability of domestic abuse-related police recorded crime data over time.
+71.6% of victims of domestic homicide were female, compared with 10.7% of victims of non-domestic homicide between YE March 2023 and YE March 2025.
+Statistical significance
+In this release, "significant" means "statistically significant" unless otherwise stated.
+Back to table of contents
+These statistics use data from the Crime Survey for England and Wales (CSEW) and police recorded crime.
+With these statistics, you can:
+- view estimates of the prevalence of domestic abuse from the CSEW by victim characteristics
+- find domestic abuse-related police recorded crime data for England and Wales by victim characteristics
+- examine domestic homicide data from the Home Office Homicide Index by victim characteristics
+With these statistics, you cannot:
+- compare estimates derived from the new CSEW survey questions (used from year ending March 2024 onwards) with those derived from the previous survey questions
+- examine police recorded crime data in isolation as a measure of domestic abuse prevalence, as domestic abuse is often not reported to the police
+Back to table of contents
+Crime Survey for England and Wales
+The Crime Survey for England and Wales estimated that 11.5% of females and 7.6% of males aged 16 years and over experienced domestic abuse in the last year. This is equivalent to 2.8 million females and 1.8 million males.
+A significantly higher proportion of females were victims of domestic, partner and family abuse than males.
+Split by the different types of abuse, prevalence rates for females were significantly higher, compared with males for all abuse types (Figure 2).
+Figure 2: A higher percentage of females than males were victims of all domestic abuse types in the last year
+Prevalence of domestic abuse in the last year for people aged 16 years and over, by sex and type of abuse, England and Wales, year ending March 2026
+Embed code
+Domestic abuse prevalence in the last year was significantly higher in year ending (YE) March 2026 than in YE March 2025 for both females and males. Prevalence increased from 9.1% to 11.5% for females and from 6.5% to 7.6% for males.
+Partner abuse increased significantly in the last year, from 7.3% to 9.5% for females and from 4.9% to 6.3% for males. There were no significant changes in family abuse in the last year for females and males.
+The significant increase in partner abuse was attributable to a significant increase in abuse by an ex-partner, which increased from 6.2% to 8.6% for females and from 3.7% to 5.1% for males (Figure 3). For females, all types of abuse by an ex-partner increased significantly. For males, only emotional abuse increased significantly compared with YE March 2025.
+Figure 3: Ex-partner abuse was higher, compared with year ending March 2025
+Prevalence of abuse by an ex-partner in the last year for people aged 16 years and over, by type of abuse, England and Wales, year ending March 2025 and year ending March 2026
+Source: Crime Survey for England and Wales from the Office for National Statistics
+Download this chart Figure 3: Ex-partner abuse was higher, compared with year ending March 2025
+Image .csv .xls
+Police recorded crime
+Data supplied from 34 police forces showed that the victim was:
+- female in 71.6% of domestic abuse-related crimes
+- male in 28.4% of domestic abuse-related crimes
+This proportion was similar for most offence categories. However, for domestic abuse-related sexual offences, the proportion of female victims was 90.5%, compared with 9.5% for males (Figure 4). This pattern was similar to that seen in previous years.
+Figure 4: There were more female than male victims of domestic abuse-related crimes recorded by the police
+Percentage of domestic abuse-related offences recorded by the police, by sex of the victim and selected offence group, England and Wales, year ending March 2026
+Embed code
+Crime Survey for England and Wales
+Crime Survey for England and Wales estimates showed that a significantly higher proportion of people aged 20 to 24 years (13.8%) were victims of domestic abuse, compared with those in age categories of 25 years and over (Figure 5).
+In contrast, the proportion of people who were victims of domestic abuse, and who were aged 60 to 74 years (7.6%), or 75 years and over (3.6%), was significantly lower than people in age groups between 16 and 59 years.
+While the broad pattern hasn't changed, compared with year ending March 2025, domestic abuse significantly increased for people in age groups between 35 and 74 years (Figure 5). For all other age groups, the differences were not significant.
+Figure 5: A higher proportion of people aged 35 to 74 years were victims of domestic abuse in the last year, compared with the previous year
+Prevalence of domestic abuse in the last year for people aged 16 years and over, by age, England and Wales, year ending March 2025 and year ending March 2026
+Source: Crime Survey for England and Wales from the Office for National Statistics
+Download this chart Figure 5: A higher proportion of people aged 35 to 74 years were victims of domestic abuse in the last year, compared with the previous year
+Image .csv .xls
+The percentage of females who experienced domestic abuse in the last year was higher than the percentage of males for all age groups except for 16- to 19-year-olds, where there was no significant difference.
+Police recorded crime
+Data supplied from 33 police forces allow analysis for all police recorded violence against the person offences by sex. These data showed that for females in age groups between 20 and 44 years, over half of the offences (between 50.5% and 52.9%) were domestic abuse-related.
+Among domestic abuse-related crimes, there was a higher proportion of violence against the person offences with male victims in older age groups than in younger age groups.
+Figure 6: A higher proportion of violence against the person offences with female victims were identified as domestic abuse-related than those with male victims
+Proportion of violence against the person offences recorded by the police that were identified as domestic abuse-related, England and Wales, by age and sex of victims, year ending March 2026
+Embed code
+Estimates from the Crime Survey for England and Wales for year ending March 2026 show that a significantly higher proportion of people in the Mixed (13.5%) and White ethnic groups (10.4%) experienced domestic abuse in the last year, compared with those in the Black or Black British (7.5%), Asian or Asian British (4.9%), and Other ethnic groups (5.4%, Figure 7). There was no significant difference in the prevalence of domestic abuse in the last year between the Mixed and White ethnic groups.
+Figure 7: A higher proportion of those in the Mixed ethnic group were victims of domestic abuse, compared with those in the Black or Black British, Asian or Asian British, and Other ethnic groups
+Prevalence of domestic abuse in the last year for people aged 16 years and over, by ethnicity, England and Wales, year ending March 2026
+Source: Crime Survey for England and Wales from the Office for National Statistics
+Download this chart Figure 7: A higher proportion of those in the Mixed ethnic group were victims of domestic abuse, compared with those in the Black or Black British, Asian or Asian British, and Other ethnic groups
+Image .csv .xls
+The Crime Survey for England and Wales year ending March 2026 estimated that 4.5% of people aged 16 years and over experienced partner abuse by a male perpetrator in the last year, while 3.0% experienced partner abuse by a female perpetrator (Figure 8).
+Split by sex of victim, the prevalence of partner abuse among females was higher where the perpetrator was male (8.6%) than where the perpetrator was female (0.2%).
+The prevalence of partner abuse among males was higher where the perpetrator was female (6.0%) than where the perpetrator was male (0.3%).
+Estimates exclude victims who have had both male and female partners, as it is not possible to determine whether the perpetrator was male or female, or whether multiple perpetrators were of both sexes.
+Figure 8: Prevalence of partner abuse in the last year was higher among female victims where the perpetrator was male than among male victims where the perpetrator was female
+Prevalence of partner abuse in the last year for people aged 16 years and over, by sex of victim and sex of perpetrator, England and Wales, year ending March 2026
+Source: Crime Survey for England and Wales from the Office for National Statistics
+Download this chart Figure 8: Prevalence of partner abuse in the last year was higher among female victims where the perpetrator was male than among male victims where the perpetrator was female
+Image .csv .xls
+Crime Survey for England and Wales estimates showed that a significantly lower proportion of people who were married or in a civil partnership (5.9%, Figure 9) experienced domestic abuse in the last year than those who were either:
+- cohabiting (12.2%)
+- single (13.7%)
+- separated (22.6%)
+- divorced (17.6%)
+Marital status may have changed as a result of the abuse experienced.
+Figure 9: A lower proportion of people who were married or in civil partnerships were victims of domestic abuse than those with other marital statuses, except widowed people
+Prevalence of domestic abuse in the last year for people aged 16 years and over, by marital status, England and Wales, year ending March 2026
+Source: Crime Survey for England and Wales from the Office for National Statistics
+Download this chart Figure 9: A lower proportion of people who were married or in civil partnerships were victims of domestic abuse than those with other marital statuses, except widowed people
+Image .csv .xls
+A higher proportion of people who had experienced homelessness in their lifetime experienced domestic abuse in the last year (25.3%) than those who had never been homeless (8.9%), according to the Crime Survey for Englan

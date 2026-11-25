@@ -1,0 +1,72 @@
+URL: https://ppc.land/youtubes-free-phone-editor-now-stacks-video-text-and-sound-in-layers/
+TITLE: YouTube's free phone editor now stacks video, text and sound in layers
+OUTLET: PPC Land
+
+YouTube has added multi-track editing to YouTube Create, its free video editing app for phones, according to a Short published on November 24, 2026 on Creator Insider, the channel YouTube staff use to brief creators on product changes. Text, sound effects and overlay footage added to a project now sit on what the company calls "a clean, stacked timeline," where the main video, extra footage, captions and several audio tracks are visible at once.
+In Short
+YouTube Create, the free editing app YouTube makes for phones, now puts each part of a video - the main clip, extra clips laid over it, captions, text and sound - on its own row of the editing timeline instead of one strip. That matters to the creators who make Shorts and long videos on their phones, and to the brands that pay them, because the layered edits common in short videos can now be built inside YouTube's own app. YouTube has not said how many tracks fit, which devices or markets get the update first, or whether projects made before the update change.
+What YouTube said on November 24
+The announcement is brief. The Short is titled "New! Multi-Track Editing in YouTube Create," and its description carries the entire text of the update in three sentences. "You can now edit with YouTube Create... in multi-track!" it opens.
+The second sentence describes the layout. "Just update to the latest version of YouTube Create and text, sound effects, overlay footage - everything you add - sits on a clean, stacked timeline," the description reads. "You can see your main video, b-roll, captions, and multiple audio tracks all at once."
+B-roll, in editing terms, is the extra footage cut in over the main shot: a close-up of a product while a presenter keeps talking, for instance. Overlay footage is video placed on top of the main picture rather than between clips. On a single-strip timeline, these elements compete for the same space. On a stacked one, each gets its own horizontal row, and the rows run in parallel against the same clock.
+The third sentence lists three controls. "You can also drag to expand your timeline if you want more room to work, you can mute or hide individual tracks while you polish your cuts, and you'll get subtle vibrations for feedback as your clips snap right into place."
+That is the whole of the official description. By the evening of November 25, the Short had about 3,200 views, 362 likes and 92 comments.
+What the update covers
+Source: Creator Insider Short "New! Multi-Track Editing in YouTube Create," published November 24, 2026.
+How the stacked timeline works, according to YouTube
+According to YouTube, the process runs in seven steps. The second comes from the company's Help Center, the rest from the Short.
+- Update the app. The Short gives one condition for the new layout: the latest version of YouTube Create. It gives no version number.
+- Start a project. According to YouTube's Help Center page on starting a project, a creator opens the app, signs in to a YouTube account, taps the plus button on the home screen, picks photos or videos from the phone's gallery, and taps Import. Several images or videos can go into one project.
+- Add elements. Text, sound effects and overlay footage each land on the stacked timeline as they are added, on rows of their own.
+- View all layers. The main video, b-roll, captions and several audio tracks appear on screen at the same time.
+- Expand the timeline. Dragging enlarges the timeline area when more working space is needed.
+- Isolate tracks. Individual tracks can be muted, for audio, or hidden, for picture, while cuts are being refined.
+- Snap clips into place. The phone gives a small vibration when a clip snaps into position, a cue for alignment on a small screen.
+What else the app offers
+YouTube's product page for the app, "YouTube Create: Editing & Production Tools," is undated and does not yet mention multi-track editing. It presents the app as a way to "create, edit, and publish" videos "With filters, effects, transitions, and our large library of music," for both Shorts and long-form videos. Three claims sit under the heading "Take your videos to the next level": the app is "Easy to use," goes "Direct to YouTube," and is "Free of charge."
+The last claim matters for anyone weighing the app against paid editors. According to the page, creators can "Use the YouTube Create app at no cost, with no ads interrupting your editing flow." Publishing runs straight to the channel: the page says creators can "Seamlessly create, edit, and publish both Shorts and long-form videos directly to your channel."
+A carousel titled "Helpful tools for creating Shorts" lists six tools. Four carry an "AI powered" label.
+Source: YouTube for Creators, "YouTube Create: Editing & Production Tools," as of November 25, 2026. The page itself notes the app is "available in select markets."
+Where the app is available
+YouTube's Help Center lists 21 countries and regions where YouTube Create can be downloaded. It runs on Android phones with at least 4GB of RAM and on iPhone XR and newer models running iOS 17 or later.
+The Short does not say whether multi-track editing reaches all 21 markets, or both operating systems, at the same time.
+From one strip to many
+YouTube Create has been built up in stages. The app first appeared as an Android beta in September 2023. Until this update, it worked on a single editing timeline. According to PPC Land's coverage of the iPhone launch, creators could combine videos, photos and audio within one timeline, and export at 720p or 1080p at 30 frames per second in vertical, horizontal or square formats.
+That December 2025 article, written when the iPhone version arrived on December 15, also flagged the limits of the design. It listed multi-track editing among the advanced features that could set YouTube Create apart from competitors as development progressed, and noted that complex multi-layer compositions were hard to manage on small touchscreens. Eleven months later, the first of those two points has been addressed. Whether the second has been is something only creators working on phone screens can judge.
+Automation arrived before layering. In November 2025, YouTube introduced Edit with AI, which turns up to 25 videos and photos from a phone's camera roll into a first draft of a Short, in both the Shorts camera and the Create app on Android. The product page still marks that tool as available only in select locations.
+The next step is conversational. At Made on YouTube on September 23, 2026, the company showed an AI helper that edits phone clips when a creator describes the desired result in a chat with Gemini. PPC Land reported that the helper is due in Shorts and the YouTube Create app in early 2027, and that the manual timeline stays available alongside it. Multi-track editing is that manual timeline, now with more rows. An AI draft that places captions, music and overlays on separate tracks could be easier to correct by hand than one flattened into a single strip, although YouTube has not described how the two features will connect.
+Other parts of the Shorts workflow have moved in the same piecemeal way. Custom Shorts thumbnails began rolling out on July 25, 2026, after a two-year wait, but only through desktop uploads and without A/B testing.
+Why it matters for marketers
+Shorts, sponsored ones included, are commonly assembled from the same elements the announcement lists: a presenter speaking to camera as the main video, product shots as b-roll, captions for viewers watching with the sound off, and music under a voiceover. Until now, building that kind of edit in YouTube's own app meant working on a single strip. A stacked timeline brings the app closer to the layered timelines of third-party mobile editors such as ByteDance's CapCut and Meta's Edits.
+For YouTube, the incentive is control of the production chain. A creator who edits inside YouTube Create publishes directly to the channel, without exporting a file from another company's app. Every short-form video finished in YouTube's editor is one that did not pass through a rival platform's tools. Nothing in the Short makes that argument; it follows from the product page's own emphasis on publishing "directly to your channel."
+The practical stakes for brand work are narrower and more concrete. Sponsored segments in the creator economy often need overlays that can be adjusted late: a product name in text, a corrected price, a swapped logo, a disclosure label. On a layered timeline, such an element can be changed or hidden without rebuilding the cut underneath it. Whether YouTube Create's version is precise enough for client-approved work is not something three sentences in a Short can establish.
+What the announcement does not say
+The Short gives no maximum number of tracks, no version number, no rollout dates and no split between Android and iPhone. It does not say whether the feature is live in all 21 markets where the app can be downloaded, whether projects started before the update convert to the new layout, or whether export settings changed. As of November 25, YouTube's Help Center pages on the app and on starting a project made no mention of multi-track editing, and the product page had not been updated.
+Key facts
+- Product: YouTube Create, YouTube's free mobile video editing app for Shorts and long-form videos.
+- Feature: Multi-track editing, described as a "clean, stacked timeline."
+- Announcement: Creator Insider Short "New! Multi-Track Editing in YouTube Create," published November 24, 2026, https://www.youtube.com/shorts/_1fZ75_2Y4Y
+- Requirement stated: The latest version of YouTube Create (no version number given).
+- Elements on the timeline: Main video, b-roll, captions, multiple audio tracks, text, sound effects, overlay footage.
+- Controls: Drag to expand the timeline; mute or hide individual tracks; vibration feedback when clips snap into place.
+- Product page: "YouTube Create: Editing & Production Tools | YouTube for Creators," undated, https://www.youtube.com/creators/create/youtube-create-app/
+- Availability: 21 countries and regions, according to YouTube's Help Center; Android phones with at least 4GB of RAM; iPhone XR or newer on iOS 17 or later.
+- Price: Free, without ads, according to YouTube.
+- Scheduled next: Conversational editing with Gemini, due in Shorts and YouTube Create in early 2027.
+Timeline
+- September 2023 - YouTube Create launches as an Android beta
+- November 2025 - YouTube introduces Edit with AI, building Shorts drafts from up to 25 camera-roll items
+- December 15, 2025 - YouTube Create arrives on iPhone, still with a single editing timeline
+- July 25, 2026 - Custom Shorts thumbnails begin rolling out, desktop only and without A/B testing
+- September 23, 2026 - Made on YouTube previews conversational editing with Gemini for Shorts and YouTube Create
+- November 24, 2026 - Creator Insider Short announces multi-track editing in YouTube Create
+- November 25, 2026 - Product page and Help Center pages still make no mention of multi-track editing
+- Early 2027 - Conversational editing with Gemini scheduled to reach Shorts and YouTube Create
+Related PPC Land coverage
+- YouTube Create finally arrives on iPhone after year-long Android exclusivity - The December 2025 iPhone launch, with the app's feature list, export formats and device requirements at the time.
+- YouTube launches Edit with AI for automated Shorts creation - The November 2025 tool that assembles a first draft from camera-roll clips.
+- YouTube will let creators edit Shorts by chatting with Gemini in early 2027 - The conversational editor shown at Made on YouTube 2026, due in Shorts and YouTube Create.
+- YouTube ends 2-year wait for Shorts thumbnails but blocks A/B testing - Custom Shorts thumbnails, rolled out through desktop uploads in July 2026.
+Summary
+Who: YouTube, through its Creator Insider channel, and the creators who use YouTube Create, its free phone editing app.
+What: YouTube Create now has multi-track ed

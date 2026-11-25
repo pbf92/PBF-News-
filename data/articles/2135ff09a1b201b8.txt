@@ -1,0 +1,9 @@
+URL: https://news.instant-gaming.com/en/articles/23212-gta-vi-seems-to-be-overheating-some-ps5s
+TITLE: GTA VI seems to be overheating some PS5s
+OUTLET: Instant Gaming News
+
+GTA VI seems to be overheating some PS5s
+, by Thibaut
+Despite several patches recently released by Rockstar Games, GTA VI is still causing various technical issues on the PS5. While the usual crashes are still common, another, far more concerning problem has been reported.
+In fact, a streamer named JoJoJosiah had to temporarily stop streaming the game because his PS5 was smoking. Australian streamer shivjam experienced the same thing and also claimed that her console’s GPU had died. Other Twitch partners like xQc and IShowSpeed have also been plagued by repeated crashes. They even lost their progress.
+On forums like Reddit, several users reported experiencing this malfunction. Finally, on the social media platform X, modyfikator89 revealed that his PS5’s power consumption reached 220 W while GTA VI was running without any specific in-game actions being performed. When the game was closed, the console consumed only 67 W.

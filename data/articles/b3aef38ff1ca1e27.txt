@@ -1,0 +1,13 @@
+URL: https://www.notebookcheck.net/GTA-6-game-dump-runs-on-PS5-console-jailbreak-boosting-piracy-and-PC-emulator.1460007.0.html
+TITLE: GTA 6 game dump runs on PS5 console jailbreak, boosting piracy and PC emulator
+OUTLET: Notebookcheck
+
+Homebrew enthusiasts and piracy groups are eyeing another way to play Rockstar’s new title. A game dump of the GTA 6 PS5 version is reportedly running via a console jailbreak. While the hack is only compatible with older firmware, it could also make the crime adventure bootable in a PC-based emulator.
+Patience rewarded?
+Before the GTA 6 release date, reports emerged of a game dump accomplished on firmware 14.22. Unfortunately, the popular Relapse kernel exploit only works up to 13.60. Some homebrew fans choose to wait, denying themselves the retail Rockstar build. It appears that their patience has paid off.
+On November 25th, multiple videos surfaced of the alleged game dump running on a PS5 jailbreak. One clip depicted a car driving through dark Leonida streets. Other footage showed the title installed on the console’s dashboard and the debug menu, identifying firmware 11.60.
+Redditors have since verified that the leaked files are being shared on piracy networks. The massive 540 GB download contains the decrypted eboot.bin, which is similar to an .exe file. It also includes the vital sce_sys PlayStation system information folder and assets.
+It’s unclear how hackers managed to boot GTA 6 on firmware 11.60, when the retail version requires 14.23. It’s also not yet confirmed whether it’s an option for PS5 jailbreaks with software update 13.60. Regardless, it’s another troubling development for Take-Two Interactive and Rockstar.
+A new pathway to a PC version
+Recently, Cyberleek returned and distributed a full Xbox build. Because consoles and PCs share the x86-64 CPU architecture, individuals immediately began adapting the files for Windows. The game is already partially playable, though framerates are seriously compromised. This progress prompted Take-Two to shut down Discord servers and issue DMCA takedowns for GitHub repositories.
+The GTA 6 PS5 game dump on a jailbroken PlayStation could also bring the Rockstar project to PCs. One potential solution is the KytyPS5 emulator, available on Windows and Linux. The program supports folder structures with eboot.bin files, like those now spreading on piracy sites. Nevertheless, considerable work remains to stream assets correctly and achieve acceptable performance.

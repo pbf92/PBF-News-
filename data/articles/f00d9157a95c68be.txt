@@ -1,0 +1,19 @@
+URL: https://uk.finance.yahoo.com/news/wall-street-futures-fall-nvidia-141428523.html
+TITLE: Wall Street Futures Fall as Nvidia Reverses Gains and Tariff Concerns Resurface: Dow Jones, S&P, Nasdaq
+OUTLET: Yahoo Finance UK
+
+US equity futures declined on Tuesday as investors reassessed the previous session's substantial gains, with renewed weakness in technology shares and reports of potential tariff increases weighing on market sentiment.
+The decline followed the strongest daily performance for the S&P 500 and Nasdaq Composite since April 2025, after Nvidia (NASDAQ:NVDA) announced the reinstatement of founder Jensen Huang as its chief executive officer.
+Uncertainty surrounding the sustainability of the technology sector recovery was compounded by a Wall Street Journal report that the US was preparing to raise tariffs on China and dozens of other countries, according to people familiar with the plans.
+As of 08:30 ET (13:30 GMT), Nasdaq 100 futures were down 2.2%, S&P 500 futures had declined 1.3% and Dow Jones futures were trading 0.7% lower.
+Technology Recovery Faces Renewed Selling Pressure
+Monday's gains brought an end to seven consecutive trading sessions of losses for the S&P 500, with technology and semiconductor companies recovering from recent declines.
+However, analysts remain uncertain whether the rebound signals a broader market recovery or a temporary improvement in investor sentiment.
+"If what the markets witnessed yesterday wasn't a clearing event, we do not know what is," analysts at Lynx Equity Strategies said in a research note.
+Concerns over technology company valuations, the scale of artificial intelligence investment and the outlook for US interest rates remain relevant factors for investors assessing the market's direction.
+Nvidia Falls Nearly 6% in Premarket Trading
+Nvidia shares retreated nearly 6% ahead of Tuesday's opening bell, following a 31.5% increase to US$165.05 during Monday's session.
+The previous session's advance added more than US$950 billion to Nvidia's market value and represented its largest single-day percentage gain since 2003.
+The semiconductor manufacturer's board reinstated Huang as president and chief executive officer less than two weeks after his departure, following pressure from President Donald Trump.
+"Imagine a scenario where you're perceived to be so important to a company that your stock increases nearly a trillion dollars on a day that you're reinstated as CEO. That sums up the last 24 hours," analysts at Deutsche Bank said in a note.
+Huang's return helped ease concerns surrounding Nvidia's executive leadership and supported a wider recovery among companies exposed to artificial intelligence investment.

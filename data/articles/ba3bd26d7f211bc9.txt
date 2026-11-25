@@ -1,0 +1,20 @@
+URL: https://finance.yahoo.com/technology/ai/articles/cheesecake-labs-named-select-partner-145000006.html
+TITLE: Cheesecake Labs Named Select Partner in Anthropic's Claude Partner Network
+OUTLET: Yahoo Finance
+
+The promotion recognizes Cheesecake Labs' production experience implementing Claude for clients, as well as its use of Claude and Claude Code across its own software engineering workflows.
+SAN FRANCISCO, Nov. 24, 2026 /PRNewswire/ -- Cheesecake Labs, a software engineering firm, has been promoted to the Select tier of the Services Track in Anthropic's Claude Partner Network.
+Anthropic created the Services Track to help organizations identify firms with experience implementing Claude in business environments. Among the published Select requirements are active Claude-certified practitioners and joint customers with Claude deployed in production within the last 12 months.
+One example of this is Cheesecake Labs's work with Knapsack, where the firm helped implement backend infrastructure designed by Knapsack to support its Claude-powered AI agents for financial-services workflows.
+For a global research and intelligence organization, Cheesecake Labs used Claude and Claude Code across planning, development, testing, and code review to rebuild a research portal and launch a mobile app. The team achieved full feature parity on mobile in just three weeks, compared with the three to four months typically required for similar builds.
+Cheesecake Labs also uses Claude and Claude Code in its own delivery work, with engineers approving every change before it ships. The company works with engineering and technology leaders across AI implementation, application modernization, data and analytics, and product engineering.
+"Most companies we talk to have already run a Claude pilot. What stalls is everything after it is connecting Claude to real systems and data, testing it against the cases that matter, and setting the controls the business needs," said Marcello Gracietti, CEO of Cheesecake Labs. "Reaching Select recognizes the production work our team has delivered for clients, and we're just getting started."
+For more information, click here.
+About Cheesecake Labs
+Cheesecake Labs is a software engineering firm with offices in San Francisco and Florianópolis, Brazil. It helps companies modernize legacy systems, build products and put AI into production, and has designed, built and scaled more than 300 business-critical applications for clients ranging from high-growth startups to Fortune 500 companies. Learn more at cheesecakelabs.com.
+Media Contact
+Name: Amanda Veloso
+Title: Head of Marketing
+Company: Cheesecake Labs
+Email: amanda.veloso@cheesecakelabs.com  
+View original content:https://www.prnewswire.com/news-releases/cheesecake-labs-named-select-partner-in-anthropics-claude-partner-network-302949406.html

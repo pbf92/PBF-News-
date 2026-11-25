@@ -1,0 +1,20 @@
+URL: https://superpowerdaily.com/posts/anthropic-schedules-december-9-webinar-on-securing-ai-agents-beyond-human-approval
+TITLE: Anthropic schedules December 9 webinar on securing AI agents beyond human approval
+OUTLET: Superpower Daily
+
+Anthropic schedules December 9 webinar on securing AI agents beyond human approval
+The session will cover restricted access, independent AI reviewers and action monitoring, starting from Anthropic’s assumption that any single safeguard can fail.
+Loading page…
+Listen to this story
+Anthropic’s December 9, 2026 webinar will lay out a layered security approach for agents with real access: constrain permissions, apply risk-tiered review, and monitor every action rather than treating human approval as the sole safeguard. The agenda also addresses how the company uses AI in its own engineering, including its figure that AI authored 80% of merged code; Anthropic presents this as its own engineering statistic, alongside practices teams can adapt—not as evidence that automated review removes the need for human oversight.
+The session is scheduled for 10:00–11:00 AM PT and features John Lopus and Liam Plambeck.
+Anthropic identifies overreach, hijacking, and misuse as risks of giving agents real access.
+Proposed controls include sandboxes, egress allowlists, and single-purpose agent identities.
+On December 9, 2026, from 10:00 to 11:00 AM PT, Anthropic will hold an online webinar about securing AI agents when human approval alone is not enough. Readers can register through the official event page for “How Anthropic secures its agents,” featuring John Lopus and Liam Plambeck.
+The session will examine security in Anthropic’s products and internal engineering, then turn those principles into steps attendees can apply to their own agents.
+The confirmed agenda starts with three problems Anthropic says come with giving an agent real access: overreach, hijacking and misuse. Its response combines safeguards within the model, controls operated by the organization using it, and monitoring of what the agent does.
+The monitoring portion carries a broad recommendation: send every agent action to the organization’s security monitoring system, or SIEM, and treat unusual behavior as insider risk. Anthropic’s wording covers actions, not merely the agent’s final output.
+Loading discussion...
+Join the conversation
+Explain where you would be comfortable letting automated review stand on its own.
+Be the first to share a perspective or an experience.

@@ -1,0 +1,24 @@
+URL: https://www.nature.com/articles/d41586-026-03872-9
+TITLE: Rare gene variants can affect a person’s height by up to 17 centimetres
+OUTLET: Nature News
+
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+and JavaScript.
+Rare mutations that prevent proteins from functioning can have a surprisingly large effect on people's height, researchers have found.
+An analysis of more than 1.4 million people’s protein-coding DNA has identified hundreds of genes that affect people’s height. The work also uncovers previously unrecognized biological mechanisms that underly human growth.
+The findings, published on 25 November in Nature1, might help with the development of treatments that mitigate height changes caused by some medical conditions, such as forms of dwarfism
+“The impact these genes have on any given individual can be massive in terms of accurately predicting their height or making sure they’re getting the right treatment for a disease,” says Adam Locke, a statistical geneticist at the Regeneron Genetics Center in Tarrytown, New York.
+Rare variant, big impact
+About 80–90% of variation in adult height is caused by genetics. Projects analysing common gene variants have mapped thousands of DNA changes that can influence height. For example, a 2022 study identified more than 12,000 common genetic variants that collectively accounted for 40% of height variation in populations with European ancestry2.
+However, how rare genetic variants (those found in less than 1% of a population) affect people’s height is less well studied.
+To systematically probe how rare variants contribute to people’s stature, Locke and his colleagues gathered DNA and height data. In total, they looked at sequencing data from more than 1.4 million adults. They analysed the protein-coding sections of DNA and ran a series of tests to spot non-random links between height and both common and rare gene variants.
+The analysis uncovered rare variants in 207 genes, which, on average, were linked to a height difference of about two centimetres. The team also identified 17 genes that had a particularly strong effect on height. The variants associated with this gene set all resulted in the production of non-functional proteins. In the study, over 700 people had at least one of these loss-of-function variants.
+Individuals carrying such a variant were, on average, about nine centimetres taller or shorter than were people who didn’t have that variant. The strongest effects included a 17-centimetre reduction in height associated with a change to the ACAN gene and an 11-centimetre increase linked to the FBN1 gene. These effect sizes are more than 50 times larger than those of most genes commonly associated with height.
+“We would expect rare genetic variants that disrupt gene function to have larger effects than common genetic variants, but the magnitude of some of these effects is particularly striking,” says Andrew Wood, a statistical geneticist at the University of Exeter, UK.
+Clinical applications
+Enjoying our latest content?
+Log in or create an account to continue
+Access the most recent journalism from Nature's award-winning team
+Explore the latest features & opinion covering groundbreaking research

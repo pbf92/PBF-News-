@@ -1,0 +1,111 @@
+URL: https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/bulletins/domesticabuseinenglandandwalesoverview/november2026
+TITLE: Domestic abuse in England and Wales overview: November 2026
+OUTLET: Office for National Statistics
+
+To understand domestic abuse in England and Wales, it is important to look at a range of data sources from across the criminal justice system. The statistics in this release come from the Crime Survey for England and Wales (CSEW), police recorded crime and other organisations.
+Figure 1: Domestic abuse data from incident to conviction
+England and Wales, year ending March 2026
+Embed code
+This article summarises statistics presented in our:
+- Domestic abuse prevalence and trends, England and Wales: year ending March 2026 article
+- Domestic abuse victim characteristics, England and Wales: year ending March 2026 article
+Crime Survey for England and Wales
+According to the CSEW for year ending (YE) March 2026, approximately 4.7 million people aged 16 years and over (9.6%) experienced domestic abuse in the last year, consisting of an estimated 2.8 million females (11.5%) and 1.8 million males (7.6%).
+In the survey year ending March 2026, there was a statistically significant increase in the prevalence of domestic abuse experienced in the last year, compared with the previous year’s survey (3.8 million, 7.8%).
+Our best assessment is that this increase includes real change. However, changes to the questionnaire and its implementation may have affected the scale of the increase. In addition, as a single year’s data point, it is too early to say whether this increase will come to represent a new, higher level of prevalence.
+Information on the terminology used in this release is available in Section 8: Definitions.
+Criminal justice system in England and Wales
+The police recorded 824,854 domestic abuse-related crimes in England and Wales in YE March 2026. This was an increase compared with the previous year, when 817,254 crimes were recorded.
+Police recorded crime data do not provide a measure of domestic abuse prevalence. Changes in police recording practices have affected the comparability of domestic abuse-related police recorded crime data over time.
+The police made 45.9 arrests per 100 domestic abuse-related recorded crimes in YE March 2026. This was up from 44.0 in YE March 2025 for the 42 police forces that supplied arrests data in both years.
+The number of referrals of suspects of domestic abuse-related cases from the police to the Crown Prosecution Service for a charging decision increased by 7.0%, to 81,776, in YE March 2026.
+There were 61,104 domestic abuse-related prosecutions in YE March 2026, compared with 54,987 in YE March 2025.
+Statistical significance
+In this release, “significant” means “statistically significant” unless otherwise stated.
+Back to table of contents
+These statistics use data from the Crime Survey for England and Wales (CSEW), police recorded crime and other organisations.
+With these statistics, you can:
+- find domestic abuse data for each stage of the criminal justice system, from incident to conviction
+- find CSEW data, our preferred data source for understanding the prevalence of domestic abuse in England and Wales
+- find the number of domestic abuse-related crimes the police have dealt with in England and Wales
+With these statistics, you cannot:
+- compare estimates derived from the new CSEW survey questions (used from year ending March 2024 onwards) with those derived from the previous survey questions
+- follow specific domestic abuse cases through each stage of the criminal justice system
+- compare data at different stages of the criminal justice system, because, depending on the data sources used, the statistics may refer to victims, offences, suspects and/or offenders
+- examine police recorded crime data in isolation as a measure of domestic abuse prevalence, as domestic abuse is often not reported to the police
+- examine Crown Prosecution Service (CPS) data as a count of individuals, because one person could be involved in several sets of proceedings during the same year, meaning they are counted as a suspect or defendant on each occasion
+- directly compare data on pre-charge decisions with data on the number of prosecutions, because CPS data on prosecutions cover domestic abuse-related cases, by suspect or defendant, finalised during each year
+Back to table of contents
+Figure 2: Approximately 4.7 million people aged 16 years and over experienced domestic abuse in the last year
+Prevalence of domestic abuse in the last year for people aged 16 years and over, England and Wales, year ending March 2026
+Embed code
+The year ending (YE) March 2026 Crime Survey for England and Wales estimated that approximately 12.0 million (24.6%) people aged 16 years and over had experienced domestic abuse since the age of 16 years. Information on the terminology used in this release is available in Section 8: Definitions.
+An estimated 4.7 million (9.6%) people aged 16 years and over had experienced domestic abuse in the last year. Of these, 2.8 million were female and 1.8 million were male.
+Approximately 3.9 million (7.9%) people experienced abuse by a partner or ex-partner and 1.4 million (2.8%) experienced abuse by a family member.
+Compared with YE March 2025, there were significant increases in prevalence rates for:
+- domestic abuse (overall)
+- partner abuse
+The increase in prevalence was the result of significant increases in prevalence rates of abuse by an ex-partner compared with the previous year, among both males and females.
+Back to table of contents
+Figure 3: The police recorded approximately 1.4 million domestic abuse-related incidents and crimes in year ending March 2026
+Number of domestic abuse-related incidents and crimes recorded by the police, England and Wales, year ending March 2026
+Embed code
+The police recorded 824,854 domestic abuse-related crimes in England and Wales in year ending (YE) March 2026; an increase compared with the previous year (817,254). This was a smaller increase compared with previous years. Data suggest that improvements in police recording practices are having a smaller effect than that seen in the last 10 years.
+Domestic abuse-related crimes represented 15.8% of all notifiable offences recorded by the police in the last year.
+71.6% of all victims of domestic abuse-related crimes in the last year were female. This follows the same trend as previous years.
+How are domestic abuse incidents treated?
+Domestic abuse-related incidents cover reports where, after initial investigation, the police have concluded that no notifiable crime was committed. Incidents of domestic abuse that result in a crime being recorded by the police are included in data on domestic abuse-related crimes.
+Incidents can be added to domestic abuse-related crimes to create a total picture of the demand that domestic abuse puts on the police.
+Read more about how an incident is defined in Section 8: Definitions.
+When does an incident become a crime?
+When the incident is reported, if it is concluded that an offence has occurred, the police may record the matter as a domestic abuse-related crime immediately, without first recording an incident.
+Once the police have recorded a crime, they may arrest a suspect. His Majesty's Inspectorate of Constabulary and Fire and Rescue Services collect data from police forces on arrests, bails and voluntary attendances for domestic abuse-related crimes.
+Police recorded crime and outcomes data from the Home Office are classified as official statistics. More quality and methodology information (QMI) is available in our Domestic abuse QMI.
+Back to table of contents
+Figure 4: The number of suspects in domestic abuse-related cases that were referred by the police to the Crown Prosecution Service was 81,776
+Domestic abuse crime suspects referred to the Crown Prosecution Service, England and Wales, year ending March 2026
+Embed code
+Following an investigation and assembling evidence, the police may refer a case to the Crown Prosecution Service (CPS) for a charging decision.
+There were 81,776 referrals of suspects of domestic abuse-related cases from the police to the CPS for a charging decision in England and Wales in year ending (YE) March 2026, compared with 76,393 the previous year. This is the fourth year-on-year increase.
+Direct comparisons between police recorded crime data and CPS data cannot be made.
+Other possible outcomes following police investigation are:
+- no further action is taken (for example, because of evidential difficulties or the offender has died)
+- the case is transferred to another police force area
+- the suspect receives out-of-court resolution, such as a conditional caution
+- the crime report is cancelled
+- no suspect is identified
+Will the Crown Prosecution Service pursue a case even if the victim does not support it?
+Some victims may decide not to, or be unable to, support the police in action being taken against the suspected offender. Although this often means that it is more difficult for any further action to be taken by the police, the case will continue to move forward, if possible.
+Such evidence-led prosecutions are an option considered by the police and the CPS. In these cases, suspects can still be subject to trial, even when a victim does not appear in court as a witness.
+Back to table of contents
+Charging rate
+The charging rate is the number of suspects in Crown Prosecution Service (CPS) domestic abuse cases that were charged, as a proportion of all cases that resulted in a legal decision to charge, to take no further action, or to recommend an out-of-court disposal.
+Convictions
+Cases where the defendant was convicted following a prosecution, comprising either:
+- a conviction after trial – cases in which the defendant pleaded not guilty, but was convicted after the evidence was heard
+- a guilty plea – where the defendant pleaded guilty
+- a proof in absence – cases comprising lesser offences, which were heard by the court in the absence of the defendant
+Domestic abuse
+Domestic abuse is not limited to physical violence and can include a range of abusive behaviours. It can also be experienced as repeated patterns of abusive behaviour to maintain power and control in a relationship.
+The Domestic Abuse Act 2021 defines domestic abuse as any incident or pattern of incidents between two people aged 16 years and over who are personally connected to each other. Two people can be considered personally connected to each other if they:
+- are, or have been, married or in a civil partnership
+- have agreed to marry or entered into a civil partnership agreement (whether or not the agreement has been terminated)
+- are, or have been, in an intimate personal relationship with each other
+- have, or there has been a time when they each have had, a parental relationship in relation to the same child
+- are relatives
+The Domestic Abuse Act 2021 outlines the following behaviours as abuse:
+- physical or sexual abuse
+- violent or threatening behaviour
+- controlling or coercive behaviour
+- economic abuse
+- psychological, emotional, or other abuse
+The Domestic Abuse Act 2021 recognises children under the age of 18 years who see, hear, or experience the effects of the abuse as a victim of domestic abuse, if the adult victim or perpetrator of the abuse is:
+- a parent of, or has parental responsibility for, the child
+- a relative of the child
+Domestic abuse-related crimes
+Incidents of domestic abuse that resulted in a crime being recorded by the police and are included in police recorded crime.
+Domestic abuse-related incidents
+Incidents of domestic abuse that were reported to the police but that, following investigation, do not amount to a crime or offence according to the National Crime Recording Standards. These can be added to domestic abuse-related crimes to create an overview of the demand that domestic abuse puts on the police.
+An example of a domestic abuse-related incident that does not amount to a crime would be two family members having a loud argument, then a third party calls the police, the police attend and calm the situation down, but no notifiable crime has taken place.
+In the last year
+In the last year refers 

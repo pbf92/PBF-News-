@@ -1,0 +1,19 @@
+URL: https://9to5google.com/2026/11/25/google-home-update-nest-cam-thermostat-gemini-features/
+TITLE: Google Home gets another big update with these new app, Nest Cam, and Gemini features
+OUTLET: 9to5Google
+
+Google Home is rolling out another big update, this time adding features and bringing improvements across Nest Cam, Nest Thermostarts, Gemini, and more.
+Detailed on Google’s usual changelog, the November 25 update is now rolling out and makes improvements across the board, starting with the Gemini for Home early access program. “Hey Google, tell me a story” is returning with Gemini able to create stories that are tailored to any adjustments you make as the story goes on. Gemini smart home commands are getting further speed and performance improvements and contextual follow-ups such as being able to say “turn them back on” after turning off some lights. You can also now see Gemini sources on smart displays.
+Nest Cam gets improvements for video history playback and landscape controls on Android and feedback improvements for homes with multiple admins. Nest Cam Outdoor (2nd gen) also gets a 30-second security siren that’s also supported on Walmart’s Onn Outdoor camera and Floodlight.
+Added remote siren controls in the Google Home app to activate or stop a 30-second security siren while watching live video on Nest Cam Outdoor (wired, 2nd gen), onn Outdoor Camera Plug-In, and onn Floodlight Camera Hardwired.
+Google Home now supports Familiar Faces on Walmart Onn cameras.
+Nest Thermostat users can now copy thermostat schedules across days.
+Other updates heading to Google Home include:
+- Color wheel for lights in the iOS app
+- Fixed setup issues with Google Home Speaker on iOS and Android
+- Fixed Stereo Pair & Speaker Group controls on Android
+- Improvements for Google TV audio output & status
+- Better music transfer between speakers & smart displays from Android
+The latest Google Home updates on Android and iOS deliver these updates, while Gemini changes happen behind the scenes.
+More on Google Home:
+Follow Ben: Twitter/X, Threads, Bluesky, and Instagram

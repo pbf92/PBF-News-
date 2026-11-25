@@ -1,0 +1,22 @@
+URL: https://www.bankofengland.co.uk/news/2026/november/regulators-implement-growth-friendly-securitisation-reforms
+TITLE: Regulators implement growth-friendly securitisation reforms
+OUTLET: Bank of England
+
+News release
+The Prudential Regulation Authority (PRA) and Financial Conduct Authority (FCA) have today published revised rules designed to support securitisation’s contribution to economic growth. 
+Securitisation allows a firm to divide loans into 'tranches' which have different risk profiles. Investors may buy some or all tranches, providing the firm with funding for further lending, while the interest from the loans pays the investors, who also absorb some of the losses when borrowers do not repay their loans. Securitisation can help firms manage their funding and risk, supporting further lending to businesses and households. 
+Today’s changes are designed to make the regulators’ requirements more proportionate and less prescriptive, helping reduce unnecessary costs for firms, while maintaining financial stability. They include:  
+- Simplifying due diligence and transparency requirements, holding investors and issuers to the same standards of understanding and disclosing risks without being overly prescriptive;
+- Introducing more flexible risk retention options, while ensuring firms keep at least 5% of a securitisation's value at risk;
+- Allowing some simple and prudent re-securitisations to support firms' funding and liquidity needs, while continuing the ban on the wider practice.
+The reforms are also estimated to reduce industry costs by around £168 million over the next decade while maintaining important safeguards and high standards. 
+Phil Evans, Director of Prudential Policy at the Prudential Regulation Authority, said:  
+'Securitisation is an important part of a modern financial system. It is obvious that we must never go back to the dangerous practices in place before the great financial crisis, but we shouldn’t go too far the other way either and stifle lending. Today’s final rules strike that balance and should encourage firms to lend more to households and businesses.'
+Jon Relleen, Director of Infrastructure and Exchanges at the Financial Conduct Authority, said:  
+'Strong capital markets are vital to support economic growth. By simplifying the UK's securitisation regime, we’re reducing unnecessary costs, giving firms and investors greater flexibility, and better reflecting market practice. The changes support more effective markets but crucially also maintain high standards to mitigate potential risks.'
+Notes to editors
+- Read the full policy statement.
+- The FCA has published near-final rules as part of its reforms to the UK securitisation framework.
+- This policy statement follows a number of recent PRA and FCA measures aimed at supporting growth, competitiveness and innovation in UK financial services while maintaining financial stability, including, exploring ideas to support the growth of credit unions; simplifying the Senior Managers & Certification regime; and automatically increasing over 100 PRA regulatory thresholds to provide certainty for firms.
+- The FCA has published near-final rules as part of its reforms to the UK securitisation framework. The rules are near-final because the related statutory instrument has been laid by HM Treasury but has not yet been made. The FCA intends to make the final rules shortly after the statutory instrument has been made and does not expect any significant changes to them. The PRA has published final rules at the same time.
+- For further details of estimated costs saving, please refer to the cost benefit analyses set out in FCA Consultation Paper CP26/6.

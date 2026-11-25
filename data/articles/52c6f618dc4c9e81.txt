@@ -1,0 +1,34 @@
+URL: https://www.eurekalert.org/news-releases/1152702
+TITLE: Study suggests BMI alone may miss obesity-related dementia risk
+OUTLET: EurekAlert!
+
+Highlights:
+- A new obesity definition that incorporates waist-to-height ratio and obesity-related health conditions identified more older adults as having obesity than BMI alone.
+- In two large groups from China and England, more than 80% of people classified as overweight by BMI were reclassified as having obesity under the new framework.
+- When comparing people with obesity to those of normal weight without obesity-related health conditions, obesity was associated with a higher risk of dementia and death during the study.
+- The study does not prove that obesity causes the increased risk of dementia and death. It only shows an association.
+- Researchers say relying on BMI alone may miss important health risks in older adults.
+MINNEAPOLIS — A newer way of defining obesity that looks beyond body mass index (BMI) may identify more older adults with an increased risk of dementia than BMI alone, according to a study published November 25, 2026, in Neurology®, the medical journal of the American Academy of Neurology.
+BMI looks only at weight and height. Use of BMI to assess obesity has been criticized for failing to distinguish between fat and muscle and not capturing the impact of other conditions related to obesity, such as high blood pressure.
+The newer definition, called the European Association for the Study of Obesity framework, considers BMI, body fat distribution through the waist-to-height ratio and obesity-related conditions such as high blood pressure and diabetes.
+“These findings underscore the inadequacy of using BMI alone to define obesity,” said study author Rui Zhou, PhD, of Guangdong Pharmaceutical University in Guangzhou, China. “The results support the integration of body fat distribution and other health conditions into classifying obesity.”
+Researchers used data from British and Chinese studies to classify participants according to the traditional BMI method and the new framework. Then they examined the associations between obesity and the risk of dementia or death from any cause.
+Using the new definition, more than 80% of those who had been classified as overweight were now classified as having obesity. Comparing people with obesity to people with normal weight and no other health conditions, people with obesity were more likely to develop dementia in both study groups and more likely to die during the study in one group. People who were overweight were less likely to develop dementia or die during the study.
+The study does not prove that obesity causes the increased risk of dementia and death or that being overweight protects against dementia and death. It only shows an association.
+The British study had 6,542 participants with an average age of 65 who were followed for an average of 12 years. The Chinese study had 12,402 participants with an average age of 58 who were followed for an average of eight years.
+Under the traditional BMI criteria, the British participants were 27% normal weight, 44% overweight and 29% obese. Under the new framework, 5% were normal weight with no conditions, 22% were normal weight with other health conditions, 6% were overweight and 67% were obese.
+For the Chinese participants under the traditional BMI criteria, 57% were normal weight, 31% were overweight and 12% were obese. Under the new framework, 12% were normal weight with no conditions, 45% were normal weight with other health conditions, 6% were overweight and 37% were obese.
+Researchers compared dementia rates using person-years, which represent both the number of people in a study and the amount of time each person spent in the study. Dementia rates were:
+- Obesity: about eight cases per 1,000 person-years for British participants under both frameworks and about 12 cases for Chinese participants
+- Overweight: about three cases per 1,000 person-years for British participants and about seven cases for Chinese participants
+- Normal weight with health conditions: nine cases per 1,000 person-years for British participants and 14 cases for Chinese participants
+Researchers then adjusted for other factors that could affect risk of dementia and death, such as age, sex and physical activity. Combining both groups under the new framework, people with obesity were 93% more likely to develop dementia than people with normal weight and no other health conditions. Among the Chinese participants, people with obesity were 30% more likely to die during the study than people with normal weight and no conditions.
+Compared with people with normal weight, people who were classified as overweight were 39% less likely to develop dementia and 68% less likely to die during the study.
+“These results indicate that relying solely on BMI may overlook people who could benefit from earlier risk assessment and intervention,” Zhou said.
+A limitation of the study was that obesity was measured only at the beginning of the study, so any changes over time were not captured.
+The study was supported by the Medical Scientific Research Foundation of Guangdong Province, Science Foundation of Guangdong Second Provincial General Hospital, Guangdong Pharmaceutical University, National Natural Science Foundation of China and Natural Science Foundation of Guangdong Province.
+Discover more about brain health at BrainHealth.com, a free public resource from the American Academy of Neurology. It offers a website, podcast, and books, connecting you with trusted information from the world’s leading experts in brain health. Follow BrainHealth.com on Facebook, X, and Instagram.
+The American Academy of Neurology is the leading voice in brain health. As the world’s largest association of neurologists and neuroscience professionals with more than 44,000 members, the AAN provides access to the latest news, science and research affecting neurology for patients, caregivers, physicians and professionals alike. The AAN’s mission is to enhance member career fulfillment and promote brain health for all. A neurologist is a doctor who specializes in the diagnosis, care and treatment of brain, spinal cord and nervous system diseases such as Alzheimer's disease, stroke, concussion, epilepsy, Parkinson's disease, multiple sclerosis, headache and migraine.
+Explore the latest in neurological disease and brain health, from the minds at the AAN at AAN.com or find us on Facebook, X, Instagram, LinkedIn, and YouTube
+Journal
+Neurology

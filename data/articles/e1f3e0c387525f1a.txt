@@ -1,0 +1,71 @@
+URL: https://ppc.land/amazons-reporting-guide-catches-up-with-its-january-31-2027-shutdown/
+TITLE: Amazon's reporting guide catches up with its January 31, 2027 shutdown
+OUTLET: PPC Land
+
+Amazon Ads today changed the shutdown date on the main Support Center page for unified reporting, the system that combines campaigns from several accounts and ad products in a single report. The old report pages now close by January 31, 2027, a month later than the December 31, 2026 date the same page gave before the update.
+The banner at the top of the page, "Understand unified reporting", covers two sets of pages: the sponsored ads reports and the reports for DVA+, the display, video and audio campaigns that replaced the Amazon DSP name in September. "We are shutting down sponsored ads reports and DVA+ reports by January 31, 2027. See migration details," it reads. The page does not say why the date changed.
+In Short
+Amazon's main help page for its new reporting system now says the old sponsored ads and DVA+ report pages shut down by January 31, 2027, instead of December 31, 2026. That matters to anyone at a brand or agency who still pulls scheduled reports from those old pages, because Amazon's separate migration page says whatever is left there on January 31 gets deleted. Two of Amazon's pages now agree on the January date, while the June launch post that first announced the shutdown still says December 31, 2026.
+What changed on the page
+The visible change is the date in the banner. The page does not mark what else, if anything, was edited.
+The banner mentions neither a read-only phase nor deletion. Those details sit on the migration page it links to.
+Three Amazon pages, two dates
+The January date is not new in itself. Amazon's migration page, as reported on November 12, set January 31, 2027 as the day the old sponsored ads and Display, Video, and Audio campaign report pages close, with every saved report, schedule and piece of historical data still on them permanently deleted. That page also put the old report pages into read-only mode from December 17, 2026, with a 14-day warning on January 17, 2027.
+The December date came first. When unified reporting reached general availability on June 8, 2026, the Sponsored Ads reports and Amazon DSP reports pages were set to be sunset on December 31, 2026. When PPC Land checked Amazon's June 8 launch announcement today, it still named December 31, 2026 for sunsetting both pages, which it locates under Measurement and reporting in the console.
+Until today, then, Amazon's main explainer for the new system and its migration instructions pointed to different months. Two of the three pages now line up. January 31, 2027 is a Sunday.
+What the guide tells advertisers moving over
+The rest of the page describes what changes when reports move from the old pages to unified reporting, and why the same metric name can return a different number. "While underlying measurement logic remains unchanged, metrics may appear under different names than in previous reports," the page states. "DVA+ users in particular should review their mappings, as familiar metric names may now return higher numbers."
+Four changes account for most of that.
+Common terms. Campaign structure now uses the sponsored ads vocabulary across every product.
+Promoted and halo. Base conversion metrics such as Purchases and Detail page views now count both promoted products and halo products, which the page describes as "highly relevant" items defined by each campaign's expansion rules. The terms "Brand Halo" and "Other SKU" are now both called "Halo". For DVA+ the effect is a renaming that changes what a familiar label counts:
+"For DVA+ integrations, some metrics now represent broader definitions and may return different values from before," the page notes. A report that once read "Purchases" for promoted products only now needs "Purchases (promoted)" to show the same thing.
+Lookback windows. Metric names no longer carry "7 Day" or "14 Day". The lookback window is applied by campaign type instead. For Sponsored Products, base metrics follow campaign defaults: 7 days for sellers and 14 days for vendors, so ROAS corresponds to roas7d for sellers and roas14d for vendors. Other campaign types use 14 days, except DVA+ campaigns with flexible windows, where the metrics reflect the click and view windows the advertiser chose.
+Traffic date. "All conversion metrics are now reported on 'traffic date,' meaning conversions are reported on the date of the ad interaction rather than the date the conversion occurred," according to the page. DVA+ and legacy Sponsored Brands campaigns previously used the conversion date. The page's own example runs five days at $20 a day: a shopper sees an ad on July 2 and buys on July 4 and July 5. On traffic date, July 2 shows two purchases, $300 in sales and a ROAS of 15.00. On conversion date, July 4 and July 5 each show one purchase and a ROAS of 7.50. Over the five days both methods give two purchases, $300 and a ROAS of 3.00. At general availability in June, Amazon described this as a shift from a conversion-based to a traffic-based methodology.
+Smaller renames follow the same logic. eCPATL is now "Cost per add to list", effective rate per mille (eRPM) is "Return per thousand impressions", and Total eCPPRPV is "Cost per review page visit". Every off-Amazon conversion metric now carries the "off-Amazon" qualifier, as in Leads (off-Amazon).
+Reports still waiting, with 36 days left in 2026
+The page keeps a line that sits awkwardly next to the new date. Five report types "have not yet been integrated into unified reporting and are planned for release later in 2026," it says: MRC viewability, Benchmarks, Conversion Path, Sponsored Products across retailers, and support for legacy Sponsored Brands campaigns in targeting and search term reporting.
+By PPC Land's count, 36 days remain in 2026 from today, 22 days until the read-only date on the migration page and 67 days until January 31, 2027. At least two of the five, conversion path and benchmark reports, are also among the ten report types the migration page listed as not yet available in unified reporting. Neither page gives a release date for any of them.
+Moving history across also has limits. The guide says unified reporting holds up to 24 months of daily or weekly data and up to six years of monthly or yearly data. Amazon's data availability page caps a single daily report at 120 days of that 24-month history. Reports larger than 25 GB time out, and the page suggests keeping advertisers under 50 or picking fewer dimensions. Not every field applies everywhere, either: by PPC Land's earlier count, 85 of Amazon's 156 unified report dimensions apply to Sponsored Products, and the guide says inapplicable dimensions return null.
+Why the date matters
+For agencies, January 31, 2027 is becoming a crowded day in the Amazon calendar. The legacy agency fee setting for Display, Video, and Audio campaigns can still be added until January 31, 2027, and will be removed by the end of March 2027. Agencies running DVA+ campaigns for clients therefore lose the old fee setting and the old report pages on the same Sunday.
+The new date also takes the shutdown out of the final days of 2026, so the old pages remain in place until a month after the year closes. The migration page's read-only date of December 17, 2026 still falls before Christmas, and today's update does not mention it.
+The page leaves several points open. It does not say why the date moved, whether the December 17 read-only date still stands, or whether January 31, 2027 is final; the migration page, as PPC Land reported, described its own dates as subject to change. It does not explain how reports "planned for release later in 2026" fit a shutdown a month into 2027, and the June launch post had not been corrected when PPC Land checked it today.
+Key facts
+- Source: Amazon Ads Support Center, "Understand unified reporting", marked "Updated on Nov 25, 2026"
+- Source URL: https://advertising.amazon.com/help/GMH8A8AJSH4ATV6T
+- New banner wording: "We are shutting down sponsored ads reports and DVA+ reports by January 31, 2027. See migration details."
+- Previous date in the banner: December 31, 2026
+- Date in Amazon's June 8, 2026 launch announcement, as checked today: December 31, 2026 (Sponsored Ads reports and Amazon DSP reports pages)
+- Migration page dates (updated November 12, 2026): read-only December 17, 2026; 14-day warning January 17, 2027; shutdown and deletion January 31, 2027
+- Reports "planned for release later in 2026": MRC viewability, Benchmarks, Conversion Path, Sponsored Products across retailers, legacy Sponsored Brands in targeting and search term reporting
+- Data history: up to 24 months daily or weekly, up to 6 years monthly or yearly
+- Report size limit: reports over 25 GB time out
+- Lookback for Sponsored Products base metrics: 7 days (sellers), 14 days (vendors); other campaign types 14 days, except DVA+ with flexible windows
+Timeline
+- November 11, 2025 - Amazon opens unified reporting in beta at unBoxed 2025
+- June 8, 2026 - Unified reporting reaches general availability; Sponsored Ads reports and Amazon DSP reports pages set to be sunset on December 31, 2026
+- September 29, 2026 - The Amazon DSP name is replaced by DVA
+- November 12, 2026 - Amazon's migration page sets January 31, 2027 for the shutdown of the old report pages and deletion of remaining data
+- November 12, 2026 - Legacy DVA agency fee setting given a January 31, 2027 cut-off
+- November 12, 2026 - 85 of 156 unified report dimensions found to apply to Sponsored Products
+- November 17, 2026 - Amazon's data availability page sets a 120-day cap on daily report pulls
+- November 25, 2026 - "Understand unified reporting" updated; banner moves from December 31, 2026 to January 31, 2027
+- December 17, 2026 - Old report pages become read-only, according to the migration page
+- December 31, 2026 - Original shutdown date; end of the "later in 2026" window for five pending report types
+- January 17, 2027 - 14-day warning before deletion
+- January 31, 2027 - Sponsored ads and DVA+ report pages shut; remaining reports and historical data deleted
+- End of March 2027 - Legacy agency fee setting removed
+Related PPC Land coverage
+- Amazon advertisers will lose unmigrated reports on January 31, 2027 - The migration page's five phases, the deletion rule and the ten report types not yet in unified reporting.
+- Amazon Ads unified reporting exits beta - and takes two old tools with it - General availability on June 8, 2026, and the original December 31, 2026 sunset date.
+- Amazon limits daily unified reports to 120 days of its 24-month history - How much history unified reporting holds and how much a single report can pull.
+- 85 of Amazon's 156 unified report dimensions apply to Sponsored Products - PPC Land's count of which dimensions apply to which ad product.
+- Agencies lose Amazon's legacy DVA fee setting after January 31, 2027 - The agency fees open beta and the end of the legacy per-campaign fee.
+- Amazon launches unified reporting system across advertising products - The November 2025 beta launch at unBoxed.
+- Amazon calls its ad platform an agent, but the agent is still closed beta - The September 29, 2026 renaming that replaced the Amazon DSP name with DVA.
+Summary
+Who: Amazon Ads, and the advertisers and agencies that still run saved or scheduled reports from the old sponsored ads and DVA+ report pages.
+What: The "Understand unified reporting" Support Center page now says the old sponsored ads and DVA+ report pages shut down by January 31, 2027, instead of December 31, 2026. The date matches Amazon's migration page; the June 8, 2026 launch announcement still gives December 31, 2026.
+When: The page was updated today. The migration page puts the read-only phase on December 17, 2026 and the shutdown, with deletion of remaining reports and data, on January 31, 2027.
+Where: The Amazon Ads Support Center and the Reporting section of the Amazon Ads console, across the markets where unified reporting is available.
+Why: Amazon gives no reason for the change. It brings the main unified reporting guide 

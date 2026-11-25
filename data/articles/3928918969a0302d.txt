@@ -1,0 +1,64 @@
+URL: https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/articles/howdomesticabusedataarecapturedthroughthecriminaljusticesystem/november2026
+TITLE: How domestic abuse data are captured through the criminal justice system: November 2026
+OUTLET: Office for National Statistics
+
+This publication is part of our domestic abuse statistics release. It brings together data from a range of different organisations to create a more coherent picture of how victims and perpetrators of domestic abuse interact with the criminal justice system and support services.
+It is produced, working in collaboration with, and using data sources from:
+- Crown Prosecution Service (CPS)
+- His Majesty's Courts and Tribunals Service
+- His Majesty's Inspectorate of Constabulary and Fire and Rescue Services (HMICFRS)
+- Home Office
+- Ministry of Justice
+Up-to-date statistics, and other commentary discussing domestic abuse in England and Wales, can be found in the most recent Domestic abuse in England and Wales overview.
+Throughout the release we present both official statistics and accredited official statistics. Accredited official statistics are a subset of official statistics that have been certified by the UK Statistics Authority as compliant with its Code of Practice for Statistics.
+Data from the following sources are classified as accredited official statistics:
+- Crime Survey for England and Wales (CSEW) with the exception of year ending (YE) March 2022; more information can be found in our Domestic abuse quality and methodology information (QMI) and our User guide to crime statistics for England and Wales
+- Home Office Homicide Index
+- Ministry of Justice criminal justice and family court statistics
+Data from the following sources are classified as official statistics:
+- police recorded crime
+- crime outcomes data
+Other data included are from administrative datasets that do not fall within the scope of official statistics.
+This publication presents the stages of the criminal justice process in England and Wales for cases of domestic abuse. It describes how the data are captured at each stage of the process and provides important information about each data source. It should be viewed alongside the other publications and data in this release to aid understanding.
+Back to table of contents
+Figure 1 provides an overview of how cases of domestic abuse are captured and flow through the criminal justice system. The following sections of this publication provide detailed information on each stage of the process and the data sources available. Data from the criminal justice system are presented in our Domestic abuse and the criminal justice system data tables. Our Domestic abuse and the criminal justice system, England and Wales article has been suspended and the content has been moved into our Domestic abuse in England and Wales overview. For detailed definitions of terms referred to throughout this publication see Section 9: Glossary.
+Figure 1: How data are captured and interlinked across the criminal justice system in England and Wales
+Source: Office for National Statistics
+Download this image Figure 1: How data are captured and interlinked across the criminal justice system in England and Wales
+.svg (180.1 kB)
+Following a single or repeated occurrence of domestic abuse, a victim may choose to tell someone or seek support. Alternatively, a third party (relative, friend, professional) may report on the victim's behalf either with or without their knowledge.
+Victim remains hidden
+In cases where a victim chooses not to report the matter to the police or to other domestic abuse services, the victim remains hidden from the police and the criminal justice system. Such victims may be included in the statistics produced from the Crime Survey for England and Wales (CSEW).
+For cases where a victim does not report abuse to the police or to other domestic abuse services, they may be included in the statistics produced from the CSEW. The CSEW is a victimisation survey which asks people about their experiences of a range of crimes irrespective of whether they reported them to the police. A description of, and methodological information about, the face-to-face CSEW are available within the User guide to crime statistics and the Domestic abuse quality and methodology information (QMI) report.
+Prevalence estimates for domestic abuse are produced from the self-completion module on domestic abuse, sexual victimisation and stalking from the CSEW. The CSEW presents two headline measures of domestic abuse: one relates to experiences since the age of 16 years and the other is limited to those experiences in the 12 months prior to interview.
+The CSEW covers the population living in households in England and Wales; it does not cover the population living in group residences (for example, care homes or student halls of residence) or other institutions.
+For the self-completion module, respondents are handed a tablet computer to use to answer questions. This allows respondents to feel more at ease when answering these sensitive questions because of increased confidence in the privacy and confidentiality of the survey.
+The age range for respondents eligible for the self-completion module was expanded in April 2017, changing from adults aged 16 to 59 years to adults aged 16 to 74 years living in households in England and Wales.
+The face-to-face Crime Survey for England and Wales was suspended on 17 March 2020 because of the coronavirus (COVID-19) pandemic. The Telephone-operated Crime Survey for England and Wales (TCSEW) replaced the CSEW and was specifically designed to allow us to continue measuring crime during this period. However, concerns around confidentiality and respondent safeguarding limited the types of questions asked in the TCSEW, specifically those relating to domestic abuse. As a result, CSEW and TCSEW data and estimates are not available in the Domestic abuse in England and Wales: November 2021 publication. Further information about the TCSEW can be found in section 2.1 of the User guide to crime in England and Wales: measuring crime during the coronavirus (COVID-19) pandemic.
+Data collection for the face-to-face CSEW resumed on 4 October 2021 with the upper age limit for the self-completion modules on domestic abuse, sexual assault and stalking removed. Data based on six months of CSEW interviews were used in our year ending (YE) March 2022 bulletin. Data based on eight months of CSEW interviews were used in our YE March 2023 bulletin because of an error which resulted in missing data for some respondents from October 2022 to October 2023 inclusive.
+Data based on a split sample were used in our YE March 2024 and YE March 2025 bulletins, because of new domestic abuse questions (PDF, 471KB) (opens in a new tab) being tested on the survey from April 2023. Caution should be taken when using these data, because of the impact of the reduced base sizes on the quality of the data. Further details are available in our Domestic abuse quality and methodology information (QMI).
+Through our evaluation of the split-sample trial, we concluded that the new questions provided a better measure of domestic abuse. Therefore, we decided to change to using the new survey questions in the CSEW to measure domestic abuse from April 2025. More information on the inclusion of the new domestic abuse questions on the CSEW permanently can be found in our Evaluating a new measure of domestic abuse article and our Redevelopment of domestic abuse statistics articles.
+Support is provided to victims from a range of services
+Some victims seek help from support services or are referred to services by another agency, for example, health services. This can occur whether the case comes to the attention of the police or not.
+In cases which do come to the attention of the police, the victim may be referred to support services by the police. Alternatively, the victim may have reported the incident to the police following an interaction with support services.
+As part of our Domestic abuse in England and Wales publications, we present a selection of data on the provision of domestic abuse victim services in England and Wales. These data are collected and held by a range of charities, and cover topics such as the availability of services and characteristics of service users.
+Data on victim services provision in England and Wales were not updated in our YE March 2024 publication while we focused on redeveloping the domestic abuse questions on the CSEW. Data on victim services provision was reintroduced in our YE March 2025 bulletin but have since been suspended from YE March 2026 while we focus resource on analysis of our CSEW domestic abuse data.
+Services data included were provided by:
+These data were sourced from non-governmental, administrative datasets and are not classified as official statistics. Data on domestic abuse services reflect support offered to victims that become visible to these services.
+The first recording stage in the criminal justice process begins when the police receive a report of an incident of domestic abuse. An incident can be reported to the police by victims, members of the public, or can be referred by a police officer or a "third party", including professionals such as NHS staff and social workers.
+Domestic abuse-related incidents cover reports of threatening behaviour, violence or abuse between adults, aged 16 years and over, who are or have been intimate partners or family members (regardless of gender or sexuality). The police, at this stage, will either:
+- record a domestic abuse-related incident pending further investigation
+- record the incident as a domestic abuse-related crime if it is clear that such an offence has taken place
+The Home Office provides data on the number of domestic abuse-related incidents. To get a better picture of the demand upon the police that relates to domestic abuse, it is necessary to consider both domestic abuse-related incidents and crimes.
+The report is recorded by the police as an incident
+When the police record a report of domestic abuse as an incident, they must then assess whether or not an offence has been committed in accordance with the National Crime Recording Standard (NCRS) [note 1].
+For cases that are recorded first as an incident, there are two possible outcomes. If it is concluded that a crime did not take place, the domestic abuse incident remains recorded as an incident. Alternatively, a domestic abuse-related crime may be recorded in addition to the incident. However, the incident data that police forces submit to the Home Office exclude incidents subsequently recorded as crimes.
+Not all reported crimes are recorded as an incident first. If it is clear when the incident is reported that an offence has occurred, the police may record the matter as a domestic abuse-related crime immediately without first recording an incident.
+The report is recorded as a domestic abuse-related crime
+If it is concluded that an offence has been committed, either immediately when reported, or after being recorded as an incident, the matter will be recorded as a crime and will be identified as domestic abuse-related.
+Notes for: The incident is reported to the police
+- An example of a domestic abuse incident that does not amount to a crime would be two family members having a loud argument, a third party calls the police, the police attend and calm the situation down, but no crime has taken place.
+Back to table of contents
+During the investigation, some victims (for a wide variety of reasons) may decide not to, or be unable to, support the police in their enquiries. Although this often means that it is more difficult for any further action to be taken by the police, the case will continue to be progressed if possible.
+Evidence-led prosecutions are an option considered by the police and may be taken up by the Crown Prosecution Service (CPS). This means that, even in cases where a victim is unwilling or unable to appear in court as a witness, it does not necessarily prevent the suspect being subject to a trial.
+In cases where the victim does not, or is unable to, support a police investigation or prosecution, the offence remains recorded. In such cases, the police may sug

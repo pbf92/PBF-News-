@@ -1,0 +1,76 @@
+URL: https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/articles/redevelopmentofdomesticabusestatistics/november2026
+TITLE: Redevelopment of domestic abuse statistics: research update November 2026
+OUTLET: Office for National Statistics
+
+The way domestic abuse manifests is constantly changing. Because of this, as well as legislative changes, we undertook a user engagement, research and testing programme to ensure our statistics continue to provide the most accurate information and meet the needs of users.
+Through this work, we developed a new set of survey questions for the Crime Survey for England and Wales (CSEW) which are the accredited official statistics on domestic abuse from the year ending (YE) March 2024 onwards.
+The new questions enable us to produce measures of the scale of domestic abuse experienced by victims. We first published these measures in our Redevelopment of domestic abuse statistics: research update November 2025 article. Following the publication of the article, we ran a user survey to gather feedback on the newly developed abuse scales.
+This article updates the abuse scales with YE March 2026 data. It also presents the results from the user survey (where we had limited feedback), the consensus from the feedback received and clarity on next steps.
+We plan to conduct a second round of engagement on the results presented in this article in early 2027. However, without a significant change in feedback, we plan to remove the impact questions to provide space for other priority topics with higher demand from users.
+Back to table of contents
+In our Redevelopment of domestic abuse statistics: research update November 2025 article, we asked users for feedback on the abuse scales, but we did not receive any.
+We then published a user survey to gather feedback on the newly developed domestic abuse scales, and the resulting estimates. The survey was publicised to users by email and through the quarterly Crime Statistics Newsletter. We asked for feedback on:
+- which of the abuse scale estimates were most useful – estimates as a percentage of the entire population or as a percentage of victims
+- what additional estimates of abuse scales would be useful
+- the naming and descriptions of the abuse scale groups
+- the presentation of the data tables
+- the methodology applied
+The survey ran between 14 April 2026 and 10 June 2026. We received 11 eligible responses from users from the following backgrounds:
+- academia or research (36%)
+- charity or community sector (36%)
+- non-departmental or government agency (18%)
+- government department (9%)
+The survey findings should be interpreted with caution because of the small number of responses; one user represents 9% of the eligible sample.
+Users felt the abuse scales were a welcome development but also highlighted that further work was needed to refine them. Nearly a third (64%) of users strongly agreed or agreed that it was clear what method had been used to produce the abuse scales.
+However, feedback on whether users agreed with the method used was varied, with just over half of users strongly agreeing or agreeing (55%) and 27% disagreeing or strongly disagreeing (Figure 1). When asked what alternate methods could be applied, we received one response with an alternate statistical methodology suggested.
+Figure 1: Over half of users agreed with the clustering method used to produce the abuse scales
+Percentage of user survey respondents who selected each response option when asked to what extent do you agree with the method used to produce the abuse scales, April to June 2026
+Source: Domestic abuse scale user survey 2026 from the Office for National Statistics
+Download this chart Figure 1: Over half of users agreed with the clustering method used to produce the abuse scales
+Image .csv .xls
+In addition, feedback on the appropriateness of the abuse group names was also mixed. Nearly half of users (45%) disagreed or strongly disagreed that the current names of the abuse scale groups best described the abuse scales, while 18% strongly agreed or agreed (Figure 2).
+Figure 2: Nearly half of users disagreed with the names of the abuse scale groups used to describe the abuse scales
+Percentage of user survey respondents who selected each response option when asked to what extent do you agree the names of the abuse scale groups best describe the groups, April to June 2026
+Source: Domestic abuse scale user survey 2026 from the Office for National Statistics
+Download this chart Figure 2: Nearly half of users disagreed with the names of the abuse scale groups used to describe the abuse scales
+Image .csv .xls
+Users who answered neither agree or disagree, disagree, or strongly disagree, were asked what names would better describe them.
+There was no consensus of alternative names, but specific suggestions made were:
+- "higher harms group", "medium harms group" and "lower harms group"
+- "abuse classes"
+Concerns were raised around the abuse scale names implying a hierarchy of harm, which could result in some abuse being misinterpreted as "less serious" – a problem that would also apply to the term "higher harms group". Users also highlighted the importance of explaining caveats in full and ensuring these were upfront and prominent, to encourage them to be taken into consideration from the outset.
+Most users (64%) found it very easy or quite easy to interpret the data tables. They noted that data tables disaggregated by personal characteristics, particularly sex, were of specific interest and were the most useful. Users were also asked which of the data tables they found the least useful, but there was no clear consensus on this.
+More than a third (36%) of users stated that abuse scale estimates as a percentage of the population were most useful, compared with 18% who stated that estimates as a percentage of victims were most useful.
+This recent redevelopment work has been received well by most users who responded to the survey. However, concerns were raised around how clearly the method was explained, how it works and how the data should be interpreted. Suggestions have been made regarding communicating caveats and limitations early on to avoid misinterpretation and aid decision-making.
+The user survey received a much lower response than expected, and the responses for many questions were varied with no clear consensus. This has made it difficult to draw conclusions and make changes to the abuse scales.
+For these reasons, we have updated the abuse scales in this article with an additional year of data while retaining the same method, abuse scale names and table breakdowns. The data tables are available in the November 2026 edition of our Redevelopment of domestic abuse statistics, abuse scales since the age of 16 years, England and Wales dataset.
+We plan to conduct further engagement to gather additional feedback on this work and to understand if users want it to continue. If you would like to come to our user event, let us know by emailing crimestatistics@ons.gov.uk.
+Without a significant change in feedback, we will end the work on abuse scales. More information on our next steps is available in Section 5: Future developments.
+Back to table of contents
+We designed the new domestic abuse questions so they could be used to derive measures based on abusive behaviours and the impacts of those behaviours. Our user survey showed that over half (54.4%) of users agreed with the method used last year to produce the abuse scales, while 27.3% disagreed with the method.
+As a result, we used the method set out in our Redevelopment of domestic abuse statistics: research update November 2025 article. We developed the method in collaboration with academics from the University of Southampton to make the best use of the available data.
+To produce the abuse scales, we created variables summing the number of different abusive behaviours and resulting impacts respondents reported experiencing since the age of 16 years. We did this separately for partner, family and overall domestic abuse. We scaled these variables before using them in our analysis to ensure variables with larger numbers did not dominate the analysis.
+The frequency of experiencing the same behaviour multiple times is not measured by the survey, except for physical abuse. As a result, the abuse scales only account for the number of different abusive behaviours a victim has experienced. The scales do not make any assessment or comparison of the severity of behaviours or impacts, as this is subjective and may be different for each victim. More information on our domestic abuse questions is available in our Crime Survey for England and Wales 2025 to 2026: Adult Questionnaire (April 2025) (PDF, 3,940KB) (opens in new tab).
+We used k-means clustering to group the data. The algorithm starts with "k" initial centroids, assigns each data point to its nearest centroid, and recalculates each centroid as the mean of the points in that cluster. It repeats these steps until the cluster assignments no longer change, aiming to minimise the within-cluster sum of squared distances. More information on k-means clustering is available in the Method to produce abuse scales section of our Redevelopment of domestic abuse statistics: Research update November 2025 article.
+Data manipulation and clustering was conducted in R. We used the "kmeans()" R function to perform the clustering. More information on this R function is available in the kmeans() clustering R Documentation web page.
+We reran the cluster analysis using data collected through the new survey questions between April 2023 and March 2026, adding one year to the period used previously. As a result, estimates previously published have been revised in our Redevelopment of domestic abuse statistics, abuse scales since the age of 16 years, England and Wales: November 2026 edition of this dataset.
+To understand the number of clusters to use for the k-means clustering, we:
+- plotted the total within-cluster sum of squares (WSS), otherwise known as the "elbow method"
+- calculated silhouette scores
+- calculated gap statistics
+The analysis showed that, for domestic, partner and family abuse, the k-means algorithm produced three victim clusters.
+For domestic abuse and partner abuse, the clusters are defined as:
+- Cluster 1: Lower numbers of abusive behaviours and impacts
+- Cluster 2: Medium numbers of abusive behaviours and impacts
+- Cluster 3: Higher numbers of abusive behaviours and impacts
+Although the clusters for domestic abuse and partner abuse have the same labels, they are not comparable. This is because the domestic abuse clusters include both partner abuse and family abuse victims.
+For family abuse, our analysis showed that the relationship between behaviours and impacts was more positive and linear than for partner abuse. The differences resulted in a different Cluster 2, where family abuse victims selected lower numbers of behaviours but higher numbers of impacts.
+For family abuse, the clusters are defined as:
+- Cluster 1: Lower numbers of abusive behaviours and impacts
+- Cluster 2: Lower numbers of abusive behaviours and higher numbers of impacts
+- Cluster 3: Higher numbers of abusive behaviours and impacts
+While the clusters are created by considering both behaviours and impacts, regardless of cluster, all are victims of domestic abuse as per the definition in the Domestic Abuse Act 2021 and will be counted in our headline prevalence measures.
+For interpreting the abuse scales, it is important to note that a victim may be classified as experiencing low numbers of abusive behaviours but could have experienced one abusive behaviour many times. In addition, victims of domestic abuse may experience similar behaviours, yet the impacts felt as a result of those behaviours may differ greatly.
+Back to table of contents
+Statistics presented in this section are official statistics in development and are subject to change. They are presented here to aid users in providing feedback.
+Data are presented for year ending (YE) March 2026. Data for YE March 2024 and YE March 2025, along with full breakdowns for all years, are published in our Redevelopment of domestic abuse statistics, abuse scales since 

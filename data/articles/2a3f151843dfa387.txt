@@ -1,0 +1,38 @@
+URL: https://www.eurekalert.org/news-releases/1153302
+TITLE: USC researchers develop ai framework to rapidly predict sleep apnea severity
+OUTLET: EurekAlert!
+
+USC researchers have developed an artificial intelligence framework that could help make the assessment of obstructive sleep apnea faster and more efficient by identifying patterns in physiological signals that conventional models may overlook.
+The approach, called Long-Range Interdependencies Aware analysis, or LRIA, examines how respiratory and cardiovascular signals interact over time. Using only 10-minute segments of recorded physiological data, the framework predicts whether a person has obstructive sleep apnea and estimates its severity.
+The research, published in Nature Communications, was validated using five diverse cohorts comprising more than 35,000 participants. Across the datasets, the framework achieved area-under-the-curve values exceeding 0.91 and performed 8% to 18% better than state-of-the-art comparison models.
+The study was led by researchers in the USC Ming Hsieh Department of Electrical and Computer Engineering, including senior author Paul Bogdan, along with an international team of engineers, physicians and sleep researchers.
+Capturing the body’s long-term patterns
+Obstructive sleep apnea is a common chronic disorder in which breathing repeatedly stops or becomes restricted during sleep. These interruptions can reduce oxygen levels and are associated with an increased risk of cardiovascular disease, metabolic disorders and other serious health problems.
+The current diagnostic standard is overnight polysomnography, an extensive sleep study that records breathing, blood oxygen, heart activity and other physiological signals. Although highly informative, polysomnography can be costly, labor-intensive and difficult to access.
+Many existing AI methods analyze individual moments or localized patterns within these recordings. The USC-led team instead designed LRIA to capture long-range dependencies—subtle relationships within and among physiological processes that unfold over extended periods.
+The framework uses fractional dynamic modeling to translate physiological signals into coupling matrices. These compact representations describe how signals such as airflow, blood oxygen, heart rate and respiratory effort influence one another over time. The resulting features are then incorporated into a deep-learning model that classifies sleep apnea severity as normal, mild, moderate or severe.
+“[Quote from Paul Bogdan explaining why long-range physiological relationships are important and how the approach differs from conventional AI models.]”
+The researchers found that the coupling representations stabilized after approximately 10 minutes of recorded data. This suggests that relatively short windows may contain enough information for the model to identify meaningful physiological signatures associated with sleep apnea.
+Tested across diverse populations
+To evaluate the framework’s performance and generalizability, the team tested it using sleep data from five cohorts with different demographic characteristics, clinical settings and recording protocols.
+These included the Sleep Heart Health Study, the Multi-Ethnic Study of Atherosclerosis, the Osteoporotic Fractures in Men Sleep Study, a Massachusetts General Hospital dataset and a clinical cohort from western Romania.
+For binary sleep apnea detection, LRIA achieved AUROC scores of 0.947 in the Sleep Heart Health Study, 0.942 in the Multi-Ethnic Study of Atherosclerosis, 0.920 in the Osteoporotic Fractures in Men cohort and 0.918 in the Massachusetts General Hospital cohort. Its performance remained consistent across the different populations and data-collection environments.
+The researchers also compared LRIA with several established deep-learning architectures and a recent sleep-analysis model. The new framework consistently produced stronger results while using a condensed representation of the underlying physiological data.
+“[Quote from a clinical collaborator on the potential value of obtaining reliable information from shorter recordings and the need for further clinical validation.]”
+Toward more accessible sleep assessment
+The researchers envision LRIA as a foundation for future automated tools that could support sleep-apnea screening and clinical decision-making. Because the framework focuses on physiological channels commonly collected in both laboratory and ambulatory sleep studies, it may eventually be adaptable to less burdensome assessment systems.
+The technology is not intended to replace physician judgment or the current diagnostic standard. The findings are based on retrospective analysis of previously collected sleep recordings, and additional prospective clinical studies will be needed to determine how the framework performs in real-world care.
+The study also did not conduct sex-stratified analyses, as its primary objective was to evaluate the methodology rather than examine differences in disease mechanisms among patient groups.
+Still, the results demonstrate the potential of combining mathematical modeling and AI to uncover physiological relationships that may be difficult to detect through conventional signal analysis.
+By extracting stable information from shorter portions of sleep recordings, the approach could ultimately contribute to faster analysis, broader screening and more personalized evaluation of sleep-disordered breathing.
+The paper, “Long-range interdependencies aware signal analysis for rapid and accurate obstructive sleep apnea prediction,” was published in Nature Communications. The research code has been made publicly available by the study team.
+Journal
+Nature Communications
+Method of Research
+Randomized controlled/clinical trial
+Subject of Research
+People
+Article Title
+Long-range interdependencies aware signal analysis for rapid and accurate obstructive sleep apnea prediction
+Article Publication Date
+22-Sep-2026

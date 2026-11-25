@@ -1,0 +1,35 @@
+URL: https://www.fiercehealthcare.com/health-tech/weekly-rundown-waystar-integrates-google-clouds-gemini-healthcare-oracle-debuts-ai
+TITLE: Weekly Rundown: Waystar integrates into Google Cloud’s Gemini for healthcare; Oracle debuts AI agents for clinical trials
+OUTLET: Fierce Healthcare
+
+Stay up to date on the latest in health tech, digital health and health AI news with this weekly brief. Read below for news from the week of Nov. 16 to 27.
+Waystar integrates into Google Cloud’s Gemini for healthcare
+Waystar said Tuesday it will integrate its AI-driven revenue cycle solutions into Google Cloud’s recently announced Gemini for healthcare solution.
+The integration reflects an expanded partnership between Waystar and Google Cloud. Through it, users will have increased access to Waystar AltitudeAI innovations, advanced analytics and revenue cycle insights.
+“By bringing Waystar's AI-powered revenue cycle capabilities into Gemini for healthcare, we're helping providers simplify some of the most complex operational and financial tasks in care delivery,” said Aashima Gupta, Google Cloud managing director of healthcare, in a statement. “Together, we are unifying data and workflows in a secure, governed workspace that drives better outcomes across the healthcare ecosystem.”
+OpenAI expands ChatGPT health capabilities
+OpenAI is expanding ChatGPT’s health capabilities across various channels, it said Thursday.
+The company’s Health feature is expanding to desktop app, Androids and its personal AI agents—dubbed dots.
+Among the new capabilities include:
+- Proactive health suggestions from dots
+- Connected health and fitness information from Android Health Connect to explore sleep, activity and more patterns
+- Track marathon training through the desktop app
+ChatGPT Health is currently available to Free, Go, Plus, and Pro users in the U.S., while dots are available to Pro users.
+Oracle debuts AI agents for clinical trials
+Oracle launched a new agentic experience for life science organizations to improve clinical trial operations.
+Oracle Life Science AI Agents is currently available for early adopters with a focus on portfolio monitoring, trial planning and conduct. The company plans to expand into clinical development domains, including data management, post-trial analytics and trial design.
+Agents are designed to work with human oversight, executives say.
+Oracle Health and Life Sciences EVP and General Manager Seema Verma said in a statement clinical development requires companies to “coordinate complex operational activity.”
+“We are bringing AI-assisted intelligence into clinical trial operations to help organizations to monitor performance, identify emerging risks, and coordinate responses across the trial lifecycle,” Verma said. “By combining Oracle’s Life Sciences applications, AI-assisted capabilities, connected data services, on a secure, scalable cloud infrastructure, we are helping organizations coordinate clinical research workflows and operational decisions across their clinical trial environments.”
+Artera launches agentic intake for specialties, FQHCs
+Agentic company Artera announced the roll out of an intake solution using AI Agents to collect, check and complete information throughout the patient visit.
+Artera Intake has three core workflows, executives say: pre-visit intake, in-office and walk-in intake and complex form and consent digitization. The workflows are housed in a new Intake Hub, according to the Nov. 19 announcement.
+Chief Product and Strategy Officer Zach Wood said in a statement what differentiates the solution from others is “where it starts.”
+“Most intake solutions are built first, and providers have to change their workflows to fit them,” Wood said. “We start with the provider. We learn how their teams and patients actually move through intake, then build the agentic solution around that, together.”
+Wood continued, “That starting point shapes everything that follows, and is designed to drive faster adoption, more completed intake and real value for practices.”
+Amazon Connect Health expands patient access capabilities
+Amazon Connect Health announced Nov. 17 the launch of expanded patient access capabilities through the agentic solution.
+As of the date of the announcement, four new capabilities are generally available to users: appointment management, prescription management, information assistance and password reset.
+The company says the expansion builds on the foundation of Amazon Connect Health, which included patient verification, patient insights, ambient documentation and more.
+One health system using the tool is Philadelphia-based Temple Health. AVP of Patient Access Joseph Alfonsi said in a statement the tool has handled patient verification on thousands of calls weekly since the system went live in June.
+“Building on that success, we’re excited to expand agentic patient access capabilities for prescription management, portal password resets, and information assistance,” Alfonsi said. “Our patients shouldn’t have to wait until business hours—or wait on hold—to manage routine tasks. Now they can verify once and take care of everyday needs in a single call, any time of day, and our team can focus on the conversations where a human touch matters most.”

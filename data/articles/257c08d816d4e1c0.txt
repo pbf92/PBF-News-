@@ -1,0 +1,29 @@
+URL: https://www.eurekalert.org/news-releases/1152676
+TITLE: England has highest levels of frailty in adults from socially disadvantaged backgrounds
+OUTLET: EurekAlert!
+
+Older adults from disadvantaged socioeconomic backgrounds experience greater levels of frailty, with England showing the biggest gap between socioeconomic groups among the 31 countries studied.
+The research, led by King’s College London, indicates that lower socioeconomic status is associated with a more rapid progression of frailty over time with the gap between socioeconomic groups becoming substantially bigger as people age.
+The study, published in BMC Medicine, studied over 71,703 people across 31 countries, including the United States, China and multiple European countries.
+Frailty was measured on a scale from 0 to 100, based on the proportion of health problems and functional limitations a person experienced, with higher scores indicating greater frailty.
+At age 50, those in the lowest socioeconomic group had frailty scores nearly seven points higher than people in the highest socioeconomic group, who were classified by high levels of income, educational attainment and occupation.
+By age 80, this gap had widened to around 12 points, suggesting that socioeconomic inequalities in frailty become more pronounced with age.
+The researchers identified social and physical inactivity as the two main drivers of the higher levels of frailty in people with lower socioeconomic status, suggesting that there are strong links between frailty and social habits.
+The findings of this study are consistent with broader evidence of substantial health inequalities in England.
+Dongfeng Tang, first author of the study and a final-year PhD student from the Department of Primary Care and Data Science at King’s College London, said: “We were surprised to see that England has the steepest socioeconomic inequalities in frailty out of all of the countries we studied. While we cannot establish exactly why this is the case, the findings highlight the importance of addressing the wider social and economic conditions that shape healthy ageing. Additionally, our research indicates that someone’s socioeconomic status could put them at higher risk of becoming frail, and this disadvantage could accumulate across the life course.”
+“Lifestyle habits, such as being socially connected and staying active, could offer an opportunity to intervene to improve someone’s health outcomes.”
+Frailty is usually characterised by someone who is struggling with multiple daily activities, such as walking or getting dressed, and a reduced physiological reserve, so cannot easily recover from a setback such as a minor illness.
+Frailty can be associated with increased risks of disability, dependency, hospitalisation and mortality. Older adults living with frailty have been shown to contribute to a large share of emergency department visits, unplanned acute hospital admissions and extended hospital lengths of stay.
+Identifying if someone is at risk of frailty early allows for targeted interventions that can prolong their independence and keep them healthier for longer.
+The research combined data from a frailty score, which included 27 different areas of someone’s health such as self-reported chronic conditions and cognitive performance, with their socioeconomic status.
+Two indicators were used to measure socioeconomic status: education level and total household wealth. The research grouped people's highest level of education into three groups: primary, secondary, and tertiary (university) education.
+Total household wealth was calculated as the sum of all wealth components (residence, business, vehicles, and savings accounts), excluding debts or loans.
+Lifestyle factors included smoking, heavy drinking, physical inactivity, and social inactivity.
+Matthew O’Connell, senior lecturer in population health sciences at King’s College London and the senior author of the study, said: “It is highly concerning that people from lower socioeconomic groups had higher levels of frailty across all countries studied, with the greatest inequalities in England.
+“More encouragingly, the increasing role of lifestyle factors at older ages suggests increasing physical and social activities in mid to later life might help to reduce frailty at older ages. This is something that could be encouraged for everyone as they age and could be a targeted invention for groups potentially at higher risk.”
+Journal
+BMC Medicine
+Subject of Research
+People
+Article Title
+Socioeconomic gradients in frailty and contribution of lifestyle behaviours from midlife to older age: evidence from 31 countries

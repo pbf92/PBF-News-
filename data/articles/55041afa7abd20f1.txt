@@ -1,0 +1,20 @@
+URL: https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-916136
+TITLE: Saudi ex-OpenAI engineer granted bail in alleged spying case
+OUTLET: The Jerusalem Post
+
+A Saudi national accused of planting a recording device in an executive OpenAI conference room was freed on a $1 million bail bond on Tuesday, after a judge said that the prosecution hadn't shown enough proof to demonstrate that the suspect was actually spying on the artificial intelligence company.
+Abdulrahman Alfozan, a Saudi national who worked as an AI engineer for the ChatGPT developers, is expected to be freed on Wednesday after no proof of ties to the Saudi government was presented by the prosecution.
+In an initial decision, Judge Alex G. Tse ruled that Alfozan was at risk of fleeing to Saudi Arabia, arguing that WhatsApp messages presented by the prosecution showed him allegedly contacting Saudi officials and preparing plans to escape the United States.
+Judge Tse ruled on Tuesday that, due to the lack of proof that Alfozan was spying for Saudi Arabia, the suspect would be released from jail and restricted from leaving Northern California while having to use an ankle monitor, which will track his location.
+"There is no spy story that we’re talking about right now," Judge Tse said Tuesday. "The government doesn’t have that."
+Former OpenAI employee accused of planting recording system
+The accusation against Alfonzan says that he allegedly planted an "audio recording device into a USB port on the back of a television in an executive OpenAI conference room," with the device working for several days and even having the data inside encrypted.
+The investigation also accused Alfonzan of using his wife's AI chatbot account (without specifying which chatbot was used) to research (among other things) how to “build a continuous audio recorder” to “captur[e] microphone audio and save compressed WAV recordings to an SD card”; “improve audio and live listening”; “develop … speech-triggered recording”; “add browser access and controls,” including “live listening”; and “encrypt the SD card” and “decrypt and recover recordings from the removed card.”
+“This serious situation underscores why winning the global super intelligence race is a national security prerogative - and why President Trump’s leadership in creating the Super Intelligence Force is so important,” said Director of National Intelligence Jay Clayton in October, when the investigation was revealed.
+“For us it is a matter of national security. This arrest highlights our relentless efforts in partnership with the FBI to identify and prosecute those who seek to steal our technology, as alleged in the complaint,” added US Attorney Craig H. Missakian.
+Possible Saudi involvement
+The main fear over Alfonzan's flight risk lies in alleged ties with Saudi authorities, with the prosecution saying that it had proof that he had planned to flee the country days before being indicted.
+"He had intended to fly from San Francisco to Riyadh (via Istanbul) with his wife and son on a one-way ticket on October 12, 2026. After being arrested by the FBI three days earlier, the defendant did not make that flight. His wife and son, however, immediately left the United States without him," the accusation said.
+During an October 19 detention hearing, US Magistrate Judge Alex G. Tse questioned a letter from the Saudi Consulate in Los Angeles offering to cover Alfozan's entire bail bond.
+“Even if I set it at $10 million?” the judge asked. “I find that problematic. Seems like a blank check. ‘We’re gonna pay whatever the court wants to make sure he gets out.’”
+Richard Offenbacher contributed to this report.

@@ -1,0 +1,25 @@
+URL: https://tech.yahoo.com/gaming/articles/gta-6-stress-testing-ps5-170050303.html
+TITLE: GTA 6 Is Stress Testing PS5 Consoles To The Limit. Reports of Shutdowns and Consoles Dying, & Graphics Artifacts
+OUTLET: Yahoo Tech
+
+Reports identify error code CE-108255-1 as the most commonly cited result. Sony PlayStation support defines it as confirmation that "an error occurred with the game/application," which offers players little insight into what actually went wrong.
+Crashes Hit Every PS5 Model
+Failures are appearing at multiple points in the game, from the opening cutscene through specific early-story sequences, with some players unable to advance past the same crash point.
+Some players report the crash repeating at the exact same location, effectively blocking story progression entirely. Others describe seemingly random failures after extended play sessions.
+Reports have appeared from owners of the original PS5, PS5 Slim, and PS5 Pro, according to coverage from IGN, Polygon, and Kotaku. The problem does not appear limited to any single hardware revision.
+What CE-108255-1 Actually Tells You
+The error code is a generic signal that cannot identify whether a software defect, a system-software conflict, or a hardware problem is responsible.
+No diagnostic data has been released that narrows the cause. Neither Sony nor Rockstar has publicly confirmed a root cause or acknowledged a specific hardware-failure mechanism tied to GTA VI.
+THE PS5 BLACKOUT HAS STARTED. I called it back in early August. First came error reports and sudden shutdowns. Now we're seeing graphics artifacts live on stream and reports of consoles dying.
+GTA 6 is the toughest real-world PS5 stress test I've seen. In the clip, I'm standing… https://t.co/WDj0CYcAm9 pic.twitter.com/mtL09rAUmH
+— modyfikatorcasper (@Modyfikator89) November 24, 2026
+The Hardware Damage Question
+Community speculation about permanent console damage has circulated widely, but none of those theories are supported by verified diagnostic evidence.
+Repair and technology communities have speculated about possible explanations, including thermal stress, power-delivery instability, and liquid-metal degradation affecting the PS5's APU. These remain unverified hypotheses, not confirmed findings.
+The distinction matters: a crash to the home screen, a forced restart, and a console that subsequently fails to power on are three separate events. No diagnostic logs, repair-shop intake data, or official statements in the available reporting confirm that GTA VI is permanently damaging PS5 consoles.
+Workarounds Players Are Using
+Several troubleshooting steps have been documented by Eurogamer and others, though none carries official confirmation as a fix.
+The documented steps include updating the game and PS5 system software, confirming the installation is complete, restoring licenses, clearing the cache, rebuilding the database, and reinstalling the game. Some players also report that switching display resolution to 1080p helped bypass specific crash points, though that step is anecdotal and not a confirmed solution.
+What Would Actually Resolve This
+The reports establish a real and disruptive stability problem for a portion of PS5 players, but the cause remains unconfirmed and the situation unresolved.
+A meaningful answer requires something the current reporting does not provide: an official patch note identifying a specific defect, a public acknowledgment from Sony or Rockstar, or reproducible diagnostic testing across multiple units. Until that evidence emerges, the situation remains what the reports describe. A real stability problem is affecting a portion of PS5 players, and the cause has not been confirmed.
