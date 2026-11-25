@@ -1,6 +1,21 @@
 {
- "latest": "2026-11-24",
+ "latest": "2026-11-25",
  "editions": [
+  {
+   "date": "2026-11-25",
+   "type": "weekday",
+   "top": [
+    "Nasdaq futures down over 2% as AI losses deepen after Monday's Nvidia-led rally reverses",
+    "US prepares new tariffs on China, EU and others over subsidised production, AP sources say",
+    "Fed policymakers split over what is driving high inflation, days before PCE and the December meeting"
+   ],
+   "status": {
+    "story": 8,
+    "quiet": 2,
+    "failed": 0
+   },
+   "updates": 0
+  },
   {
    "date": "2026-11-24",
    "type": "weekday",
