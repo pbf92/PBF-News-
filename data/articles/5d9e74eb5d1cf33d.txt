@@ -1,0 +1,5 @@
+URL: https://qz.com/ai-token-prices-fall-anthropic-ipo-spending-111826
+TITLE: AI token prices fell 47% in nine months, but businesses spend more
+OUTLET: Quartz
+
+Until this summer, Lindy.ai paid more to Anthropic, the company that makes the Claude AI models, than to anyone else. Lindy, a San Francisco startup with more than two dozen employees, builds AI assistants that manage people's email and calendars, and its Anthropic bill was bigger than its rent. "By far, our No. 1 expense was Anthropic. Like, more than payroll," Flo Crivello, who runs Lindy, told NPR. In June, Lindy moved all of its work off Anthropic's top models and onto DeepSeek-V4, a model from a Chinese lab that anyone can download for free. "It was just 10x cheaper," Crivello said. "So it was a very, very simple business decision."

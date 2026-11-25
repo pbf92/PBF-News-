@@ -1,0 +1,13 @@
+URL: https://www.tradingview.com/news/coinmarketcal:7255ba85b094b:0-bankrcoin-bankr-rolls-out-custom-launchpad-tools-25-nov-2026/
+TITLE: BankrCoin: Bankr rolls out custom launchpad tools - 25 Nov 2026
+OUTLET: TradingView
+
+BankrCoin: Bankr rolls out custom launchpad tools - 25 Nov 2026
+Bankr rolls out its custom launchpad tools on 25 November 2026, letting anyone use its Uniswap v4 hook to run a launchpad of their own.
+On Base and Robinhood Chain, 5% of the fees from eligible trades goes toward buying BNKR for holders of the coin being traded. The amount used for those purchases comes out of Bankr's share of the trading fees.
+deployer@0xDeployer
+we just shipped the @bankrbot launch SDK!
+anyone can now run their own launchpad on our uniswap v4 hook. your rules, your fees, your users.
+it's the best stack to build a pad on, with max customization for teams that want full control over their token.
+we built it by asking…
+Nov 25, 2026

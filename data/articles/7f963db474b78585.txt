@@ -1,0 +1,14 @@
+URL: https://thenextweb.com/news/openai-private-inference-testing-customers
+TITLE: OpenAI is testing a way to shield business prompts while its models run
+OUTLET: The Next Web
+
+OpenAI has started testing Private Inference, an alpha feature that uses confidential computing to protect business prompts and replies during processing, with a small group of customers. It joins Private Safety Processing in OpenAI’s Private Intelligence package, as Anthropic opens a rival safety system.
+OpenAI has begun testing Private Inference with a small group of business customers. The feature is meant to keep their prompts private while its models work on them. Chief executive Sam Altman announced the trial on X on Wednesday.
+It uses confidential computing, which runs the work on sealed-off chips, plus “strict verifiable controls”, OpenAI’s product page says. Apple takes a similar approach for Siri’s cloud requests.
+OpenAI’s page calls Private Inference an alpha. The company first showed it at DevDay as a preview due this autumn.
+“Stronger privacy protections will make frontier AI useful for a lot more work, and business privacy is important for a healthy ecosystem,” Altman wrote.
+Private Inference is the second part of OpenAI’s privacy package for firms. The first, Private Safety Processing, checks for misuse without OpenAI keeping customer data. It began rolling out in September.
+Shekar, who leads the work at OpenAI, called the test a first step. He said OpenAI is lining up more computing power for a much larger rollout, but gave no date.
+Rival Anthropic has moved faster on safety checks. On Monday, it opened Enterprise Frontier Safeguards to all business users in beta. The system watches for misuse while firms keep their own data.
+Get the TNW newsletter
+Get the most important tech news in your inbox each week.

@@ -1,0 +1,18 @@
+URL: https://www.neoteo.com/en/gta-6-xbox-fps-glitch-what-the-tests-actually-found
+TITLE: GTA 6 Xbox FPS glitch: what the tests actually found
+OUTLET: NeoTeo
+
+The GTA 6 Xbox FPS glitch can lower input lag in one test, but it does not make play consistently smoother: Digital Foundry measured about 120 ms near 40 fps versus about 170 ms at 30 fps on Xbox Series X with VRR enabled, while also reporting uneven performance and gameplay that can speed up. Its analysis was published November 23, 2026. Digital Foundry’s findings describe a Quick Resume workaround, not a dependable route to higher frame rates.
+A higher frame-rate reading is useful only if the game still responds at a consistent pace.
+What the GTA 6 Xbox FPS glitch changes
+Digital Foundry says the glitch works on Xbox Series X and Series S. The reported sequence starts GTA 6 with the console output at 60 Hz, switches to 120 Hz while the game loads, then launches another game before returning to GTA 6 through Quick Resume. The behavior is tied to that combination of refresh-rate changes and resuming the game.
+The detailed measurements focus on Series X. Digital Foundry describes Series S performance as generally exceeding 30 fps only during calmer gameplay or cutscenes. Those results don’t provide a matched numerical comparison between the two consoles.
+What Digital Foundry measured on Series X
+With the glitch active, ordinary Series X gameplay ran at roughly 30–40 fps in Digital Foundry’s test, with a 36 fps average during its first hour. Fast traversal, dense city scenes and vehicle destruction could push the frame rate below 30 fps. Quieter areas, including open water, could reach around 40 fps; looking straight up over the ocean nearly reached 60 fps, an unusual scene rather than a typical play result.
+The lower input-lag reading came from one Series X test with variable refresh rate (VRR) enabled. It is a useful sign that input lag can fall as the frame rate rises, but the changing performance means that improvement does not guarantee consistent control.
+Why faster frames can change gameplay speed
+Digital Foundry reports that gameplay can speed up as the frame rate rises, while cutscenes run normally. Mac of Maka91Productions shows one specific example in an Xbox Series X gun-range task: about 44 seconds of real time passed for one minute on the game clock. That timing applies to the demonstrated task, not every activity in GTA 6.
+Mac describes his particular method as Series X-only; Digital Foundry’s account says the broader glitch works on both Series X and Series S. The two claims address different scopes. Mac’s English-language demonstration shows the refresh-rate switch, Quick Resume handoff and timed gun-range comparison.
+Why can a TV counter show a different frame rate?
+A TV’s VRR counter can display a multiple of the game’s actual frame rate when Low Frame-rate Compensation (LFC) is active. Digital Foundry gives the example of 25 fps being displayed as 50 fps on the counter. That reading reflects the display’s LFC behavior, not the number of frames the game rendered.
+Digital Foundry also discusses a VRR-assisted 40 fps mode as a possibility. Busy scenes that fall below 30 fps can be limited by the CPU, while GPU-limited scenes could require extra work, such as integrating FSR 4 on Series X. Its analysis presents a possible approach, not a settled answer about how such a mode would perform.

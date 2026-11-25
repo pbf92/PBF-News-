@@ -1,0 +1,63 @@
+URL: https://ppc.land/amazon-forces-7-kinds-of-gambling-advertiser-to-prove-licences-before-ads-run/
+TITLE: Amazon forces 7 kinds of gambling advertiser to prove licences before ads run
+OUTLET: PPC Land
+
+Amazon Ads has put a licence check at the start of gambling campaigns. Advertisers "in certain gambling and games categories" must now "verify their licensing or authorization before their campaigns can go live," according to an entry in the Amazon Ads policy change log that lists the change under November 2026. The change log carries the date November 22, 2026.
+Amazon also removed a clarification that review times are extended during periods of high submission volume. Neither the change log nor the Gambling and Games policy page now says anything about how long a review takes, whether for an ad or for a licence.
+The policy page itself has not moved. It still reads "Updated on Nov 15, 2026," and the sentence requiring verification is the one PPC Land reported on November 12. What the change log adds is a month, a point in the campaign's life at which the check must be complete, and a twin: in the same month, Amazon applied identical wording to "certain dating and related services categories."
+In Short
+Amazon now requires gambling advertisers in seven categories, from online casinos and lotteries to sports betting and prediction markets, to prove they hold a licence or legal authorization before any of their campaigns can start. The rule affects gambling brands and the agencies that buy ads for them on Amazon, and the same check before launch now applies to some dating services. Amazon also dropped a line saying reviews take longer when many requests arrive at once, and its pages now give no indication of how long the check takes.
+What the change log says
+The Ad policy change log is Amazon's running record of edits to its advertising policy pages. Each entry has four parts: a title, a summary, a link to the policy page and the month of the change. There is no day. The gambling entry sits at the top of 13 entries that run back to July 2026.
+Apart from the name of the industry, the two summaries are word for word the same. Two of the four entries Amazon logged for November therefore set up the same gate for two unrelated businesses. The other two adjust film ratings guidance for Japan and country requirements for baby formula ads.
+Who has to verify
+The Gambling and Games page sets the scope in its opening line: "This section applies to products and services such as online gambling (such as fantasy sports, sports betting, online casinos, lotteries, prediction markets), offline gambling (such as brick and mortar casinos), and social casinos."
+The verification rule follows. "All gambling and games advertisers must be verified by Amazon and provide evidence that their gambling and games activities are appropriately licensed by a regulator or otherwise established as lawful in the country they want to target," the page states. It then points to Amazon's Business verification process and says: "This applies to:" followed by seven categories.
+The exemption for social casinos is written narrowly. "Social casino games that do not offer real-money wagering or prizes do not require advertiser verification," according to the page. A game that offers prizes, even without real-money bets, does not fit that sentence.
+The change log speaks of "licensing or authorization." The policy page offers two routes to the same end: being "appropriately licensed by a regulator" or being "otherwise established as lawful." The second route covers operators that do not hold a gambling licence as such, but the page does not say what evidence satisfies it. A separate line spells out how far the licence reaches: "Ads can only target approved countries/locales where permitted per the advertisers licensing and registration."
+How the process works, according to Amazon
+Read together, the two pages describe five stages that a gambling advertiser passes through before and during a campaign.
+- Declare the category. "Advertisers must select the category that best represents their product during the account set up to ensure that accurate signals are passed to suppliers. For gambling and games, including social casinos, this is Gambling and Sports Betting." This applies to every advertiser in the category, including social casinos that are exempt from verification. The category travels with the ad to the exchanges and publishers that sell the space, which apply their own rules on sensitive categories such as gambling.
+- Get verified by Amazon. Advertisers in the seven categories go through Business verification and "provide evidence" of a licence or lawful status "in the country they want to target," according to the page.
+- Wait for the check before launch. Under the November change log entry, campaigns cannot "go live" until licensing or authorization has been verified. Neither page gives a review time.
+- Target only where the licence allows. Ads may target only countries and locales "where permitted per the advertisers licensing and registration," and may not target or appeal to anyone "under the minimum legal gambling age (as defined in each locale)." Country sections add their own conditions. In Australia, for example, advertisers "must be registered with an Australian State or Territory and have a valid license."
+- Keep the licence current. "Advertisers must maintain all required licenses, certifications, and authorizations for the duration of the time the ads are running and they must notify Amazon Ads immediately if any of the aforementioned is suspended or terminated."
+Step two is an advertiser verification check of the kind Google and other large platforms run, but tied to a regulator's licence rather than to identity alone. On November 16, Amazon's page for new advertiser accounts already asked for the client's legal business name, not the agency's.
+What changed, and what did not
+The verification sentence was already on the Gambling and Games page when PPC Land first reported on it, and it reads the same in the version dated November 15. At that point, the page carried no change log and no effective date. The change log now supplies a month, November 2026, and a stage: before launch.
+The navigation change reverses part of the reshuffle PPC Land described when the policy's list entry was renamed from "Real money gaming" to "Gambling and games". The "Restricted categories and content" level no longer appears above the page. The sidebar still lists the same 16 related policies, from Alcohol to Event days, with Dating and related services among them.
+The review-time line
+The removed clarification made a single point: when many submissions arrive at once, review takes longer. Nothing on either page has replaced it.
+Other Amazon pages still give figures. The Brand Store rules for peak events say moderation usually takes 24 hours but can take up to three business days. Amazon's creative delivery lead times page, which sets deadlines for handing over creative, notes that its published times may change during peak periods. None of those figures applies to licence verification.
+The dates sit close together. The change log was dated November 22, three days into Amazon's US Black Friday Week, which runs from November 19 to November 30. Amazon has not said why the clarification was removed, or whether review times have changed.
+Three gambling changes in four months
+Gambling and games is the only policy with three entries in the change log, more than targeting, which has two. Read in order, they show the policy changing in steps.
+Fixed-odds betting is the standard sportsbook bet, where the payout is fixed at the moment the bet is placed. Brazil authorizes operators to offer it. Google has taken the opposite route to Amazon there: under rules announced in September 2024, it accepts Brazilian betting ads from operators authorized by the Ministry of Finance's Secretariat of Prizes and Bets that also hold Google certification, with only authorized operators eligible from January 1, 2025. Amazon's October entry closes the category in Brazil instead.
+On prediction markets, the November 15 version of Amazon's page excludes one US state, Nevada. Google excludes five. It opened the category in January 2026 only to exchanges regulated by the Commodity Futures Trading Commission and their registered brokers, and by October 7 Connecticut had become the fifth US state where Google bars the ads, after Nevada, Ohio, Michigan and New York. On November 19, Google opened YouTube Home and Search to certified gambling and prediction market advertisers.
+The rest of the log
+The other ten entries cover a wide spread of rules. In July, Amazon extended its targeting rules to every form of targeting, naming audience creation and contextual targeting among them, and clarified that ads referring to Amazon or people associated with it may be declined. The full record, as it stood on November 25:
+Every one of the 13 summaries ends with the same sentence: "Review the policy page for more detail."
+Why the order of steps matters
+Checks before launch are spreading across ad platforms. Google has required certification for dating and companionship advertisers since March 4, 2025, and in October 2026 it moved online gambling certification inside the Google Ads interface. Amazon's retail business has run its own identity checks for sellers, including ownership verification in Canada from January 2026.
+What Amazon's wording changes is sequence. A rule that says an advertiser "must be verified" can be read as an ongoing condition. A rule that says campaigns cannot "go live" until verification is done makes the check a hard stop at launch. For gambling campaigns timed to a match, a race or a draw, that stop now comes with no published turnaround, and Amazon has removed its line on review delays.
+The page's date has not changed since PPC Land described its country rules on November 17: 22 country sections, a 9pm to 6am window for all supply in the UK, and a cap of three ads per viewer every 24 hours on Prime Video where it is open to gambling.
+What the pages do not say
+Neither page gives a day in November for the change, says whether advertisers already running gambling campaigns must re-verify, or explains what evidence proves an activity is "otherwise established as lawful." The change log does not say which dating categories are covered, and the earlier wording of the review-time clarification is not preserved on either page.
+Key facts
+- Source documents: "Ad policy change log," Amazon Ads Support Center, https://advertising.amazon.com/help/G8X8M375UPCN4UUC; "Gambling and Games," Amazon Ads Support Center, https://advertising.amazon.com/help/GYN86Z5STCSCPDLJ
+- Date on the change log: "Updated on Nov 22, 2026"
+- Date on the Gambling and Games page: "Updated on Nov 15, 2026"
+- Change title: "Update to advertising policies applicable to gambling and games."
+- Month of the change: November 2026
+- New requirement: advertisers in certain gambling and games categories must verify their licensing or authorization before their campaigns can go live
+- Categories that need verification: online casinos, national or state lotteries, daily fantasy sports, sports betting, online horse racing, offline gambling establishments, prediction markets
+- Exempt: social casino games without real-money wagering or prizes
+- Account category to select: Gambling and Sports Betting
+- Parallel change, November 2026: the same verification requirement for certain dating and related services categories
+- Removed: a clarification that review times are extended during periods of high submission volume
+- Earlier gambling entries: August 2026 (US prediction market state targeting), October 2026 (fixed-odds betting ads prohibited in Brazil)
+- Entries in the change log on November 25, 2026: 13, from July to November 2026
+Timeline
+- September 28, 2024: Google requires Brazilian betting advertisers to seek Ministry of Finance authorization, with its policy effective September 30.
+- December 7, 2024: Google sets mandatory certification for dating and companionship ads, effective March 4, 2025.
+- J

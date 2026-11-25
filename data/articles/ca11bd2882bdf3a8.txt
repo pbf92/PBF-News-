@@ -1,0 +1,28 @@
+URL: https://www.eurekalert.org/news-releases/1153478
+TITLE: Patients in Indian clinic were well served by standard WHO-recommended HIV treatment, McGill study finds
+OUTLET: EurekAlert!
+
+A McGill-led study of HIV patients in Pune, India who received the tenofovir, lamivudine and dolutegravir (TLD) drug regimen found no improvement in outcomes for those who received versions of the treatment tailored to their personal characteristics.
+That’s important news for low- and middle-income countries where resources may be particularly limited, as HIV programs in these regions often rely on standardized treatment. TLD is the first-line regimen the World Health Organization recommends for use in those programs.
+"We thought one treatment would be more relevant for some patient sub-groups than others, but there was no benefit to tailoring," said Erica Moodie, Professor in the Department of Epidemiology, Biostatistics, and Occupational Health and the study's senior author. Characteristics that had been thought to influence results include body weight and immune status.
+"Our work suggests this is not the case. TLD is beneficial even when we consider people as individuals," said Ivan Marbaniang, Postdoctoral Researcher at the Research Institute of the McGill University Health Centre and study co-author.
+No tailoring required
+Dolutegravir is already known to have a higher barrier to drug resistance and cause fewer central nervous system side effects than efavirenz, the drug it replaced in the previous WHO-recommended regimen, TLE. However, much of the evidence supporting TLD’s use comes from clinical trials conducted under tightly controlled conditions, mostly in high-income countries or in sub-Saharan Africa, the researchers explained.
+To test whether the WHO recommendation would hold up outside of a clinical trial setting, the team analyzed blood tests from more than 500 people, collected over more than a decade. They focused on CD4 cell counts, a key measure of immune-system health. While HIV treatment studies often focus on viral load, CD4 counts are especially important in many lower- and middle-income countries because low levels increase the risk of opportunistic infections such as tuberculosis, Moodie said.
+The researchers applied two statistical methods developed by lead author Chloe Si, a PhD student in the Department of Mathematics and Statistics co-supervised by Moodie and Professor David Stephens, to determine whether certain groups of patients might benefit from different treatment strategies. They found little evidence that tailoring treatment according to such characteristics as weight and immune status improved CD4 recovery, suggesting that the WHO-recommended regimen remained the preferred option across the patient groups examined.
+The researchers noted that as countries work toward the global goal of ending AIDS as a public health threat by 2030, the findings underscore the importance of maintaining access to effective HIV treatments, especially now that many programs face funding cuts.
+About the study
+“Estimating Optimal Dynamic Treatment Regimes with Partial Compatibility: An Application to data from a TREAT Asia HIV Observational Database (TAHOD) site in Pune, India,” by Chloe Si, David A. Stephens, Erica E. M. Moodie, Ivan Marbaniang, Vidya Mave and Haridas Prasad, was published in American Journal of Epidemiology.
+The study was funded by Fonds de recherche du Québec - Nature et technologies, the Canada Research Chairs program, the Foundation for AIDS Research and the U.S. National Institutes of Health.
+Journal
+American Journal of Epidemiology
+Method of Research
+Experimental study
+Subject of Research
+People
+Article Title
+Estimating Optimal Dynamic Treatment Regimes with Partial Compatibility: An Application to data from a TREAT Asia HIV Observational Database (TAHOD) site in Pune, India
+Article Publication Date
+13-Oct-2026
+COI Statement
+The authors report no conflicts of interest.

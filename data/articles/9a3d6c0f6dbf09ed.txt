@@ -1,0 +1,12 @@
+URL: https://futurism.com/future-society/gta-6-publisher-furious-reverse-engineers-pc
+TITLE: GTA 6 Publisher Furious as Reverse Engineers Get It Running on PC
+OUTLET: Futurism
+
+As pretty much everybody expected, the sixth installment of the hit video game series Grand Theft Auto is off to a roaring start.
+Take-Two Interactive, the company that owns GTA 6 developer Rockstar Games, proudly announced last week that retail sales had reached a record $3.79 billion in a single day, making it the biggest entertainment — not just gaming — launch in history.
+However, thanks to the company’s exclusivity agreements with Microsoft and Sony, PC gamers are currently completely excluded from playing the game.
+While those players would conventionally stew in silence, awaiting a PC port that could take months if not years to hit the market, the advent of AI coding tools has upended that status quo. Now, GTA 6 has become their number one target. Take-Two has already tried to scrub several ports of the massively popular game from the internet, as IGN reports, convincing GitHub to delete a network of over 3,000 code repositories via a DMCA takedown notice.
+But it’s a game of cat and mouse as more projects come online on a daily basis, many of which are making major strides toward turning a PC version of GTA 6 into a playable experience.
+Screenshots and short clips being shared widely on social media show the game running on PCs. However, the ports appear to be running at extremely low frame rates for the time being, suggesting modders have plenty of optimizing left to do. But considering we’re less than a single week into the game’s release, it’s an astonishing amount of progress nonetheless.
+That means what could soon turn into the best-selling video game of all time may become extremely easy to pirate and play on the device of the gamer’s choosing. On one hand, it’s a for the considerable proportion of gamers who’ve been done dirty by console exclusive experiences. On the other, it’s a development that could lead to even more locked down games as publishers desperately try to clamp down on the practice.
+More on GTA 6: Grand Theft Auto VI’s Publisher Deeply Concerned About Efforts Reverse Engineer Game for PC

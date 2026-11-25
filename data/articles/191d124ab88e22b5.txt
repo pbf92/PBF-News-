@@ -1,0 +1,16 @@
+URL: https://dayton247now.com/news/nation-world/ai-company-employees-warn-internal-models-are-too-powerful-to-safely-release-report-anthropic-openai-rrt
+TITLE: AI company employees warn internal models are too powerful to safely release: report
+OUTLET: WKEF
+
+AI company employees warn internal models are too powerful to safely release: report
+WASHINGTON (TNND) — Anthropic and OpenAI employees are warning that internal models are too powerful to safely release, according to a report.
+More than two dozen anonymous sources from those companies told Axios that the issue could slow down the AI boom significantly as the gap between what the best AI systems can do and humans' ability to control them continues to grow, the media outlet reported Tuesday.
+Technical solutions for controlling the most advanced models have yet to be found, which some insiders believe is fixable. Other employees are unconvinced and said that companies should stop training new models entirely.
+Sources told Axios that containing or controlling models in internal tests has become difficult, if not impossible, amid rapid advances in reasoning across domains including math, science, cybersecurity and AI research.
+Both Anthropic and OpenAI's unreleased models are far more powerful than what has been publicly released, but the companies have struggled to ensure that they are safe enough for public release, according to unnamed sources.
+"If we continue trying to make models much smarter, such that they're actually smarter than us ... they will in fact be able to trick us successfully," one researcher told Axios.
+"And once you get to that point, many of the schemes that we've had at work up until now sort of go out the window."
+In July, OpenAI, which owns ChatGPT, said that its technology autonomously hacked another AI company called Hugging Face.
+An OpenAI spokesperson told Axios that the company has adopted new safety requirements that could slow the pace of model release.
+An Anthropic spokesperson told the news outlet, "Keeping a model internal doesn't make it safe. Our responsibility starts in training and covers how we use models ourselves, not only what we release. ... The hardest safety work is still ahead, and we've been clear that we may slow down or hold back even when it costs us."
+The spokesperson added that delays to pretraining for a recent model are for security purposes.

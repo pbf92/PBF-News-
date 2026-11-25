@@ -1,0 +1,16 @@
+URL: https://natlawreview.com/article/ransomware-group-n0n-claims-it-hit-financial-industry-ai-agents
+TITLE: Ransomware Group n0n Claims it Hit Financial Industry with AI Agents
+OUTLET: The National Law Review
+
+Little known ransomware group dubbed “n0n” alleges that it stole data from two major credit card companies and a large bank last week by announcing the attacks on its leak site, and giving the companies 48 hours to respond to their demands or it would leak sensitive data of customers on the dark web. The group claims to have obtained customer member profiles and marketing materials and leaked some of the stolen data on November 19. One of the credit card companies has confirmed that no payment card data was compromised.
+The bank denies that it is the victim of n0n and attributed last week’s outage to a “software bug,” and that there was “no evidence” of a cyber-attack.
+The significance of these attacks is that n0n is a new group that uses independent AI agents to attack its victims. It is able to scale the attacks to find vulnerabilities faster than seen before through the use of AI agents; n0n’s agents develop and maintain attack tools and have recorded 365 victims in just the last three months, including major credit card companies and a large bank. These companies have robust and sophisticated cybersecurity programs, so the attacks (even if the data stolen did not include payment card or customer financial information) are particularly concerning because they highlight the evolving risk to even the largest and most sophisticated companies through the use of AI agents.
+If the largest companies in the financial services industry can’t prevent an attack from a new ransomware group using AI agents, it is even more difficult for small to mid-sized companies to do so as they don’t have the resources or talent to keep up with the rapid pace of the threats. As a result, more and more companies are deploying their own AI agents into their environment to offensively fight AI agents being used by threat actors. It is truly becoming a hand-to-hand combat between AI agents in company systems much like a video game.
+Deploying offensive AI agents in your environment is worth consideration. The only way to combat an AI agent deployed by a threat actor is to fight it in real time with an offensive AI agent. Be mindful that when you deploy an AI agent into your environment, it is important to (these are just examples):
+- Provision its access in the same way you provision human access to data;
+- Put controls and parameters in place for the access to data and its “job”;
+- Log the AI agent’s access just like you do for a human;
+- Require human oversight and responsibility over the AI agent’s behavior;
+- Monitor the AI agent to prevent rogue behavior; and,
+- If using a third-party AI agent, review and negotiate the contract carefully.
+If you haven’t considered deploying offensive AI agents into your environment, now is the time. The threat actors are scaling attacks at a pace we’ve never seen before and are using AI agents to scan vulnerabilities using tools readily available on the market. Waiting to see if an AI agent will hit your environment is no longer an option.

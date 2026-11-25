@@ -1,0 +1,14 @@
+URL: https://www.eurekalert.org/news-releases/1153401
+TITLE: ECGomics: decomposing cardiac electrical signals into four dimensions to bridge expert features and deep learning
+OUTLET: EurekAlert!
+
+Background
+Conventional electrocardiography analysis faces a persistent dichotomy. Expert-defined morphological features offer interpretability but are limited in capturing latent high-dimensional patterns; deep learning achieves strong predictive performance yet often lacks interpretability and requires large annotated datasets. The paper notes that a systematic framework integrating these paradigms has been lacking.
+Methods
+The study proposes ECGomics, a structured and deployable analytical paradigm that deconstructs cardiac electrical signals into four interconnected dimensions: Structural, Intensity, Functional, and Comparative.
+Within this taxonomy, expert-defined morphological metrics are integrated with AI-derived latent embeddings to generate multidimensional digital biomarkers. Taking the functional dimension as an example, the paper notes these markers are derived through expert-defined rules and include morphological parameters such as waveform duration and amplitude, quantifying the physical assembly of the cardiac cycle. They also capture nonlinear dynamics and autonomic regulation through metrics such as the ECG spectrum, R–R interval skewness, and heart rate variability.
+Results
+The framework was operationalized into a scalable ecosystem comprising a web-based platform, a mobile solution (code hosted at github.com/PKUDigitalHealth/ECGomics), and application programming interface invocation.
+Validation spanned multiple representative clinical scenarios: atrial fibrillation detection, recurrence prediction after cryoablation, screening of severe coronary stenosis in apparently normal ECGs, and maternal cardiac monitoring. The authors report robust predictive performance across these scenarios while maintaining interpretability and relatively low data requirements.
+Implications
+The authors argue that ECGomics establishes an omics-level representation system for ECG analysis, bridging conventional feature engineering and deep learning within a unified taxonomy. By providing a deployable digital biomarker ecosystem, the framework advances scalable precision cardiovascular assessment and data-driven health management.

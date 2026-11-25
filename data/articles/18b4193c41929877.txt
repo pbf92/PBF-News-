@@ -1,0 +1,34 @@
+URL: https://www.eurekalert.org/news-releases/1153074
+TITLE: Errors in social network knowledge predict how ties evolve in the future
+OUTLET: EurekAlert!
+
+PROVIDENCE, R.I. [Brown University] — Decades of research show that mental representations of social networks are riddled with errors, with people commonly misidentifying existing ties and reporting relationships that do not exist. While these inaccuracies have been interpreted as noise arising from the limits of memory or attention, Brown University researchers have discovered a much more intriguing explanation: These “errors” are accurate representations of social connections that just haven’t happened yet.
+In a study published in Science Advances, the team showed how misperceptions about social relations serve as adaptive forecasts of how a social network will evolve.
+“Collectively, our results provide striking evidence that the human brain does not just represent the social world as it is but what it is expected to become in the future,” said study author Oriel FeldmanHall, a professor of cognitive and psychological sciences affiliated with Brown’s Carney Institute for Brain Science.
+FeldmanHall, who studies how the brain navigates the social world, said this new study started with a question: Can people, like the algorithms behind Facebook and LinkedIn, use existing friendship patterns to predict who will become friends next?
+To find out, the team tracked evolving friendships among a cohort of incoming undergraduate students over the course of an academic year by asking individuals to report their friends from a roster of all network members. Using mutually confirmed friendships (in which both individuals independently report a connection), they constructed snapshots of the actual friendship network across six waves, starting in October and ending the following May — essentially, an academic year. They also surveyed participants about their knowledge of other people’s friendships, asking them to report who was friends with whom at each wave. Approximately 200 students participated in each wave.
+“In the beginning, the social network is extremely volatile — meaning that in the first few weeks of school. there's a lot of churn in terms of new friendships,” FeldmanHall said. “That starts to settle down by late fall, so that’s what we used as a first data point to look at whether knowledge about the network in November would predict who would become friends the next semester.”
+The researchers found that judgments incorrect in the moment systematically forecast the network’s future structure: Falsely believing two others are friends predicted the subsequent formation of that tie, whereas failing to recognize an existing friendship predicted its dissolution. On average, people’s current errors were three times more likely than chance to accurately predict the emergence of new ties.
+The predictions were accurate upward of six months out, the study found, but FeldmanHall said it’s possible these predictions about future friendships could pan out on even longer time scales.
+According to the researchers, this study provides the first behavioral evidence that errors in judging others’ friendships reliably anticipate tie formation and dissolution half a year into the future.
+Mapping social connections
+In previous studies, FeldmanHall and Assistant Professor of Cognitive and Psychological Sciences (research) Apoorva Bhandari — the senior authors of this work — showed that people navigate social networks by creating mental maps of the connections between acquaintances, friends, and friends of friends. The researchers used this concept to explain the findings of their new experiment.
+“What we found is that people who hold a mental map of their social network — of how everybody is connected and how well connected particular individuals are — use that map to predict friendship formation and dissolution,” FeldmanHall said.
+Through computational modeling, the researchers showed that people were integrating information about relationships to fill in their map and anticipate connections and links between different people. The ability to predict where new relationships emerge or dissolve, in turn, shaped how individuals’ positions within the network evolve.
+“Everyone creates these mental representations of their social networks and makes predictions of who connects to whom, but some people do it better than others,” FeldmanHall said. “The top 25% of performers in our study — around 50 people — were about 15 times better than chance at predicting future social ties and breaks, which is astonishing.”
+These findings reframe a long-standing puzzle in social cognition, said lead study author Alice Xia, a former member of FeldmanHall’s lab who earned a Ph.D. in Cognitive Science from Brown in 2026.
+“Rather than reflecting limitations in human memory,” Xia said, “these errors reveal a predictive sensitivity to where the relationships in your community are headed.”
+Yi Yang Teoh, a postdoctoral fellow in cognitive and psychological sciences, also contributed to this research.
+The study was funded by the National Science Foundation (2123469), the National Institutes of Health (1S10OD025181), and the Social Sciences and Humanities Research Council of Canada Banting Postdoctoral Fellowship (FRN 198553).
+Journal
+Science Advances
+Method of Research
+Experimental study
+Subject of Research
+People
+Article Title
+Errors in social network knowledge predict how ties evolve in the future
+Article Publication Date
+25-Nov-2026
+COI Statement
+Part of this research was conducted using computational resources and services at the Center for Computation and Visualization, Brown University. Authors declare that they have no competing interests.

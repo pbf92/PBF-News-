@@ -1,0 +1,74 @@
+URL: https://ppc.land/new-amazon-ad-accounts-get-two-invoices-one-just-for-sponsored-ads/
+TITLE: New Amazon ad accounts get two invoices, one just for sponsored ads
+OUTLET: PPC Land
+
+Amazon Ads has updated its Support Center page "Understand advertiser accounts," and the revised version, dated November 24, 2026, contains a billing statement that earlier Amazon pages did not make so plainly. "If you create a new advertiser account, you'll pay by invoice for all ad campaigns under that account including sponsored ads," according to the page. "You'll receive one invoice for your sponsored ads and a separate invoice for your other campaigns."
+The page is short, a little over 400 words. It also names three ad products as the contents of a single account, lists seven steps for creating one, allows the account form to be filled in from a Seller Central, Vendor Central or Author Central login, and adds a closing step on merchant tokens for sellers. Eight days earlier, a companion page on creating advertiser accounts had tied pay by invoice to billing in a sentence that could be read two ways.
+In Short
+Amazon's help page on advertiser accounts, updated on November 24, 2026, says new advertiser accounts pay by invoice for every campaign, sponsored ads included, with one invoice for sponsored ads and a second for everything else. This matters to sellers, vendors, authors and agencies opening new accounts, because most Amazon advertisers have their ad costs taken from their seller or vendor balance rather than billed. The page does not say whether those other payment methods remain available on new accounts, and it does not say whether existing accounts are affected.
+One account for three products
+An advertiser account, as the page describes it, is meant to replace a patchwork. "Advertiser accounts allow you to create and manage campaigns using all ad products (sponsored ads, Full-Funnel Campaigns, and DVA+) and formats globally in a single account," according to Amazon. "Instead of creating and maintaining separate accounts for DVA+ per country and for sponsored ads, you can create one advertiser account when onboarding new advertisers."
+That sentence records how the old arrangement worked: one account for sponsored ads, and a separate account for each country on the programmatic side. The page replaces that, for new advertisers, with one account.
+The three products named are different kinds of buying.
+The page names all three as products of a single account. The creation page updated on November 16 named only two, describing an account for sponsored ads and DVA+. Full-Funnel Campaigns arrived at Amazon's unBoxed conference on September 29, 2026, and PPC Land reported in October that the product hands channel and audience choices to Amazon's AI at a $100 daily minimum.
+The page's five listed benefits follow the same theme. According to Amazon, an advertiser account allows the following:
+- "Switch between sponsored ads, Full-Funnel Campaigns, and DVA+ globally in one account."
+- "Invite team members once and set permissions that apply across all ad products."
+- "Manage a streamlined buying experience within the Amazon Ads Agent using the upgraded advertiser account."
+- "View consolidated reporting to perform cross-product analysis."
+- "Manage account and billing settings to update account details, billing, and generate both sponsored ads invoices and invoices for your other campaigns."
+The reporting line refers to Amazon's unified reporting, which left beta on June 8, 2026 with one report across accounts, ad products and countries.
+The invoice sentence
+Billing is where the page says the most. Two sentences set the terms for new accounts: everything is paid by invoice, and sponsored ads get an invoice of their own.
+Why does that stand out? Because sponsored ads on Amazon have mostly been paid another way. In April 2026, Amazon said the overwhelming majority of its advertisers pay through deductions from their seller or vendor account balance. Its plan to move a small group of credit card payers onto balance deductions caused a backlash: PPC Land reported on April 4 that ad costs would be taken automatically from seller proceeds from April 15, and on April 15 that Amazon had pushed the change to August 1 after pushback. Under that plan, pay by invoice was the alternative to balance deduction, with invoices sent at the end of each month and due 30 days later, and a card kept on file only as a backup.
+The November 24 page does not mention balance deductions or cards at all. It states invoicing for "all ad campaigns" on a new advertiser account, sponsored ads by name.
+Amazon's own pages have described payment for the advertiser account in different ways over the past year.
+Read together, the November 24 page is the first of these to describe invoicing as the way a new advertiser account pays, rather than one option among several. The library guide still presents it as an example.
+The two-invoice arrangement has a history of its own. In December 2024, Amazon put invoices for sponsored ads and its programmatic product on one page across countries. The new page keeps them on one billing page but as two separate documents, one for sponsored ads and one for Full-Funnel Campaigns and DVA+.
+How the page describes account creation
+According to Amazon, creating an advertiser account takes seven steps inside the Amazon Ads Agent console:
+- In the left menu, click Administration.
+- Select Account access and settings.
+- Click Accounts.
+- Click Add account.
+- Select Create advertiser account.
+- Complete the required fields and click Accept and continue. The fields can be filled in automatically by linking an Amazon retail selling account. The page names three: "Seller Central, Vendor Central, Author Central."
+- Wait for a notification that the account has been created.
+The first five steps match one of the three routes on the November 16 creation page. The other two routes, through the public homepage and through Campaign Manager, are not mentioned.
+Step six is broader than before. The November 16 page referred to a selling account only through a "Switch email" note, and Amazon's library guide speaks of importing details from a retail selling account in general terms. The November 24 page names Seller Central for third-party sellers, Vendor Central for companies that sell wholesale to Amazon, and Author Central for book authors. Linking is described as optional, a way to fill in fields rather than a requirement.
+The merchant token step
+The final step carries a condition. "You don't need to take any further action, unless you're a merchant using Amazon Seller Central that wants to add a new merchant token," according to the page. The next sentence reads: "Once your advertiser account is created, you need to add your merchant token under account settings."
+A merchant token is the identifier attached to a seller's account in Seller Central. The two sentences sit uneasily together. The first makes the token optional, for merchants who want to add one. The second reads as a requirement. "Add a merchant token" also appears among the page's eight related topics, but the page does not say what adding the token changes, for example whether it connects ads to the seller's listings or to balance deductions.
+Upgrade or create?
+The page's summary line speaks of "upgrading to an advertiser account in the Amazon Ads Agent to access all campaigns across sponsored ads, Full-Funnel Campaigns, and DVA+ from a single account." The body, though, only describes creating a new one.
+Amazon has already upgraded some accounts automatically. On July 30, 2026, it moved existing DSP-only advertisers onto a single advertiser account across 34 countries with no action required. Advertisers with separate sponsored ads and programmatic accounts were told, in Amazon's library guide, that a self-serve tool to combine them would come in a future release. The November 24 page does not say whether that tool exists, or whether upgraded accounts move to invoicing too.
+The account itself has been open to new registrations since October 2025, when the billing choice between manager account and advertiser account first appeared. Its home was renamed on September 29, 2026, when Amazon retired the Amazon DSP name and called the whole platform Amazon Ads Agent, the label the page uses.
+Why it matters
+For sellers, the payment method is a cash flow question. Balance deduction takes ad costs out of sales proceeds as they accrue. An invoice at month end, payable 30 days later under the terms Amazon set out in April, gives more time. The November 24 page does not repeat those terms, so the gap between spend and payment on a new advertiser account is not stated.
+For finance teams and agencies, the split matters in a more practical way. Sponsored ads and everything else now arrive on separate invoices under one account, so reconciliation work does not disappear with the single account. Agencies already face a separate layer of agency fee settings, in open beta since November 2026, on top of these invoices.
+For Amazon, the single account is also where Full-Funnel Campaigns, which mix sponsored ads with DVA+ formats in one campaign, sit beside the other two products under one set of users, permissions and reports.
+What the page leaves open
+The page carries no change log and no earlier copy of it could be found in public archives, so what changed on November 24 is not stated. It does not say whether balance deduction or card payment remains available on new advertiser accounts, what the invoice terms or credit checks are, how often invoices are issued, which countries or currencies apply, whether existing or upgraded accounts are affected, or what the merchant token is used for.
+Key facts
+- Source document: Amazon Ads Support Center, "Understand advertiser accounts," under Account management
+- Update date: "Updated on Nov 24, 2026"
+- Source URL: https://advertising.amazon.com/help/GXKXR56ZCMJ3WCS4
+- Summary line on the page: "Learn about upgrading to an advertiser account in the Amazon Ads Agent to access all campaigns across sponsored ads, Full-Funnel Campaigns, and DVA+ from a single account."
+- Ad products named: sponsored ads, Full-Funnel Campaigns, DVA+
+- Billing rule: "If you create a new advertiser account, you'll pay by invoice for all ad campaigns under that account including sponsored ads."
+- Invoices: "one invoice for your sponsored ads and a separate invoice for your other campaigns"
+- Creation path: Administration > Account access and settings > Accounts > Add account > Create advertiser account > Accept and continue (seven steps)
+- Selling accounts that can fill in the form: Seller Central, Vendor Central, Author Central
+- Merchant token: "Once your advertiser account is created, you need to add your merchant token under account settings."
+- Related topics listed: Understand account permissions; Add a merchant token; Add or remove users from your account; Cancel your Amazon Ads account; Complete your business verification task; Create a new advertiser account; Permissions definitions for the Ads API; Set your preferred language
+- Companion page: "Create a new advertiser account," updated November 16, 2026
+Timeline
+- October 2020 - Amazon introduces the Manager Account for linking several advertising accounts
+- December 2024 - Amazon puts sponsored ads and DSP invoices on a single page across countries
+- September 30, 2025 - Amazon announces one advertiser account across Amazon DSP and sponsored ads, in beta for DSP seat holders
+- October 2025 - The advertiser account opens to new registrations, with billing to the manager account or the advertiser account
+- April 4, 2026 - Amazon plans to take ad costs from seller proceeds for a small group of card payers from April 15
+- April 14, 2026 - Amazon defers the payment change to August 1, 2026, with pay by invoice as the alternative to balance deduction
+- June 8, 2026 - Amazon Ads unified reporting leaves beta
+- July 30, 2026 - Existing DSP-only advertisers upgraded to one advertiser account across 34 countries
+- September 29, 2026 - Amazon retires the Amazon DSP name and ado

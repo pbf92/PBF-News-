@@ -1,0 +1,6 @@
+URL: https://www.pymnts.com/news/artificial-intelligence/2026/startups-raise-515-million-to-build-ai-agents-their-own-internet/
+TITLE: Startups Raise $515 Million to Build AI Agents Their Own Internet
+OUTLET: PYMNTS.com
+
+Startups Raise $515 Million to Build AI Agents Their Own Internet
+The internet was built for people. Its search engines, browsers and phone lines assume a person is on the other end, reading a screen at human speed. Artificial intelligence (AI) agents are now the web’s newest users, and they search, read and act faster and in far greater volume than a person can. A parallel internet is being built for them.
