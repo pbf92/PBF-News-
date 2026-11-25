@@ -1,0 +1,33 @@
+URL: https://cryptobriefing.com/openai-matrix-multiplication-exponent-9-4/
+TITLE: OpenAI preprint claims the matrix multiplication exponent is exactly 9/4
+OUTLET: Crypto Briefing
+
+A November 24 paper puts the long-debated constant at 2.25 over every field and pairs it with a matching lower bound
+One of computer science’s most stubborn open questions may finally have a number attached to it. In a preprint dated November 24, 2026, OpenAI claims a proof that the matrix multiplication exponent, written as ω, is exactly 9/4, or 2.25, over every field.
+That is a big claim. Theorists have spent decades narrowing the range for ω without ever pinning it to a single value.
+According to the research summary, the result is the largest single improvement in matrix multiplication bounds since 1979. It would also settle a long-running problem in algebraic complexity theory.
+What the paper actually claims
+Matrix multiplication is the arithmetic workhorse behind machine learning, scientific simulation and much of modern computing.
+The exponent ω describes how the cost of multiplying two n-by-n matrices grows as n gets larger. A smaller exponent means the work scales up more gently as matrices get bigger.
+The preprint makes two claims that fit together. The first is an upper bound: matrices can be multiplied with an exponent of 9/4. The second is a matching lower bound: you cannot do better than that.
+On the lower-bound side, the paper argues that formal arithmetic circuits need at least ⌈n^{9/4}/2⌉ nonscalar multiplication or division gates to multiply matrices of size n.
+The previous best upper bound stood at approximately 2.371177, set in August 2026. Moving from roughly 2.371 down to 2.25 is not a rounding-error improvement. In a field where progress usually shows up several decimal places deep, it is closer to a demolition.
+How OpenAI got here
+The November paper did not appear out of nowhere. On October 2, 2026, an earlier OpenAI preprint first proposed the upper bound of ω ≤ 9/4, working with complex numbers and using Lean formalization.
+AI, tech, and the markets they move—in one daily briefing.
+Daily. Free. Join 34,000+ readers across crypto, finance, and policy.
+Lean is a proof assistant, a piece of software that checks mathematical arguments line by line.
+The November follow-up extends the claim from one specific setting to every field and adds the lower bound that closes the gap. Per the research summary, the argument relies on geometric and combinatorial obstruction techniques, with AI assistance playing a role in the discovery.
+The Lean formalization reportedly verifies results for division-free circuits over all fields, along with related statements.
+Why the AI angle matters
+An AI company is claiming to have resolved a problem that has occupied human theorists since before most of its engineers were born.
+The research summary frames the work as a showcase for AI’s growing role in pure mathematics, both in finding new arguments and in producing machine-checked proofs.
+A preprint is a paper that has been posted publicly but has not yet gone through formal peer review. The combination of an extraordinary claim, a corporate author and AI-assisted discovery practically guarantees that specialists will comb through every lemma.
+The Lean component helps here. Formal verification does not replace expert review, but it narrows the space where errors can hide.
+What this means for tech and AI
+For the broader technology industry, the research summary suggests the result may change how computational complexity problems are approached. Sectors that lean heavily on matrix math, including data analysis and machine learning, are the obvious candidates.
+A lower exponent could, in principle, lead to more efficient algorithms, which could translate into faster processing and lower operating costs for tech firms. The summary also points to possible knock-on effects in finance, logistics and artificial intelligence, all fields that run on matrix computations.
+A theoretical exponent tells you how cost scales as matrices grow toward infinity. Whether that turns into code that beats today’s optimized routines on real hardware is a separate question, and the research summary frames practical gains as something stakeholders should monitor as theory moves toward application.
+Matrix multiplication is the core operation inside the models OpenAI builds and sells.
+What to watch next: responses from complexity theorists, any independent attempts to verify the lower-bound argument, and whether the Lean formalization expands to cover more of the paper’s claims.
+Disclosure: This article was edited by Diego Almada Lopez. For more information on how we create and review content, see our Editorial Policy.

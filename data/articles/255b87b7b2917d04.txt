@@ -1,0 +1,22 @@
+URL: https://www.abs.gov.au/media-centre/media-releases/cpi-rose-49-year-october-2026
+TITLE: CPI rose 4.9% in the year to October 2026
+OUTLET: Australian Bureau of Statistics
+
+CPI rose 4.9% in the year to October 2026
+The Consumer Price Index (CPI) rose 4.9 per cent in the 12 months to October 2026, up from 4.3 per cent in the 12 months to September, according to the latest data from the Australian Bureau of Statistics (ABS).
+Rachael McCririck, ABS head of price statistics, said: “Housing was the largest contributor to annual inflation in October, rising by 6.4 per cent compared to a rise of 5.2 per cent in the 12 months to September.”
+“The 6.4 per cent rise in annual inflation for Housing reflected increases for both Electricity and New dwellings expenditure classes.”
+Electricity rose 25.2 per cent in the 12 months to October, up from an annual rise of 12.8 per cent to September.
+“The rise in electricity reflects Commonwealth government rebates, which reduced household electricity costs last year but are no longer in place,” Ms McCririck said.
+New dwelling prices rose 5.1 per cent in the 12 months to October, up from an annual rise of 4.7 per cent to September. This was driven by builders passing on higher costs for materials and labour.
+Transport was the second largest contributor to annual inflation in October, rising by 10.6 per cent due to higher automotive fuel prices.
+“On a monthly basis, Automotive fuel prices rose 6.3 per cent in October, compared to a rise of 9.4 per cent in September. This was driven by higher world oil prices,” Ms McCririck said.
+When prices for some items change significantly, measures like the Trimmed mean can give more insights into how underlying inflation is trending without the impact of temporary shocks.
+Automotive fuel was excluded from the trimmed mean in October, and this was a key driver of the difference between headline and trimmed mean inflation.
+Trimmed mean annual inflation was 3.8 per cent in October, up from 3.6 per cent in September.
+Media notes
+- Please attribute the 'Australian Bureau of Statistics (ABS)' when using our data.
+- More information on the complete Monthly CPI can be found via the CPI Article archive.
+- For any media requests, email media@abs.gov.au or call 1300 175 070 (9am–5pm Canberra time) with your questions and deadline.
+- Explore our Data Crash Course for guidance on finding and interpreting ABS data, and subscribe to our release notifications to stay updated.
+- Information on how the ABS will release market sensitive releases during a website or API outage.

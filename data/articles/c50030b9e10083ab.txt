@@ -1,0 +1,6 @@
+URL: https://www.theverge.com/ai-artificial-intelligence/1041882/anthropic-artifact-desktop-apps-mac-windows
+TITLE: Anthropic rolls out “Install as app” on Mac and PC for Claude’s mini-app Artifacts.
+OUTLET: The Verge
+
+Similar to browser-based web apps, Anthropic says individual app installation for Claude’s interactive Artifacts is now rolling out in beta on the desktop.
+The installed apps have their own toolbar icons and can be set up to either work on default permissions just like they would in a browser tab, with app permissions to support sending notifications, intercepting shortcuts, and opening over other programs, or they can be given full computer access.

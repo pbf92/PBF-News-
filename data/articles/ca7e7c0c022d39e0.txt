@@ -1,0 +1,29 @@
+URL: https://www.eurekalert.org/news-releases/1153338
+TITLE: Local action: microenvironments boost catalyst activity ten-fold
+OUTLET: EurekAlert!
+
+Osaka, Japan – Nitrate is a major water pollutant, and remediation technologies like catalytic electrochemical reduction remove nitrate by converting it into other compounds. This complex chemical reaction has many end products, among which is ammonia. Ammonia has many uses in agriculture and chemistry but it is difficult to obtain as an end product using a copper catalyst.
+Now, an international team, including researchers from the University of Osaka, has found that phosphate ions in a neutral buffer adsorb onto copper electrodes and act as ‘proton shuttles’, thereby increasing the rate and selectivity of nitrate conversion to ammonia. The new findings are set to be published in the Journal of the American Chemical Society.
+Nitrate can enter the water supply through agricultural fertilizer use, livestock operations, and wastewater treatment, posing health risks to humans and animals when ingested and causing severe ecological damage.
+Therefore, removing nitrate from water sources is key, and can involve methods such as catalytic electrochemical reduction. Here, a nitrate solution is subjected to electrolysis using electrodes made of a catalyst. Electron transfer to nitrate ions results in their chemical transformation. The complex reaction pathway can yield numerous end products. Many nitrate-contaminated waste streams are neutral or alkaline. Under these conditions, copper and other catalysts first convert nitrate to a nitrite intermediate that is subsequently transformed into ammonia. Ammonia is an important fertilizer feedstock and hydrogen carrier.
+Using a copper cathode results in a high reaction rate, but the solubility of the nitrite intermediate makes it difficult to obtain ammonia as the final product. The reduction of nitrite to ammonia is controlled by the availability of protons in the reaction system, where the proton concentration is reflected in the solution pH.
+Past research has tried to improve the reaction performance by modifying the catalyst materials used. However, the team has explored a novel approach by changing the environment around the electrode.
+“Feedstocks contaminated with nitrate frequently contain anions such as phosphate and carbonate. Consequently, we electrochemically reduced nitrate in a neutral phosphate buffer,” says corresponding author Yu Katayama. “At a fixed driving force, the reaction rate was approximately 10 times higher and the selectivity to ammonia was more than twice as high as for an alkaline solution with pH 13.”
+The environment around the electrodes was then probed using local pH measurements, operando infrared spectroscopy, and theoretical calculations. The surface pH at the copper electrode approximately matched the pH of the bulk reference alkaline solution. That is, the electrode surface pH was considerably higher than that of the bulk phosphate buffer (pH 7). Therefore, pH alone could not explain the improvement.
+“We found that phosphate adsorbed on the copper electrode acts as a ‘proton shuttle’, extracting protons from water and delivering them to the reaction intermediates,” adds Katayama. “This promotes the further reduction of the nitrite intermediate, thereby increasing selectivity to ammonia.”
+These results show that the environment around the catalyst electrode has a comparable effect on reaction performance to the catalyst material itself. These insights offer a new strategy for designing electrolytes for nitrate remediation and low-environmental-impact ammonia production.
+###
+The article, “Phosphate-Mediated Proton Shuttling Governs Nitrate Electroreduction Selectivity on Copper”, was published in the Journal of the American Chemical Society at DOI: https://doi.org/10.1021/jacs.6c11961.
+About The University of Osaka
+The University of Osaka was founded in 1931 as one of the seven imperial universities of Japan and is now one of Japan’s leading comprehensive universities with a broad disciplinary spectrum. This strength is coupled with a singular drive for innovation that extends throughout the scientific process, from fundamental research to the creation of applied technology with positive economic impacts. Its commitment to innovation has been recognized in Japan and around the world. Now, the University of Osaka is leveraging its role as a Designated National University Corporation selected by the Ministry of Education, Culture, Sports, Science and Technology to contribute to innovation for human welfare, sustainable development of society, and social transformation.
+Website: https://resou.osaka-u.ac.jp/en
+Journal
+Journal of the American Chemical Society
+Method of Research
+Experimental study
+Subject of Research
+Not applicable
+Article Title
+Phosphate-Mediated Proton Shuttling Governs Nitrate Electroreduction Selectivity on Copper
+Article Publication Date
+23-Nov-2026

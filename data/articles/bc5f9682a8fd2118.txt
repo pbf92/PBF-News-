@@ -1,0 +1,34 @@
+URL: https://www.eurekalert.org/news-releases/1152504
+TITLE: Shared membrane protects tuberculosis bacteria
+OUTLET: EurekAlert!
+
+Tuberculosis ranks among the world’s deadliest infectious diseases. More than 1.1 million people around the globe died from tuberculosis in 2025, according to the World Health Organization. The disease is caused by mycobacteria that are difficult to combat with antibiotics. Multidrug-resistant strains of Mycobacterium tuberculosis that are impervious to many of the most effective tuberculosis antibiotics are particularly problematic, creating an urgent need for new drugs.
+Back in 1882, German physician and Nobel laureate-to-be Robert Koch described that mycobacteria do not align themselves randomly, but rather form rope-like cords. It was not until the late 1940s that it was discovered that this cording is closely correlated with the virulence of the pathogens. To this day, laboratories around the world use these typical rope-like structures to quickly diagnose infections with Mycobacterium tuberculosis or related species with microscopes. How and why the bacteria form these ordered structures, however, was heretofore unknown.
+Two bacteria, one shared membrane
+A team of researchers headed by Professor Gregor Weiss from the Institute of Medical Microbiology at the University of Zurich (UZH), in collaboration with colleagues in Heidelberg, has now cleared up how the bacteria form these cords. Using high-resolution cryo-electron tomography, they were able for the first time ever to capture images of mycobacterial cords in their natural state, all the way down to individual components of the cell membrane.
+The outcome was unexpected: the researchers found that two adjacent bacteria always share a cell membrane. “The cells do not simply stick to each other, but are directly bonded together via a shared membrane. Such a thing had never been observed before in the field of biology,” says Marlen Petersen, a PhD candidate at UZH’s Institute of Medical Microbiology. “The shared membrane holds the strands together. All of the bacteria in the cluster are thus bonded together via a membrane network,” Petersen explains.
+A shield against the immune system and antibiotics
+The shared membrane benefits the pathogens in several ways. It gives the bacterial cords mechanical stability, enabling them to penetrate into other areas of the lung. Their cohesion persists even in the interior of human cells. Outside human cells, the bacterial cords can become so large that immune cells can no longer ingest them.
+In addition, within the shared membrane, the mycobacteria can conceal proteins that the immune system would otherwise recognize as an attack point. This is a crucial advantage for the pathogens, particularly at the outset of an infection. The structure also explains why antibiotics are less effective against bacterial cords of this kind. The outer cells form a shield that prevents antibiotic agents from reaching the inner bacteria. If the pathogens survive a medical therapy in this way, that can facilitate the development of resistances.
+Starting point for new therapies
+This is precisely where potential for a new therapeutic approach lies. “If we find ways to break the strands apart, existing therapies might work much more effectively,” Professor Weiss says. His group is now exploring how to selectively disrupt the shared membrane.
+National Center for Mycobacteria
+The University of Zurich’s Institute of Medical Microbiology is world-renowned in the field of tuberculosis research and houses the National Center for Mycobacteria, which conducts epidemiological surveillance, monitors tuberculosis control and detects chains of infection on behalf of Switzerland’s Federal Office of Public Health.
+Literature
+Marlen Petersen, Richa Mishra et al. A Shared Interbacterial Membrane Underlies Mycobacterial Cording. Cell. 24 November, 2026. DOI: 10.1016/j.cell.2026.11.002
+Contact
+Prof. Dr. Gregor Weiss
+Institute of Medical Microbiology
+University of Zurich
+Tel. +41 44 634 22 84
+E-mail: gweiss@imm.uzh.ch
+Journal
+Cell
+Method of Research
+Computational simulation/modeling
+Subject of Research
+Cells
+Article Title
+A Shared Interbacterial Membrane Underlies Mycobacterial Cording
+Article Publication Date
+24-Nov-2026

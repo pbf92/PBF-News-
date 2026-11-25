@@ -1,0 +1,61 @@
+URL: https://felloai.com/best-claude-connectors/
+TITLE: Claude Connectors: The 15 Best to Add in 2026 (for Work, Life and Your Mac)
+OUTLET: Fello AI
+
+Claude's Connectors Directory lists 986 connectors as of 20 October 2026, up from just over 200 when Anthropic added everyday apps in April. Every popular "best Claude connectors" list is written by a company selling one of them. Jotform puts Jotform first. Drag puts Drag first. The tl;dv list ranks tl;dv second. All of those lists stop at work tools, even though Anthropic's own directory now carries Spotify, Expedia, Zillow, AllTrails and an iMessage extension for the Mac.
+This guide ranks the 15 Claude connectors worth adding first, split into work, everyday life and the Mac, with no vendor of our own in the list. Each pick names what the connector can actually do, whether it needs you to sign in, and one prompt to try. Before the list, two short sections answer the questions people search for most: what Claude connectors are, and what data Claude can reach through them.
+The Key Takeaways
+- What they are: Claude connectors link Claude to outside apps through MCP, so it can read your data there and take actions, with your own permissions in that app.
+- How many: the directory showed 986 connectors on 20 October 2026, up from over 200 in April. Google Drive, Gmail and Google Calendar top the usage ranking.
+- Free plan: Anthropic says connectors are on all plans, including Free, and Free can add one custom connector. Anthropic's own Gmail and Google Calendar docs still list those two for Pro and up.
+- The gap in other lists: Expedia, Booking.com, Zillow and AllTrails need no account with the service, according to their listings, and none of the vendor-written roundups mention them or Spotify.
+- Mac only: Anthropic's Read and Send iMessages and Filesystem extensions run locally in the Claude desktop app.
+What Are Claude Connectors?
+Claude connectors are integrations that let Claude access an outside app, retrieve your data from it and take actions inside it, such as creating a calendar event or drafting an email. Anthropic's help center gives the example of connecting Linear to create issues, Slack to send messages and Google Drive to search files. Each connector is an MCP server, the open standard explained in our guide to what MCP is in AI.
+Claude connectors come in three forms. Remote connectors are web services you sign in to, and they work on claude.ai, the desktop app and the Claude mobile app. Desktop extensions are local connectors packaged as MCP Bundles (MCPB) that run on your own computer inside the Claude desktop app. Custom connectors are any remote MCP server you add yourself by URL, whether or not it is listed in the directory.
+Claude connectors also follow you across Anthropic's apps. According to Anthropic's documentation, the connectors you add on claude.ai are available in Claude Code when you sign in with the same account, and Cowork uses connectors and plugins too. A connector you set up on the web or the desktop app appears on Claude for iOS and Android the next time you log in there. Claude Duet, Anthropic's proactive agent app, starts from the same connectors you set up in Claude.
+Claude Connectors vs MCP vs ChatGPT Apps
+Claude connectors are MCP servers with a listing, a review label and a one-click setup. MCP is the protocol underneath. The Connectors Directory is Anthropic's catalogue of those servers, and anyone can still add an unlisted MCP server as a custom connector. ChatGPT's equivalent is a separate catalogue with its own rules, covered in our guide to ChatGPT apps. Claude Code plugin marketplaces are a third thing again, which our Claude marketplace guide untangles. Grok has its own connectors too, covered in our guide to Grok connectors.
+What Data Can Claude Access Through Connectors?
+Claude can access only what you can already access in the connected app. Anthropic's help center states that Claude inherits each person's permissions from the connected service. A file, channel or record you cannot open in that service is out of reach through Claude as well. The one exception is a custom connector that uses a shared credential, which reaches whatever that credential can reach.
+What Each Connector Can Do With Your Data
+What Claude can do with your data depends on the tools each connector exposes. The Google Drive connector, for example, lists tools to search files, read file contents, create, share and trash files. The Uber connector's main tool returns fare estimates and nothing more. Every listing in the directory shows its tool list, so you can see before connecting whether a connector only reads or can also write, send and delete.
+Connectors whose directory listing says Sign-in: Not required, such as Expedia, Booking.com, Tripadvisor, Zillow and AllTrails, work without an account at that service. Claude searches the service's public catalogue for you, but the connector is not tied to anything of yours there. Zillow's own setup page states this plainly: its connector cannot see your saved homes or searches. Treat the label as a hint, not a rule: Spotify's listing also says no sign-in, while Spotify's announcement describes connecting your Spotify account for personalised picks.
+Anthropic also limits what flows the other way. Its April 2026 announcement of everyday connectors says your data from a connected app is not used to train Anthropic's models, and the app does not see your other conversations with Claude.
+How You Control Each Action
+You stay in control of each action a connector takes. Claude can ask for approval before it uses a connector's tool, with Allow once or Always allow as the choices. Under Customize > Connectors, which reads Plugins once Anthropic's November redesign reaches your account (general availability November 9, 2026, with a filter to show only connectors), you can set each tool, or each group of tools, to Always allow, Needs approval or Blocked. Connected services process your data on their own infrastructure under their own terms, and Anthropic's help center notes that those servers can sit outside the United States.
+The 15 Best Claude Connectors at a Glance
+The 15 best Claude connectors split into six for work, six for everyday life and three for the Mac. Every pick in the table carries Anthropic's verified label in the directory, which means Anthropic tested its tools for quality and compatibility, not that it ran a security audit.
+Best Claude Connectors for Work
+The best Claude connectors for work are the ones that hold the documents, email and calendar you already paste into chats. They are also the most used: Google Drive, Gmail and Google Calendar sit at the top of Anthropic's usage-ranked directory.
+1. Google Drive: Best for Finding Your Documents
+The Google Drive connector lets Claude search your Drive, read Google Docs, Sheets, Slides and PDFs, and create or upload files. Google built it, and its tool list also includes sharing and trashing files, so set the destructive tools to Needs approval if you share a Drive with colleagues. If your company runs on Microsoft instead, Anthropic's own Microsoft 365 connector searches SharePoint, OneDrive, Outlook and Teams. It works on every Claude plan, but it needs a work or school Microsoft account and an administrator's consent for your organisation.
+Try asking: Find the budget spreadsheet I edited last week and list the three biggest cost lines.
+2. Gmail: Best for Inbox Triage
+The Gmail connector lets Claude search your email, read whole threads and answer questions with citations back to each message. What it can do beyond reading is unsettled. Anthropic's Gmail setup page says Claude reads and searches only and cannot send, and lists the connector for Pro, Max, Team and Enterprise. Google's directory listing, added in March 2026, shows 29 tools including create_draft, reply and send_message. Open the connector's tool permissions after you connect, and set anything that sends to Needs approval or Blocked.
+Try asking: Summarise every unanswered email from this week that asks me a direct question.
+3. Google Calendar: Best for Scheduling
+The Google Calendar connector lets Claude answer questions about your meetings, attendees and free time. Like Gmail, its write access is contested: Anthropic's Calendar setup page calls it read-only and lists it for Pro and up, while Google's directory listing shows create_event, update_event and suggest_time tools. Either way it pairs naturally with Gmail, because Claude can read a thread that proposes a meeting and check your calendar in the same conversation.
+Try asking: When am I free for 45 minutes next Tuesday or Wednesday afternoon, and who is in my Thursday meetings?
+4. Notion: Best for Notes and Team Wikis
+The Notion connector lets Claude search your workspace, fetch pages, create and update pages, build databases and add comments. It is the strongest pick for anyone who keeps meeting notes, reading lists or a personal wiki in Notion, because Claude can file its own output straight back into the right page.
+Try asking: Turn my notes from today's three meetings into one Notion page with action items at the top.
+5. Slack: Best for Catching Up
+The Slack connector lets Claude search public and private messages you can see, read channels and threads, send messages, and create or update canvases. It earns its place after a week off, when the useful question is what changed, not what was said.
+Try asking: What decisions were made in #product while I was away, and who made them?
+6. Canva: Best for Quick Designs
+The Canva connector lets Claude search your designs, read their content, generate new designs, autofill templates and export them. Canva's listing also includes folder tools and comments. It is the fastest route from a Claude conversation to a finished social graphic or one-page flyer.
+Try asking: Make three Instagram post designs announcing our Saturday opening hours and export them as PNG.
+Best Claude Connectors for Everyday Life
+The best Claude connectors for everyday life are consumer services that Anthropic began adding on 23 April 2026, and several of them need no account at all. They turn Claude into a front end for music, travel, homes and the outdoors, which is a different job from searching Google Drive or Slack.
+7. Spotify: Best for Music and Podcasts
+The Spotify connector gives Claude personalised music, podcast and audiobook recommendations based on your listening history, and you can preview, save or play what it finds. Spotify's announcement says both Free and Premium Spotify listeners can use it on Free, Pro and Max Claude plans. Only Premium users can describe a vibe or mood and get a playlist built for it. It also supports Spotify Connect, so Claude can switch playback between your devices.
+Try asking: Recommend a podcast episode about space exploration that fits a 40-minute commute.
+8. Expedia: Best for Flights and Hotels Together
+The Expedia connector searches flights and hotels worldwide from one prompt. Expedia's listing promises real-time pricing and availability and says no sign-in is needed. eDreams, added in October 2026, does the same flight-plus-hotel job if Expedia does not cover your route well.
+Try asking: Find a direct flight from London to Lisbon on 14 November and a hotel under 150 euros a night near Alfama.
+9. Booking.com: Best for Places to Stay
+The Booking.com connector has one tool, accommodations_search, and it does that one job well: search and compare hotels and homes with filters for price, ratings and facilities. If reviews matter more to you than price, the Tripadvisor connector compares hotels by Tripadvisor ratings, reviews and nearby attractions instead.
+Try asking: Show me pet-friendly holiday homes in Cornwall for four people, rated 8.5 or higher.
+10. Zillow: Best for House Hunting in the US
+The Zillow connector searches US homes for sale and to rent, compares neighbourhoods, checks a Zestimate and estimates what you can afford, including a monthly mortgage payment. It needs no Zillow account. Zillow's setup page also lists what it cannot do. It is read-only, and it can

@@ -1,0 +1,24 @@
+URL: https://securitybrief.com.au/story/dxc-launches-ai-code-security-service-with-anthropic
+TITLE: DXC launches AI code security service with Anthropic
+OUTLET: SecurityBrief Australia
+
+DXC Technology has launched Frontier Code Assurance, a managed code security service built on Anthropic's Claude Mythos AI model. It is designed to help enterprises find and fix software vulnerabilities in critical applications.
+The launch comes as companies face growing pressure to identify flaws before they can be exploited, particularly after recent vulnerabilities in widely used software highlighted how quickly security issues can escalate.
+Frontier Code Assurance combines AI-based vulnerability discovery with review and validation by DXC's cybersecurity specialists. It is intended to detect flaws that conventional scanning tools may miss, rank them by business impact and produce a remediation roadmap backed by auditable evidence.
+DXC can also support customers with remediation and patching. Organisations can start with a single application and later expand the service across broader security operations.
+AI and review
+The offering sits within DXC's global cybersecurity business, which operates 12 Security Operations Centres in more than 40 countries and employs thousands of cybersecurity professionals.
+That mix of automation and human assessment reflects a wider shift in security operations. The challenge is no longer only finding potential vulnerabilities, but deciding which issues matter most and how they should be fixed.
+DXC positioned the new service around that operational gap. Rather than relying solely on automated scanning, Frontier Code Assurance uses Claude Mythos to identify possible weaknesses, then passes those findings to DXC specialists for validation and prioritisation.
+"Through our Anthropic partnership, DXC is able to combine our existing cyber incident detection, rapid response, and recovery management with a new capability to run Claude Mythos for cyber vulnerability, discovery, and detection," said Raul Fernandez, Chief Executive Officer, DXC Technology.
+Fernandez linked the launch to DXC's existing security business and its scale in managed cyber services. "With thousands of security professionals globally, DXC is very well positioned to assist our customers in this rapidly emerging, critical capability. The Frontier Code Assurance offering is available now. Email FCA@DXC.com for additional information and next steps," he said.
+Partnership base
+Frontier Code Assurance builds on DXC's broader relationship with Anthropic. DXC is a Global Premier partner in the Claude Partner Network, and the new service forms part of a multi-year global alliance between the companies.
+That tie-up reflects the increasing use of large language models and related AI systems in cyber defence, particularly in software review, code analysis and incident response support. Across the market, vendors have been trying to position AI tools not just as alerting systems, but as aids for security teams handling large volumes of findings.
+For customers, one of the central issues is the gap between detection and remediation. Security teams often face long lists of software flaws, but have limited time and staffing to determine which are genuine, which carry material business risk and which should be fixed first.
+DXC said Frontier Code Assurance is intended to address that through three layers of service: identifying and validating vulnerabilities, prioritising risks based on business impact and mapping a path to remediation. It can then help organisations carry out the patching process.
+Market pressure
+The announcement also comes as businesses reassess software assurance practices in response to more frequent disclosure of serious flaws in common development environments and enterprise systems. Such vulnerabilities can quickly become operational risks when exploit details spread faster than internal teams can test and deploy fixes.
+Managed Security Providers have increasingly responded by combining in-house analysts with AI tools that can review code, reduce false positives and present findings in a way security and development teams can act on.
+DXC's position is that the process still requires specialist oversight. Claude Mythos can uncover potential issues, while DXC personnel determine what action should follow and how remediation should be sequenced.
+Organisations can start with a single application and expand over time, or fold the service into ongoing security operations.

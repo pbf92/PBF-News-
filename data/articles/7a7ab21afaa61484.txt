@@ -1,0 +1,40 @@
+URL: https://tech.yahoo.com/gaming/articles/gta-vi-pc-port-project-164624034.html
+TITLE: GTA VI PC port Project Leonida vanishes as 15-year-old founder quits, blames Rockstar
+OUTLET: Yahoo Tech
+
+Rockstar Games has reportedly moved against one of the most prominent unofficial Grand Theft Auto VI (GTA VI) PC port projects, resulting in the disappearance of its massive Discord community and the departure of its teenage founder.
+Project Leonida, one of several independent development efforts aimed at getting GTA VI running on PC ahead of Rockstar's official release, saw its original GitHub repository and Discord server disappear just hours after competing developers reported a major breakthrough in getting the game to boot on Windows.
+Perhaps the most surprising revelation is that the person behind the project was reportedly just 15 years old.
+GTA VI PC Port Founder Blames Rockstar for Shutdown
+As previously reported by That Park Place, a leaker known as Cyberleek released the missing executable from an alleged Xbox development build of GTA VI on November 23, opening the door for independent developers to attempt to get the game running on PC.
+Within approximately three hours, footage surfaced reportedly showing the game reaching its initial settings sequence on Windows, although significant graphical issues remained.
+However, the celebrations didn't last long.
+According to TechPowerUp, Project Leonida's Discord server, which had amassed approximately 179,000 members, disappeared alongside its GitHub repository.
+The project's founder, known online as NotRexed, subsequently announced his departure on X.
+https://x.com/Pirat_Nation/status/2125233761272861056
+"I quit guys. I'm sorry," the developer wrote, explaining that circumstances beyond his control had prompted him to step away. "Thank you everybody, especially in the discord that allowed me to have this opportunity."
+In a subsequent statement, NotRexed directly accused Rockstar Games of involvement in the server's removal.
+Teenage Developer Cites Pressure From Gaming Community
+While Rockstar's alleged intervention contributed to the developer's decision, it apparently wasn't the only factor.
+"Rockstar taking my server down was only part of the reason," NotRexed wrote.
+The developer explained that he was just 15 years old and was attempting to balance school and sports with the increasingly demanding expectations of an enormous online community, including "having middle-aged men yell and complain to you on Discord."
+According to Dexerto, NotRexed also shared a screenshot indicating that his Discord account had been suspended until 2028.
+The circumstances surrounding the project's disappearance remain somewhat unclear. Neither Rockstar Games nor its parent company, Take-Two Interactive, has publicly confirmed responsibility for the reported takedown.
+Nevertheless, it's understandable why Rockstar would be concerned about the prospect of an unofficial PC version of its biggest commercial release emerging before its own.
+Project Leonida Was Not the Only GTA VI PC Port in Development
+One important distinction in the developing story is that Project Leonida was only one of several independent efforts attempting to bring GTA VI to PC.
+While footage circulated on social media showing the game reportedly reaching its initial settings sequence just three hours after the leaked executable became available, that breakthrough appears to have been achieved by a separate project known as XCL.
+According to PC Games Hardware, Project Leonida had managed to keep the game's executable running for approximately three minutes behind a blank window before the project went offline.
+Meanwhile, XCL reportedly progressed to the game's initial menus, while another competing project known as VIctory reportedly made further progress toward rendering the game itself.
+Despite its comparatively limited technical progress, Project Leonida had attracted an enormous online following, making it one of the most visible efforts to bring Rockstar's blockbuster to PC.
+The disappearance of Project Leonida does not necessarily represent a significant technical setback for the broader unofficial porting effort. Rockstar may have reportedly shut down one of the largest communities dedicated to bringing GTA VI to PC, but other developers appear to have already surpassed its technical achievements.
+The Race to Bring GTA VI to PC Continues
+Despite the disappearance of Project Leonida, Rockstar's potential problems with unofficial GTA VI PC ports appear to be far from over.
+Video Games Chronicle reported that developers are utilizing artificial intelligence tools, including Claude, to accelerate their programming efforts. None of these projects has demonstrated a fully playable, independently verified PC version of GTA VI. However, the situation presents an interesting dilemma for Rockstar.
+The company certainly has a legitimate commercial interest in protecting its intellectual property and preventing unauthorized distribution of its software. But Rockstar's continued decision to withhold its biggest releases from PC gamers has also created considerable demand that remains unsatisfied.
+GTA V arrived on PC approximately 19 months after its original console release, while Red Dead Redemption 2 took more than a year to make the transition.
+Rockstar has yet to announce an official PC release date for GTA VI.
+With leaked development files already circulating and artificial intelligence potentially accelerating independent programming efforts, Rockstar could find itself engaged in an extended game of whack-a-mole.
+Project Leonida may be gone in its original form, but the race to get GTA VI running on PC continues.
+This story was provided by That Park Place and is published here with permission.
+Related Headlines

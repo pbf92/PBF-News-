@@ -1,0 +1,27 @@
+URL: https://www.businessinsider.com/anthropic-stock-falls-below-ipo-investor-reactions-2026-11
+TITLE: What market pros are saying about Anthropic falling below its IPO price days after going public
+OUTLET: Business Insider
+
+Anthropic's historic IPO drew crowds to Times Square, but downtown on Wall Street, investors are a little less enthusiastic as the stock struggles days after the hugely hyped offering.
+The newly minted stock fell as much as 11% on Tuesday to $75.61 before closing the day down 6.5% at $81.90. That marks a decline of 9% from the $83 IPO price, and a drop of 29% from the high of $115.10 when the stock debuted on November 19.
+It's a sobering streak of declines for a stock that was so massively hyped, and the losses have sparked a debate about what's gone wrong and what the future might hold for shares of the Claude maker.
+Here's what market pros are saying about Anthropic stock as it struggles in the days after the IPO.
+Not a surprising event
+For Greg Halter, director of research at the Carnegie Investment Counsel, which oversees $7 billion in assets, Anthropic's post-IPO fall isn't surprising. In his view, it's par for the course for splashy IPOs.
+"For long-term investors, there is often little reason to chase a stock immediately following its public debut," Halter told Business Insider. "The initial enthusiasm surrounding a highly anticipated IPO can take several months to settle. Anthropic popped at the open, giving us reason to believe there may be a better entry point in the future."
+Look to Anthropic's first earnings report
+Melissa Otto, the global head of visible alpha research at S&P Global, said that Anthropic's volatility is likely to persist until the company's first earnings report.
+"The market likely wants to understand the visibility of Anthropic's sustained revenue growth and the road to profitability," she said. "At the moment, there is concern about the AI trade overall, due to the high levels of expected capex spending."
+She added that if high AI capex expectations from hyperscalers are pushed down, that could also weigh on Anthropic in the coming months.
+"Not a blank check"
+eToro analyst Bret Kenwell sees a clear reminder for investors following Anthropic's poor start to the week.
+"Enthusiasm for AI is not a blank check for every AI stock," he said, emphasizing the more selective nature in which some investors are approaching the AI trade and aren't willing to buy an unproven stock simply because the company is a high-profile name in the market.
+"What happens next will depend less on the broader AI trade and more on Anthropic's own results," Kenwell said. "Investors will want to see customer demand keep growing, compute costs become more manageable and a clearer path to profitability."
+The AI trade is flailing, not Anthropic
+Luke Lango, chief technology analyst at InvestorPlace, sees Anthropic's struggles as problem with the AI trade rather than the Claude maker itself. He acknowledged, though, that market conditions are working against it in a way that cannot be ignored.
+"It's the best company in AI," he said, of Anthropic. "But right now the market is selling the whole sector and nothing gets spared. Add a hot-IPO hangover, a big wall of insider stock waiting to hit the market and a trillion-dollar-plus price tag, and you get a quick round trip back to and even below the IPO price."
+He added that the AI buildout isn't stopping, but it is slowing down. That means Anthropic will likely need to fall further before it starts rising again once a rotation back into the AI trade kicks off.
+A complicated road to profitability
+According to Zacks Investment Management market strategist Brian Mulberry, investors may be feeling some fatigue as large amounts of capital flood the market. This is a factor that some investors expressed concern about prior to the roster of mega-IPOs beginning with SpaceX earlier this year.
+That doesn't mean Mulberry is bearish on Anthropic, but he's cautious amid all of the volatility.
+"Demand for AI tools is still very strong and that feeds a positive narrative back into ANT, meaning their AI tools should continue to monetize at a steady pace," he wrote. "But it's the road to profitability that seems to change day to day as spending commitments remain very large."

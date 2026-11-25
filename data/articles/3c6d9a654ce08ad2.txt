@@ -1,0 +1,21 @@
+URL: https://www.tradingview.com/news/smallcaps:28acc9bb0094b:0-iperionx-enters-us-implementation-scheme-to-make-nasdaq-its-primary-listing/
+TITLE: IperionX Enters US Implementation Scheme to Make Nasdaq its Primary Listing
+OUTLET: TradingView
+
+IperionX Enters US Implementation Scheme to Make Nasdaq its Primary Listing
+IperionX IPX has signed a scheme implementation deed with Texas-incorporated IperionX Inc to move its corporate domicile to the US and establish a direct primary listing on Nasdaq.
+The proposed scheme of arrangement builds on plans unveiled in August 2026 to align the titanium and critical minerals developer’s corporate structure with its entirely US-based operations.
+IperionX would retain Australian market access through a secondary listing of Clearing House Electronic Sub-register System (CHESS) depositary interests (CDIs), replacing its existing locally traded ordinary shares, and intends to retain the IPX ticker on both exchanges.
+The board expects the proposed listing structure could broaden institutional and strategic investor participation, improve access to US debt and equity markets, and mitigate duplicated reporting obligations if IperionX loses its foreign private issuer status.
+Funding and Industrial Expansion
+IperionX has obtained US government awards worth A$90.2 million (US$59.8m) under the Defense Production Act Title III and Industrial Base Analysis and Sustainment programs to support domestic titanium manufacturing and critical minerals development.
+The awards reimburse eligible expenditure, and the board believes a US domicile may improve access to additional government funding while reducing reliance on equity financing.
+The industrial platform encompasses titanium production and advanced manufacturing in Virginia, the Atlas-Titan critical minerals platform in Tennessee and titanium technology research and development in Utah.
+“We are building an American titanium business with the resources, technologies, and manufacturing capabilities to strengthen domestic supply chains, [and] establishing a US parent aligns our corporate structure with the American titanium business we are now scaling,” executive chair Todd Hannigan said.
+“We believe a direct Nasdaq listing and US domicile will strengthen our standing with US government partners and commercial customers, broaden our institutional investor base, and position the company for its next phase of growth.”
+Shareholder Exchange Terms
+Under the scheme, eligible ordinary shareholders would receive one common share in the new parent for every 10 existing shares, with fractional common share entitlements rounded up to the next whole share.
+Shareholders would receive 10 CDIs for each common share in their rounded entitlement by default unless they validly elect to hold the Nasdaq-listed shares directly.
+Holders of American Depositary Shares (ADS), each of which currently represents 10 ordinary shares, would exchange each ADS for one common share in the new parent.
+Ineligible foreign shareholders and small parcel holders who do not opt out of the sale facility would receive net proceeds from the sale of their allocated CDIs rather than securities.
+The board has unanimously recommended shareholders support the scheme, subject to independent expert RSM Corporate Australia concluding and continuing to conclude that the transaction is in their best interests.

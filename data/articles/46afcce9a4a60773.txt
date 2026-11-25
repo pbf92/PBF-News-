@@ -1,0 +1,29 @@
+URL: https://siliconangle.com/2026/11/24/anthropic-is-trying-to-kill-traditional-desktop-apps-with-claude-generated-desktop-apps/
+TITLE: Anthropic is trying to kill traditional desktop apps with Claude-generated desktop apps
+OUTLET: SiliconANGLE
+
+Anthropic is trying to kill traditional desktop apps with Claude-generated desktop apps
+Rarely a day goes by that Anthropic PBC doesn’t announce some kind of new capability, feature or model, and today wasn’t any different. Today came the ability to use Claude to create fully functional desktop applications for Windows and Mac computers with a single prompt.
+It promises to be one of its more impactful updates, fanning the flames of those who argue that artificial intelligence is ultimately destined to eat the software world.
+The company said today that users can now transform what it calls “artifacts” into standalone applications that run independently of Claude and can be accessed from the desktop. Artifacts have been around for a while, and they can be almost anything, such as a simple order tracker or a meeting dashboard that pulls information from the user’s calendar and email inbox.
+However, until today, artifacts were a bit tricky to access. They could be opened up only from inside Claude itself, which meant users first had to open up the chatbot, login and then find the old conversation where they originally created the artifact they want to use.
+Anthropic said people are using Claude artifacts all the time for various everyday tasks, and so it makes sense to mature the concept. “If you rely on a tool for work, it should open like the rest of your apps and remind you when something needs your attention,” the company said.
+That’s why Anthropic is making it possible for people to use artifacts to create, run and share desktop applications with Claude’s new “Install as App” feature, which is available in beta now on Windows and macOS.
+In a video posted on X, Anthropic showed how straightforward it is to create a functional desktop app from a simple prompt. The user simply describes the tool they want Claude to create, click confirm and then sit back and wait for a few seconds as it slaps together the required code to bring that app to life.
+You can now install Claude artifacts as desktop apps on Mac and Windows.
+Ask Claude to build an artifact, click "Install as app", and open it like any other app. It can use your connectors and, if you allow it, send notifications or add a menu bar item. pic.twitter.com/8CBgqe5OKq
+— ClaudeDevs (@ClaudeDevs) November 24, 2026
+Because these are “real” apps, they come with their own app icons and they open in a dedicated Window, rather than running within the Claude interface. They also get the ability to send notifications to users, Anthropic said.
+As an added benefit, Claude artifacts that are transformed into desktop apps will be able to use Claude and various third-party connectors, meaning that AI agents will be able to interact with them autonomously, Anthropic said. However, the company did warn that any requests made by an app to Claude will count toward their monthly credit usage, which means it could become expensive if an app is used excessively.
+In a blog post Anthropic showcased a number of examples of what its internal teams have built, including a fully featured image editing app called Linnet, a file manager with a cinematic design called Phosphor, and a terminal application that integrates with Claude, which is known as Tern.
+The Install as App feature is available in beta test now to all Claude subscribers, with the exception of HIPAA-compliant organizations and hybrid Claude deployments. Subscribers on Team plans will have the feature enabled by default, while Enterprise subscribers will need an administrator to enable the feature first.
+There is one major caveat to Claude artifacts-as-apps that sets them apart from traditional desktop applications. According to Anthropic, “you need to be online and signed in to Claude to open an app.”
+That could be a pretty big downside, for many desktop applications are designed to work even if the computer is not connected to the internet. But those who lack a Wi-Fi connection will be unable to access their Claude-generated apps, even if they’re already built and configured.
+Images: Anthropic
+A message from John Furrier, co-founder of SiliconANGLE:
+Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE’s Alumni Trust Network, where technology leaders connect, share intelligence and create opportunities.
+- 15M+ viewers of theCUBE videos, powering conversations across AI, cloud, cybersecurity and more
+- 11.4k+ theCUBE alumni — Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network
+Are you an AWS customer? Support SiliconANGLE financially by buying your AWS services from our Marketplace portal page and links: https://siliconangle.com/aws-marketplace/
+About SiliconANGLE Media
+Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.

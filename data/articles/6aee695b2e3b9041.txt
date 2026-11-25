@@ -1,0 +1,13 @@
+URL: https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-fall-p-014227385.html
+TITLE: Wall St futures fall after S&P 500, Nasdaq end lower; inflation data eyed
+OUTLET: Yahoo Finance
+
+Investing.com-- U.S. stock futures inched lower on Tuesday evening after the S&P 500 and Nasdaq Composite slipped during the regular session on tech losses, while investors awaited key inflation data for clues on the Federal Reserve's interest-rate outlook.
+S&P 500 Futures inched 0.3% lower to 7,193.50 points, while Nasdaq 100 Futures fell 0.4% to 26,168.75 points by 19:58 ET (00:58 GMT). Dow Jones Futures traded 0.3% lower at 49,930.0 points.
+The weakness in futures reflected continued caution around richly valued technology and artificial intelligence-related stocks, which have been a major driver of Wall Street's gains but have also become increasingly vulnerable to profit-taking amid concerns over elevated valuations and the sustainability of AI-related spending.
+The pullback followed Monday's spectacular rally, which had been fuelled by Nvidia's (NASDAQ:NVDA) reinstatement of Jensen Huang as chief executive. Nvidia had surged 31.5% on Monday, adding nearly $1 trillion to its market capitalisation, but reversed course sharply on Tuesday as investors locked in profits.
+The NASDAQ Composite dropped 1.5%, and the S&P 500 fell 0.5%. The Dow Jones Industrial Average, however, advanced 0.9%, highlighting a rotation away from technology stocks towards more traditional and defensive sectors.
+Nvidia shares fell nearly 6%, while memory-chip maker Micron Technology and Advanced Micro Devices also suffered substantial losses.
+Newly listed artificial intelligence company Anthropic slid below its $83 initial public offering price, adding to concerns about investor appetite for high-valued AI businesses. The reversal came after the technology-heavy Nasdaq had rallied nearly 7% on Monday, its strongest daily gain in several years.
+Attention now turns to Wednesday's personal consumption expenditures (PCE) price index, the Federal Reserve's preferred inflation gauge and the last major inflation reading before its December policy meeting.
+The data will be accompanied by preliminary third-quarter gross domestic product figures, weekly jobless claims, durable goods orders and personal income and spending figures.

@@ -1,0 +1,16 @@
+URL: https://finance.yahoo.com/markets/stocks/articles/nasdaq-drops-nvda-ant-spcx-235847084.html
+TITLE: Nasdaq Drops As NVDA, ANT, SPCX Slide: Mohamed El-Erian Says Market Warning Signals Go Well Beyond Nvidia
+OUTLET: Yahoo Finance
+
+Nasdaq Drops As NVDA, ANT, SPCX Slide: Mohamed El-Erian Says Market Warning Signals Go Well Beyond Nvidia
+- The Tech-heavy Nasdaq Composite index fell 1.5% on Tuesday, with NVDA and SPCX down 6%, and ANT slipping 7%.
+- El-Erian pointed investors to a post from Yorkville analyst Dan Ives from last week in which the analyst noted that the selloff in the market is caused by not one but a "perfect storm" of factors.
+- Ross Gerber of Gerber Kawasaki pointed to both SpaceX and Anthropic trading below their offering prices as evidence that markets, rather than underwriters, ultimately set valuations.
+The Tech-heavy Nasdaq Composite index fell 1.5% on Tuesday, paring back some of the 7% gains on Monday, in a move economist Mohamed El-Erian termed a sign that warning signals in the market extend well beyond chipmaker Nvidia.
+In a post on X, the Wharton school professor noted that the key question is whether those deteriorating technical conditions now risk feeding into weaker fundamentals.
+El-Erian also highlighted that Anthropic shares had fallen below its IPO price of $83 on Tuesday, continuing a rapid descent after the stock opened above $110 in its mid-November debut. The AI company, which raised one of the largest offerings on record, has now given back a substantial portion of its early gains, trading as low as the mid-$75s during the session. El-Erian had previously noted that Anthropic's post-IPO path appeared to be tracking SpaceX's trajectory after its IPO, but at a faster pace.
+The Nasdaq Composite had risen 7% on Monday, after Nvidia reinstated CEO Jensen Huang in less than two weeks of his exit following reports of extramarital affairs, including with a woman alleged to be a Chinese spy. Nvidia itself rose over 31% on Monday, and caused a larger rally in AI and tech stocks. The rally faded on Tuesday, and Nvidia shares slipped 6%.
+El-Erian pointed investors to a post from Yorkville analyst Dan Ives from last week in which the analyst noted that the selloff in the market is caused by not one but a "perfect storm" of factors — including post-midterm election policy concerns, China-related regulatory worries in semiconductors, fund performance pain, and sticky inflation.
+Markets Set Valuations, Says Gerber
+Anthropic is not alone in trading below its IPO price. SpaceX shares closed 6% lower on Tuesday at $125.81, below its June IPO price of $135.
+Ross Gerber of Gerber Kawasaki pointed to both SpaceX and Anthropic trading below their offering prices as evidence that markets, rather than underwriters, ultimately set valuations.
