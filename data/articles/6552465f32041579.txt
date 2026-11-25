@@ -1,0 +1,49 @@
+URL: https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY7127Ea:0-reg-ig-design-group-plc-holding-s-in-company/
+TITLE: REG - IG Design Group PLC - Holding(s) in Company
+OUTLET: TradingView
+
+REG - IG Design Group PLC - Holding(s) in Company
+TR-1: Standard form for notification of major holdings
+1. Issuer Details
+ISIN
+GB0004526900
+Issuer Name
+IG DESIGN GROUP PLC
+UK or Non-UK Issuer
+UK
+2. Reason for Notification
+An event changing the breakdown of voting rights
+3. Details of person subject to the notification obligation
+Name
+FIL Limited
+City of registered office (if applicable)
+Hamilton
+Country of registered office (if applicable)
+Bermuda
+4. Details of the shareholder
+Full name of shareholder(s) if different from the person(s) subject to the notification obligation, above
+City of registered office (if applicable)
+Country of registered office (if applicable)
+5. Date on which the threshold was crossed or reached
+23-Nov-2026
+6. Date on which Issuer notified
+24-Nov-2026
+7. Total positions of person(s) subject to the notification obligation
+8. Notified details of the resulting situation on the date on which the threshold was crossed or reached
+8A. Voting rights attached to shares
+8B1. Financial Instruments according to (DTR5.3.1R.(1) (a))
+8B2. Financial Instruments with similar economic effect according to (DTR5.3.1R.(1) (b))
+9. Information in relation to the person subject to the notification obligation
+2. Full chain of controlled undertakings through which the voting rights and/or the financial instruments are effectively held starting with the ultimate controlling natural person or legal entities (please add additional rows as necessary)
+10. In case of proxy voting
+Name of the proxy holder
+The number and % of voting rights held
+The date until which the voting rights will be held
+If date does not apply, explain below
+11. Additional Information
+12. Date of Completion
+24-Nov-2026
+13. Place Of Completion
+Dublin, Ireland
+This information is provided by RNS, the news service of the London Stock Exchange. RNS is approved by the Financial Conduct Authority to act as a Primary Information Provider in the United Kingdom. Terms and conditions relating to the use and distribution of this information may apply. For further information, please contact rns@lseg.com or visit www.rns.com.
+RNS may use your IP address to confirm compliance with the terms and conditions, to analyse how you engage with the information contained in this communication, and to share such analysis on an anonymised basis with others as part of our commercial services. For further information about how RNS and the London Stock Exchange use the personal data you provide us, please see our Privacy Policy. END HOLBABPTMTTTBJF

@@ -1,0 +1,19 @@
+URL: https://medicaldialogues.in/amp/surgery/news/cold-stored-platelets-effective-for-cardiac-surgery-bleeding-finds-study-183334
+TITLE: Cold-Stored Platelets Effective for Cardiac Surgery Bleeding, Finds Study
+OUTLET: Medical Dialogues
+
+The study, published in JAMA, was led by Philip C. Spinella of the Departments of Surgery and Critical Care Medicine, University of Pittsburgh, Pittsburgh, Pennsylvania, and colleagues. It assessed whether storing platelets at 1–6 °C could extend their usable life without compromising their ability to control bleeding.
+Platelets are traditionally stored at 20–24 °C and generally have a shelf life of only 5 to 7 days. This short storage period can contribute to wastage and supply challenges. The researchers investigated whether refrigeration could extend storage to as long as 21 days while preserving hemostatic effectiveness.
+The phase 3, multicenter, randomized clinical trial included pediatric and adult patients undergoing cardiac surgery with planned cardiopulmonary bypass. Conducted at 27 sites across the United States and Australia between December 2021 and March 2025, the study randomized patients in a 2:1 ratio to receive either CSPs stored for up to 21 days or RTPs stored for up to 7 days.
+A total of 1,000 patients received platelet transfusions, with 989 included in the primary analysis. Of these, 650 received CSPs and 339 received RTPs. The participants had a mean age of 42.1 years, and approximately 68% were male.
+Key findings included:
+- CSPs were noninferior to RTPs for controlling active surgical bleeding across every evaluated cold-storage duration.
+- The probability that CSPs were noninferior exceeded 99.9% for all storage durations.
+- When storage durations were pooled, the mean difference in hemostatic efficacy between CSPs and RTPs was 0.09, favoring comparable performance.
+- Twenty-four-hour chest tube drainage was similar between groups, at 8.9 mL/kg with CSPs and 8.4 mL/kg with RTPs.
+- Most safety outcomes, including thrombotic events, transfusion-related adverse events, acute respiratory distress syndrome, kidney failure, septic shock, and mortality, did not differ significantly between groups.
+- Reexploration rates were higher among patients receiving CSPs.
+The findings indicate that refrigeration can preserve the clinical effectiveness of platelets for considerably longer than conventional room-temperature storage. Extending platelet storage could potentially reduce discarded units and help address shortages, particularly in hospitals and locations where maintaining room-temperature platelet inventories is challenging.
+The researchers concluded that CSPs stored for up to 21 days provided comparable hemostatic control to conventional RTPs in actively bleeding cardiac surgery patients. This approach could broaden platelet availability and potentially provide access to transfusion support in settings where short shelf life currently limits inventory.
+Reference:
+Spinella PC, Zantek ND, VanBuren JM, et al. Cold and Room-Temperature Platelets in Cardiac Surgery: The CHIPS Randomized Clinical Trial. JAMA. Published online August 17, 2026. doi:10.1001/jama.2026.13328

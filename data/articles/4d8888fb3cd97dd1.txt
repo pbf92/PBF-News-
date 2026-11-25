@@ -1,0 +1,28 @@
+URL: https://cryptobriefing.com/anthropic-testing-opus-5-6-claude-code/
+TITLE: Anthropic reportedly testing next Opus model inside Claude Code
+OUTLET: Crypto Briefing
+
+An unannounced model called Opus 5.6 is reportedly being routed to select Claude Code users ahead of a possible launch
+Anthropic appears to have a new model hiding in plain sight. The company is reportedly testing its next Opus model inside Claude Code, its agentic coding tool.
+The unreleased model is being referred to as Opus 5.6. Anthropic has not formally announced it, and no price tag has been attached.
+What users are reportedly seeing
+According to the research findings, Anthropic began stealth-routing Opus 5.6 to select users as of November 24, 2026. A companion model, Sonnet 5.6, is reportedly part of the same quiet rollout.
+Users and leakers report that Opus 5.6 handles coding and 3D rendering tasks better than its predecessor. That’s a meaningful pairing, since both demand precise, structured output rather than conversational filler.
+Some testers reportedly checked the model against knowledge from after Opus 5.5 was released. A model that knows things its predecessor couldn’t is a fairly reliable tell that something newer is answering.
+As of November 25, 2026, no model ID or pricing for Opus 5.6 had been disclosed. The research findings suggest an official unveiling might be close, potentially in early December.
+The benchmark to beat: Opus 5.5
+The current public flagship is Opus 5.5, which launched on September 22, 2026. Any successor will be measured against it.
+AI, tech, and the markets they move—in one daily briefing.
+Daily. Free. Join 34,000+ readers across crypto, finance, and policy.
+Opus 5.5 is priced at $4 per million input tokens and $20 per million output tokens. It also carries a context window of 1 million tokens.
+Anthropic claims Opus 5.5 runs approximately 40% cheaper than Opus 5 on typical workloads. That figure comes from the company, not an independent audit, so it’s worth treating as Anthropic’s own scorecard.
+Opus 5.5 also posted measurable success on benchmarks including Terminal-Bench and FrontierCode. Those results set the bar that Opus 5.6 will need to clear if and when it ships publicly.
+Why Claude Code is the testing ground
+Claude Code allows models to work autonomously inside codebases and carry out tasks.
+The quiet testing also fits Anthropic’s 2026 release rhythm. The company moved rapidly from Opus 4.7 through Opus 5.5 this year. Each step brought improvements on agentic coding benchmarks, along with new features added to Claude Code.
+What this means
+For developers using Claude Code, the near-term impact is uncertain. Some may already be getting answers from Opus 5.6 without knowing it, while others see no change at all.
+Pricing is the bigger open question. Opus 5.5 built its pitch partly on cost, with Anthropic claiming it undercuts Opus 5 by approximately 40% on typical workloads. Whether Opus 5.6 holds that price, cuts it further, or charges a premium for better performance is unknown.
+There are several concrete signals to track. The first is an official model ID, which would confirm Opus 5.6 is real rather than a misread of routing behavior. The second is published pricing, measured against the $4 input and $20 output rates of Opus 5.5. The third is benchmark data, particularly on the coding tests where Opus 5.5 already posted results.
+Finally, watch whether Sonnet 5.6 arrives alongside its bigger sibling. A paired launch would suggest Anthropic is refreshing its lineup broadly, not just at the top end.
+Disclosure: This article was edited by Diego Almada Lopez. For more information on how we create and review content, see our Editorial Policy.

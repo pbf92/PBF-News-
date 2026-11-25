@@ -1,0 +1,19 @@
+URL: https://medicaldialogues.in/amp/pediatrics-neonatology/news/children-exposed-to-maternal-violence-face-higher-injury-risk-jama-182593
+TITLE: Children Exposed to Maternal Violence Face Higher Injury Risk: JAMA
+OUTLET: Medical Dialogues
+
+The study, published in JAMA Network Open, was conducted by Marissa Fazio, Child Health Evaluative Sciences, SickKids Research Institute, Toronto, Ontario, Canada, and colleagues. The researchers assessed existing evidence on whether maternal exposure to violent injury is associated with subsequent physical or sexual injuries among children and young people.
+Maternal exposure to violence can represent a major threat to family safety and may have consequences extending beyond the affected mother. To examine the potential impact on children, researchers searched MEDLINE, Embase, Cochrane, and Web of Science from database inception through August 7, 2024.
+The review included observational cohort, cross-sectional, and case-control studies, as well as relevant secondary analyses of randomized clinical trials. Eligible studies assessed injury outcomes among individuals younger than 25 years who had been exposed to maternal violent injury.
+Of 6,218 records identified, 48 studies involving 7,666,786 participants met the inclusion criteria. Researchers used random-effects meta-analysis for comparative physical injury outcomes, while sexual injury findings were primarily synthesized descriptively because of limited and diverse comparative data.
+Key findings:
+- Children exposed to maternal violent injury had a 65% higher prevalence of physical injury than unexposed children (pooled prevalence ratio, 1.65).
+- The pooled odds of physical injury were more than 2.5 times higher among exposed children (pooled odds ratio, 2.53).
+- Among children exposed to maternal violent injury, the pooled prevalence of physical injury was 42.4%.
+- Sexual injury affected 17.0% of exposed children.
+- Comparative data for sexual injuries were insufficient to produce a reliable pooled risk estimate.
+- Similar results were observed across subgroup and sensitivity analyses, despite substantial variation between studies.
+The researchers noted that interpretation was limited by the frequent use of cross-sectional study designs and differences in how maternal violence and child injuries were defined and measured. Differences in confounder adjustment, outcome timeframes and reporting methods may also have contributed to heterogeneity. Self-reported information could introduce misclassification, while administrative databases may not provide detailed information about exposure. Differences in child age and sex could not always be examined, and publication bias and small-study effects also warrant caution when interpreting pooled estimates.
+Overall, the findings indicate that maternal violent injury is an important marker of increased physical injury risk among children, while sexual injury also represents a substantial burden. The researchers emphasized the need for longitudinal research and integrated, trauma-informed care pathways that connect maternal services with pediatric support. Family-centered interventions may help protect children and address the continuing effects of violence across generations.
+Reference:
+Fazio M, Haas B, Bahreinian S, et al. Risk of Injury Among Children and Youths Whose Mothers Experienced Violent Injury: A Systematic Review and Meta-Analysis. JAMA Netw Open. 2026;9(9):e2633054. doi:10.1001/jamanetworkopen.2026.33054

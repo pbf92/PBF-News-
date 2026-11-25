@@ -1,0 +1,20 @@
+URL: https://www.tradingview.com/news/seekingalpha:18663c21e094b:0-large-cap-utility-stocks-with-best-and-worst-quant-ratings/
+TITLE: Large-cap utility stocks with best and worst quant ratings
+OUTLET: TradingView
+
+Large-cap utility stocks with best and worst quant ratings
+As the earnings season winds down, investors are turning their attention to updated quant ratings following the latest round of corporate results.
+Seeking Alpha’s Quant Ratings system grades stocks on their relative performance on key quantitative metrics. It hones in on stocks with the strongest combination of value, growth, profitability, EPS revisions, and price momentum relative to their sector peers.
+Below is a snapshot of large-cap utility companies with market capitalizations above $10B, highlighting those with the highest and lowest quant ratings after the earnings season, underscoring the stocks that strengthened their fundamentals as well as those that lagged.
+Top-quant rated stocks:
+The Southern Company SO, Quant rating 4.52, Strong Buy
+American Electric Power AEP, Quant rating 4.46, Buy
+WEC Energy Group WEC, Quant rating 4.24, Buy
+Xcel Energy XEL, Quant rating 4.22, Buy
+Consolidated Edison ED, Quant rating 4.03, Buy
+Bottom-quant rated stocks:
+NRG Energy NRG, Quant rating 2.17, Sell
+Brookfield Renewable BEPC, Quant rating 2.95, HOLD
+Edison International EIX, Quant rating 2.96, HOLD
+Vistra VST, Quant rating 3.00, HOLD
+Talen Energy TLN, Quant rating 3.02, HOLDDisclaimerContent provided by Seeking Alpha is intended for information purposes only, and that Seeking Alpha does not offer any personalist investment advice and is not a licensed securities dealer, broker, US investment adviser or investment bank.

@@ -1,0 +1,35 @@
+URL: https://wisevoter.com/world/us/2026/11/25/ai-replaceability-medical-specialties-medicare-payments
+TITLE: AI Study Ranks Medical Specialties by Replaceability
+OUTLET: Wisevoter
+
+AI Study Ranks Medical Specialties by Replaceability
+A NEJM AI Perspective analyzing Medicare Part B payments finds procedure-heavy specialties are least exposed to AI substitution.
+Updated on Nov. 25, 2026 in Healthcare
+Live Poll
+Do you think AI will eventually replace your doctor's hands-on work?
+A NEJM AI Perspective analyzed nearly $45 billion in 2023 Medicare Part B payments to 589,648 physicians across 56 specialties to rank how easily each field could be replaced by artificial intelligence. The analysis classified billed services by whether they require physical contact, such as biopsies, injections or operations.
+Why it matters
+Specialties whose work depends on hands-on patient contact appear less exposed to AI substitution than those built on nonphysical services. The gap between specialties is likely to persist for at least several years, which shapes how the healthcare workforce may change.
+Across all 56 specialties, 24% of payments went to physical work and 21% to work with no physical barrier to AI, while 55% went to evaluation and management visits, which the analysis set aside. The study does not project when robotics might narrow the gap between procedural and nonphysical fields.
+The players
+New England Journal of Medicine AI
+A journal from the New England Journal of Medicine that publishes peer-reviewed research and commentary on artificial intelligence in medicine.
+University of California, Berkeley
+A public research university whose affiliated researcher served as lead author of the analysis.
+Stanford University
+A private research university in California whose affiliated researcher co-authored the analysis.
+The details
+Researchers from the University of California, Berkeley and Stanford University examined how each billed service was delivered. Work that requires physical contact, such as a biopsy, injection or operation, was separated from work with no physical barrier to AI, and evaluation and management visits were set aside.
+Timeline
+- 2023: Medicare Part B payments analyzed in the study.
+- November 2026: NEJM AI Perspective published.
+Market Landscape
+The analysis uses Medicare Part B billing categories to measure which specialties hold the most nonphysical work, the portion most exposed to AI substitution. It places the debate over AI in medicine on the concrete payment data that determines how physician services are valued and paid.
+Patients seeking procedures or hands-on specialty care may see the physical-contact fields remain the least affected by AI in the near term. Physicians and trainees choosing a specialty can use the payment breakdown to compare how much of each field's billing rests on physical work.
+The takeaway
+Medical specialties differ sharply in how much of their work depends on physical presence, and that difference is likely to shape which fields AI affects first. Readers tracking healthcare careers or costs should watch how these payment categories shift over the coming years.
+Further reading
+Explore more on Healthcare to see how these payment patterns affect the industry.
+Source note: This article includes information reported by Becker's Hospital Review.
+Live Poll
+Do you think AI will eventually replace your doctor's hands-on work?

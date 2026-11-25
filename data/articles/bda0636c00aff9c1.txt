@@ -1,0 +1,28 @@
+URL: https://www.ajmc.com/view/endometrioma-treatment-before-ivf-lacks-clear-evidence-of-benefit
+TITLE: Endometrioma Treatment Before IVF Lacks Clear Evidence of Benefit
+OUTLET: The American Journal of Managed Care
+
+Endometrioma Treatment Before IVF Lacks Clear Evidence of Benefit
+Key Takeaways
+- Seven randomized parallel-arm trials (2 medical, 5 surgical) were too heterogeneous for meta-analysis, and all carried high or unclear risk of bias across multiple domains.
+- Live birth effects were highly uncertain: GnRH agonist long protocol outperformed dienogest pretreatment in one small trial, while aspiration and cystectomy comparisons had confidence intervals crossing unity.
+SHOW MORE
+A Cochrane review of 7 randomized trials found evidence too uncertain to show that treating endometrioma before assisted reproduction improves live birth.
+Evidence is too uncertain to show that medical or surgical treatment of endometrioma before assisted reproductive technology (ART) improves live birth, according to an updated Cochrane review of 7 randomized trials.1
+Endometrioma, or ovarian endometriosis cysts, is common in women having trouble conceiving, yet clinicians remain unsure how best to treat the cysts before fertility treatments such as in vitro fertilization. The review updates a version first published in 2010, with searches of the Cochrane Gynaecology and Fertility Group register, CENTRAL, MEDLINE, Embase, and PsycINFO run through October 7, 2025. An estimated 25% to 50% of women with infertility have endometriosis, according to the review. Clinicians weigh competing concerns because surgery may ease oocyte retrieval and reduce infection risk but can lower ovarian reserve and delay ART.
+What Did the Review Find?
+The analysis included 7 parallel-arm randomized clinical trials, 2 of medical interventions and 5 of surgical interventions. No trial evaluated combination therapy. The studies were conducted in Turkey (3), Iran (2), Egypt, and Japan.
+The trials differed too much to pool, so the authors synthesized results narratively. They judged every study to have a high or unclear risk of bias in at least 2 domains. Evidence for the critical outcomes, live birth and adverse events, was graded very low certainty because of bias and imprecision from small trials and wide confidence intervals.
+Live Birth Estimates Remained Very Uncertain
+Each live birth estimate rested on a single trial, and the authors rated all of them very uncertain.
+A trial comparing a standard gonadotropin-releasing hormone (GnRH) agonist long protocol with 12 weeks of dienogest pretreatment found higher live birth in the agonist arm (OR, 3.70; 95% CI, 1.25-10.90; 64 participants). Endometrioma aspiration compared with no aspiration had an OR of 1.66 (95% CI, 0.59-4.62; 81 participants). Cystectomy compared with no cystectomy had an OR of 1.97 (95% CI, 0.71-5.49; 73 participants). The confidence intervals for aspiration and cystectomy included 1. No included study assessed live birth for transvaginal sclerotherapy.
+Adverse events were reported by only 1 study, the cystectomy trial, which recorded none in either arm. The trials also provided no information on infant birth weight or death of the infant at birth.
+What Does This Mean for Clinical Practice?
+Current guidance is unchanged. “The best management of endometrioma prior to assisted reproductive technology remains uncertain,” the authors wrote. Management plans should continue to be developed individually, accounting for previous outcomes, ovarian reserve, and patient wishes.
+The review notes that the 2022 European Society of Human Reproduction and Embryology endometriosis guideline concluded that surgery for ovarian endometrioma should not be routinely performed before ART to improve live birth rates, citing no demonstrated benefit and a likely negative effect on ovarian reserve.1,2 The review authors agreed with international guidelines on managing endometrioma before ART.1
+Small Trials Limit Applicability
+Meta-analysis was not possible for any intervention because of the variety of interventions, few trials per comparison, and inconsistent outcome reporting. Six of the 7 studies enrolled participants from Middle Eastern countries, and the remaining study from Japan, which limits applicability to other populations. Of the 4 trials added since the 2010 version, 3 reported live birth, the outcome included in the core outcome set for endometriosis.
+Robust, adequately powered trials that include the critical outcomes are needed, the authors wrote. They recommended prioritizing research on emerging endometrioma treatments before ART, including oral GnRH antagonists. The review had no dedicated funding, and author conflicts of interest were limited to academic activities.
+References
+- Harlow K, Igbokwe N, Bortoletto P, Farquhar C, Duffy JMN, Craciunas L. Interventions for women with endometrioma prior to assisted reproductive technology. Cochrane Database Syst Rev. 2026;(11):CD008571. doi:10.1002/14651858.CD008571.pub3
+- Becker CM, Bokor A, Heikinheimo O, et al. ESHRE guideline: endometriosis. Hum Reprod Open. 2022;2022(2):hoac009. doi:10.1093/hropen/hoac009

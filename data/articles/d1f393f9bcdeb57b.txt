@@ -1,0 +1,19 @@
+URL: https://247wallst.com/investing/2026/11/25/own-metas-200b-ad-moat-or-bet-on-applovins-53-growth-at-a-47-pullback/
+TITLE: Own Meta’s ~$200B+ Ad Moat or Bet on AppLovin’s ~53% Growth at a ~47% Pullback?
+OUTLET: 24/7 Wall St.
+
+Own Meta’s ~$200B+ Ad Moat or Bet on AppLovin’s ~53% Growth at a ~47% Pullback?
+This post may contain links from our sponsors and affiliates, and Flywheel Publishing may receive compensation for actions taken through them.
+Meta Platforms (NASDAQ:META | META Price Prediction) and AppLovin (NASDAQ:APP) reported third-quarter results two weeks apart, and both sell AI-targeted ads. Meta grew advertising revenue 26%[1] while pouring cash into compute. AppLovin grew revenue 55.5%[2] and kept most of it as profit. Both stocks trail their year-end 2025 levels, AppLovin by 43.44% and Meta by 10.43%.
+Pricier Ads Lift Meta While New Models Lift AppLovin
+Meta’s revenue rose 26.1% to $64.60B[1]. Impressions grew 10%[1] while average price per ad climbed 14%, so AI ranking is making each ad slot worth more. A $9.89B[1] teen mental health settlement cut GAAP EPS to $3.83, missing the $5.70 consensus. Excluding it, EPS would have been $7.40[1]. The ad engine looks intact.
+AppLovin’s $2.185B[2] in revenue beat the $2.074B consensus. A partially rolled-out next-generation model reaccelerated gaming to nearly 50%[3] growth, and consumer ad spend grew triple digits. CEO Adam Foroughi said “the transition is still in front of us,”[3] though he gave no timing for the full rollout.
+Meta Builds Data Centers. AppLovin Shrinks Its Share Count.
+Meta guided 2026 capex to $135B to $145B[1] and expects Reality Labs losses of $18B to $19B. Its Muse agent drew more than 10 million[4] users in about a month and a half, yet Zuckerberg admitted it is “very compute-intensive to run.” Separately, CNBC reported Tuesday that Meta put its share plan on hold, weeks after suggesting a nonvoting share class on its October 21 call.
+AppLovin spent only $7.48M[2] on capex. It bought back 4.1M shares for $1.4B[2] because, per CFO Matt Stumpf, “we saw this dislocation in the stock price versus the actual intrinsic value.”[3] R&D jumped to $101.8M from $43.9M, a reminder that better models cost more to train.
+Holiday Ad Budgets Will Set the Tone for 2027
+AppLovin’s Q4 guide of $2.365B to $2.395B[2] implies roughly 43%-44%[3] growth, a clear slowdown. Management also warned that bigger e-commerce fourth quarters mean harder first-quarter comparisons. I want proof that consumer advertisers stay after the holidays. Meta guided Q4 revenue to $73B to $76B[1], but youth-related trials approach, and 2027 spending guidance arrives on the Q4 call.
+Why AppLovin Fits My Risk Appetite Better
+AppLovin holds the edge on cash efficiency. At roughly 34 times earnings versus Meta’s 22, it costs more, but it turns revenue into cash with almost no capital spending, and management targets about 30%[3] long-term annual growth. My skepticism centers on creative constraints and reliance on a single unified auction.
+Meta offers 3.64 billion daily users and steadier footing while AI spending matures. If Muse monetizes quickly and free cash flow turns positive, I would revisit my view.
+Contact [email protected] for any questions or corrections.

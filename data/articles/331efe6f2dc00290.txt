@@ -1,0 +1,62 @@
+URL: https://ppc.land/youtube-quietly-tests-a-mute-button-in-its-android-app/
+TITLE: YouTube quietly tests a mute button in its Android app
+OUTLET: PPC Land
+
+YouTube appears to be testing a mute button in the video player of its Android app, placed beside the full-screen control and shown only to some users. 9to5Google reported the change on November 24, 2026, based on screenshots posted to Reddit in the preceding week. YouTube has not announced the button, and the report carries no comment from the company.
+In Short
+YouTube seems to be trying out a mute button in its Android app that sits next to the full-screen button and silences a video with one tap, according to a 9to5Google report from November 24. Only some users have it, YouTube has said nothing about it, and nobody has shown yet whether it also works while an ad is playing. Google's published rules for counting a viewable or billable YouTube ad depend on how much of the ad is on screen and for how long, and they do not mention sound, so a muted ad would still count under those rules.
+What 9to5Google reported
+The report, written by Andrew Romero and published at 7:55 am Pacific time on November 24, describes a control with a single job. According to 9to5Google, "A mute button now sits next to the fullscreen option in the left section of the video player. Tapping it does nothing other than cut audio, until it's tapped again to unmute."
+The evidence is thin, and the report says as much. Screenshots of the new control "have started appearing on Reddit over the last week," according to 9to5Google, which linked two threads in the r/youtube community. One user listed their setup: a Pixel 11 Pro XL running YouTube version 21.46.522. The same user said other devices they checked did not appear to show the button. "Without many comments on either post, it's hard to nail down just how wide this rollout might be," the report states.
+A reader commenting below the article added one more data point. The button had been on their Samsung Galaxy Tab S7 Plus "since last weekend," the commenter wrote, which would put the test on at least one tablet as well as a phone. Neither account has been confirmed by YouTube.
+There is a small mismatch between the report's text and its image. The text places the button in "the left section of the video player." The screenshot published with the report shows a speaker icon in the lower-right corner of the player, immediately to the left of the full-screen icon. Read together, the button appears to sit to the left of the full-screen control rather than on the left side of the player. The rest of the layout in that screenshot looks familiar: an autoplay switch, cast, captions and settings icons across the top right, play and next-video buttons in the centre, a "View products" label on the left and a running time of 12:57 along the bottom.
+How the button works, according to the report
+According to 9to5Google, the control behaves in four steps:
+- A speaker icon appears among the player controls, next to the full-screen button, for users included in the test.
+- A single tap silences the video. The tap, according to the report, "does nothing other than cut audio."
+- The video keeps playing without sound.
+- A second tap brings the sound back.
+The report does not say whether the muted state carries over to the next video, to Shorts, or to an ad break that starts while the sound is off.
+What YouTube has and has not said
+YouTube has made no announcement about the button, and 9to5Google did not report a statement from the company. The publication's own reading is modest: "In reality, this seems like a very small UI design test for the YouTube app." YouTube, the report adds, "will often select a small number of users to push experimental features to while they polish them further before release."
+The report also separates this trial from the experiments YouTube opens to paying subscribers. "Unlike features that Premium users get to test, these are locked," according to 9to5Google. In practice, no one can opt in. Tests of this shape usually work as an A/B test, with a slice of users seeing the change so their behaviour can be compared with everyone else's. Neither YouTube nor 9to5Google has said what, if anything, the company is measuring.
+9to5Google was not convinced the button earns its place. "It's not necessarily a big change, but it's sort of a confusing one," the report states. "One wonders why a mute button is necessary. It also adds another button to accidentally hit when trying to tap the fullscreen option."
+How YouTube already handles sound
+Muted viewing is nothing new on YouTube. On computers, the YouTube Help Center lists the "m" key as the shortcut that mutes and unmutes a video. In the Android app, videos that start playing as users scroll the Home feed and search results do so without sound and with captions switched on, according to YouTube's help page on the inline player. Sound can be turned on from there.
+That behaviour is controlled by a setting reached through the profile picture, then Settings, then General, then "Playback in feeds". YouTube's help page lists three options: "Always on", "Wi-Fi only" and "Off". It also says the inline player may be on by default. What the test adds is a mute control inside the main player on Android, next to the button that expands a video to fill the screen.
+Why a mute button reaches the advertising conversation
+The report says nothing about advertising. It does not state whether the button appears while an ad plays, or whether a video muted with it stays silent when a pre-roll ad begins. Those two unknowns decide whether the test touches advertisers at all.
+If it does, Google's published counting rules suggest the effect would fall on how ads are heard rather than on whether they are counted. Google Ads' Active View documentation treats a video ad as viewable when at least half of its area is on screen while it plays for at least two seconds. The page makes no mention of sound. That threshold matches the Media Rating Council standard for video viewability, under which video ads count as viewable when at least 50% of the ad is visible for at least two consecutive seconds while the video plays. PPC Land's explainer on the subject notes that an ad autoplaying muted in a corner of a screen counts the same as one a reader chose to watch.
+Charges follow time and clicks as well. For skippable in-stream ads, Google Ads Help says a TrueView view, the measure advertisers are billed on under cost-per-view bidding, is counted when a viewer watches 30 seconds, or the whole ad if it is shorter, or clicks on it. Skippable ads can be skipped after five seconds. Sound is not among the criteria.
+In one place Google writes silent play into the rules directly. For in-feed video ads, the format that appears among search results and recommendations, Google Ads Help counts an engagement when a viewer watches 10 seconds of the ad while it is muted, or clicks the thumbnail to watch the full video. Muted play is already part of how YouTube measures that format.
+So, under Google's own definitions, an ad silenced with the new button would still be viewable if it stayed on screen, and still billable if it ran for 30 seconds. What a one-tap mute could change is the share of ads that play without sound. That matters for creative built around voice-over, music or a sonic logo, and for metrics that track audibility: Google's Campaign Manager 360 help centre, for instance, lists measures such as "Active View: % Audible and Visible at Completion." Would many viewers bother to tap the icon when phones already carry volume buttons? The report offers no data either way, and 9to5Google itself doubted the button was needed.
+Silent ad formats are common outside YouTube's main player, too. On Amazon's Fire tablets, online video ads play muted when the device wakes, according to Amazon's campaign guide.
+A crowded few months for YouTube's player and its counts
+The mute test lands after a run of changes to how YouTube presents ads and counts audiences. In August, YouTube said its watch-page ad unit would no longer push video titles down the page, as part of a set of design principles that also moved product overlays to a shelf below the player. On August 24, the platform began counting public views from the first frame across Shorts, long-form and live videos, leaving Partner Program earnings on separate measures.
+November brought two more. An ad was seen with a "Next" button where "Skip" normally appears, an example shared by agency founder Anthony Higman and not explained by YouTube. Later in the month, YouTube added estimated TV co-viewers to public view counts. Both concern what an advertiser's money buys on the platform, the first through the controls viewers press and the second through the audience figures creators use when they sell sponsorships.
+The commercial stakes are not small. Alphabet reported YouTube advertising revenue of $11.21bn for the third quarter of 2026, up 9.2% and the slowest growth rate of the year. Set against that, one speaker icon on some Android phones is a minor change; its reach depends on decisions YouTube has not disclosed.
+What remains unknown
+The report does not say whether the button exists on iPhone, on YouTube's mobile website or on TV apps, which countries are included, how many users have it, or when, if ever, it might reach everyone. It does not say whether the button works during ads, or whether a muted state persists across videos. The two Reddit threads behind it drew few comments, and YouTube has not commented.
+Key facts
+- Feature: mute button in the YouTube Android app's video player, next to the full-screen control; no official name given
+- Status: limited test, not announced by YouTube; not available through the Premium experiments programme, according to 9to5Google
+- Source report: "YouTube appears to be quietly testing a new mute button in its video UI," 9to5Google, Andrew Romero, November 24, 2026, 7:55 am PT
+- Source URL: https://9to5google.com/2026/11/24/youtube-tests-mute-button-on-mobile/
+- App version named: 21.46.522
+- Device named: Pixel 11 Pro XL; a reader comment also cites a Samsung Galaxy Tab S7 Plus
+- Origin of sightings: two r/youtube Reddit threads, week before November 24, 2026
+- Google documentation cited: Google Ads Help, "Active View" (video viewable at 50% of area on screen for 2 seconds of play; no sound criterion); Google Ads Help, "About YouTube ads and view metrics" (TrueView view at 30 seconds, full ad if shorter, or click; in-feed engagement at 10 seconds muted)
+- YouTube documentation cited: YouTube Help, "Use the inline player" (Android: "Playback in feeds" with "Always on", "Wi-Fi only", "Off"); YouTube Help, "Keyboard shortcuts for YouTube" ("m" mutes and unmutes)
+Timeline
+- August 13, 2026 - YouTube's design principles post says the watch-page ad unit will no longer push video titles down
+- August 24, 2026 - YouTube starts counting public views from the first frame across all formats
+- October 28, 2026 - Alphabet reports YouTube ad revenue of $11.21bn for the third quarter, up 9.2%
+- November 6, 2026 - A YouTube ad is shown with a "Next" button where "Skip" normally appears
+- November 16, 2026 - YouTube says public view counts now include estimated TV co-viewers
+- Week before November 24, 2026 - Screenshots of a mute button next to the full-screen control appear in two r/youtube threads
+- November 24, 2026 - 9to5Google reports the test; one user names a Pixel 11 Pro XL on YouTube version 21.46.522
+Related PPC Land coverage
+- YouTube drops the word 'Skip' from some ad buttons in favour of 'Next' - Another unannounced change to the controls on YouTube ads, and what Google's billing rules say about skips.
+- YouTube adds estimated TV co-viewers to public view counts - How YouTube began folding estimated living-room audiences into public view counts in November 2026.
+- YouTube counts views from the first frame across all formats on August 24 - The August change to public view counting and what it left untouched for creator pay.
+- Ads no longer push YouTube video titles down

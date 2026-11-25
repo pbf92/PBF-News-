@@ -1,0 +1,20 @@
+URL: https://www.tradingview.com/news/seekingalpha:eab312d30094b:0-mid-cap-utility-stocks-with-best-and-worst-quant-ratings/
+TITLE: Mid-cap utility stocks with best and worst quant ratings
+OUTLET: TradingView
+
+Mid-cap utility stocks with best and worst quant ratings
+With the earnings season winding down, investors are turning their attention to updated quant ratings based on the latest round of corporate results.
+Seeking Alpha’s Quant Ratings system grades stocks on their relative performance on key quantitative metrics. It hones in on stocks with the strongest combination of value, growth, profitability, EPS revisions, and price momentum relative to their sector peers.
+Below is a snapshot of mid-cap utility companies with market capitalizations between $2B and $10B, highlighting those with the highest and lowest quant ratings after the earnings season, underscoring the stocks that strengthened their fundamentals as well as those that lagged.
+Top-quant rated stocks:
+Northwest Natural Holding NWN, Quant rating 3.33, HOLD
+ONE Gas OGS, Quant rating 3.23, HOLD
+MGE Energy MGEE, Quant rating 3.14, HOLD
+IDACORP IDA, Qaunt rating 3. 13, HOLD
+Avista AVA, Qaunt rating 3.05, HOLD
+Bottom-quant rated stocks:
+Oklo OKLO, Quant rating 1.40, Strong Sell
+National Fuel Gas NFG, Qaunt rating 2.36, Sell
+Otter Tail OTTR, Quant rating 2.42, Sell
+UGI UGI, Quant rating 2.42, Sell
+Portland General Electric POR, Quant rating 2.46, SellDisclaimerContent provided by Seeking Alpha is intended for information purposes only, and that Seeking Alpha does not offer any personalist investment advice and is not a licensed securities dealer, broker, US investment adviser or investment bank.

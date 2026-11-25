@@ -1,0 +1,32 @@
+URL: https://winbuzzer.com/2026/11/25/claude-ship-can-approve-github-code-changes-under-team-rules-xcxwbn/
+TITLE: Anthropic Introduces Claude Ship With Agents That Can Sign Off GitHub Pull Requests
+OUTLET: WinBuzzer
+
+- AI Approval: Anthropic’s Claude Ship beta can approve GitHub code changes for Claude Team and Enterprise customers under their own rules.
+- Automated Fixes: A separate agent works through failed checks and review feedback, then records what it changed.
+- Merge Rules: GitHub still enforces any required checks and human sign-offs before proposed changes can enter the shared code.
+- Individual Use: Claude Code is rolling out /ship, which submits a developer’s code changes as a GitHub proposal and reviews them.
+Anthropic’s Claude Ship beta can sign off on some GitHub pull requests, the proposals developers submit to change a shared codebase. Teams can let Claude approve routine work and reserve sensitive changes for a person. They can also see which changes Claude would approve before giving it a vote.
+From Flagging Bugs to Fixing Them
+When Anthropic introduced Claude Code Review in March, multiple agents could comb through a proposed change and flag bugs. Developers kept final approval over what went into the shared code. The review tool came out of preview in October.
+As AI agents write more code, teams can end up with more changes than they can readily review and approve. Claude Ship arrived on November 23 with one beta agent to work on fixes and another that can approve changes under a team’s policy.
+PR Steward can push fixes to a proposed change. It can address a failed test if the problem is in the changed code, resolve conflicts between edits, or act on specific corrections reviewers ask for. After each push, it leaves a comment explaining what it changed and how to undo it. The developer can redirect the agent or tell it to stop.
+ Introducing Claude Ship (beta): Claude can review your pull requests, work on fixes, and approve the ones your team’s policy allows.
+The goal is to help you ship code as fast as you can write it. pic.twitter.com/b9OBAhEBmr
+— ClaudeDevs (@ClaudeDevs) November 23, 2026
+Who Can Approve a Change
+Claude Approvals reads a policy file the team keeps with its code. A team can require a person to review changes to certain files and allow Claude to sign off on other work. The team can let Claude approve under the policy alone or require the separate Code Review to pass first.
+In observe mode, Claude reports what the policy would decide and submits no approval. In enforcement mode, Claude can submit a GitHub review that counts as one approval for changes the team lets it approve. GitHub still requires a person’s sign-off if the repository’s branch protection rules call for one. When GitHub auto-merge is on for a pull request, GitHub can incorporate the change once the required checks and approvals pass.
+One correction Anthropic described went through human review as well as the automated checks. After a customer ran into confusing wording about retrieving usage data, a product manager used Claude to submit a fix to the company’s Analytics API documentation. Code Review found no issue that would block it. A documentation reviewer signed off, the Claude Approvals policy check passed, and the correction merged that evening.
+How Copilot Handles the Same Work
+A standard GitHub Copilot code review gives developers an advisory assessment of whether a change is ready. Once a team turns on Copilot approvals, Copilot can submit a formal approval that counts toward GitHub’s required reviews. Administrators can limit which files qualify. Pushing a new commit updates the proposal and clears Copilot’s approval.
+A developer who wants Copilot to fix an issue can hand it work from a review comment. With Claude Ship, teams can set PR Steward to pick up review feedback or failed checks automatically.
+Junior developers often do the work of getting code changes ready to ship. Handing that work to AI could shorten turnaround for some teams and give junior developers fewer chances to build the judgment they need for more senior roles, he said.
+How Teams and Individuals Can Use Claude Ship
+Claude Team and Enterprise administrators can enable the workflow for a GitHub repository so it runs without each contributor asking for it. The individual /ship command started rolling out in the Claude Code terminal and desktop app on November 23. It can open a pull request for a developer’s own change and work through the feedback. Personal access covers Pro, Max and Ultra subscribers. The command uses the developer’s GitHub permissions and follows the repository’s merge rules.
+ Try it on your next PR: update Claude Code and run /ship. It’s rolling out in the CLI and desktop app now.
+Claude opens the PR, reviews your change, and works on feedback and failing checks. Your permissions and branch rules still decide what can merge. pic.twitter.com/UNPQqZUZp4
+— ClaudeDevs (@ClaudeDevs) November 23, 2026
+The repository workflow is unavailable to organizations using Anthropic’s zero data retention or HIPAA configurations, or encryption keys they manage themselves. Organizations using Anthropic’s FERPA or Access Transparency settings also can’t enable Claude Approvals.
+The individual command counts toward regular Claude Code usage. Repository-wide use is billed by tokens, the chunks of text and code Claude processes. Admins can limit spending on Code Review and PR Steward separately. If a repository is set to review every push, a fix that PR Steward pushes can trigger another billable review. Claude Approvals has no base charge. Teams can still pay for custom classifiers that evaluate changes or for a Code Review their approval policy calls for, even in observe mode.
+Anthropic expanded its Enterprise credits to cover all three repository agents. Eligible paying Enterprise customers can claim US$10,000 to US$50,000, depending on their active Claude Code seats, by January 15, 2027. They have 30 days from claiming to use the shared balance.

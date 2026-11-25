@@ -1,0 +1,35 @@
+URL: https://www.tikr.com/blog/meta-says-muse-raises-conversions-for-advertisers-it-already-places-51-of-ai-agent-orders?ref=yahoofinance&tlnk=yf-261125-5g9v4pwg
+TITLE: Meta Says Muse “Raises Conversions for Advertisers.” It Already Places 51% of AI Agent Orders
+OUTLET: TIKR.com
+
+Key Takeaways
+- Meta was behind 51% of the AI agents placing orders over the past week, ahead of SpaceX’s Grok at 24%, and Muse can now shop Walmart’s Black Friday deals.
+- A senior Meta executive says Muse raises conversions on the ads Meta already sells, so ads inside the agent can wait.
+- If that holds, retailers’ ad budgets will shift further toward Meta, which is bad news for Pinterest.
+- Muse costs more to run as it grows, and Meta’s capex is running above its operating cash flow.
+Meta Platforms (META) is in no hurry to sell ads inside Muse, its AI agent. It says it doesn’t need to.
+A senior Meta executive told CNBC’s Julia Boorstin on Squawk on the Street this week that “Muse is still very valuable for our ads business because it raises conversions for advertisers.”
+Muse is also doing a lot of the shopping. Meta was behind 51% of the AI agents placing orders over the past week, according to Forwarder Intelligence, with Grok from SpaceX (SPCX) second at 24%. Muse can now also shop Black Friday deals from Walmart (WMT).
+Pinterest (PINS), which sells shopping ads to the same retailers, may not be so lucky.
+Meta already gets paid when ads convert
+That matches how Meta’s ad business is growing today. Third-quarter revenue rose 26% to $64.6 billion, with price per ad up 14% and impressions up just 10%. Advertisers pay more for ads that sell more, and management said on the third-quarter call that more than a quarter of Muse users shop with it.
+Analysts expect revenue to nearly double from 2025 to 2028, from $201 billion to $374 billion:
+Impression growth slowed from 19% in the first quarter to 10% in the third, so more of that growth has to come from price per ad. Muse helps keep that price rising.
+TIKR tracks 62 analysts on Meta Platforms. How many say “Buy”?
+See the full breakdown of Buy, Hold, and Sell ratings on Meta Platforms, along with Wall Street’s revenue and earnings estimates, all in one place. More than 500,000 investors use TIKR to research stocks like this one. See Meta Platforms’ Analyst Ratings
+Every Muse user costs Meta money
+Of course, one week of order share in a market this young says little about revenue. And management expects Muse’s serving costs to rise as more people use it, on top of a capital budget that nearly quadrupled from 2021 to 2025, reaching $69.7 billion:
+This year, Meta guides capex, including finance-lease principal, to $135 billion to $145 billion, and third-quarter capex of $34.9 billion was higher than operating cash flow of $32.8 billion.
+Meta can carry that spending because its operating margin stayed above 40% in 2024 and 2025:
+Excluding a $9.89 billion legal charge, though, third-quarter operating margin was 35.4%, down from 40.1% a year earlier.
+Black Friday puts Walmart, SpaceX and Pinterest to the test too
+Walmart is betting that Muse brings it new orders. Its holiday-quarter report on Feb. 18 should show whether those orders were new business or sales it would have made anyway on its own app, where it sells its own ads.
+SpaceX doesn’t have an ad business that can profit from shopping the way Meta’s does: its Super Intelligence segment, which includes Grok, booked $538 million of advertising revenue in the third quarter, against Meta’s $63.06 billion. If Meta’s lead comes from the reach of its own apps, Grok’s share should slip as holiday orders pile up.
+Pinterest has the most to lose. Its management has said that bigger platforms take credit for conversions they don’t own, and Muse gives Meta another way to claim them. Its US and Canada revenue growth slowed from 18% in the second quarter to 14% in the third, and its report in early February will show whether retailers moved holiday ad dollars to Meta.
+Meta can afford to wait on ads in Muse
+I think Meta has this right: its ad engine already turns better conversions into higher prices, so ads inside Muse can wait. The risk is the cost, since capex is running ahead of operating cash flow and Meta needs that lift to show up in price per ad soon.
+The next check is fourth-quarter results in late January. Revenue in the upper half of Meta’s $73 billion to $76 billion guidance, with price per ad still growing at a double-digit rate, would be a good sign that Muse is pulling its weight.
+So what is Meta stock actually worth?
+TIKR lets you forecast the future price of any stock in less than a minute. Just enter a few assumptions into TIKR’s valuation model and see what Meta could be worth. Start from Wall Street consensus estimates, or adjust the inputs to reflect your own view of the business. It’s free to use.
+Disclaimer:
+Please note that the articles on TIKR are not intended to serve as investment or financial advice from TIKR or our content team, nor are they recommendations to buy or sell any stocks. We create our content based on TIKR Terminal’s investment data and analysts’ estimates. Our analysis might not include recent company news or important updates. TIKR has no position in any of the stocks mentioned. Thank you for reading, and happy investing!

@@ -1,0 +1,30 @@
+URL: https://cryptobriefing.com/anthropic-messages-api-python-to-rust/
+TITLE: Anthropic moves its Messages API from Python to Rust with help from Claude
+OUTLET: Crypto Briefing
+
+The company says AI agents found and fixed behavioral differences, cutting CPU use per request by about 70%
+Anthropic has rewritten the backbone of its developer business in a new programming language, and it let its own AI do most of the typing.
+The company migrated its Messages API from Python to Rust, using Claude agents to find and fix differences between the two versions. Anthropic says the move cut CPU use per request by about 70%.
+The Messages API is the plumbing developers use to send prompts to Claude and get responses back, so any efficiency gain there touches a lot of traffic.
+How Claude helped rewrite its own front door
+Anthropic frames the project around an idea it calls the generator-verifier gap. Some problems are far easier to check than to solve.
+A code migration fits that shape neatly. Writing a Rust version of a large Python system is hard. Checking whether the new version behaves exactly like the old one is comparatively mechanical, and that mechanical checking is work AI agents can grind through at scale.
+According to deep research findings drawing on an October 27, 2026 episode of the Latent Space podcast, Anthropic’s Katelyn Lesse and Angela Jiang described the effort in detail. The migration replaced a Python-based monolith with a Rust implementation and was finished by September 2026.
+The team took the wholesale route rather than moving pieces over gradually.
+The engineers reportedly started with no prior Rust experience. Claude wrote most of the code, while the humans focused on system architecture and the migration strategy.
+AI, tech, and the markets they move—in one daily briefing.
+Daily. Free. Join 34,000+ readers across crypto, finance, and policy.
+To make sure nothing broke, the team used shadow traffic. Real requests were run against the new Rust version alongside the legacy Python one, so outputs could be compared to confirm they matched before the switch carried real weight.
+The numbers, and why they differ
+Anthropic’s own write-up puts the CPU savings at about 70% per request.
+The podcast discussion, as summarized in the research findings, cited a 40-50% decrease in CPU usage. It also reported a 10-20% improvement in time-to-first-token latency, which is how long a user waits before the first piece of Claude’s answer appears.
+The two CPU figures come from different sources and do not perfectly align. Either way, both describe a substantial drop in the compute needed to handle the same request.
+Background: a bet that AI can rewrite AI infrastructure
+Python is a popular choice for building quickly, and many AI companies started there. Rust is a language engineers often reach for when they want tighter control over performance.
+Anthropic’s pitch is that the economics change when an AI model can handle the bulk of the translation and a verification loop can catch the mismatches. The humans set the plan. The agents do the long, repetitive work of making two codebases agree.
+The detail that the team began without Rust expertise is arguably the most telling part of the story. Historically, a language migration required hiring or training specialists first. Here, the specialist knowledge was effectively supplied by the model.
+What this means
+For Anthropic, the clearest implication is cost. Lower CPU use per request means the same hardware can serve more API calls. The research findings describe the gains as evidence the migration helps the API handle increased demand.
+For developers building on Claude, the practical payoff is speed. A 10-20% improvement in time-to-first-token, as described on the podcast, is the sort of change end users feel without knowing why.
+There are caveats. Shadow traffic only verifies the behavior it actually sees, so rare edge cases can slip through if they never appear during the comparison window. And a wholesale cutover carries more concentrated risk than a phased rollout, even with careful verification.
+Disclosure: This article was edited by Diego Almada Lopez. For more information on how we create and review content, see our Editorial Policy.
