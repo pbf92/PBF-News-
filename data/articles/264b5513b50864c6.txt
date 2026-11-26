@@ -1,0 +1,75 @@
+URL: https://eu.36kr.com/en/p/4085949016746627
+TITLE: Anthropic CEO’s Viral Lengthy Post Across Major Platforms: The Desktop APP Tailored for the Superintelligence Era Has Officially Arrived
+OUTLET: 36Kr
+
+Anthropic CEO's lengthy post has gone viral across major platforms, and the desktop APP tailored for the era of superintelligence has arrived.
+At 2:22 a.m. today, Dario Amodei, CEO of Anthropic, posted a long thread on X.
+One of the key points he discussed is: To what extent can AI replace human beings?
+In the sci-fi masterpiece *Dune*, humans destroyed all thinking machines. Ten thousand years later, the first absolute ban in the universe is: "Thou shalt not create a machine that imitates human thinking."
+This scene is unfolding right now, and everyone is arguing about the same ultimate question: When machines become smarter than humans, should humans step aside obediently?
+The first word Dario Amodei typed was "No" —
+He stated that human free will will never be handed over to AI!
+However, more than 80% of the internal code at Anthropic is written by Claude.
+He is willing to hand over such specific tasks, but he has also drawn two red lines, and there are two things he will never hand over under any circumstances.
+Driving, designing anti-cancer drugs, and writing software from start to finish can all be handed over to AI.
+However, the formulation of governance rules for human society, and letting Claude fully automatically create the next generation of Claude, must never be handed over to AI!
+The First Line: The Scepter That Will Never Be Surrendered
+Why draw the first line?
+Axios uncovered a "public secret": a "silent consensus" is spreading in the AI safety circle.
+This view holds that once AI can effectively cure terminal illnesses, prevent disasters more effectively than any human, and allocate resources with unprecedented precision, it is not only irrational but even immoral for humans to refuse to surrender control.
+They use autonomous driving as an example: as long as statistical data proves that machines drive safer than humans, humans should no longer touch the steering wheel.
+By the same token, when the system becomes superintelligent, the so-called "handing the world over to the god in the box" has instead become a utopian redemption.
+Anthropic is regarded as the representative of this "surrenderist" group and has faced industry resistance.
+Dario thinks this logical slippery slope is very dangerous.
+Because letting AI run data, write code, and calculate molecular structures is task automation. This can save lives, drive the energy revolution, and create huge economic value.
+But handing over global governance, political decision-making, and the direction of human will to AI? That is a complete disaster.
+If an AI lab seizes power through technological monopoly, that is already a major taboo; if this lab not only seizes power but also transfers the power to AI itself, that will lead to irreversible perdition.
+Tools can replace humans in labor, but tools cannot replace humans in making decisions. The right to decide must remain in the hands of humans, who are rough, slow, full of disagreements, but have free will.
+The Second Line: Do Not Deify AI, Do Not Lose Control
+The second thing Dario will never surrender is RSI.
+Since Claude can already write 80% of Anthropic's code, why not simply let go and let it iterate out the "next-generation model" on its own?
+Because of speed.
+When the system enters fully autonomous recursive evolution, the speed at which it becomes stronger will completely destroy the human response mechanism.
+Humans don't even have time to understand its current structure before it has completed the next transformation.
+On this exponential curve, there is no meaningful human supervision, no intermediate process that humans can understand, and everything is a black box.
+How Do Humans Interact With AI? Anthropic CEO: The Chat Box Is Only a Transitional Stage
+Anthropic has long used AI to write software internally.
+However, the way humans interact with AI has hardly changed.
+At 00:13 today, someone on X dug up an old video of Dario.
+It was August last year, when John Collison, co-founder of Stripe, asked him: Do you think AI still doesn't have its own dedicated interface up to now? Even today, we still type in text boxes, which is exactly the same as terminals in the 1970s.
+Dario said he largely agrees, "Something is not right here". He remembered the early days of the Internet, when websites were designed to mimic physical objects, and you even had to open a closet first to "enter" the site.
+He continued: In the future, AI will be able to complete a task from start to finish, and get it right most of the time, so the main job of humans will be to check; but when checking, you often have to dive into the details to see exactly what it has done.
+Most of the time you don't need to watch closely, but once an error occurs, you have to dive in immediately. If you have to watch every step, it might even be slower than doing it yourself.
+He said: This requires a new type of product and a new type of interface, which no one has developed yet.
+What kind of interface is the Anthropic CEO optimistic about after the chat box?
+Dario's judgment is: Users interacting with models through chat boxes is only a transitional stage.
+Apps in the Superintelligence Era Are Made by Everyone Themselves
+Just yesterday, Anthropic added the entry for making desktop apps to Claude.
+Tell it what you want in the conversation, and click "Install as App" once you are satisfied with the trial version.
+Next time you use it, just click the desktop icon. If you want to change the method someday, go back and tell Claude, and the modified features will be updated to the original window accordingly.
+This is a bit like the real-life version of *Minecraft*: the blocks are ready-made, and everyone builds their own world.
+Are official apps still there? Yes, they are just in a different position.
+Email, calendar and other tools become the blocks you connect in, and the installed apps can directly use the connected connectors.
+In 1995, Stephenson wrote about such a world in his sci-fi novel *The Diamond Age*: every household has a matter compiler in the wall, and you can create whatever you want just by speaking.
+The most precious thing in the book is a book made exclusively for one girl, and the story changes as she grows up.
+Thirty-one years later, software has become exactly like this.
+Simply put, there are only three steps: tell Claude what you want, test it in the conversation first, and click "Install as App" from the share menu once you are satisfied.
+This process does not require packaging, signing, or an API key, and uses the quota of your personal Claude account.
+The installed app can send notifications, stay in the menu bar, call Claude, and use the connected connectors;
+Once the version in the conversation is modified, the app on the desktop will be updated accordingly, and it can also be shared with others. You need to be connected to the Internet and logged in to Claude to open it.
+To prove how powerful this feature is, Anthropic's own engineers have already had a lot of fun with it internally in advance.
+There is the layered image editing software Linnet, the file manager Phosphor that looks like it was moved out of a movie set, Sift that organizes folders for you according to set rules, the terminal Tern that has Claude sitting next to you to explain at any time, and Vitals that stays in the menu bar to monitor computer performance.
+The book in *The Diamond Age* was made by a machine, but the voice that accompanied the girl as she grew up was read sentence by sentence by a real person.
+In the end, the apps on the desktop are the same: the code is written by Claude, but what to do with it and how much permission to give it are ultimately decided by humans.
+Everyone Has Their Own Set of Apps
+In the past, for a piece of software, the company defined its features, released one version, and distributed it to millions of people. Personal trivial demands could not be prioritized, so users had to wait for the next version.
+Now even if only you need a piece of software, you just describe what you want, and Claude will write it. In the superintelligence era, it is a world where everyone has their own set of apps.
+Today is Thanksgiving. Early in the morning, Google CEO Sundar Pichai posted a stack pie mini-game called *One More Pie*, which was generated with just a few words.
+He said that if your family's holiday tradition is to see how many desserts you can stack on one plate, this game is made for you; he also attached his own high score to see who can surpass him.
+In the future, if you want to make a Thanksgiving mini-game for your family, you can get it done just by speaking a few words.
+When everyone has their own set of apps, taking one step further, every family will have their own game for festivals.
+From AlphaGo to the superintelligence era, thank you for always being here.
+References:
+https://x.com/DarioAmodei/status/2125656399392690605
+https://claude.com/resources/articles/install-as-app
+This article is from the WeChat official account "AI Era", written by ASI Revelation, and published by 36Kr with authorization.

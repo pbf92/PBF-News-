@@ -1,0 +1,35 @@
+URL: https://wisevoter.com/world/2026/11/25/instagram-denies-phone-microphone-ad-targeting
+TITLE: Instagram Denies Using Phone Microphones for Ads
+OUTLET: Wisevoter
+
+Instagram Denies Using Phone Microphones for Ads
+Adam Mosseri repeated that Instagram does not listen through phone microphones or cameras to target advertising.
+Updated on Nov. 25, 2026 in Internet
+Live Poll
+Do you trust social media apps not to listen to your conversations?
+Instagram head Adam Mosseri denied in a video posted on his Instagram account on 24 November that the platform uses phone microphones to target ads. He said Instagram does not listen through the microphone, camera, or any other recording device, repeating a similar video he posted on 1 October 2025.
+Why it matters
+Users often suspect that ads reflect private conversations, and the denial addresses that concern directly. Meta's stated targeting methods, including advertiser data and user interactions, remain the basis for how ads are chosen.
+Meta's 2016 blog post and Mosseri's 2025 videos both deny microphone-based ad targeting, while Meta's AI-interaction personalisation takes effect on 16 December 2025. The stub does not specify whether independent audits have verified these denials.
+The players
+Adam Mosseri
+Adam Mosseri is the head of Instagram, Meta's photo and video sharing app, and has publicly addressed user concerns about its data practices.
+Meta
+Meta is the technology company that owns Instagram, Facebook, and WhatsApp and is one of the largest advertising platforms in the world.
+The details
+Mosseri said Instagram shows ads based on what it knows about users, their friends, and people similar to them, using advertiser data, user interactions, and interest patterns. He said that a user may see an ad after discussing a product because they had already seen it on Instagram a couple of times.
+Timeline
+- 1 October 2025: Mosseri posted an earlier video addressing the microphone claim.
+- October 2025: Meta announced it would use interactions with its AI tools to personalise ads.
+- 24 November: Mosseri posted the latest denial video on Instagram.
+- 16 December 2025: Meta's AI-interaction ad personalisation takes effect.
+The Tech Race
+Meta's 2016 blog post denied using phone microphones for ad targeting, and Mosseri's 2025 videos repeat that position. Meta's October 2025 announcement that AI-tool interactions will shape ads from 16 December 2025 marks a new data source that the earlier denials did not address.
+Users can review Instagram's ad preferences and interaction settings to see which data shapes the ads they receive. Starting 16 December 2025, interactions with Meta's AI tools will also feed into ad personalisation, which may affect what appears in feeds.
+The takeaway
+Ad targeting on Instagram depends on advertiser data, user interactions, and interest patterns rather than on microphone recordings, according to Meta's statements. Reviewing ad settings can show which signals influence the ads you see.
+Further reading
+For broader context on how platforms handle user data, see our Internet coverage.
+Source note: This article includes information reported by Bestmediaifo.
+Live Poll
+Do you trust social media apps not to listen to your conversations?

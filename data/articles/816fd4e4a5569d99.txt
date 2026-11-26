@@ -1,0 +1,18 @@
+URL: https://www.eurekalert.org/news-releases/1153383
+TITLE: Glycosylation and cardiovascular disease: a bibliometric map of 1,441 publications over fifteen years
+OUTLET: EurekAlert!
+
+Background
+Cardiovascular disease remains the leading cause of morbidity and mortality worldwide. Glycosylation, one of the most abundant post-translational modifications of proteins, plays an important role in the onset and progression of cardiovascular disease. The field's evolution and hotspot distribution, however, had not been systematically quantified.
+Methods
+The study applied bibliometric methods to 1,441 publications retrieved from the Web of Science Core Collection, published between 1 January 2010 and 31 December 2024.
+The analysis covered publication trends, country and institutional distribution, keyword co-occurrence and clustering, and burst detection of cited references, with visualization performed in CiteSpace.
+Results
+Research activity spanned 71 countries or regions. By publication volume, the United States ranked first (526), followed by China (338) and Germany (122), consistent with a triennial analysis.
+Ranked by average citations per publication, the order differed: Canada, France, and the United States led.
+A total of 612 institutions participated, with the University of Alabama at Birmingham making the most important contribution.
+Publication volume rose slowly from 2010 to 2015 and fluctuated notably between 2016 and 2024. Annual output averaged around 100 papers, with an annual growth rate of 3.62%.
+Keyword analysis built a co-occurrence network from 615 keywords. Key hotspots included O-GlcNAcylation, biomarkers, angiogenesis, α-dystroglycan, potassium channel, heart failure, gene expression, glycosylation, and cardiac glycosides.
+Burst detection showed "mechanisms" as the strongest term, surging from 2012 and persisting through 2024.
+Implications
+The authors conclude that research on glycosylation in cardiovascular disease has grown steadily, with O-GlcNAcylation playing a pivotal role. The analysis offers an objective overview to support future investigations.

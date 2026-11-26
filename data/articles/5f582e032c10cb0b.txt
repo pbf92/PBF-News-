@@ -1,0 +1,29 @@
+URL: https://www.eurekalert.org/news-releases/1153503
+TITLE: Modified biochar takes a two-pronged approach to removing antibiotics from agricultural soils
+OUTLET: EurekAlert!
+
+A new study has revealed that modified biochar, a carbon-rich material produced from plant biomass, can significantly enhance the removal of sulfamethoxazole (SMX), a widely used antibiotic, from agricultural soils. Beyond simply trapping antibiotic molecules, biochar reshapes the communities of microorganisms living in soil and enriches bacteria associated with pollutant degradation. The findings highlight a promising dual mechanism for tackling antibiotic contamination while demonstrating the importance of matching biochar treatments to specific soil conditions.
+Antibiotics are extensively used in human and veterinary medicine. However, many of these compounds are not completely metabolized and can enter agricultural environments, where they may persist and potentially threaten ecosystem and human health. Sulfamethoxazole is particularly concerning because of its widespread use and persistence in soil. Although biochar has emerged as a promising material for removing environmental pollutants, its interactions with soil microorganisms remain poorly understood.
+“Biochar is more than a passive material that captures contaminants. It can also reshape the microbial environment and favor bacteria with the potential to break down pollutants,” said Xiaohui Liu, corresponding author of the study. “Understanding how different soils respond to biochar is essential for developing more effective and environmentally responsible remediation strategies.”
+Published on October 28, 2026, in Biochar X, the study was conducted by researchers from Ocean University of China, Yuxi Normal University, and Qingdao University. The team produced biochar from common reeds collected from a constructed wetland and modified it using phosphoric acid, a surface-active compound known as CTAB, and ferric chloride. Through 90-day laboratory experiments, the researchers investigated antibiotic removal and microbial responses in three representative agricultural soils from China: black soil, fluvo-aquic soil, and acidic tropical soil known as latosol.
+The modified biochars substantially improved antibiotic removal. In black soil, CTAB-modified biochar achieved the highest removal efficiency among the three materials. After 90 days, residual antibiotic concentrations in biochar-treated black soils fell from an initial 20 to just 0.85–1.40 nanograms per gram. Meanwhile, phosphoric acid-modified biochar increased antibiotic removal efficiency by 36.5%, 50.2%, and 56.9% in black soil, fluvo-aquic soil, and latosol, respectively, compared with their corresponding untreated contaminated soils.
+The researchers also uncovered significant changes in the microscopic communities beneath the soil surface. Antibiotic exposure was associated with more complex bacterial networks, whereas biochar reduced network connectivity and promoted more compartmentalized microbial communities. Several bacterial groups previously associated with antibiotic degradation, including Streptomyces, Micromonospora, and Rhodococcus, became more abundant following biochar application.
+These observations suggest that biochar works through two complementary processes: rapid adsorption of antibiotic molecules onto its surface, followed by potential microbial degradation of remaining contaminants. Computational predictions also indicated that biochar could help restore microbial functions involved in nutrient cycling and the breakdown of foreign chemical compounds.
+However, the ecological responses were not universally beneficial. In latosol, biochar reduced estimated bacterial richness by 67%, highlighting the need to balance pollutant removal with microbial biodiversity protection. Further research is also needed to directly verify microbial degradation and assess long-term ecological safety under field conditions.
+“Our findings highlight the importance of moving beyond a one-size-fits-all approach to biochar application,” said Ying Liu, co-corresponding author of the study. “Selecting biochar according to soil characteristics could help maximize antibiotic removal while minimizing unwanted ecological impacts.”
+The research lays the foundation for soil-specific biochar engineering, offering a potential pathway toward cleaner agricultural soils, more sustainable land management, and reduced environmental exposure to pharmaceutical pollutants.
+===
+Journal reference: Xie C, Zhang Y, Tang T, Tong S, Wang R, et al. 2026. Unraveling the microbial ecological mechanisms of different modified biochars for sulfamethoxazole removal in various soils. Biochar X 2: e024 doi: 10.48130/bchax-0026-0023
+https://www.maxapress.com/article/doi/10.48130/bchax-0026-0023
+===
+About the Journal:
+Biochar X (e-ISSN: 3070-1686) is an open access, online-only journal aims to transcend traditional disciplinary boundaries by providing a multidisciplinary platform for the exchange of cutting-edge research in both fundamental and applied aspects of biochar. The journal is dedicated to supporting the global biochar research community by offering an innovative, efficient, and professional outlet for sharing new findings and perspectives. Its core focus lies in the discovery of novel insights and the development of emerging applications in the rapidly growing field of biochar science.
+Follow us on Facebook, X, and Bluesky.
+Journal
+Biochar X
+Method of Research
+Experimental study
+Article Title
+Unraveling the microbial ecological mechanisms of different modified biochars for sulfamethoxazole removal in various soils
+Article Publication Date
+28-Oct-2026

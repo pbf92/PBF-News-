@@ -1,0 +1,30 @@
+URL: https://cryptobriefing.com/ai-impact-on-cryptography-threats/
+TITLE: Anthropic and OpenAI proofs fuel speculation about AI’s threat to encryption
+OUTLET: Crypto Briefing
+
+AI-driven breakthroughs in cryptography spark debates on secure communication and the implications for future encryption standards.
+AI companies are making progress on mathematical problems that have resisted solutions for decades. The advances have renewed concerns that increasingly capable AI systems could eventually help discover ways to weaken the encryption systems safeguarding digital communications and financial transactions.
+Anthropic and OpenAI have each released claimed, Lean-formalized proofs of Valiant’s conjecture, a major mathematical problem that has remained unresolved for nearly five decades. Known as the VP ≠ VNP conjecture, the problem examines whether certain mathematical calculations can be carried out efficiently as they become more complicated.
+A successful proof would show that some calculations are inherently difficult for computers, providing an important result in the study of computing limits. The problem is related to P ≠ NP, one of computer science’s best-known unanswered questions, but it does not resolve it.
+Warnings over encryption
+Scott Aaronson, a computer scientist at the University of Texas at Austin and former OpenAI alignment researcher, said recent AI breakthroughs had made him more confident that P ≠ NP could eventually be proven. In a Nov. 24 blog post, he raised his confidence in the conjecture to 96%, from 95%, after previously lowering it following AI companies’ reported refutation of the Exponential Time Hypothesis.
+Aaronson also said he was beginning to feel that a proof of P ≠ NP itself might not be far off, raising the possibility that one of the AI labs could produce it within days, months or a year.
+Asked if either AI lab had already proven that integer factoring can be solved in polynomial time, Aaronson said he had heard many rumors pointing to that possibility. He stopped short of confirming the claims, however.
+AI, tech, and the markets they move—in one daily briefing.
+Daily. Free. Join 34,000+ readers across crypto, finance, and policy.
+“I’ve now heard many, many rumors that one or both labs are sitting on Factoring in P. I don’t know how much to credit this,” he said.
+In a follow-up post on Nov. 25, Aaronson said he was willing to treat proofs released directly by Anthropic or OpenAI as valid until proven otherwise. He added that he now felt, for the first time, that a solution to P # NP might be approaching.
+Aaronson also warned that the coming wave of AI-generated algorithms could break some currently deployed cryptographic systems.
+“I’m virtually certain, from multiple reliable sources, that the AI labs are now sitting on one or more bombshells in that area. However, until I either see details or hear directly from someone at a lab, I feel much, much less confident about the specific nature of those bombshells,” the scientist noted.
+“I do not wish to be responsible for spreading unverified rumors,” he added.
+Aaronson stressed that concerns about crypto wallets and encryption should not overshadow what he considered an extraordinary turning point in mathematics and theoretical computer science.
+Gauging the risk
+AI’s potential to uncover new mathematical methods has prompted fresh questions about the security of encryption systems.
+Ledger outgoing CTO Charles Guillemet, said he had heard “several rumors” about three developments: a fast way to factor large numbers, a break in elliptic-curve cryptography and a flaw in Ring-LWE.
+The implications would vary by system, Guillemet said, noting that he did not believe any of these systems had been completely broken, but some might be weaker than expected.
+Igor Babuschkin, CEO of River AI and a co-founder of xAI, said AI-driven discoveries could be a more immediate concern than quantum computers.
+While a sufficiently powerful quantum computer could use Shor’s algorithm to break RSA, Babuschkin said he was more concerned about AI finding a factoring method that works on conventional computers.
+Is Bitcoin at risk?
+The more serious threat would be an effective attack on elliptic-curve cryptography, which could let attackers derive private keys from public keys already visible on the blockchain.
+Quantum security firm Project Eleven estimated in April that roughly 6.9 million BTC, about a third of the total supply, sits in such addresses.
+Disclosure: This article was edited by Diego Almada Lopez. For more information on how we create and review content, see our Editorial Policy.

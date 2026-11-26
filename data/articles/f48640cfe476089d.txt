@@ -1,0 +1,13 @@
+URL: https://www.pymnts.com/news/artificial-intelligence/2026/openai-says-most-users-wont-hit-limits-faster-after-merger-of-chat-and-work/
+TITLE: OpenAI Says Most Users Won’t Hit Limits Faster After Merger of Chat and Work
+OUTLET: PYMNTS.com
+
+OpenAI’s merger of Chat and Work in ChatGPT could lead to a small fraction of the tool’s heaviest users hitting their usage limits sooner, TechCrunch reported Wednesday (Nov. 25), citing an OpenAI spokesperson.
+Most users are not expected to see more frequent resets of usage, the spokesperson said, according to the report.
+When merged in ChatGPT, Chat and Work will share a single usage meter, but conversations using the Instant model will not count toward the shared allowance, and OpenAI will continue working to improve efficiency to deliver more to subscriber, the spokesperson said in the report.
+OpenAI announced earlier in November that it planned to merge Chat and Work in ChatGPT, began rolling out the update earlier this week and plans to bring it to more users in December, according to the report.
+Some subscribers expressed concerns that the merger could leave them with less access while paying the same fees, according to the report.
+Bringing Chat and Work together could make the tools simpler to use by making it easier to move from one to the other, the report said.
+It was reported in June that OpenAI was overhauling ChatGPT into a super app by bundling AI agents, coding tools and third-party services into a single platform. An OpenAI executive said at the time that the company wants to build “your own personal agent that is capable of helping you across everything in your life, be it personally or at work.”
+OpenAI began rolling out ChatGPT Work in July, describing it as a new agent in ChatGPT that is designed for work that is more complex than a typical chat request. The company said ChatGPT Work can take action across the user’s apps and files; can spend hours on a project, if needed; and can produce sheets, slides, docs, web apps and other finished materials.
+Anthropic announced in September that it had begun merging Claude Cowork and chat into “one Claude” so that users don’t have to choose which tool to use for a task. The company said it made this move because people who used both tools said that it was difficult to decide where a task belonged and because projects they started in one tools wouldn’t carry over to the other.

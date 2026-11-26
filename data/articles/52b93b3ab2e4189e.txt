@@ -1,0 +1,11 @@
+URL: https://tech.yahoo.com/gaming/articles/ps5-apparently-going-literal-flames-185549531.html
+TITLE: PS5’s are apparently going up in literal flames thanks to GTA 6
+OUTLET: Yahoo Tech
+
+Running a game as demanding as GTA 6 isn't easy, especially not for a six-year-old console using hardware even older than its release date. How Rockstar managed to cram 30 FPS into this little white box is genuinely a wonder to me, but it seems not every console can withstand the pressure.
+As spotted by Insider Gaming, users online have begun reporting consistent crashing while playing GTA 6 on PS5, which in some cases was followed by their console going up in literal flames. On a few of the bricked consoles, it appears their chips and parts actually, genuinely got fried by the game's immense requirements.
+Make sure you go and check out our sister site, GTA 6 Bible, for all your GTA 6 needs.
+"One PS5 on our bench logged 100.9°C on the APU and 15 thermal shutdowns," technician modyfikator89 wrote on X. The system was built by AMD, so having it run a little hot is, I guess, to be expected, but exceeding 100 degrees Celsius (~213.6 Fahrenheit) is extreme even for Team Red, especially since the PS5 does not come equipped with a state-of-the-art cooling system like your usual high-end PC.
+Whether this only affects Sony's consoles is unknown. Even if it is, it's quite inconsistent, since most seem to be handling the game just fine. I, for one, haven't crashed a single time on my base PS5, nor have I had any thermal or framerate issues past the usual and expected drops in high-intensity situations or areas. The game does seem to be much more stable on XBOX, though, with the Series S reporting higher average FPS and better frame times and stability than the base PS5.
+What I can't help thinking about now is how GTA 6 will affect PCs once it launches on the platform. Nvidia's 12VHPWR cables have a knack for melting down when overloaded, and I think if there is any game out there that can melt a 5080, it's Rockstar's smash hit.
+The post PS5's are apparently going up in literal flames thanks to GTA 6 appeared first on Destructoid.

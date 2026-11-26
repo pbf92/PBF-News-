@@ -1,0 +1,44 @@
+URL: https://www.eurekalert.org/news-releases/1153366
+TITLE: Gene therapy and mitochondrial transplantation compared for age-related mitochondrial dysfunction
+OUTLET: EurekAlert!
+
+“Neither approach has demonstrated systemic human age reversal.”
+BUFFALO, NY — November 25, 2026 — A new research perspective was published in Volume 18 of Aging on November 13, 2026, titled “Gene therapy and mitochondrial transplantation for mitochondrial dysfunction in aging.”
+The paper examines two potential approaches to addressing mitochondrial dysfunction during aging: mitochondrial transplantation and gene therapy. Drawing on previously published research, the author compares their potential benefits, limitations and safety considerations, while emphasizing that neither approach has been proven to reverse human aging.
+The research perspective is authored by Patrick E. Sewell, who is affiliated with Triple Helix Science in Santa Ana, California.
+Mitochondria are essential structures within cells that produce much of the energy needed for normal biological functions. As people age, mitochondrial DNA can accumulate mutations that impair energy production and contribute to cellular dysfunction. However, mitochondrial damage is only one of several interacting processes involved in aging, and its role as a universal initiating cause remains unproven.
+Mitochondrial transplantation aims to restore cellular function by introducing healthy, functional mitochondria into affected tissues. Early studies have reported encouraging results in selected cases of acute injury, including a small study involving children with severe cardiac complications. However, whether transplantation can provide lasting benefits or slow normal aging remains uncertain.
+Gene therapy offers a different approach by potentially supporting the body's own mitochondrial maintenance systems. Rather than supplying replacement organelles, it could help cells preserve mitochondrial function through sustained expression of selected genes.
+The perspective explores several potential gene therapy targets, including TERT, TFEB, POLG, TFAM and FGF21, which are involved in mitochondrial protection, quality control, genome maintenance and metabolic regulation. Although some have shown promising effects in experimental studies, their combined effectiveness in aging remains untested.
+A central question is whether gene therapy could provide longer-lasting benefits than mitochondrial transplantation. While gene transfer may support ongoing cellular maintenance, transplantation could offer more immediate assistance to tissues experiencing severe energy deficits.
+“The evidence does not establish the superiority of either approach for systemic aging.”
+The author also considers whether the two strategies might complement each other, with transplantation providing initial functional support and gene therapy helping maintain mitochondrial health afterward. However, this possibility remains hypothetical and requires direct testing.
+Both approaches face important challenges, including uncertain treatment durability, potential adverse effects and long-term safety concerns. The perspective proposes a staged research framework to evaluate their effects on mitochondrial function, organ performance and safety before broader clinical applications are considered.
+However, the paper presents a theoretical comparison based on existing evidence rather than new experimental or clinical results. The author also discloses that he is the founder and an equity holder of Triple Helix Science, which develops some of the gene therapy candidates discussed.
+Overall, the perspective highlights the potential of mitochondrial transplantation and gene therapy as distinct but possibly complementary approaches to addressing age-related mitochondrial dysfunction. Further research could help determine whether either strategy can safely preserve cellular function and improve health during aging.
+Paper DOI: https://doi.org/10.18632/aging.206440         
+Corresponding author: Patrick E. Sewell - patrick@triplehelixscience.com
+Abstract video: https://www.youtube.com/watch?v=EZWAojeZakU
+Keywords: aging, mitochondrial DNA, mitochondrial transplantation, gene therapy, mitochondrial quality control
+Click here to sign up for free Altmetric alerts about this article.
+______
+To learn more about the journal, please visit www.Aging-US.com and connect with us on social media:
+- Bluesky
+- ResearchGate
+- X
+- YouTube
+- Spotify, and available wherever you listen to podcasts
+Click here to subscribe to Aging publication updates.
+For media inquiries, please contact media@impactjournals.com.
+Journal
+Aging-US
+Method of Research
+News article
+Subject of Research
+Cells
+Article Title
+Gene therapy and mitochondrial transplantation for mitochondrial dysfunction in aging
+Article Publication Date
+13-Nov-2026
+COI Statement
+Patrick E. Sewell is Founder, Chief Executive Officer, and Chief Scientist of Triple Helix Science, Inc., and holds an equity interest in the company. The company develops gene therapy constructs discussed in this Perspective, including hTERT, TFEB, and FGF21, and has proposed a mitochondrial genome maintenance program. He therefore has a direct financial interest in these candidates, the delivery platform, and associated intellectual property. The proposed combination is not presented as an established therapy. The author declares no other competing interests.
