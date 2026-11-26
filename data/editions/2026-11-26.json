@@ -1,0 +1,693 @@
+{
+ "date": "2026-11-26",
+ "type": "weekday",
+ "note": "US Thanksgiving: cash markets shut today, half session Fri (closes 10 AM PT). CME futures holiday hours not confirmed; check CME. Prop and trading-tech desks were quiet.",
+ "before_open": [
+  {
+   "time": "All day",
+   "what": "US Thanksgiving: NYSE and Nasdaq closed; no BLS releases",
+   "detail": "BLS calendar shows Thanksgiving holiday; Fed calendar page lists nothing today. CME equity futures normally run a holiday-shortened session with early halt; confirm hours on cmegroup.com holiday calendar.",
+   "url": "https://www.cmegroup.com/trading-hours.html"
+  },
+  {
+   "time": "Fri 27 Nov",
+   "what": "US stocks half session, close 10:00 AM PT (1:00 PM ET)",
+   "detail": "Per Admirals/Nasdaq schedule.",
+   "url": "https://admiralmarkets.com/analytics/traders-blog/nasdaq-100-forecast-27-november-2026-bear-market"
+  },
+  {
+   "time": "Overnight",
+   "what": "Bank of Korea raised rate to 3.25%, third hike of 2026",
+   "detail": "Reported by Korea JoongAng Daily via Admirals.",
+   "url": "https://admiralmarkets.com/analytics/traders-blog/central-bank-decisions-december-2026-dates-times"
+  }
+ ],
+ "week_ahead": [],
+ "top": [
+  {
+   "headline": "Nasdaq 100 dips into bear territory intraday, recovers to close at 26,047",
+   "why": "The index touched -20% from its record before a thin-volume rebound; Friday's half session is the next test.",
+   "points": [
+    "Intraday low 24,970.66 on 25 Nov, 20.03% below the 6 Oct record close of 31,224.47; closed 26,046.90 (-0.64%)",
+    "Triggers: hot core PCE, tariff proposals, Micron -10%, Nvidia and AMD about -8% early, S&P CreditWatch negative on Nvidia",
+    "Closing basis it is a correction, not a bear market (Admirals analysis, a broker marketing piece)",
+    "Needs about 7.9% to regain the correction line"
+   ],
+   "next": "Friday 27 Nov half session, close 1:00 PM ET (10:00 AM PT)",
+   "confidence": "reported",
+   "region": "US",
+   "impact": "high",
+   "thread": {
+    "id": "ai-selloff-nov",
+    "name": "AI sell-off",
+    "status": "changed",
+    "day": 6
+   },
+   "sources": [
+    {
+     "name": "Admirals",
+     "url": "https://admiralmarkets.com/analytics/traders-blog/nasdaq-100-forecast-27-november-2026-bear-market"
+    },
+    {
+     "name": "CME Group",
+     "url": "https://www.cmegroup.com/videos/2026/11/25/e-mini-nasdaq-100-futures-slide-as-core-pce-tops-estimates-11-2.html"
+    }
+   ],
+   "desk": "world"
+  },
+  {
+   "headline": "US proposes new tariffs on 14 partners as hot inflation lifts December Fed hike odds",
+   "why": "New Section 301 tariffs plus hotter PCE inflation and strong growth keep the hike case alive, the main threat to the equity rebound.",
+   "points": [
+    "USTR proposed actions in 14 Section 301 excess-capacity probes on 25 November; not yet in force (Reuters, AP)",
+    "Core PCE for October came in at 3.3% y/y vs 3.2% forecast (Admirals citing BEA); Q3 GDP 4.3% per CME commentary",
+    "Admirals cites futures pricing a 25bp hike on 9 December as base case (as of 18 Nov); Waller argued for 50bp"
+   ],
+   "next": "FOMC decision, 9 December (2:00 PM ET)",
+   "confidence": "reported",
+   "region": "US",
+   "impact": "high",
+   "thread": {
+    "id": "us-tariffs-subsidies",
+    "name": "US tariffs on subsidised capacity",
+    "status": "changed",
+    "day": 2
+   },
+   "sources": [
+    {
+     "name": "AP News",
+     "url": "https://apnews.com/article/trump-tariffs-china-european-union-367083ea32f71fd7f70029ba7df66bf0"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/china/us-proposes-new-tariffs-14-trading-partners-fight-excess-factory-capacity-2026-11-25/"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/business/us-inflation-rises-further-october-2026-11-25/"
+    }
+   ],
+   "desk": "world"
+  },
+  {
+   "headline": "United draw 2-2 at Sporting as Lammens error and Tielemans red mar Pochettino's second game",
+   "why": "Pochettino saw a better pressing display but the same sloppiness; the next test is his first home game with United second-bottom of the league.",
+   "points": [
+    "Champions League draw in Lisbon on 25 Nov: two first-half penalties conceded, one saved.",
+    "Lammens spilled the ball for Sporting's equaliser; BBC reports Ashley Young saying he is one mistake from being dropped.",
+    "Tielemans was sent off in stoppage time after two bookings.",
+    "Pochettino: 'We've only been working together one week'; he wants more concentration."
+   ],
+   "next": "Home to Brentford, Saturday 28 Nov, 3pm GMT (Brentford FC preview: United second-bottom, one point from safety, no league win since 30 Aug).",
+   "confidence": "confirmed",
+   "impact": "medium",
+   "thread": {
+    "id": "pochettino-era",
+    "name": "Pochettino era begins",
+    "status": "changed",
+    "day": 14
+   },
+   "sources": [
+    {
+     "name": "Yahoo Sports",
+     "url": "https://sports.yahoo.com/soccer/articles/mauricio-pochettino-makes-man-united-115000377.html"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.com/sport/football/articles/c674218gdkkjo"
+    },
+    {
+     "name": "Brentford FC",
+     "url": "https://www.brentfordfc.com/en/news/match-previews-manchester-united-v-brentford-premier-league-28-11-2026"
+    }
+   ],
+   "desk": "united"
+  }
+ ],
+ "desks": [
+  {
+   "id": "united",
+   "name": "Manchester United & Football",
+   "status": "story",
+   "note": "Lead story: see top.",
+   "stories": [
+    {
+     "headline": "United, Liverpool and Spurs use same law firm to prepare damages claims against Man City",
+     "why": "A possible multi-hundred-million-pound claim linked to City's rule breaches; United say they lost prize money and commercial revenue from finishing second in 2012.",
+     "points": [
+      "Guardian: the three clubs engaged Wiggin; Arsenal use HFS Kramer; claims would be separate.",
+      "Clubs lodged legal notices in November 2024 to avoid time-bar; activity stepped up after the Premier League's September finding against City.",
+      "City deny wrongdoing and have appealed; the Guardian says a new three-person panel hears it next month."
+     ],
+     "next": "City's appeal hearing in December (date not given in the source).",
+     "confidence": "reported",
+     "impact": "medium",
+     "thread": {
+      "id": "city-damages-claim",
+      "name": "Clubs' claim against Man City",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "The Guardian",
+       "url": "https://www.theguardian.com/football/2026/nov/26/manchester-united-liverpool-tottenham-arsenal-city-legal-claim-financial-breaches-damages"
+      }
+     ],
+     "desk": "united"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "name": "World Affairs & Politics",
+   "status": "story",
+   "note": "Markets and tariffs lead: see top.",
+   "stories": [
+    {
+     "headline": "UK net migration falls to 77,000, lowest since 1997 outside the pandemic",
+     "why": "The sharpest drop on record in the post-pandemic series removes much of the immigration pressure from the UK political debate, though the estimate carries extra uncertainty. It also feeds into labour supply and population growth.",
+     "points": [
+      "Provisional net migration was 77,000 in the year to June 2026, down from 204,000 a year earlier (revised)",
+      "Immigration fell 17% to 738,000; emigration was 661,000",
+      "Non-EU+ work-related arrivals fell 45,000, study 33,000 and asylum 19,000",
+      "UK population estimated at 69.6 million (+0.12%); British estimates rely on a 15-month projection and may be revised (update due May 2027)"
+     ],
+     "next": "ONS update to British-national estimates, May 2027",
+     "confidence": "official data",
+     "region": "UK",
+     "impact": "medium",
+     "thread": {
+      "id": "uk-migration-ons",
+      "name": "UK net migration",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "ONS",
+       "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/bulletins/longterminternationalmigrationprovisional/yearendingjune2026"
+      },
+      {
+       "name": "ONS blog",
+       "url": "https://blog.ons.gov.uk/2026/11/26/behind-the-numbers-what-is-driving-the-latest-fall-in-net-migration/"
+      }
+     ],
+     "desk": "world"
+    },
+    {
+     "headline": "Bank of England FPC warns AI financing and sovereign debt risks could crystallise together",
+     "why": "The UK financial stability regulator links higher yields, Middle East energy shocks and AI-funding volatility, supporting the higher-for-longer rate backdrop.",
+     "points": [
+      "Record of the 19 November FPC meeting published 26 November",
+      "Gilt and other advanced-economy yields near two-decade highs, mainly on higher expected policy rates",
+      "AI financing described as increasingly complex, circular and opaque, raising contagion risk",
+      "Cyber and operational risks from AI agents flagged as more prominent"
+     ],
+     "next": "BoE rate decision, 17 December",
+     "confidence": "official data",
+     "region": "UK",
+     "impact": "medium",
+     "thread": {
+      "id": "uk-economy",
+      "name": "UK growth vs inflation",
+      "status": "changed",
+      "day": 15
+     },
+     "sources": [
+      {
+       "name": "Bank of England",
+       "url": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/november-2026"
+      }
+     ],
+     "desk": "world"
+    }
+   ]
+  },
+  {
+   "id": "prop",
+   "name": "Futures & Prop Firms",
+   "status": "quiet",
+   "note": "Checked: only inbox item is a MEXC crypto promo (aggregator, off-watchlist, irrelevant); two searches for watchlist Thanksgiving/Black Friday hours returned only a Topstep holiday-hours help page title, no confirmed new rule or hours change. Unconfirmed: any firm Black Friday promos.",
+   "stories": []
+  },
+  {
+   "id": "tradetech",
+   "name": "Trading Technology",
+   "status": "quiet",
+   "note": "Checked: all 50ish headlines are generic TradingView market-wire items (earnings, filings, tariffs), none on TradingView/Pine/Quantower/AI trading tools; Pine release-notes search showed nothing new for Nov 2026.",
+   "stories": []
+  },
+  {
+   "id": "ai",
+   "name": "Artificial Intelligence",
+   "status": "story",
+   "note": "",
+   "stories": [
+    {
+     "headline": "Anthropic says Claude wrote its Rust API rewrite in a week, with 70% less CPU",
+     "why": "A frontier lab reports migrating live production infrastructure with agents and no downtime; the lesson is that verification, not code-writing, is now the bottleneck. The performance figures are Anthropic's own.",
+     "points": [
+      "Messages API moved from Python to Rust; Claude wrote the code in about a week, per InfoWorld's account of Anthropic's engineering post",
+      "Anthropic reports about 70% less CPU per request, 80% less memory and roughly 20% faster median time to first token",
+      "The production API was used as the verifier: it ran the Rust version on live traffic, flagged differences and dispatched agents to fix them",
+      "API traffic grew more than 1,800x from early 2024 to fall 2026, per Anthropic"
+     ],
+     "next": "No dated catalyst; watch for independent engineers replicating the verify-on-production pattern.",
+     "confidence": "claim",
+     "impact": "medium",
+     "thread": {
+      "id": "anthropic-rust-api",
+      "name": "Anthropic API Rust migration",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "InfoWorld",
+       "url": "https://www.infoworld.com/article/4253460/anthropic-says-it-moved-its-claude-api-from-python-to-rust-with-no-downtime.html"
+      }
+     ],
+     "desk": "ai"
+    },
+    {
+     "headline": "Claude gains Skills over MCP in beta and a 10,000-plugin store",
+     "why": "If you build or use MCP connectors, servers can now ship workflow instructions alongside tools, so one update reaches every user. It is Anthropic's push to own the agent extension gateway.",
+     "points": [
+      "Skills over MCP public beta announced 24 Nov; Claude Code needs version 2.1.331 or later",
+      "Skills load on demand and update server-side; Tasks and Elicitation moved to general availability the same day",
+      "BigGo reports Connectors and Skills merged into Plugins with a directory of 10,000+ plugins, open to Free, Pro, Max and Ultra, Team and Enterprise to follow",
+      "Removing a plugin does not automatically revoke its OAuth or token connection, so permissions need managing separately (BigGo)"
+     ],
+     "next": "Team and Enterprise plugin rollout, no date given.",
+     "confidence": "reported",
+     "impact": "medium",
+     "thread": {
+      "id": "claude-plugins-mcp-skills",
+      "name": "Claude Plugins and Skills over MCP",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Crypto Briefing",
+       "url": "https://cryptobriefing.com/anthropic-skills-over-mcp-claude-beta/"
+      },
+      {
+       "name": "BigGo Finance",
+       "url": "https://finance.biggo.com/news/ad39b529-14d3-4b12-acbe-fd3b08587dd8"
+      }
+     ],
+     "desk": "ai"
+    },
+    {
+     "headline": "Claude Duet agent preview expands to Japan, India, Brazil and Indonesia",
+     "why": "Anthropic's always-on agent, which works while your devices are off, is going overseas a month after its US launch. It is a live test of autonomous inbox and calendar handling.",
+     "points": [
+      "US research preview began 21 Oct as a waitlist; expansion announced 25 Nov, live in Japan from 26 Nov",
+      "Runs a dedicated browser on a virtual machine and patrols connected Gmail, Slack and calendars",
+      "Invitations going to Pro, Max and Ultra waitlist users; Team admins get a phased rollout",
+      "Reset credits during the preview expire 15 Dec; features may change at any time"
+     ],
+     "next": "Credits expire 15 Dec; Team plan rollout undated.",
+     "confidence": "reported",
+     "impact": "medium",
+     "thread": {
+      "id": "claude-duet",
+      "name": "Claude Duet agent rollout",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "BigGo Finance",
+       "url": "https://finance.biggo.com/news/d91e2fd5-4932-4bec-9446-23882fd8d933"
+      },
+      {
+       "name": "Storyboard18",
+       "url": "https://www.storyboard18.com/digital/anthropic-brings-ai-work-agent-claude-duet-to-india-targets-founders-and-small-businesses-115532.htm"
+      }
+     ],
+     "desk": "ai"
+    },
+    {
+     "headline": "KPMG launches cyber services on Claude Mythos for enterprise clients",
+     "why": "A Big Four firm is putting Anthropic's restricted cyber model into client work, an early sign of paid deployment of vulnerability-hunting AI.",
+     "points": [
+      "KPMG LLP says it is part of Anthropic's Cyber Verification Programme",
+      "Four initial areas: codebase vulnerability scanning and attack chains, identity attack paths, breach pathway analysis, data-risk review",
+      "Deployed in clients' own secure environments",
+      "Quote from Anthropic Deputy CISO Jason Clinton in KPMG's announcement; no pricing given"
+     ],
+     "next": "No date given.",
+     "confidence": "confirmed",
+     "impact": "low",
+     "thread": {
+      "id": "kpmg-mythos",
+      "name": "KPMG Claude Mythos cyber",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Yahoo Finance",
+       "url": "https://finance.yahoo.com/news/kpmg-taps-anthropic-claude-mythos-112504629.html"
+      }
+     ],
+     "desk": "ai"
+    }
+   ]
+  },
+  {
+   "id": "business",
+   "name": "Business & E-commerce",
+   "status": "story",
+   "note": "",
+   "stories": [
+    {
+     "headline": "Pinterest opens ad inventory to Microsoft Advertising campaigns",
+     "why": "Microsoft Ads buyers can reach Pinterest from their existing tools, which may add a cheap test channel for Q4 and 2027 shopping campaigns.",
+     "points": [
+      "Eligible Microsoft Advertising campaigns can run in Pinterest Home Feed, Search Results and Related Pins via custom bidding",
+      "Launches first in North America, Australia and New Zealand",
+      "Pinterest cites 661 million monthly users and about 80 billion monthly searches, over half with commercial intent",
+      "Analyst commentary is Zacks; performance results not yet published"
+     ],
+     "next": "No dated catalyst; watch for early placement reports in Microsoft Ads.",
+     "confidence": "reported",
+     "impact": "low",
+     "thread": {
+      "id": "pinterest-microsoft-ads",
+      "name": "Pinterest and Microsoft Advertising",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Storyboard18",
+       "url": "https://www.storyboard18.com/brand-marketing/pinterest-opens-ad-inventory-to-microsoft-advertising-through-integration-ws-l-115480.htm"
+      },
+      {
+       "name": "TradingView (Zacks)",
+       "url": "https://www.tradingview.com/news/zacks:103a3f41b094b:0-can-pins-s-new-microsoft-advertising-deal-boost-its-competitive-edge/"
+      }
+     ],
+     "desk": "business"
+    }
+   ]
+  },
+  {
+   "id": "faith",
+   "name": "Christianity & Theology",
+   "status": "story",
+   "note": "",
+   "stories": [
+    {
+     "headline": "Church of England abuse Redress Scheme to open in January 2027, helpline from 7 December",
+     "why": "The CofE's long-promised compensation scheme for survivors of church-related abuse now has a start window, a test of the institution's response to the safeguarding failures behind it.",
+     "points": [
+      "The scheme opens in January 2027; an independent Redress Helpline starts on 7 December.",
+      "It was first announced in 2020 after IICSA recommendations and other safeguarding reviews.",
+      "Redress includes acknowledgement, support and financial payments; an independent Appeal Authority has been appointed.",
+      "Lead safeguarding bishop Robert Springett wrote to parishes and cathedrals saying it 'cannot undo the harm'."
+     ],
+     "next": "Redress Helpline and application information go live 7 December 2026; scheme opens January 2027.",
+     "confidence": "confirmed",
+     "impact": "medium",
+     "thread": {
+      "id": "cofe-redress-scheme",
+      "name": "CofE Redress Scheme",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Premier Christian News",
+       "url": "https://premierchristian.news/en/news/article/cofe-redress-scheme-set-to-open-in-january"
+      }
+     ],
+     "desk": "faith"
+    }
+   ]
+  },
+  {
+   "id": "health",
+   "name": "Health & Wellness",
+   "status": "story",
+   "note": "",
+   "stories": [
+    {
+     "headline": "BMJ: ADHD medication in pregnancy not linked to autism or ADHD in children, 3.6m-child Nordic study",
+     "why": "Many women stop ADHD medication in pregnancy on thin evidence; this large registry study found no overall neurodevelopmental signal, supporting a shared decision with a clinician rather than automatic discontinuation.",
+     "points": [
+      "Registers from Denmark, Norway and Sweden covered 3,643,376 children born 2000-2021, median follow-up about 9-10 years.",
+      "Exposure was rare (0.2% overall); methylphenidate was most common, then amphetamines (20%) and atomoxetine (7%).",
+      "No increased risk of neurodevelopmental disorders overall; some raised risks for second/third-trimester exposure to specific drugs were seen and not fully explained.",
+      "Adjusted for sex, birth year, maternal age, education, smoking, ADHD diagnosis and other medication."
+     ],
+     "next": "Watch for clinical guidance responses and the detail on the trimester-specific signals; no dated catalyst.",
+     "confidence": "reported",
+     "grade": "B",
+     "study": "Population registry cohort, 3.6m children (Denmark, Norway, Sweden), maternal ADHD medication exposure; observational, residual confounding by indication possible, exposure rare. Details taken from secondary coverage; BMJ paper not read.",
+     "impact": "medium",
+     "thread": {
+      "id": "adhd-meds-pregnancy-bmj",
+      "name": "ADHD medication in pregnancy (BMJ)",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Wisevoter (citing News-Medical)",
+       "url": "https://wisevoter.com/world/2026/11/26/prenatal-adhd-medication-no-neurodevelopmental-risk"
+      },
+      {
+       "name": "Medical Xpress",
+       "url": "https://medicalxpress.com/news/2026-11-adhd-meds-pregnancy-linked-developmental.html"
+      }
+     ],
+     "desk": "health"
+    },
+    {
+     "headline": "Semaglutide's SELECT benefits held across frailty levels, JAMA analysis",
+     "why": "Relevant to the GLP-1 threads: the cardiovascular benefit did not depend on baseline frailty, and frailty status itself improved more on the drug.",
+     "points": [
+      "Primary cardiovascular risk rose with baseline frailty, but semaglutide's effect was broadly consistent across frailty categories.",
+      "It also reduced the heart-failure composite, all-cause hospitalisation and all-cause mortality across frailty levels.",
+      "By week 104, frailty improvement was more likely (OR 2.46, 95% CI 1.80-3.37) and worsening less likely (OR 0.47, 0.34-0.65) than placebo.",
+      "Quality-of-life gains appeared greater with higher baseline frailty."
+     ],
+     "next": "No dated catalyst.",
+     "confidence": "reported",
+     "grade": "B",
+     "study": "Post hoc analysis of the SELECT randomised trial (adults with obesity and established cardiovascular disease); secondary, not powered for frailty subgroups; Novo-funded trial. Read via trade summary only.",
+     "impact": "low",
+     "thread": {
+      "id": "select-frailty-semaglutide",
+      "name": "SELECT frailty analysis",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Medical Dialogues",
+       "url": "https://medicaldialogues.in/cardiology-ctvs/news/semaglutide-benefits-regardless-of-baseline-frailty-index-jama-182595"
+      }
+     ],
+     "desk": "health"
+    }
+   ]
+  },
+  {
+   "id": "gaming",
+   "name": "Gaming & PlayStation",
+   "status": "story",
+   "note": "",
+   "stories": [
+    {
+     "headline": "GTA VI doubles UK games retail to £142m in launch week, NielsenIQ says",
+     "why": "Independent retail data confirms GTA VI's pull on hardware as well as software, with PS5 and Xbox console sales jumping in launch week.",
+     "points": [
+      "NIQ, 19-21 Nov: UK games retail revenue £142m; GTA VI physical sales £32m, 74% of physical software; PS5 hardware +46% week-on-week, Xbox Series X|S +75%.",
+      "AppMagic via GamesIndustry.biz: over 39m unique players on PlayStation, 683m hours, 17.4 hours average.",
+      "GTA VI was the first game played on 70% of new PS5 consoles."
+     ],
+     "next": "Panini GTA VI trading cards due in December 2026 (per Panini statement via ScreenRant).",
+     "confidence": "official data",
+     "impact": "medium",
+     "thread": {
+      "id": "gta6-launch",
+      "name": "GTA VI launch",
+      "status": "changed",
+      "day": 32
+     },
+     "sources": [
+      {
+       "name": "GamesIndustry.biz (NielsenIQ)",
+       "url": "https://www.gamesindustry.biz/nielseniq-gta-6-boosts-uk-games-retail-revenue-by-99-to-142m-during-launch-period"
+      },
+      {
+       "name": "GamesIndustry.biz (AppMagic)",
+       "url": "https://www.gamesindustry.biz/gta-6-launch-drives-combined-23m-downloads-of-franchises-mobile-ports-according-to-appmagic"
+      }
+     ],
+     "desk": "gaming"
+    },
+    {
+     "headline": "More PS5 owners report sudden shutdowns playing GTA VI; cause unproven",
+     "why": "If you play GTA VI on a PS5, heat or ageing hardware may be the issue rather than the game; no Sony or Rockstar response yet.",
+     "points": [
+      "A console repair technician on X reports more PS5s arriving with sudden shutdowns during GTA VI.",
+      "Logs showed Main SoC Access, APU VRM Power Fail and SSD Controller Watchdog errors.",
+      "GAMINGbible says the game is unlikely the sole culprit and had no reply from Rockstar or Sony.",
+      "One console in the report had 235 days of runtime."
+     ],
+     "next": "Rockstar or Sony comment, or patch notes (no date).",
+     "confidence": "claim",
+     "impact": "medium",
+     "thread": {
+      "id": "gta6-ps5-crashes",
+      "name": "GTA VI PS5 crashes",
+      "status": "changed",
+      "day": 5
+     },
+     "sources": [
+      {
+       "name": "GAMINGbible",
+       "url": "https://www.gamingbible.com/news/platform/playstation/ps5-gta-6-shutdowns-768761-20261126"
+      }
+     ],
+     "desk": "gaming"
+    },
+    {
+     "headline": "GTA VI PS5 dump reportedly runs on jailbroken console as PC emulation work continues",
+     "why": "Piracy and PC-port attempts are widening beyond the Xbox build leak, adding pressure on Take-Two; there is still no official PC version.",
+     "points": [
+      "Notebookcheck: videos on 25 Nov show a PS5 game dump running on firmware 11.60 via a jailbreak; retail needs 14.23.",
+      "Reported 540 GB files circulating on piracy networks; the KytyPS5 emulator is a possible PC route, with performance far off.",
+      "Take-Two has shut Discord servers and issued DMCA takedowns on GitHub repositories after the Cyberleek Xbox build.",
+      "Shattered.io: Rockstar has announced no PC version; Q1 2027 PC talk is unconfirmed."
+     ],
+     "next": "Further Take-Two takedowns or any Rockstar PC announcement (no date).",
+     "confidence": "reported",
+     "impact": "medium",
+     "thread": {
+      "id": "gta6-cyberleek-leak",
+      "name": "Cyberleek GTA VI leak",
+      "status": "changed",
+      "day": 4
+     },
+     "sources": [
+      {
+       "name": "Notebookcheck",
+       "url": "https://www.notebookcheck.net/GTA-6-game-dump-runs-on-PS5-console-jailbreak-boosting-piracy-and-PC-emulator.1460007.0.html"
+      },
+      {
+       "name": "shattered.io",
+       "url": "https://shattered.io/gta-6-pc-gamers-leak-catch-november-build-no-official-pc-date-nov-26/"
+      }
+     ],
+     "desk": "gaming"
+    }
+   ]
+  },
+  {
+   "id": "expand",
+   "name": "Expand My World",
+   "status": "story",
+   "note": "",
+   "stories": [
+    {
+     "headline": "Nature reports dual AI and human proofs of the Riemann hypothesis, awaiting checking",
+     "why": "If either holds, it settles the best-known open problem about prime numbers and would be a landmark for AI in mathematics; the claims are not yet verified.",
+     "points": [
+      "Nature News (25 Nov) says two proofs, one AI-written and one human-written, have stunned mathematicians; experts say both need careful checking.",
+      "The hypothesis dates from Riemann's 1859 paper and concerns how far prime counts stray from the expected pattern, roughly a square-root error term.",
+      "Nature also ran an explainer likening it to a familiar statistical margin-of-error test.",
+      "Detail on authors and method was not in the saved text, so treat as unverified."
+     ],
+     "next": "Expert checking of both proofs; no dated catalyst.",
+     "confidence": "reported",
+     "impact": "high",
+     "thread": {
+      "id": "riemann-dual-proofs",
+      "name": "Riemann hypothesis dual proofs",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Nature News",
+       "url": "https://www.nature.com/articles/d41586-026-03853-y"
+      },
+      {
+       "name": "Nature News (explainer)",
+       "url": "https://www.nature.com/articles/d41586-026-03854-x"
+      }
+     ],
+     "desk": "expand"
+    }
+   ]
+  }
+ ],
+ "watching": [
+  {
+   "thread": "rockstar-union",
+   "line": "IWGB recognition ballot at Rockstar closes today (26 Nov); no result yet."
+  },
+  {
+   "thread": "fed-december",
+   "line": "A hike is priced as the base case for 9 Dec; Bank of Korea hiked to 3.25% overnight."
+  },
+  {
+   "thread": "senate-leadership",
+   "line": "Senate Democratic leadership secret ballot still set for 1 December."
+  },
+  {
+   "thread": "ukraine-talks",
+   "line": "EU leaders split over budget and a $49bn Ukraine loan; Trump and NATO chief urge Russia not to widen the war."
+  },
+  {
+   "thread": "topstep-nov-2026-rules",
+   "line": "No Topstep-sourced confirmation of the third-party rule claims yet."
+  }
+ ],
+ "close_threads": [],
+ "expand": {
+  "headline": "Nature reports dual AI and human proofs of the Riemann hypothesis, awaiting checking",
+  "why": "If either holds, it settles the best-known open problem about prime numbers and would be a landmark for AI in mathematics; the claims are not yet verified.",
+  "points": [
+   "Nature News (25 Nov) says two proofs, one AI-written and one human-written, have stunned mathematicians; experts say both need careful checking.",
+   "The hypothesis dates from Riemann's 1859 paper and concerns how far prime counts stray from the expected pattern, roughly a square-root error term.",
+   "Nature also ran an explainer likening it to a familiar statistical margin-of-error test.",
+   "Detail on authors and method was not in the saved text, so treat as unverified."
+  ],
+  "next": "Expert checking of both proofs; no dated catalyst.",
+  "confidence": "reported",
+  "impact": "high",
+  "thread": {
+   "id": "riemann-dual-proofs",
+   "name": "Riemann hypothesis dual proofs",
+   "status": "new"
+  },
+  "sources": [
+   {
+    "name": "Nature News",
+    "url": "https://www.nature.com/articles/d41586-026-03853-y"
+   },
+   {
+    "name": "Nature News (explainer)",
+    "url": "https://www.nature.com/articles/d41586-026-03854-x"
+   }
+  ],
+  "desk": "expand"
+ },
+ "read_minutes": 6,
+ "generated_at": "2026-11-26T13:27:18Z",
+ "updates": [],
+ "status": {
+  "story": 8,
+  "quiet": 2,
+  "failed": 0
+ }
+}

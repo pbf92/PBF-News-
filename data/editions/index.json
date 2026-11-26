@@ -1,6 +1,21 @@
 {
- "latest": "2026-11-25",
+ "latest": "2026-11-26",
  "editions": [
+  {
+   "date": "2026-11-26",
+   "type": "weekday",
+   "top": [
+    "Nasdaq 100 dips into bear territory intraday, recovers to close at 26,047",
+    "US proposes new tariffs on 14 partners as hot inflation lifts December Fed hike odds",
+    "United draw 2-2 at Sporting as Lammens error and Tielemans red mar Pochettino's second game"
+   ],
+   "status": {
+    "story": 8,
+    "quiet": 2,
+    "failed": 0
+   },
+   "updates": 0
+  },
   {
    "date": "2026-11-25",
    "type": "weekday",
