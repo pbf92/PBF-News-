@@ -1,0 +1,19 @@
+URL: https://www.neoteo.com/en/claude-ship-coding-agents-split-review-repair-and-approval
+TITLE: Claude Ship coding agents: roles and GitHub controls
+OUTLET: NeoTeo
+
+Anthropic’s Claude Ship combines Code Review, PR Steward and Claude Approvals in a workflow for GitHub pull requests. The company announced the product with Code Review generally available and the other two components in beta; Isenacode reported that the beta began on November 23, 2026. Anthropic’s announcement describes the roles and controls, while Isenacode reported the beta start date.
+Let automation handle routine review and repair, but keep approval rules and merge permissions deliberate.
+What each Claude Ship component does
+A pull request (PR) moves through three distinct kinds of work: finding issues, addressing them and deciding whether a change meets the team’s approval policy. The components have separate responsibilities:
+PR Steward is designed not to approve or merge a pull request. That boundary matters when it repairs a failed check or responds to a reviewer: a fix is not itself approval. Claude Approvals handles policy-based decisions, and the team can reserve particular changes for people.
+In Rob Shocks’s walkthrough, /ship runs in a local Claude Code session, and PR Steward responds to a failing test. Shocks notes that the local terminal session needs to stay open while Claude monitors the pull request.
+How teams keep approval and merge authority
+Anthropic recommends starting Claude Approvals in observe-only mode, so teams can see its decisions before making its result a required branch-protection check. Administrators can enable agents repository by repository, and a team policy can keep human approval in place for selected changes.
+GitHub branch rules and developer permissions still govern what can merge. Claude Ship therefore adds steps to the pull-request workflow without taking over the repository’s merge controls.
+The stated launch scope covers Claude Team and Claude Enterprise plans using GitHub repositories. Anthropic excludes organizations using Zero Data Retention, its HIPAA configuration or customer-managed encryption keys.
+What usage billing covers
+Claude Ship is billed by token usage, with costs depending on pull-request volume and size, review level and frequency, and PR Steward activity. Anthropic says administrators can set spending limits for Code Review and PR Steward.
+Claude Approvals has no base charge, but its classifiers and policy-triggered Code Reviews can use billable tokens, including in observe-only mode. Running /ship also counts as regular Claude Code usage. The practical cost will therefore vary with how a team configures and uses the workflow.
+What Anthropic reports about its own team
+Anthropic reports that merged pull requests on its Claude Code team more than doubled from June to September, while the share of reverted changes fell by more than 40%. Those figures describe the company’s own team. Anthropic also warns that Claude Ship may miss bugs, security vulnerabilities or other issues, so its approval and review workflow still calls for carefully set repository rules and human oversight where the team requires it.

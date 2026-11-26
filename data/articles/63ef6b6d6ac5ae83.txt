@@ -1,0 +1,13 @@
+URL: https://www.videogameschronicle.com/news/ubisoft-denies-requiring-developers-to-use-generative-ai/
+TITLE: Ubisoft denies requiring developers to use generative AI
+OUTLET: VGC / IGN
+
+Ubisoft says that it doesn’t require developers to use generative AI in game development.
+This comes after sources within Ubisoft said developers would have to justify their decision not to use AI when pitching new games.
+Responding to the original report from Vertical Slice, a statement from Ubisoft avoids responding to that claim directly, but says there is no AI mandate in place across the company.
+“We encourage our teams to explore where AI can be useful and bring value to their work,” the statement reads.
+“This doesn’t mean that projects are required to use generative AI. Teams need to determine whether, and how, these technologies make sense for the game they want to make and the experience they want to create for players.”
+From this, it is clear that Ubisoft still wants developers to consider using AI in their work. The sources from the original report said they felt “cornered” on the topic of AI, and that management felt its use in game development was “unavoidable”. They say it was being pushed particularly for early game demos, to speed along development.
+They further claimed that this came from CEO Yves Guillemot, who they say has “hitched his wagon to the tech, demanding the rest of the company follow on.”
+This comes shortly after Ubisoft announced the opening of a new subsidiary focused on using “AI for gameplay innovation”. This team is formed by those who worked on Ubisoft’s AI shooter tech demo, Teammates.
+Throughout this year, Ubisoft has also rolled out waves of layoffs as it dramatically restructures the company. Sources speaking in the original report also touched on this, saying that, “Going-away parties [are] happening every couple [of] weeks, it feels”, with workers saying that teams are being stretched “unbearably thin” as a result of the reduced headcount.

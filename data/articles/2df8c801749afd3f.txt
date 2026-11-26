@@ -1,0 +1,15 @@
+URL: https://www.techloy.com/brief/anthropic-lets-claude-create-desktop-apps-for-mac-and-windows-9isl62/
+TITLE: Anthropic lets Claude create desktop apps for Mac and Windows
+OUTLET: Techloy
+
+Anthropic lets Claude create desktop apps for Mac and Windows
+Anthropic has released a beta feature allowing Claude users to turn AI-generated artifacts into desktop applications on Mac and Windows. The rollout is available on every plan. Users can click "Install as app" in the Share menu to launch these tools in separate windows with their own icons. The apps offer different permission levels and update automatically when the underlying artifact is edited.
+This follows Anthropic's earlier introduction of a feature allowing Claude users to create personalised desktop applications on Mac and Windows.
+This lowers the barrier for users to build functional software tools without traditional coding skills.
+Read the full coverage
+- Gadgets 360 Claude Can Now Build and Install Desktop Apps on Mac, Windows Without Coding
+- MacRumors Claude Now Lets You Install Artifacts as Desktop Apps
+- The Next Web Claude can now turn its artifacts into Mac and Windows desktop apps
+- ZDNET You can turn Claude artifacts into Windows and Mac apps now – here’s how
+More on: AI · Apps & Social · #Anthropic · #Claude
+This brief was written with AI from the headlines and excerpts published by the outlets above, and may contain errors. Follow the links for the original reporting.

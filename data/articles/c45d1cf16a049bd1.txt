@@ -1,0 +1,41 @@
+URL: https://digiday.com/media/in-graphic-detail-the-gta-6-creator-industrial-complex/
+TITLE: In Graphic Detail: The GTA 6 creator industrial complex
+OUTLET: Digiday
+
+The most anticipated modern video game, Grand Theft Auto 6 (GTA 6), was released a week ago today, selling $3.79 billion in just a single day of sales. Creators have been preparing for GTA 6’s release for years, figuring out ways to stand out from the millions playing the game and the thousands of people making content around it.
+According to analytics website Stream Charts, GTA 6 beat every other major game’s full-week watch time in just two days, and did so with ease, hitting 214.6 million hours watched in two days, versus the next highest game, Valorant’s 150.48 million hours in a week.
+“A record was never in doubt. Rockstar’s gameplay reveal in August already drew close to 4 million concurrent viewers, for a game nobody could play yet,” Streams Charts product manager Nazar Babenko told Digiday.
+A week later, let’s take a look at how the GTA 6 creator economy over the last week (and the months leading up to it), including the livestream watch hours, the most popular platforms, the top streamers, and the organic cultural conversation around the game. Just how big is GTA 6? Unsurprisingly: Huge.
+The GTA hype has been building
+Credit: Streamlabs
+Ahead of GTA 6’s launch, platforms saw a marked increase in content around the franchise and the previous game, GTA 5, which launched in 2013. Streamlabs reports that GTA 5’s year-to-date viewership was higher than several other major, more current video games.
+Streams Chart’s seven-day GTA 6 numbers showcase the game generated more watch time on Twitch alone than any previous game launch had across all platforms the company tracks.
+“Hours watched surprised us more than the peak,” said Babenko.
+Creators who built a name and audience for themselves making GTA 5 content have been preparing for GTA 6 for over a year (the game release, initially slated for November 2025, was delayed twice, and the game was officially announced in 2023).
+Reed Duchscher, CEO and founder of talent agency Night Media, said that GTA creator Andre “Typical Gamer” Rebelo (who has 16.3 million followers on YouTube), has perfected his video-on-demand content (VOD) with GTA 5 and was prepared for GTA 6. “He’ll have a bunch of video concepts that he’ll go film away from his livestream and then post on YouTube because most people will be so concerned about beating the campaign,” Duchscher said. “He has a wealth of knowledge from GTA 5 and a huge catalog on YouTube, so we know what video concepts are going to do well.”
+Twitch edged out YouTube for livestream views
+Credit: Streams Charts
+According to Streams Charts, there were over 125 million hours watched of GTA 6 gameplay in just 24 hours (November 18 to November 19). Twitch drove the most views, accounting for 1.7% of views (market intelligence firm Sensor Tower reports Twitch mobile app downloads and daily active users increased by more than 80% day over day on those two days), then YouTube, which pulled in 35.1%. Kick came in third with 22.1%, while other live streaming platforms made up the difference – which was still over 1.3 million hours of watch time.
+Notably, YouTube organized a 24-hour livestream with some of its top creators, but was still beaten by Twitch, possibly because the platform announced during TwitchCon 2026 that it would be giving away copies of the game through surprise daily drops. Both Twitch and YouTube added custom GTA 6 badges, animations, and effects.
+Though Twitch edged out YouTube for livestream watch hours in the first day of GTA 6’s launch, YouTube still saw over 3.5 billion global views of videos with GTA 6 in the title the day of release. To date, YouTube reports the Grand Theft Auto series has over 900 billion views, and that GTA 6 videos hit 40 billion views before November 18.
+Within the first week since launch, there have been 420 million hours watched of GTA 6 across all major platforms, with peak viewers hitting 7.91 million. Stream Charts reports the game has been mentioned in livestream chats over 3.2 million times across more than 55,000 channels, with sentiment almost split between positive and negative – that could be largely attributed to the online reactionary response to some gameplay elements that involve fixing up a nice and being nice to your girlfriend.
+The most-watched creators on GTA 6 launch day
+Credit: Streams Charts
+Unsurprisingly, perhaps the biggest streamer in the world, Darren Jason “IShowSpeed” Watkins Jr., drew the most eyes during the first 24 hours post-release, with 4.7 million watch hours across YouTube and Twitch. Close behind him was a streamer known as The Burnt Peanut, with 3.8 million watch hours across YouTube, Twitch and Kick.
+In third was Brazilian streamer Alan “Alanzoka” Ferreira, who notably generated 3.1 million hours watched during launch day solely on Twitch.
+GTA 6 challenges Just Chatting
+Credit: Streams Charts
+In just a week, GTA 6 has edged out some of the most popular streaming categories and video games, drawing more views than Kick’s entire IRL stream category, and drawing close to its Just Chatting category. As of halfway through 2026, Just Chatting had become the most-watched category across all major streaming platforms, signaling that they were shifting from gaming-focused content to more IRL and commentary content. But GTA 6 appears to have shifted the livestream platforms back to what they were first made for: Gaming.
+A broad “gaming” category is the most-watched on all of YouTube within the last month, and the fourth-most watched on Twitch. Even GTA 5, the previous installment in the franchise, ranked in the top ten most-watched categories over the last 30 days. Gaming is back, and creators will likely lean further into its popularity, especially those who don’t typical game.
+Over 1,000 creators broke viewership records
+Credit: Streams Charts
+According to Streams Charts, 1,056 channels reached a new all-time peak viewership record while streaming GTA 6, with the most records held by YouTube creators. According to the week after launch report, almost one in five record-breaking channels received at least ten times as many concurrent viewers as their pre-GTA 6 peak.
+More than 97 percent of GTA 6 creator activity wasn’t sponsored
+Credit: Linqia
+According to data pulled by influencer marketing agency Linqia, the GTA 6 hype was almost entirely organic. Its creator data pulled during the pre-launch GTA 6 period (April 1 through November 18), shows that 97.8 percent of creators posting about GTA 6 were doing so organically, with just 2.2 percent sponsored. Rockstar Games did not pay a single creator who took part in Linqia’s study, while 7 percent of the paid creators came from prediction market Kalshi – notably not a gaming brand.
+“The most active brands were the platforms,” said Babenko. 
+Two-thirds of creators talking about GTA 6 never even mentioned a brand. According to Linqia, it seems sponsorships might actually hurt content performance: sponsored posts that name-dropped GTA 6 performed 3 percent worse than each creator’s typical sponsored post. You can’t fake the GTA 6 hype. 
+“I think a lot of brands leaned in from an organic social standpoint but many outside of gaming didn’t think creator first for GTA,” said Keith Bendes, chief strategy officer at Liniqia. “Which was a big missed opportunity since creators were clearly talking organically about the game in droves.”
+The creator economy is shifting its stance on clipping as platforms crackdown; what does clipping look like in the future?
+OpenAI revised its ChatGPT Business Hub terms following concerns that the original language could restrict businesses’ legal claims.
+Grand Theft Auto 6 has its own content creator cottage industry, with millions of views and a crowded, competitive marketplace.

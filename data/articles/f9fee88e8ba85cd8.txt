@@ -1,0 +1,28 @@
+URL: https://www.eurekalert.org/news-releases/1153367
+TITLE: Stronger molecular grip optimizes anti-cancer drug release
+OUTLET: EurekAlert!
+
+Researchers from Osaka Metropolitan University have modified a naturally occurring protein so that it can hold on to an anti-cancer drug more tightly, potentially preventing the drug from being released before it reaches its intended destination.
+The group, led by Professor Takashi Inui of the Graduate School of Drug Discovery Sciences, modified the lipocalin-type prostaglandin D synthase (L-PGDS) protein and tested its potential to deliver SN-38, a drug that targets the DNA repair process during cell reproduction.
+SN-38 is a metabolite that is used in chemotherapy for breast and colorectal tumors. It targets topoisomerase I, an enzyme that temporarily cuts DNA for reproduction and then repairs it. As cancer cells need to divide rapidly to survive, SN-38 disrupts this process, causing DNA damage and even cell death.
+Their modifications may also help overcome the poor water-solubility problem of SN-38, which has limited its effectiveness in the body. Using a computer simulation, the researchers identified two amino acids in the cavity of L-PGDS that could be changed to improve its binding strength.
+By boosting the protein's binding strength, the researchers aim to insert SN-38 into the modified cavity. The longer SN-38 is held in the cavity, the more chance it has of accumulating in the tumor, potentially exposing the cancerous cells to more of the metabolite.
+"In particular, the 'M94W-M145W' mutant exhibited approximately 4-fold higher binding affinity for SN-38 and improved its solubility by approximately 3.3-fold compared with conventional L-PGDS," Professor Inui said. "We also found that premature drug release from the carrier was markedly reduced."
+The researchers believe that engineering and modifying the binding sites between drugs and proteins will enable control of drug retention and solubility, opening the way to the development of tailor-made carriers for a wide variety of therapeutic agents.
+"This approach may also contribute to the development of new drug delivery systems for other poorly water-soluble drugs, not just SN-38," Professor Inui said.
+The findings were published in the International Journal of Biological Macromolecules.
+###
+About OMU
+Established in Osaka as one of the largest public universities in Japan, Osaka Metropolitan University is committed to shaping the future of society through the “Convergence of Knowledge” and the promotion of world-class research. For more research news, visit https://www.omu.ac.jp/en/ and follow us on social media: X, Instagram, LinkedIn.
+Journal
+International Journal of Biological Macromolecules
+Method of Research
+Experimental study
+Subject of Research
+Not applicable
+Article Title
+Development of a drug delivery vehicle protein exhibiting high binding affinity and low leakage of the anti-cancer drug SN-38
+Article Publication Date
+1-Sep-2026
+COI Statement
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.

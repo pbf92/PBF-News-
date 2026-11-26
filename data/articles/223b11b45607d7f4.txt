@@ -1,0 +1,27 @@
+URL: https://www.ajmc.com/view/narcolepsy-cost-effectiveness-models-miss-disease-burden
+TITLE: Narcolepsy Cost-Effectiveness Models Miss Disease Burden
+OUTLET: The American Journal of Managed Care
+
+Narcolepsy Cost-Effectiveness Models Miss Disease Burden
+Key Takeaways
+- Most identified economic evaluations used an initial response phase followed by responder-based Markov modeling, with treatment effects primarily captured via ESS changes rather than multidomain symptom control.
+- Comparative efficacy inputs often depended on expert opinion or single trials; limited network meta-analytic evidence required strong assumptions, undermining robustness for payer decision-making.
+SHOW MORE
+A review of 7 narcolepsy cost-utility models finds they omit key symptoms and downstream costs, which may understate treatment value.
+Economic models used to judge narcolepsy treatments capture only a narrow slice of the disease and may understate the value of therapy, according to a systematic review published in PharmacoEconomics.1
+Narcolepsy is a chronic neurological disease that affects roughly 1 in 2000 people worldwide, and it has 2 subtypes, with cataplexy occurring only in narcolepsy type 1.1,2 Beyond excessive daytime sleepiness (EDS), patients experience disrupted nighttime sleep, sleep paralysis, and hallucinations. Compared with people without the disease, those with narcolepsy face more than twice the risk of cardiometabolic disease and more than triple the rates of depression, accidents, and suicidality, the authors noted.1 Patients also face difficulty obtaining an education and keeping a job.2 Access to treatment varies widely across countries, and unfavorable or uncertain cost-effectiveness evidence has contributed to reimbursement restrictions in several settings.1
+Seven Models Share the Same Structure
+The investigators searched MEDLINE, Embase, the Cochrane Library, EconLit, and the International Network of Agencies for Health Technology Assessment database through May 2026, plus health technology assessment (HTA) agency websites. Of 13 economic evaluations identified, 7 met inclusion criteria. Three came from HTA documents (NICE, Canada's Drug Agency, and Quebec's INESSS), 1 from an Institute for Clinical and Economic Review report, and 3 from peer-reviewed studies. The team assessed quality with the Philips checklist.
+All 7 were cost-utility models with a similar design: an initial phase to determine treatment response, followed by a long-term Markov model based on responder status. Treatment benefit was represented mainly through changes in EDS, typically measured by the Epworth Sleepiness Scale (ESS), while other symptoms were left out.
+Key Limitations Identified
+Comparative efficacy often rested on expert opinion or single trials rather than systematic evidence synthesis. In one model, a 25% response rate to sodium oxybate came from unreported expert opinion. Only 2 models drew on network meta-analyses, and both relied on important assumptions.
+Response definitions were also a concern. Most models used small ESS changes of 3 or 4 points, a threshold derived in sleep apnea populations. The authors cited evidence that meaningful improvement in narcolepsy corresponds to larger reductions.
+Cost inputs were limited as well. Costs centered on drug acquisition. No model included indirect costs in its base case, and none incorporated treatment-related adverse events. No model explicitly captured costs of downstream outcomes such as cardiometabolic disease, accidents, or mental health conditions. Patients with narcolepsy experience about twice the productivity loss of controls, and indirect costs may account for most total costs, the authors wrote.
+Quality-of-life estimates were another weak point. Utilities came from mapping algorithms built in non-narcolepsy populations, different instruments for different treatments, or unclear sources. The authors attributed this partly to ceiling effects of the EQ-5D in narcolepsy. Sensitivity analyses focused on parameter uncertainty, and only 3 models reported validation activities.
+Implications for Payers and Developers
+The authors concluded that omitted elements reflect gaps in evidence, not choices about what matters. They called for models that represent multiple symptoms, rigorous comparative evidence synthesis, utility values derived from patients with narcolepsy, and fuller exploration of structural uncertainty. They also urged broader adoption of multidimensional severity measures, such as the Narcolepsy Severity Scale, and evidence linking symptom control to health care use, accidents, and productivity.
+The timing matters. Orexin receptor agonists, a new class that targets the underlying orexin deficiency in narcolepsy type 1, are raising expectations for treatment benefit, and reimbursement will depend on the strength of the cost-effectiveness evidence submitted to payers and HTA bodies.
+The study was funded by Takeda Pharmaceuticals USA. Three authors are Takeda employees, and several others are paid consultants to or received honoraria from the company.
+References
+- Bermingham SL, Dawoud D, Thurairajah S, et al. Economic evaluations of narcolepsy treatments: a systematic review and critical appraisal to inform future health economic models. Pharmacoeconomics. Published online 2026. doi:10.1007/s40273-026-01680-7
+- Kornum BR, Knudsen S, Ollila HM, et al. Narcolepsy. Nat Rev Dis Primers. 2017;3:16100. doi:10.1038/nrdp.2016.100

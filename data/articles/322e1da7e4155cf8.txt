@@ -1,0 +1,19 @@
+URL: https://broadbandbreakfast.com/pentagon-hand-caroline-zier-now-leads-openais-limits-on-military-artificial-intelligence/
+TITLE: Pentagon Hand Caroline Zier Now Leads OpenAI's Limits on Military Artificial Intelligence
+OUTLET: Broadband Breakfast
+
+WASHINGTON, Nov. 26, 2026 – OpenAI, the artificial intelligence company behind ChatGPT, bars the military from using its technology "to direct autonomous weapons systems," under principles it published in July. The company also says it backs legislation on the highest-risk military uses of AI.
+Where AI belongs in national security brings one of OpenAI's strategists to a Washington stage on catastrophic risk. Its lead for national security strategic initiatives, Caroline Zier, speaks at 9:50 a.m. Dec. 1 on "What Do We Have to Fear? AI and Catastrophic Risk," moderated by Cat Zakrzewski, White House reporter for The Washington Post.
+From the Pentagon to OpenAI
+Leading OpenAI's national security strategic initiatives, Zier brings more than 15 years in defense policy, most recently as deputy chief of staff to the secretary of defense, according to her bio at the Leadership Council for Women in National Security, a professional network.
+At a Hudson Institute conference on U.S.-China military AI competition Nov. 2, she urged caution in any U.S.-China AI talks. "Be very aware of what information you are able to expect in return for what you are sharing," she said, as quoted by the tech outlet Dataconomy.
+OpenAI's July 8 statement of national security principles covers its existing work with the Defense Department, which the administration calls the Department of War. Its contracts allow "no use of OpenAI technology for mass domestic surveillance, no use of OpenAI technology to direct autonomous weapons systems, and no use of OpenAI technology for high-stakes automated decisions," the company said.
+"The role of companies like ours is to help inform those decisions, not make them alone," the statement says. The same post lists cyber defense partnerships with allies including Japan, South Korea, Germany and the European Union's cybersecurity agency.
+Testing before release
+OpenAI backs federal testing of advanced models, possibly through the Commerce Department's Center for AI Standards and Innovation, chief global affairs officer Chris Lehane wrote in a July 15 post. In an Oct. 20 letter to California Gov. Gavin Newsom, the company backed requiring "effective shutdown controls" and annual independent audits, according to CSO Online.
+Fellow panelist Miranda Bogen of the Center for Democracy & Technology, a civil liberties nonprofit, called technical kill switches redundant in a Nov. 4 paper. California's attorney general sued OpenAI over its testing practices Nov. 16, and the company called the suit unfair.
+What to watch at 'Broadband and AI in the Next Congress'
+- Which "highest-risk military uses of AI" would OpenAI have Congress write safeguards for?
+- Does OpenAI see the voluntary, NSA-run testing under Executive Order 14409, the June 2 AI cybersecurity order, as the right federal home for pre-release checks?
+- How much should Washington share in AI talks with Beijing, by Zier's measure?
+Sign up for Broadband and AI in the Next Congress on Dec. 1.

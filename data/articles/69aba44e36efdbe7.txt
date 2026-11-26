@@ -1,0 +1,37 @@
+URL: https://scanx.trade/stock-market-news/companies/arm-holdings-stock-rises-4-76-ibm-mainframe-partnership/49347486
+TITLE: Arm stock rises 4.8% as Nvidia earnings spark sector rally
+OUTLET: scanx.trade
+
+Arm stock rises 4.8% as Nvidia earnings spark sector rally
+- Arm shares rose 4.81% to $263.12 following Nvidia's strong Q2 earnings
+- Nvidia revenue hit $96.22 billion, beating estimates of $92.18 billion
+- Arm announced expanded collaboration with IBM for mainframe systems
+- Raymond James raised Arm price target to $641 from $565
+*this image is generated using AI for illustrative purposes only.
+Arm Holdings PLC (NASDAQ: ARM) shares rose 4.81% to $263.12 on Thursday, extending gains from the previous session amid a broad semiconductor rally triggered by Nvidia’s strong results.
+The movement follows Arm’s Wednesday gain of 4.76% in after-hours trading, which saw shares reach $263 after closing at $251.06 during regular hours.
+Nvidia Earnings Drive Sector Rally
+Arm’s ascent on Thursday was primarily driven by blowout second-quarter earnings from Nvidia Corporation (NASDAQ: NVDA). Nvidia reported revenue of $96.22 billion, up 106% year-over-year, beating the Street consensus estimate of $92.18 billion.
+Adjusted earnings per share came in at $2.22, topping consensus estimates of $2.10. Data Center revenue surged 117% year-over-year to $89.0 billion. Gross margin reached 75.0%.
+Nvidia CEO Jensen Huang stated that AI has reached its inflection point and demand is accelerating. The company expects third-quarter revenue between $105.84 billion and $110.16 billion, representing 85.7% to 93.2% year-over-year growth. Nvidia also ended the quarter with $99.0 billion remaining under its share repurchase authorization.
+Expanded Collaboration With IBM
+The stock movement also follows the announcement of an expanded collaboration with IBM (NYSE: IBM). Under the deal, IBM will integrate Arm architecture into its future IBM Z and LinuxONE mainframe systems.
+Mohamed Awad, Arm’s executive vice president of Cloud AI, stated that the partnership marks the first dual-architecture processor from the two firms. Each processor core is designed to natively execute both IBM and Arm instructions.
+This allows Arm-native Linux environments to run alongside z/OS and existing Linux applications. IBM Z and LinuxONE are enterprise-grade server families designed for security, large-scale operations, and mission-critical computing.
+Recent Financial Performance
+The partnership announcement comes shortly after Arm reported stronger-than-expected first-quarter results in late July. The company beat analyst estimates for both revenue and earnings per share.
+Strategic Developments
+Arm is also a co-development partner with Meta (NASDAQ: META) on the Arm AGI CPU. This represents Arm’s first self-designed data center chip after 35 years as a pure licensing business.
+Raymond James raised its price target on Arm to $641 from $565 on Tuesday, maintaining an Outperform rating.
+Technical Analysis
+At $260.00, Arm is trading about 0.4% below its 20-day SMA ($260.55), which puts the stock right on a near-term decision point rather than clearly trending. The bigger picture is still mixed: it is trading 11.8% below its 50-day SMA ($294.28) and 4.3% below its 100-day SMA ($271.27), but remains 30.8% above its 200-day SMA ($198.40).
+From a trend-structure standpoint, the 20-day SMA sitting below the 50-day SMA keeps the short-term posture cautious, even as the longer-term golden cross from April argues the broader uptrend has not fully broken.
+- Key Resistance: $299.50 lines up near the $300 round-number area and sits close to the 50-day SMA ($294.28)
+- Key Support: $243 acts as a nearby floor if the pullback resumes
+Trading Metrics
+Arm Holdings has a market capitalization of approximately $268.13 billion. The stock has traded between a 52-week high of $452.61 and a 52-week low of $100.02 over the past 12 months, during which it gained 79%.
+The Relative Strength Index (RSI) stands at 43.79. Arm is currently trading at 42.83% of its 52-week range. Benzinga’s Edge Stock Rankings indicate long-term upward movement alongside medium and short-term consolidation.
+Historical Stock Returns for Arm Holdings PLC ADRhedged
+How might the integration of Arm architecture into IBM Z mainframes impact Arm's revenue mix and long-term growth in the enterprise sector?
+Given Nvidia's massive Data Center revenue surge, will Arm's licensing model face pressure to adapt as competitors like Nvidia develop more proprietary silicon solutions?
+What are the potential risks and timeline implications for Arm's first self-designed data center chip developed in partnership with Meta?

@@ -1,0 +1,9 @@
+URL: https://www.ons.gov.uk/economy/nationalaccounts/supplyandusetables/articles/howdodifferentindustriesandproductsaffecttheukeconomy/2025-03-05
+TITLE: How do different industries and products affect the UK economy?
+OUTLET: Office for National Statistics
+
+This tool explores the use of different goods and services (or “products”), by UK industries. It can be used to understand which industries are the biggest users of a selected product in their production.
+It also shows which goods and services are required to produce other products and which of these goods and services are produced in the UK or imported.
+You can also explore how the economy would be affected if final demand for your selected product were to rise or fall. Final demand includes consumer purchases, capital investment, government and exports.
+It uses the Office for National Statistics (ONS)’s Input Output Analytical Tables (IOATs). You can learn more about these statistics in our accompanying user guide.
+Select a product to find out more about how it is used.

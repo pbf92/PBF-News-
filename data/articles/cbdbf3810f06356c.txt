@@ -1,0 +1,22 @@
+URL: https://finance.yahoo.com/technology/ai/articles/anthropic-stock-falls-below-ipo-203714977.html
+TITLE: Anthropic stock falls below IPO price; CEO sells $280 million in shares
+OUTLET: Yahoo Finance
+
+Anthropic (ANT) stock plunged roughly 13% to $76 in morning trading on Tuesday, Nov. 24, falling below its $83 initial public offering price less than a week after its stock market debut.
+The decline came amid a broader pullback in technology stocks following Monday's sharp rally, fueled by Jensen Huang's return as Nvidia's chief executive officer.
+While Huang's reinstatement eased concerns about Nvidia's future, investors remain worried about stretched AI valuations, massive spending on AI infrastructure and whether that spending will generate sufficient returns.
+Anthropic shares have now fallen roughly 22% from their first-day closing price of $97.17.
+Meanwhile, regulatory filings released Monday showed that Anthropic CEO Dario Amodei and President Daniela Amodei each sold roughly $280 million worth of shares as part of last week's IPO.
+Anthropic CEO sells $280 million worth of stock
+Insider purchases are typically viewed as a sign of confidence in a company's future. Insider sales, however, are less straightforward, as executives may sell shares for personal financial reasons, including diversification and liquidity.
+Dario and Daniela Amodei each sold 3,378,378 shares at the IPO price of $83 on Nov. 20, according to two separate Form 4 filings with the Securities and Exchange Commission.
+Read more: Nvidia-backed AI stock soars 26% as Jensen Huang returns as CEO
+All seven Anthropic co-founders were scheduled to sell an identical number of shares as part of the offering, worth a combined $1.96 billion.
+Investors may also be watching when more insider shares become eligible for sale.
+Under Anthropic's lock-up agreements, the founders can sell up to 29% of their covered holdings following the release of the company's first-quarter 2027 earnings or 180 days after the prospectus date, whichever comes first.
+The AI company has yet to announce a date for its first quarterly earnings report as a public company.
+Also read: How much ANT stock does Anthropic CEO Dario Amodei actually own?
+Anthropic raised a record $93.5 billion in its IPO
+Founded in 2021 by seven former OpenAI employees, Anthropic develops large language models and operates Claude, a rival to OpenAI's ChatGPT and Google's Gemini.
+The company makes money through paid subscriptions, enterprise contracts and selling access to its AI models to software developers. Its Claude Code tool has also become popular among software engineers.
+More IPO:

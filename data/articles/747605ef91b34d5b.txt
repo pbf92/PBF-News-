@@ -1,0 +1,29 @@
+URL: https://www.eurekalert.org/news-releases/1151807
+TITLE: World’s fastest animal could double its livable territory by 2080 in the UK due to climate change
+OUTLET: EurekAlert!
+
+Global warming and climate change could have the unexpected bounty of making Great Britain a more welcoming home for the fastest animal on Earth. The area suitable for peregrine falcons within the UK could grow by 74% by the year 2080 under a high-emissions climate scenario, a new study has shown.
+This expansion could in principle allow these apex predators to establish more breeding territories. But more suitable area doesn’t automatically lead to more birds, warns the author: active conservation and protection interventions are also needed. Furthermore, the picture isn’t rosy across the board: habitat for other established species of raptors are on track to decline in the UK, unless mitigating measures are taken in time.
+“Breeding British birds of prey may respond very differently to future climate change,” said Dr Connor T Panter, a researcher within the School of Geography at the University of Nottingham, and the author of the study published in Frontiers in Ecology and Evolution.
+“Conditions associated with peregrine falcons elsewhere in Europe may become more favorable in the UK under climate change. The area suitable for hen harriers is likewise predicted to expand, while white-tailed eagles and short-eared owls may experience reductions in suitable area.”
+Bird’s-eye view
+Boasting a diversity of raptors is often a hallmark of a healthy, well-balanced ecosystem. By regulating the numbers of small mammals, these species can prevent overgrazing, habitat erosion, and the loss of plant biodiversity. Today, five species of owls and 15 species of daytime raptors such as hawks, ospreys, and buzzards breed in the UK. Most suffered devastating declines in the mid-20th century due to the widespread use of organochlorine insecticides, which accumulated in raptors to catastrophic effect.
+When the EU banned these compounds from the mid-1970s onwards, populations of many raptors tended to bounce back. Nevertheless, the British Trust for Ornithology estimates that the UK’s breeding population of peregrine falcons decreased by 57% between 1995 and 2024, due to illegal persecution, declines in available prey, and avian flu. Currently, the UK has between 1,750 and 1,800 pairs of peregrines.
+Panter aimed to predict changes in environmental suitability across the UK for 16 breeding raptor species under two IPCC emission scenarios: the ‘middle-of-the-road’ socioeconomic pathway SSP2-4.5 and the ‘worst-case’ SSP5-8.5 pathway. Input for the projections came from ‘niche models’ fitted around 14 environmental variables, including temperature range, various measures of precipitations, elevation, and the percentage land covered by five types of habitat.
+Not simply winners versus losers
+The results showed that the UK area suitable for peregrine falcons could expand from 110,257 km sq. today to 155,000 km sq. (+40.6%) under SSP2-4.5 by 2060, and to 191,319 km sq. (+73.5%) under SSP5-8.5 by 2080. The area suitable for hen harriers could increase from 74,835 km sq. today to 96,025 km sq. (+28.3%) under SSP2-4.5 by 2060, and to 105,553 km sq. (+41.0%) under SSP5-8.5 by 2080. The golden eagle, little owl, long-eared owl, western barn owl, and western marsh harrier were likewise predicted to see area increases, albeit by smaller amounts.
+The bad news is that the habitat of British short-eared owls, red kites, merlins, and Eurasian goshawks is expected to shrink considerably. The white-tailed eagle appears to be worst affected with suitable habitat potentially disappearing from the UK: namely, a reduction in area from 2,306 km sq. today to 444 km sq. (-80.7%) under SSP2-4.5 by 2060, and only 65 km sq. (-97.2%) under SSP5-8.5 by 2080. In contrast, the area suitable for the common buzzard, European sparrowhawk, and tawny owl didn’t change by much under any of the models.
+Panter concluded that different species are likely to respond in different ways to climate change: the range of outcomes is thus more varied than simply a tally of winners and losers. But what can ordinary people do to help preserve a healthy abundance and diversity of birds of prey in spite of these conflicting trends?
+“It is important for everyone to play their part in conserving raptors. This means reducing threats to birds of prey, including shooting and trapping, poisoning, and collisions with human infrastructure such as powerlines and wind turbines. Improving habitat connectivity and preserving existing habitats for both raptors and their prey is equally important. People can also contribute by participating in citizen science programs, such as iNaturalist, where sharing wildlife observations helps scientists better understand and monitor species as their environments change,” said Panter.
+Journal
+Frontiers in Ecology and Evolution
+Method of Research
+Data/statistical analysis
+Subject of Research
+Animals
+Article Title
+Contrasting projections of environmental suitability across a breeding raptor assemblage under climate change
+Article Publication Date
+26-Nov-2026
+COI Statement
+The author declares that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest

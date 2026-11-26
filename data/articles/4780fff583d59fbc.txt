@@ -1,0 +1,82 @@
+URL: https://mp1st.com/title-updates-and-patches/ea-sports-fc-27-update-1-11-1-000-012-kicks-out-major-gameplay-changes-november-26
+TITLE: EA Sports FC 27 Update 1.11 | 1.000.012 Kicks Out for Major Gameplay Changes on November 26
+OUTLET: MP1st
+
+EA Sports FC 27’s latest major patch is out on all platforms on November 26, and this brings a slew of gameplay changes. For console gamers, you’ll see this download as EA Sports FC 27 update 1.11 | 1.000.012 and this should be a hefty download.
+For the complete list of changes made, read on for the patch notes that detail everything that got changed.
+EA Sports FC 27 Update for November Brings Major Gameplay Changes
+Gameplay
+Made the following changes:
+- Shorter players are not able to bump much taller opponents off the ball as easily as before.
+  - Well-timed challenges will remain effective when a taller player leaves the ball exposed.
+- [PC, PS5, XBS X|S Only] Adjusted left-stick dribbling responsiveness, first touch trapping, and skill move agility for taller players to make them more responsive and agile, especially in tight spaces.
+- Goalkeepers will take up stronger starting angles and react more reliably against near-post threats.
+- Slightly increased shot error and spread for shot attempts from difficult angles.
+- Referee logic inside the penalty area has been improved so that light side-barges and minor stumbling after a fair challenge are less likely to result in a penalty kick.
+- Slightly decreased interception reach and reaction range for players with lower defensive Attributes.
+- Slightly adjusted the ball-recovery distance after intercepting a pass to give players a chance to fully control the ball before being tackled.
+- When failing to trap a loose ball, the player will now release their focus on the ball, allowing a better positioned teammate to claim possession.
+- Reduced the effectiveness of right stick flicks, especially when using them repeatedly in a short amount of time and reduced a player’s speed after performing a flick-up.
+- Shoulder challenges initiated directly behind a dribbler will be less likely to force an unnatural stumble and turnover.
+Addressed the following issues:
+- Clean challenges could result in an unintended foul during the recovery animation.
+- Defensive Midfielders were sometimes too slow to move up the pitch.
+- In rare cases, shielding the ball in certain areas of the pitch could disable auto tackles for defenders.
+- In rare cases, the ball could occasionally clip through a defender’s foot during an attempted tackle or interception.
+- In some situations in The Grounds 1v1 small-sided Football, the goalkeeper could do a lob pass or clearance instead of a ground pass.
+- In The Grounds 1v1 small-sided Football, players could be pulled against their inputs when the goalkeeper had the ball in their arms with the player nearby.
+Ultimate Team
+Changes:
+Stay tuned for more info on further Ultimate Team updates kicking off in Season 3.
+Addressed the following issues:
+- In certain situations, when entering a match in UT, only UI indicators could be seen on a black screen instead of the pitch.
+The Grounds
+Made the following changes:
+- The Winter Theme will appear in The Grounds.
+  - This will be activated as part of a Chapter Update alongside the Title Update.
+- Amps will now impact Street Football 1v1, 2v2, 3v3 and in-world Rush matches.
+- When entering The Grounds, Archetype Level will be taken into consideration for The Grounds matchmaking.
+  - This only applies to matchmaking when entering The Grounds and not to the individual game modes within.
+Addressed the following issues:
+- Addressed an issue in the Pitch Pong mini-game where target props did not change colour when hit.
+- Some objectives were not tracking correctly.
+- In Clubs matches, equipping an AI Facility perk incorrectly applied those attribute enhancements to human-controlled Virtual Pros as well.
+- In rare scenarios, players from other concurrent Kickabout matches could occasionally appear on the pitch during the match.
+- Sometimes, finishing a League match could cause the game to get stuck in an infinite loop of stadium spectating cutscenes.
+- Addressed various issues with incorrect NPC behaviour.
+- Sometimes in the Pitch Pong mini-game, when the ball went out of bounds, it would fail to reset.
+- Addressed an issue where player avatars could go outside of the pitch boundary lines during the post-match cutscene.
+- After disconnecting in The Grounds, menus could become inaccessible until exiting and reentering The Grounds.
+- Player Avatar could unintentionally move outside the 2v2 pitch area after completing the 2v2 Street Football tutorial.
+Career Mode
+Made the following changes:
+- Balanced transfer interest thresholds in Manager Career to ensure signing players when managing lower-league clubs is more achievable while still maintaining transfer market authenticity.
+- Added the wage column to the Contract Renewal tab under Active Negotiations.
+  - Calendar simulation now remembers your target date after an interruption, so you no longer have to set it again.
+  - We also reduced how often the confirmation pop-up appears.
+- In Manager Career, clubs can now trigger the Loan to Buy option to sign players they had loaned from other clubs permanently.
+Addressed the following issues:
+- Temporarily disabled player transfer requests.
+  - This is to prevent further disruptions to your experience while we work on further investigations, scan the QR code on the right to learn more.
+- Fixed an issue where the order of the players in team management is not kept after rearranging substitutes.
+- In Manager Career, players could experience a complete lack of transfer or loan offers for lower-rated squad players and youth players, even when they are actively listed on the Transfer Hub.
+- In Manager Career, high-rated young players transferred between CPU-controlled clubs were being signed on contracts with unrealistically low weekly wages.
+- In Player Career, a specialisation remained equipped even after a player refunded the attribute points required to unlock it.
+- Addressed an issue in Player Career where some training scenarios displayed incorrect images in the Training Hub.
+- Addressed instances of misaligned text.
+- Addressed instances of incorrect overlays and cinematics.
+- In some instances in Manager Career, scouts return incorrect players in their reports.
+- Addressed an issue in Manager Career where the player info tile was incorrectly displayed in the transfer shortlist screen for players who already had an active transfer offer.
+- Addressed an issue in Manager Career where a player’s profile page incorrectly listed their status after they had already been sold for the following season.
+- In Manager Career, a potential transfer fee was incorrectly displayed in the negotiation summary when setting up a loan deal with the Option to Buy set to No.
+- Addressed various stability issues that could occur in Career Mode.
+General, Audio, and Visual
+Made the following changes:
+- Updated some kits, crests, overlays, hair, audio, commentary, cameras and camera angles, boots, headbands, stadiums, lighting, banners, flags, scarves, logos, text, gloves, player images, cinematics, tops & celebrations
+Addressed the following issues:
+- Addressed various stability issues that could have occurred.
+- In Kick-Off, some teams were missing broadcast intros.
+- [PC Only] Addressed an issue where the game would not save or launch in the custom dimensions of a previously resized windowed-mode screen.
+- [PC Only] Addressed an issue where, when using an analog keyboard with Steam Input disabled, menu button prompts could incorrectly switch from keyboard keys to controller icons when changing the active window.
+- Sometimes, when re-entering the Warm-Up tutorial, looking-around prompts may incorrectly display mouse instructions instead of the active controller’s analogue stick prompts.
+Don’t be surprised to see a hotfix or two be applied if something breaks.
