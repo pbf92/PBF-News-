@@ -1,0 +1,28 @@
+URL: https://www.abs.gov.au/media-centre/media-releases/data-centre-investment-continues-drive-new-capital-expenditure
+TITLE: Data centre investment continues to drive new capital expenditure
+OUTLET: Australian Bureau of Statistics
+
+Data centre investment continues to drive new capital expenditure
+Private new capital expenditure (capex) rose 12.2 per cent in the September quarter 2026 (seasonally adjusted), according to figures released today by the Australian Bureau of Statistics (ABS).
+Robert Ewing, ABS head of business statistics, said: “Capital expenditure is now 18.6 per cent higher compared to the same time last year, driven by businesses investing significantly in equipment for data centres.
+“This quarter’s rise continues rapid growth seen since September quarter 2025, where businesses buying large quantities of server racks and processing equipment led to a surge in overall investment.
+“It is the largest rise in capital expenditure since the September quarter 2011, during the mining investment boom.”
+Information media and telecommunications recorded the largest industry rise this quarter, up 86.7 per cent to a new record level.
+New equipment and machinery investment is now at a record high, up 23.1 per cent. This was driven by non-mining equipment and machinery (+27.1 per cent), specifically information media and telecommunications (+183.5 per cent).
+“Other industries also saw noteworthy increases in equipment spending, including retail trade and mining – up 9.4 per cent and 3.2 per cent respectively – driven by investment in automation and electrification,” Mr Ewing said.
+Small business investment lifted health care and social assistance (+16.6 per cent), while transport, postal and warehousing (+3.3 per cent) also rose with continued investment in air transport.
+Capex for buildings and structures rose 1.7 per cent, driven by electricity, gas, water and waste services (+7.7 per cent) and information media and telecommunications (+8.9 per cent), both now at record levels of building investment.
+“The rise in building and structures continues to be driven by renewable energy projects and investment in data centre projects, supported by electricity supply service providers delivering associated storage and transmission infrastructure,” Mr Ewing said.
+Victoria (+31.0 per cent) and New South Wales (+9.6 per cent) continue to record the bulk of data centre investment.
+The Northern Territory (-1.3 per cent) was the only state or territory to record a fall.
+This release includes the fourth estimate for planned capex in 2026-27. Businesses revised their expected capex for 2026-27 to be up by 11.8 per cent (in current prices) since their last estimate.
+More detailed industry, state analysis, expected capex and further information on the statistical methodology is available in Private New Capital Expenditure and Expected Expenditure, Australia.
+The ABS gratefully acknowledges the contributions of businesses across Australia in providing data for this release.
+Media notes
+- New capital expenditure (capex) refers to the acquisition of new tangible assets and includes major improvements, alterations, and additions.
+- All statistical figures in this media release are in seasonally adjusted volume terms unless otherwise noted.
+- Seasonal adjustment is the process of estimating and removing seasonal effects to allow comparison of data for adjacent months. See methodology for more details.
+- For any media requests, email media@abs.gov.au or call 1300 175 070 (9am-5pm Canberra time) with your questions and deadline.
+- Please attribute the 'Australian Bureau of Statistics (ABS)' when using our data.
+- Explore our Data Crash Course for guidance on finding and interpreting ABS data, and subscribe to our release notifications to stay updated.
+- Information on how the ABS will release market sensitive releases during a website or API outage.

@@ -1,0 +1,71 @@
+URL: https://www.pharmacymagazine.co.uk/clinical-reviews/suspected-uti-in-men-a-pharmacy-case-study
+TITLE: Suspected UTI in men: case study for community pharmacy
+OUTLET: Pharmacy Magazine
+
+In Clinical reviews
+Follow this topic
+Bookmark
+Record learning outcomes
+Equitable healthcare requires both access to services and their use. Research suggests that men are less likely than women to use preventive and primary care services, contributing to preventable illness, later-stage diagnoses and increased mortality. This article explores barriers to engagement and uses a suspected urinary tract infection (UTI) to illustrate how community pharmacists can support male patients.
+Men and women have different mortality outcomes. According to the Office for National Statistics, life expectancy is 79.1 years for men and 83.0 years for women – a difference of around four years.1 Healthy life expectancy is also slightly lower in men: 60.9 years compared with 61.3 years in women.2
+Differences between men and women in accessing health services have long been recognised globally.3 The reasons remain unclear, but seeking help may be perceived as incompatible with masculine expectations of strength and stoicism, making men appear weak.4
+A 2026 Men’s Health Forum report explored why men may not seek health advice in pharmacies. Its representative sample included 1,675 men and women aged 18–65; only one in four men (25.3%) reported speaking to a pharmacist about a health question or concern. Barriers included discomfort discussing health issues in a public retail space, perceptions that seeking advice signals weakness, and a tendency to delay seeking help.5
+In 2025, the UK Government published ‘Men’s health: a strategic vision for England’, its first men’s health strategy to improve engagement with men and boys. It recognises men’s poorer health outcomes and lower engagement with services, following a similar Australian strategy developed in 2020. Its impact remains to be seen, but progress is likely to depend on services adapting to men’s needs as well as changes in male behaviour.
+Clear signage highlighting private pharmacist consultations may help bridge this gap. Visible, male-friendly displays promoting men’s health and fitness may also encourage engagement.
+The following scenario illustrates a consultation with a man who has a suspected lower UTI.
+Case study: urinary tract infection in male patient
+David Miller, a 59-year-old local accountant, approaches the pharmacy counter for advice. He describes a “burning sensation” during urination and “a constant urge to go to the loo”. His wife had a similar problem some time ago and now drinks cranberry juice, which he would also like to buy.
+Questioning the patient
+Seeking advice and treatment is an important first step for David. Invite him into the consultation room and help him feel comfortable sharing relevant information. Questions should be non-judgemental and clinically focused.
+UTIs are much less common in men than in women, whose shorter urethra makes it easier for bacteria to reach the bladder. UTIs in men are considered complicated, rather than uncomplicated as in women, because of the increased risk of further issues. Establish the most likely diagnosis without making assumptions.
+Table 1 suggests ways to phrase consultation questions, while Table 2 outlines potential differential diagnoses. At the end of the consultation, thank David for answering and reassure him that his answers remain confidential.
+Red flags
+Refer men presenting with the following symptoms to a GP:
+- High fever
+- Flank/back pain
+- Perineal/rectal or pelvic pain with systemic upset
+- Haematuria
+- Inability to pass urine/weak stream/hesitancy
+- Urethral discharge/testicular pain.
+Key considerations
+UTIs are much less common in men than women, although risk increases with age as structural and functional urinary tract abnormalities impair bladder emptying. Benign prostatic hyperplasia is the most common abnormality leading to a UTI.6 An estimated 10% of all UTIs occur in men.7
+Dysuria, urinary frequency and urgency are approximately 75% predictive of lower UTI in men.8 These are David’s main symptoms, suggesting a lower UTI. In younger men with dysuria (pain on urination) and increased frequency, sexually transmitted infection (STI)-related urethritis or prostatitis is a more common cause.9
+Prescribing
+For pharmacist prescribers, a urine dipstick test can help to ‘rule in’ infection: a positive result for nitrates makes a UTI more likely.10 David provides a urine sample, which tests positive for nitrates. Antibiotics are the primary treatment because the aim is to eradicate the causative bacteria.
+Most UTI pathogens originate in the gastrointestinal tract, enter the urinary tract and are not effectively eliminated. The most likely organisms in both sexes are:
+- Escherichia coli – around 75% of all cases
+- Klebsiella species – around 6%
+- Staphylococcus saprophyticus – around 6%
+- Enterococcus faecalis – around 5%.11
+Complicated UTIs in men require a longer treatment course, with most authorities recommending 7–14 days. NICE recommends starting empirical antibiotic treatment for suspected lower UTI in men with either:12
+- Trimethoprim 200mg twice daily for 7 days
+OR
+- Nitrofurantoin 100mg modified-release (MR) twice daily for 7 days.
+NICE also recommends obtaining a midstream urine sample from men before starting antibiotics and sending it for culture and sensitivity testing. In this case, the local GP surgery has agreed to send samples requested by the independent pharmacist prescriber, including for men with suspected lower UTI.
+NICE states that trimethoprim has a lower risk of resistance in men and reaches therapeutic levels in the prostate. The latter is relevant when acute prostatitis is suspected, which is not the case with David. Nitrofurantoin should not be used in men with suspected prostate involvement.
+Antibiotic choice also depends on recent antibiotic exposure and local guidelines. Previous antibiotic use is a time-dependent risk factor for resistance in clinical practice.13
+Patient counselling
+Explain that, when collecting a midstream urine sample, David should start urinating normally, then collect some urine in the sterile bottle without stopping the flow. He should return the sample ideally within 2 hours, or refrigerate it until he can return it.
+Ensure David understands the importance of completing the antibiotic course, even if symptoms resolve within a few days. Explain that this is not only to prevent bacterial resistance: men also have a higher risk of complications because of anatomical differences and possible urinary outflow obstruction.
+Trimethoprim can be taken with or without food, whereas MR nitrofurantoin should be taken with food or milk, for example at mealtimes, to reduce nausea and improve absorption. Explain that nitrofurantoin can harmlessly turn urine dark yellow or brown. Warn David that diarrhoea can occur in 2–25% of patients.
+The MHRA/CHM also advises vigilance for pulmonary and hepatic adverse drug reactions with nitrofurantoin.14 If prescribed nitrofurantoin, David should report any new or worsening respiratory symptoms, which can develop even during short-term treatment. Ask him to report:
+- Difficulty breathing
+- Shortness of breath
+- Lingering cough
+- Coughing up blood or mucus
+- Pain or discomfort when breathing.
+Nitrofurantoin should be discontinued immediately if any of these symptoms occur. Hepatic changes generally develop more gradually and are associated with long-term use. However, arranging periodic liver function tests would still be prudent to identify dysfunction.
+Cranberry juice
+A Cochrane systematic review suggests that cranberry products, including tablets, powder and juice, can help prevent recurrent UTIs in women.15 However, the review of 50 studies found little or no evidence of benefit in institutionalised men. A second Cochrane review found no studies assessing cranberry supplements as a treatment for UTI.16
+Advise against cranberry juice-containing products and alkalising agents such as potassium citrate for an active infection. Explain that they are not antibacterial and are more preventive than curative.
+David can use paracetamol or ibuprofen for pain or discomfort. Advise him to drink more water to dilute his urine and help flush out bacteria.
+Patient follow-up
+Symptoms generally improve within 48–72 hours, so arrange a follow-up appointment after 2 days to assess David’s response and review urine culture results. NICE recommends checking the results against the prescribed antibiotic and changing treatment if bacteria are resistant and symptoms are not improving. Follow-up also provides an opportunity to assess for complications, including:
+- Prostatitis
+- Pyelonephritis
+- Sepsis
+- Urinary stones.
+Once the infection resolves, advise David to stay hydrated, aiming for pale yellow urine, and to empty his bladder regularly rather than ‘hold it in’. Regular emptying helps remove bacteria. Explain that an enlarged prostate can obstruct urine flow as men age, increasing bacterial build-up and the risk of repeated UTIs.
+If David has more than two UTIs in the next 6 months, or three within 12 months, treat each episode as an acute infection, as described above, and arrange a urine culture each time. Reinforce advice on adequate hydration and not delaying bladder emptying, as these are known risk factors for UTI. Refer men with recurrent UTIs to a urology specialist for further investigation.
+Alternatively, a pharmacist prescriber may consider daily antibiotic prophylaxis, particularly if behavioural and hygiene measures are ineffective. Methenamine hippurate is another prophylactic option, although NICE recommends seeking specialist advice first.
+Although not relevant to David, an indwelling catheter can also increase UTI risk.

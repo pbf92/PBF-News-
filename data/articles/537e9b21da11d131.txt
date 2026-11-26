@@ -1,0 +1,10 @@
+URL: https://www.digitaltoday.co.kr/en/view/130821/anthropic-rolls-out-install-as-app-feature-for-claude-artifacts
+TITLE: Anthropic rolls out 'Install as app' feature for Claude artifacts
+OUTLET: 디지털투데이
+
+Anthropic has unveiled a feature that allows outputs made with Claude to be installed and used as desktop apps, the Wall Street Journal (WSJ) reported on Monday.
+According to the report, Claude users can now create, run and share desktop apps using “artifacts.” Artifacts were originally used to share Claude-generated outputs such as charts or web pages.
+The “Install as app” feature has been applied in beta to Claude for Mac and Windows. Installed apps operate outside Claude under the permissions system. Anthropic explained, “If you install an artifact as a Mac or Windows app, a separate icon is created and it opens in its own window rather than inside Claude,” adding, “You can share it with other people, and it can interact with the computer with user permission.”
+The company said Anthropic staff are already building and using several apps. They include an image editor called Linnet and Sift, which sets folder rules and uses Claude to organize files.
+WSJ said the announcement has the character of wrapping up this year’s trend in AI development. Anthropic introduced Cowork as a research preview for the Claude desktop app on Jan. 12. Through Cowork, users can assign Claude multi-step tasks such as organizing files, drafting documents, extracting spreadsheet data and consolidating research. In February, it added open-source plugins to Cowork that allow companies to customize Claude. These included a plugin for the legal field.
+WSJ added that the feature shows a trend of software and AI becoming increasingly closely linked, and that AI development continues to advance despite a sell-off in technology stocks and falling share prices.

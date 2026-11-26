@@ -1,0 +1,18 @@
+URL: https://mspbusiness.com/en/technology-and-architecture/anthropic-brings-claude-artifacts-to-macos-and-windows-as-desktop-apps/
+TITLE: Anthropic brings Claude Artifacts to macOS and Windows as desktop apps
+OUTLET: mspbusiness.com
+
+Anthropic is introducing the beta feature ‘Install as app’, which lets you install Claude Artifacts as standalone desktop applications for macOS and Windows. The apps get their own icon, run in a separate window and can work with the operating system. Three access levels determine what an app is allowed to do on the computer.
+Artifacts began as standalone outputs within a conversation with Claude, such as a chart or a web page. According to Anthropic, customers now also use them as everyday work tools, for example to combine calendars and emails when preparing for meetings or to keep track of orders. With the new beta feature, you install an artifact as a separate application, so you no longer need to open the Claude environment first.
+Integration with the operating system
+An installed app gets its own program icon and runs in a separate window. Anthropic says the apps can send notifications, add items to the menu bar or system tray, and update automatically whenever the underlying artifact changes.
+The company says its employees have already built a range of applications internally, including an image editor with layers, a file manager that uses AI to organise folders and a system monitor for the menu bar. According to Anthropic, you do not need to compile or digitally sign anything manually to build and share them. The apps use the existing Claude account, and their use counts towards the regular limits of the subscription.
+Three levels of access
+To protect the workplace, Anthropic applies three access levels. By default, an installed app has the same permissions as a regular web browser. At the second level, you can grant specific app permissions, such as sending notifications or responding to keyboard shortcuts.
+The highest level gives an app full access to the computer, so that it can edit files or launch programs. This option is only available for apps you have created yourself or that were developed within the same Team or Enterprise environment. After every change or update to an app, the user must grant permission again.
+Availability and administration
+Anthropic is rolling out the feature in beta for all Claude plans. Environments set up for HIPAA, the US legislation on medical data, and hybrid deployments are excluded. Administrators of Team and Enterprise accounts decide for themselves whether app permissions and full computer access are available within their organisation, and can switch either on or off.
+Points to consider for the workplace
+For IT service providers who manage clients’ workplaces, the feature means that end users can put applications on their systems themselves, without an installation process that goes through the IT department. This affects existing agreements on software policy, application control and endpoint security. It therefore makes sense to check, for clients with a Team or Enterprise plan, how the settings for app permissions and full computer access are configured and whether they align with the organisation’s security policy.
+Because the feature is still in beta, its behaviour may change. No date has been announced for general availability.
+This article was originally published in Dutch on MSP Business. Read the original →

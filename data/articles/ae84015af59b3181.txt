@@ -1,0 +1,69 @@
+URL: https://www.nature.com/articles/s41443-026-01389-3
+TITLE: Readability, quality, and transparency of Turkish-language erectile dysfunction websites: a cross-sectional study
+OUTLET: Nature
+
+Abstract
+Erectile dysfunction is highly prevalent, yet many affected men avoid professional help and turn to the internet for information. Although online erectile dysfunction information has been studied in English, evaluations in other languages remain limited, and, to our knowledge, none has examined Turkish-language websites. This cross-sectional study assessed the readability, quality, and transparency of Turkish-language erectile dysfunction websites. Google.com.tr was searched in incognito mode using three Turkish terms; 96 websites met the inclusion criteria. Readability was assessed with the Atesman and Bezirci-Yılmaz formulas, and quality and transparency with the DISCERN instrument and the Journal of the American Medical Association benchmark criteria, scored by two independent urologists (inter-rater reliability by intraclass correlation coefficient and kappa). The median Atesman score was 42.04 (“difficult”), with 84.4% of sites difficult or very difficult to read. The median DISCERN score was 58.00 (“good”), with 87.5% rated good or excellent, but attribution was met by only 6.8% (median benchmark score 2.00). Physician sites scored higher than hospital sites on DISCERN (p < 0.001) and the benchmark criteria (p = 0.004), whereas readability was comparable and showed no correlation with quality. Professionally sourced Turkish erectile dysfunction websites achieved good DISCERN scores but were written above the reading level of most patients; improving readability and transparency should be priorities.
+Access options
+Subscribe to this journal
+Receive 12 print issues and online access
+Buy this article
+- Purchase on SpringerLink
+- Instant access to the full article PDF.
+USD 39.95
+Prices may be subject to local taxes which are calculated during checkout
+Data availability
+The datasets generated and analysed during the current study are available within the article and its supplementary information files. The complete per-website dataset—including individual DISCERN and JAMA item scores from both independent raters and all summary calculations—is provided as a supplementary Excel file. Any additional data are available from the corresponding author on reasonable request.
+References
+- Yafi FA, Jenkins L, Albersen M, Corona G, Isidori AM, Goldfarb S, et al. Erectile dysfunction. Nat Rev Dis Primers. 2016;2:16003.
+- Shamloul R, Ghanem H. Erectile dysfunction. Lancet. 2013;381:153–65.
+- Kessler A, Sollie S, Challacombe B, Briggs K, Van Hemelrijck M. The global prevalence of erectile dysfunction: a review. BJU Int. 2019;124:587–99.
+- Ayta IA, McKinlay JB, Krane RJ. The likely worldwide increase in erectile dysfunction between 1995 and 2025 and some possible policy consequences. BJU Int. 1999;84:50–6.
+- Rosen RC, Fisher WA, Eardley I, Niederberger C, Nadel A, Sand M. The multinational Men’s attitudes to life events and sexuality (MALES) study: I. Prevalence of erectile dysfunction and related health concerns in the general population. Curr Med Res Opin. 2004;20:607–17.
+- Russo GI, Asmundo MG, Durukan E, Fode M. Quality and benefits of the erectile dysfunction information on websites, social-media, and applications. Int J Impot Res. 2024;36:688–92.
+- Tan SS, Goonawardene N. Internet health information seeking and the patient-physician relationship: a systematic review. J Med Internet Res. 2017;19:e9.
+- Shah YB, Beiriger J, Mehta S, Cohen SD. Analysis of patient education materials on TikTok for erectile dysfunction treatment. Int J Impot Res. 2024;36:741–6.
+- Eysenbach G, Powell J, Kuss O, Sa ER. Empirical studies assessing the quality of health information for consumers on the world wide web: a systematic review. JAMA. 2002;287:2691–700.
+- Daraz L, Morrow AS, Ponce OJ, Farah W, Katabi A, Majzoub A, et al. Readability of online health information: a meta-narrative systematic review. Am J Med Qual. 2018;33:487–92.
+- Pattenden TA, Raleigh RA, Pattenden ER, Thangasamy IA. Quality and readability of online patient information on treatment for erectile dysfunction. BJUI Compass. 2021;2:412–8.
+- Fode M, Nolsøe AB, Jacobsen FM, Russo GI, Østergren PB, Jensen CFS, et al. Quality of information in Youtube videos on erectile dysfunction. Sex Med. 2020;8:408–13.
+- The HLS19 Consortium of the WHO Action Network M-POHL. International Report on the Methodology, Results, and Recommendations of the European Health Literacy Population Survey 2019-2021 (HLS19) of M-POHL. Vienna: Austrian National Public Health Institute; 2021.
+- Kutner M, Greenberg E, Jin Y, Paulsen C. The Health Literacy of America’s Adults: Results From the 2003 National Assessment of Adult Literacy (NCES 2006–483). Washington, DC: National Center for Education Statistics; 2006.
+- Yiğitalp G, Bayram Değer V, Çifçi S. Health literacy, health perception and related factors among different ethnic groups: a cross-sectional study in southeastern Turkey. BMC Public Health. 2021;21:1109.
+- Demirci Ş, Uğurluoğlu Ö, Konca M, Çakmak C. Socio-demographic characteristics affect health information seeking on the Internet in Turkey. Health Info Libr J. 2021;38:304–12.
+- Er A, Ay IE, Horozoğlu Ceran T. Evaluating Turkish readability and quality of strabismus-related websites. Cureus. 2024;16:e58603.
+- Tekin Dal B, Canbaz H. Quality and readability of Turkish online patient information websites on benign paroxysmal positional vertigo. BMC Health Serv Res. 2026;26:645.
+- Memişoğlu M, Bilen Ö. Strategic analysis of the Turkish over-the-counter drugs and non-pharmaceutical products market. Turk J Pharm Sci. 2021;18:252–61.
+- Semin S, Aras Ş, Güldal D. Direct-to-consumer advertising of pharmaceuticals: developed countries’ experiences and Turkey. Health Expect. 2007;10:4–15.
+- Ateşman E. Türkçede okunabilirliğin ölçülmesi. Dil Derg. 1997;58:71–4.
+- Bezirci B, Yılmaz AE. Metinlerin okunabilirliğinin ölçülmesi üzerine bir yazilim kütüphanesi ve Türkçe için yeni bir okunabilirlik ölçütü. Dokuz Eylül Üniversitesi Mühendislik Fakültesi Fen ve Mühendislik Derg. 2010;12:49–62.
+- Charnock D, Shepperd S, Needham G, Gann R. DISCERN: an instrument for judging the quality of written consumer health information on treatment choices. J Epidemiol Community Health. 1999;53:105–11.
+- Silberg WM, Lundberg GD, Musacchio RA. Assessing, controlling, and assuring the quality of medical information on the internet: caveant lector et viewor—Let the reader and viewer beware. JAMA. 1997;277:1244–5.
+- Koo TK, Li MY. A guideline of selecting and reporting intraclass correlation coefficients for reliability research. J Chiropr Med. 2016;15:155–63.
+- Colaco M, Svider PF, Agarwal N, Eloy JA, Jackson IM. Readability assessment of online urology patient education materials. J Urol. 2013;189:1048–52.
+- Zheng H, Ye W, Wang C. Preeclampsia information on social media: a cross-sectional analysis of content, quality, and reliability. Eur J Obstet Gynecol Reprod Biol. 2026;323:115207.
+- Salonia A, Capogrosso P, Boeri L, Cocci A, Corona G, Dinkelman-Smit M, et al. European Association of Urology guidelines on male sexual and reproductive health: 2025 update on male hypogonadism, erectile dysfunction, premature ejaculation, and Peyronie’s disease. Eur Urol. 2025;88:76–102.
+- Özdemir AK, Botsalı, Özdemir BR, Aktaş A. Readability of dermatology patient education materials: a comparative analysis of Turkish Dermatology Association brochures and texts generated by ChatGPT and Gemini. Turk J Med Sci. 2026;56:983–90.
+- Shoemaker SJ, Wolf MS, Brach C. Development of the patient education materials assessment tool (PEMAT): a new measure of understandability and actionability for print and audiovisual patient information. Patient Educ Couns. 2014;96:395–403.
+Acknowledgements
+None.
+Funding
+This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Ethical approval
+This study was approved by the Clinical Research Ethics Committee of the University of Health Sciences, Konya City Hospital (approval number: 2026/213; date: 8 July 2026) and was conducted in accordance with the principles of the Declaration of Helsinki. As the study analysed only publicly available website content and did not involve human participants, identifiable personal data, or animals, informed consent was not applicable.
+Additional information
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Rights and permissions
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+About this article
+Cite this article
+Bayraktar, A.M., Yıldırım, M.M., Yıldız, M.T. et al. Readability, quality, and transparency of Turkish-language erectile dysfunction websites: a cross-sectional study. Int J Impot Res (2026). https://doi.org/10.1038/s41443-026-01389-3
+- Received:
+- Revised:
+- Accepted:
+- Published:
+- Version of record:
+- DOI: https://doi.org/10.1038/s41443-026-01389-3

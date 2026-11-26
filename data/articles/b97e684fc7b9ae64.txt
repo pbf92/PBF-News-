@@ -1,0 +1,29 @@
+URL: https://coinpaper.com/39421/anthropic-stock-crashes-36-from-record-high-as-market-cap-falls-below-1-trillion
+TITLE: Anthropic Stock Crashes 36% From Record High as Market Cap Falls Below $1 Trillion
+OUTLET: Coinpaper
+
+Key takeaways
+- Anthropic stock falls 36% from its debut-day high
+- ANT briefly loses its trillion-dollar market capitalization
+- Infrastructure commitments and upcoming share unlocks remain risks
+Anthropic (NASDAQ: ANT) shares plunged to an intraday low of $73.85 on Wednesday, November 25, extending their decline from last week's record high of $115.10 to approximately 36%.
+The selloff briefly pushed the Claude developer's market capitalization below $1 trillion, less than a week after its historic Nasdaq debut. At its session low, ANT traded 11% below its $83 initial public offering price.
+The latest decline coincided with renewed weakness across AI stocks, with semiconductor manufacturers and cloud infrastructure providers facing mounting selling pressure.
+Anthropic Stock Erases Its Entire IPO Premium
+According to Anthropic's official announcement, its initial public offering generated approximately $93.5 billion in gross proceeds, including shares purchased through the underwriters' additional allocation. Approximately $91.6 billion went to the company before offering expenses.
+Anthropic opened at $111.50 on November 19 before reaching $115.10, representing a premium of nearly 39% over its offering price.
+However, shares have struggled to retain those gains. ANT closed its first trading session at $97.17, followed by $88.91 on Friday, $87.64 on Monday and $81.91 on Tuesday.
+Wednesday's intraday low represents a loss of approximately $41 per share for investors who purchased ANT at its debut-day peak.
+Unlike the capital generated through Anthropic's IPO, the decline in its market capitalization does not directly reduce the cash available to the company.
+Nvidia, Google and Microsoft Investments Fall Below Entry Price
+Anthropic's public offering was accompanied by a separate $26 billion private placement involving seven major technology companies: Nvidia, Google, Microsoft, AMD, Broadcom, Micron and TSMC.
+The companies collectively purchased approximately 313.3 million Class N shares at $83 each, matching the public offering price.
+At Wednesday's intraday low, those shares had an implied value of approximately $23.14 billion using ANT's publicly traded share price, representing a theoretical decline of $2.87 billion.
+However, this does not constitute a realized investment loss, and the privately placed shares are subject to different trading restrictions.
+Anthropic's underperformance has become particularly noticeable since Monday, when the broader technology sector staged a substantial recovery that failed to lift ANT.
+Anthropic Faces $901 Billion in Spending Commitments
+Beyond immediate market volatility, investors must assess the financial implications of Anthropic's long-term computing obligations.
+The company's final SEC prospectus disclosed approximately $900.9 billion in spending commitments, primarily related to computing infrastructure, extending through 2045.
+These commitments are not equivalent to outstanding debt or immediately payable expenses. Nevertheless, they illustrate the scale of revenue growth required to support Anthropic's infrastructure expansion.
+Another potential catalyst is the December 15 share unlock, when up to 303 million shares could become eligible for public sale.
+Meanwhile, the broader AI sector correction continues to challenge valuations across the industry's largest companies.

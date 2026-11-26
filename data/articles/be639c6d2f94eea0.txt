@@ -1,0 +1,63 @@
+URL: https://ppc.land/north-america-no-longer-has-amazon-ad-tag-setup-to-itself/
+TITLE: North America no longer has Amazon Ad Tag setup to itself
+OUTLET: PPC Land
+
+Amazon Ads has extended the setup of its website measurement tag, the Amazon Ad Tag, to every region it runs. According to a release note dated November 17, 2026, advertisers "can now create an Amazon Ad Tag through Ads data manager for advertising accounts in NA, EU and FE" - North America, Europe and the Far East, the three regions into which Amazon divides its advertising accounts and its API. Until then, the Ads data manager route served North American accounts only.
+The note itself is two sentences long. The guide behind it, a page titled "Set up the tag" in Amazon's Advanced tools center, is far more detailed: it lays out a seven-step process, one tag per account, a dataset that builds itself, 12 conversion types and a consent setup that now applies to many more advertisers in Europe.
+In Short
+Advertisers in Europe and the Far East can now create Amazon's website tracking tag inside Ads data manager, the same tool North American accounts have used, instead of going through a separate screen. It matters to brands and agencies that track sales, sign-ups or leads on their own websites from Amazon ads, because the tag decides which of those actions Amazon can count and report. Each account is limited to one tag, a data folder is created with it automatically, and European visitors' data needs a country code and a consent signal before Amazon will use it.
+What changed on November 17
+The release note sits in the Amazon Ads API release notes under the heading "Amazon Ad Tag now available in Ads data manager in all regions." It points readers to a section called "Before you start" in the Amazon Ad Tag guide, which now repeats the same line: tags can be created through Ads data manager for advertising accounts in NA, EU and FE. Amazon's release notes feed lists the item with a publication date of Tuesday, November 17, 2026.
+What the note does not spell out is the situation before. Amazon's guide does, almost by accident. One of its screenshots, captioned "Naming the ad tag," still shows a blue information banner from the earlier version of the screen. It reads: "Amazon Ad Tags created through Amazon Ads data manager are currently supported in North America advertising accounts only. We will be extending this functionality to other regions soon. To create an ad tag for use in the Europe or Far East regions, navigate to the Events Manager within the Campaign Manager."
+That sentence describes two routes. North American accounts built their tag in Ads data manager. European and Far East accounts built theirs in Events Manager, a separate area of the campaign console. The November 17 note brings the second group into the first route. Neither the note nor the guide says whether Events Manager remains available for new tags, or what happens to tags that European and Far East advertisers created there.
+Amazon's release notes describe the three regions in an April 9, 2025 entry about global seats for Amazon DSP, which said Global Manager Accounts "will be available in three regions: NA, EU, and FE," each with its own API endpoint. The November 17 note does not list the countries inside each region.
+What the tag is and what its base code does
+The Amazon Ad Tag is a short piece of JavaScript that an advertiser places on its own website. It reports what visitors do there - a page view, a sign-up, a purchase - back to Amazon Ads, so that those actions can be counted as results of Amazon campaigns. Amazon abbreviates it as AAT.
+According to the guide, every tag starts with a "base code" snippet. The published example is:
+<script>
+!function(w,d,s,t,a){if(w.amzn)return;w.amzn=a=function(){
+w.amzn.q.push([arguments,(new Date).getTime()])};a.q=[];
+a.version="0.0";s=d.createElement("script");
+s.src="https://c.amazon-adsystem.com/aat/amzn.js";
+s.id="amzn-pixel";s.async=true;
+t=d.getElementsByTagName("script")[0];
+t.parentNode.insertBefore(s,t)}(window,document);
+amzn("setRegion", "NA");
+amzn("addTag", "YOUR_TAG_ID");
+amzn("trackEvent", "PageView");
+</script>
+The guide lists four things this code does. It "Loads the amzn.js library asynchronously," "Creates a placeholder function that queues calls made before the library finishes loading," "Registers the advertiser Tag ID" and "Fires the initial PageView event on every page load." Each snippet belongs to one advertiser. "Base code snippets are advertiser-specific," the guide states, and it warns: "Do not copy a tag from another advertiser."
+Two details in the snippet stand out now that the tool covers three regions. The example sets the region to "NA" with the setRegion command, and the guide does not show the value used for European or Far East tags. The script element is also still given the id "amzn-pixel," a name that echoes the pixel the tag replaced.
+How the setup works
+According to Amazon's guide, setting up a tag in Ads data manager follows seven steps.
+- Create the ad tag. In the side menu, the path is Data and events > Data manager, then Sources, then Create Ad Tag on the Amazon Ad Tag card. The tag gets a name; a description is optional. "You can create one tag per account, whether that is a manager account or an advertiser account," the guide states.
+- Configure the tag. The configuration view has three parts, described in the table below. The step ends with Create ad tag, after which "The tag is created with an Ad tag ID, and a dataset is created to receive its data."
+- Install the code on the website. The generated code goes on each page, "as high in the as possible so it loads before any user interaction," either pasted into the site directly or deployed through a tag manager.
+- Confirm the events are firing. Amazon points to its Amazon Ad Tag Helper extension for Chrome, "which shows each event and its attributes as they fire," and to the browser's Network tab for the raw request.
+- Events arrive in the ad tag dataset. The dataset created with the tag starts to fill. It opens on four tabs.
+- Create conversion definitions. Each event that should count in campaign measurement needs one.
+- Send the data to a destination. A destination is where the dataset becomes usable inside Amazon Ads. Sharing to an account other than the one that created the tag "requires a manager account."
+The guide adds a warning to step 2: "Add an event's code only to pages where that event can actually happen. Adding the Lead event code to a page with no lead form will make the lead count inaccurate."
+The one-tag limit appears twice. In a separate installation section, the guide says: "Today you can create only one ad tag per account. To track different actions, change the event name you pass to trackEvent rather than creating another tag." The word "Today" suggests the limit may change, but no date is given.
+A dataset that builds itself
+The guide opens with a point that changes how the tag behaves in practice: "Creating an ad tag in Ads data manager automatically provisions an EVENT dataset to receive its data. You do not create the dataset yourself."
+A dataset here is simply a container in Ads data manager that holds the events the tag sends. It appears in the Datasets list as soon as the tag exists, before any data has arrived. The row shows the dataset name, a Type of Event, a Source of AdTag, the number of active destinations and the creation date. "An empty dataset with zero destinations is the expected state immediately after setup," according to the guide.
+The match rate on the Overview tab is the share of records Amazon can tie to its own customer data. A screenshot of the Events tab shows that an event without a mapped off-Amazon event has no conversion definition yet, which means it is being received but not counted.
+Conversion definitions and the 12 types
+A conversion definition, in the guide's words, "maps your free-form event name to one of the standard conversion types, and is what makes an event usable for campaign measurement." An advertiser can name an event anything on the website; the definition tells Amazon which standard category it belongs to.
+The purchase value feeds five reporting metrics named in the guide: Off-Amazon product sales, Off-Amazon units sold, Off-Amazon return on ad spend (ROAS), Off-Amazon ROAS (reconciled) and Off-Amazon effective return per 1000 impressions (eRPM). Advertisers that also measure sales on Amazon get Combined purchase metrics showing both.
+"There are 12 conversion types. No attribute is required for any of them; each has recommended attributes," the guide states. Attributes are the extra details sent with an event, such as an order value or a product ID.
+OTHER, according to the guide, "covers customer actions that do not fit any of the other types." Optional does not mean free of consequences, though. "Missing recommended attributes lowers your Data Quality Score and limits the optimization options available to your campaigns," the guide warns. It does not explain how the Data Quality Score is calculated or which optimization options are affected.
+Tag managers and the server route
+Most large websites do not paste tracking code into pages by hand. They use a tag manager, a tool that loads tracking scripts from one place. Amazon publishes two templates in the Google Tag Manager Community Gallery.
+The guide describes the Google Tag Manager install in six steps: find the template in Templates > Tag Templates > Search gallery and add it to the workspace, create a new tag from the template, fill in the Tag ID, region, events and attributes, set triggers such as All Pages for PageView, then preview in debug mode and publish. The Amazon Ad Tag Helper extension then shows the container ID alongside the events it sees.
+The server-side version moves the work from the visitor's browser to a server the advertiser controls. "No javascript implementation is needed for server-side implementation," the guide says, but it attaches a condition in a note: "Server-Side implementation requires personal identifiable information (PII) for event attribution." In other words, the server route attributes events only when personal data travels with them.
+The guide also mentions a no-code option: events "can also be defined without editing your site, from within Ads data manager." It gives no further detail on that page.
+Consent rules now apply to more of these tags
+The regional expansion matters most in Europe, where data protection rules add conditions to each event the tag sends. The guide ties the setup to the website's consent management platform, the cookie banner software that records whether a visitor agreed to tracking, and sets out the rules plainly: "Country code is required for every signal regardless of where the user is. For users in the EEA a consent signal is also required, and the method should match your existing consent management platform." The EEA is the European Economic Area, the 27 EU countries plus Iceland, Liechtenstein and Norway.
+According to the guide, the consent flow through Google Tag Manager works in three stages:
+- The website's consent management platform, "for example OneTrust, Cookiebot or TrustArc, or a custom consent banner," collects the visitor's decision.
+- The platform pushes that decision, true or false, to the Google Tag Manager data layer.
+- A {{consent}} variable is mapped to both Amazon Ad Storage and Amazon User Data in the Amazon Ad Tag configuration.
+There is a technical catch for sites that already use the industry's consent strings. "When you collect TCF, the TCF string must be provided together with the signal. Country information inside the TCF signal does not satisfy the country code requirement. The same applies to GPP: provide the GPP string together with a country code," the guide states. TCF is IAB Europe's Transparency and Consent Framework. GPP is an IAB Tech Lab format that also carries choices under US state privacy laws.
+These rules did not arrive with the November 17 note. Amazon's release notes record a "Consent Update For Amazon Ads" dated December 1, 2025, whic

@@ -1,0 +1,19 @@
+URL: https://www.tweaktown.com/news/114891/epic-ceo-tim-sweeney-calls-claude-garbage-after-it-accuses-him-of-trying-to-train-another-ai/index.html
+TITLE: Epic CEO Tim Sweeney calls Claude 'garbage' after it accuses him of trying to train another AI
+OUTLET: TweakTown
+
+Tim Sweeney does not like holding back when something gets in his way. On X this week, the Epic Games CEO described Anthropic's Claude as "garbage" after the model shut down a research session on programming and set theory and accused him of distillation.
+Go ad-free with SupporterSee plans and prices
+"It's garbage and blocked some set theory work I was doing, accusing me of distillation," Sweeney wrote. "This was with 1-2 hours a day of prompting on a company account. Anthropic can't keep sabotaging customers' work like this."
+Popular Now: Rockstar is handing out 100 of these gorgeous limited-edition GTA 6 PS5 consoles, and you can't buy one
+Distillation is the practice of repeatedly querying a strong model to generate high-quality training data for a smaller or competing one. Frontier Labs bans it in their terms of service, but Sweeney says the detection system is too aggressive and is now mistakenly flagging normal technical research.
+For a CEO who has put in the utmost effort to drive AI adoption within his own company, getting blocked by the very tools he promotes is an awkward look. More broadly, it highlights one of the biggest problems with these safety protocols: the same systems designed to stop model theft are starting to interrupt legitimate customers doing high-level work.
+Story Q&A
+Powered by TweakBot
+From TweakTown's coverage of this story.
+What does Anthropic classify as model distillation under Claude’s terms of service?
+What options do Claude users have when a session is blocked for suspected distillation?
+How does Anthropic’s distillation policy apply to Claude use on company accounts?
+How does Epic’s Model Context Protocol integration connect Claude to Unreal Engine?
+Got another question? Ask TweakBot.
+Whether Anthropic tightens or loosens those filters remains an open question. For now, Sweeney's public frustration is a rare case of one of AI's biggest supporters turning the guns on a well-known model.

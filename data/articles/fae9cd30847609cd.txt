@@ -1,0 +1,17 @@
+URL: https://clpmag.com/diagnostic-technologies/clinical-chemistry/exocrine-pancreatic-insufficiency-chronic-pancreatitis-meta-analysis/
+TITLE: Exocrine Pancreatic Insufficiency Affects 40% of Chronic Pancreatitis Patients, Meta-Analysis Finds
+OUTLET: Clinical Lab Products
+
+Prevalence estimates varied widely by diagnostic method, and smoking emerged as a risk factor, prompting authors to call for standardized screening.
+Exocrine pancreatic insufficiency (EPI) affects an estimated 40% of patients with chronic pancreatitis, according to a meta-analysis published in the Journal of Pancreatology.
+The review synthesized 14 studies that included 7,663 patients. The pooled EPI prevalence was 40% (95% confidence interval: 33.5%–46.7%), with substantial heterogeneity across studies.
+Chronic pancreatitis is a progressive fibro-inflammatory disorder in which persistent inflammation causes acinar cell loss, ductal distortion, and interstitial fibrosis. These changes can impair the synthesis and secretion of digestive enzymes, resulting in EPI, which manifests through steatorrhea, weight loss, malnutrition, and micronutrient deficiencies. Earlier studies have reported EPI incidence in chronic pancreatitis ranging from 14% to 66%.
+Diagnostic Method Shapes Estimates
+The test used to identify EPI significantly affected the results. The fecal elastase-1 test yielded the highest rate at 52.1% (95% confidence interval: 44.2%–59.9%), exceeding both the 13C-mixed triglyceride breath test (31.6%) and the steatorrhea or fecal fat test (21.1%).
+The authors note that the higher fecal elastase-1 prevalence may reflect the test’s sensitivity to mild-to-moderate dysfunction. They also cite a key limitation: dilution in watery diarrhea can cause false-positive results. Fecal fat tests, by contrast, are specific for overt malabsorption.
+Differences by geography were not statistically significant, with prevalence of 31.3% in Asia, 44.5% in Europe, and 39.8% in North America. Chinese cohorts showed lower prevalence, which the authors attribute to diagnostic methodology.
+Smoking Identified as a Risk Factor
+Based on four studies, smoking emerged as a risk factor for EPI (odds ratio = 1.51, 95% confidence interval: 1.25–1.76). Other reported risk factors included low body mass index, male sex, and diabetes.
+The review was registered in PROSPERO and followed PRISMA guidelines. The authors searched PubMed, Embase, the Cochrane Library, and Web of Science for English-language articles published from Nov 27, 2004, to Nov 27, 2024. They used random-effects meta-analysis in STATA 18.0, along with subgroup analyses by geography and diagnostic method, sensitivity analysis, and publication bias assessment.
+Substantial heterogeneity persisted across subgroup analyses, and data on disease duration were incomplete. The authors conclude that EPI prevalence in chronic pancreatitis is high globally, that smoking is a risk factor, and that variability in diagnostic methods calls for standardized screening.
+ID 176495291 © Fizkes | Dreamstime.com
