@@ -1,0 +1,29 @@
+URL: https://www.theglobeandmail.com/investing/markets/stocks/AVGO/pressreleases/9008367/not-jensen-huang-not-data-centers-this-is-the-real-reason-nvidia-could-soar-in-2027/
+TITLE: Not Jensen Huang. Not Data Centers. This Is the Real Reason Nvidia Could Soar in 2027.
+OUTLET: The Globe and Mail
+
+Key Points
+- Nvidia's valuation is disconnected from its explosive earnings growth.
+- Increasing adoption of Nvidia's software platforms coupled with aggressive stock buybacks could improve investor sentiment.
+- Multiple expansion alone could send Nvidia stock soaring in 2027.
+The last several weeks have been unusually volatile for Nvidia (NASDAQ:NVDA) investors. Between the departure and subsequent reinstatement of founder Jensen Huang as CEO and growing concerns surrounding an artificial intelligence (AI) bubble, investors have had plenty to digest.
+While much of the discussion around Nvidia focuses on its leadership and the unprecedented demand for data center infrastructure, another potential catalyst is hiding in plain sight. Interestingly, Nvidia stock could generate multibagger returns over the next year without the company exceeding Wall Street's growth expectations.
+Missed Nvidia in 2009? This Rare Signal Is Flashing Again.In 2009, a "Double Down" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same "Total Conviction" signal is flashing for a company 1/100th the size of Nvidia. Continue »
+Let's explore why valuation expansion could be the biggest catalyst for Nvidia stock as 2027 approaches.
+Image source: Nvidia.
+Nvidia's earnings growth and valuation are moving in opposite directions
+During the third quarter of fiscal 2027 (ended Oct. 25), Nvidia's revenue surged 103% year over year to $115.8 billion. Meanwhile, adjusted earnings per share (EPS) increased by 111%. Management raised its fiscal 2028 revenue growth outlook from 70% to 75%.
+Despite Nvidia's accelerating growth, shares are trading at a steep discount to their all-time high. Moreover, Wall Street analysts currently forecast Nvidia to generate $16.48 in EPS next fiscal year, implying a forward price-to-earnings
+NVDA EPS Diluted (TTM) data by YCharts
+Although Nvidia's earnings are overwhelmingly driven by its data center business, the company's valuation is influenced by several other factors. These include competition from Advanced Micro Devices and custom chip designs from Broadcom as well as macro factors like rising interest rates. These variables are impacting investor confidence in the sustainability of Nvidia's profits.
+Nvidia's compressed valuation suggests investors are skeptical about the durability of the company's earnings power. However, several developments could change that perception throughout next year.
+Two catalysts could help Nvidia earn a premium valuation again
+One of Nvidia's most underappreciated opportunities revolves around its software ecosystem. Between CUDA, Nvidia AI Enterprise, and its Nemotron family of open-weight models, the company is becoming increasingly embedded in how AI developers build and deploy applications.
+Investors shouldn't necessarily focus on the amount of software revenue Nvidia generates today. Instead, it's important to understand how Nvidia is using software to make its chip empire more indispensable. As developers remain tied to both Nvidia hardware and software, the company is in a position to strengthen customer retention and increase switching costs. This should alleviate concerns that Nvidia's competitive advantage will erode as alternative chip architectures come to market.
+Another catalyst is Nvidia's capital return strategy. In September, the company's board authorized an additional $150 billion in share repurchases, leaving approximately $227.3 billion available under its buyback program at the end of the third quarter. Even if net income remains constant, a reduction in outstanding shares can still increase EPS.
+How valuation expansion could send Nvidia stock soaring
+One of the most compelling aspects of Nvidia's current valuation profile is that the company doesn't necessarily need to exceed Wall Street's earnings expectations for the stock to appreciate. The table below illustrates how different valuation multiples would influence Nvidia's share price, assuming fiscal 2028 EPS remains constant at $16.48.
+The big takeaway here is that Nvidia stock could more than double if investors are willing to assign the company a multiple of 20 times projected fiscal 2028 earnings. Even a relatively modest expansion to 15 times earnings would imply roughly 68% upside.
+Investors may be overlooking how much pessimism is already reflected in Nvidia's stock price. Should the company simply meet existing expectations while demonstrating disciplined capital allocation and the durability of its competitive moat, Wall Street could gradually re-rate what Nvidia's earnings are worth.
+Ultimately, Nvidia's next rally may have less to do with how much money the company makes and more to do with how much investors are willing to pay for those profits.
+Adam Spatacco has positions in Nvidia. The Motley Fool has positions in and recommends Advanced Micro Devices, Broadcom, and Nvidia. The Motley Fool has a disclosure policy.

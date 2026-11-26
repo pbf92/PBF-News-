@@ -1,0 +1,14 @@
+URL: https://americanbazaaronline.com/2026/11/26/chatgpt-users-may-hit-limits-sooner-as-openai-merges-chat-and-work/
+TITLE: ChatGPT users may hit limits sooner as OpenAI merges Chat and Work
+OUTLET: The American Bazaar
+
+OpenAI has started rolling out a unified chat and merger experience in ChatGPT to a few of the users. Product lead Thibault “Tibo” Sottiaux said in a post on X that OpenAI began introducing the update to a small group of Pro subscribers. This comes after the ChatGPT-maker’s earlier announcement of the merger in an email to users.
+“This will enable you to move from exploring an idea to having ChatGPT carry it through, all in one place. You can bring in your files and plugins and ask ChatGPT to build a website, create a presentation, or do things for you on the web, while reviewing and guiding its work. Codex will remain a separate experience in the ChatGPT desktop app,” the email had said.
+The merge had received criticism over it possibly restricting their usage. “That’s the worst thing you can do right now and you guys are “killing” the only feature that keeps ChatGPT sort of valuable as a subscription,” one X user said in a response to Sottiaux’s post.
+READ: US advertisers pour $70.7 million into ChatGPT ads in just six months (November 21, 2026)
+An OpenAI spokesperson told TechCrunch that while most users are not expected to face more frequent usage resets, a small fraction of its heaviest users may hit their limits sooner.
+The spokesperson also said that under the new system, Chat and Work will share a single usage meter across ChatGPT. Conversations using the Instant model will, however, remain unlimited and will not count toward the shared allowance. Users can also continue using Instant after exhausting their usage limits. The spokesperson added that OpenAI would continue working to improve efficiency so subscribers could get more out of their plans.
+OpenAI’s support documentation describes Chat and Work as distinct experiences in existing versions of the product, with Work available for tasks involving files and connected apps where the account permits them.
+READ: OpenAI to pay AI experts up to $8,000 a month to help small businesses (November 24, 2026)
+The rollout has started for a limited number of users, OpenAI plans to bring shared usage limits more broadly in December, per its support page. Competitor Anthropic has also moved to bring its conversational chat service Claude and work-focused Cowork under one interface in September.
+This change comes as AI companies face mounting infrastructure costs and growing demand for increasingly capable models, putting pressure on their computing resources. Bringing conversational and work-related tools into a single interface could simplify the usage of AI chatbots, and allow users to move between chats and more complex tasks without switching tabs.

@@ -1,0 +1,16 @@
+URL: https://mobidevices.com/en/gta-6-claude
+TITLE: GTA 6 runs on PC at up to 44 FPS
+OUTLET: mobidevices.com
+
+In some PC builds of GTA 6, the frame rate has already reached 44 fps. Modders have based their work on a leaked Xbox Series X|S build and are using Claude to speed up the game’s port to PC.
+How many FPS does GTA 6 get on PC?
+A Reddit user named Simple_Market9019 reported a peak of 44 frames per second. According to the user, the build shown has its frame-rate cap removed.
+A more recent video by VIctory showed a walk through the city. The poster claimed it was running at 30 frames per second, while viewers in the discussion noted drops to 24-25 fps.
+The Neptune team, which is working on a fork of VIctory, reported a stable 30 frames per second on a PC with an Intel Core i9-13900K and GeForce RTX 4090. According to the published figures, the build used about 40 GB of RAM during the demonstration. Modder Bl4Ck0uuT separately achieved around 27 fps and is working to reduce RAM usage before publishing the code.
+For the build by CGBJ, which appeared on torrent sites on November 26, the PortWatch VI tracker reported an average of 25 fps. PC Games Hardware found measurements in the development log for the opening street scene on a GeForce RTX 5090. In tests lasting just over two minutes, the median frame time was 54-58 ms, equivalent to about 17-19 frames per second.
+The frame rate is capped at 30 fps in the official console versions of GTA 6. In tests by Digital Foundry, the PS5 Pro held this rate most consistently. After the cap was removed in the leaked build, enthusiasts reported 40-60 fps on the PS5 Pro in some scenes. Comparable measurements for Windows builds in the same scenes are not yet available.
+Even before unofficial ports appeared, players were already streaming GTA 6 from a console to a PC. The Veyra and Neural Screen utilities could upscale the video stream and add intermediate frames. With frame generation, the output frame rate could be raised to 120 fps, while the game itself continued running on the console at 30 fps.
+How Claude is helping modders
+Work on the ports accelerated after CyberLeek published an executable file from the leaked Xbox version on November 23. According to Wccftech and PC Gamer, modders are using Anthropic’s AI assistant during static recompilation to adapt the game’s compiled code to run on Windows. It’s unclear how much Claude contributed to the build shown in the 44-fps video.
+Take-Two sent GitHub copyright infringement complaints targeting repositories associated with the Leonida project. According to Wccftech, some modders continued their work privately afterward. The CGBJ repository also became unavailable shortly after it was published. The reason it disappeared is unknown. Meanwhile, videos appeared showing the game running on a jailbroken PS5.
+Rockstar Games released Grand Theft Auto VI on November 19 for PlayStation 5 and Xbox Series X|S. The studio has not yet announced an official PC version.

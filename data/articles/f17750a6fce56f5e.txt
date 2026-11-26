@@ -1,0 +1,13 @@
+URL: https://www.notebookcheck.net/After-removing-GTA-6-PC-ports-GitHub-celebrates-app-popular-in-PS5-piracy-groups.1460983.0.html
+TITLE: After removing GTA 6 PC ports, GitHub celebrates app popular in PS5 piracy groups
+OUTLET: Notebookcheck
+
+On social media, GitHub noted how the GTA 6 release date encouraged an explosion of open-source projects. The platform highlighted AnyPS5, an app that brings unofficial ports of PS5 games to PCs. However, it blocked similar efforts days earlier after a DMCA request from Take-Two. Critics are calling the now-deleted post hypocritical.
+The AnyPS5 mission
+AnyPS5 is not a PS5 emulator in the traditional sense. Instead, the program focuses on making PlayStation titles run natively on Windows and Linux. The process involves converting eboot.bin files to compatible executables. Having obvious appeal to console-locked targets, it has accumulated 58,000 GitHub stars since its August debut.
+In addition to the post, the platform uploaded a video promoting the app. Both raised the question, “Does changing where games run cross a legal line?” That’s controversial, as Take-Two believes an open-source GTA 6 PC version constitutes piracy and infringes on copyrights.
+The publisher confirmed that viewpoint by seeking a DMCA takedown of more than 2,900 GitHub projects. As a result, over 3,000 repositories vanished, including Leonida. The initiative capitalized on a full Xbox build distributed by Cyberleek. Because the Microsoft console and Windows share similarities, it made some progress prior to the shutdown.
+PlayStation piracy and homebrew communities have been encouraged by the developments. At the same time, the PS5 jailbreak has advanced through various exploits. Most recently, a decrypted GTA 6 PS5 game dump surfaced, which is now running on consoles with older firmware. Even without owning the game, players can download and install files and explore Vice City.
+Playing favorites?
+Followers are asking why GitHub agreed to remove some repositories, while others with the same goal remain accessible. Praising AnyPS5's efforts to create a GTA 6 PC port only adds to the confusion.
+Regardless of how many DMCA takedowns Take-Two pursues, it faces attacks from multiple fronts. Developers are rapidly optimizing performance on PCs even before Rockstar announces a retail Windows version.

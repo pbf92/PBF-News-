@@ -1,0 +1,38 @@
+URL: https://www.eurekalert.org/news-releases/1153464
+TITLE: Congenital measles poses new risks for pregnant women and newborns: podcast + transcript
+OUTLET: EurekAlert!
+
+As measles infections increasingly appear in U.S. adults—a new CDC report is raising concerns about a heightened risk of congenital measles and infections in pregnant women.
+For expectant mothers, evidence suggests that infections can increase the risk of non-labor related hospitalizations, pneumonia, and death. Congenital measles can occur when a pregnant woman becomes infected with measles during pregnancy and passes the virus to the fetus in the womb. Infants can face severe illness, encephalitis, and subacute sclerosing panencephalitis—a rare, progressive, and often fatal neurological disorder.
+The new report, published in the New England Journal of Medicine Evidence, connects large measles outbreaks across the U.S. in 2025 and 2026 to 112 cases of measles in pregnant women and 13 cases of congenital measles in babies. In a November 25 episode of Public Health On Call, William Moss, MD, MPH, professor in Epidemiology at the Johns Hopkins Bloomberg School of Public Health unpacks the new government analysis, including the measles threat to expectant mothers and newborns, and what it means in the context of ongoing outbreaks and the country’s lapsed measles elimination status.
+Topics discussed:
+- The status of measles in the U.S., including current outbreaks in Pennsylvania and the nation’s recent loss of elimination status
+- The new report from the CDC on congenital measles and why increases in adult measles infections are creating more openings for congenital measles
+- The possible health risks facing pregnant women who are infected with measles, and their newborns
+- How clinicians should approach measles vaccination and treatment for women of child-bearing age, pregnant women, and babies
+- The federal response to measles and congenital measles since 2025
+Key Quotes from the Episode
+On the current status of measles and congenital measles in the U.S.:
+“Tragically we now have over 6,000 measles cases reported in the United States just this year.” (01:54)
+“Earlier this month, on November 17, the Pan American Health Organization announced that the United States had lost its measles elimination status. Measles elimination is defined as no continuous transmission of the same measles virus strain for at least 12 months.” (02:30)
+“A report from the Center for Disease Control and Prevention published in the New England Journal of Medicine Evidence ... report[ed] an astonishing 112 cases of measles in pregnant women and 13 cases of congenital measles.” (03:10)
+“This is the largest case series that I'm aware of, of both measles in pregnancy and of congenital measles.” (03:44)
+“According to the Center for Disease Control and Prevention, about 41% of measles cases in the United States have been in adults. If we look at Pennsylvania, for example, more than two-thirds of measles cases have been in adults 18 years or older.” (04:02)
+“We're really seeing somewhat unusual demographic characteristics of the measles cases here in the United States, concentrated—or at least ... with high proportion—in adults.” (04:18)
+On the health risks facing pregnant women who contract measles and their fetuses:
+“In the CDC report, almost a quarter of the women required hospitalization for non-labor related causes. Eleven of the 112, so about 10% of women, developed pneumonia. ... they're also at risk for serious birth outcomes: there can be stillbirths or miscarriages, premature births.” (06:22)
+“During the last really big outbreak of measles here in the United States between 1989 and 1991 ... Pregnant women [with measles infections] were twice as likely to be admitted to the hospital, three times more likely to be diagnosed with pneumonia, and six times more likely to die of measles.” (07:19)
+“We do know that infants ... with congenital measles can have some of the similar signs and symptoms of measles that we see in older children and adults: fever, rash.” (8:10)
+“[Newborns are] also at risk for encephalitis, and there's even some suggestion ... that these infants may be at greater risk for a rare neurologic outcome called subacute sclerosing panencephalitis ... It's a severe, fatally progressive neurologic disease with a kind of defective measles virus in the brain.” (08:27)
+On measles vaccination and treatment for pregnant women and infants:
+“Before pregnancy, make sure that you are vaccinated so that you are protected and can protect your infant.” (15:37)
+“The measles, mumps, and rubella vaccine is not indicated during pregnancy, and that's in part because of that immune-suppressed state of pregnant women and the fact that these are attenuated viral vaccines, so they need to replicate in order to induce an immune response. So, we can't vaccinate women during pregnancy.” (09:54)
+“Instead of what we call active immunization—giving a vaccine and inducing that person's immune system to be trained to fight that pathogen—we give what's called passive immunization. And so, it's something called intravenous immunoglobulin.” (10:30)
+“Immunoglobulin is also recommended at birth for newborns who have been exposed to measles virus in utero, if the mom has measles late in the third trimester or prior to birth, and that too can reduce the morbidity associated with congenital measles.” (11:10)
+“During pregnancy, what women need to do is really ensure that the people around them, their family members, their friends who they're coming into contact with, are vaccinated against measles to really reduce their risk of exposure.” (16:01)
+On the response to measles from federal health officials:
+“We've not seen the strong response from the federal government that is needed promoting measles vaccination, and, in fact, we've seen the opposite.” (14:30)
+“We've seen messaging that undermines public confidence in vaccines in general and the measles, mumps, and rubella vaccine, specifically.” (14:40)
+“I am sure that [the response from federal officials] has ... played a role in our loss of measles elimination status here in the United States and these continued large outbreaks. It's not the only explanation ... but the federal response has not helped and almost certainly set us back.” (14:49)
+A recording of the podcast and a full transcript are available here.
+Disclaimer: AAAS and EurekAlert! are not responsible for the accuracy of news releases posted to EurekAlert! by contributing institutions or for the use of any information through the EurekAlert system.

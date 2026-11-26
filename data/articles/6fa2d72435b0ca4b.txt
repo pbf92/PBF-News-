@@ -1,0 +1,28 @@
+URL: https://www.eurekalert.org/news-releases/1153474
+TITLE: Genomic work helps find treatment for rare blood disorder
+OUTLET: EurekAlert!
+
+Sisters with a rare blood condition are the first patients to receive a repurposed drug to treat a rare blood condition, after a team of doctors and cardiovascular scientists used genomic sequencing to identify the drug’s target.
+The research, which includes findings from the successful treatment in two adult sisters living in the West Midlands in the UK, is published in the journal Blood. The work was led by Professor Neil Morgan from the University of Birmingham, Dr Manoj Raghavan from University Hospitals Birmingham NHS Trust and Dr Hrushikesh Vyas who carried out laboratory tests as part of his PhD at the University of Birmingham.
+The condition is called SRC-related thrombocytopenia, which is a very rare disorder that causes a gene to constantly express a protein involved in platelet production and activation. Patients have abnormally low levels of platelets, and often develop an enlarged spleen, immune issues and scarring in their bone marrow where blood cells are made. Existing treatment options have largely focused on supplementing low platelets through blood transfusions which require regular hospital trips.
+Following work to understand the mechanism involved in SRC-related thrombocytopenia using genetic testing, the team were able to identify that Dasatinib used in blood cancer treatment could dampen down the SRC protein’s activity and help patients have more typical platelet production by reversing the bone marrow damage.
+Professor Neil Morgan from the University of Birmingham and lead author of the study said: “Advances in genomics have meant we have been able to identify how an existing drug used in cancer therapy can treat this specific rare blood condition. The findings themselves have already made a difference for these patients, but also show the way forward using genomics to identify how medicines already in use can make a difference for the many rare diseases and conditions that currently aren’t treatable.
+“The work which has changed the sisters’ day-to-day lives is thanks to the close working between the University and Hospital through Birmingham Health Partners and Cancer Research UK.”
+Dr Manoj Raghavan, a consultant haematologist from University Hospitals Birmingham NHS Foundation Trust and who treated the two sisters, said: “This is a lovely example of how translational research can transform patient’s lives. Genomics identified a mutation that we were able to target by repurposing a drug usually used to treat a type of leukaemia. Even though this a rare condition it gives an insight into how the bone marrow works that can be taken forward for other blood diseases.”
+It’s great now – although I never stopped travelling. Manjit’s story
+Since starting the treatment around three years ago, Dasatinib has helped Manjit Kaur improve her blood counts and stop needing transfusions. Now, Manjit has felt less tired and has been able to continue her two passions – travelling, and working in her local health centre.
+Manjit began taking Dasatinib after her sister, who has the same condition, responded well to the treatment. After starting on the drug and working out the right amount for her alongside her Crohn’s disease, Manjit now takes a dose she can manage and has regular blood tests at hospital every three months. Her blood counts have improved, and she no longer needs transfusions.
+“I mean, I’ve never let it stop me doing anything,” Manjit says. “I’ve always carried on working and travelling. But it’s great to not have to go in (to hospital) for regular transfusions.”
+Manjit, who lives in the West Midlands, was diagnosed with SRC in 1989, in her late teens or early twenties. She believes she may have had the condition for several years before it was identified. At the time, she often felt tired and bruised easily, but thought the symptoms were part of living with Crohn’s disease, which she had been diagnosed with as a child.
+Her childhood was shaped by hospital visits and time away from school. She was treated in Wolverhampton, at Great Ormond Street Hospital in London and later in Birmingham. Manjit missed many lessons and left school without sitting her final exams. She later completed training courses, gained qualifications and built a career in administration. For the past 31 years, she has worked as an IT administrator at a GP surgery, where she also completed a foundation degree in Information and Communication Technologies.
+Manjit hopes her experience will encourage others to consider taking part in clinical trials or trying a treatment offered to them. “Give it a go,” she says. “If it doesn’t work, you can stop. And you’re helping other people, because doctors can learn what works for others too.”
+Journal
+Blood
+Method of Research
+Case study
+Subject of Research
+People
+Article Title
+Dasatinib is a novel therapy for SRC-related thrombocytopenia
+Article Publication Date
+25-Nov-2026

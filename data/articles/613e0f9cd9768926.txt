@@ -1,0 +1,16 @@
+URL: https://www.pymnts.com/cpi-posts/openai-names-cravath-partner-to-lead-defense-in-musk-antitrust-trial/
+TITLE: CPI | OpenAI Names Cravath Partner to Lead Defense in Musk Antitrust Trial
+OUTLET: PYMNTS.com
+
+OpenAI has selected Gary Bornstein, a senior litigation partner at Cravath, Swaine & Moore, to oversee its defense against an antitrust lawsuit brought by companies controlled by Elon Musk, according to Reuters.
+The proceedings, scheduled for March 2027 in Fort Worth, Texas, will put competition in the rapidly expanding artificial intelligence industry under renewed legal scrutiny.
+Musk’s X Corp. and SpaceX Super Intelligence allege that OpenAI and Apple engaged in anticompetitive practices intended to establish dominance in the generative AI chatbot market. Apple reached a settlement with the plaintiffs in September, though the financial and contractual terms remain confidential, Reuters reported.
+The litigation represents another chapter in the increasingly contentious relationship between Musk and OpenAI Chief Executive Officer Sam Altman.
+The two entrepreneurs helped establish OpenAI in 2015. Musk resigned from its board in 2018, a year before the organization established a commercial business structure.
+The Texas proceedings follow a separate legal setback for Musk in May, when a California federal jury rejected his lawsuit concerning OpenAI’s departure from its original founding objectives, according to Reuters.
+Musk’s companies have appointed John Hughes, a partner at Bartlit Beck, to lead their courtroom strategy. Hughes previously represented plaintiffs in litigation challenging Harvard University’s admissions policies that ultimately led to a Supreme Court decision ending race-conscious college admissions.
+Bornstein, meanwhile, brings experience in technology-sector competition disputes, having represented Epic Games in its legal battle over Apple’s App Store policies.
+OpenAI’s legal team also includes attorneys from Wachtell, Lipton, Rosen & Katz, while Musk’s companies are receiving additional representation from Axinn Veltrop and Stone Hilton, Reuters reported.
+US District Judge Mark Pittman will preside over the Texas trial.
+Reuters said OpenAI, Bornstein and Musk’s companies did not immediately respond to its requests for comment.
+The case is X Corp. and SpaceXAI v. OpenAI, US District Court for the Northern District of Texas, No. 4:25-cv-00914-P.

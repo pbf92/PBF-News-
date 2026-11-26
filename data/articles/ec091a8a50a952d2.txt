@@ -1,0 +1,8 @@
+URL: https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/bulletins/youngpeoplenotineducationemploymentortrainingneet/november2026/relateddata
+TITLE: All data related to Young people not in education, employment or training (NEET), UK: November 2026
+OUTLET: Office for National Statistics
+
+All data related to Young people not in education, employment or training (NEET), UK: November 2026
+Estimates of young people (aged 16 to 24 years) who are not in education, employment or training, by age and sex.
+- Labour Force Survey quarterly sampling variability estimates for young people (aged 16 to 24 years) who are not in education, employment or training (NEET) in the UK. These are official statistics.
+- Quarterly estimates for young people (aged 16 to 24 years) who are not in education, employment or training (NEET) in the UK. These are official statistics.

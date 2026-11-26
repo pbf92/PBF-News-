@@ -1,0 +1,56 @@
+URL: https://www.androidpolice.com/claude-paid-sub-cant-beat-gemini/
+TITLE: I paid $20 for Claude, but these 5 reasons explain why it couldn’t beat Gemini on Android
+OUTLET: Android Police
+
+I've been using Google Gemini for over a year, and I pay $20 a month.
+What swayed me wasn't the AI features or the exclusivity of these models, but the cloud storage for my photos and file backups, plus perks like access to YouTube Premium Lite.
+I didn't plan to pay for another chatbot service like Anthropic's Claude. But after hearing about how well it does many things, I gave it a chance.
+I signed up for Claude's $20 Pro plan, which is roughly what I'm already paying for Gemini.
+I've been testing it for a couple of weeks now as my main assistant on my Android phone, instead of Gemini.
+It feels great in some areas, but I've concluded that it won't easily replace Gemini for the following reasons.
+Spotty in-app tools and connectors
+Inconsistent mobile parity adds friction
+I find Claude as fast as Gemini when processing commands and generating answers. However, it falls short on clean execution, especially with connectors and artifacts.
+While Claude offers a growing list of connectors, some integrations haven't always worked as smoothly as I'd expect.
+Spotify, for example, occasionally fails when creating or playing playlists. I get stuck with an unmissable prompt I need to confirm, or with unresponsive controls.
+The experience is also less seamless across devices. Some workflows require additional setup on a desktop app or browser before they can be used elsewhere, adding unnecessary friction.
+The issue also extends to basic authentication, where I have to go through multiple prompts before I can continue.
+I've also run into file-management quirks when moving between desktop and web sessions.
+Sure, these are minor annoyances, and they can be overlooked with richer connector support. But together, these chokeholds make Claude feel less polished than Gemini and downgrade my experience.
+Claude feels less personalized on apps
+It's not as conversational as Gemini
+I've added Google connectors and tools available on Claude to test them equally, such as Gmail, Calendar, and Docs.
+I focused on giving it basic tasks to make the comparison fair. For instance, fetching emails from Gmail works quite well, and Claude does a fantastic job composing messages.
+Where it fell short was in feeling like a true assistant. Most of its responses felt less proactive and less personalized.
+Although it provided accurate and detailed responses, they rarely moved the conversation forward or anticipated what I might need next.
+I often need to be more precise with my prompts, too. For similar tasks, I find Gemini to be better at picking up context and intent, while Claude requires more precise instructions.
+Claude also lags when pulling information or control from multiple connectors. It requires explicit instructions on which app or service to surface, whereas Gemini is better at working across apps or combining context.
+Personalization is bland
+And it lacks awareness of my preferences
+I admit that Claude was hailed as a better chatbot than Gemini in the past for context and comprehension.
+But Google has continued to improve Gemini, including with Personal Intelligence, which gives more personalized answers based on details from other apps.
+It's another reason I'm dropping Claude. It has limited awareness of my digital footprint from apps and services I use every day, making its responses less context-aware.
+It's a major limitation with Claude on Android, as I have to laboriously set up my likes and preferences, or even manually feed it basic details from other apps and connectors.
+For example, it doesn't know if I have upcoming trips, flights, or meetings. I have to manually go through each one and create a new prompt to manage and automate it.
+I know you could have Claude learn this over time, but I won't be spending much of my day regularly giving it instructions just to check what I have planned and what I need to do.
+I only get a basic chatbot
+No system-level control
+Claude lacks the deep Android system-level permissions that Gemini and Samsung's Bixby enjoy. As a result, it doesn't interact with my phone in the same way.
+I know it is not fair to compare Claude with Gemini in terms of device control.
+Even setting aside the limitation, Claude still falls short on simple things that don't need direct device control.
+I know that comparison is quite a stretch, and Claude can do cross-app triggers. But managing them adds layers of friction to what should be a seamless experience.
+For example, it doesn't surface useful suggestions, like switching to silent mode if it knows I will be jumping on a meeting or call, or suggesting an alarm if it finds a reminder.
+Even managing the tasks and events Claude creates can be a tall order. I often find myself having to fly through my apps and manually tidy entries in my calendar and email.
+Having Gemini handle everything using its automation and deeper device control is hard to match, and it's something I would rather pay for than basic chatbot features.
+Missing extra perks
+I'm limited to a chatbot
+Claude costs as much as Gemini and gets me access to advanced models and features.
+However, it's hard to justify paying for a chatbot alone when you don't get other perks like you do with Gemini.
+Gemini with Google AI Pro is an easy recommendation for just about any Android user.
+For me, every penny is worth it. I get more storage with Google Photos and Gmail, along with perks like YouTube Premium Lite.
+It's difficult to justify giving up those benefits when the price difference is negligible.
+In the end, keeping Gemini and canceling Claude simply makes more sense for how I use my phone and Google's services.
+Gemini is getting so good, and it's harder to leave for an Android user
+Admittedly, Gemini was lagging behind not too long ago. Today, though, it's transformed into an assistant that is practically impossible to beat in day-to-day experience on Android.
+Claude may still be the sharper chatbot in some respects, especially for writing, research, connector support, and nuanced reasoning. However, for Android users, that advantage is fading as Gemini continues to improve.
+In daily use, Gemini's tighter integration with Android, broader audience, automation features, and ecosystem perks matter far more.

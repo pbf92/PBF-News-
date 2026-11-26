@@ -1,0 +1,41 @@
+URL: https://www.eurekalert.org/news-releases/1153493
+TITLE: One body, two systems: Integrating dental and medical care dramatically improves dental follow-up
+OUTLET: EurekAlert!
+
+Key points:
+- Medical and dental care are traditionally provided through separate systems in the U.S.
+- A new study found that providing medical and dental care through a single integrated system improves kids’ odds of continuing dental care.
+- Patients at an integrated clinic had better dental health.
+IMPACT: The results show that integrated care helps keep kids healthier, encouraging further medical-dental integration system-wide and beyond to bring patients the best care.
+In the United States, medical and dental care are traditionally separate. Care is provided in separate locations, recorded in separate systems, and paid for via separate methods.
+But a new study has found that bringing the two systems together dramatically improves kids’ odds of dental follow-up, creating new opportunities to prevent oral disease.
+Integrating dental care with medical care resulted in 30–60% greater odds of continuing dental care, and patients at an integrated clinic had significantly better dental health.
+“We asked: are kids more likely to return for dental care in this integrated environment?” says Jeri Bullock, DDS, MS, associate dean for clinical affairs at the University of Utah School of Dentistry and first author on the study. “We found that yes, they were. Definitely.”
+Care under one roof increases dental check-ups and improves health
+Researchers compared dental care follow-up between two dental clinics in Salt Lake City: Liberty Elementary Clinic, where medical and dental care are provided by two different organizations with separate health records, and South Main Clinic, where medical and dental care are fully integrated. By tracking over 1,600 pediatric visits to the two clinics, the team found that kids who visited the fully integrated South Main clinic were 30–60% more likely to return for a dental appointment within two years.
+Importantly, kids who got dental care at South Main tended to have healthier teeth despite demographic differences—such as a trend toward lower socioeconomic status—that often correlate with worse health outcomes. This suggests that an integrated system may lower structural barriers to dental care, helping all children get the care they need.
+Researchers suspect that the better oral health of South Main patients is driven by their more frequent dentist appointments.
+“The oral health-related quality of life is much higher for patients visiting that site,” says Brenda Heaton, PhD, associate dean for research at the University of Utah School of Dentistry and senior author on the study. “They’re getting the same kind of care at both sites, but because of the model of care delivery, they have better outcomes.”
+For patients and families used to separate dental care, full medical-dental integration is a big change.
+“It’s a very unique experience for a patient to be able to get both their medical care and their dental care under the same roof,” Heaton says. “Imagine it’s a primary care visit for pediatrics, and the kid shares with the physician that they have pain in their mouth. When they check out, the front desk can schedule a dental appointment for them right there at the clinic.” Medical and dental health records are also shared on the same electronic system. And if needed, a dentist can walk right down the hall to do a quick consultation during a general check-up.
+Dentists and dental researchers have advocated for increased integration into health care systems for years, but the rigorous statistics of the new study make its results especially compelling, the team says. Researchers used multiple parallel methods of data analysis to facilitate direct comparisons between demographically similar patients, allowing them to isolate the effect of medical-dental integration. “It allowed us to really compare apples to apples,” Bullock says.
+Seeing results in the real world
+Bullock adds that the results bear out what she’s seen in her own clinical practice at South Main. “I see this day to day,” Bullock says. “I know this works, I’m seeing these kids back. I just felt that there was something special. But to actually see it come out in the numbers was really gratifying. I was really excited and proud and felt good as a clinician that what I felt and what I was seeing was true to what the data was saying.”
+The team warns that the barriers to full medical-dental integration are significant. Bullock notes that effective integration needs a unified electronic health record system, so that dentists and pediatricians can quickly understand a patient’s medical needs and provide seamless care. Transitioning to such a system represents a major hurdle for most medical systems.
+Still, the researchers are hopeful that their results might help drive greater integration and better patient care, both at University of Utah clinics and more broadly.
+“For more than a century, we’ve treated one body through two disconnected systems,” Heaton says. “When medical and dental care work together, we reduce barriers, simplify care for families, and create more opportunities to prevent disease before it becomes a larger health problem. My hope is that studies like this help move health care toward models that recognize oral health as an integral part of overall health.”
+###
+The results are published in the Journal of Dental Research as “Integrated Care Improves Continuity of Oral Health Care in Pediatrics.”
+The study was supported by the National Institute of Dental and Craniofacial Research of the National Institutes of Health (R35DE034352). Content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health.
+Journal
+Journal of Dental Research
+Method of Research
+Experimental study
+Subject of Research
+People
+Article Title
+Integrated Care Improves Continuity of Oral Health Care in Pediatrics
+Article Publication Date
+24-Nov-2026
+COI Statement
+The authors declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.

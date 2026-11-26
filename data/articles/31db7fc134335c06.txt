@@ -1,0 +1,22 @@
+URL: https://www.bankofengland.co.uk/statistics/notice/2026/statistical-notice-2026-09
+TITLE: Statistical Notice 2026/09 - Update to the classification of accounts guide
+OUTLET: Bank of England
+
+Statistical Notice 2026/09
+Background
+The Bank of England has updated the Classification of Accounts Guide (CAG) to provide additional clarity on the classification of non-resident counterparties for statistical reporting purposes.
+The changes bring together guidance that is currently set out across the CAG and the Form CC/CL frequently asked questions. They are intended to improve the clarity and consistency of the published guidance and do not introduce new statistical reporting requirements.
+Changes to the Classification of Accounts Guide
+The Bank has updated its CAG on the following:
+- Look-through approach for non-resident counterparties: as previously detailed in the Form CC/CL FAQs, the CAG has been clarified to explain that the look-through approach does not apply to non-resident counterparties in the same way as it applies to UK-resident counterparties.
+- EU non-resident Deposit-taking Corporations: the guidance on the use of the European Central Bank’s published list has been clarified. An entity identified as a credit union on that list should be classified as a non-resident deposit-taking corporation.
+- Sovereign wealth funds: sovereign wealth funds have been added to the examples of counterparties that should be classified as non-resident other financial corporations.
+- Minor housekeeping changes: Minor changes have been made to improve the readability of the CAG.
+Reporting Implications
+These amendments clarify the Bank’s existing statistical reporting guidance. They do not introduce new data requirements or changes to reporting forms.
+Reporting institutions should review the updated CAG, and ensure that the clarified guidance is reflected in their own classification of counterparties when completing relevant statistical returns.
+The updated guide applies from 26 November 2026 on November-2026 data.
+Further information
+The updated Classification of Accounts Guide is available on the Bank of England’s statistical reporting webpage. Any queries concerning this notice should be directed to the Money and Credit Group by emailing DSDMCG@bankofengland.co.uk.
+Footnote
+A summary of all Statistical Notice items that are yet to come into effect are also available to view on the Statistical notices page. Statistical Notices should be received by all those responsible for the completion of Bank of England returns. To amend the circulation list please subscribe.

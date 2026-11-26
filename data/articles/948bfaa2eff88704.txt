@@ -1,0 +1,16 @@
+URL: https://www.bankinfosecurity.com/how-gitlab-decides-when-ai-agents-act-alone-a-33451
+TITLE: How GitLab Decides When AI Agents Can Act Alone
+OUTLET: BankInfoSecurity
+
+How GitLab Decides When AI Agents Can Act Alone
+CIO Manu Narayan on Shared Accountability and Limits on Autonomy
+GitLab begins AI agent workflows with human oversight and allows selected ones to run autonomously after validating their performance. Financially significant and certain high-risk activities remain outside those boundaries, according to Manu Narayan, the company's CIO. This approach gives agents room to operate while keeping their authority tied to the risks of the work.
+See Also: Why AI Agents Need the Same Guardrails as Human Workers
+Making those decisions requires cooperation among IT, security and business leaders. Narayan's CIO organization helps define access profiles, permitted actions and the framework within which agents operate. The CISO organization provides governance and compliance oversight. Business leaders remain responsible for what agents do and how those actions affect their processes, making accountability a shared concern with distinct responsibilities.
+"The business is ultimately accountable for what those agents are doing, and how it impacts their processes," Narayan said.
+GitLab starts agent workflows with human oversight and may allow autonomous operation after validating performance. Automated checks and human reviews continue after that shift. Decisions about autonomy depend on workflow risk and data classification, Narayan said. The company does not allow autonomous agents in financially significant workflows or certain high-risk activities, including those subject to Sarbanes-Oxley requirements. In software development, agent identities and permissions help limit the actions each agent can take.
+In this video interview with ISMG, Narayan discussed:
+- Validating agent performance and setting limits on autonomous workflows;
+- Dividing responsibility among CIOs, CISOs and business leaders;
+- Reshaping developers' work and measuring AI's business impact.
+Narayan is CIO at GitLab, overseeing internal AI strategy, enterprise technology and data infrastructure. Previously, he was vice president of business technology at Confluent and led internal technology teams at BlackLine, Applied Minds and CIM.

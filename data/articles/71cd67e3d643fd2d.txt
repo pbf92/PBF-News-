@@ -1,0 +1,27 @@
+URL: https://www.eurekalert.org/news-releases/1152361
+TITLE: Anti-discrimination laws in US often lack clear wording relevant to multiracial identities
+OUTLET: EurekAlert!
+
+A new analysis highlights the limited appearance of the phrases “perceived race” and “multiracial” in US federal and state anti-discrimination laws, and demonstrates how court cases can be analyzed to explore whether such wording contributes to ambiguity that may hamper equal protection of multiracial people. Victoria Jackson and colleagues at Columbia University Mailman School of Public Health, US, present these findings in the open access journal PLOS One on November 25, 2026.
+The number of people who identify as more than one race tripled in the US between 2010 and 2020. Both multiracial people and people of a single race can experience racial discrimination, which may harm physical, mental and economic wellbeing.
+However, racial discrimination can look different for multiracial people, raising questions about whether anti-discrimination laws adequately protect them. To help establish a framework for addressing these questions, Jackson and colleagues analyzed the wording of US federal and state anti-discrimination laws and explored court records of discrimination cases. The analysis was limited to laws and cases pertaining to criminal justice, education, employment, and housing.
+Of six federal laws analyzed, only one, pertaining to hate crimes, explicitly includes “perceived race” as a protected class, and none include “multiracial” in their wording. This finding is notable because multiracial people may experience discrimination based on an observer’s inaccurate perception of their race.
+Of 48 states with hate crime laws, 22 include “perceived race,” and only Washington includes “interracial couples and their children.” Apart from hate crime laws, most state anti-discrimination laws do not list perceived race among protected classes.
+Out of 74 analyzed court cases, cases in which discrimination was based on an observer’s incorrect perception of race were least likely to have a favorable outcome, compared to cases in which the observer’s perception either fully or partially aligned with the plaintiff’s multiracial identity.
+These findings are descriptive and do not confirm any cause-effect relationship between lack of “perceived race” or “multiracial” language in laws and unfavorable court outcomes. However, the study could serve as a starting point for further research exploring to what extent current wording might contribute to ambiguity in discrimination claims of multiracial people.
+In your coverage, please use this URL to provide access to the freely available article in PLOS One: https://plos.io/4Alsh8E
+Citation: Jackson VA, Kantor R, Blanco K, Grilo S (2026) A Missing Race: A review of federal and state antidiscrimination policies in the United States and the legal oversight of multiracial persons. PLoS One 21(11): e0336458. https://doi.org/10.1371/journal.pone.0336458
+Author countries: USA.
+Funding: The author(s) received no specific funding for this work.
+Journal
+PLOS One
+Method of Research
+Observational study
+Subject of Research
+People
+Article Title
+A Missing Race: A review of federal and state antidiscrimination policies in the United States and the legal oversight of multiracial persons
+Article Publication Date
+25-Nov-2026
+COI Statement
+The authors have declared that no competing interests exist.
