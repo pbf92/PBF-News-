@@ -1,0 +1,22 @@
+URL: https://www.tradingview.com/news/benzinga:7ed7f5a57094b:0-why-reddit-is-crushing-amazon-and-walmart-for-holiday-gift-traffic/
+TITLE: Why Reddit Is Crushing Amazon and Walmart for Holiday Gift Traffic
+OUTLET: TradingView
+
+Why Reddit Is Crushing Amazon and Walmart for Holiday Gift Traffic
+The next big holiday shopping winner may not be a retailer at all. It could be the platform where shoppers ask strangers what is actually worth buying. As artificial intelligence increasingly shapes gift recommendations, Reddit, Inc. RDDT is emerging as an unlikely rival to Amazon.com, Inc. AMZN and Walmart Inc. WMT — not by selling products, but by influencing what consumers choose to purchase.
+A new Semrush AI Visibility Index study analyzing 10,514 AI-generated answers across four platforms found that Alphabet Inc. GOOGL GOOG Google AI Overviews cited Reddit in 53.2% of Christmas gift prompts in September 2026. That compares with 16.1% for Walmart, 12.8% for Best Buy Co., Inc. BBY and 11.4% for Amazon across all tracked holiday shopping prompts.
+The figures cover different prompt groups, but the contrast highlights Reddit’s growing importance in AI-driven product discovery.
+Reddit Is Becoming a Gift Guide
+The more interesting finding is that Reddit’s influence extends beyond Christmas recommendations.
+Across all tracked holiday shopping topics, Google AI Overviews cited Reddit in 35.2% of answers, ahead of Google’s own pages at 35% and YouTube at 29.3%. Walmart, the most frequently cited retailer, appeared in 16.1%.
+There is also a striking difference between being mentioned and being cited. Google AI Overviews mentioned Reddit in 11.9% of holiday answers but cited it in 35.2%. In Christmas gift prompts specifically, Reddit was mentioned in 14.2% of answers, more than any individual retailer, and cited in 53.2%.
+That distinction matters. An AI platform mentioning Reddit simply acknowledges the brand. Citing it means Reddit discussions are being used as supporting material for recommendations.
+The appeal is understandable. Shoppers looking for gifts often want more than product specifications or promotional prices. They want firsthand experiences, honest opinions and recommendations from people who have actually used a product. Reddit’s community discussions provide precisely that kind of material.
+An Unpaid Discovery Channel?
+For Reddit, the investment opportunity could extend beyond traditional advertising.
+The platform already monetizes its audience through advertising and data licensing. If AI search engines increasingly rely on Reddit discussions to answer shopping questions, those conversations could become an additional discovery channel for the platform.
+There is an important distinction, however: Semrush measured citations in AI answers, not the number of shoppers clicking through to Reddit or purchases influenced by those recommendations. The study does not establish how much incremental revenue this visibility generates.
+Still, the trend puts Reddit in an interesting position against established retail platforms. Amazon and Walmart own the transaction, but Reddit could increasingly influence the decision that happens before checkout.
+Why it Matters
+Reddit investors should watch whether AI-driven visibility translates into stronger referral traffic, advertiser demand and data-licensing opportunities.
+The bigger question is whether Reddit can capture more economic value as AI becomes a shopping assistant. Its community discussions may be helping sell products without Reddit having to stock a single one.Disclaimer Preview Photo: Timmary/Shutterstock

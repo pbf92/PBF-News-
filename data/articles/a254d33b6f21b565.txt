@@ -1,0 +1,7 @@
+URL: https://en.gamegpu.com/news/igry/snizhenie-grafiki-do-urovnya-bazovoj-ps5-pomoglo-gta-6-dostich-60-fps-na-ps5-pro
+TITLE: Lowering graphics to base PS5 levels helps GTA 6 reach 60 FPS on PS5 Pro
+OUTLET: GameGPU
+
+Enthusiasts have released an unofficial patch for Grand Theft Auto 6 that removes the default 30 frames per second (FPS) cap on the PlayStation 5 Pro console. Published gameplay footage with increased graphics settings on the PS5 Pro shows frame rates ranging from 40 to 50 FPS, with an average of around 45 FPS. These frame rates are consistently maintained both while driving on busy streets and during on-foot firefights using firearms.
+To achieve a completely smooth experience, players also use an additional modification that lowers the PS5 Pro's graphics settings to those of the base PlayStation 5. With this settings profile, the higher-end console is powerful enough to maintain a frame rate of 60 FPS. In addition to improving image smoothness, the custom patch reduces input lag and ensures proper operation of in-game physics and character animations without critical glitches.
+Rockstar Games hasn't officially added a 60 FPS performance mode to either the base PlayStation 5 or the PS5 Pro, limiting the console versions to the standard 30 FPS mode. Installing custom mods requires a jailbroken console with the appropriate software, as well as a display supporting a 120 Hz refresh rate to correctly display the unlocked frame rate.

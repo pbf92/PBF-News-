@@ -1,0 +1,17 @@
+URL: https://www.tradingview.com/news/gurufocus:81aca746b094b:0-former-openai-researcher-s-ai-fund-suffers-brutal-loss/
+TITLE: Former OpenAI Researcher's AI Fund Suffers Brutal Loss
+OUTLET: TradingView
+
+Former OpenAI Researcher's AI Fund Suffers Brutal Loss
+Situational Awareness, the high-profile artificial intelligence hedge fund founded by former OpenAI researcher Leopold Aschenbrenner, suffered a staggering 65% loss after fees in the third quarter of 2026, exposing the growing risks surrounding leveraged AI investments despite the industry's enormous long-term growth potential.
+The privately held hedge fund invests across the AI ecosystem, targeting semiconductor manufacturers, data center operators, power infrastructure providers and emerging AI developers. Its strategy combines public and private equity investments with sophisticated trading strategies designed to capitalize on the development of artificial superintelligence.
+Despite nearly collapsing over the summer, Situational Awareness remained up 88.5% after fees for the year through September, The Wall Street Journal reported, citing an investor letter.
+Aschenbrenner has since restructured the portfolio and is hiring a chief risk officer. The fund could also resume short-selling while employing lower levels of leverage.
+Nevertheless, the investor remains exceptionally bullish on AI's growth potential, projecting that leading AI laboratories could exit 2027 with a combined annualized revenue run rate exceeding $1 trillion.
+Interestingly, Aschenbrenner also sees superintelligence potentially eroding the competitive advantages of technology heavyweights, including Nvidia NVDA, Advanced Micro Devices AMD, Microsoft MSFT and Apple (AAPL).
+The divergence between his long-term optimism and massive quarterly losses highlights how aggressive positioning can undermine even potentially transformative investment themes.
+Investor Takeaway
+For AI investors, the biggest lesson is that explosive industry growth does not necessarily guarantee attractive investment returns, particularly when excessive borrowing and stretched valuations enter the equation.
+Investors should closely monitor hyperscaler capital expenditure guidance, AI-related revenue growth and free cash flow generation in upcoming earnings reports.
+For Nvidia and AMD, sustained accelerator demand and pricing power remain critical, while Microsoft's ability to monetize AI investments without sacrificing margins deserves particular scrutiny.
+Meanwhile, Situational Awareness's subsequent portfolio disclosures could reveal where Aschenbrenner sees the strongest risk-adjusted opportunities. However, its reported performance excludes October's AI sell-off, leaving its more recent returns uncertain.

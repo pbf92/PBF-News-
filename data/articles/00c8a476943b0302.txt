@@ -1,0 +1,47 @@
+URL: https://www.eurekalert.org/news-releases/1152985
+TITLE: Glutamine-metabolizing enzyme worsens kidney injury after ischemia–reperfusion
+OUTLET: EurekAlert!
+
+During kidney transplantation or certain surgical procedures, blood flow to the kidneys may be temporarily interrupted or reduced. When blood flow is restored, the return of oxygen can trigger oxidative stress and inflammation, damaging kidney cells. This phenomenon, known as renal ischemia–reperfusion injury (IRI), is a major cause of acute kidney injury (AKI) and can increase the risk of long-term complications, including chronic kidney disease.
+Researchers at Chiba University, Japan, found that an enzyme called glutaminase 2 (GLS2) contributes to kidney damage during IRI. The study was led by Dr. Sawako Suzuki, a lecturer at the Graduate School of Medicine, Chiba University, Japan, with Dr. Kazuki Ishiwata, the first author, and Dr. Koutaro Yokote, the last author, from the same university.
+This paper was made available online on October 10, 2026, and will be published in Volume 257 of the journal Free Radical Biology and Medicine on December 2, 2026.
+GLS2 is an enzyme involved in glutamine metabolism. It converts glutamine, an amino acid found in the body, into glutamate, which can then be further converted into alpha-ketoglutarate (αKG). The researchers found that this GLS2–αKG pathway promotes ferroptosis, a form of cell death that eventually causes kidney tubular cells to die. In mice, blocking this pathway reduced ferroptosis and limited kidney damage. These findings highlight GLS2 as a potential target for developing treatments against IRI.
+“Ferroptosis is a cell death driven by lipid peroxidation and is closely linked to cellular metabolism. Growing interest in its involvement in renal IRI prompted us to investigate the role of GLS2 in kidney tubular cell death in this setting,” says Dr. Suzuki.
+To investigate this, the researchers first compared normal mice with genetically modified mice lacking the Gls2 gene. They found that mice lacking GLS2 experienced significantly less kidney tubular damage following IRI. Their kidney cells also showed fewer signs of mitochondrial shrinkage and damage to their nuclei.
+Tests on cultured kidney cells revealed that GLS2 promotes ferroptosis through αKG-dependent lipid peroxidation. This process occurs when reactive oxygen species react with fats in cell membranes, producing lipid peroxides that can damage the cells. Cells that lacked GLS2 had fewer of these molecules following simulated IRI.
+Interestingly, at a later stage following the onset of ferroptosis, cells with GLS2 showed more apoptosis, a form of programmed cell death, than cells lacking the enzyme. At this stage, p53 expression was also higher in GLS2-expressing cells. These findings suggest that early ferroptosis may contribute to subsequent apoptotic responses, worsening kidney injury.
+Treating mice with a ferroptosis inhibitor and a glutaminase inhibitor reduced both ferroptosis and apoptosis and limited kidney damage. The researchers applied the latter inhibitor to surgical gauze, which they placed directly on the kidney during ischemia. They suggest that this technique could potentially be adapted for procedures such as kidney transplantation, where the risk of IRI can be anticipated.
+Although the experiments were carried out in mice and cultured cells, the researchers also found increased expression of GLS2 and PTGS2, a gene associated with ferroptosis, in human kidney tissue following IRI, based on publicly available gene-expression datasets.
+Looking ahead, the researchers aim to develop treatments targeting GLS2 or ferroptosis in settings where the risk of kidney injury can be anticipated, such as kidney transplantation and surgery.
+“These findings were obtained in mice and cultured cells, and further research is needed to evaluate the efficacy and safety of this approach in humans. Early intervention targeting GLS2 may help interrupt the cascade of cell death, potentially preventing progression from AKI to chronic kidney disease and reducing the future need for dialysis,” says Dr. Suzuki.
+To see more news from Chiba University, click here.
+***
+Reference:
+Title of original paper: GLS2 promotes early ferroptosis followed by apoptosis and p53 signaling in renal ischemia–reperfusion injury
+Journal: Free Radical Biology and Medicine
+DOI: 10.1016/j.freeradbiomed.2026.10.015
+Authors: Kazuki Ishiwata1,2, Sawako Suzuki1,2, Chiwei Lee3, Noriko Yamanaka4, Ichiro Manabe4, Masashi Yamaguchi5, Kumiko Naito1,2, Yutaro Ruike1,2, Yoshiro Maezawa1,2, Hiroki Nakanishi6, Akitoshi Nakayama7, Takashi Miki8, Tomoaki Tanaka7, and Koutaro Yokote9
+Affiliations:
+1Department of Endocrinology and Gerontology, Graduate School of Medicine, Chiba University, Japan
+2Department of Diabetes, Metabolism and Endocrinology, Chiba University Hospital, Japan
+3Department of Nephrology, Graduate School of Medicine, Chiba University, Japan
+4Department of Systems Medicine, Graduate School of Medicine, Chiba University, Japan
+5Medical Mycology Research Center, Chiba University, Japan
+6Lipidome Lab Co., Ltd., Japan
+7Department of Molecular Diagnosis, Graduate School of Medicine, Chiba University, Japan
+8Department of Medical Physiology, Graduate School of Medicine, Chiba University, Japan
+9Chiba University, Japan
+About Lecturer Sawako Suzuki from Chiba University, Japan
+Dr. Sawako Suzuki is a lecturer at the Graduate School of Medicine, Chiba University, Japan. Her research focuses on glutamine metabolism and its role in energy production, oxidative stress, and ferroptosis, particularly in cancer and lifestyle-related diseases. She also investigates the mechanisms underlying endocrine disorders, including adrenal and secondary obesity diseases, using primary cell cultures derived from human tissues. Her research interests include ferroptosis, metabolism, and interactions between organs.
+Funding: 
+This work was supported by a Grant-in-Aid for Scientific Research (C) from the Japan Society for the Promotion of Science (JSPS) (grant number: 22K08325).
+Journal
+Free Radical Biology and Medicine
+Method of Research
+Experimental study
+Subject of Research
+Animals
+Article Title
+GLS2 promotes early ferroptosis followed by apoptosis and p53 signaling in renal ischemia–reperfusion injury
+Article Publication Date
+2-Dec-2026

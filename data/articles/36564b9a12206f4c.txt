@@ -1,0 +1,26 @@
+URL: https://www.eurekalert.org/news-releases/1152470
+TITLE: Single vaping episode impairs vascular function
+OUTLET: EurekAlert!
+
+CHICAGO – Researchers have identified acute negative effects of vaping, even without nicotine, on vascular function. The results of the study are being presented next week at the annual meeting of the Radiological Society of North America (RSNA).
+E-cigarettes, also known as vapes, are battery-operated devices that heat a liquid to produce an aerosol, which is then inhaled into the lungs. Vapes come in various flavors, making them a popular choice among young people, and use is on the rise.
+According to the Centers for Disease Control and Prevention, approximately 6.5% of U.S. adults and 15.5% of adults ages 21-24 use e-cigarettes. An estimated 1.63 million U.S. middle and high school students (about 5.9%) report e-cigarette use.
+Vapes contain fewer chemicals and toxins than are found in tobacco smoke. As a result, many people believe e-cigarettes to be less harmful than cigarette smoking. However, while vaping may expose users to fewer toxic chemicals than cigarettes, it can still be detrimental to vascular function and overall health.
+For the study conducted at the University of Pennsylvania, researchers set out to assess the acute effects of a smoking or vaping challenge on vascular function, using tobacco cigarettes, e-cigarettes with nicotine and e-cigarettes without nicotine.
+“We found that the vaping challenge had an adverse effect on a greater number of markers than did the smoking challenge,” said study lead author Marianne Nabbout, M.D., a radiology resident at the University of Arkansas for Medical Sciences in Little Rock.
+The study included 41 healthy male and female smokers and vapers between the ages of 20 and 50 (mean age of 29.8 years). Participants had all smoked and/or vaped on a daily basis for over a year. The study also included a control group of 17 individuals (21 to 33 years old) who had never smoked or vaped.
+In three separate sessions, study participants underwent two MRI exams, one before and one after each of the following smoking/vaping episodes: tobacco cigarette, e-cigarette/vape aerosol with nicotine and e-cigarette/vape aerosol without nicotine.
+The research team used MRI and other measurements to assess cardiovascular function. They measured how quickly blood flow and oxygen levels recovered after a brief restriction, how stiff the aorta was, how well blood vessels in the brain responded to changing demands, how much oxygen the brain was using, and how flexible the carotid arteries were.
+The researchers detected changes in blood flow and oxygen levels in participants after a single smoking or vaping session. Importantly, these changes occurred after both nicotine-containing and nicotine-free vaping, suggesting that the immediate effects on circulation were not solely attributable to nicotine.
+“The baseline venous oxygen saturation, which is the saturation of oxygen measured in a vein of the thigh in this study, acutely decreased following each of the nicotinized vaping, non-nicotinized vaping and smoking episodes,” Dr. Nabbout said. “This suggests that there may be an acute blunting of oxygen uptake by the lungs following a smoking or vaping episode.”
+The data of the smokers and vapers was then compared to the baseline scans of the control group of non-smokers.
+“We had expected that the adverse effects of an acute smoking or vaping episode would be lower or negligible in smokers and vapers compared to controls because of habituation, causing a higher baseline inflammatory state,” Dr. Nabbout said. “However, counter to expectations, we detected significant changes in this study which assessed markers of vascular function in smokers, vapers and dual users.”
+Interestingly, vaping produced changes in more of the markers than traditional cigarette smoking did.
+“This study showed that a single episode of vaping actually produces a measurable effect on markers of vascular function,” Dr. Nabbout said. “It is likely that recurrent exposure to vaping aerosol and its decomposition products will have long-term cardiovascular health effects.”
+The study only looked at immediate effects. Longer-term studies following people over time are needed to determine whether these temporary changes may contribute to lasting health problems.
+This study was supported by the National Institutes of Health. The research was funded by National Institutes of Health grant R01 HL155243 (MRI and Biological Markers of Acute E-Cigarette Exposure in Smokers and Vapers), Principal Investigator: Felix W. Wehrli, Ph.D.
+Co-authors are Mahdie Hosseini, M.D., Harris Quach, Ph.D., Michael C. Langham, Ph.D., Alessandra S. Caporale, Ph.D., Wensheng Guo, Ph.D., Kathryn Jaroszynski, Frank T. Leone, M.D., M.S., Andrew A. Strasser, Ph.D., and Felix W. Wehrli, Ph.D.
+###
+Note: Copies of RSNA 2026 news releases and electronic images will be available online at RSNA.org/press26.
+RSNA is an association of radiologists, radiation oncologists, medical physicists and related scientists promoting excellence in patient care and healthcare delivery through education, research and technologic innovation. The Society is based in Oak Brook, Illinois. (RSNA.org)
+For patient-friendly information on MRI, visit RadiologyInfo.org.

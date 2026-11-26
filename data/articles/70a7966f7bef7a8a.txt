@@ -1,0 +1,19 @@
+URL: https://theaiinsider.tech/2026/11/26/stanford-physicist-used-openais-gpt-6-astra-in-quantum-gravity-research/
+TITLE: Stanford Physicist Used OpenAI’s GPT-6 Astra in Quantum Gravity Research
+OUTLET: AI Insider
+
+Insider Brief
+- Stanford physicist Venkatesa Chandrasekaran used OpenAI’s GPT-6 Astra to help develop calculations and proofs for a proposed quantum theory of gravity.
+- Chandrasekaran reported months of work with the model totaling about 400 million tokens, with OpenAI providing the computing resources.
+- The theoretical approach yielded a finite answer for a calculation involving gravitational waves that otherwise runs to infinity and reproduced a known quantum correction for black holes.
+A Stanford physicist used OpenAI’s GPT-6 Astra to help develop several calculations and proofs for a proposed quantum theory of gravity, according to a preprint posted on arXiv.
+Venkatesa Chandrasekaran described months of back-and-forth work with the AI model in the paper’s acknowledgments. He put the total at about 400 million tokens, the units AI models use to process text and other inputs, and said OpenAI supplied the computing resources.
+The disclosure puts the model’s involvement in the mathematical work behind the paper. It describes the collaboration in aggregate, leaving open which calculations and proofs involved the model and how its contributions were checked. The token count gives a sense of the scale of the interaction. The paper itself presents a theoretical proposal and includes no experimental test.
+If the approach holds up, it could help reconcile quantum mechanics with Einstein’s general relativity. Quantum mechanics describes a world in which physical quantities can fluctuate. General relativity describes gravity as the curvature of spacetime. Putting them together means accounting for fluctuations in spacetime itself, including changes to the geometry that tells physicists where and when events occur.
+A Finite Answer
+Chandrasekaran’s approach uses the paths light could take to define a region of spacetime. Imagine a flash going off and a detector set to record light at a later moment. Light spreading out from the flash marks one boundary. Tracing the possible paths of light backward from the detector marks the other. The two boundaries enclose what physicists call a causal diamond. Where they meet provides a reference for measurements, even as the geometry changes.
+In one calculation, Chandrasekaran examined the creation and disappearance of a pair of gravitons, the hypothetical quantum units of gravitational waves. A common way to simplify such a calculation is to start with a rough answer and add corrections based on the strength of the interaction. Applying that approach before adding up contributions from different wavelengths produced a term that grew without bound. Adding the contributions first, while keeping the strength of gravity fixed, gave a finite answer.
+The preprint also found that a causal diamond with a specified size limit can contain only a finite number of distinct quantum states. In a separate calculation, the approach recovered the standard relationship between a black hole’s entropy and its surface area, along with a smaller quantum correction that physicist Ashoke Sen had calculated using a different method.
+Next Steps
+The proposed theory describes gravity in a vacuum. Extending it to include matter would broaden its scope. The paper also leaves open whether different ways of building the mathematical description lead to equivalent results. Its black hole and low-energy calculations go through the first quantum correction, leaving higher-order effects for further work.
+For AI researchers, the paper documents a sustained use of a model in theoretical physics. A more detailed account of individual calculations would help establish which steps GPT-6 Astra contributed to and how those contributions shaped the finished work.

@@ -1,0 +1,15 @@
+URL: https://www.businessinsider.com/openai-token-billing-cost-discount-mistake-sol-astra-2026-11
+TITLE: OpenAI's pricing mix-up means most users of its new AI models will hit limits faster
+OUTLET: Business Insider
+
+Black Friday savings briefly and unintentionally came to OpenAI.
+The company made a billing mistake that "incorrectly discounted" GPT-6.2 Astra and Sol earlier this month, Thibault Sottiaux, the engineering lead for Codex, OpenAI's coding agent, said on X.
+Now that it's been fixed, most users can expect to hit their usage limits 40% and 25% faster on Astra and Sol, respectively, for doing the same tasks, Sottiaux said in his early-morning post on Thursday.
+Astra is OpenAI's newest frontier model for the most difficult tasks, whereas Sol is cheaper and for everyday tasks, according to OpenAI's website.
+Sottiaux said OpenAI wouldn't retroactively charge users for the difference in past usage with the new models, which both launched on November 17.
+"As a small token to apologize for the mistake, we'll be adding one banked reset for everyone on Go, Plus, Pro, and Business," Sottiaux wrote, meaning everyone on the listed paid plans gets one opportunity to reset their usage limit early.
+Usage limits are measured in tokens, the basic unit of data inputted or outputted by an AI model. More intensive tasks require more compute, and therefore rack up a higher token bill. Different ChatGPT subscriptions have different limits, and pricing plans across models have become a moving target for AI companies.
+This isn't Sottiaux's first X post about problems with usage limits. In June, some Codex users reported reaching their usage limits more quickly than usual, even when performing the same tasks.
+OpenAI set up a "warroom" to look into the issue, Sottiaux said at the time, and eventually determined that Codex was doing more behind-the-scenes work than intended, causing it to use more compute. The company also reset everyone's limits in that scenario.
+Coding tasks can get expensive quickly for users, since they typically use more compute compared to basic tasks like asking a chatbot a question. Companies, too, are grappling with ballooning AI bills, as employees burn through tokens and cash. JPMorgan, for example, instituted $2,000 monthly caps for some of its engineers using Claude Code earlier this year.
+Yet agents for both coding and mundane tasks are also pricey for AI companies, and questions remain about how they will make money. Earlier this month, Elon Musk said the cost of maintaining SpaceX's GrokBot, an AI agent, was "unsustainably high relative to revenue." Meta CEO Mark Zuckerberg told investors in October that Muse, the wildly popular AI agent, isn't making money yet and is "very compute-intensive."

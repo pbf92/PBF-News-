@@ -1,0 +1,36 @@
+URL: https://decrypt.co/384053/openai-fixes-chatgpt-billing-error-promises-to-make-it-40-worse
+TITLE: OpenAI Fixes ChatGPT Billing Error, Promises to Make it 40% Worse
+OUTLET: Decrypt
+
+In brief
+- OpenAI corrected a billing error that inadvertently discounted usage of its GPT-6.2 Astra and Sol models for most users.
+- Subscribers will now reach their usage limits 40% faster on Astra and 25% faster on Sol compared with last week.
+- The correction comes as OpenAI prepares to merge ChatGPT's conversational and agentic usage allowances, raising concerns among paying customers.
+Have you been particularly happy with how much you've been getting out of your ChatGPT subscription lately? Turns out that was a bug.
+OpenAI acknowledged Thursday that a billing error at the launch of its GPT-6.2 Astra and Sol models gave most subscribers more AI usage than the company intended. It has since fixed the mistake, meaning customers will now get less work done for the same monthly fee compared with last week.
+“We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users,” OpenAI's Thibault Sottiaux tweeted. “We’ve fixed this now, so the same work will use more of your plan’s usage allowance.”
+We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users.
+We’ve fixed this now, so the same work will use more of your plan’s usage allowance. Comparing to last week, you will reach your limits 40% faster on GPT-6.2…
+— Tibo (@thsottiaux) November 26, 2026
+And it’s not a small bug; in fact, the difference is substantial. Sottiaux said users will reach their limits 40% faster when using GPT-6.2 Astra, OpenAI's most capable model for professional tasks, and 25% faster when using its more economical sibling, GPT-6.2 Sol.
+To put that into perspective, if a particular amount of work consumed 50% of your allowance last week, it would consume 70% or more today on Astra, assuming those percentages refer to the rate of consumption.
+If a user was running a complex task on extra high or Ultra thinking levels, it may now deplete the whole quota before producing an actual output depending on the instruction.
+OpenAI introduced both models on November 17, specifically touting their improved efficiency as a selling point. The company said the models could deliver better results while generating fewer tokens—the small units of information AI models process and produce—allowing subscribers to accomplish more within their existing limits.
+Did you know?
+You can now act on the news you read: Go long or short BTC with perpetual futures, all from your Decrypt Money Account.
+Sottiaux maintains that both models should still offer more effective usage than their respective predecessors. The comparison, however, is now considerably less flattering than it was nine days ago.
+OpenAI won't retroactively charge customers for the difference, and other models remain unaffected.
+“As a small token to apologize for the mistake, we’ll be adding one banked reset for everyone on Go, Plus, Pro, and Business,” Sottiaux said.
+Pun intended, presumably.
+ChatGPT's increasingly complicated usage limits
+The billing correction comes at a particularly awkward time for OpenAI. As Decrypt reported Wednesday, the company has begun merging ChatGPT's conversational and Work experiences, a change that has prompted complaints from some of its highest-paying subscribers because Chat has huge usage quotas and Work is pretty limited in terms of usage.
+Hi. We’re beginning to roll out the combined Chat and Work experience to a small group of Pro users to learn from feedback before we roll out more broadly.
+Let us know what you think and where we can improve!
+— Tibo (@thsottiaux) November 24, 2026
+Ultimately, it may end up cutting the overall usage allocation considerably.
+Starting in December, advanced conversations and resource-intensive agentic tasks, such as building software or conducting extensive research, will draw from a shared usage allowance for Plus, Pro, and Business subscribers.
+The company hasn't disclosed how large those combined budgets will be, making it difficult to quantify the cumulative effect of the two changes. Thursday's billing correction is separate from the merger.
+OpenAI didn’t reply to a request for comments by Decrypt to clarify if both quotas would be added, or the new total allocation will be less than the combined usage people can enjoy today.
+Still, subscribers who bought or upgraded their subscriptions after experiencing GPT-6.2's apparent efficiency last week now have a different product in economic terms, even if the models themselves haven't changed.
+The banked reset can be redeemed through the usage settings on ChatGPT's desktop app or website. It restores eligible allowances before their scheduled renewal but doesn't permanently increase them.
+Once you've used your complimentary reset, you'll be back to consuming your allowance at the corrected rate.

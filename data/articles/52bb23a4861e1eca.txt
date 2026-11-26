@@ -1,0 +1,7 @@
+URL: https://en.gamegpu.com/news/igry/github-podderzhal-proekt-anyps5-po-zapusku-igr-s-ps5-na-pk-posle-vykhoda-gta-6
+TITLE: GitHub has backed the AnyPS5 project to bring PS5 games to PC after the release of GTA 6.
+OUTLET: GameGPU
+
+The official GitHub account on the social network X published a message linking the release of Grand Theft Auto 6 to a surge in interest in open source code. The post noted that the game's release triggered one of the busiest weeks in the service's history, and the AnyPS5 repository had surpassed 58 stars since its launch in August. This project is a translation layer that allows PlayStation 5 executables to be recompiled for running on operating systems. Windows and Linux.
+In the post, platform representatives asked subscribers whether changing the game launch platform crossed a legal boundary and concluded with a congratulatory message on the release of the sixth installment in the series. The post raised eyebrows among users and developers, as GitHub is owned by Microsoft, which develops the competing Xbox console ecosystem and typically strictly adheres to copyright holders' requirements.
+Shortly after a wave of discussion and criticism, the post was removed from the service's official account without further comment. The incident occurred amid widespread blocking on the platform itself, where administrators, at the request of Rockstar Games and Take-Two Interactive, had previously removed over 3,000 repositories related to the unofficial PC port of the game.

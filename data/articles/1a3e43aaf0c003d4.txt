@@ -1,0 +1,75 @@
+URL: https://www.abs.gov.au/methodologies/private-new-capital-expenditure-and-expected-expenditure-australia-methodology/sep-2026
+TITLE: Private New Capital Expenditure and Expected Expenditure, Australia methodology, September 2026
+OUTLET: Australian Bureau of Statistics
+
+This publication contains estimates of actual and expected new capital expenditure by private businesses for selected industries in Australia. The series have been compiled from data collected by the Australian Bureau of Statistics (ABS) in its quarterly Survey of New Capital Expenditure.
+Private New Capital Expenditure and Expected Expenditure, Australia methodology
+Overview
+Collection method
+Respondents are asked to provide data on the same basis as their own management accounts from an online survey.
+Concepts, sources and methods
+Not applicable for this release
+History of changes
+Inclusion of Education and Health industries, effective from December quarter 2020.
+Implementation of ANZSIC 2006, effective from September quarter 2009.
+Telstra's privatisation, effective from March quarter 2007.
+Introduction
+Data collection
+Scope and coverage
+The Survey of New Capital Expenditure includes the following industries classified according to the Australian and New Zealand Standard Industrial Classification, ANZSIC, 2006:
+- Mining (Division B)
+- Manufacturing (Division C)
+- Electricity, Gas, Water and Waste Services (Division D)
+- Construction (Division E)
+- Wholesale Trade (Division F)
+- Retail Trade (Division G)
+- Accommodation and Food Services (Division H)
+- Transport, Postal and Warehousing (Division I)
+- Information Media and Telecommunications (Division J)
+- Finance and Insurance (Division K, excluding ANZSIC class 6330, Superannuation Funds)
+- Rental, Hiring and Real Estate Services (Division L)
+- Professional, Scientific and Technical Services (Division M)
+- Administrative and Support Services (Division N)
+- Education and Training (Division P)
+- Health Care and Social Assistance (Division Q)
+- Arts and Recreation Services (Division R)
+- Other Services (Division S)
+The survey excludes the following industries: Agriculture, Forestry and Fishing (Division A), Public Administration and Safety (Division O) and Superannuation Funds (Class 6330).
+The scope excludes public sector business units (i.e. all departments, authorities and other organisations owned and controlled by Commonwealth, State and Local Government).
+The Survey of New Capital Expenditure, like most ABS economic collections, takes its frame from Employing and Non-Employing Units on the ABS Business Register which is primarily based on ABN registrations to the Australian Business Register, which is managed by the Australian Taxation Office (ATO). The frame is updated quarterly to take account of new businesses and changes in the characteristics of businesses, such as industry and size.
+Businesses which have ceased employing are identified when the Australian Taxation Office (ATO) cancels their Australian Business Number (ABN) registration. In addition, businesses which do not remit for Goods and Services Tax and/or Income Tax Withholding purposes for the previous five quarters, are removed from the frame.
+As noted, the Survey frame includes Employing and Non-Employing Units on the ABS Business Register. However, micro non-employing businesses are excluded. These are very small units on the ABS Business Register, by standard measures of size. While there are a substantial number of these businesses, it is expected that they would not contribute significantly to the estimates, although the impact would vary from industry to industry.
+Statistical unit
+In the Survey of New Capital Expenditure, the statistical unit used to represent businesses, and for which statistics are reported, is the Australian Business Number (ABN) unit, in most cases. The ABN unit is the business unit which has registered for an ABN, and thus appears on the ATO administered Australian Business Register. This unit is suitable for ABS statistical needs when the business is simple in structure.
+For more significant and diverse businesses where the ABN unit is not suitable for ABS statistical needs, the statistical unit used is the Type of Activity Unit (TAU). A TAU is comprised of one or more business entities, sub-entities or branches of a business entity within an Enterprise Group that can report production and employment data for similar economic activities. When a minimum set of data items is available, a TAU is created which covers all the operations within an industry subdivision (and the TAU is classified to the relevant subdivision of the Australian and New Zealand Standard Industrial Classification (ANZSIC)). Where a business cannot supply adequate data for each industry, a TAU is formed which contains activity in more than one industry subdivision and the TAU is classified to the predominant ANZSIC subdivision. Further details about the ABS economic statistical units used in this survey, and in other ABS economic surveys (both sample surveys and censuses), can be found in Chapter 2 of the Standard Economic Sector Classifications of Australia (SESCA) 2008.
+Survey methodology
+The survey is conducted on a quarterly basis. It is based on a random sample of approximately 10,000 units which is stratified by industry, state/territory and derived employment size. The figures obtained from the selected units are supplemented by data from units which have large capital expenditure and are outside the sample framework, or not adequately covered by it.
+Respondents are asked to provide data on the same basis as their own management accounts. Where a selected unit does not respond in a given survey period, a value is estimated. If data are subsequently provided, the estimated value is replaced with reported data. Aggregates are calculated from all data using the ‘number raised’ estimation technique. Data is edited at both individual unit level and at aggregate level.
+Timing and construction of the survey cycle
+Surveys are conducted in respect of each quarter and returns are completed in the 8 or 9 week period after the end of the quarter to which the survey data relate (e.g. March quarter survey returns are completed during April and May).
+Businesses are requested to provide 3 basic figures each survey:
+- Actual expenditure incurred during the reference period.
+- A short term expectation (E1) and a longer term expectation (E2).
+This survey cycle facilitates the formation of estimates of expenditure for financial years (12 months ending 30 June). For example for 2026-27:
+- the first estimate was available from the December 2025 survey as a longer term expectation (E2)
+- the second estimate was available from the March 2026 survey (again as a longer term expectation)
+- the third estimate was available from the June 2026 survey as the sum of two expectations (E1 + E2)
+- in the September 2026, December 2026 and March 2027 surveys the fourth, fifth and sixth estimates, respectively, are derived from the sum of actual expenditure (for that part of the year completed) and expected expenditure (for the remainder of the year) as recorded in the current quarter's survey
+- the final (or seventh) estimate from the June quarter 2027 survey is derived from the sum of the actual expenditure for each of the four quarters in the 2026-27 financial year.
+Businesses are requested to provide actual expenditure data by state/territory each quarter. Prior to 2002, businesses were also asked to provide expected expenditure data by state/territory each December quarter. Since 2002 state/territory expectations data for businesses which operate in more than one state or territory are pro-rated to states/territories based on actual expenditure for the December quarter in each state or territory. Expectations data for businesses operating within a single state/territory are allocated to that state/territory. Expectations for businesses which report no actual expenditure for the December quarter are split equally among the states in which the businesses are known to operate.
+Expectations data by state/territory are only released in December quarters and are available on the ABS Website in the Data downloads section.
+Processing the data
+Sample revision
+The survey frames and samples are revised each quarter to ensure that they remain representative of the survey population. The timing for creating each quarter's survey frame is consistent with that of other ABS business surveys. This provides for greater consistency when comparing data across surveys.
+Additionally, with these revisions to the sample, some of the units from the sampled sector are rotated out of the survey and are replaced by others to spread the reporting workload equitably.
+Adjustments are included in the estimates to allow for lags in processing new businesses to the ABS Business Register, and the omission of some businesses from the register. The majority of businesses affected and to which adjustments apply are small in size. As an indication of the size of these adjustments, in the September quarter 2026 they represented about 0.6% of the total estimate of actual new capital expenditure.
+Classification by industry
+The Australian and New Zealand Standard Industrial Classification (ANZSIC) has been developed for use in both countries for the production and analysis of industry statistics. For more information, users are referred to Australian and New Zealand Standard Industrial Classification (ANZSIC).
+In order to classify new capital expenditure by industry, each statistical unit (as defined above) is classified to the (ANZSIC) industry in which it mainly operates.
+Chain volume measures
+The chain volume measures appearing in this publication are annually reweighted chain Laspeyres indexes referenced to current price values in the chosen reference year (currently 2024-25). The current price values may be thought to be the product of a price and quantity. The value in chain volume terms can be derived by linking together movements in volumes, calculated using the average prices of the previous financial year and applying compound movements to the current price estimates of the reference year. Each year's quarter-to-quarter growth rates in the chain volume series are based on the prices of the previous financial year, except for those quarters of the latest incomplete year which are based upon the second most recent financial year. Quarterly chain volume estimates for a financial year sum to the corresponding annual estimate.
+With each release of the September quarter issue of this publication, a new base year is introduced and the reference year is advanced one year to coincide with it. With the release of the September quarter 2026 issue of this publication, the chain volume measures currently have 2024-25 as their base year rather than 2023-24.
+A change in the reference year changes levels but not growth rates for all periods. A change in the base year can result in revisions, small in most cases, to growth rates for the last year.
+Chain volume measures are not generally additive. In other words, component chain volume measures do not, in general, sum to a total in the way original current price components do. For capital expenditure data, this means that the original chain volume estimates for the states will not add to total capital expenditure for Australia. In order to minimise the impact of this, the ABS uses the latest base year as the reference year. By adopting this approach, additivity does exist for the quarters following the reference year and non-additivity is relatively small for the quarters in the reference year and those immediately preceding it. For further information on chain volume measures refer to Information Paper: Introduction of Chain Volume Measures in the Australian National Accounts.
+Derivation and usefulness of realisation ratios
+Once actual expenditure for a financial year is known, it is useful to investigate the relationship between each of the prior six estimates of expenditure for that financial year and the actual expenditure. The resultant realisation ratios (subsequent actual expenditure divided by expected expenditure) then indicate how much expenditure was actually incurre
