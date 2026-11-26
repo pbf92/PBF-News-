@@ -1,0 +1,11 @@
+URL: https://www.tradingview.com/news/tradingview:493e743587a57:0-inverite-insights-inc-invr-launches-portfolio-iq-for-lender-risk-analysis/
+TITLE: Inverite Insights Inc. (INVR) Launches Portfolio IQ for Lender Risk Analysis
+OUTLET: TradingView
+
+Inverite Insights Inc. launched Portfolio IQ and its Loan Performance API, which link loan repayment outcomes with origination data and risk decisions to support portfolio analysis, model validation and monitoring. The release provided no pricing, revenue or adoption figures.
+Material Details
+Context by AI Analyst
+This is an early-stage product expansion, with no disclosed revenue, customer uptake or quantified financial impact. Evidence of lender adoption, recurring service demand or measurable revenue contribution would be needed for a larger catalyst.
+Based on the original press release from Inverite Insights Inc. distributed by TheNewswire.
+Disclaimer
+This is an AI-generated summary and may contain inaccuracies. Summary is based on content distributed by TheNewswire. Please verify any important information with the original source. This information is not a recommendation for what you should do personally and does not constitute investment advice.

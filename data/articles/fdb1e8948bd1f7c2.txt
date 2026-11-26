@@ -1,0 +1,18 @@
+URL: https://timesofindia.indiatimes.com/technology/tech-news/in-2022-a-teenager-used-amazon-fire-stick-to-hack-gta-6-maker-rockstar-games-and-leak-90-gameplay-clips-now-hes-been-released-on-licence-the-same-day-he-was-sentenced-to-seven-years-in-prison/articleshow/136182840.cms
+TITLE: In 2022, a teenager used Amazon Fire Stick to hack GTA 6 maker Rockstar Games and leak 90 gameplay clips;
+OUTLET: The Times of India
+
+In 2022, Arion Kurtaj used an Amazon Fire Stick in a hotel room to hack Rockstar Games and leak 90 clips of the unfinished Grand Theft Auto VI. He was a teenager at the time and was staying at a Travelodge in Bicester under police protection after threats from rival hackers.
+On November 23, 2026, Woolwich Crown Court sentenced Kurtaj, now 21, to seven years in prison for offences that included the Rockstar breach. However, he was released on licence that same day after the court took into account the time he had spent in a secure hospital and on remand.
+What Arion Kurtaj leaked from Rockstar Games
+The footage showed nearly an hour of gameplay from a version of GTA 6 still in development. It also revealed that one of the playable characters was a woman, a detail Rockstar had kept secret for its marketing campaign.
+Kurtaj used Rockstar’s internal Slack to demand that the company contact him on Telegram within 24 hours, threatening to release the game’s source code if it did not. Rockstar refused to cooperate, and Kurtaj posted the footage and source code on an online forum under the username TeaPotUberHacker.
+According to filings seen by the BBC, Rockstar told the court that recovering from the breach cost $5 million (£3.8 million) and took thousands of hours of staff time.
+Why Arion Kurtaj was released on the day of sentencing
+Kurtaj had previously been placed under an indefinite hospital order after he was deemed unfit to stand trial. He was later found fit to face proceedings and pleaded guilty to six charges on November 16. The charges included fraud, four computer misuse offences and possession of a mobile phone in prison.
+Police said the court reduced a nine-year term by two years to reflect the time Kurtaj had spent under the hospital order. The judge also took into account the time he had spent on remand, allowing him to leave custody on licence on the day he was sentenced. Justice Turner warned him, “Don’t let this happen again.”
+Five-year order restricts Arion Kurtaj’s online activity
+Kurtaj was also given a five-year Serious Crime Prevention Order that restricts his online activity, including barring him from using Telegram and Discord. The Rockstar breach was one of several attacks he admitted carrying out as a member of the Lapsus$ 
+hacking
+ group.
+The other companies targeted included BT and EE, Revolut and Uber. The Crown Prosecution Service said the case followed a City of London Police investigation supported by US law enforcement.

@@ -1,0 +1,25 @@
+URL: https://www.storyboard18.com/digital/anthropic-brings-ai-work-agent-claude-duet-to-india-targets-founders-and-small-businesses-115532.htm
+TITLE: Anthropic brings AI work agent Claude Duet to India, targets founders and small businesses
+OUTLET: Storyboard18
+
+Anthropic has expanded the research preview of Claude Duet, its proactive AI work agent, to India, targeting professionals, entrepreneurs, consultants and small business owners as the company looks to deepen the adoption of agentic AI across workplace functions, according to a company blog post.
+The expansion comes days after Anthropic announced Claude Duet in the US, positioning the product as an AI agent capable of independently managing tasks, monitoring connected applications and executing complex workflows with limited human intervention.
+Unlike conventional AI chatbots that require users to initiate conversations, Claude Duet proactively identifies tasks that require attention and continues working even when users are away from their devices.
+“It’s built for professionals and small business owners with more on their plates than they can track, and we think it will resonate with India’s founders, operators, consultants and small business owners, who are juggling email, invoices, customers, hiring and meetings all at once,” Anthropic said.
+Anthropic opens Claude Duet to Indian subscribers
+Indian users subscribed to Claude's Pro, Max and Ultra plans can join the waitlist for the research preview. The company has also introduced a public beta for Team subscribers and a private beta for enterprise customers.
+Claude Duet is available as a standalone application on iOS and Android, as well as through claude.ai.
+Built around Claude Opus 5.5, the application provides users with a daily morning briefing highlighting important developments across connected applications. It continues to monitor these applications throughout the day, notifying users when matters require their attention.
+The product carries over existing memory, skills and connected applications from users' Claude accounts, allowing them to interact with the agent through text or voice within a continuous conversation.
+From administrative tasks to financial forecasting
+Anthropic is positioning Claude Duet as a tool capable of handling both routine administrative responsibilities and more complex business functions.
+Beyond scheduling meetings and managing communications, the agent can build dashboards using multiple tools, develop financial and sales forecasts, create prototypes and build web applications.
+Claude Duet operates through its own virtual machine and browser, allowing it to execute tasks independently without requiring users to keep their computers or mobile devices switched on.
+Users can assign tasks through short messages, following which the agent determines the applications and steps required to complete them. It sends notifications once assignments are completed or require human intervention.
+Human approval remains mandatory for sensitive actions
+As AI companies increasingly develop products capable of executing tasks autonomously, Anthropic has introduced restrictions on the actions Claude Duet can undertake without explicit user consent.
+While the agent can independently read information, draft communications and prepare documents, it requires approval before sending messages, making payments, signing documents or deleting information.
+Certain financial activities, including securities trading and transferring money between accounts, remain prohibited even with user approval.
+Users can also revoke the agent's access to connected applications.
+Anthropic said it would continue strengthening the product's security, privacy and safety mechanisms as the research preview expands.
+The India rollout signals Anthropic's growing focus on AI-led workplace automation, with the company looking to extend Claude's capabilities beyond conversational assistance into continuous task execution and business workflow management.

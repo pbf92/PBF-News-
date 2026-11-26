@@ -1,0 +1,24 @@
+URL: https://www.ocacademy.in/blogs/telehealth-spontaneous-breathing-trials-teach-trial
+TITLE: Can Telehealth Accelerate Spontaneous Breathing Trials?
+OUTLET: OC Academy
+
+Internal Medicine
+Can Telehealth Accelerate Spontaneous Breathing Trials?
+Invasive mechanical ventilation saves lives during acute respiratory failure. However, prolonged ventilation increases complications such as pneumonia, delirium, and muscle weakness. Coordinated protocols pairing sedation cessation with spontaneous breathing trials accelerate liberation from the ventilator. Unfortunately, clinical teams often struggle to implement these protocols reliably in daily practice. Therefore, investigators evaluated whether remote telecritical care oversight could improve bedside protocol adherence.
+The TEACH Trial Design and Methodology
+The TEACH study evaluated clinical workflow improvements across 12 hospitals within Intermountain Health. Researchers conducted a cluster randomized hybrid effectiveness-implementation trial between 2022 and 2025. Specifically, the study enrolled mechanically ventilated adult patients admitted to participating intensive care units. Control hospitals maintained standard audit and feedback practices. In contrast, intervention hospitals added real-time oversight from remote telecritical care teams. Tele-ICU respiratory therapists and nurses monitored adherence continuously. Furthermore, these remote specialists prompted bedside clinicians when patients met trial eligibility criteria.
+Optimizing Spontaneous Breathing Trials Through telehealth
+The intervention produced a substantial increase in protocol compliance across participating units. Baseline adherence to paired awakening and spontaneous breathing trials stood at 43.9 percent. Notably, adherence surged to 90.3 percent in hospitals receiving telecritical care oversight. In comparison, control hospitals reached an adherence level of 77.6 percent. Statistical analysis revealed that telehealth oversight almost tripled the odds of protocol adherence. Consequently, the study demonstrated that active virtual coaching successfully closes implementation gaps. However, both groups achieved similar numbers of ventilator-free days at day 28. Hence, enhanced process compliance did not immediately translate into shorter ventilation duration.
+Clinical Takeaways for Indian Intensive Care Units
+These findings offer meaningful insights for critical care delivery in India. Many Indian tertiary centers already operate hub-and-spoke tele-ICU networks to support regional hospitals. Moreover, staffing constraints and high patient ratios frequently hinder bedside protocol execution. Telehealth surveillance provides an effective mechanism to standardize weaning pathways across decentralized units. Additionally, remote specialists can mentor junior nurses and respiratory therapists during morning rounds. Intensivists must recognize that audit and feedback alone improves performance significantly. Nevertheless, real-time remote nudges eliminate missed opportunities for extubation screening. Future programs should combine automated electronic alerts with tele-ICU coaching to optimize clinical outcomes.
+Frequently Asked Questions
+Q1: What defines a coordinated spontaneous awakening and breathing trial?
+A coordinated trial pairs daily sedative interruption with a spontaneous breathing trial. Clinicians conduct the breathing trial promptly after the patient awakens or before noon.
+Q2: Did telehealth oversight reduce mechanical ventilation duration in the TEACH trial?
+Although telehealth markedly increased protocol adherence, ventilator-free days remained comparable between groups. Therefore, clinicians must assess clinical readiness alongside strict protocol compliance.
+Q3: How can tele-ICU platforms support ventilator weaning protocols?
+Tele-ICU teams review ventilation parameters continuously. Furthermore, they provide real-time prompts to bedside staff, ensuring timely sedation pauses and spontaneous breathing trials.
+References
+- Grissom CK et al. Telehealth to Support Coordinated Spontaneous Awakening and Breathing Trials in Invasive Ventilation: The TEACH Cluster Randomized Clinical Trial. JAMA. 2026 Nov 25. doi: 10.1001/jama.2026.25197. PMID: 43082011.
+- Pronovost PJ. Toward Zero Harm for Patients Receiving Mechanical Ventilation—What Is Expected vs What Is Optional. JAMA. 2026 Nov 25. doi: 10.1001/jama.2026.25198.
+- Girard TD, Kress JP, Fuchs BD, et al. Efficacy and safety of a paired sedation and ventilator weaning protocol for mechanically ventilated patients in intensive care (Awakening and Breathing Controlled trial): a randomised controlled trial. Lancet. 2008;371(9619):126-134.

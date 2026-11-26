@@ -1,0 +1,18 @@
+URL: https://www.tradingview.com/news/seekingalpha:df62adab2094b:0-ibex-trueblue-lead-small-cap-industrial-stocks-on-quant-ratings/
+TITLE: IBEX, TrueBlue lead small-cap industrial stocks on quant ratings
+OUTLET: TradingView
+
+IBEX, TrueBlue lead small-cap industrial stocks on quant ratings
+As the earnings season winds down, investors are turning their attention to updated quant ratings following the latest round of corporate results. Seeking Alpha’s Quant Ratings system grades stocks on their relative performance across key quantitative metrics. It identifies stocks with the strongest combination of value, growth, profitability, EPS revisions, and price momentum relative to their sector peers. See how Strong Buy-rated stocks have performed vs. Wall Street analysts and the S&P 500.
+Below is a snapshot of small-cap industrial companies with market capitalizations below $2B, highlighting those with the highest and lowest Quant Ratings following the earnings season.
+Top-quant-rated stocks:
+IBEX IBEX, Quant rating: 4.96, Strong Buy
+TrueBlue TBI, Quant rating: 4.95, Strong Buy
+The Manitowoc Company MTW, Quant rating: 4.94, Strong Buy
+Park-Ohio Holdings PKOH, Quant rating: 4.83, Strong Buy
+Radiant Logistics RLGT, Quant rating: 4.77, Strong BuyBottom-quant-rated stocks:
+Ballard Power Systems BLDP, Quant rating: 1.07, Strong Sell.
+Fluence Energy FLNC, Quant rating: 1.13, Strong Sell.
+OIO OIO, Quant rating: 1.16, Strong Sell.
+newcleo plc NWCL, Quant rating: 1.17, Strong Sell.
+Xtend AI Robotics XTND, Quant rating: 1.18, Strong Sell.DisclaimerContent provided by Seeking Alpha is intended for information purposes only, and that Seeking Alpha does not offer any personalist investment advice and is not a licensed securities dealer, broker, US investment adviser or investment bank.

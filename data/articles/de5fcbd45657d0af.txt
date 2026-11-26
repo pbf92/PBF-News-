@@ -1,0 +1,58 @@
+URL: https://explainx.ai/blog/anthropic-messages-api-rust-shadowing-claude-agents-november-2026
+TITLE: Anthropic API Rust Migration: 70% Less CPU (Nov 2026)
+OUTLET: explainx.ai
+
+Anthropic published on November 25, 2026 how it moved the Messages API — the path behind Claude API, Claude Code, and Cowork traffic — from Python to Rust without a maintenance window. The company says the live Rust stack uses about 70% less CPU per request and cuts median time to first token by about 20% on charted Claude Code traffic, while feature work on Python continued through the migration. The hard part was not generating Rust code with Claude; it was proving parity on a moving target.
+This article explains what Anthropic’s research post says about shadow traffic, fingerprints, and Claude agent verification loops, how those numbers compare to earlier interview claims explainx.ai tracked in October, and what builders can reuse when they plan their own Python-to-Rust cutovers.
+Why Anthropic rewrote the Messages API at all
+Anthropic built the Messages API in 2023 as a thin Python forwarder. By late 2025, each call traversed validation, prompt conversion, tokenization, safety classifiers, streaming, tool-call parsing, and billing hooks — work Python paid for on every object allocation and handoff. Internal platform traffic grew sharply; Anthropic’s post includes a chart of monthly average API requests per day climbing through 2026 before the Rust cutover.
+Bar chart of Anthropic Messages API requests per day climbing through 2026 as traffic grew before the Rust migration Image: Anthropic
+An incremental fix — parsing model output in Rust but calling it from Python — trimmed only about 8–10% CPU, Anthropic writes, while making each token cross the language boundary three times. That mirrors lessons from other large Python-to-Rust stories explainx.ai has covered, including OpenAI’s Habitat rewrite and GitHub Copilot’s runtime move to Rust.
+By May 2026, Anthropic says more than 80% of merged code was written by Claude, which reframed the bottleneck: generation got cheap, but verification did not.
+Shadow traffic when tests cannot define “correct”
+Anthropic lists three sources of correctness: fixed rules (like a proof assistant), examples (test suites), or the existing production system as an oracle. The Messages API kept shipping new models and features, so the oracle moved. About 700 integration tests existed, but Anthropic reports they were coupled to Python mocks and incomplete across feature combinations — only about a quarter of production inputs matched at first, even when 98% of tests passed in April.
+Shadowing means running real requests through old and new code and comparing structured results. For Claude, two blockers appear immediately:
+- Billing and rate limits — you cannot execute the model twice per customer request.
+- Nondeterminism — identical prompts can yield different text, so naïve diff tools would treat model creativity as API bugs.
+Anthropic’s fix: run the model once, then replay its output through Python and Rust on the API path. The team compared every stage before and after the model call so a subtle prompt bug could not hide inside a still-plausible answer.
+Privacy-preserving diffs
+Because Anthropic would not read customer prompts or replies for this workflow, it logged shapes of differences — step names, prompt piece indexes, byte offsets, lengths — not raw text. Checkpointing found the first pipeline stage where Python and Rust diverged. Fingerprints combined step, piece, offset, and length deltas so one bug class produced the same signature across thousands of requests.
+Those records fed Claude agents without exposing user content — a pattern any regulated API team should study before copying wholesale.
+Verification loops: inner, outer, and memory
+Diagram of Anthropic Claude agent verification loops for Messages API Rust shadow migration Image: Anthropic
+Anthropic describes three nested loops:
+Inner loop (seconds)
+Agents work in cloud sandboxes with both codebases. Local checks build prompts or replay scripted model replies in under a second without calling Claude. An agent guesses a root cause from a fingerprint, writes a reproducing request, edits Rust until outputs match, and adds a test that fails on old code.
+Outer loop (hours to days)
+After human pull request review, fixes deploy to staging and production. Shadow traffic tracks whether each fingerprint disappears on new builds. When sandbox fixes pass but production shadowing still shows the signature, work returns to the inner loop.
+Memory loop (rules that persist)
+When engineers reject a shortcut — Anthropic’s example is hard-coding a web search tool description instead of calling the live internal service — the decision becomes a rule every later agent reads, a repo search for the same mistake, and often a lint or test. Review comments were also distilled into CLAUDE.md guidance and merge gates requiring Python changes to be mirrored in Rust.
+Anthropic’s Slack excerpt shows the tension plainly: a verifier can prove output match while humans still judge ship quality.
+What shipped: CPU, memory, and time to first token
+Charts showing Anthropic Messages API Rust migration cutting CPU about 70 percent and median time to first token about 20 percent Image: Anthropic
+Anthropic charts three production metrics as traffic shifted from Python (gray) to Rust (blue) between August and October 2026:
+- CPU per request — about 70% reduction at the measured region.
+- Memory per request — more than 80% reduction across production in the charted window.
+- Median time to first token — about 20% reduction on Claude Code requests in the labeled interval.
+Those numbers supersede the 40–50% CPU range Katelyn Lesse relayed on Latent Space before Anthropic’s engineering write-up. They still measure API orchestration, not GPU inference — your Claude bill is dominated by tokens, but Anthropic’s own serving cost per token dropped on the CPU side.
+Anthropic also notes ~1,800× growth in API traffic from early 2024 through fall 2026 on its platform chart — context for why Python overhead became existential, similar in spirit to OpenAI’s scale narrative on Habitat.
+What developers are saying
+The Hacker News thread on Anthropic’s post is small but technical:
+- hopfenspergerj argues prompt-building is a pure, fuzzable function and that including live LLM generation in migration tests would be a category error — aligned with Anthropic’s replay design, though the commenter frames it as obvious systems hygiene.
+- lordnacho says externalized testing against whatever AI outputs is believable coming from the lab that built the models.
+- hobofan calls the headline misleading because the article does not claim zero Rust developers — fair critique of syndicated titles, not of the engineering content.
+Use those reactions as peer review prompts, not as verified metrics.
+Lessons for teams planning AI-assisted rewrites
+Anthropic closes with principles that generalize beyond its stack:
+- Verification is the new bottleneck when Claude or other agents write most lines.
+- Design the verifier signal deliberately — checkpoints and fingerprints beat a single pass/fail bit.
+- Keep loops simple — agents choose hypotheses; verifiers judge outcomes; humans own product decisions.
+- Move humans toward outer loops as confidence rises — from hands-on debugging to rule-writing and architecture.
+If you are comparing agent harness investments, pair this story with Anthropic’s MCP download milestones and Claude Code workshop patterns: the platform team is optimizing marginal cost per API call while developer surfaces push faster first tokens.
+Practical checklist before you shadow production
+How this fits explainx.ai’s earlier claimed-vs-verified coverage
+In October 2026 explainx.ai published what Lesse claimed on a podcast versus what was documented. The November 25 research post is the primary engineering source many readers were waiting for: it confirms a larger CPU win, documents agent operations, and shows parity methodology in enough depth to copy selectively.
+Nothing in the post changes Claude model cards, safety policy, or public pricing tables on its own. Builders should read it as infrastructure evidence — evidence that Anthropic expects Claude agents to maintain mission-critical services, not only greenfield repos.
+Related on explainx.ai
+Official docs: Messages API reference · Anthropic research post
+Specifications and deployment figures reflect Anthropic’s November 25, 2026 publication date. Re-check Anthropic’s docs and status pages before planning production cutovers.

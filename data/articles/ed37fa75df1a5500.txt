@@ -1,0 +1,24 @@
+URL: https://www.indiatoday.in/technology/news/story/anthropic-loses-another-claude-code-engineer-to-openai-and-the-internet-is-asking-why-everyone-is-leaving-3047251-2026-11-26
+TITLE: Anthropic loses another Claude Code engineer to OpenAI, and the internet is asking why everyone is leaving
+OUTLET: India Today
+
+Anthropic loses another Claude Code engineer to OpenAI, and the internet is asking why everyone is leaving
+Another key engineer behind Anthropic's Claude Code has jumped ship to OpenAI, leaving the tech world wondering what is happening inside the company.
+The battle for top AI talent in Silicon Valley has taken another big turn. Thariq Shihipar, a well-known engineer who helped build Anthropic’s popular Claude Code tool, has announced that he is joining rival OpenAI.
+Shihipar confirmed the move in a post on X, just days after the X account @ArfurGrok first reported the news on November 24. The same account had also spotted his Anthropic exit hours before he made it public.
+What Thariq Shihipar said about joining OpenAI
+In his announcement, Shihipar praised his former company while explaining why he made the switch.
+“I’ve joined OpenAI! I’m very proud of my time at Anthropic, and I’ll continue to root for my former colleagues. Both companies have important roles to play in the future,” he wrote.
+He added that bringing AI to the world requires a massive effort and that he felt he could contribute the most at OpenAI. Calling the movement of people and ideas “one of the great strengths of Silicon Valley,” Shihipar said he is excited to build AI products for over a billion people.
+He also named several friends he will be working with at OpenAI, including Cat Wu, Thibault Sottiaux, Andrew Ambrosino, Sharif Shameem, and Jason Liu. “More than anything, I hope to make your experience of using AI just a little bit better. I am once again at your service,” he signed off.
+Why his exit is a big loss for Anthropic
+Shihipar brought a strong track record to Anthropic. After studying engineering science at the University of Toronto, he co-founded Chime, a notification plugin bought by HubSpot in 2013. He later worked at the MIT Media Lab, where he co-founded the non-profit publishing platform PubPub, before launching Multiverse, a Y Combinator-backed gaming startup that reached one million users and raised $17.5 million.
+He joined Anthropic’s Claude Code team in 2025 after trying the tool around the Opus 4 launch. There, he worked on key features like the skills system, context engineering, dynamic agent workflows, the AskUserQuestion tool, and the Claude Agent SDK. Outside of Claude Code creator Boris Cherny, Shihipar was widely seen as the public face of the product, talking to developers daily and fixing bugs in public.
+Who else is leaving Anthropic for OpenAI?
+Shihipar left Anthropic on October 24 after over a year on Claude Code, saying he still believed in the mission and wanted a break. However, he is not the only one who walked out.
+Other core Claude Code builders, including Cat Wu, Anthony Morris, and Austin Lau, also left the company. Cat Wu is already at OpenAI, where Thibault Sottiaux runs OpenAI’s rival coding platform, Codex.
+According to X user, Anthony Morris, who built the Claude Code desktop app and left on the exact same day as Shihipar, also reportedly moved to OpenAI a week earlier. All of these exits unfolded around a turbulent moment for Anthropic, which completed its IPO on November 19 only to see its stock drop below its offering price four days later.
+Why is everyone leaving?
+The wave of exits has left the tech world puzzled. Anthropic was originally founded by former OpenAI staff who wanted a stricter focus on AI safety.
+Reacting to Shihipar’s post on X, well-known tech writer Gergely Orosz wrote, “Strange to see so many folks from Anthropic join OpenAI. For years my sense was that those at Ant thought they took safety far more seriously and most at Ant thought OpenAI wasn’t aligned enough on this. So either OpenAI cares as much about safety as Ant now, or”
+Another observer, summed up the talent shuffle like a scoreboard: SpaceX has poteto, Meta has Wang, Cognition has Nader, and OpenAI now has Thibault Sottiaux and Thariq Shihipar. Their blunt question echoed what many in tech are now thinking: “Who does Anthropic have?”

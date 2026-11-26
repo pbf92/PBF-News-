@@ -1,0 +1,34 @@
+URL: https://wisevoter.com/world/us/2026/11/26/flu-covid-coinfection-rare-us-pharmacy-testing
+TITLE: Study Finds Flu and COVID Coinfection Is Rare
+OUTLET: Wisevoter
+
+Study Finds Flu and COVID Coinfection Is Rare
+Researchers found fewer than 0.1% of people tested at U.S. pharmacies had both SARS-CoV-2 and influenza.
+Updated on Nov. 26, 2026 in Diseases — General
+Live Poll
+Would you get tested at a pharmacy if you had flu-like symptoms this season?
+A retrospective cohort study of 817,834 people tested at a large U.S. pharmacy chain found that 665 tested positive for both SARS-CoV-2 and influenza viruses, a prevalence of 0.081%. The study was published online in JAMA Network Open on November 18, 2026.
+Why it matters
+Coinfection with both viruses is uncommon in this testing population, but the findings show that patients with both infections were rarely treated for either virus. That gap points to a potential missed opportunity to match people with antiviral therapy when they are most likely to benefit.
+Of 665 coinfected participants, 3.9% were treated for COVID and 4.4% for influenza, and 63.9% of 144 symptomatic coinfected participants had no comorbidities. Only the rate of antiviral treatment among these patients is reported, and the reasons behind it remain unexplained.
+The players
+JAMA Network Open
+A peer-reviewed open-access medical journal published by the American Medical Association that makes research available online without subscription.
+Centers for Disease Control and Prevention
+The U.S. federal public health agency headquartered in Atlanta that tracks infectious diseases and publishes surveillance and research on respiratory viruses.
+The details
+Researchers used data from the Increasing Community Access to Testing, Treatment, and Response program and ran multiplex tests for SARS-CoV-2 and influenza A and B at a large pharmacy chain. Testing covered participants across all 50 states, the District of Columbia, and Puerto Rico between September 2023 and May 2025.
+Timeline
+- September 2023: Multiplex testing period begins at the pharmacy chain.
+- May 2025: Multiplex testing period ends at the pharmacy chain.
+- November 18, 2026: Study is published online in JAMA Network Open.
+Health Landscape
+Pharmacy-based testing programs like the Increasing Community Access to Testing, Treatment, and Response initiative have produced large datasets that let researchers examine how respiratory viruses are diagnosed and treated at population scale. This study adds evidence about coinfection rates and antiviral use within that broader shift toward community-level testing and treatment.
+Patients with symptoms of both COVID-19 and influenza should ask a clinician whether testing for both viruses is appropriate, since antiviral options exist for each. The study suggests that people with coinfection may not be receiving treatment, so raising the question directly at a visit or pharmacy consultation can help ensure timely care.
+The takeaway
+Coinfection with SARS-CoV-2 and influenza is uncommon in this population, but the low antiviral treatment rate among those who had both viruses shows that testing alone is not enough. Clinicians and patients should confirm that treatment plans address every infection a person has.
+Further reading
+For related context, browse the Diseases — General section.
+Source note: This article includes information reported by Medscape.
+Live Poll
+Would you get tested at a pharmacy if you had flu-like symptoms this season?

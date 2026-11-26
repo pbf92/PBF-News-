@@ -1,0 +1,79 @@
+URL: https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/bulletins/youngpeoplenotineducationemploymentortrainingneet/november2026
+TITLE: Young people not in education, employment or training (NEET), UK: November 2026
+OUTLET: Office for National Statistics
+
+- Estimates from January to March 2025 include the full effect of the improvements in Labour Force Survey (LFS) data collection and sampling methods introduced from January 2024 onwards.
+- Some volatility remains in the LFS estimates, particularly those for mid-2023 and throughout 2024, as well as for granular breakdowns in which sample sizes are smaller, such as estimates of young people not in education, employment or training (NEET).
+- There were an estimated 959,000 young people aged 16 to 24 years in the UK who were NEET in July to September 2026; this number increased by 17,000 when compared with July to September 2025 but was down by 22,000 from April to June 2026.
+- The percentage of all young people in the UK who were NEET in July to September 2026 was 12.7%; this proportion remained largely unchanged on the year from July to September 2025, but down by 0.3 percentage points from April to June 2026.
+Estimates from January to March 2025 include the full effect of the improvements in Labour Force Survey (LFS) data collection and sampling methods introduced from January 2024 onwards. Since then, further changes that were introduced to help increase response levels may have an ongoing impact on the survey. Some volatility remains, particularly for estimates for mid-2023 and throughout 2024, as well as for granular breakdowns, in which sample sizes are smaller.
+For example, we can consider estimates of redundancies or estimates of young people not in employment, education or training. Both concepts focus on much smaller population subgroups compared with the headline rates. Therefore, both are more vulnerable to the effects of higher sampling variability, despite improved sample sizes. We advise users to use caution when drawing conclusions from short-term changes, and to focus on long-term movements in the data.
+Back to table of contents
+An estimated 12.7% of all people aged 16 to 24 years in the UK were not in education, employment or training (NEET) in July to September 2026. This remained largely unchanged on the year, but down by 0.3 percentage points compared with April to June 2026.
+An estimated 12.5% of young men were NEET, down by 0.8 percentage points on the year, and down 1.3 percentage points on the quarter. Of young women, an estimated 12.9% were NEET, which is up 1.0 percentage point on the year and up 0.6 percentage points on the quarter.
+There were 959,000 young people who were NEET in July to September 2026, an increase of 17,000 on the year, but a decrease of 22,000 on the quarter. This increase was because of young women, with an increase of 41,000 on the year, while young men saw a decrease of 24,000 on the year. Of the total number of young people who were NEET, 483,000 were young men and 476,000 were young women.
+The total number of people aged 18 to 24 years who were NEET was 867,000, down 14,000 on the year and down 28,000 on the previous quarter.
+The percentage of all those aged 18 to 24 years who were NEET was 14.6%, which was down on both the year and the quarter by 0.5 percentage points.
+Figure 1: The percentage of young people who are not in education, employment or training (NEET) was largely unchanged over the year (July to September 2026) [Note 1]
+People aged 16 to 24 years who are NEET, as a percentage of all people aged 16 to 24 years, by age, seasonally adjusted, UK, January to March 2019 to July to September 2026
+Source: Labour Force Survey (LFS) from the Office for National Statistics
+Notes:
+- Given the volatility of LFS estimates, we advise users to use caution when drawing conclusions from short-term changes, and to focus on long-term movements in the data.
+Download this chart Figure 1: The percentage of young people who are not in education, employment or training (NEET) was largely unchanged over the year (July to September 2026) [Note 1]
+Image .csv .xls
+Unemployed young people who were not in education, employment or training
+There was an estimated 363,000 young people NEET aged 16 to 24 years who were unemployed in July to September 2026. This was down by 5,000 from July to September 2025, and down by 30,000 from April to June 2026.
+An estimated 222,000 of these unemployed young people NEET were young men, and 141,000 were young women. The number of NEET men aged 16 to 24 years who were unemployed decreased by 18,000 from July to September 2025. The number of NEET women aged 16 to 24 years who were unemployed increased by 13,000 on the year.
+Economically inactive young people who were not in education, employment or training
+There were an estimated 596,000 economically inactive young people aged 16 to 24 years who were NEET in July to September 2026. This was up by 22,000 on the year from July to September 2025, and up by 8,000 on the quarter from April to June 2026.
+The number of young men who were NEET and economically inactive was 261,000, and the corresponding number of young women was 335,000. The total increase of 22,000 on the year was because of an increase of 28,000 in young women, while young men saw a decrease of 6,000, from July to September 2025.
+Subnational not in education, employment or training estimates
+We are responsible for NEET statistics for the UK, published in this release. Estimates of the number of young people who are NEET within UK countries and for subnational areas are the responsibility of the Department for Education for England and of each devolved government. More information on the availability of subnational estimates of young people who are NEET is available in Section 7: Related links.
+Back to table of contents
+Young people not in education, employment or training (NEET)
+Dataset | Released 26 November 2026
+Quarterly estimates for young people (aged 16 to 24 years) who are not in education, employment or training (NEET) in the UK. These are official statistics. 
+Sampling variability for estimates of young people not in education, employment or training (NEET)
+Dataset | Released 26 November 2026
+Labour Force Survey (LFS) quarterly sampling variability estimates for young people (aged 16 to 24 years) who are not in education, employment or training (NEET) in the UK. These are official statistics. 
+Young people
+For this release, young people are defined as those aged 16 to 24 years. Estimates are also produced for the age groups 16 to 17 years and 18 to 24 years by sex, and separately for the age groups 18 to 20 years, 21 to 22 years, and 23 to 24 years.
+Education and training
+People are considered to be in education or training if they:
+- are enrolled on an education course and are still attending or waiting for term to start or restart
+- are doing an apprenticeship
+- are on a government-supported employment or training programme
+- are working or studying towards a qualification
+- have had job-related training or education in the last four weeks
+Young people not in education, employment or training (NEET)
+Anybody who is not in any of the forms of education or training previously listed and not in employment is considered to be not in education, employment or training (NEET). As a result, a person identified as NEET will always be either unemployed or economically inactive.
+Economic inactivity
+People not in the labour force (also known as economically inactive) are not in employment, but do not meet the internationally accepted definition of unemployment because they have not been seeking work within the last four weeks and/or they are unable to start work in the next two weeks.
+Employment
+Employment measures the number of people in paid work, or those who had a job that they were temporarily away from (for example, because they were on holiday or off sick). This differs from the number of jobs because some people have more than one job.
+Unemployment
+Unemployment measures people without a job who have been actively seeking work within the last four weeks and are available to start work within the next two weeks.
+A more detailed glossary is available in our guide to Labour Market Statistics.
+Back to table of contents
+This statistical bulletin contains estimates for young people who were not in education, employment or training (NEET) in the UK. The bulletin is published quarterly in February or March, May, August and November. All estimates discussed in this statistical bulletin are for the UK and are seasonally adjusted.
+Statistics in this bulletin are used to help monitor progress towards the Sustainable Development Goals (SDGs). Explore the UK data on our SDGs reporting platform.
+Background information that explains how missing information for identifying someone as NEET is appropriated based on individual characteristics can be found in our Young people not in education, employment or training (NEET), UK: May 2022 methodology.
+Official statistics
+Since late 2023, we have taken a series of actions to recover the Labour Force Survey (LFS) and improve its quality, including:
+- returning to face-to-face interviewing
+- increasing respondent incentives
+- reinstating the sample boost
+- recruiting additional interviewers
+- updating the survey weighting
+These measures have improved response levels from their lowest point to levels similar to those before the coronavirus (COVID-19) pandemic.
+On 11 August 2026, the Office for National Statistics (ONS) wrote a letter to the Office for Statistics Regulation about the designation of LFS and APS outputs. Outputs derived from the LFS and Annual Population Survey (APS) are official statistics. The ONS will not be seeking reaccreditation. Instead, our priority is for outputs based on the Transformed Labour Force Survey (TLFS), as the online-first sustainable replacement for the LFS and APS, to achieve the standards required to become accredited official statistics, and for the Office for Statistics Regulation (OSR) to consider their accreditation at the earliest opportunity.
+Our LFS quality update article provides users with information about current response rates and known biases in LFS data. This is to help them better understand the current quality of the data.
+An operational error occurred in May 2026, which led to temporary under-resourcing in LFS telephone collection operations. Our analysis to date indicates that the error had a minimal impact on the headline estimates. However, it does suggest that there is a small but noticeable impact on the estimates of average hours and, therefore, the total actual hours worked.
+The dataset size, including imputed households, for the UK LFS was 80,271 individuals in July to September 2026, a decrease of 1.1% in individual interviews compared with April to June 2026. During July to September 2026, mitigative actions for the operational issue led to a recovery in the affected response rates. However, as a consequence of LFS imputation rules, a second-wave impact was observed in July to September 2026, with a slight decrease in overall dataset size. More information is available in our LFS performance and quality monitoring report: July to September 2026 methodology.
+More quality and methodology information (QMI) on strengths, limitations, appropriate uses, and how the data were created is available in our LFS QMI.
+Coronavirus (COVID-19)
+Read more about how the labour market data sources are affected by the coronavirus pandemic in our Coronavirus and the effects on UK labour market statistics article.
+For a comparison of our labour market data sources and the main differences, read our Comparison of our labour market data sources methodology.
+Relationship to other labour market statistics for young people
+Our monthly Labour market statistical bulletin includes the dataset A06: Educational status and labour market status for people aged from 16 to 24. The NEET statistics and the dataset A06 statistics are both derived from the LFS and use the same labour market statuses; however, the educational statuses are derived differently.
+For dataset A06, the educational status is based on participation in full-time educat

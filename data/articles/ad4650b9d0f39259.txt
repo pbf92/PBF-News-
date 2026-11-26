@@ -1,0 +1,36 @@
+URL: https://www.aap.com.au/factcheck/discredited-study-used-to-reheat-fears-about-covid-vaccines/
+TITLE: Discredited study used to reheat fears about COVID vaccines
+OUTLET: www.aap.com.au
+
+WHAT WAS CLAIMED
+A newspaper article reports on a BMJ study that found COVID-19 vaccines may have led to an increase in excess deaths.
+OUR VERDICT
+Misleading. The article was published in 2024 and the study has since been retracted for misinformation.
+AAP FACTCHECK - A newspaper story about a study raising concerns about possible links between COVID-19 vaccines and excess deaths is being shared online, but the story is two years old and the study has since been discredited and retracted.
+The study was published in the BMJ Public Health journal on June 3, 2024, and raised concerns about an increase in excess deaths between 2020 and 2022.
+However, the journal retracted the study in August 2026, describing it as "misinformation" that lacked balance and rigour.
+The digital version of the newspaper article, originally published by Britain's The Daily Telegraph on June 5, 2024, has been updated with an editorial note saying the study's conclusions are no longer considered valid.
+Despite this, an American user posted a photo of the newspaper article to X on November 21, misleadingly labelled: "BREAKING FRONT PAGE TELEGRAPH".
+It did not mention that the newspaper article was from 2024 or that the study had been retracted.
+The post has since appeared across Facebook, including from Australian users.
+The 2024 newspaper article, headlined 'Covid jabs may be to blame for increase in excess deaths', described a Dutch study that analysed all-cause mortality data in 47 countries, based on figures from non-profit website Our World in Data.
+The study did not directly say COVID vaccines caused a rise in excess deaths, but noted that elevated death counts occurred at the same time vaccines and containment measures were used (page 1).
+It concluded that the correlation between COVID prevention measures and excess deaths raised "serious concerns" and urged policymakers to investigate further (page 1).
+Three of the study's four authors were child cancer specialists, while the fourth was listed as an "independent researcher".
+Reporting on the study in 2024, The Daily Telegraph article said the researchers had suggested COVID vaccines "could be partly to blame for the rise in excess deaths since the pandemic".
+However, six days after the newspaper story was published, on June 11, 2024, the institution that employed three of the study's authors, a Dutch children's cancer research hospital called the Princess Maxima Center, issued a statement distancing itself from the paper.
+It said the research was originally intended to examine the effect of COVID measures on the mortality rate of children with cancer in low-income countries, but during the study, it had shifted its focus outside the institution's expertise.
+"We are not experts in epidemiology, nor do we want to give that impression," the statement said.
+"The study in no way demonstrates a link between vaccinations and excess mortality; that is explicitly not the researchers' finding. We therefore regret that this impression has been created."
+Three days later, on June 14, 2024, BMJ Public Health issued an "expression of concern" notice about the study, noting the Princess Maxima Center was investigating the "scientific quality" of the research.
+"Readers should also be alerted to misreporting and misunderstanding of the work," the notice said.
+"It has been claimed that the work implies a direct causal link between COVID-19 vaccination and mortality. This study does not establish any such link.
+"The researchers looked only at trends in excess mortality over time, not its causes.
+"The research does not support the claim that vaccines are a major contributory factor to excess deaths since the start of the pandemic."
+The Princess Maxima Center's subsequent investigation concluded the researchers had not investigated the causes of excess mortality, yet paid "disproportionate attention to the possibility that introduction of corona measures and vaccination might have caused excess mortality, whilst largely ignoring alternative explanations".
+On August 11, 2026, BMJ Public Health formally retracted the study, meaning its findings and conclusions were no longer considered reliable.
+The retraction notice said the decision was made because of "misinformation in the discussion regarding the possible causes of excess mortality, and because the limited nature of the original work by the authors was not sufficiently described".
+The retraction notice also said the Princess Maxima Center and two of the four authors had requested the study be retracted "due to concerns about misinterpretation of the paper by others and subsequent public health risk".
+On August 14, 2026, The Daily Telegraph added an editorial note to the digital version of the news story that read: "We have retained this article online for archive records, but readers should note that the underlying paper has been formally retracted by the journal and its conclusions are no longer considered valid."
+AAP FactCheck has previously debunked many claims that misleadingly link COVID vaccines to excess deaths.
+AAP FactCheck is an accredited member of the International Fact-Checking Network. To keep up with our latest fact checks, follow us on Facebook, Instagram, Threads, X, BlueSky, TikTok and YouTube.

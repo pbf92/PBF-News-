@@ -1,0 +1,26 @@
+URL: https://www.gamingbible.com/news/platform/playstation/ps5-gta-6-shutdowns-768761-20261126
+TITLE: PS5 users report 'increased sudden shutdowns' while playing GTA 6, three major errors noted
+OUTLET: GAMINGbible
+
+More PS5 users are reporting shutdowns and other technical issues with their consoles after playing Grand Theft Auto VI.
+Yesterday we reported on some users allegedly experiencing technical issues with their PlayStation 5 consoles after playing GTA VI.
+In a small number of cases, the PS5 would hang up while playing the game, and then display an error code and shutdown. Some users also reported the game bricking their consoles, with them having to take it in for repairs.
+"We’re seeing more PS5s come into the shop with reports of sudden shutdowns," writes X user Modyfikator89, a 'console & controller technician'.
+Advert
+"This one repeatedly shut off during GTA VI, according to its owner. We can now read a from any PS5’s total runtime down to the minute. This one had 235 days, 10 hours and 37 minutes on the clock."
+The user noted three major errors being shown by the EMC log:
+- Main SoC Access Error (The console had trouble communicating with its main processor chip.)
+- APU VRM Power Fail (The circuitry that supplies power to the processor reported a fault.)
+- SSD Controller Watchdog Error (The console’s storage controller stopped responding for long enough to trigger a warning. A “watchdog” is a system monitor that flags when something has stopped responding.)
+Each of the seven APU power fault entries were also followed by an SSD watchdog entry.
+Read More: GTA 6 drops bonus PlayStation Plus benefit as 'plays best on PS5' campaign continues
+Is Grand Theft Auto VI cooking some PS5s?
+It's unlikely that GTA VI is the sole culprit for these shutdowns. However, we did reach out to Rockstar Games and Sony for comment and haven't heard back.
+The reality of it is that most of these issues are probably arising due to a structural issue inside the console, exacerbated by poor conditions these consoles may be kept in.
+I've got about 25 hours of the game logged on my launch day PlayStation 5, and I can't say that I've experienced any of these issues so far. Admittedly, I don't clean the console as much as I should, but the system is in a well-ventilated spot in my living room.
+Therefore, Grand Theft Auto VI is not necessarily the cause of these issues, as software cannot do this to hardware. But given how demanding the game appears to be, it could be more a case of the console running too hot and accelerating the degradation of its inner parts.
+If you want to make sure your PS5 is well-equipped to survive until the PlayStation 6 comes out, we'd recommend making sure your console is in a well-ventilated location in your house. Avoid putting it inside a TV unit with no space for hot air to be quickly expelled at the back, and also make sure you open it up and give it a quick clean every six months or so.
+Some people recommend laying the PS5 flat instead of vertically, claiming that vertical PS5s displace the liquid metal that it uses for cooling. However, this is a myth that has been disproven before, and there is no evidence to suggest having your PlayStation 5 standing vertically will accelerate the degradation of your hardware.
+Also be sure to take regular breaks from the game. This won't just help preserve your PS5's lifespan, but it'll also be good for your own health to get away from the screen. Official health guidelines recommend taking a 5-15 minute break from a screen for every hour of use, and also using that time to get up and do some stretches.
+Read More: PS5 overheating: How to fix it and keep your console cool
+Topics: PlayStation 5, Rockstar Games, GTA 6, GTA, Grand Theft Auto

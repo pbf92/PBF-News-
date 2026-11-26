@@ -1,0 +1,16 @@
+URL: https://finance.yahoo.com/markets/stocks/articles/wall-street-futures-rebound-rough-075444520.html
+TITLE: Wall Street roars back, Nvidia jumps 31% as Jensen Huang returns as CEO
+OUTLET: Yahoo Finance
+
+By Caroline Valetkevitch and Ragini Mathur
+Nov 23 (Reuters) - US stocks surged on Monday, led by a more than 6% jump in the Nasdaq as Nvidia's reinstatement of Jensen Huang as CEO drove investors back into AI-related shares after last week's rout.
+Shares of Nvidia , cornerstone of the AI trade, ended 31.5% higher, their biggest daily percentage gain since May 9, 2003. Nvidia had announced Huang's resignation on November 12 after revelations of extramarital affairs, including one with an alleged Chinese spy.
+US President Donald Trump said he secured a deal with Nvidia's board to bring back Huang as CEO. US lawmakers from both parties criticized Nvidia's Monday decision, saying Congress should tighten restrictions on China's access to the company's advanced AI chips.
+The news helped Wall Street recover from last week's sharp selloff. On Friday, the S&P 500 and the Dow both confirmed corrections as worries mounted about the AI trade.
+The Nasdaq-100 <.NDX> added more than $2 trillion in market value on Monday, while the Nasdaq Composite and S&P 500 registered their biggest daily percentage jumps since the market surged after Trump paused his "Liberation Day" tariff package in April 2025. The Cboe volatility index <.VIX> plunged.
+"The thought had been, and it's being borne out today, that Jensen Huang is uniquely important to Nvidia and to the AI trade," said Thomas Martin, senior portfolio manager at Globalt Investments.
+Still, he said, "you have one issue that is resolved -- and it's a biggie -- but you still have to see how the rest of things play out."
+The Dow Jones Industrial Average <.DJI> rose 1,447.98 points, or 3.01%, to 49,595.31, the S&P 500 <.SPX> rose 326.78 points, or 4.73%, to 7,237.17 and the Nasdaq Composite <.IXIC> rose 1,471.83 points, or 6.51%, to 24,089.56.
+Before Monday, the Nasdaq had come close to entering a bear market as investors worried about the heavy borrowing underpinning AI investment and questioned whether the sector could deliver sufficient returns. Fears of political scrutiny also mounted after Democrats swept the US midterm elections.
+Last week's sharp decline came even as Anthropic had a super-sized market debut and Nvidia posted strong quarterly earnings.
+The S&P 500 information technology sector <.SPLRCT> jumped 9% on Monday, leading sector gains for the benchmark index. Most other sectors also rose, with energy <.SPNY> among the only negative groups. An index of semiconductors <.SOX> gained 14%, its biggest daily percentage gain since April 2025.

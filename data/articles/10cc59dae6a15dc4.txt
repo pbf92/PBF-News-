@@ -1,0 +1,14 @@
+URL: https://finance.biggo.com/news/6838d0cb-2232-4067-aa8f-de0a4e57e1e7
+TITLE: Minecraft Creator Notch Offers to Pay Anthropic for More Tokens, Faster Claude
+OUTLET: BigGo Finance
+
+Minecraft Creator Notch Offers to Pay Anthropic for More Tokens, Faster Claude
+Markus Persson, the billionaire programmer who built Minecraft, is asking Anthropic for a bigger and faster allocation of Claude capacity and says he is prepared to pay for it.
+In a post on X on Monday, the developer widely known as "Notch" addressed the company directly: "Yo, any chance I could get more unlimited token usage and perhaps even more speed?" He added, "I've got the money to burn, and I'd love to exchange it for better goods and services. And I'm building new shit that I've never seen before."
+Persson also endorsed the company's stated position on AI development, writing, "I agree with your AI manifesto, btw." Elon Musk responded to the thread with a laughing emoji.
+Anthropic did not respond to a request for comment on the proposition.
+The appeal marks a reversal for Persson, who spent much of the past year publicly skeptical of AI-assisted programming. Early in 2026 he described the practice as an "incredibly bad idea still" and said anyone promoting it was "either incompetent or evil." By July he had begun experimenting with AI coding tools, and a month later he suggested it might be time to "eat some crow."
+In an August post, he framed his hesitation in career terms: "One of the reasons I don't want to embrace this AI thing too much is that I'd prefer to stay a developer and not become middle management."
+Persson's request highlights a pressure point for frontier AI labs: paying customers who exhaust usage limits can be throttled or slowed even when they are willing to spend more. For developers running long coding sessions, token ceilings and latency can interrupt work in progress, making access tiers, not price, the binding constraint. How Anthropic handles requests from high-spending individual users could shape expectations for its enterprise and prosumer offerings as competition for heavy users intensifies across the industry.
+Once added, BigGo Finance appears first in Google Search Top Stories, so you get the broadest, most up-to-the-minute, and most comprehensive global financial news first.
+Add preferred source

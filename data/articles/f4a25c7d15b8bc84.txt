@@ -1,0 +1,92 @@
+URL: https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/bulletins/longterminternationalmigrationprovisional/yearendingjune2026
+TITLE: Long-term international migration, provisional: year ending June 2026
+OUTLET: Office for National Statistics
+
+Long-term immigration is where an individual moves to the UK for 12 months or more; long-term emigration is where an individual leaves the UK for 12 months or more. Long- term net migration is long-term immigration minus long-term emigration.
+Long-term net migration
+Our provisional estimates show long-term international net migration stood at 77,000 in year ending (YE) June 2026 and has more than halved compared with YE June 2025 (updated to 204,000). Excluding the coronavirus (COVID-19) pandemic, when international travel restrictions were in place, this is the lowest recorded net migration estimate since 1997 (when we used surveys to measure migration rather than administrative data).
+While people arriving from outside the EU continued to add to the population, non-EU+ provisional net migration fell to 258,000 in YE June 2026, down from 379,000 a year earlier.
+The fall in the net migration of non-EU+ nationals was the main reason for the latest decrease in overall net migration. It was driven by non-EU+ immigration falling by more than 100,000, while emigration remained broadly stable. Compared with YE June 2025, non-EU+ arrivals for work-related reasons fell by 45,000, asylum-related reasons fell by 19,000 and study-related reasons fell by 33,000.
+Unlike non-EU+ nationals, more British and EU+ nationals left the UK long term than arrived. Provisional net migration for British nationals remained broadly stable at negative 137,000, while EU+ net migration was negative 45,000 and has been negative since YE June 2022.
+In our latest figures, because updated data was unavailable, British estimates are based on an extended 15-month projection, which is longer than we would usually use to produce these estimates. This means they are subject to greater uncertainty and revision. More information is available in Section 6: Updates to estimates.
+Long-term immigration
+- The provisional estimate for total long-term immigration in YE June 2026 is 738,000, a decrease of 17% from the updated YE June 2025 estimate of 893,000; this continues a downward trend in our long-term immigration estimates from the peak at 1,469,000 in YE March 2023.
+- Most people immigrating into the UK in YE June 2026 were non-EU+ nationals, provisionally estimated at 550,000, a decline from 671,000 in YE June 2025.
+- When looking at the reasons for immigration of non-EU+ nationals in YE June 2026, 47% came for study-related reasons, 25% for work-related reasons, and 13% were for asylum-related reasons.
+- The immigration of EU+ and British nationals in YE June 2026 has remained broadly stable, provisionally estimated at 79,000 and 109,000, respectively.
+Long-term emigration
+- The provisional estimate for total long-term emigration in the most recent period is 661,000.
+- Long-term emigration has been increasing since 2022 but was broadly stable with our updated YE June 2025 estimate of 689,000.
+- In YE June 2026, 292,000 non-EU+ nationals left the UK, remaining broadly stable compared with the previous year; around 53% of these originally arrived with study-related visas.
+- Emigration of EU+ nationals declined to 124,000, down by 15% from the updated YE June 2025 estimate of 145,000.
+- In YE June 2026, an estimated 245,000 British nationals left the UK, remaining broadly stable in the last five years.
+The latest Registration and Population Interaction Database (RAPID) data were unavailable for this release. As a result, British national estimates are subject to greater uncertainty than usual. Please see Section 6: Updates to estimates.
+Figure 1: Net migration was 77,000 in year ending June 2026
+Long-term immigration, emigration and net migration of non-EU+, EU+ and British nationals, year ending (YE) June 2026
+Embed code
+Notes:
+- Please see chart notes 1 to 4 and 6 to 7 in Section 9: Quality, methods and data sources.
+Updates to estimates
+For this release, we have more available and updated Home Office data for EU+ and non-EU+ nationals. This means we get a more complete picture of travel behaviour, which we incorporate into our estimates.
+Alongside this, we have also improved how we categorise non-EU+ nationals with dependant joiner visas, allowing them to be more accurately classified as either work or study dependants. This change affects the breakdown by reason for migration but not overall totals.
+We are working with the Department for Work and Pensions (DWP) to obtain updated Registration and Population Interaction Database (RAPID) data for estimating British national migration. In the meantime, we have projected YE December 2025 estimates from our May 2026 release forward to YE June 2026 using a model informed by timelier EU+ migration data. We will update the estimates in our next release.
+The way we measure uncertainty has changed for this release and will apply to all releases from now on, as we have implemented revision-based intervals for non-EU+, EU+ and total estimates. This method illustrates how modelling revisions can provide information to users on the stability of current long-term international migration (LTIM) estimates, through predicting a likely revision range based on the trends and patterns of previous revisions. British national uncertainty remains simulation-based for this release, as they are the most recent group to undergo methodology changes.
+More information on these updates is available in Section 6: Updates to estimates.
+Back to table of contents
+With these statistics, you can:
+- explore our new provisional estimates of net migration, immigration and emigration for the latest two time periods: year ending (YE) March 2026 and YE June 2026
+- download the time series for YE June 2012 to June 2026, including standard revisions for YE March 2025 to YE December 2025
+- compare historic time series for EU+ and non-EU+ nationals with caution because of changes to methods and updated data from YE June 2021
+- use the uncertainty estimates in our accompanying dataset to understand the likely range within which LTIM estimates could be revised
+With these statistics, you cannot:
+- treat British national migration estimates as directly comparable across all periods; estimates from YE June 2021 are not comparable with those for earlier periods because of substantial methodological changes; estimates for YE March 2026 and YE June 2026 are modelled projections subject to greater uncertainty, so comparisons with earlier periods should be interpreted with caution
+- add the most recent estimates to a time series from previous releases; as a result of revisions, the full time series associated with this release should be used
+- compare revision-based intervals with previously published uncertainty intervals, as the new revision-based intervals capture more sources of uncertainty beyond the adjustments made to LTIM estimates
+- use revision-based intervals to assess the accuracy of LTIM estimates, as they are provided to help users understand the stability of current estimates
+- use non-EU family migration estimates alone to inform decisions, because of some ongoing data investigations in this breakdown
+The latest figures are provisional and typically remain so for a year, when updated data allow us to replace them with more complete estimates.
+More information on the complexity of measuring migration and why we revise provisional data is available in our article, What is international migration and how do we estimate it?
+Our estimates have been rounded to the nearest thousand. Most calculations (including percentages) are done on unrounded numbers, so totals may not equal the sum of individual parts.
+Back to table of contents
+Net migration is the difference between long-term immigration (people coming to the UK) and emigration (people leaving the UK).
+In this statistical article, long-term migration refers to people moving to or from the UK for 12 months or more, in line with the United Nations (UN) definition.
+Figure 2: Long-term net migration continues to fall
+Total long-term net migration, immigration and emigration in the UK, year ending (YE) June 2012 to YE June 2026
+Embed code
+Notes:
+- Please see chart notes 1 to 4, 6 to 7 and 11 to 14 in Section 9: Quality, methods and data sources.
+The line chart in Figure 2 shows that net migration has fallen since its peak of 944,000 in year ending (YE) March 2023. In YE June 2026, it was provisionally estimated at 77,000.
+Excluding the coronavirus (COVID-19) pandemic, when international travel restrictions were in place, this is the lowest recorded net migration estimate since 1997 (when we used surveys to measure migration rather than administrative data).
+The chart includes new and in development revision-based intervals (90%) from YE June 2022. These intervals are produced based on previous revisions and aim to show a range in which the revised estimate will likely fall in future, considering changes in data and methods. They reflect notable past revisions as a result of substantial changes in our methods. As these methods are becoming more stable, we would expect our provisional estimates to be closer to the final estimates.
+More information on uncertainty estimates is available in Section 6: Updates to estimates.
+Net migration by nationality
+Net migration was provisionally estimated at 77,000 in YE June 2026.
+The fall over the year was mainly driven by lower net migration among non-EU+ nationals, which has continued to fall since 2023, when total net migration peaked at 944,000.
+Net migration remained negative for British and EU+ nationals, meaning that, in each group, more people left the UK long term than arrived (Figure 3).
+The provisional estimates for YE June 2026 show that:
+- non-EU+ nationals' net migration was provisionally estimated at 258,000, a decline of 121,000 from the updated YE June 2025 (379,000)
+- British nationals' net migration was provisionally estimated at negative 137,000, a fall of 12,000 from the updated YE June 2025 (negative 125,000)
+- EU+ nationals' net migration was provisionally estimated at negative 45,000, an increase of 6,000 from the updated YE June 2025 (negative 51,000)
+Definitions of British, EU+ and non-EU+ are in Section 7: Definitions.
+Figure 3: Fall in non-EU+ net migration continues to drive the decrease in total net migration
+Long term net migration of non-EU+, EU+ and British nationals, YE June 2012 to YE June 2026
+Embed code
+Notes:
+- Please see chart notes 1 to 7 and 11 to 14 in Section 9: Quality, methods and data sources.
+Back to table of contents
+Long-term immigration was provisionally estimated at 738,000 in year ending (YE) June 2026. This figure is down from 893,000 in YE June 2025, continuing a downward trend from the recent peak of 1,469,000 in YE March 2023.
+During the YE June 2026:
+- non-EU+ nationals accounted for 75% of total immigration (550,000)
+- British nationals made up 15% (109,000)
+- EU+ nationals made up 11% (79,000)
+Figure 4: Long term immigration continues to fall
+Number of non-EU+, EU+, and British nationals immigrating to the UK, year ending (YE) June 2012 to YE June 2026
+Embed code
+Notes:
+- Please see chart notes 1 to 7 and 11 to 14 in Section 9: Quality, methods and data sources.
+The line chart in Figure 4 shows that the recent rise and fall in long-term immigration has been mainly driven by non-EU+ nationals. Immigration remains highest for non-EU+ nationals, although it has continued to fall from its peak in YE March 2023.
+In contrast, there has been a continuing decline in the number of EU+ nationals coming to the UK, which began around the time of the 2016 EU referendum. This fall became sharper after December 2020, when the UK left the EU and freedom of movement ended.
+British nationals' immigration has remained relatively stable over the same period.
+Trends may partly reflect continual changes to the immigration rules.
+Immigration of non-EU+ nationals
+Data on the reasons why non-EU+ nationals come to live in the UK are based on their original reason for immigrating (which cou

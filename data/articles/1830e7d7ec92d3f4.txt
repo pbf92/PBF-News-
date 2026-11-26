@@ -1,0 +1,71 @@
+URL: https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/
+TITLE: The Download: Better bionic hands and AI’s natural-gas boom
+OUTLET: MIT Technology Review
+
+This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology.
+The next generation of bionic hands is here—and they can feel
+Avi Davidson lost his left hand as a teenager. Since then, he's cycled through a few prosthetics. But his latest is different—it's wired up to nerves in his forearm and allows him to feel pressure. For the first time in years, he can handle delicate objects like grapes, eggs, or a loved one's hand.
+Davidson is the ninth person to have this experimental device implanted, but he's the first to take it home and use it independently. Researchers hope his experiences will reveal how useful the technology really is in day-to-day life, and how it might affect his brain and nervous system.
+—Jessica Hamzelou
+How data centers are driving a US natural-gas boom
+— Casey Crownhart
+In May 2025, my colleague David Rotman wrote about how AI could keep us dependent on natural gas. Just 18 months later, I've lost count of how many times he's been proven right.
+Just one example: Plans for the Meta data center in Louisiana that David focused on have expanded, and the local utility went from three planned natural-gas plants to 10. Meanwhile, Meta's emissions are up 45% over last year's.
+Across the US, natural gas has become the default to meet exploding power demand. Here’s what that means for the future of the grid.
+This story is from The Spark, our weekly climate tech newsletter. Sign up to receive it in your inbox every Wednesday.
+The must-reads
+I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
+1 SpaceX has won approval to launch 1 million data center satellites
+The FCC says they'll help meet AI computing demand. (Reuters $)
++ But they could overcrowd the orbit and obscure the stars. (Bloomberg $)
++ SpaceX must start deploying them by 2033 under its license. (BBC)
++ Europe has opened a megafactory to build a Starlink rival. (CNBC)
++ Can data centers really work in orbit? (MIT Technology Review)
+2 The US Army just blew up nearly five tons of unstable explosives
+The EPA reports ‘zero’ airborne lead following the detonation. (Verge)
++ Scientists are now testing soil and water for contamination. (Wired $)
++ Officials were criticized for poor communication beforehand. (Axios)
+3 Earth just had its first six-day streak above 2°C
+Scientists say it’s an early warning of what's to come. (Guardian)
+4 Ukraine has claimed the first-ever laser takedown of a jet drone
+Its Blysk laser downed a Russian kamikaze drone. (Bloomberg $)
+5 Neuralink has won approval for a brain-implant trial in ALS patients
+It's the final stage of testing before seeking market clearance. (Gizmodo)
++ China is racing to catch up in brain-computer interfaces. (SCMP)
++ A BCI gave a man with ALS his voice back. (MIT Technology Review)
+6 Hackers have breached the US Treasury's financial crime watchdog
+It's taken systems used to report money laundering offline. (FT $)
+7 Bankrupt startup Character.ai wants to sell millions of user chats
+42 attorneys general are trying to block the sale. (TechCrunch)
+8 The hunt for dark matter is getting weirder
+Scientists are using levitating magnets and nuclear clocks. (Quanta)
++ Dark matter's hiding places keep growing. (MIT Technology Review)
+9 Scientists used seabird spies to track ships that had gone dark
+Recorders on the birds detected ships with trackers off. (404 Media)
+10 This Thanksgiving, AI is becoming a popular sous-chef
+But food bloggers say its recipes are often "total nonsense." (Axios)
+Quote of the day
+“Hey, by the way, this might be the last time we see each other—potentially, probably not, but maybe—because of AI.”
+—Daniel Kokotajlo, former OpenAI researcher and author of the "AI 2027" forecast, tells The New York Times how he plans to bring up AI extinction risks with his wife’s family this Thanksgiving.
+One more thing
+AI models flub these intelligence tests. Can you fare any better?
+Judged purely on its puzzling skills, AI is improving a lot—and quickly. In late 2024, even the best models could figure out only 18% of the infamous New York Times Connections puzzles; by early 2025, some could solve them nearly perfectly.
+But puzzles do more than highlight AI's progress. Seeing where models succeed and fail, and where humans still beat them, offers a window into the technology's strengths and weaknesses.
+We've gathered seven puzzles that have stumped models. Try them yourself to find out whether you can outsmart AI.
+—Grace Huckins
+We can still have nice things
+A place for comfort, fun, and distraction to brighten up your day. (Got any ideas? Drop me a line.)
++ Fly across the universe in this interactive map of space.
++ A film industry analyst has produced a fascinating, data-driven look at movie shots and cuts.
++ They say F1 cars corner like they're on rails, so Red Bull Racing put one on an actual railway line.
++ Travel like 007 with License to Locate, which maps every James Bond filming location, from Jamaica to Venice.
+Deep Dive
+The Download
+The Download: the agentic web arrives and the drive for safer roads
+Plus: A $1 trillion tech selloff has deepened fears of an AI bubble.
+The Download: dead startups fueling AI and interspecies communication
+Plus: Hackers have disrupted the US Federal Election Commission’s website.
+Stay connected
+Get the latest updates from
+MIT Technology Review
+Discover special offers, top stories, upcoming events, and more.

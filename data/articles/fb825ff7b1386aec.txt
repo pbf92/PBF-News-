@@ -1,0 +1,27 @@
+URL: https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/provisionalpopulationestimatefortheuk/mid2026
+TITLE: Provisional population estimate for the UK: mid-2026
+OUTLET: Office for National Statistics
+
+- Our provisional estimate of the population of the UK on 30 June 2026 is 69.6 million people (69,564,000).
+- This estimate is provisional, and is based on published estimates for births, deaths and international migration.
+- Estimated long-term net migration was 77,000, while there were an estimated 646,000 births and 643,000 deaths in the year ending 30 June 2026.
+- This provisional estimate of the UK population is not available by subnational area, age or sex.
+- We aim to publish mid-2026 UK population estimates for local authorities by single year of age and sex in summer 2027.
+Back to table of contents
+Our provisional UK population estimate has been calculated using published data, including:
+- our UK population estimate for mid-2025 (69,484,000 people)
+- our provisional estimates of long-term international migration for year ending (YE) 30 June 2026
+- birth registrations for YE 30 June 2026, with provisional data from 1 January to 30 June 2026
+- death registrations for YE 30 June 2026
+Our provisional mid-2026 population estimate provides a timelier and more accurate estimate than is available from population projections for mid-2026. It can be used when an up-to-date estimate is needed for per capita indicators, such as gross domestic product (GDP) per head. However, it should not be used for comparisons with estimates for smaller geographic areas in previous years. Users who require subnational survey weights should continue to use the existing subnational population estimates and projections.
+We aim to publish mid-2026 population estimates in summer 2027. These will include:
+- international migration estimates updated with the latest and most complete data
+- official estimates of international migration for Northern Ireland
+- adjustments to the number of deaths, by date of occurrence, to account for late registrations
+- more complete data on births; the birth estimates used in this release are based on provisional data from 1 January to 30 June 2026
+- changes in the number of home and foreign armed forces personnel for YE 30 June 2026
+- revisions to mid-year estimates for mid-2022 to mid-2025 reflecting the latest long-term international estimates.
+Accuracy of provisional UK population estimates
+This is the second publication of a provisional population estimate for the UK. We published our Provisional population estimate for the UK: mid-2025 bulletin in November 2025, in which the population of the UK was estimated to be 69.5 million (69,487,000). We published our Population estimates for the UK, England, Wales, Scotland and Northern Ireland: mid-2025 bulletin in October 2026, in which the population of UK was estimated to be 69,484,000. This estimate was around 3,000 (less than 0.01%) smaller than our provisional estimate. The estimate for mid-2025 will be revised as part of the summer 2027 release of the mid-2026 population estimate for the UK.
+Back to table of contents
+Office for National Statistics (ONS), released 26 November 2026, ONS website, Provisional population estimate for the UK: mid-2026

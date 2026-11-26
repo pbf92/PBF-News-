@@ -1,0 +1,7 @@
+URL: https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/bulletins/longterminternationalmigrationprovisional/yearendingjune2026/relateddata
+TITLE: All data related to Long-term international migration, provisional: year ending June 2026
+OUTLET: Office for National Statistics
+
+All data related to Long-term international migration, provisional: year ending June 2026
+UK long-term international migration to year ending June 2026. Includes breakdowns by age, sex, nationality and reason. Official statistics in development.
+- Estimates for UK immigration, emigration and net migration, year ending June 2012 to year ending June 2026. These are official statistics in development. To access the most up-to-date data for each time period, please use the most recently published dataset.

@@ -1,0 +1,18 @@
+URL: https://finance.yahoo.com/news/kpmg-taps-anthropic-claude-mythos-112504629.html
+TITLE: KPMG taps Anthropic’s Claude Mythos to power cybersecurity services
+OUTLET: Yahoo Finance
+
+KPMG LLP, an audit, tax and advisory firm in the US, has launched cybersecurity capabilities powered by Anthropic's AI model Claude Mythos.
+The services are designed to help clients identify and prioritise software vulnerabilities, uncover complex risks and attack paths, assess data-security and breach risks, and strengthen cyber defences, the company said.
+KPMG LLP vice-chair and Client Technology & Innovation head Todd Lohr said: "Powerful cyber AI has to work in the real world, where security, governance and accountability aren't optional.
+"By bringing Claude Mythos into KPMG's frontier AI cybersecurity services and combining it with our trusted approach and deep understanding of business risk, we're helping clients move beyond experimentation and put these capabilities to work securely at enterprise scale."
+As part of a select group of organisations, KPMG is assisting companies in Anthropic's Cyber Verification Programme deploy and use Claude Mythos in their own secure environments.
+Its participation builds on its role in Anthropic's early initiatives to provide the system to organisations securing critical software.
+KPMG will initially use Claude Mythos across four areas of cybersecurity services.
+The system will scan new and legacy codebases for critical vulnerabilities, map attack chains, and prioritise remediation according to business impact.
+It will combine identity telemetry, threat intelligence and vulnerability data to identify identity-based attack paths and excessive privileges across human, machine and agentic identities.
+The system will also analyse incident and breach pathways to show how connected weaknesses could be exploited and guide targeted remediation.
+For data protection, it will identify retention and security risks across structured and unstructured data.
+Anthropic Deputy CISO Jason Clinton said: "Finding vulnerabilities is only as valuable as an organisation's ability to act on what it finds.
+"As KPMG works with clients, it can help those organizations defend against evolving threats while generating practical insights that can accelerate the safe and effective adoption of AI." The frontier AI cybersecurity services are available to KPMG clients.
+"KPMG taps Anthropic's Claude Mythos to power cybersecurity services" was originally created and published by International Accounting Bulletin, a GlobalData owned brand.

@@ -1,0 +1,34 @@
+URL: https://www.theglobeandmail.com/investing/markets/stocks/TSM-N/pressreleases/8996707/the-semiconductor-etf-kept-falling-after-nvidia-raised-its-forecast-time-to-buy/
+TITLE: The Semiconductor ETF Kept Falling After Nvidia Raised Its Forecast. Time to Buy?
+OUTLET: The Globe and Mail
+
+Key Points
+- The VanEck Semiconductor ETF's Nov. 24 fall put it around 37% under its June 22 peak.
+- Nvidia, the fund's top holding, now expects its fiscal 2028 revenue to rise around 75%.
+- The fund's biggest holding is priced below the S&P 500 relative to its expected earnings.
+The VanEck Semiconductor ETF(NASDAQ:SMH) slid about 7% on Tuesday, Nov. 24, while chip shares fell broadly. The fund traded near $420 as I write, off about 37% from its June 22 record close of $668.91.
+It's still up about 19% for 2026, after finishing last year at $360.13. But most of this year's rise is gone.
+Missed Nvidia in 2009? This Rare Signal Is Flashing Again.In 2009, a "Double Down" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same "Total Conviction" signal is flashing for a company 1/100th the size of Nvidia. Continue »
+In mid-November, I wrote that the fund was a buy at around $500. It's about 15% cheaper now. And I think the fund's top holding has given investors more reason to buy since then.
+Image source: Getty Images.
+Nvidia raised its forecast
+Nvidia(NASDAQ:NVDA) made up around 18.5% of the fund's assets on Nov. 23, almost double the weight of any other stock. This makes the company's Nov. 17 earnings report the biggest news for the fund in weeks.
+The results were strong. Nvidia's revenue for the third quarter of fiscal 2027, the three months ending Oct. 25, hit $115.8 billion, up 103% from $57.0 billion a year ago. It also grew 20% from the $96.2 billion Nvidia took in during fiscal Q2. Non-GAAP (adjusted) earnings per share rose 111% year over year. For the current quarter, which has an extra week, Nvidia expects around $130 billion in revenue.
+Management also raised its outlook for fiscal 2028, a year that roughly matches calendar 2027. It now expects revenue to grow around 75% that year, up from the 70% it predicted earlier, and from a bigger fiscal 2027 total.
+"[W]ith demand far exceeding supply, we expect our performance to remain strong," Colette Kress, then Nvidia's interim CEO and chief financial officer, said on the earnings call.
+Nvidia's leadership has been less stable. The company said on Nov. 12 that co-founder Jensen Huang had stepped down as CEO, and on Nov. 23 that its board had reinstated him. The fund surged around 15% that day.
+But the fund's dropped about 7% since Nvidia's results. The biggest part of the fund, then, has a stronger outlook than a week ago, at a lower price.
+Nvidia is one of the fund's cheapest stocks
+At roughly $151 a share on Tuesday, Nvidia trades at about 9 times earnings, using the average analyst forecast for its fiscal 2028.
+Taiwan Semiconductor Manufacturing(NYSE:TSM), the fund's No. 2 holding at almost 10% of its assets, costs about 15 times the earnings analysts expect from it in 2027. And its sales are speeding up. The company's October revenue grew about 60% year over year, faster than its 43% gain for the first 10 months of 2026.
+Broadcom, about 6% of the fund, costs roughly 16 times its estimated fiscal 2027 earnings. By comparison, FactSet had the S&P 500(SNPINDEX:^GSPC) at about 17 times the earnings expected for the next 12 months in its Nov. 20 report.
+Not all holdings are as cheap. Texas Instruments and Advanced Micro Devices, each about 5% to 6% of the fund, trade at roughly 22 or 23 times their estimated 2027 earnings.
+But the stocks with the most weight in the fund look priced as if their profits are near a peak. I think that view is too pessimistic, especially for Nvidia after it raised its forecast.
+Could those forecasts be off?
+They could. Chip profits can shrink fast when demand slows or supply catches up. In Nvidia's fiscal 2023, which ended in January 2023, its adjusted earnings per share fell 25%.
+But a drop that big wouldn't make the stock look expensive at today's price. If Nvidia's fiscal 2028 earnings landed 25% under what analysts forecast, its current price would be around 12 times earnings, still far below the S&P 500's level of about 17 times expected earnings.
+The fund won't even out the swings, either. It closed Nov. 20 at $400.06, surged the next session, then dropped about as much as Nvidia did on Tuesday. Nvidia and Taiwan Semiconductor together make up over a quarter of the fund's assets, and its 10 biggest holdings about 69%.
+Owning the fund does mean an investor doesn't need to guess which chipmaker will be next to face news like Nvidia's CEO change.
+At roughly $420, I'd buy the fund and plan to hold it for years. The stocks that make up most of it are priced modestly against the profits expected next year, and the largest of them is one of the cheapest.
+I'd think again if Nvidia lowered its forecast of about 75% revenue growth in fiscal 2028.
+Daniel Sparks and his clients do not have positions in any of the stocks mentioned. The Motley Fool has positions in and recommends Advanced Micro Devices, Broadcom, Nvidia, Taiwan Semiconductor Manufacturing, and Texas Instruments. The Motley Fool has a disclosure policy.
