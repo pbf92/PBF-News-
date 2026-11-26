@@ -1,0 +1,29 @@
+URL: https://247wallst.com/investing/2026/11/23/wall-street-is-focused-on-ai-software-but-the-real-money-could-be-made-somewhere-else/
+TITLE: Wall Street Is Focused on AI Software. But the Real Money Could Be Made Somewhere Else
+OUTLET: 24/7 Wall St.
+
+Wall Street Is Focused on AI Software. But the Real Money Could Be Made Somewhere Else
+This post may contain links from our sponsors and affiliates, and Flywheel Publishing may receive compensation for actions taken through them.
+The hardware that AI models run on is where profits are piling up fastest. Micron Technology (NASDAQ:MU | MU Price Prediction) is the cleanest example.
+Micron’s 24/7 Wall St. price target stands at $888.35. The stock would need to rise 21% from the $734 premarket price to reach it. The stock earns a buy rating with high confidence.
+Earnings are hitting records while the stock is in a deep pullback. Micron executives say memory, rather than logic chips or power, is now the main constraint in AI infrastructure. As the largest U.S.-based memory maker, Micron sits right at that constraint.
+A 41% Slide From the High Despite Record Earnings
+Shares fell 9.53% over the past week and 18.89% over the past month. They are still up 157.38% year to date. At $734, the stock sits 41.5% below its 52-week high of $1,254.61. Shares rose 4.07% premarket Thursday. Two days earlier, an earnings report from NVIDIA (NASDAQ:NVDA) showed supply commitments of $390 billion, mostly for memory.
+The fundamentals are still accelerating. Fiscal Q4 revenue came in at $54.229 billion[1], ahead of the $50.972 billion estimate and up 379.3% year over year. Non-GAAP EPS of $33.42[1] beat the $31.3542 consensus. For fiscal Q1, management guided to $61.5 billion[1] in revenue and $38.15 in non-GAAP EPS.
+Why Bulls See $1,300 or More
+Our bull case reaches $1,339.93. Micron has committed more than 75%[2] of its fiscal 2027 shipments. It has also signed 26[2] strategic customer agreements that run through 2030.
+Business unit leader Manish Bhatia said on the call, “We really don’t have line of sight to when supply and demand balance.”[2] HBM4E, which Micron is designing together with NVIDIA, adds another premium product.
+Wall Street’s consensus target is $1,561.91, supported by 9 Strong Buy and 36 Buy ratings.
+What Could Drag Micron Toward $674
+The bear case sits at $673.78. Memory has always been cyclical. New clean rooms coming online from late 2028 will add supply, and start-up costs will partly offset pricing increases. NVIDIA has also said high memory prices are weighing on consumer PC demand, and Micron’s mobile and client bit shipments fell from the prior quarter.
+One counterpoint: revenue in that unit still grew on higher pricing and a better product mix. Much of Micron’s capex is also linked to customer commitments that run past 2030.
+Micron Trades Cheaper Than NVIDIA and in Line With SanDisk
+NVIDIA is Micron’s most important HBM customer, so its valuation shows what investors will pay for AI compute. NVIDIA trades at 10x forward earnings, compared with Micron’s 4x.
+A NAND peer facing similar supply tightness, SanDisk (NASDAQ:SNDK), also trades at 4x forward earnings. Our target implies about 5x forward EPS, which looks conservative next to these peers.
+Memory Tightness Tips Our Model Toward BUY
+The 24/7 Wall St. price target of $888.35 comes with a buy rating and 90% confidence. Committed demand that extends into 2028 is what tips the scale.
+I’d stay constructive on Micron if HBM pricing holds and strategic agreements keep growing. I’d turn cautious if hyperscaler orders slow before new capacity comes online.
+Our model projects where Micron could trade if current trends hold.
+These projections assume Micron keeps executing on HBM and its customer agreements.
+A faster supply expansion across the industry, or a pause in AI capex, could change the path sharply in either direction. (We reverse-engineered what the earliest AI chip winners looked like before their runs in a free Next Nvidia playbook.)
+Contact [email protected] for any questions or corrections.

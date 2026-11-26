@@ -1,0 +1,18 @@
+URL: https://t.co/G6VaIMPBoP
+TITLE: Anthropic chief says claims that he wants humans to ‘surrender’ to AI are ‘absurd’
+OUTLET: Howl.Link
+
+Anthropic chief executive Dario Amodei on Wednesday denied wanting humanity to give up its free will to AI, calling it “absurd” to attribute the idea to him as rival tech leaders push back.
+“No, I do not believe that we should ‘surrender human free will’ to AI systems, and it’s absurd to suggest that I do,” Amodei wrote in a lengthy post on X, a week after Anthropic’s record-setting stock market debut.
+“We should never sacrifice legitimacy or self-determination at the altar of efficiency or security,” he added.
+Fears that AI tools could slip out of human control have haunted Silicon Valley since a string of incidents this summer, including the hacking of Hugging Face by autonomous AI agents developed by OpenAI.
+“We really do earnestly believe AI could kill all humans!” an Anthropic safety lead, Evan Hubinger, wrote in September.
+Amodei took aim, without naming names, at “some AI CEOs” who repeat slogans like “AI should be just a tool” but then are not “actually doing anything different in their products.”
+On Sunday, Meta’s Chief AI Officer Alexandr Wang wrote on X that “we should not be okay with a ‘handover’ of society to AI.”
+OpenAI CEO Sam Altman said earlier this month that if the tradeoff for curing cancer is “you are going to lose all agency and control and voice in the future,” that is “a terrible sales pitch.”
+Amodei’s post was in response to an article by US outlet Axios on AI debate, though he did not address his previous remarks on the topic.
+In February, Amodei told The New York Times that in “life-critical, safety-critical cases, we really want to turn it over” to AI.
+And in late 2024, he predicted that AI systems “will be the leaders, and they’ll be ordering humans or other AI systems around.”
+On Wednesday, he acknowledged that “we may want limits” on recursive self-improvement, or RSI, in which AI models can autonomously create new versions of itself, and that “we don’t expect it to be safe for Claude to build successive frontier models fully autonomously,” without saying where the line should be drawn.
+Yet in its IPO filing, Anthropic said that “each new version of a Claude model directly accelerates development of the next,” and that Claude wrote over 90 percent of the contributions to its codebase in September.
+Elon Musk, who has long predicted that superintelligent AI would leave humans “like pet Labradors,” reposted Amodei’s statement with a one-word comment: “interesting.”

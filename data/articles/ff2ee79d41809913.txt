@@ -1,0 +1,14 @@
+URL: https://www.consultancy-me.com/news/14991/conx-digital-admitted-into-anthropics-claude-partner-network
+TITLE: ConX Digital admitted into Anthropic’s Claude Partner Network
+OUTLET: Consultancy-me.com
+
+ConX Digital admitted into Anthropic’s Claude Partner Network
+Dubai-headquartered technology consultancy ConX Digital has joined Anthropic’s Claude Partner Network as a Certified Services Partner, strengthening its capabilities in enterprise AI.
+Claude is one of the world’s leading generative AI platforms, competing with the likes of OpenAI’s ChatGPT and Google’s Gemini. Within the enterprise landscape, Claude is increasingly being used to automate business processes, support software development, analyze data and build AI agents.
+Launched in March this year, the Claude Partner Network brings together technology companies, consulting firms and systems integrators that help organizations adopt and implement Anthropic’s AI technology.
+The US-based AI company has committed an initial $100 million to developing the network, providing partners with technical support, training, professional certifications and joint market development opportunities.
+With the addition of ConX Digital, Anthropic welcomes another award-winning technology consultancy to its partner network in the Middle East. Founded in 2022, ConX Digital specializes in digital transformation and technology consulting across the region, with its roots in the Salesforce ecosystem.
+The firm won Salesforce’s Rising Star Partner Award in 2023 and was named Digital Partner of the Year in 2024, the same year it achieved Summit Partner status – the highest tier within Salesforce’s consulting partner program.
+The partnership with Anthropic enables ConX Digital to broaden its AI offering beyond Salesforce, strengthening its capabilities in the development and deployment of generative and agentic AI solutions.
+“This milestone builds on our continued investment in AI expertise and our commitment to helping organisations move beyond the possibilities of AI to practical applications that deliver real business value,” ConX Digital said in a statement. “We’re excited to build on this partnership, bringing new capabilities and perspectives to the way we approach AI and creating more opportunities to innovate alongside our customers.”
+Earlier this year, Anthropic also welcomed the likes of Bain & Company, Accenture, Deloitte, Sia and Consulum into its partner ecosystem.

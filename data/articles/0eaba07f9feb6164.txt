@@ -1,0 +1,83 @@
+URL: https://www.tradingview.com/symbols/FINRA-JPM6580381/
+TITLE: JPM6580381 Bond Yield and Price — FINRA:JPM6580381
+OUTLET: TradingView
+
+See this bond's price and yield history with Ultimate
+Spot trends and check how today's levels compare to the past on an interactive chart.
+Peers for comparison
+See risk level and agency ratings with Ultimate
+See the bond's risk level at a glance, with current ratings from S&P, Moody's, and Fitch and what they mean.
+Key terms
+Bond info
+Sector
+Finance
+Industry
+Major Banks
+ISIN
+US48130KF858
+CUSIP
+48130KF85
+FIGI
+BBG026Q0RMT6
+Identifiers
+ISIN US48130KF858
+JPMorgan Chase & Co. is a financial holding company, which engages in the provision of financial and investment banking services. The firm focuses on investment banking, financial services for consumers and small businesses, commercial banking, financial transaction processing, and asset management. It operates through the following segments: Consumer and Community Banking (CCB), Commercial and Investment Bank (CIB), Asset and Wealth Management (AWM), and Corporate. The CCB segment originates and services mortgage loans. The CIB segment makes markets and services clients across fixed income, foreign exchange, equities, and commodities. The AWM segment provides initial capital investments in products such as mutual funds and capital invested alongside third-party investors. The Corporate segment manages its liquidity, funding, capital, structural interest rate, and foreign exchange risks. The company was founded in 1799 and is headquartered in New York, NY.
+Classification
+Frequently asked questions
+Corporate bonds are debt securities issued by companies to raise capital. When you buy a JPMorgan Chase & Co. 6.1% 30-NOV-2034 bond, you're lending money to JPMorgan Chase & Co. in exchange for regular interest payments (coupons) and repayment of the full amount at maturity.
+Investors earn from corporate bonds through fixed interest income and potential price gains if the bond is sold above its purchase price.
+Corporate bonds are generally less risky than stocks, but they typically offer lower returns.
+Use our Bond Screener to discover and analyze corporate bonds that fit your investment strategy.
+Companies issue bonds to raise capital without giving up ownership, as they would by selling shares. By issuing bonds, a company borrows money and agrees to pay interest (coupons) and repay the principal at a fixed maturity date.
+Businesses use bond financing to:
+– Fund growth (expansion, acquisitions, new projects)
+– Refinance existing debt at better rates
+– Manage cash flow without issuing new shares
+Compared to stocks, bonds allow JPMorgan Chase & Co. to access large amounts of capital while maintaining full control of the business.
+Bonds and stocks are two ways to invest in JPMorgan Chase & Co., but they work very differently.
+Here are the key differences:
+– Ownership vs. lending: Stocks represent ownership in JPMorgan Chase & Co., while bonds are a loan you give to the company
+– Returns: Stocks may offer dividends and capital gains, while bonds pay fixed interest (coupon) and return principal at maturity
+– Risk: Stocks are generally more volatile and can lose value, whereas bonds are considered lower risk
+– Priority: Bondholders are paid before shareholders if the company goes bankrupt
+The yield on JPMorgan Chase & Co. 6.1% 30-NOV-2034 bonds is 6.08%. It moves with market interest rates, bond prices, and investor demand.
+Keep in mind:
+– Interest rate cycles: When benchmark rates rise, long-term bond yields typically increase
+– Credit and demand: Strong confidence in JPMorgan Chase & Co. can push prices up and yields down
+– Market stress: Yields can spike during risk-off periods or liquidity events
+Spot the slightest price and yield changes on our Supercharts.
+JPMorgan Chase & Co. 6.1% 30-NOV-2034 bonds trade at 100.000% — the current market value, typically quoted as a percentage of the bond's face value (usually $1,000). For example, a price of 95% means the bond trades at $950, while 105% means $1,050.
+Bond prices fluctuate based on interest rates, the creditworthiness of JPMorgan Chase & Co., and overall market demand. When interest rates rise, bond prices usually fall — and vice versa.
+A bond may trade:
+– At a premium (above face value) if its coupon is higher than current market rates
+– At a discount (below face value) if its coupon is lower than market rates
+Track price movements and analyze them with indicators on our interactive chart.
+A bond rating is an assessment of an issuer's creditworthiness — its ability to repay debt and make interest payments on time.
+Ratings are typically assigned by credit rating agencies (e.g., S&P, Fitch) based on factors such as financial strength, debt levels, and economic conditions.
+Common rating scale:
+– Investment grade: AAA to BBB (lower risk)
+– Speculative (high-yield): BB and below (higher risk, higher potential return)
+Ratings help investors evaluate default risk and can influence bond yields — lower ratings usually mean higher yields.
+The price of JPMorgan Chase & Co. bonds changes based on the following factors:
+– Interest rates: When rates rise, bond prices usually fall — and vice versa
+– Credit quality: Changes in JPMorgan Chase & Co.'s financial strength or credit rating can impact prices
+– Market demand: Higher demand for safer assets can push bond prices up
+– Time to maturity: Longer-term bonds are more sensitive to interest rate changes
+– Inflation expectations: Higher inflation can reduce bond attractiveness and lower prices
+Track bond prices in our Bond Screener and follow every move on Supercharts.
+Buying a corporate bond is a simple process, but you'll need a reliable broker to help you access the market. Once you've found the brokerage that suits your style and requirements, you can proceed with opening an account there. Explore our list of broker partners and start trading right from your charts.
+Before investing, TradingView strongly recommends taking time to understand the market. You can test your strategy using a paper trading account, and make use of our Bond Screener to discover the best investment opportunities.
+The maturity date is when a bond comes due and the principal is repaid to investors. For example, the JPMorgan Chase & Co. 6.1% 30-NOV-2034 bond matures on Nov 30, 2034.
+Key points:
+– Investors receive the bond's face value on this date
+– No further coupons are paid after maturity
+– Maturity helps investors align bonds with their financial goals or cash flow needs
+– Longer-maturity bonds are generally more sensitive to interest rate changes
+Find bonds with maturities that fit your strategy using our Bond Screener.
+Corporate bonds are debt securities issued by companies, and their reliability depends on the issuer's financial strength and market conditions.
+What to consider when selecting bonds:
+– Credit rating: Higher-rated bonds (investment grade) are generally more reliable than lower-rated (high-yield) bonds
+– Issuer stability: Companies with strong balance sheets are less likely to miss payments
+– Market risk: Bond prices can fluctuate due to interest rates, inflation, and investor demand
+– Default risk: All corporate bonds carry some risk that the issuer may fail to repay
+Filter bonds by their ratings in our Bond Screener to find the most reliable opportunities.

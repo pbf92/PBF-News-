@@ -1,0 +1,11 @@
+URL: https://www.tradingview.com/news/gurufocus:a15fc30ac094b:0-big-news-for-nvidia-stock-fans/
+TITLE: Big News For Nvidia Stock Fans
+OUTLET: TradingView
+
+Big News For Nvidia Stock Fans
+Server orders bound for Malaysia, Singapore, Thailand and Indonesia are stuck after Nvidia NVDA withheld approval to ship them, and one Singapore cloud project tied to ByteDance has already lost some bank backing, according to a Financial Times report.
+Dell DELL and Super Micro Computer SMCI, which build Nvidia's chips into servers, relayed the message to customers in those countries, three people familiar with the matter said.
+Nvidia and its partners are figuring out how to meet the new requirements, and the people said it is unclear whether the block is short-lived.
+Aolani, a Singapore cloud company, had lined up leases of computing power to ByteDance. Lenders backing the project have frozen roughly $500 million in credit, and ByteDance could walk away, two of the people said.
+The pause follows Commerce Department rules issued last week to stop Chinese firms from reaching restricted chips through cloud providers. Those providers have 90 days to get a license.
+Nvidia's Singapore unit booked $104 billion in revenue in 2025, up 72%, according to company accounts.

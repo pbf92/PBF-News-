@@ -1,0 +1,18 @@
+URL: https://finance.yahoo.com/markets/stocks/articles/shopify-keeps-sliding-q3-miss-100650097.html
+TITLE: Shopify Keeps Sliding After Its Q3 Miss: Why Piper Sandler Still Sees 30% Upside
+OUTLET: Yahoo Finance
+
+Key Takeaways
+- Shopify closed at $132.31 on Nov. 24, 26% below its October high, three weeks after third-quarter merchandise volume fell short of estimates.
+- Piper Sandler reiterated its Overweight rating and $172 target that day, 30% above the stock, pointing to more large brands adopting the AI-shopping standard Shopify developed with Google.
+- Shop Pay volume grew 50% last quarter against 6% for PayPal's total payment volume, and Affirm raised its full-year outlook.
+- Piper's $172 is 53x 2028 earnings estimates, roughly the multiple the stock already pays for 2027, so the upside rests on those estimates holding.
+Shopify (SHOP:NASDAQ) closed at $132.31 on Nov. 24, 26% below its Oct. 12 high, after a third quarter that fell just short. That same day, Piper Sandler reiterated its Overweight rating and $172 price target, 30% above the close.
+Piper's case is that more big brands are adopting the Universal Commerce Protocol (UCP), the AI-shopping standard Shopify developed with Google. Its tracker has UCP on about 15% of the top 2,500 e-commerce sites, up from about 14% in September, and recent Fortune 1000 additions include PayPal (PYPL:NASDAQ), whose checkout button competes with Shop Pay. Shop Pay volume grew 50% in the third quarter, against 6% for PayPal's total payment volume. Affirm (AFRM:NASDAQ), which runs Shop Pay Installments, grew volume 34% to $14.4 billion in the quarter to Sept. 30 and raised its full-year outlook the same week Shopify reported.
+Shopify's Good Quarter Wasn't Good Enough
+On Nov. 3, Shopify reported revenue up 32% to $3.74 billion, roughly in line with estimates. Gross merchandise volume was the problem: $119.15 billion against the $120.08 billion analysts expected. Jefferies called the quarter "robust, but shy of lofty expectations."
+The outlook didn't help either. Shopify guided fourth-quarter revenue growth to the low thirties, but gross profit growth only to the high twenties. Subscription gross margin also fell to 79% from about 82%, which CFO Jeff Hoffmeister tied mostly to added AI spending on Sidekick, Shopify's merchant assistant.
+TIKR Tracks 54 Analysts on Shopify. How Many Say "Buy"?
+See the full breakdown of Buy, Hold, and Sell ratings on Shopify, along with Wall Street's revenue and earnings estimates, all in one place. More than 500,000 investors use TIKR to research stocks like this one. See Shopify's Analyst Ratings
+Piper's $172 Still Sits Below the Street
+Piper trimmed its target to $172 from $180 after the report, so the Nov. 24 note held the line. The Street's average target of $177 sits above Piper's and has barely moved in a year, from $175 to $177, with a dip to $147 in July.

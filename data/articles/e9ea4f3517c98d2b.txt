@@ -1,0 +1,15 @@
+URL: https://www.businessinsider.com/ai-changing-engineering-promotions-anthropic-2026-11
+TITLE: An Anthropic team lead says AI is changing the factors that are weighed in a promotion
+OUTLET: Business Insider
+
+At Anthropic, AI is changing how software engineers move up in their careers.
+Katelyn Lesse, the head of platform engineering at the newly public company, said on a podcast released Wednesday that AI has made the amount of time it takes to complete a project a less useful measure of readiness for promotion for engineers on her team. Because work that once took years can now take months, Lesse said her team is placing greater weight on outcomes such as lower latency and avoided incidents than on how long a project takes.
+"Ultimately, the fallback is always just impact," Lesse told Gergely Orosz, host of The Pragmatic Engineer.
+With AI agents speeding up projects for engineers, Lesse said making an impact is becoming more about "coordination" — getting people and agents aligned and understanding how to turn an idea into a high-quality release — and less about writing code.
+"You really, really, really shrink the implementation part," Lesse said.
+The changes taking place inside Anthropic may be an early indicator of a broader workplace conundrum: If an AI tool can sharply reduce the time it takes to complete difficult work, managers may have to rethink how they measure employees' expertise, progress, and readiness for more senior roles.
+Anthropic has a front-row view because its Claude Code programming tool is used by hundreds of thousands of workers worldwide — including its own engineers. The company disclosed in its IPO filing that as of September 30, it had more than 11,900 customers who spent at least $100,000 annually on Claude.
+For experienced engineers in particular, AI's speed boost is adding a new wrinkle as to what constitutes top performance, Lesse said.
+"As you get more senior, you find people owning totally different problem spaces and totally different systems," she said. "We're kind of constantly iterating on how do we get a sense for the complexity of the work that somebody does."
+AI is reshaping hiring, too, said Lesse. Her team is experimenting with interviews that test whether software-engineering candidates can use coding agents to get work done, such as reviewing agent-written code or building a system with an agent. The team made the shift after finding that some candidates who excelled in other parts of interviews had flubbed the hand-coding round.
+"It's a big change," said Lesse. "We're basically trying to find what is the best way to really truly get signal on whether someone can use these tools really well to get work done."

@@ -1,0 +1,13 @@
+URL: https://mashable.com/tech/claude-artifacts-apps
+TITLE: Anthropic's Claude now lets you turn artifacts into apps
+OUTLET: Mashable
+
+So you asked Claude to help you remember when to take out the trash, and it ridiculously over-engineered it and created a beautiful interactive artifact with timelines, graphs, and a calendar? Well, now that you've gotten that far, why not turn the artifact into a full-fledged app on your desktop?
+A new update to Anthropic's Claude allows you to do exactly that, though there are some limitations.
+Artifacts, if you aren't familiar with Claude, are work outputs that are similar to webpages, and they can contain charts, graphs, text, photos, videos, and interactive elements, but until now they only lived inside Claude. Now, when you open an artifact in Claude, you can click on the drop-down menu on the top left and select "Install as an app."
+You May Also Like
+Besides being more convenient, since they live on your desktop, these apps can perform actions such as sending notifications or adding items to your menu bar. Of course, you can set permissions for apps to make sure they don't overstep their boundaries; by default, they can only do what they'd be able to do in a browser, but you can go as far as to give them full access to your computer.
+I've tried this out on my Mac, and it worked well, though I couldn't install all my artifacts as apps. Anthropic says some artifacts can't be installed as apps, which includes Claude Docs, Slides, and Sheets.
+The ability to install artifacts as apps is rolling out to all plans as a beta feature. It's on by default for Team plans; on Enterprise, it's off until an owner turns it on.
+Want to learn more about getting the best out of your tech? Sign up for Mashable's Top Stories and Deals newsletters or get Mashable push alerts today.
+Stan is a Senior Editor at Mashable, where he has worked since 2007. He's got more battery-powered gadgets and band t-shirts than you. He writes about the next groundbreaking thing. Typically, this is a phone, a coin, or a car. His ultimate goal is to know something about everything.

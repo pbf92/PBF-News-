@@ -1,0 +1,8 @@
+URL: https://www.tradingview.com/news/gurufocus:d85d0f5f6094b:0-intel-stocks-slip-after-erasing-a-10-3-plunge-below-50/
+TITLE: Intel Stocks Slip After Erasing a 10.3% Plunge Below $50
+OUTLET: TradingView
+
+Intel Stocks Slip After Erasing a 10.3% Plunge Below $50
+Intel INTC shares slipped 0.6% to $54.47 at the 4:00 p.m. ET close on November 25, after plunging as much as 10.3% to $49.16 in the morning. The low came as the PHLX Semiconductor Index fell 7.2% to a seven-month low before recovering. From the trough to the close, shares bounced 10.8%.
+No Intel-specific news drove the swing. The morning drop extended Tuesday's 8.1% decline, which hit as chip names gave back Monday's rally, Unusual Whales reported in its session coverage. The operating picture is mixed. Third-quarter revenue rose 21% to $16.5 billion with adjusted earnings of $0.52 a share, but fourth-quarter guidance calls for $15.0 billion to $16.0 billion in revenue and $0.25 in earnings, and CFO David Zinsner said the PC slowdown will likely continue through the first half of next year. The bright spot is foundry: Intel said on November 18 that it signed its first outside customer for its 18A process.
+The intraday rebound proves buyers still want exposure to a U.S. foundry, but the valuation is stretched. The GuruFocus chart shows a GF Score of 70/100, with top-ranked momentum and decent profitability but a weak valuation reading. GF Value sits at $34.10, putting the shares at a 59.7% premium and a "significantly overvalued" label, a warning that the price already assumes the foundry turnaround works. The next test is fourth-quarter results around January 28, where 18A customer volumes need to start offsetting the PC slump.

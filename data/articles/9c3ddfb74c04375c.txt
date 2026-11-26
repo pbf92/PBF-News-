@@ -1,0 +1,61 @@
+URL: https://ppc.land/youtube-tv-cuts-price-of-sports-news-plan-to-49-99-for-new-users-only/
+TITLE: YouTube TV cuts price of Sports + News plan to $49.99 for new users only
+OUTLET: PPC Land
+
+YouTube TV is selling its Sports + News plan to new subscribers at $49.99 a month for their first six months, $22 below the plan's regular $71.99 rate, in a limited-time offer that YouTube says ends on December 2, 2026. 9to5Google, which reported the discount on November 25, 2026, described it as a sale around Black Friday. YouTube's own sign-up page sets out the terms: a $132 saving over six months, then the full price "thereafter."
+The offer sits alongside a shorter discount on the main YouTube TV plan, which drops from $82.99 to $59.99 a month for two months. Both carry the same condition. They are for new YouTube TV users, and nobody else.
+In Short
+YouTube TV is charging new subscribers $49.99 a month for the first six months of its Sports + News plan, down from $71.99, in an offer that ends December 2, 2026. Only new YouTube TV users qualify, and 9to5Google reports that any Google account that has ever signed up, even for a free trial, is excluded. From month seven the bill returns to $71.99, which puts the first full year at $731.88 by PPC Land's count, against $863.88 at the regular price.
+What the offer says
+The terms appear several times on YouTube TV's welcome page at tv.youtube.com, with small differences in wording each time. A banner across the top of the page reads: "Save $132 total for your first 6 months with the Sports + News Plan." Beneath it, the page states: "$49.99/mo for your first 6 months, then $71.99/mo. Offer ends December 2, 2026. Eligibility criteria apply. Terms Apply."
+The plan card lower down shows the regular $71.99 price struck through next to "$49.99/mo*", with the line "Save $132 total on your first 6 months." The asterisk leads to the footnote that defines the deal: "New YouTube TV users pay $49.99/mo for 6 months of Sports + News Plan (save $132), then $71.99/mo thereafter. Ends 12/2/2026. Offer terms apply. No refunds. Cancel anytime."
+The footnote for the main plan uses almost the same words, with one addition. "New YouTube TV users pay $59.99/mo for 2 months of the main YouTube TV plan (save $46), then $82.99/mo thereafter. Ends 12/2/2026. New users only. Offer terms apply. No refunds. Cancel anytime." The phrase "New users only" appears in the main-plan footnote but not in the Sports + News one, although both open with "New YouTube TV users pay."
+The two offers side by side
+How the offer works, according to YouTube
+According to YouTube's welcome page and its footnotes, the Sports + News offer runs in five stages:
+- Eligibility. The price is for "New YouTube TV users." The page adds that "Eligibility criteria apply," without listing the criteria next to the offer.
+- Plan. The discount applies to the Sports + News Plan only, which the page lists at 50+ channels, including local channels.
+- Discounted period. The subscriber pays $49.99 a month for the first six months.
+- Return to full price. From the seventh month, the price is "$71.99/mo thereafter."
+- Deadline and refunds. The offer "Ends 12/2/2026." The footnote states "No refunds" and "Cancel anytime."
+The sign-up buttons across the page read "Try it for $0." The page does not say how long any free period lasts or how it fits with the six discounted months.
+What the Sports + News plan includes
+YouTube describes the plan in one line: "Watch all the games and headlines without paying for Family or Entertainment channels. Includes local channels." The card lists four features. The first is "Unlimited DVR space," meaning recordings stored online with no cap. The others are "Special features like multiview," "6 household accounts and 3 streams," and an "Option to add-on NFL Sunday Ticket (for an additional cost) to access out-of-market Sunday afternoon games."
+Multiview, according to the same page, lets viewers "watch up to 4 games at once on mobile, tablets and TVs." The NFL Sunday Ticket add-on carries its own conditions. According to the page, it "Requires an active YouTube TV plan," and cancelling YouTube TV ends access to NFL Sunday Ticket. The page says the service is "Available in the U.S. nationwide" and that the channel lineup depends on a household's ZIP code.
+The main plan card lists the same four features with 100+ channels. YouTube calls it "Our main plan with the widest variety of programming."
+Where $49.99 sits in YouTube TV's price list
+The discount takes the Sports + News plan below every other regular price named in the two sources. That includes plans with fewer channels.
+The page's own questions-and-answers section describes the Sports Plan as "a great, lower-cost option focused on 30+ channels of live games, sports analysis, and news coverage." At its regular price of $64.99, it costs $15 a month more than the discounted Sports + News plan, which YouTube lists at 50+ channels against the Sports Plan's 30+. The discount also takes Sports + News about $5 below the Entertainment plan, which 9to5Google described as the most affordable package "at $55/month."
+"YouTube TV isn't cheap," Ben Schoon, a senior editor at 9to5Google, wrote, adding that the sale comes "with a couple of strings attached." According to 9to5Google, the cost of YouTube TV "generally lands at $83/month following the most recent price hikes," and "New packages such as 'Sports + News' drop the price by a fair bit." The outlet also reported that subscribers can save "$10 or more per month on select other plans," again only as new customers.
+What the discount adds up to
+The following figures are PPC Land calculations based on the prices YouTube publishes.
+The arithmetic confirms YouTube's stated savings of $132 and $46. It also shows how differently the two offers are built. The Sports + News discount is spread over half a year. The main-plan discount covers two billing months, so it runs out by early February 2027 for anyone who joins by December 2. Someone who joins Sports + News on the last day of the offer would pay the lower rate until early June 2027, by PPC Land's count, before the $71.99 price applies.
+Who is shut out
+The deal's main limit is who can take it. YouTube's page uses the words "New YouTube TV users" and "Eligibility criteria apply," but does not define "new" next to the offer. 9to5Google read it strictly: according to the outlet, any Google account that has ever signed up for YouTube TV, including for a trial, cannot get the price.
+YouTube's separate offer terms page, which the promotion links to with "Terms apply," had no section naming the Sports + News discount on November 26. Its general terms for main-plan offers limit them to people who are not current subscribers and have never subscribed or taken a trial. Another section, covering offers tied to bank cash-back deals, uses a narrower 24-month window. Without a section for this promotion, the exact rule for the $49.99 price rests on the welcome page wording and 9to5Google's reading of it.
+The result is a price that former customers can see but not use. That covers people who left after a price increase and people who tried the service for free during an earlier sports season. Existing subscribers on the main plan cannot use it either. Neither source says whether a current subscriber can move to Sports + News at the regular $71.99 rate.
+Why this matters for marketers
+YouTube TV is a vMVPD, an internet service that sells bundles of live TV channels the way cable and satellite companies do, without owning the wires. Its price matters to advertisers because each household it signs up is a home where broadcast and cable channels, and their ad breaks, reach the television through YouTube TV instead of a cable box.
+In 2025 alone, the service went through three public disputes with the companies that own those channels. In February 2025, YouTube and Paramount failed to reach a deal ahead of a February 13 deadline, with YouTube promising an $8 monthly credit if the channels went dark. In August 2025, YouTube TV faced a Fox blackout deadline in the middle of college football season. Then, on October 30, 2025, Disney's channels disappeared from YouTube TV, and subscribers were offered a $20 credit. PPC Land reported at the time that the service had more than 9 million subscribers and a base price of $82.99. The channels came back on November 14, 2025, when YouTube TV restored Disney after a 15-day blackout.
+A month later, on December 10, 2025, YouTube said it would launch more than 10 genre-based plans in early 2026, led by a Sports Plan with all of the ESPN networks and ESPN Unlimited. No prices were given at the time. The welcome page now shows what that structure looks like in practice. There is a $64.99 Sports Plan, a $71.99 Sports + News plan and the $82.99 main plan, and the Black Friday discount sits on the middle option.
+Discounts that end after a fixed number of months carry a known risk for any subscription business: churn, the share of customers who stop paying. A six-month introductory price brings in new households in the middle of the American football season. Whether they stay once the bill rises by $22 a month is another matter. Neither source gives a figure for how many introductory customers YouTube TV keeps.
+Public figures will not show the answer either. When Alphabet reported its third quarter on October 28, 2026, the Google subscriptions, platforms and devices line rose 11% to $14.29 billion. The company said the line includes fees for YouTube TV, YouTube Music and Premium, NFL Sunday Ticket and Google One, and it gave no YouTube TV subscriber count. Rivals do publish numbers. Fubo, another internet TV service, reported 5.7 million paid subscribers in North America in May 2026, down from 5.9 million a year earlier.
+The timing lines up with the retail calendar. The offer runs through Cyber Week, the stretch from Thanksgiving to Cyber Monday when US retailers concentrate their deepest discounts, and closes two days after it. It also arrives as YouTube's share of television viewing grows. In August 2026, YouTube took a record 15.8% of US TV viewing time, according to Nielsen. A cheaper entry ticket to YouTube TV pushes in the same direction: more television, watched through Google.
+What the sources do not say
+Neither source gives the date the offer started, the length of any free period, or how the "Try it for $0" buttons fit with the discounted months. YouTube does not say whether taxes or fees are added, or whether add-ons such as NFL Sunday Ticket are discounted. It gives no subscriber numbers, and its offer terms page has no section for this promotion.
+Key facts
+- Offer: Sports + News Plan at $49.99 a month for the first 6 months, then $71.99 a month
+- Stated saving: $132
+- Second offer: main YouTube TV plan at $59.99 a month for the first 2 months, then $82.99 a month; stated saving $46
+- Eligibility wording: "New YouTube TV users"; "Eligibility criteria apply"; main-plan footnote adds "New users only"
+- End date: December 2, 2026 ("Ends 12/2/2026")
+- Refunds: "No refunds. Cancel anytime."
+- Sports + News plan: 50+ channels including local channels; unlimited DVR space; multiview; 6 household accounts and 3 streams; optional NFL Sunday Ticket add-on at extra cost
+- Other regular prices on the page: main plan $82.99 (100+ channels); Sports Plan $64.99 (30+ channels)
+- Availability: "Available in the U.S. nationwide"
+- Company source: YouTube TV welcome page, "YouTube TV - Watch & DVR Live Sports, Shows & News," https://tv.youtube.com/welcome/ (undated; offer live on November 26, 2026)
+- News report: "YouTube TV sale drops the price to $49.99/month for a limited time," Ben Schoon, 9to5Google, November 25, 2026, 4:15 am PT, https://9to5google.com/2026/11/25/youtube-tv-black-friday-sale/
+Timeline
+- February 13, 2025: YouTube and Paramount fail to reach a carriage deal ahead of a deadline, with an $8 monthly credit promised if channels go dark
+- August 26, 2025: YouTube TV faces a Fox blackout deadline of August 27 during college football season
+- October 30, 2025: Disney channels go dark on YouTube TV; subscribers a

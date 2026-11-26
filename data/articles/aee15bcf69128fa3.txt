@@ -1,0 +1,23 @@
+URL: https://wccftech.com/anthropics-claude-can-now-build-installable-windows-and-mac-apps-without-a-single-line-of-code-even-on-its-free-plan/
+TITLE: Anthropic’s Claude Can Now Build Installable Windows And Mac Apps Without A Single Line Of Code, Even On Its Free Plan
+OUTLET: Wccftech
+
+Anthropic is taking AI-powered software development a step further. The company has introduced a new feature that allows users to create, install, and share fully interactive desktop applications through Claude using natural language prompts. Dubbed "Install as app," the feature is rolling out in beta across all Claude subscription tiers, including the free plan, on Windows and macOS.
+Claude Artifacts Break Free From The Chat Window, Becoming Installable Desktop Applications With OS-Level Integration
+Originally introduced in June 2024, Claude Artifacts enabled users to generate interactive tools, dashboards, websites, and other software prototypes directly within the chatbot. However, these creations were largely confined to Claude's web-like environment.
+Anthropic's latest update removes much of that friction. Users can now describe an application, refine its functionality through conversation, and install it directly from the artifact's Share menu. The resulting software gets a dedicated window and icon and can be launched from the Windows Start menu or macOS Spotlight, much like conventional desktop applications.
+Depending on the permissions granted, these applications can also leverage operating system features, including desktop notifications, global keyboard shortcuts, floating windows, and system tray integration. They can tap into Claude's AI capabilities and connected third-party services, while modifications to the original artifact are automatically reflected in the installed application.
+Anthropic has showcased several applications built by its employees, including:
+- Linnet: A layered image editor.
+- Phosphor: A visually stylized file manager.
+- Sift: An AI-powered file organization utility.
+- Tern: A terminal featuring an integrated Claude assistant.
+- Vitals: A lightweight system performance monitoring application.
+AI-Generated Applications Can Even Access Your Files And Execute Programs, Provided You Give Them Permission
+Anthropic has implemented three permission tiers, ranging from browser-equivalent restrictions to full computer access. The latter can allow applications to launch executables and manipulate or delete local files without requesting approval for every operation.
+Full access is generally reserved for personally created applications or those developed within a user's organization. Permissions must also be renewed whenever an application is updated. Nevertheless, Anthropic warns that it does not independently vet applications before installation.
+There are other caveats. As outlined in the company's official documentation, applications require an active internet connection and a signed-in Claude account to launch. Building them and invoking Claude through them also consumes the user's existing usage allowance. Linux, web, and mobile platforms are not supported at launch.
+The feature requires Claude Desktop version 6.28899.0 or newer.
+While Anthropic's implementation is not yet a substitute for independently distributed, offline-capable software, it represents an interesting evolution of vibe coding. Rather than searching for an application that fits a particular workflow, users could increasingly build their own bespoke utilities in minutes, without ever opening a traditional development environment.
+News Source: Anthropic
+Get Wccftech in your Google feed Follow on Google

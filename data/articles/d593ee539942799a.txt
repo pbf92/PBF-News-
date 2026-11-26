@@ -1,0 +1,17 @@
+URL: https://www.pcguide.com/pro/news-pro/anthropic-moves-claude-backend-from-python-to-rust-to-deliver-massive-cpu-and-memory-savings/
+TITLE: Anthropic moves Claude backend from Python to Rust to deliver massive CPU and memory savings
+OUTLET: PC Guide
+
+Anthropic moves Claude backend from Python to Rust to deliver massive CPU and memory savings
+AI firm Anthropic has managed to significantly reduce the amount of resources required to operate one of its most important services. In a recent engineering blog post, the company revealed that it has migrated its Messages API from Python to Rust, resulting in around 70% lower CPU usage per request and more than 80% lower memory consumption per request. Interestingly, Anthropic relied heavily on its own AI model, Claude, to make this transition possible.
+For those unfamiliar, the Messages API is the primary way developers access Claude and integrate it into their applications. Anthropic’s own products, including Claude Code and Cowork, also rely on it. The API was originally built using Python in 2023, when its responsibilities were relatively simple.
+However, between early 2024 and fall 2026, Anthropic’s API traffic grew by around 1,800 times. The introduction of new features also meant that the API had to perform considerably more work for every request, making the original Python implementation increasingly inefficient.
+Black Friday is finally here. Below, you'll find some of the biggest and best deals from this year's most exciting sales event!
+Prices correct as of November 25th, 2026.
+Porting Claude from Python to Rust
+Anthropic initially attempted to address the problem by rewriting only certain parts of the API in Rust. While this reduced CPU usage by around 8% to 10%, the company found that maintaining a system that constantly switched between two programming languages introduced additional complexity. This eventually led to the decision to migrate the entire API to Rust.
+What’s particularly interesting is that Claude managed to write the first version of the API’s core request processing code in about a week. However, ensuring that the new system worked exactly as intended proved to be a much bigger challenge.
+For instance, in April, the Rust-based API passed around 98% of its tests, yet only around a quarter of the inputs matched those processed by the existing Python version during real-world testing.
+To address this, Anthropic ran both versions alongside each other and compared how they handled actual API traffic. Whenever a difference was detected, Claude agents were assigned to investigate the problem and develop a fix. Human engineers reviewed the proposed changes before they were deployed, while additional checks ensured that the fixes worked under real-world conditions.
+Aside from significantly reducing CPU and memory usage, the migration also reduced the median time to first token by around 20% for the measured Claude Code requests. In simpler terms, users started receiving responses sooner. Meanwhile, lower resource consumption means Anthropic can handle more requests with the same amount of hardware. Another interesting part is that Anthropic managed to complete the migration without taking the service offline or putting the development of new features on hold.
+In similar news, Discord is also working through a major overhaul of its desktop app by moving away from Electron in favor of a new Rust-based client. And a leaked build of Discord Phoenix shows a massive improvement in resource consumption.
