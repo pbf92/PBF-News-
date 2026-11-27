@@ -1,0 +1,19 @@
+URL: https://www.tweaktown.com/news/114930/github-deletes-post-promoting-ps5-to-pc-project-anyps5-days-after-axing-3000-gta-6-pc-port-repos/index.html
+TITLE: GitHub deletes post promoting PS5-to-PC project AnyPS5 days after axing 3,000 GTA 6 PC port repos
+OUTLET: TweakTown
+
+The Microsoft-owned platform posted a message celebrating AnyPS5, a project that has passed 58,000 stars since its August launch, and tied it to GTA 6's release.
+Go ad-free with SupporterSee plans and prices
+The post opened by calling the game's arrival one of the biggest weeks in gaming and open source on GitHub. It then asked followers, "Does changing where games run cross a legal line?" and signed off with "Happy GTA VImas." It was deleted soon after backlash, but not before people screenshotted it and reuploaded the video.
+AnyPS5 isn't a traditional emulator. It converts PS5 executables into native Windows and Linux programs and swaps the console's system libraries for its own. It doesn't distribute proprietary game files and hasn't yet shown GTA 6 running on PC. The video in the post played up the GTA 6 angle, though. It featured a contributor's comment urging people to put their agents to work with only days left before the game launched.
+Earlier this week, GitHub processed a DMCA notice from Take-Two that removed more than 3,000 repositories tied to an unofficial GTA 6 PC port, known as Leonida, which was based on a leaked Xbox build of the game.
+One Reddit user said GitHub was "openly taunting Sony and Rockstar." Even the AnyPS5 subreddit seemed baffled, with a user asking if AI was running GitHub's socials. Others pointed out that Take-Two has been going after recompiled GTA 6 builds, so it's hard to imagine it enjoyed the post.
+Story Q&A
+Powered by TweakBot
+From TweakTown's coverage of this story.
+What technical hurdles remain before AnyPS5 can run PS5 games reliably on Windows and Linux?
+Which PS5 games have been demonstrated running through AnyPS5, and how do they perform?
+What PC hardware and software does AnyPS5 require to translate PS5 executables?
+How does AnyPS5’s translation-layer approach differ from conventional emulation?
+Got another question? Ask TweakBot.
+Emulation and translation layers are not illegal in themselves. The legality tends to hinge on how the games are obtained, which is why the post's question drew so many replies. GitHub has yet to explain the deletion.

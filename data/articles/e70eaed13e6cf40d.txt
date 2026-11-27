@@ -1,0 +1,7 @@
+URL: https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/householdcostsindicesforukhouseholdgroups/julytoseptember2026/relateddata
+TITLE: All data related to Household Costs Indices for UK household groups: July to September 2026
+OUTLET: Office for National Statistics
+
+All data related to Household Costs Indices for UK household groups: July to September 2026
+Changes in costs for UK household groups and all households, including Household Costs Indices (HCIs), 12-month growth rates, expenditure shares, and contributions.
+- Household Costs Indices inflation rates, indices, weights and contributions for income deciles, tenure types, retirement status and households with and without children, monthly data.

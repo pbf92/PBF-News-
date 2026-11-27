@@ -1,0 +1,20 @@
+URL: https://www.ggrecon.com/articles/gta-6-xbox-one-cloud-digital-foundry/
+TITLE: Digital Foundry calls GTA 6 on Xbox One a 'remarkable feat'
+OUTLET: GGRecon
+
+Digital Foundry calls GTA 6 on Xbox One a 'remarkable feat'
+Digital Foundry says streaming GTA 6 to an Xbox One from Series S hardware works far better than expected, making it the cheapest way into Leonida.
+Image via Rockstar Games
+Digital Foundry calls GTA 6 on Xbox One a 'remarkable feat'
+Digital Foundry says streaming GTA 6 to an Xbox One from Series S hardware works far better than expected, making it the cheapest way into Leonida.
+Image via Rockstar Games
+If you've still got an Xbox One under the telly, it turns out it might be a perfectly decent way to play GTA 6, as Digital Foundry has called the old console's version of the game a "remarkable feat" in a new performance analysis.
+GTA 6 doesn't run natively on Xbox One, of course, as it works by streaming the Xbox Series S version of the game from Microsoft's servers, and Digital Foundry's testing (as reported by VGC) found the picture quality was "significantly" better than other games available via streaming, which suggests Xbox has thrown some extra resources at it.
+Old dog, new tricks
+Digital Foundry's Thomas Morgan said there's no real argument that this is the cheapest way to play the game, and that he was impressed by what Microsoft has built server-side to keep latency and compression in check, to the point where he wasn't as bothered by either as he expected to be going in. He also said it was easy to forget he was streaming rather than playing natively, thanks to Xbox's work on cutting input delay.
+In side-by-side comparisons, the Xbox One image is blurrier than the Series S one, but you usually have to look very carefully to spot the difference (with the game's motion blur helping to hide it), and the frame rate is described as matching the Series S almost one to one. The main catch is frame pacing, which Digital Foundry found to be a bit uneven on Xbox One, so it won't feel quite as smooth as Series S even when both are hitting 30fps.
+Otherwise, most of the issues are ones you'll also find on Series S, which Digital Foundry previously called a strong effort despite a few more frame rate drops than other platforms. If you're curious how the rest of the consoles stack up, we've covered GTA 6's 30fps target and cloud plans, and if you've just jumped in, our list of GTA 6 tips the game doesn't tell you is worth a look.
+Well, it's not every day a console from 2013 gets a new lease of life, so it might be worth dusting yours off before it heads to the loft for good.
+About The Author
+Jake Bannister
+Jake is GGRecon's Co-Founder and Operations Director. You'll find him covering our word game brain teasers, as well as sports games such as Football Manager and EA FC. He's also that teammate on your Rocket League team spamming "Wow!".

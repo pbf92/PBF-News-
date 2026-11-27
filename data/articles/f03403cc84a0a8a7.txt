@@ -1,0 +1,22 @@
+URL: https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-futures-rangebound-as-investors-await-nvidia-earnings/cZYNONDRJom
+TITLE: S&P 500, Dow, Nasdaq Futures Rangebound As Investors Await Nvidia Earnings, Key Inflation Reading — MRNA, SPCX, PSKY, OpenAI In Focus
+OUTLET: Stocktwits
+
+US stock indices ended higher on Tuesday as investors took respite from cooling oil prices and easing yields ahead of earnings from Nvidia and Marvell Technologies.
+The S&P 500 ended Tuesday 0.3% higher, while the Nasdaq 100 gained 0.6% and the Dow Jones Industrial Average climbed 0.3%. The Russell 2000, which tracks stocks with small market capitalizations, rose 0.5%.
+Dow Jones Industrial Average futures and S&P 500 futures were little changed, while Nasdaq-100 futures rose nearly 0.1%.
+Among ETFs tracking benchmark indexes, the SPDR S&P 500 ETF (SPY) fell 0.3%, and Invesco QQQ Trust (QQQ) ended Tuesday 1% lower, while the SPDR Dow Jones Industrial Average ETF Trust (DIA) was up 0.3%.
+Meanwhile, the VanEck Semiconductor ETF (SMH) and iShares Semiconductor ETF (SOXX) gained about 1.7%, regaining most of the previous session's losses, tracking gains in Micron Tech (MU) and Nvidia (NVDA) stock. The broader Vanguard Information Technology ETF (VGT) rose 0.9%.
+Retail sentiment on Stocktwits for QQQ, SPY, and DIA was ‘bearish’ with ‘high’ message volumes.
+Market sentiment improved following news reports that the U.S. will redeploy diplomats to Middle Eastern embassies, alleviating fears of broader regional conflict. Simultaneously, a retreat in crude oil prices dampened inflation anxieties, providing a tailwind for Treasury markets.
+Bond yields slid, with the benchmark 10-year Treasury note yield falling more than 7 basis points to 4.625%, and Brent crude prices retreated to settle under the $90 threshold, as market participants weighed the potential for renewed energy transit via the Strait of Hormuz.
+Investor attention was solely focused on the semiconductor sector ahead of quarterly earnings from Nvidia (NVDA) and Marvell Technologies (MRVL).
+Analysts estimate Nvidia’s revenue is expected to hit $92.2 billion in the quarter ending July, nearly double from the same quarter last year, with earnings expectations of $2.09 per share.
+“Nvidia is operating on all cylinders, and they’re doing absolutely everything correctly at this point,” Mark Malek at Siebert Financial told Bloomberg. “We’re anticipating good news here, but so is everybody.”
+In addition, investors will keep a keen eye on the personal consumption expenditure price index reading for July, due out on Wednesday.
+Moderna (MRNA): Renewed optimism around its cancer vaccine program, buoyed by Wolfe Research’s $9.2 billion peak sales estimate, drove share price higher.
+Paramount Skydance (PSKY): Potential buyers and Wall Street intermediaries are actively assessing valuable entertainment properties that could be unloaded as Paramount Skydance Corp. (PSKY) navigates prolonged antitrust litigation over its proposed takeover of Warner Bros. Discovery Inc. (WBD).
+SpaceX (SPCX): The company announced that its Falcon 9 rocket completed its final planned Starlink mission from Florida and plans to invest $100 billion to build the world's largest launch facility.
+Lululemon Athletica (LULU): The athleisure company is expected to reduce its full-year 2026 earnings guidance again, UBS said.
+OpenAI: The company’s Jalapeno chips performed better than Nvidia’s current lineup during testing, SemiAnalysis said.
+For updates and corrections, email newsroom[at]stocktwits[dot]com.

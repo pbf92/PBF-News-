@@ -1,0 +1,8 @@
+URL: https://www.tradingview.com/news/gurufocus:f4253da0d094b:0-alphabet-stocks-move-lower-as-record-credit-spreads-shadow-ai-spending/
+TITLE: Alphabet Stocks Move Lower as Record Credit Spreads Shadow AI Spending
+OUTLET: TradingView
+
+Alphabet Stocks Move Lower as Record Credit Spreads Shadow AI Spending
+Alphabet GOOGL shares moved lower 0.53% to $271.66 at 10:35 a.m. ET on Friday, November 27, missing a broad tech rebound as investors kept pricing the cost of its AI build-out. The Motley Fool tied Wednesday's slide to record five-year credit default swap spreads on Alphabet debt, and the Class A shares touched a 52-week low of $262.73 that session.
+The numbers explain the nerves. Third-quarter capital spending reached $51.36 billion, up 114% from a year earlier, and free cash flow turned negative at minus $9.07 billion, FinanceFeeds reported this week. Demand signals are also under scrutiny: TF International's Ming-Chi Kuo said Google could take about 1 million fewer TPU-8i chips in 2027, roughly 20% of expected volume, JournalArta reported, though neither company confirmed it.
+The GuruFocus chart shows a GF Score of 98/100, built on top-tier profitability and a solid balance sheet. The GF Value of $277.49 implies a 2.1% discount, which GuruFocus calls fairly valued: the 33.5% fall from the $408.61 May peak has pulled the shares back to the model's fair value, not below it. That leaves little valuation cushion if spending keeps outrunning cash generation. The next test is Alphabet's next quarterly report, where capex guidance and free cash flow will show whether spending is peaking.

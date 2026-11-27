@@ -1,0 +1,55 @@
+URL: https://invezz.com/za/news/2026/11/27/is-nvidia-stock-wall-streets-biggest-black-friday-bargain/
+TITLE: Is Nvidia stock Wall Street's biggest Black Friday bargain?
+OUTLET: Invezz
+
+Is Nvidia stock Wall Street's biggest Black Friday bargain?
+powered by
+Buy NVDA. It’s trading ~9x next-year earnings versus ~17x Broadcom and ~27x AMD, while data-center revenue is still surging (+110%) and management guides strong fiscal 2028 growth (~75%). Huang’s return also directly reduces near-term execution fears (supplier/product/retention). Upside case is simple: if earnings land near consensus and the multiple normalizes toward ~15x, the stock can re-rate sharply.
+Key Risk: Earnings miss (especially fiscal 2028) and the market refuses to pay a higher multiple, turning the “discount” into a value trap.
+Buy AMD. The article highlights NVDA’s relative cheapness, but AMD’s forward multiple (~26.9x) implies the market is already pricing in a lot of success. If AI demand stays broad and NVDA’s re-rating lifts the whole AI compute complex, AMD can benefit from multiple expansion even without matching NVDA’s growth rate.
+Key Risk: AI/accelerator execution disappoints and AMD’s premium multiple compresses further, offsetting any sector tailwind.
+- Nvidia trades at nine times projected earnings for the next fiscal year.
+- Nvidia expects fiscal 2028 revenue to grow by 75% despite margin pressures.
+- Governance risks and growing commitments could make Nvidia a value trap.
+Nvidia stock NASDAQ:NVDA climbed 4.7% in premarket trading on Friday as investors returned to beaten-down artificial intelligence stocks.
+The chipmaker closed Wednesday at $149.30, more than 37% below its October record high, despite reporting quarterly revenue growth of 103% earlier this month.
+The sell-off has left Nvidia trading at just nine times its projected earnings for the next fiscal year, while several Wall Street brokerages have upgraded the stock following Jensen Huang’s reinstatement as chief executive.
+Nvidia stock trades at just nine times next year's earnings
+Analysts expect Nvidia to generate adjusted earnings of $9.67 per share in fiscal 2027 and $16.61 in fiscal 2028, according to S&P Global estimates.
+Based on Wednesday’s close, Nvidia trades at 15.4 times its current fiscal year's projected earnings and nine times those expected the following year.
+The discount becomes particularly striking when compared with other semiconductor companies.
+On a forward price-to-earnings basis, Stock Analysis puts Nvidia’s multiple at 10.3, compared with 17.3 for Broadcom and 26.9 for Advanced Micro Devices.
+Melius Research upgraded Nvidia to Buy from Hold this week, raising its price target from $185 to $220.
+Analyst Ben Reitzes said Huang’s return alleviated concerns about supplier relationships, product development and employee retention.
+His revised target reflects approximately ten times projected fiscal 2029 earnings, a multiple he described as “still well below Nvidia’s historical averages” in a note published by Price Target.
+Applying an illustrative multiple of 15 to consensus fiscal 2028 earnings would value Nvidia at approximately $249 per share, implying 67% upside.
+However, reaching that valuation would require both Nvidia meeting earnings expectations and investors becoming willing to pay a higher multiple for those profits.
+NVDA stock price: Can Nvidia deliver growth Wall Street expects?
+Nvidia’s latest financial results offer considerable evidence that demand for its computing platforms remains strong.
+Third-quarter revenue reached $115.8 billion, with data centre sales climbing 110% to $107.6 billion. GAAP operating profit increased 115% to $77.5 billion.
+The company forecasts fourth-quarter revenue of approximately $130 billion, excluding data centre compute sales from China.
+While that represents sequential growth of 12.3%, the quarter contains an additional reporting week. On an average weekly basis, the projected increase is a more modest 4.2%.
+The longer-term outlook remains considerably stronger, with management anticipating revenue growth of approximately 75% in fiscal 2028.
+Nvidia has also begun shipping its next-generation Vera Rubin computing systems, with deployments across major cloud providers, including Microsoft Azure, Google Cloud and Oracle.
+However, the product transition is putting pressure on profitability.
+Nvidia expects adjusted gross margins of between 71% and 72% this quarter, compared with 74.9% in the previous period.
+Management anticipates margins will subsequently recover to between 72% and 73% in fiscal 2028, although that would still leave profitability below recent levels.
+Could Nvidia's Black Friday bargain become a value trap?
+Huang’s reinstatement has not resolved all the concerns surrounding Nvidia’s corporate governance or its increasingly complex financial involvement in the AI infrastructure industry.
+S&P Global Ratings placed Nvidia’s AA credit rating on CreditWatch Negative on Wednesday, citing management and governance risks.
+Meanwhile, the company’s combined cloud service agreements and data centre lease commitments reached $102 billion last quarter, up from $74 billion three months earlier.
+Although these arrangements support Nvidia’s research and development activities, they also underline the scale of its financial commitments to the wider AI ecosystem.
+Not every Wall Street analyst is convinced that Huang’s return warrants a more bullish recommendation.
+Truist Securities analyst William Stein reiterated his Hold rating and $174 price target on Tuesday, according to Price Target.
+Should fiscal 2028 earnings estimates fall by 20%, valuing Nvidia at eight times those revised profits would imply a share price of approximately $106, nearly 29% below Wednesday’s close.
+Nvidia’s valuation makes it a compelling Black Friday candidate among major semiconductor stocks, particularly if the anticipated earnings growth materialises.
+But investors should distinguish between buying a stock at a discount and buying earnings that may themselves prove overly optimistic.
+AI disclosure: AI tools assisted with research and drafting of this piece. An Invezz editor reviewed the facts, sources and wording before publication. Any opinions or analysis are Invezz’s, not those of an automated system.
+Dow futures surge 650 points: 5 things to know before Wall Street opens
+Adidas, Puma stocks fall as JPMorgan downgrades both on 2027 outlook
+SpaceX stock surges 7.5%: could Elon Musk's giveaway spark a bigger rally?
+Samsung, SK Hynix stocks surge: why smart money sees a buying opportunity
+Stephen Yiu explains why Nvidia stock isn't out of the woods just yet
+No results found
+Loading articles...
+Failed to load articles. Please try again.

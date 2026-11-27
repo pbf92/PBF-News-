@@ -1,0 +1,65 @@
+URL: https://ppc.land/live-event-ad-slot-type/
+TITLE: Live event ad slot type
+OUTLET: PPC Land
+
+Live event ad slot type is a dimension in Amazon Ads unified reporting that labels each ad slot inside a live broadcast by the way it was sold. Amazon defines it as "the sales model for the live-event ad slot," according to the unified reporting dimensions reference updated on November 11, 2026 and quoted in PPC Land's count of the 156 unified report dimensions. The field exists because a commercial break in a live game is rarely sold in one way. Some slots are committed months ahead in upfront negotiations, some through programmatic guaranteed deals, and others are filled by auction. Those routes carry different prices and promises, which a total live sports spend figure hides.
+Where the field sits
+Unified reporting groups its 156 attributes into 11 categories. Live event ad slot type is one of nine live event attributes in the Supply category, alongside live event property, genre, content provider, ID, name, inventory type, ad break order and ad slot order. PPC Land found that six of the nine trace back to a former Amazon "Live Event report", although it did not say which six.
+The Supply category is almost entirely a DVA+ block: 34 of its 35 attributes carry the DVA+ marker. DVA+ is the AI-assisted campaign type Amazon introduced on September 29, 2026, when it renamed Amazon DSP (demand-side platform) as DVA. PPC Land lists "live event ad slots" among its capabilities, but Amazon does not mark availability field by field, so DVA+ coverage is an inference from the category. Amazon's general rule covers everything else: "When a dimension does not apply to an ad product, its value appears as null." A Sponsored Products row, or a streaming TV impression outside a live event, returns a blank.
+How a live break is structured
+Live event reporting describes inventory at three levels. The event is a single game, identified by live event ID and name. Inside it sit ad breaks, numbered by live event ad break order, and inside each break sit ad slots, numbered by live event ad slot order. Slot type adds not where the slot sat, but under what terms it was sold.
+The industry's bidding protocol describes the same structure. OpenRTB, maintained by IAB Tech Lab and explained in PPC Land's OpenRTB explainer, added ad pod fields in version 2.6, released in early 2022. A pod is a group of ads played back to back in one break. In the video object, podid identifies the pod, podseq gives its place in the programme and slotinpod gives the ad's place within it, where 1 means first, -1 last, 2 first or last and 0 any position. The same version added guar to the Deal object to flag a guaranteed agreement. OpenRTB has no field for "sales model", so a platform must infer it from whether a deal was attached, which kind, or whether the slot was filled outside the auction.
+A June 11, 2026 release added realtime and firstbroadcast to the Content object to separate a live match from a replay, and IAB Tech Lab's Live Event Ad Playbook guide, released for comment on October 28, 2026, addresses forecasting for live streams. Neither standardises a sales model per slot.
+The sales models behind a slot
+Amazon has not published the field's values. Its documented sales routes suggest what the field separates.
+Upfront and direct guaranteed. Large live properties are sold first in annual negotiations. Amazon presented Thursday Night Football, the NBA, the WNBA and NASCAR at its upfront in New York on May 11, 2026, and commitments made there reserve inventory before programmatic buyers see it.
+Programmatic guaranteed. A programmatic guaranteed deal fixes price and volume in advance but delivers through automated pipes. Amazon introduced guaranteed deals for Prime Video on August 1, 2024 in nine countries, with an option to serve only on pre-roll placements.
+Biddable. Auction-based buying covers open auction, private auction and preferred deals, each tied to a deal ID except the open auction. On July 9, 2024 Amazon opened live event open auction supply to self-service DSP buyers in the United States, Canada and Mexico, and made live inventory "selected by default for any newly created video ad line," according to the announcement.
+Live events optimisation. Amazon's Live Events Optimizer, dated December 1, 2025, is a streaming TV line item that buys certified live deals across Amazon-owned and open-internet supply, set in the API with "inventoryType": "LIVE_EVENTS".
+Backfill. Slots left unsold can be filled late. On September 10, 2026 Amazon Web Services added Yield Optimization to its MediaTailor ad insertion service, letting publishers in Amazon Publisher Services (APS) fill empty live ad breaks with Amazon demand. Publishers set floors and category rules so that competing advertisers do not land in the same pod.
+How campaign rules map to slot types
+Amazon's guide to DVA+ advanced streaming TV campaigns, updated on November 17, 2026, sets out three ad group types. As PPC Land reported, biddable ad groups take open auction, private auction and preferred deals that are not certified live events, live events ad groups take certified live inventory and use "programming schedule data" to pace delivery, and guaranteed ad groups "can only target a single PG or PG-SOV deal, with no other inventory selected." PG-SOV deals reserve a share of a seller's delivery rather than a number of impressions. Slot type is the reporting counterpart.
+A worked example
+Consider an illustrative sportswear campaign in one Thursday Night Football game, holding an upfront commitment, a programmatic guaranteed deal and a biddable live events ad group. A report split by break order, slot order and slot type might show the first slot of break two sold under the upfront commitment, two mid-pod slots in breaks four and seven delivered through the guaranteed deal, and three late-game slots won at auction. A hypothetical US$32 cost per thousand impressions (CPM) on the auction slots against US$48 on guaranteed ones would have to be weighed against the missing delivery promise and the later pod positions. Amazon publishes no slot-level price benchmarks.
+Origin and evolution
+Thursday Night Football moved exclusively to Prime Video with the 2022 season, and Prime Video introduced ads by default in the United States in January 2024. Amazon agreed an 11-year NBA rights deal in July 2024, starting with the 2025-26 season; PPC Land's coverage gives both July 24 and July 25 as the announcement date. Alan Moss, Amazon's vice president of global advertising sales, said the company had found 80 net new advertisers through the NFL package and 30 new advertisers in the NBA's first year.
+Reporting followed supply. The July 2024 launch added a "Live event" dimension to the DSP Report Center. Unified reporting opened in beta on November 11, 2025 and reached general availability in June 2026. The November 11, 2026 reference lists the nine live event attributes under their current names. Legacy report pages go read-only on December 17, 2026 and shut down on January 31, 2027.
+Why it matters
+Live sport is among the most expensive streaming inventory and is sold through more channels than almost any other. The field lets a buyer audit what each channel delivered, which matters more as automation spreads. Amazon's automatic deal selection for streaming TV and the Live Events Optimizer both choose inventory with limited buyer input, and the four-step DVA+ campaign builder hides most supply settings by default.
+It also bears on position. Sellers have long priced the first slot in a break above the rest. Combining slot type with slot order shows whether guaranteed money bought early positions, or whether auction buyers reached comparable slots more cheaply. Magnite said more than 5,800 advertisers bought live sports inventory through its platform for the first time, a sign of how many buyers now compare routes.
+Limitations and disputes
+No published values. As of November 2026, no public Amazon page lists the strings the field returns, whether upfront and programmatic guaranteed are separate values, or how backfill and house ads are labelled.
+An ambiguous definition. "Sales model" can describe the contract (guaranteed or auction), the channel (direct or programmatic) or both, and Amazon does not say which.
+Dependence on seller metadata. On open-internet live supply, Amazon's Live Events Deal Certification relies on what publishers declare: "sport, league, broadcaster, geography, distributor". Labels there are only as accurate as the seller's classification.
+Overlap with deal fields. Deal type already separates programmatic guaranteed, private auction and preferred deals, so slot type may repeat it for deal-bought slots.
+Self-reporting. Amazon reports on inventory it also sells. No independent body audits slot-level delivery or the labels attached to it.
+Commonly confused terms
+Live event ad slot order. The position of a slot within a break, close to OpenRTB's slotinpod. Slot type says how the slot was sold, not where it sat.
+Live event ad break order. The sequence number of the break within the broadcast, such as the third break of a match.
+Live event inventory type. The kind of inventory in each break, as distinct from the commercial terms of each slot inside it.
+Deal type. A general DVA+ supply field covering all deal-based buying, live or not. Slot type is populated only for live events and can describe slots bought without any deal.
+Recent developments
+Amazon's November 11, 2026 update to its unified reporting reference brought the field into public documentation, as covered in PPC Land's 156-dimension count the next day. On November 17, 2026, Amazon's updated streaming TV guide formalised live events as a separate ad group type. In June 2026 Prime Video took the NBA Finals to 17 named countries, widening the pool of live slots outside the US. DVA+ remains in US closed beta, with wider availability planned for the first quarter of 2027.
+Timeline
+- Early 2022 - IAB Tech Lab releases OpenRTB 2.6 with ad pod fields and a guaranteed flag in the Deal object.
+- September 2022 - Thursday Night Football begins its exclusive run on Prime Video.
+- January 2024 - Prime Video introduces ads by default in the United States.
+- July 9, 2024 - Amazon opens live event open auction supply to self-service DSP buyers in the US, Canada and Mexico.
+- July 2024 - Amazon agrees an 11-year NBA rights deal starting with the 2025-26 season.
+- August 1, 2024 - Amazon launches programmatic guaranteed deals for Prime Video in nine countries.
+- November 11, 2025 - Amazon Ads unified reporting enters beta.
+- December 1, 2025 - Live Events Optimizer launch note published for live event buying on Amazon DSP.
+- May 11, 2026 - Amazon holds its upfront at the Beacon Theatre, presenting its live sports slate.
+- June 8, 2026 - Unified reporting reaches general availability.
+- June 11, 2026 - OpenRTB 2.6-202606 adds realtime and firstbroadcast content signals.
+- September 10, 2026 - AWS adds Yield Optimization to backfill empty live ad breaks for APS publishers.
+- September 29, 2026 - Amazon DSP renamed DVA; DVA+ enters US closed beta.
+- October 28, 2026 - IAB Tech Lab releases its Live Event Ad Playbook implementation guide for comment.
+- November 11, 2026 - Amazon updates its unified reporting reference, defining live event ad slot type.
+- November 17, 2026 - Amazon's streaming TV guide sets out biddable, live events and guaranteed ad groups.
+- December 17, 2026 - Legacy Amazon report pages scheduled to become read-only.
+- January 31, 2027 - Legacy Amazon DSP and sponsored ads reports scheduled to shut down.
+Related PPC Land coverage
+- 85 of Amazon's 156 unified report dimensions apply to Sponsored Products - Quotes Amazon's definition of live event ad slot type and lists the nine live event fields.
+- Amazon sizes streaming TV budgets as commitment plus up to five fees - Sets out the biddable, live events and guaranteed ad group rules.
+- APS streaming publishers gain Amazon backfill for empty live ad breaks - 

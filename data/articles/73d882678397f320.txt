@@ -1,0 +1,64 @@
+URL: https://ppc.land/live-event-inventory-type/
+TITLE: Live event inventory type
+OUTLET: PPC Land
+
+What the field is
+Live event inventory type is a reporting dimension in Amazon Ads unified reporting. It attaches a label to every row of live-event delivery data describing the type of inventory the ad break belonged to. It exists because a live game is not one uniform block of advertising. Breaks can come from different sources and carry very different prices, and a buyer paying a premium cost per thousand impressions (CPM) for sport needs to see which kind of break the money reached.
+The field is one of nine live event attributes in the reference that Amazon updated on November 11, 2026. PPC Land's count of Amazon's 156 unified report dimensions, published on November 12, 2026, describes the block as covering the property, genre, content provider, ID and name of the event, together with "the inventory type of each ad break," "the order of the break within the event" and "the order of the slot within the break." Amazon has not published a public list of the values the field returns, so points that rest on inference are flagged below.
+Where it sits in a report
+Unified reporting builds tables from dimensions, which describe a row, and metrics, which count what happened in it. Adding Live event inventory type to a report breaks impressions, cost, reach and completed views into one row per inventory type.
+The nine fields form a hierarchy that runs from the rights deal down to the individual ad:
+- Live event property - "the rights package, league, or content property associated with the live event inventory," in Amazon's words as quoted by PPC Land.
+- Live event genre and Live event content provider - the kind of event and the company supplying the stream.
+- Live event ID and Live event name - the specific game, race or show.
+- Live event inventory type - the type of inventory behind each ad break.
+- Live event ad break order - the position of the break within the event.
+- Live event ad slot order - the position of the ad within the break.
+- Live event ad slot type - "the sales model for the live-event ad slot."
+Inventory type therefore sits at break level. It describes the container, while ad slot type describes how the individual spot inside it was sold. In an illustrative case, a DVA+ campaign delivering 1.2 million impressions across one Thursday night game could appear as two rows under Live event name and inventory type, each with its own cost and completion rate. Adding ad break order would show whether delivery bunched in the first quarter or the final minutes.
+PPC Land's analysis places the live event fields in the supply category, the largest block of DVA+-only dimensions, and lists "live event ad slots" among the attributes that DVA+ carries and the sponsored ads products do not. No separate product marker for inventory type has been found, so the DVA+-only reading is an inference. Where a dimension does not apply, Amazon says "its value appears as null," and Sponsored TV is not yet supported in unified reporting.
+How live inventory gets classified
+Without published values, existing classifications of live supply are the best guide to what an inventory type can mean.
+The first is Amazon's own buying setup. Its Live Events Optimizer, dated December 1, 2025 on its launch page, is a line item strategy under the Streaming TV media type. Its inventory widget offers "Amazon owned & operated and/or Open Internet live events inventory," and the application programming interface (API) marks such ad groups with "inventoryType": "LIVE_EVENTS". Open internet deals must be "certified as Live Events content by Amazon DSP," with the publisher declaring the sport, league, broadcaster, geography and distributor. That owned-versus-certified split is the most obvious distinction in Amazon's live business.
+The second is the industry bid request. OpenRTB, the IAB Technology Laboratory (IAB Tech Lab) protocol for real-time auctions, added ad pods in version 2.6, letting a stream describe a break (podid), the break's position in the content (podseq) and the slot's position in the break (slotinpod). Those concepts map closely onto Amazon's break order and slot order fields. According to RTBlint's field-by-field review, the OpenRTB 2.6-202606 snapshot released on June 11, 2026 redefined content.livestream to separate scheduled linear viewing from on-demand viewing and added content.realtime and content.firstbroadcast. A live final airing now carries 1, 1, 1 on those three flags. A rerun on a linear channel carries 1, 0, 0.
+Origin and evolution
+The field's ancestry is in the Amazon DSP's older reports. PPC Land found that six of the nine live event attributes "trace their former names to a 'Live Event report.'"
+On July 9, 2024, Amazon opened live event open auction supply to self-service DSP advertisers in the US, Canada and Mexico, supply that had been "previously only accessible to managed advertisers." Live inventory became a default selection on new video lines. Supply-level results went into the inventory report, while property-level results, such as NBA League Pass, sat in the DSP Report Center "under the 'Live event' dimension."
+Supply expanded through 2025. Amazon's NBA season launch post of October 24, 2025 introduced programmatic access to NBA League Pass, which it called "Amazon's first 100% programmatic sports offering with substantial scale." Live Events Optimizer followed in December 2025. By July 21, 2026, Amazon reported "over 375 certified deals across 28 sports" through its Certified Supply Exchange partners since December 2025, according to Chris Conetta, director of omnichannel supply at Amazon Ads.
+Unified reporting then turned the single dimension into nine. Amazon launched unified reporting in beta in November 2025, and it reached general availability on June 8, 2026. On September 29, 2026, Amazon renamed the Amazon DSP as DVA, with DVA+ as its AI-led campaign type. The November 11, 2026 dimensions reference set out the nine live event fields under their current names.
+Why it matters for marketers
+Live sport has become the centre of Amazon's video pitch. Alan Moss, Amazon's vice president of global advertising sales, said in May 2026 that Prime Video and live sports are now one business, with the NFL bringing 80 net new advertisers and the NBA 30 in its first year. Amazon reports a 2025 Thursday Night Football average audience of 15.3 million viewers aged two and over. It also cites MRI-Simmons data showing 52% of NBA on Prime viewers cannot be reached through linear television. Prime Video's NBA coverage opened on October 24, 2025.
+Those audiences are sold at premium prices, and a campaign can now mix Amazon's own streams with third-party sports supply in one line item. Without a break-level label, a blended live CPM hides whether the premium bought a national NFL broadcast or a regional stream from an exchange. Live demand also arrives in spikes when breaks start at once for millions of viewers, which Magnite's playbook for the 2026 World Cup addressed by sending ad requests slightly before scheduled breaks.
+Limitations and disputes
+The largest limitation is documentation. Amazon's reference, as reported, describes the field in a single phrase, with no value list and no mapping from the old Live Event report, so legacy and unified comparisons rest on assumptions.
+The definition of "live" is itself contested. IAB Tech Lab's 2026 update was prompted by the problem that sellers used one flag for three different things: content happening at the moment of the bid, content streamed in real time but not live, and content in its first broadcast window. "As more live events move into programmatic channels, a total shift in strategy is needed," said Anthony Katsur, chief executive of IAB Tech Lab, according to TV Technology. Rob Hazan of The Trade Desk said the signals "help us better understand the context of live inventory." Whether Amazon's inventory type reflects those new flags is not stated.
+Certification is declared rather than measured: Amazon's live deal certification relies on publisher-supplied metadata, so a third-party label is only as reliable as the seller's declaration. Legacy reports become read-only on December 17, 2026, and unmigrated reports will be deleted on January 31, 2027, leaving a short window to reconcile old live data with the new fields.
+How it differs from similar fields
+- Live event ad slot type describes the sales model of an individual slot. Inventory type describes the break that contains it.
+- Supply type separates Amazon owned and operated inventory from the open internet across all formats. Inventory type applies only to live-event breaks and sits at a finer level.
+- Content type classifies the programme being watched across all video, live or not. Live event fields return values only for certified live inventory.
+- Ad break position and Video placement type describe where an ad ran in any video stream, such as pre-roll or mid-roll. Live event ad break order counts breaks within a specific event.
+Recent developments
+The plumbing behind live reporting is still being standardised. IAB Tech Lab released its Live Event Ad Playbook on August 5, 2025, developed with Amazon, NBCUniversal, FreeWheel and Index Exchange, proposing a Concurrent Streams API that reports how many viewers are watching a stream in real time. On October 28, 2026, IAB Tech Lab opened its implementation guide to comment until November 23, with Pramod Jagtap of Amazon Ads among those named. "Live sports and other major events are becoming a bigger part of streaming, and the industry needs the infrastructure to keep up," said Shailley Singh of IAB Tech Lab. Magnite had already launched Live Scheduler in November 2025, letting media owners publish events with sport, league, broadcaster and concurrency estimates.
+Inside Amazon, the field arrives as legacy reporting winds down, giving live sport a nine-field section within the 156 dimensions.
+Timeline
+- 2022 - OpenRTB 2.6 introduces ad pods for connected TV transactions, with fields for pod and slot position.
+- July 9, 2024 - Amazon opens live event open auction supply to self-service DSP advertisers in the US, Canada and Mexico, with a "Live event" reporting dimension.
+- August 5, 2025 - IAB Tech Lab releases the Live Event Ad Playbook, developed with Amazon, NBCUniversal, FreeWheel and Index Exchange.
+- October 24, 2025 - Prime Video's first NBA season begins; Amazon introduces programmatic NBA League Pass through the DSP.
+- November 2025 - Amazon opens unified reporting in beta; Magnite launches Live Scheduler.
+- December 1, 2025 - Amazon launches Live Events Optimizer for owned and open internet live inventory.
+- April 28, 2026 - IAB Tech Lab proposes new OpenRTB live content signals for public comment.
+- June 8, 2026 - Amazon unified reporting reaches general availability.
+- June 11, 2026 - OpenRTB 2.6-202606 redefines livestream and adds realtime and firstbroadcast.
+- July 21, 2026 - Amazon reports over 375 certified live deals across 28 sports since December 2025.
+- September 29, 2026 - Amazon DSP is renamed DVA, with DVA+ as its AI campaign type.
+- October 28, 2026 - IAB Tech Lab opens the LEAP implementation guide to comment until November 23.
+- November 11, 2026 - Amazon's dimensions reference lists Live event inventory type among nine live event fields.
+- December 17, 2026 - Legacy Amazon Ads reports become read-only.
+- January 31, 2027 - Unmigrated legacy reports are deleted.
+Related PPC Land coverage
+- 85 of Amazon's 156 unified report dimensions apply to Sponsored Products - the November 2026 analysis that describes the nine live event fields.
+- Amazon launches unified reporting system across advertising products - the beta launch of the reporting system that carries the field.
+- Amazon Ads unified reporting exits beta and takes two old tools with it - general availability in June 2026 and the tools it retired.
+- Amazon advertisers will lose unmigrated reports on January 31, 2027 - the legacy shutdown schedule.

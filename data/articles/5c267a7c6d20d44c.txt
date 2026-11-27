@@ -1,0 +1,70 @@
+URL: https://ppc.land/ad-break-position/
+TITLE: Ad break position
+OUTLET: PPC Land
+
+Ad break position is a dimension in Amazon Ads unified reporting that records where in a piece of video content an advertisement ran: at the beginning, in the middle, or at the end. Amazon's dimensions reference, as summarised by PPC Land on November 12, 2026, says the field shows whether an ad appeared at the "beginning (pre-roll), middle (mid-roll), or end (post-roll)." It exists because the same 30-second spot behaves differently depending on its slot. A viewer waiting for a programme to start and one halfway through a match are different audiences, with different completion rates and prices. The field lets advertisers see that difference in their results rather than in a blended average.
+What the field records
+The dimension applies to linear in-stream video, the kind of advertisement that interrupts the programme and takes over the whole screen. Amazon's own guide to in-stream advertising describes these as ads that "play within video players before, during, or after streaming content," and separates them from non-linear formats, such as overlays and pause ads, that "run simultaneously without interrupting the viewing experience."
+Amazon's guide to pre-roll defines the three positions plainly. Pre-roll ads "automatically play before viewers access their chosen content." Mid-roll ads "insert during natural breaks in longer content, similar to traditional TV commercial breaks." Post-roll ads "display after content completion."
+Ad break position is an attribute, not a metric. Added to a report, it splits impressions, cost, video completions and conversions into one row per position.
+As of November 2026, Amazon's dimensions reference could not be read in full outside the Amazon Ads console. The three values above are the only ones published. Whether the field also returns an unknown or null value for impressions where the seller did not declare a position is not stated in any public Amazon document.
+How position is declared in the transaction
+The label in an Amazon report starts life as a signal from the seller. When a publisher's video player reaches an ad opportunity, it asks for ads, and the request that travels through a supply-side platform (SSP) to a demand-side platform (DSP) carries a description of the slot.
+In the OpenRTB protocol, maintained by IAB Tech Lab, that description sits in the startdelay field of the video object. According to Google's Authorized Buyers documentation, "A value of 0 means pre-roll, -1 means mid-roll, and -2 means post-roll." Any positive value is the number of seconds from the start of the content to the break, which also marks a mid-roll. PPC Land's pre-roll explainer notes the field has existed since OpenRTB 2.0, published in January 2012.
+Inside the player, the schedule of breaks is often written in VMAP (Video Multiple Ad Playlist), which the Interactive Advertising Bureau (IAB) published as version 1.0 on July 19, 2012. Its timeOffset attribute takes the values "start" or "end" for breaks "inserted at the very start or end of the video content," a clock time or percentage for breaks in between, and a position marker such as "#2" when timing is unknown, as in live streams. The ads themselves arrive as VAST (Video Ad Serving Template) responses.
+Amazon has not published how it maps these signals onto its three report values. The most likely reading is that a startdelay of 0 becomes pre-roll, -2 becomes post-roll, and -1 or any positive offset becomes mid-roll. On its own properties, such as Prime Video and Twitch, Amazon is publisher, ad server and buyer at once, so the position is known first-hand rather than declared by a third party.
+Position inside the break
+A single break usually holds several ads, called an ad pod. VAST 3.0, released in 2012, introduced pods. OpenRTB 2.6, released in early 2022, added fields that describe them: podid identifies a pod, podseq gives the pod's place in the programme, and slotinpod gives the ad's place in the pod. Microsoft's integration documentation defines the slotinpod values: "-1 is the last ad in the pod, 0 any ad, 1 the first ad, and 2 the first or last ad."
+Ad break position works at a coarser level. It says which kind of break the ad ran in, not which slot within the break, and not whether it was the first or fifth mid-roll of an evening. For live events, Amazon reports those finer details in separate fields: live event ad break order, live event ad slot order and live event ad slot type, which PPC Land lists as "the sales model for the live-event ad slot."
+A worked example
+Take an illustrative DVA campaign for a breakfast cereal, buying 2 million streaming TV impressions at a US$30 CPM (cost per thousand impressions), or US$60,000. The headline report shows a 95% completion rate. Split by ad break position, 500,000 impressions ran pre-roll, 1.4 million mid-roll and 100,000 post-roll. Post-roll might show the lowest completion, since viewers often leave once an episode ends. The numbers are invented; Amazon has not published position-level benchmarks.
+Origin and evolution
+Standards for video ad positions began in 2008, when the IAB published VAST 1.0. The 2012 trio of VAST 3.0, VMAP 1.0 and OpenRTB 2.0 made position machine-readable across ad servers and exchanges. OpenRTB 2.6 in 2022 extended that to the pod and the slot.
+Amazon's buying tools adopted position as a control before it became a reporting column. On August 1, 2024, Amazon said programmatic guaranteed deals for Prime Video could "serve only on pre-roll placements," a change PPC Land reported on August 4, 2024. On December 19, 2024, Amazon let self-service DSP buyers "target specific in-stream positions (pre-roll, mid-roll, or post-roll)" for streaming TV and online video, replacing an older video ad format setting. That launch covered third-party and Amazon Publisher Direct inventory, with Amazon-owned inventory "planned for Q2 2025," according to the announcement.
+Unified reporting, launched in beta on November 11, 2025 and made generally available on June 8, 2026, brought the position into a shared report builder across Amazon's ad products. PPC Land counted the field among 156 dimensions in 11 categories after Amazon updated its reference on November 11, 2026, placing it in the Supply category under video placements.
+Why it matters
+Position carries a price. Streaming services and podcast networks sell slots differently by position, and buyers pay for the audience they expect in each. In podcasting, the IAB and PwC found mid-roll accounted for 74% of US podcast ad revenue in 2019 and 63% in 2022, with post-roll never above 6%, according to PPC Land's mid-roll explainer.
+It also matters because Amazon's own supply of breaks grew. Prime Video began showing ads by default in January 2024 at 2 to 3.5 minutes per hour, and the load roughly doubled to 4 to 6 minutes, according to eMarketer citing Adweek, without a formal announcement. More minutes mean more mid-roll slots.
+For DVA+, in which Amazon's systems choose much of the inventory, the field becomes a check on where spend went. A buyer who restricted a campaign to pre-roll can confirm the restriction held.
+Limitations and disputes
+The first limitation is signal quality. On the open internet, position depends on what the seller declares, and fields such as startdelay and podseq are optional. Index Exchange, in its guide to positional transparency, says "these parameters are optional" and that the industry needs wider adoption "before we see increased signals and transparency."
+The second is coarseness. Index Exchange describes "the first and last ad breaks in a show, as well as the first and last slots in an ad break" as premium positions. Ad break position cannot show either. A mid-roll in minute three and one in minute 58 share a label.
+The third is completion bias. CTV ads are mostly non-skippable, and PPC Land has reported warnings that a 98% completion rate on CTV is automatic, not earned.
+The fourth is the structure of the break itself. Aviram Sharon, chief executive of InTheGame, argued in an IAB Tech Lab member post dated October 29, 2026 that "on most CTV services the entire ad load sits in a handful of two- to four minute interruptions," and that some ads should move out of the break into overlays and squeezebacks. PPC Land noted the post gave no source for that range and that InTheGame sells such formats. Those formats fall outside ad break position entirely.
+Finally, PPC Land's table marks 34 of 35 Supply attributes for DVA+ but does not mark ad break position individually, so its applicability to sponsored ads products is unconfirmed. Inapplicable dimensions return null.
+Commonly confused terms
+Video placement type. Describes the kind of placement (in-stream, accompanying content, interstitial, or out-stream), echoing the OpenRTB plcmt values IAB Tech Lab clarified on February 4, 2025. Ad break position only applies within in-stream placements.
+Live event ad break order. The sequence number of a break within a live broadcast, such as the third break of a match. Ad break position gives the type of break, not its order.
+Live event ad slot order. The ad's place within one break, closer to OpenRTB's slotinpod than to startdelay.
+Placement classification. A sponsored ads field for where on the Amazon store an ad appeared, such as top of search. It describes page location, not time within video.
+Recent developments
+On November 11, 2026, Amazon updated its unified reporting dimensions reference, the source of the published description of ad break position. A day later, it confirmed that legacy report pages go read-only on December 17, 2026 and that unmigrated reports will be deleted on January 31, 2027, after which position data will be available only through unified reporting.
+Timeline
+- 2008 - IAB publishes VAST 1.0.
+- January 2012 - OpenRTB 2.0 published, including the startdelay field.
+- July 19, 2012 - IAB publishes VMAP 1.0, with "start" and "end" break offsets.
+- 2012 - VAST 3.0 introduces ad pods and skippable ads.
+- Early 2022 - OpenRTB 2.6 adds podid, podseq and slotinpod.
+- January 2024 - Prime Video begins showing ads by default.
+- August 1, 2024 - Amazon adds a pre-roll-only option to Prime Video programmatic guaranteed deals.
+- December 19, 2024 - Amazon DSP adds in-stream position targeting for pre-roll, mid-roll and post-roll.
+- February 4, 2025 - IAB Tech Lab clarifies OpenRTB plcmt values.
+- March 24, 2025 - YouTube announces mid-roll placement changes, effective from May 2025.
+- November 11, 2025 - Unified reporting launches in beta.
+- June 8, 2026 - Unified reporting becomes generally available.
+- September 29, 2026 - Amazon DSP renamed DVA; DVA+ introduced.
+- October 29, 2026 - InTheGame's Aviram Sharon publishes "Rebalancing the Ad Break" on IAB Tech Lab.
+- November 11, 2026 - Amazon updates the dimensions reference, including ad break position.
+- December 17, 2026 - Legacy report pages scheduled to go read-only.
+- January 31, 2027 - Legacy reports scheduled to shut down.
+Related PPC Land coverage
+- 85 of Amazon's 156 unified report dimensions apply to Sponsored Products - Lists ad break position and the other video and live event fields in the Supply category.
+- Pre-roll - Explains pre-roll, the OpenRTB startdelay values and VAST history.
+- Mid-roll - Covers mid-roll across TV, YouTube, Facebook and podcasts, with OpenRTB 2.6 pod fields.
+- Ad load - Explains ad load and reports the increase in Prime Video ad minutes.
+- Amazon introduces guaranteed deals for Prime Video ads - Reports the August 2024 pre-roll-only option for Prime Video deals.
+- InTheGame CEO says 6 CTV ad formats can shorten streaming ad breaks - Examines the argument for moving ads out of the break.
+- CTV's 98% completion rate is automatic, not earned, Lake warns buyers - Questions completion rates on non-skippable CTV inventory.
+- Amazon advertisers will lose unmigrated reports on January 31, 2027 - Sets out the legacy reporting shutdown dates.
+Summary
+Who: Amazon Ads defines 

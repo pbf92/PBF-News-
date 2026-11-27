@@ -1,0 +1,8 @@
+URL: https://www.tradingview.com/news/gurufocus:47ac51033094b:0-broadcom-stocks-climb-2-19-as-1-billion-anthropic-stake-turns-positive/
+TITLE: Broadcom Stocks Climb 2.19% as $1 Billion Anthropic Stake Turns Positive
+OUTLET: TradingView
+
+Broadcom Stocks Climb 2.19% as $1 Billion Anthropic Stake Turns Positive
+Broadcom AVGO shares climbed 2.19% to $307.45 at 10:30 a.m. ET on Friday, November 27, in the shortened regular session, as Anthropic, a major custom-chip customer, rallied back above its IPO price. Broadcom put about $1 billion into Anthropic's private placement at the $83 offer price, so its paper position flipped from a loss earlier this week to a gain.
+The equity check is the small part. Anthropic's prospectus, as summarized by the Motley Fool, shows $161.2 billion of cumulative rents on a five-year lease of Broadcom chips, with part of the obligation passed to a bank-led special purpose vehicle that finances $63 billion of chip purchases. Hock Tan has forecast Anthropic's TPU demand at 1 gigawatt in 2026, 5 gigawatts in 2027 and 10 gigawatts in 2028, the same report said. The placement itself totaled $26 billion across seven investors, with Google and Nvidia committing $10 billion each.
+The GuruFocus chart shows a GF Score of 96/100, reflecting top-tier profitability and a solid balance sheet. The GF Value of $460.23 implies a 33.2% discount, which GuruFocus labels significantly undervalued, though that model gap assumes the custom-silicon ramp holds. The concentration math cuts both ways: $161.2 billion over five years averages about $32 billion a year tied to a single customer whose shares are still finding a floor. The next test is Broadcom's next quarterly report, where investors will look for how much of that lease sits in backlog.

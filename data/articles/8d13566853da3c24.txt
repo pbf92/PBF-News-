@@ -1,0 +1,16 @@
+URL: https://www.cnn.com/2026/11/27/tech/openai-apple-countersuit
+TITLE: OpenAI countersues Apple in ongoing trade secrets fight
+OUTLET: CNN
+
+OpenAI countersued Apple on Friday, accusing it of “unlawful, tortious, and unfair business practices.” It’s the latest move in an ongoing fight over trade secrets related to the two companies’ competing efforts to build artificial intelligence-enabled gadgets.
+The dispute dates back to July, when Apple accused OpenAI and two former Apple-turned-OpenAI employees in a separate lawsuit of stealing the iPhone maker’s trade secrets to develop an AI device. OpenAI disputed the claims and months later filed a court document accusing one of its former employees of taking device-related trade secrets to Apple.
+OpenAI’s Friday countersuit claims that Apple intentionally encourages employees to store work files on their personal iCloud and iMessage accounts, making it difficult to separate work and personal information across their devices. When an employee notifies Apple that they are leaving for a competitor, they are asked to exit on the same day, preventing “the departing employee from working with Apple to separate out Apple confidential information and messages from personal information,” the complaint states.
+The lawsuit, filed in Northern California federal court, claims the policy creates “trapdoors” that allow Apple “to accuse former employees of trade secret theft.”
+Apple did not immediately respond to a request for comment. The company previously said it had found no evidence to support OpenAI’s trade secret theft allegations. Apple said it has strict policies in place to make sure new employees don’t use confidential information from previous workplaces, and would work with OpenAI to remediate any of OpenAI’s information found on Apple’s systems.
+OpenAI declined to comment beyond the contents of the Friday lawsuit.
+The trade secrets fight highlights the high stakes of the tech industry’s race to build the next big personal gadget for the AI era.
+OpenAI announced a project last year with Apple’s former design chief to build devices meant to bring smartphone users into the age of AI. Apple, meanwhile, has been racing to play catch-up with its tech rivals on AI, starting with a major revamp of Siri.
+Amazon, Meta, Google and a host of start-ups have also sought to carve out their place in the AI gadget race.
+The complaint filed Friday by OpenAI accuses Apple of filing its lawsuit because it’s struggling to compete, stating that the iPhone maker “has struggled to incorporate innovative AI capabilities into its previously popular products.”
+“OpenAI, meanwhile, is in the process of developing new, much-anticipated AI-enabled personal electronic devices—threatening to outcompete Apple on what Apple views as its own turf,” the complaint states. It accuses Apple of pressuring vendors not to work with OpenAI.
+Both companies have requested a jury trial to hear their arguments.

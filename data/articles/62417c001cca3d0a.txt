@@ -1,0 +1,8 @@
+URL: https://www.tradingview.com/news/gurufocus:d240d963e094b:0-spacex-stocks-climb-2-74-as-fcc-clears-one-million-ai-satellites/
+TITLE: SpaceX Stocks Climb 2.74% as FCC Clears One Million AI Satellites
+OUTLET: TradingView
+
+SpaceX Stocks Climb 2.74% as FCC Clears One Million AI Satellites
+SpaceX SPCX shares climbed 2.74% to $130.94 at 10:35 a.m. ET on Friday, November 27, extending a rebound after the Federal Communications Commission authorized up to one million Starmind AI data-center satellites. FCC Chairman Brendan Carr announced the approval on November 25.
+Starmind is SpaceX's bet that AI compute can move into orbit, with the first launch targeted for the third quarter of 2027 on Starship. The shares still trade below the $135 IPO price from June and far from the first-week peak of $225.64, according to Finexus, which also reported Elon Musk's pledge to give one Class A share a year to each American child with a Trump Account. Anthropic's prospectus puts its potential monthly AI bill with SpaceX at about $3.1 billion, 24/7 Wall St. reported on Friday.
+The GuruFocus chart shows a GF Score of 21/100, with very weak profitability the main drag, which is typical for a company spending ahead of revenue. That makes the $1.78 trillion valuation a bet on new lines of business rather than current earnings. If Anthropic's bill reached $3.1 billion a month, it would equal about $37 billion a year from one customer, a concrete anchor for the orbital compute story. The next test is Starship's launch cadence through 2027, since every Starmind satellite depends on it.

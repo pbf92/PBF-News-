@@ -1,0 +1,30 @@
+URL: https://247wallst.com/investing/2026/11/25/the-consensus-on-micron-stock-is-changing-heres-what-investors-should-know/
+TITLE: The Consensus on Micron Stock Is Changing. Here’s What Investors Should Know
+OUTLET: 24/7 Wall St.
+
+The Consensus on Micron Stock Is Changing. Here’s What Investors Should Know
+This post may contain links from our sponsors and affiliates, and Flywheel Publishing may receive compensation for actions taken through them.
+Micron Technology (NASDAQ:MU | MU Price Prediction) trades at $702.39 after an 18.15% gain. The 24/7 Wall St. price target is $837.42, pointing to 19.2% upside over the next 12 months. The model rates the stock a buy, with high confidence.
+24/7 Wall St. Price Target Summary
+Our model held a hold rating through early October, then switched to buy on October 17 as the share price fell even while earnings estimates kept rising.
+Wall Street is even more optimistic: 92% of analysts are bullish, and their consensus target of $1,561.91 sits 122.4% above where the stock trades now.
+A 23% Monthly Slide Meets Surging Earnings Growth
+Even after today’s rally, Micron is down 9.75% over the past week and 23.12% over the past month. It is still up 146.29% year to date and sits 44% below its 52-week high of $1,254.61. Barron’s argued today that the rebound has legs.
+The fundamentals back that view. In fiscal Q4, revenue reached $54.23 billion[1] against estimates of $50.97 billion, up 379.3% year over year. Non-GAAP EPS of $33.42[1] exceeded the $31.35 estimate, extending the beat run to nine straight quarters.
+Guidance for fiscal Q1 2027 calls for revenue of $61.5 billion ± $1.5 billion[1] and EPS of $38.15 ± $1.00. Institutions are adding, too: 13 of 19 tracked filers bought shares in the September quarter.
+Why Bulls See $1,335 and Beyond
+The bull case of $1,335.77 implies 90.2% upside. Visibility is the key support. More than 75% of fiscal 2027 shipments[2] are already committed, and Micron has signed 26 Strategic Customer Agreements. Those agreements cover about 35%[2] of DRAM volume through 2030.
+Micron also raised HBM pricing significantly for calendar 2027 and is co-designing HBM4E with NVIDIA (NASDAQ:NVDA). President Manish Bhatia said, “We really don’t have line of sight to when supply and demand balance.”[2] At roughly 4x forward earnings, Micron does not need multiple expansion to work.
+Memory’s Boom-Bust History Still Hangs Over the Stock
+The bear case of $643.47 implies 8.4% downside. Capex reached $30.7 billion in fiscal 2026. Micron’s Idaho fab begins wafer output in mid-calendar 2027[2], and rival capacity could loosen supply after that.
+The CFO also expects price increases to continue “at a more moderate pace.”[2] On the other side, fiscal 2026 free cash flow of $62.31 billion[1] easily covers that spending. The long-term agreements also make this cycle harder to unwind than past ones.
+How Micron Compares to NVIDIA and Broadcom
+NVIDIA is the benchmark AI accelerator stock and a key HBM customer. It carries supply commitments of $390 billion, mostly for memory. The stock trades at about 25x earnings, compared with Micron’s roughly 9x, despite slower revenue growth.
+Broadcom (NASDAQ:AVGO) sells custom accelerators to the same hyperscale customers. Its AI semiconductor revenue rose 221% to $16.70 billion, yet total growth still trails Micron’s.
+Compared with these peers, our 24/7 Wall St. price target looks conservative.
+Why Our Model Rates Micron a Buy
+The 24/7 Wall St. price target of $837.42 carries a buy rating and 90% confidence. What tips the scale is contracted demand running through 2030.
+I’d find Micron compelling if HBM pricing holds and more customers sign agreements. I’d turn more cautious if the 2027 capacity additions start to push contract prices down. For now, the earnings power outweighs the cyclical risk.
+Each figure below is our model’s 12-month-forward target as of late in that year, assuming current trends hold.
+These projections rest on Micron continuing to execute on HBM and its customer agreements. Results could land well above or below these targets depending on when memory supply catches up with AI demand.
+Contact [email protected] for any questions or corrections.

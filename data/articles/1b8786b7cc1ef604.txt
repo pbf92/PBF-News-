@@ -1,0 +1,69 @@
+URL: https://ppc.land/live-event-ad-slot-order/
+TITLE: Live event ad slot order
+OUTLET: PPC Land
+
+Live event ad slot order is a dimension in Amazon Ads unified reporting that records the position an advertisement occupied inside one commercial break during a live broadcast. If a break in a basketball game carries five spots, the field tells the advertiser whether its spot was the first to air, the last, or somewhere in between. PPC Land's reading of Amazon's dimensions reference describes it as "the order of the slot within the break." It exists because position inside a break is not neutral: sellers and buyers have long treated the opening and closing slots of a break as worth more than the middle.
+Where the field sits
+Amazon lists the field in the Supply category of its unified reporting dimensions, a reference page last updated on November 11, 2026. PPC Land counted 156 attributes across 11 categories on that page, with 35 in the Supply category. Of those 35, 34 carry the marker for DVA+, the campaign type Amazon introduced on September 29, 2026 when it retired the Amazon DSP (demand-side platform) product name. "Live events get nine attributes of their own," PPC Land wrote, and the same analysis lists "live event ad slots" among the capabilities specific to DVA+. Where a dimension does not apply, Amazon says, "its value appears as null."
+The nine live event fields form a hierarchy, and slot order sits at the bottom of it:
+- Live event property - "the rights package, league, or content property associated with the live event inventory", in Amazon's definition.
+- Live event genre, content provider, ID, name and inventory type - what the event was, who supplied it and how each break was classified.
+- Live event ad break order - the order of the break within the event.
+- Live event ad slot order - the order of the slot within the break.
+- Live event ad slot type - "the sales model for the live-event ad slot."
+Together, break order and slot order give each live impression a coordinate: third break, first slot. Six of the nine live event fields trace their former names to Amazon's older Live Event report, according to PPC Land, although the analysis did not say which six.
+How slot position is generated
+The value is not set by the advertiser. A break in streaming video is called an ad pod: ads played back to back, like a television commercial break. In a live broadcast the pod is triggered by a cue in the stream when production cuts away from play, and the ad server has a fixed number of seconds to fill. Some sellers fix the number of slots in advance; others fill a time budget dynamically with whatever mix of 15-second and 30-second spots wins.
+The industry protocol for describing those slots to buyers is OpenRTB, the real-time bidding specification maintained by the IAB Tech Lab. Version 2.6, which opened for comment on December 9, 2021 and was published in April 2022, introduced ad pods for connected television (CTV). Its change log lists six fields "for pod bidding support": maxseq, poddur, podid, podseq, mincpmpersec and slotinpod. Three map closely onto Amazon's live event fields:
+- podid identifies the pod. Impression opportunities that share a podid "belong to the same video ad pod," according to the specification.
+- podseq gives "the sequence (position) of the video ad pod within a content stream." The companion AdCOM 1.0 list sets 1 for the first pod, -1 for the last and 0 for any pod.
+- slotinpod indicates "that the seller can guarantee delivery against the indicated slot position in the pod." AdCOM defines four values: 1 for the first ad in the pod, -1 for the last, 2 for "first or last", and 0 for any position.
+The bid response carries its own slotinpod, so a buyer can bid only for the first slot and a seller can promise it.
+The OpenRTB values are coarse by design: they distinguish first, last and "any". A reporting field that states "the order of the slot within the break" implies a finer count, such as slot 1 through slot 6. Amazon has not published the value format, so whether the field reports an ordinal number, an OpenRTB-style code or a label is not confirmed in the documentation available for this article.
+A worked example
+A household goods brand runs a DVA+ streaming video campaign during a Thursday night football game, and its ads run 40 times. A report split by break order and slot order might show 14 impressions in slot 1, 9 in slot 2, 8 in slot 3 and 9 in the final slot. Adding completion rate and cost per thousand impressions (CPM) shows whether first-in-pod impressions finished more often and cost more. Without the field, all 40 sit in one line and any position premium is invisible.
+Who operates it
+On the sell side, slot order is decided by the publisher's ad server and supply-side platform (SSP) when the pod is assembled. For Prime Video's live sports, that is Amazon itself. Amazon's US live sports page lists 17 exclusive NFL games, more than 60 exclusive NBA regular season games, 30 WNBA games and five NASCAR Cup Series races. Third-party live streams reach Amazon through SSPs.
+On the buy side, advertisers and agencies buying live inventory in DVA+ read it. Amazon opened live event open auction supply to self-service DSP buyers in the United States, Canada and Mexico on July 9, 2024, and said at the time that "live event inventory will be selected by default for any newly created video ad line."
+Origin and evolution
+Linear television sold "first in pod" slots at a premium long before programmatic buying. Streaming lost that precision early on, because ad servers filled breaks with separate, unconnected ad calls. Index Exchange's Rob Hazan, vice president of product for streaming TV, has said that "the first and last ad breaks in a show, as well as the first and last slots in an ad break, are premium positions," yet buyers lacked visibility into which ones they were bidding on.
+OpenRTB 2.6 in 2022 restored a standard way to state position. Adoption was slower. Magnite's machine learning pod optimisation in the SpringServe ad server, launched on October 24, 2025, predicted bid request volumes for each break, a sign pod construction itself was still being fixed. In November 2025 Magnite added Live Scheduler, which lists upcoming live event ad opportunities for buyers including Amazon DSP.
+At Amazon, live event reporting began in the DSP Report Center under a "Live event" dimension in 2024. Unified reporting entered open beta on November 11, 2025 and reached general availability on June 8, 2026, with a Live Events template for streaming ads in live events. The nine live event dimensions appear in the November 11, 2026 field list.
+Why it matters for marketers
+Live sport has become central to Amazon's advertising pitch. Alan Moss, Amazon's vice president of global advertising sales, said in May 2026 the NBA deal made Amazon a "full year-round sports network," with 80 net new advertisers in its NFL ecosystem and 30 new advertisers in the NBA's first year. Amazon reports that Thursday Night Football averaged 15.3 million viewers in 2025, up 16% on 2024.
+Position is one of the few variables inside a single broadcast that buyers can compare. Attention vendor TVision reports that first-in-pod ads on linear television average 5 percentage points higher attention among viewers who watch for two seconds or more, while on CTV the first-slot benefit is "less pronounced" and the last slot shows a slight uptick. Those are a vendor's figures without a published methodology, but slot order data lets an advertiser test them.
+Limitations and open questions
+The first limit is documentation. The only public wording of the definition comes through PPC Land's summary of Amazon's reference. The value format, the former field name and whether counting starts at 1 or 0 are unconfirmed. Conventions differ: Adobe's media analytics records pod position as "zero-indexed," while some of its legacy SDKs count from 1.
+The second is dynamic pods. When a break is filled dynamically, the reported position describes where an ad landed, not a position anyone bought.
+The third is reconciliation. Buffering and stitched ads can shift what a viewer actually saw, and Amazon has not said whether slot order reflects the ad server's plan or playback on the device.
+The fourth is self-reporting. Amazon sells Prime Video live slots and reports on them, and its sports viewership claims come from its own materials rather than independent audits.
+Commonly confused terms
+Live event ad break order. The position of the break within the event, such as the second commercial break of the third quarter. Slot order describes the position of the ad inside that break.
+Ad break position. A general video dimension recording whether an ad ran at the "beginning (pre-roll), middle (mid-roll), or end (post-roll)" of content. It describes the type of break, not the order of breaks or slots.
+Live event ad slot type. The sales model for the slot, such as how it was sold, rather than where it fell.
+OpenRTB slotinpod. A bidstream field that lets a seller guarantee and a buyer bid for first, last, or "first or last" positions. Amazon's slot order is a reporting field, filled after delivery.
+Recent developments
+The IAB Tech Lab opened comment on its Live Event Ad Playbook, built with Amazon, NBCUniversal, FreeWheel and Index Exchange, in February 2026. The OpenRTB 2.6-202606 release on June 11, 2026 added realtime and firstbroadcast to the Content object, separating a live match from a replay. Amazon's data availability rules for unified reporting, published on November 17, 2026, cap daily-grain pulls at 120 days of a 24-month history. Legacy report pages close on January 31, 2027, leaving unified reporting as the only source of slot data.
+Timeline
+- December 9, 2021 - IAB Tech Lab opens OpenRTB 2.6 for public comment.
+- April 2022 - OpenRTB 2.6 published, adding podid, podseq and slotinpod for CTV ad pods and deprecating sequence.
+- July 9, 2024 - Amazon opens live event open auction supply to self-service DSP buyers in the US, Canada and Mexico, with property reporting under a "Live event" dimension.
+- October 24, 2025 - Magnite launches machine learning ad podding in SpringServe.
+- November 11, 2025 - Amazon unified reporting enters open beta at unBoxed.
+- November 18, 2025 - Magnite launches Live Scheduler for live event ad opportunities.
+- November 18 or December 1, 2025 - Amazon announces Live Events Optimizer (dates differ on the page).
+- February 2026 - IAB Tech Lab opens public comment on the Live Event Ad Playbook.
+- June 8, 2026 - Unified reporting reaches general availability with a Live Events template.
+- June 11, 2026 - OpenRTB 2.6-202606 adds realtime and firstbroadcast.
+- September 29, 2026 - Amazon DSP renamed DVA; DVA+ campaign type introduced.
+- November 11, 2026 - Amazon dimension reference lists nine live event fields, including live event ad slot order.
+- December 17, 2026 - Legacy report pages scheduled to become read-only.
+- January 31, 2027 - Legacy report pages scheduled to close.
+Related PPC Land coverage
+- 85 of Amazon's 156 unified report dimensions apply to Sponsored Products - The field-by-field count that describes the nine live event attributes, including slot order.
+- Amazon launches unified reporting system across advertising products - The November 2025 open beta of the reporting system that hosts the field.
+- Amazon Ads unified reporting exits beta - and takes two old tools with it - General availability in June 2026, the Live Events template and the retirement of legacy report pages.
+- Amazon limits daily unified reports to 120 days of its 24-month history - Lookback and pull limits that govern how far back slot data can be queried.
+- Amazon's ad chief: Prime Video and live sports are now one business - Alan Moss on Amazon's sports rights and advertiser growth.
+- OpenRTB - History of the protocol, from version 2.6 ad pods to the 2026 live television fields.
+- Magnite introduces machine learning-powered ad podding for streaming platforms - SpringServe's pod construction tool for C

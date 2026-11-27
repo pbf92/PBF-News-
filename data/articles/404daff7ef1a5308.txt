@@ -1,0 +1,71 @@
+URL: https://ppc.land/publisher-owner/
+TITLE: Publisher owner
+OUTLET: PPC Land
+
+Publisher owner is a dimension in Amazon Ads unified reporting that names the corporate parent of the publisher whose website, app or stream displayed an ad. Amazon's reference defines it in a single line: "The name of the parent company of a publisher." It exists because media groups run dozens of properties under different brand names, and an advertiser who sees spend scattered across hundreds of domains cannot tell, from the domains alone, how much of the budget went to the same company. The field rolls those properties up to the business that ultimately owns them.
+Where the field sits
+Amazon opened unified reporting in beta on November 11, 2025, and made it generally available on June 8, 2026. It merges reporting for sponsored ads with the display, video and audio products formerly sold as Amazon DSP (demand-side platform), renamed DVA in September 2026, and the AI-run campaign type DVA+. PPC Land has a separate explainer on unified reporting itself.
+Amazon's dimensions reference, updated on November 11, 2026, lists 156 attributes in 11 categories. Publisher owner belongs to the Supply category, which holds 35 attributes describing where and how an impression was bought. PPC Land's count of that page found the Supply category is almost entirely programmatic: 34 of the 35 attributes carry the DVA+ marker, against two for Sponsored Products and one each for Sponsored Brands and Sponsored Display. The same article notes a conflict inside Amazon's page, whose prose says 32 of the 35 apply to DVA+ alone.
+The publisher fields form a three-level ladder:
+- Site or app - the property where the ad ran. It replaced "Site" in DSP reporting and "Retailer" in sponsored ads reporting.
+- Publisher name - which, according to Amazon, "identifies the owner of the content rights for an app, site or video stream."
+- Publisher owner - the parent company of that publisher.
+Neither publisher field carries a former name in Amazon's mapping table, which suggests they had no direct equivalent in the legacy report centres. Where a dimension does not apply to an ad product, Amazon states that "its value appears as null", so sponsored ads rows in a mixed report return blanks.
+How ownership is established
+Ownership is barely carried by the auction itself. The OpenRTB (Open Real-Time Bidding) specification, which governs most programmatic bid requests, contains a Publisher object, but its name misleads. Version 2.6 defines it as "the entity who directly supplies inventory to and is paid by the exchange", adding that "this may be a publisher, intermediary exchange, ad network, etc." Its id field is the exchange-specific seller ID. In other words, the "publisher" in a bid request is often the seller, not the owner.
+The ownership signal comes instead from the files publishers and exchanges post publicly.
+Ads.txt OWNERDOMAIN. IAB Tech Lab's ads.txt version 1.1 added a variable for exactly this purpose. OWNERDOMAIN "specifies the business domain of the business entity that owns the domain/site/app (e.g., example.com owns example1.com, example2.com, etc.)". The specification's own example is a two-line file:
+OWNERDOMAIN=mediacompany.com
+greenadexchange.com, XF7342, DIRECT, 5jyxf8k54
+Here, mediacompany.com declares itself the business owner of example.com. The value should be a registrable domain, not a URL. If the variable is missing, the specification says it "should be assumed that the OWNERDOMAIN is the same as the domain being monetized".
+Sellers.json domain. Each SSP (supply-side platform) publishes a sellers.json file listing its seller accounts with a name and a business domain. Ads.txt 1.1 says OWNERDOMAIN "should be the same value as the sellers.domain" in the publisher's sellers.json entries, linking the domain being sold to the company being paid.
+SupplyChain object. For a complete SupplyChain object, the specification expects the first node, representing the originating publisher, to carry a sellers.domain that matches OWNERDOMAIN.
+A fourth variable, MANAGERDOMAIN, covers the case where an owner hands monetisation to an exclusive sales house, optionally by country.
+Amazon does not document which of these signals populates Publisher owner, or whether it relies on its own mapping or a third-party data provider. That gap matters for interpretation and is discussed below.
+A worked example
+Consider a portfolio publisher such as People Inc., the owner of titles including People, Allrecipes and Investopedia. An advertiser running DVA+ across the open internet might see these as three rows by Site or app, each with modest spend. Grouped by Publisher owner, they collapse into one row showing the combined spend, impressions and conversions attributed to that company.
+The example also shows why owner names are unstable. People Inc. was called Dotdash Meredith until July 31, 2025, a name formed when IAC's Dotdash acquired Meredith in 2021. On April 28, 2026, IAC, the listed holding company above it, said in a filing that it would rename itself People Incorporated, according to Axios. A report spanning those dates could show the same properties under different owner labels, and Amazon has not said whether it reports the operating publisher or the ultimate listed parent.
+Origin and evolution
+The building blocks predate Amazon's field by years. IAB Tech Lab released ads.txt version 1.0 on June 27, 2017, to stop domain spoofing by letting sites list authorised sellers. Sellers.json and the SupplyChain object followed, released for comment on April 11, 2019, and finalised on July 31, 2019. Neither expressed corporate ownership directly.
+Ads.txt 1.0.3, released for comment in December 2020 and finalised in March 2021, added INVENTORYPARTNERDOMAIN for connected TV and app cases, where a distributor app carries content licensed from another company that has the right to sell some of the ads. PPC Land's explainer on app-ads.txt covers the app version of the file.
+OWNERDOMAIN and MANAGERDOMAIN arrived with ads.txt 1.1, released for public comment on April 13, 2022, and finalised in July 2022. IAB Tech Lab's announcement described the owner value as identifying the business that owns the website on which the ad is served.
+Amazon's dimension is the reporting end of that chain, giving DVA and DVA+ buyers an owner-level view without crawling ads.txt files themselves.
+Why it matters for marketers
+The first use is concentration analysis. Programmatic campaigns typically spread across thousands of domains, and owner-level grouping shows whether a handful of media groups absorb most of the budget. That informs private marketplace negotiations, often struck with a portfolio owner rather than site by site.
+The second is supply path analysis. Comparing Publisher owner with the Ad inventory seller field shows whether a media group's inventory arrives through its own SSP accounts or through resellers. In a direct path, the owner and seller usually name the same company; where they differ, an intermediary sits between them and can take a cut of working media.
+The third is quality control. Networks of made-for-advertising sites frequently operate many domains under one company, and an owner rollup can expose a cluster of low-value properties that looks harmless domain by domain.
+Amazon's growing weight in programmatic buying raises the stakes. Guideline data cited by PPC Land in August 2026 put Amazon at just under 20% of global programmatic spend, in coverage of publisher-hosted creatives for Google Ad Manager deals. Premium owners have also joined Amazon's supply, with Netflix inventory available through Amazon DSP from the fourth quarter of 2025 and Disney inventory added through a separate agreement.
+Limitations and disputes
+The data is largely self-declared. OWNERDOMAIN is a recommended variable, not a required one, and its absence defaults to the site itself being the owner. A portfolio publisher that never adds the line will appear as many unrelated owners if Amazon relies on ads.txt.
+Amazon's definition is one sentence long. It does not say where the value comes from, how often it is refreshed, how mergers and renames are handled, or which level of a corporate tree is reported. For a company owned by a holding company that is itself owned by another, "parent" could mean either.
+Streaming muddies the concept further. Publisher name is defined as the owner of content rights for a site, app or stream. In connected TV, the app that serves the ad and the company that owns the programme are often different, which is precisely why INVENTORYPARTNERDOMAIN exists. Whether Publisher owner follows the app distributor or the content owner is not documented.
+Finally, the field reports but does not control. Amazon has not documented owner-level targeting or exclusion in DVA+, where default settings let Amazon choose inventory automatically.
+Commonly confused terms
+Publisher name. The entity holding content rights for a property, one rung below the owner. Several publisher names can share one owner.
+Ad inventory seller. The company that sold the impression through an SSP account, which may be a reseller with no ownership stake in the site.
+OpenRTB Publisher object. Despite its name, a description of the entity paid by the exchange, which can be an ad network or intermediary rather than the owner.
+Holding company. In advertising, the term usually refers to agency groups such as WPP or Publicis, covered in PPC Land's holding company explainer. Publisher owner refers to the owners of media properties on the sell side.
+Recent developments
+Amazon updated its dimensions reference on November 11, 2026, placing Publisher owner in the Supply category of the unified vocabulary. The timing is tied to a deadline: legacy report creation becomes read-only on December 17, 2026, and Amazon will decommission legacy report centres on January 31, 2027, the same date on which agencies lose the legacy DVA fee setting. From January 1, 2027, DVA display impressions on the Amazon Store count only once on screen, and Amazon expects 63% fewer impressions on average, which will reset baselines in owner-level comparisons spanning that date. As of November 2026, DVA+ remains in closed beta in the United States.
+Timeline
+- June 27, 2017 - IAB Tech Lab releases ads.txt version 1.0.
+- April 11, 2019 - Sellers.json and the SupplyChain object are released for public comment.
+- July 31, 2019 - Sellers.json 1.0 and the SupplyChain object are finalised.
+- March 2021 - Ads.txt 1.0.3 is finalised, adding INVENTORYPARTNERDOMAIN.
+- 2021 - IAC's Dotdash acquires Meredith, forming Dotdash Meredith.
+- April 13, 2022 - IAB Tech Lab releases ads.txt 1.1, with OWNERDOMAIN and MANAGERDOMAIN, for public comment.
+- July 2022 - Ads.txt 1.1 is finalised.
+- July 31, 2025 - Dotdash Meredith renames itself People Inc.
+- November 11, 2025 - Amazon opens unified reporting in beta.
+- April 28, 2026 - IAC announces it will rename itself People Incorporated.
+- June 8, 2026 - Unified reporting becomes generally available.
+- September 29, 2026 - Amazon renames Amazon DSP as DVA and announces DVA+.
+- November 11, 2026 - Amazon updates its unified reporting dimensions reference, listing Publisher owner in the Supply category.
+- December 17, 2026 - Legacy report creation becomes read-only (scheduled).
+- January 1, 2027 - On-screen impression counting begins for DVA display on the Amazon Store (scheduled).
+- January 31, 2027 - Legacy report centres are decommissioned (scheduled).
+Related PPC Land coverage
+- 85 of Amazon's 156 unified report dimensions apply to Sponsored Products - The count of Amazon's dimensions reference, including the Supply category and the Publisher owner definition.
+- Explaining unified reporting - The Amazon Ads reporting system in which the field lives.
+- Amazon advertisers will lose unmigrated reports on January 31, 2027 - The legacy reporting shutdown timeline.
+- Agencies lose Amazon's legacy DVA fee setting after January 31, 2027 - Another change tied to the legacy reporti

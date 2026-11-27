@@ -1,0 +1,10 @@
+URL: https://www.dailysabah.com/business/tech/openai-sues-apple-over-alleged-trade-secret-theft-supplier-restrictions
+TITLE: OpenAI sues Apple over alleged trade secret theft, supplier restrictions | Daily Sabah
+OUTLET: Daily Sabah
+
+A legal battle between two U.S. technology giants escalated Friday as OpenAI sued Apple over alleged trade secret theft and restrictions on access to hardware suppliers, following Apple's lawsuit accusing the AI company of poaching employees to obtain proprietary technology.
+The ChatGPT maker filed counterclaims in California federal court on Friday, saying that Apple's employment practices were designed to "trap" employees and prevent them from working on competitors' technology.
+Apple and OpenAI did not immediately respond to Reuters' requests for comment.
+Tensions between the two tech companies have escalated as the intensifying race to develop AI products fuels competition for talent and proprietary technology.
+Earlier this year, Apple sued OpenAI and two former employees, alleging misappropriation of its trade secrets to benefit the ChatGPT owner's foray into consumer hardware. OpenAI has denied those allegations.
+The litigation sets up a battle over who will control future AI devices that may not use traditional apps or operating systems - devices which, if successful, would direct consumer attention away from Apple's best-selling iPhone. Analysts believe OpenAI is working on a phone or other device of its own.

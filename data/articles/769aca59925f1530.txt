@@ -1,0 +1,25 @@
+URL: https://www.tradingview.com/news/tradingview:4afa42c10f480:0-visionwave-raises-about-2-million-in-registered-offering-with-resettable-warrants/
+TITLE: VisionWave Raises About $2 Million in Registered Offering With Resettable Warrants
+OUTLET: TradingView
+
+VisionWave Raises About $2 Million in Registered Offering With Resettable Warrants
+VisionWave closed a registered direct offering that generated approximately $2 million in gross proceeds, with investors purchasing common shares or pre-funded warrants paired with common warrants. The securities purchase agreement allows purchasers to buy up to an additional $2 million, while the warrants include a price reset subject to a $0.0475 floor. Aegis Capital acted as exclusive placement agent, and a separate waiver letter with YA II directs a substantial portion of offering and ATM proceeds toward covered debt.
+Agreement 1: VisionWave Raises About $2 Million in Registered Offering With Resettable Warrants
+- Agreement type: Securities purchase agreement for a registered direct offering
+- Counterparty: Participating investors
+- Signed / Effective: Nov 25 2026 / Nov 27 2026
+- Duration / Termination: Offering closed Nov 27 2026; warrant term of five years
+- Reason: Raise capital through a registered securities offering
+Agreement 2: VisionWave Taps Aegis Capital as Placement Agent for $2 Million Offering
+- Agreement type: Placement agent agreement
+- Counterparty: Aegis Capital
+- Signed / Effective: Nov 25 2026 / same
+- Duration / Termination: 30-day standstill, subject to specified exceptions
+- Reason: Arrange the registered offering on a reasonable-best-efforts basis
+Agreement 3: VisionWave Agrees to Pay Yorkville at Least $1.75 Million From Offering Proceeds
+- Agreement type: Debt waiver and proceeds-application letter
+- Counterparty: YA II PN (Yorkville)
+- Signed / Effective: Nov 24 2026 / same
+- Duration / Termination: Certain waivers and standstill through Dec 24 2026; proceeds obligations while covered debt remains outstanding
+- Reason: Obtain consent for the offering and address covered debt obligations
+Original SEC Filing: VisionWave Holdings, Inc. [ VWAV ] - 8-K - Nov. 27, 2026

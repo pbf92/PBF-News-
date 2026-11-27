@@ -1,0 +1,16 @@
+URL: https://9to5mac.com/2026/11/27/openai-countersues-apple-alleging-trade-secret-theft-and-supplier-threats/
+TITLE: OpenAI countersues Apple, alleging trade secret theft and supplier threats
+OUTLET: 9to5Mac
+
+OpenAI has countersued Apple, accusing the iPhone maker of stealing trade secrets and threatening suppliers working on its upcoming devices. The filing escalates a legal fight that began with Apple’s lawsuit against OpenAI in July.
+OpenAI has launched a new legal action against Apple, accusing the Big Tech giant of stealing its trade secrets and blocking its access to hardware suppliers, in an effort to “compete unfairly by any means available”.
+The ChatGPT maker filed the lawsuit in a California court on Friday, striking back after the iPhone maker accused the AI lab of stealing top-secret information this summer.
+According to the report, OpenAI alleges Apple is “coercing and threatening” suppliers working with the ChatGPT maker. Its hardware ambitions include new personal devices following last year’s acquisition of Jony Ive’s “io” firm.
+The complaint also claims Apple encouraged employees to store corporate files on personal devices and cloud accounts. OpenAI has previously characterized Apple’s case as an attempt to stop it from hiring Apple employees.
+Apple’s original lawsuit names OpenAI, io Products, and former Apple employees Chang Liu and Tang Tan. Tan previously led iPhone and Apple Watch product design at Apple.
+Apple alleges confidential engineering information and hardware development details were taken to benefit OpenAI’s consumer device efforts. OpenAI has disputed those allegations.
+The new action also follows OpenAI’s October claim that an employee who returned to Apple sent more than 100 confidential files about unreleased OpenAI hardware to personal accounts. Those files allegedly included device images, engineering data, and supplier information.
+Apple responded at the time that its investigation had not located OpenAI confidential information. The company said it requested more specific information to continue searching and would work with OpenAI to investigate the allegations.
+Meanwhile, Apple has sought a preliminary injunction to prevent further use of its alleged trade secrets and won expanded access to evidence during discovery.
+Apple’s original case is scheduled to go to trial on July 19, 2027.
+Do more with your Apple products
