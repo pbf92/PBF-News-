@@ -1,0 +1,25 @@
+URL: https://finance.yahoo.com/markets/stocks/articles/scott-galloway-predicts-nvidia-stock-140528130.html
+TITLE: Scott Galloway Predicts Nvidia Stock Will Be “Up at the End of the Year.” Six Weeks Left
+OUTLET: Yahoo Finance
+
+Key Takeaways
+- Nvidia (NVDA:NASDAQ) stock is down 48% from its early October peak, even though the company beat estimates with $115.8 billion of quarterly revenue.
+- Scott Galloway predicted on Pivot that the stock will be up at the end of the year.
+- Analysts are still raising EPS estimates, the stock trades at 9x forward earnings, and Super Micro Computer's (SMCI:NASDAQ) sales point to strong demand.
+- The California probe and China scrutiny that also reaches AMD (AMD:NASDAQ) are the risks, but a year-end close above today's price looks likely.
+Nvidia just had the biggest quarter in its history, and its stock can't stop falling.
+Founder Jensen Huang resigned as CEO on Nov. 12 over his affair with an alleged Chinese spy, and the board reinstated him on Nov. 23. The selloff had pulled down rival AMD and server maker Super Micro Computer too.
+Pivot co-host Scott Galloway, who argued this week that Nvidia has the widest moat in AI, thinks the sellers will lose this one. He pointed to Apple, which Tim Cook grew 15x after Steve Jobs died, then made his call:
+"My prediction actually is that NVIDIA does better and that the stock's up at the end of the year."
+We'll be able to check that in about six weeks.
+TIKR tracks 66 analysts on Nvidia. How many say "Buy"?
+See the full breakdown of Buy, Hold, and Sell ratings on Nvidia, along with Wall Street's revenue and earnings estimates, all in one place. More than 500,000 investors use TIKR to research stocks like this one. See Nvidia's Analyst Ratings
+The numbers are on his side
+Galloway is betting the business will set the price, and the business just had a monster quarter.
+Nvidia earned $2.68 a share in adjusted EPS on $115.8 billion of revenue, against expectations of $2.47 and $108.71 billion. It guided the current quarter to between $127.4 billion and $132.6 billion of revenue.
+Analysts still see earnings climbing steeply from here:
+They now expect $16.61 a share for the year ending January 2028, up from $15.92 in late October.
+Galloway also said, "I think the underlying business fundamentals are as strong as they've ever been." Nvidia's free cash flow is close to its highest:
+The quarter to October brought in $43.8 billion, nearly double the same quarter a year earlier.
+Super Micro, which builds Nvidia's chips into servers, saw September-quarter sales jump to $19.9 billion from $5.0 billion a year earlier.
+Its guidance came on Nov. 3, before Huang left, so its next report in early February will show whether buyers flinched.

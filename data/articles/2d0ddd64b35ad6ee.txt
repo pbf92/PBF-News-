@@ -1,0 +1,19 @@
+URL: https://www.news-medical.net/news/20261125/Prenatal-ADHD-medication-exposure-not-linked-to-neurodevelopmental-disorders.aspx
+TITLE: Prenatal ADHD medication exposure not linked to neurodevelopmental disorders
+OUTLET: News-Medical
+
+Children born to mothers who used attention deficit hyperactivity disorder (ADHD) medication during pregnancy face no increased risk of neurodevelopmental conditions such as autism, ADHD, intellectual disability and learning disorders, finds a large Scandinavian study published by The BMJ today.
+The researchers say these findings are largely reassuring and do not justify discontinuation of ADHD medication in pregnancy.
+Despite rising ADHD medication use among women of reproductive age, limited evidence to guide treatment decisions in pregnancy leads many women to stop their medication, which can negatively impact their mental health and family stability. Early evidence from Canada and Denmark on this topic was reassuring, but these studies lacked detail on specific medications or a broader range of disorders.
+To address this gap, researchers used health registers across Denmark, Norway and Sweden to examine the association between prenatal exposure to ADHD medication and neurodevelopmental outcomes in offspring.
+Their results are based on 3,643,376 children born between 2000 and 2021 and followed up for a median of 9 years in Sweden, and 10 years in Norway and Denmark. Of these, 7,595 (0.2%) were exposed to ADHD medication during pregnancy and 2,389 (0.1%) in the second or third trimester.
+The most common type of ADHD medication used was methylphenidate (69%), followed by amphetamines (20%), then atomoxetine (7%), with only 4% using more than one type of ADHD medication anytime in pregnancy.
+Other potentially influential factors including child's sex and year of birth, mother's age, country of birth, education, smoking during pregnancy, ADHD diagnosis, and other medication use, were also taken into account.
+After controlling for these factors, neither any nor second or third trimester exposure to ADHD medications overall or by medication type was associated with increased risk of any neurodevelopmental disorder, behavioural and emotional disorders, or disorders of psychological and intellectual development.
+Some elevated risks were observed for second and third trimester exposure to certain drugs, but the authors suggest these results may be due to chance.
+These are observational findings and the researchers acknowledge that unmeasured factors, such as ADHD severity or genetics, could have influenced outcomes, while low exposure rates and small event numbers limited their ability to draw firm conclusions for some conditions.
+However, consistent sensitivity analyses, large sample sizes, long follow-up, and detailed information on diagnoses, filled prescriptions, and potentially influential factors, suggests the results are robust.
+"In light of increasing use of ADHD medication among women, our findings can aid patients and providers in their shared decisions regarding pharmacological management of ADHD symptoms during and when planning for pregnancy," say the authors.
+And they suggest that "concerns about children's future risk of neurodevelopmental disorders do not justify discontinuation of ADHD medication in pregnancy as the results are largely reassuring."
+A linked editorial outlines key considerations to help clinicians make sense of findings across drug safety studies in pregnancy and support clearer conversations with patients about treatment decisions.
+Bruno, C., et al. (2026). Prenatal exposure to drug treatment for attention deficit/hyperactivity disorder and risk of neurodevelopmental disorders: Scandinavian multinational cohort study. BMJ. DOI: 10.1136/bmj-2026-101236. https://www.bmj.com/content/395/bmj-2026-101236

@@ -1,0 +1,31 @@
+URL: https://www.tallyroom.com.au/69269
+TITLE: What the final polls tell us about the shape of Victoria’s race
+OUTLET: The Tally Room
+
+So I’ve now had a chance to properly look at the results of the YouGov MRP commissioned by the Herald Sun or possibly News 24 (either way, definitely by News Corp).
+I will be analysing this and using it as a way to look more generally at the dynamics of the race. I am not assuming it is exactly right, even in the aggregate. I particularly think it’s unwise to focus overly on individual seat results in an MRP – they work best when you look at the general shape.
+But first, the seat totals:
+- Liberal – 45 (+26 from Labor, -1 to Greens)
+- Labor – 13 (-26 to Liberal, -12 to One Nation, -4 to Greens, -1 to Nationals)
+- One Nation – 12 (+12 from Labor)
+- Nationals – 10 (+1 from Labor)
+- Greens – 8 (+4 from Labor, +1 from Liberal)
+On these numbers, the Liberal Party could govern without the Nationals (although they surely wouldn’t do so).
+We can see some general dynamics that we’ve been assuming – despite One Nation’s vote being strongest in rural areas, all of their seat gains are against Labor in more urban settings.
+One Nation’s ten best seats on the primary vote (34%+) include eight rural seats where the Nationals come from behind on primary votes to win, as well as one outer urban seat won off Labor and another where Labor comes from behind to win.
+Preferences are not One Nation’s friend – indeed YouGov shows something that Redbridge was showing earlier this year – even in Labor-One Nation races, the remaining preferences are not boosting One Nation. By my reckoning, about 55% of preferences in those races are flowing to Labor.
+When One Nation faces off against the Coalition, however, preferences severely turn against them: 79% of preferences flowed to the Coalition in both NAT vs ON and LIB vs ON races.
+First past the post would have favoured One Nation – if I count up the primary vote winners, I got 42 Coalition, 26 One Nation, 10 Labor, 5 Greens and five ties – three ON-Coalition and two ON-Labor. So probably 28-29 One Nation seats on first preferences, more than double their actual results.
+I was expecting the Greens to do much better on preferences in races against the Coalition than Labor but there wasn’t much difference. The Greens gained a flow of about 55% against either.
+Just looking at the final preference margin, the MRP is showing an enormous number of close races. They show five ties, and 44 seats with a margin of 5% or less.
+If you look at the gap between second and third, that is often close too. 49 seats have a gap of 5% or less between second and third. Some seats have a close race for second but a wide final margin. Sometimes this can change the outcome, but sometimes not.
+To take two examples: in Nepean, the Liberal Party has a 50% primary vote while Labor and Independent are tied for second. The VEC would be unlikely to do a 3CP count to work out the exact top two there. But in Laverton, Labor defeats One Nation by nine points. If the Liberal Party could close a four-point gap with One Nation, they would do somewhat better on preferences and make that race closer.
+The YouGov MRP is clearly doing more complex preference calculations than simply taking the top two and distributing preferences. In 22 seats, the 2CP is not between the top two candidates on primary votes. There was 13 seats where the Coalition and One Nation came in the top two but Labor or Greens overtook one of them to make the 2CP. The Liberal Party also had a tendency to overtake Labor on One Nation preferences in the Greens’ strongest seats, in places like Footscray, Preston, Pascoe Vale, Melbourne and Richmond.
+Amazingly, the Victorian Socialists are projected to make the 2CP in Brunswick, and the Greens made the 2CP against One Nation in Pakenham and Hastings.
+Assumptions about the geographical spread of different kinds of contests seem to be borne out. In the three upper house regions outside of Melbourne, One Nation made the 2CP in 23/33 seats. One Nation only made the 2CP in 12/55 seats in the five metro regions. Despite that split, almost half of One Nation’s wins are in those five metro regions.
+Finally, I wanted to try and look at how these numbers might have looked different based on the other polls. There’s quite a lot of variation amongst the pollsters as to where One Nation in particular will poll – Resolve says 25%, while DemosAU says 16%.
+So what I did was I took the primary vote estimates from YouGov and then applied a uniform swing for the other pollsters. I then did my own much simplified preference calculations. Unlike YouGov, I didn’t try and calculate candidates coming from 3rd or 4th to make the 2CP. Instead I just used the top two. Where there was a tie for second, I split the seat in half and ran two calculations (hence the half-seat results).
+This explains why I produced different seat totals for YouGov, but I’ve included the results my methodology gets for YouGov for transparency.
+For DemosAU and Newspoll, who have One Nation under 20%, they don’t win a single seat. For Resolve, they win twice as many as YouGov with 25%. I suspect YouGov’s preference model would have given even more results under Resolve.
+The number of Coalition seats becomes enormous under DemosAU and Newspoll.
+That’s it for now – I probably won’t have any more updates until my livestream starts at 6:30pm on Saturday.

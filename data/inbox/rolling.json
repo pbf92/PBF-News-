@@ -60770,7 +60770,9 @@
    "outlet": "AP News",
    "published": "2026-11-27T08:29:00Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://apnews.com/article/taiwan-taipei-mayor-candidate-shen-d2175ba17b2eb6d6302e763952b3da6a"
   },
   {
    "key": "a219da0e823319a3",
@@ -64634,7 +64636,10 @@
    "outlet": "The Tally Room",
    "published": "2026-11-27T08:20:45Z",
    "summary": "",
-   "via": "gn"
+   "via": "gn",
+   "article_tried": true,
+   "resolved_url": "https://www.tallyroom.com.au/69269",
+   "article": "data/articles/9d813e32c9303c14.txt"
   },
   {
    "key": "578c73ef6984fa98",
