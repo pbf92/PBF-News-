@@ -1,0 +1,37 @@
+URL: https://www.morningstar.com/markets/why-has-stock-market-gotten-so-volatile
+TITLE: Why Has the Stock Market Gotten so Volatile?
+OUTLET: Morningstar
+
+Key Takeaways
+- Amid a steep, swift stock selloff, the equities market is seeing wide price swings as investors rethink the outlook for the AI trade.
+- Analysts say no single factor is the culprit, but point to a range of drivers, including an expected slowdown in earnings growth and more aggressive Fed interest rate hikes.
+- A key catalyst for volatility is the market’s heavy weighting in technology stocks.
+Investors have been on a wild ride amid big losses in technology stocks, and analysts point to a long list of catalysts for the volatility.
+Less than two months ago, the US stock market was at record highs, led by technology’s continued bull market. Now, US equities are in correction territory, down more than 10%. The Morningstar US Total Market Index is down more than 11% since its Oct. 6 peak. At the same time, the Morningstar US Technology Index is down some 24%, more than enough to qualify as a bear market.
+Besides the market rolling over, investors are also navigating wide day-to-day swings. In November alone, the US Total Market Index has moved more than 1% in nine trading sessions, with five days posting swings of more than 2%. From Oct. 6 through Nov. 3, stocks didn’t see a single day with more than a 2% move, and just four with more than a 1% change.
+Nvidia NVDA CEO Jensen Huang’s resignation and sudden return sparked a big selloff and rebound. But the forces shaping the market are much broader:
+- A rethinking of the outlook for the AI data center buildout amid growing investor concerns about its costs.
+- Expected slowdowns in data center construction following the Democratic sweep in Congress and big gains in key state and local governments.
+- Expectations of slower earnings growth in 2027 and 2028.
+- The prospect of more aggressive Federal Reserve interest rate increases in 2027, amid persistently high inflation and a resilient economy.
+- The risks posed by extreme market concentration among AI-focused technology stocks.
+Taken together, sentiment has deflated quickly. “Market corrections have tended to develop when several known risks intensify at once, rather than from an unexpected shock,” Doug Beath, global equity strategist at the Wells Fargo Investment Institute, wrote earlier this week.
+The End of the ‘Picks and Shovels’ Trade?
+One of the dominant forces driving the stock market since the spring of 2023 has been massive investment in the infrastructure for AI programs. That sparked huge demand for semiconductors, computer hardware, and even HVAC systems.
+One key trend was the shortage of chips known as GPUs, which are needed for AI models. Jurrien Timmer, director of global macro at Fidelity Investments, says a fading of that tailwind could be one catalyst for the stock market’s turn.
+“The ‘picks & shovels’ phase of the AI boom seems to be ending as investors look ahead at all of the GPU supply expected to arrive next year,” Timmer says. “That lowers the price of compute, which is good for the users of AI, and allows the technology to be more widely adopted, but it’s not good for the companies that rely on rising chip prices such as semiconductors, memory [stocks].”
+The Downsides of Market Concentration
+Market pundits have spent the better part of the last three years warning investors about the risks of a highly concentrated stock market. While portfolios may benefit on the way up, a concentrated market is especially painful when those leaders turn south.
+On Oct. 6, technology stocks were 37% of the Morningstar US Total Market Index, and communications services, which includes Google parent company Alphabet GOOG/GOOGL, was another 8.5%.
+Nvidia is perhaps the prime example of the highly concentrated market. Within the US Total Market Index, which has more than 3,400 names, Nvidia had a nearly 7% weighting in early October. The turmoil around Huang’s resignation “has crystallized the exposure that the economy and the market have to this technological buildout,” says John Belton, portfolio manager at Gabelli Funds. “That’s not a good thing. You could argue that the stock market’s reaction makes clear the reliance on one person—also not a good thing.”
+Between Oct. 6 and Nov. 26, technology and communications services stocks were effectively responsible for the entirety of the decline in the US Total Market Index. The main perpetrator was Nvidia, where a nearly 38% drop detracted 2.8 percentage points of performance. Alphabet, Micron Technology MU, Advanced Micro Devices AMD, Broadcom AVGO, and Meta Platforms META were responsible for another 3 percentage points of losses. Strategists say the impact has also been magnified by high levels of leverage (positions financed by borrowed money) among technology stocks.
+“It’s obviously been a very concentrated trade over the last few years,” says Charlie Ripley, vice president of portfolio management at Allianz Investment Management. Now, we’re “seeing a lot of the leverage, and a lot of the wind come out of the market’s sails.”
+The Earnings Juggernaut Is Slowing
+Even as doubts have grown about the durability of the AI trade over the year, many strategists have pointed to robust earnings growth as an underpinning for the stock market. Earnings growth on stocks in the US Total Market Index came in at 33.4% for the third quarter, following a 46.9% jump in the second.
+But looking into 2027, the numbers are much more subdued. Earnings for S&P 500 companies are expected to grow just 16.6%, according to FactSet. Increasingly, questions are forming about the outlook for 2028, when capex spending on AI is seen as more in doubt. Currently, earnings are forecast to grow just south of 17% in 2028.
+Part of this is just the math of higher numbers, Timmer says, whereby already-strong earnings increases become harder to sustain. “Earnings are growing 30%-40%—and for semiconductors, close to 200%—and that will lead to difficult ‘comps’ next year. So we are facing an earnings growth slowdown as [AI] technology gets commoditized, as all technologies do.”
+Allianz’s Ripley sees the current environment as a “kind of prove-it moment from an earnings perspective.” With growing uncertainty about the outlook, “you have a lot of investors calling [earnings prospects] into question without having more information.’
+A More Aggressive Fed
+On the macro side of the equation, continued healthy economic growth has also underpinned the bull market in stocks. However, the inflation picture is turning into an increasing headwind. The Fed is seen raising interest rates by a quarter of a point this month, and a strong October employment reading and stubbornly high inflation data have investors ratcheting up expectations for additional rate hikes in 2027. “Financial conditions are tightening, and this produces an offset to otherwise strong fundamentals” in the economy, says Fidelity’s Timmer.
+With the Fed looking more aggressive when it comes to rate increases, that is “amplifying the turnaround in the AI trade,” says Allianz’s Ripley. “What you have in general is investors kind of selling now and reassessing later.”
+The author or authors do not own shares in any securities mentioned in this article. Find out about Morningstar’s editorial policies.

@@ -1,8 +1,7 @@
 {
- "updated": "2026-11-27T03:41:03Z",
- "new_this_run": 248,
+ "updated": "2026-11-27T20:08:56Z",
+ "new_this_run": 439,
  "failed_sources": [
-  "google",
   "ppcland"
  ],
  "sources": [
@@ -18,8 +17,8 @@
    "id": "abs",
    "desk": "world",
    "ok": true,
-   "fetched": 9,
-   "new": 0,
+   "fetched": 12,
+   "new": 5,
    "errors": []
   },
   {
@@ -27,7 +26,7 @@
    "desk": "expand",
    "ok": true,
    "fetched": 4,
-   "new": 0,
+   "new": 1,
    "errors": []
   },
   {
@@ -35,7 +34,7 @@
    "desk": "ai",
    "ok": true,
    "fetched": 100,
-   "new": 10,
+   "new": 15,
    "errors": []
   },
   {
@@ -43,7 +42,7 @@
    "desk": "world",
    "ok": true,
    "fetched": 100,
-   "new": 13,
+   "new": 15,
    "errors": []
   },
   {
@@ -59,7 +58,7 @@
    "desk": "ai",
    "ok": true,
    "fetched": 20,
-   "new": 0,
+   "new": 4,
    "errors": []
   },
   {
@@ -74,8 +73,8 @@
    "id": "athletic",
    "desk": "united",
    "ok": true,
-   "fetched": 37,
-   "new": 0,
+   "fetched": 53,
+   "new": 15,
    "errors": []
   },
   {
@@ -83,7 +82,7 @@
    "desk": "world",
    "ok": true,
    "fetched": 25,
-   "new": 0,
+   "new": 5,
    "errors": []
   },
   {
@@ -98,24 +97,24 @@
    "id": "bas",
    "desk": "faith",
    "ok": true,
-   "fetched": 4,
-   "new": 0,
+   "fetched": 6,
+   "new": 4,
    "errors": []
   },
   {
    "id": "bbc",
    "desk": "world",
    "ok": true,
-   "fetched": 82,
-   "new": 14,
+   "fetched": 85,
+   "new": 15,
    "errors": []
   },
   {
    "id": "bbcsport",
    "desk": "united",
    "ok": true,
-   "fetched": 58,
-   "new": 3,
+   "fetched": 57,
+   "new": 15,
    "errors": []
   },
   {
@@ -130,15 +129,15 @@
    "id": "blscal",
    "desk": "markets",
    "ok": true,
-   "fetched": 3,
-   "new": 0,
+   "fetched": 6,
+   "new": 3,
    "errors": []
   },
   {
    "id": "boe",
    "desk": "world",
    "ok": true,
-   "fetched": 5,
+   "fetched": 4,
    "new": 0,
    "errors": []
   },
@@ -154,16 +153,16 @@
    "id": "cme",
    "desk": "markets",
    "ok": true,
-   "fetched": 60,
-   "new": 6,
+   "fetched": 20,
+   "new": 1,
    "errors": []
   },
   {
    "id": "cochrane",
    "desk": "health",
    "ok": true,
-   "fetched": 25,
-   "new": 0,
+   "fetched": 66,
+   "new": 15,
    "errors": []
   },
   {
@@ -178,8 +177,8 @@
    "id": "df",
    "desk": "gaming",
    "ok": true,
-   "fetched": 56,
-   "new": 2,
+   "fetched": 50,
+   "new": 8,
    "errors": []
   },
   {
@@ -194,31 +193,31 @@
    "id": "earnings",
    "desk": "markets",
    "ok": true,
-   "fetched": 40,
-   "new": 7,
+   "fetched": 17,
+   "new": 10,
    "errors": []
   },
   {
    "id": "eurekalert",
    "desk": "health",
    "ok": true,
-   "fetched": 92,
-   "new": 10,
+   "fetched": 76,
+   "new": 9,
    "errors": []
   },
   {
    "id": "examine",
    "desk": "health",
    "ok": true,
-   "fetched": 2,
-   "new": 0,
+   "fetched": 4,
+   "new": 2,
    "errors": []
   },
   {
    "id": "fed",
    "desk": "world",
    "ok": true,
-   "fetched": 3,
+   "fetched": 2,
    "new": 0,
    "errors": []
   },
@@ -241,19 +240,17 @@
   {
    "id": "google",
    "desk": "ai",
-   "ok": false,
-   "fetched": 1,
+   "ok": true,
+   "fetched": 0,
    "new": 0,
-   "errors": [
-    "feed: ValueError: unparseable feed (SAXParseException)"
-   ]
+   "errors": []
   },
   {
    "id": "guardian",
    "desk": "world",
    "ok": true,
-   "fetched": 84,
-   "new": 14,
+   "fetched": 80,
+   "new": 15,
    "errors": []
   },
   {
@@ -261,31 +258,31 @@
    "desk": "united",
    "ok": true,
    "fetched": 11,
-   "new": 0,
+   "new": 1,
    "errors": []
   },
   {
    "id": "iaa",
    "desk": "faith",
    "ok": true,
-   "fetched": 9,
-   "new": 0,
+   "fetched": 8,
+   "new": 1,
    "errors": []
   },
   {
    "id": "information",
    "desk": "ai",
    "ok": true,
-   "fetched": 66,
-   "new": 1,
+   "fetched": 33,
+   "new": 6,
    "errors": []
   },
   {
    "id": "journals",
    "desk": "health",
    "ok": true,
-   "fetched": 47,
-   "new": 4,
+   "fetched": 24,
+   "new": 10,
    "errors": []
   },
   {
@@ -300,15 +297,15 @@
    "id": "manutd",
    "desk": "united",
    "ok": true,
-   "fetched": 38,
-   "new": 3,
+   "fetched": 15,
+   "new": 6,
    "errors": []
   },
   {
    "id": "marketingbrew",
    "desk": "business",
    "ok": true,
-   "fetched": 9,
+   "fetched": 5,
    "new": 0,
    "errors": []
   },
@@ -317,15 +314,15 @@
    "desk": "united",
    "ok": true,
    "fetched": 100,
-   "new": 6,
+   "new": 15,
    "errors": []
   },
   {
    "id": "meta",
    "desk": "business",
    "ok": true,
-   "fetched": 33,
-   "new": 2,
+   "fetched": 16,
+   "new": 1,
    "errors": []
   },
   {
@@ -340,47 +337,47 @@
    "id": "mittr",
    "desk": "expand",
    "ok": true,
-   "fetched": 7,
-   "new": 0,
+   "fetched": 8,
+   "new": 3,
    "errors": []
   },
   {
    "id": "modernretail",
    "desk": "business",
    "ok": true,
-   "fetched": 3,
-   "new": 0,
+   "fetched": 2,
+   "new": 2,
    "errors": []
   },
   {
    "id": "natreview",
    "desk": "world",
    "ok": true,
-   "fetched": 20,
-   "new": 0,
+   "fetched": 19,
+   "new": 4,
    "errors": []
   },
   {
    "id": "nature",
    "desk": "expand",
    "ok": true,
-   "fetched": 55,
-   "new": 1,
+   "fetched": 65,
+   "new": 10,
    "errors": []
   },
   {
    "id": "ons",
    "desk": "world",
    "ok": true,
-   "fetched": 30,
-   "new": 0,
+   "fetched": 40,
+   "new": 9,
    "errors": []
   },
   {
    "id": "openai",
    "desk": "ai",
    "ok": true,
-   "fetched": 2,
+   "fetched": 0,
    "new": 0,
    "errors": []
   },
@@ -396,16 +393,16 @@
    "id": "polls",
    "desk": "world",
    "ok": true,
-   "fetched": 37,
-   "new": 2,
+   "fetched": 33,
+   "new": 6,
    "errors": []
   },
   {
    "id": "ppcland",
    "desk": "business",
    "ok": false,
-   "fetched": 70,
-   "new": 0,
+   "fetched": 90,
+   "new": 15,
    "errors": [
     "feed: HTTPError: HTTP Error 403: Forbidden"
    ]
@@ -415,7 +412,7 @@
    "desk": "faith",
    "ok": true,
    "fetched": 30,
-   "new": 1,
+   "new": 6,
    "errors": []
   },
   {
@@ -423,14 +420,14 @@
    "desk": "prop",
    "ok": true,
    "fetched": 3,
-   "new": 0,
+   "new": 2,
    "errors": []
   },
   {
    "id": "propwatch",
    "desk": "prop",
    "ok": true,
-   "fetched": 2,
+   "fetched": 3,
    "new": 1,
    "errors": []
   },
@@ -438,7 +435,7 @@
    "id": "psblog",
    "desk": "gaming",
    "ok": true,
-   "fetched": 2,
+   "fetched": 3,
    "new": 1,
    "errors": []
   },
@@ -478,8 +475,8 @@
    "id": "rns",
    "desk": "faith",
    "ok": true,
-   "fetched": 10,
-   "new": 0,
+   "fetched": 8,
+   "new": 3,
    "errors": []
   },
   {
@@ -494,8 +491,8 @@
    "id": "shopify",
    "desk": "business",
    "ok": true,
-   "fetched": 8,
-   "new": 0,
+   "fetched": 12,
+   "new": 5,
    "errors": []
   },
   {
@@ -510,8 +507,8 @@
    "id": "stat",
    "desk": "health",
    "ok": true,
-   "fetched": 19,
-   "new": 0,
+   "fetched": 13,
+   "new": 5,
    "errors": []
   },
   {
@@ -526,8 +523,8 @@
    "id": "telegraph",
    "desk": "world",
    "ok": true,
-   "fetched": 15,
-   "new": 0,
+   "fetched": 12,
+   "new": 3,
    "errors": []
   },
   {
@@ -535,7 +532,7 @@
    "desk": "world",
    "ok": true,
    "fetched": 100,
-   "new": 7,
+   "new": 15,
    "errors": []
   },
   {
@@ -606,8 +603,8 @@
    "id": "verge",
    "desk": "ai",
    "ok": true,
-   "fetched": 10,
-   "new": 0,
+   "fetched": 7,
+   "new": 1,
    "errors": []
   },
   {
@@ -615,14 +612,14 @@
    "desk": "gaming",
    "ok": true,
    "fetched": 30,
-   "new": 5,
+   "new": 15,
    "errors": []
   },
   {
    "id": "willison",
    "desk": "ai",
    "ok": true,
-   "fetched": 10,
+   "fetched": 6,
    "new": 0,
    "errors": []
   },
@@ -638,8 +635,8 @@
    "id": "xboxwire",
    "desk": "gaming",
    "ok": true,
-   "fetched": 6,
-   "new": 0,
+   "fetched": 4,
+   "new": 1,
    "errors": []
   }
  ]

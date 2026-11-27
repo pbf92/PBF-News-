@@ -1,0 +1,62 @@
+URL: https://shattered.io/claude-opus-vs-sonnet-vs-haiku-vs-fable-4-20-vs-2-10-2026/
+TITLE: Claude Opus vs Sonnet: $4/$20 vs $2/$10 per 1M
+OUTLET: shattered.io
+
+Claude Opus 5.5 costs $4 per million input tokens and $20 per million output tokens. Claude Sonnet 5.5 costs $2 and $10, and Claude Haiku 5.5 starts at $0.10 and $0.50. Above all three sits Claude Fable 5.2, which Anthropic prices at $8 and $40, according to the Claude Platform docs.
+That four-step ladder is the real answer to the Claude Opus vs Sonnet question in late November 2026. Each rung doubles the price of the one below it, until you reach Haiku, where the gap to Sonnet jumps to 20x. Anthropic’s own guidance says to start with Opus 5.5 for most coding and knowledge work, then move up or down as the task demands. Whether that advice fits your workload depends on volume, latency and risk, and a cross-vendor ranking of frontier chatbots cannot settle that for a specific pipeline.
+Two numbers frame the decision. A Fable 5.2 token costs 80 times a Haiku 5.5 token at the base rate. Anthropic also says Haiku 5.5 costs about 75% less to run than Haiku 4.5 on average. Teams that send every request to one model pay for that spread whether they notice it or not, and the spread is wide enough to move a monthly bill from $1,600 to $20 on the same token volume.
+The Claude Lineup on November 27, 2026
+Anthropic’s current public lineup has five named models. Four of them matter for this comparison: Claude Fable 5.2, Claude Opus 5.5, Claude Sonnet 5.5 and Claude Haiku 5.5. The fifth, Claude Mythos 5.2, shipped alongside Fable 5.2 on the same day and shares its underlying model, with stronger safeguards for areas such as cybersecurity and biology. Mythos gets its own treatment later because the buying decision differs.
+The release order explains the naming. Sonnet 5 arrived on June 30, 2026, and Anthropic made its $2/$10 introductory price permanent on August 10, scrapping a planned jump to $3/$15 that would have started on September 1. Opus 5.5 followed on September 22 as the first model in the 5.5 family. Sonnet 5.5 landed on September 28, and Haiku 5.5 on October 7. Fable 5.2 and Mythos 5.2 closed the run on November 9. The 5.5 family rollout compressed three launches into about two weeks, which is why many comparison pages online still mix generations. Release roundups such as TecAdmin’s November 2026 model list now place the 5.5 models and Fable 5.2 side by side.
+- September 22, 2026: Opus 5.5 launches, priced 20% below Opus 5 per token, with Anthropic claiming a 40% lower running cost on typical workloads.
+- September 28, 2026: Sonnet 5.5 launches as the second 5.5 model, listed as more than 30% faster than Sonnet 5.
+- October 7, 2026: Haiku 5.5 launches and supersedes Haiku 4.5 as the small model.
+- November 9, 2026: Fable 5.2 and Mythos 5.2 launch, with Fable cut from Fable 5.1’s $10/$50 to $8/$40.
+One point trips up readers. Fable is a tier above Opus, not a replacement for it. Anthropic’s materials describe Fable 5.2 and Mythos 5.2 as specialized higher-capability models rather than successors to Opus, and the company still recommends Opus 5.5 as the starting point for most work. A reader who sees the newest release date and assumes Fable is the default will overspend by a factor of two on every token.
+The predecessors are history for new projects. Fable 5.1, Opus 5, Sonnet 5 and Haiku 4.5 each have a newer model in the same line, and none of the four should anchor a fresh architecture. No source reviewed confirms a retirement of any current tier, and the documentation lists the current four as supported until at least the fall of 2027, which the next section shows in detail.
+Claude Opus vs Sonnet vs Haiku vs Fable: Specs Side by Side
+The table below puts the four current tiers next to each other using Anthropic’s model documentation and pricing pages. Cells marked as not itemized mean the sources reviewed for this comparison did not publish the figure, and nothing has been guessed to fill the gap.
+Read the table from the bottom up for planning purposes. The retirement row gives every tier at least a year of runway from its release date, so a pipeline built today on Sonnet 5.5 or Haiku 5.5 has a published floor of September and October 2027 respectively. That is not a guarantee of availability after those dates, only the earliest date Anthropic says a retirement could happen.
+Where the Spec Gaps Matter
+The context window row deserves attention. The figures for each tier should be confirmed before you commit to one. Teams that need long-context work, such as whole-repository analysis, should check the current model overview before assuming a tier fits. A separate look at Opus 5.5 for coding tools follows the context question from the launch side.
+Haiku’s column reads differently. Its listed price applies to prompts up to 100,000 tokens, and anything longer moves into a higher bracket. A small model built for routing and extraction rarely needs a prompt that large, but retrieval-heavy pipelines can cross the line without anyone noticing, and the pricing section below puts a number on that crossing.
+The knowledge cutoff row is a quiet differentiator. Fable 5.2 has a reliable cutoff of June 2026, which means it knows about library releases and API changes from the first half of the year. For coding assistants that suggest dependency versions or call newer SDKs, a fresher cutoff cuts the number of hallucinated function names. Check the cutoff of whichever tier you pick, and feed current documentation into the prompt when it lags.
+Claude API Pricing: Opus vs Sonnet vs Haiku vs Fable Per Million Tokens
+Anthropic’s documentation lists four base price points, and they form a clean ladder. Fable 5.2 at $8/$40 costs twice Opus 5.5 at $4/$20. Opus costs twice Sonnet 5.5 at $2/$10. Sonnet then costs 20 times Haiku 5.5 at its entry bracket of $0.10/$0.50. Measured against Haiku’s input price, the multiples run 80x for Fable, 40x for Opus and 20x for Sonnet.
+The Fable cut matters more than it looks. Dropping from $10/$50 to $8/$40 is a 20% reduction, and Evi’s launch coverage framed it as a price move timed ahead of Anthropic’s market debut. Anthropic also says Fable 5.2 generates output up to 30% faster than 5.1, so buyers get a cheaper and quicker model in the same release. Sonnet 5.5 kept the same base prices as Sonnet 5 and instead cut cache-read pricing in half, from $0.20 to $0.10 per million tokens, which Anthropic says makes it roughly 20% cheaper on most agentic workloads.
+Modifiers That Change the Bill
+Fast mode produces an odd side effect. Opus 5.5 in fast mode costs $8/$40, which is exactly the standard price of Fable 5.2. A team that wants lower latency has to decide whether to buy speed from Opus or capability from Fable at the same per-token rate. The answer depends on whether the task is bottlenecked by waiting or by quality, and the scenarios section below gives rules for each.
+Government buyers get a separate lever. Anthropic announced an expanded partnership with the U.S. General Services Administration that gives government partners a 40% discount on Claude Enterprise, Claude for Government and the Claude API. The sources reviewed do not state the effective date or eligibility rules, so procurement teams should confirm terms directly.
+Subscription prices for Claude.ai plans are not confirmed in the sources reviewed, so none appear here. Readers weighing consumer plans can start with how Claude subscription limits compare with ChatGPT’s and then check Anthropic’s pricing page for today’s figures. For developers living in the terminal, the Claude Code against Gemini CLI token bill shows how the same ladder plays out inside a coding agent.
+What the Price Ladder Does to a Real Bill
+Per-million-token prices look abstract until you multiply them by a workload. The table below runs three workloads through all four tiers at standard rates, using only the published prices. The Haiku column assumes every prompt stays under 100,000 tokens. The arithmetic is simple, and that is the point: nothing in it relies on a benchmark claim.
+Routing changes the picture more than any single model choice. Send most of a high-volume service’s traffic to Haiku, a smaller share to Sonnet and only the hardest requests to Opus, and the bill lands well below an all-Opus setup. The per-million-token prices make the reason clear: Haiku starts at $0.10 and $0.50, Sonnet costs $2 and $10, and Opus costs $4 and $20.
+Caching moves the number again. If 80% of that service’s input tokens were cache reads on Opus 5.5, input spend would fall from $400 to $96, ignoring cache-write charges, because cache reads cost $0.20 per million against $4 for fresh input. That is a 95% discount on the cached portion. Agent loops that resend the same system prompt and tool definitions on every turn are the classic beneficiaries.
+# Cost calculator using Anthropic's published per-million-token prices (Nov. 27, 2026)
+PRICES = {
+    "fable-5.2":  {"in": 8.00, "out": 40.00},
+    "opus-5.5":   {"in": 4.00, "out": 20.00},
+    "sonnet-5.5": {"in": 2.00, "out": 10.00},
+    "haiku-5.5":  {"in": 0.10, "out": 0.50},   # prompts up to 100K tokens
+}
+def cost(model, m_in, m_out, batch=False):
+    """m_in and m_out are millions of tokens."""
+    p = PRICES[model]
+    total = m_in * p["in"] + m_out * p["out"]
+    return total * 0.5 if batch else total
+def routed(mix, m_in, m_out):
+    """mix maps model name to share of token volume, shares sum to 1."""
+    return sum(cost(m, m_in * s, m_out * s) for m, s in mix.items())
+print(cost("opus-5.5", 100, 20))                       # 800.0
+print(routed({"haiku-5.5": .70, "sonnet-5.5": .25,
+              "opus-5.5": .05}, 100, 20))              # 154.0
+Run the function against your own token logs before choosing a default. Most providers expose per-request usage counts in the API response, and a week of real traffic beats any estimate in a blog post, including this one.
+Claude Opus 5.5 vs Sonnet 5.5: What the 2x Premium Buys
+This is the matchup behind most searches for Claude Opus vs Sonnet, and Anthropic’s framing is clear. Opus 5.5 is the daily driver for complex coding and knowledge work. Sonnet 5.5 is the hybrid-reasoning model for well-scoped tasks, sitting between the more capable Opus and Fable models and the faster, cheaper Haiku. The company recommends Opus as the starting point and Sonnet when Opus-level capability is unnecessary.
+Opus costs twice what Sonnet does on both input and output: $4 and $20 against $2 and $10. On a high-volume service or a coding agent that burns through millions of input tokens per session, that gap adds up quickly. Whether that premium pays off depends on how often Sonnet fails a task that Opus completes, because a failed run that needs a retry on the bigger model costs more than running Opus once.
+Where Opus Earns the Premium
+Opus 5.5 launched at 20% lower token prices than Opus 5, and Anthropic says it costs 40% less to run on typical workloads. The gap between those two figures suggests the model also spends fewer tokens per task, though Anthropic does not break the claim down. According to Anthropic’s model overview, Opus 5.5 performs similarly to Fable 5.1 on most work, which would make it a bargain relative to the previous top tier.
+Anthropic positions Opus for long-running agentic coding, where a model plans, edits files, runs tests and recovers from its own errors across many steps. Ambiguous specs, cross-file refactors and debugging sessions with unclear root causes fit that profile. For a view of how it fares outside Anthropic’s own lineup, see the comparison of Opus 5.5 against GPT-6 Astra on Terminal-Bench.
+Where Sonnet Wins on Value
+Sonnet 5.5 is more than 30% faster than Sonnet 5 by Anthropic’s account, costs up to 30% less for most work, and carries a 1-million-token context window. Its cache-read price of $0.10 per million tokens is half of Opus’s $0.20. For applications with large, stable prompts such as a codebase summary or a policy library, that cache price decides the bill more than the headline input rate does.
+Anthropic’s own research 

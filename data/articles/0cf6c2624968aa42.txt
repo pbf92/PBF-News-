@@ -1,0 +1,70 @@
+URL: https://www.ons.gov.uk/economy/economicoutputandproductivity/output/articles/ukinclusiveincome/2005to2025
+TITLE: Inclusive wealth and income accounts, UK: 2005 to 2025
+OUTLET: Office for National Statistics
+
+- Gross inclusive income (GII) per person grew by 0.6% in 2025, following flat growth in 2024; its level was broadly comparable with 2017 in chained volume measure (CVM) terms.
+- Net inclusive income (NII) per person grew by 1.2% in 2025, following a 1% fall in 2024, in CVM terms.
+- Gross domestic product (GDP) per person grew by 0.9% in 2025, up from 0.1% in 2024, returning to its pre-coronavirus (COVID-19) pandemic peak by 2022; GII and NII per person, however, remained below their pre-pandemic peaks in 2025, reflecting subdued growth in unpaid household production, which remained broadly flat since 2023.
+- Nutrition services gross value added (GVA) in volume-terms peaked in 2020 during the pandemic, before falling sharply; nutrition services were 38% below their 2020 peak and 29% below pre-pandemic levels by 2025, reflecting lower household calories purchased and consumed.
+- Unpaid household services remained the second-largest component of GII, after market GVA, and were equivalent to around 69% of market GVA in current price terms in 2025; this highlights the substantial contribution of non-market household activity to the broader measure of UK production.
+- In current price terms, the share of household production GVA compared with market production GVA increased from 60% in 2005 to a peak of 76% in 2015, reflecting a period in which household production grew faster than market GVA; aside from 2020, this trend has since reversed, as market GVA growth outpaced household production.
+- Inclusive capital per person has remained stable and has grown marginally by 0.5% over the longer term, between 2005 and 2025, in CVM terms.
+These estimates signify an important methodological progression in measuring economic welfare beyond GDP, combining the broadest range of components ever included in these official statistics in development.
+These estimates provide new insights about the resilience of the UK's broader productive capacity during the coronavirus pandemic, with further research needed to complete the framework. In this publication, we have introduced provisional nowcast estimates to 2025, reducing the existing two-year data lag to one year, and providing users with a timelier assessment of the UK's economic progress to date.
+Back to table of contents
+Inclusive income and wealth measures provide a broader measure of the economic welfare of the UK population. They reflect the economic value of the total quantity of goods and services consumed in the UK, covering both paid activities (included in gross domestic product (GDP)) and unpaid activities, which include ecosystem services and unpaid household services.
+These accounts also look at the assets that support these activities; produced capital, human capital and natural capital, rather than focusing primarily on market production. The results are measures of economic progress that include activities and assets beyond those currently included in GDP.
+Gross inclusive income (GII) per person is a broader measure of economic activity in the UK, which reflects the impact of a wider set of activities and associated assets on production and therefore consumption. GII builds on the concept of GDP, with the following adjustments:
+- quality adjustment of public service output
+- inclusion of unpaid household services within the production boundary
+- inclusion of regulating ecosystem services, which currently include greenhouse gas regulation, air pollution regulation and urban heat regulation
+- expansion of the definition of intellectual property products, or intangible investment, to include products currently uncapitalised in the national accounts
+These adjustments, alongside the additional components subtracted from GII to calculate net inclusive income (NII), are summarised in Figure 1.
+Figure 1: GII per person was 57% higher than GDP per person in 2025, in current price terms
+Inclusive income in £ per person, current prices, UK, 2025
+Embed code
+Notes
+- Figure 1 shows the various components to our final net measure of inclusive income. Each horizontal bar represents a component's contribution in monetary terms.
+- Quality adjusted public services are only applied in volume terms and therefore are reflected as £0 in monetary terms.
+- Additive and subtractive nowcasted components have been bundled together in contributions.
+- “GII” stands for gross inclusive income.
+- “GDP” stands for gross domestic product.
+In 2025, GII per person was approximately £68,800 in current prices, while GDP per person was approximately £43,800. GII is 57% higher than GDP, reflecting its broader scope and the additional forms of economic activity it captures.
+Household production comprises the largest positive contribution to GII over and above GDP, highlighting the economic importance of unpaid work, such as;
+- childcare
+- adult care
+- home transport
+Household production contributes more than government activity and is second only to market activity, showing the substantial role households play in producing goods and services outside of the market economy. We are currently reviewing the set of unpaid household services included in our measures, as artificial intelligence (AI) is enabling households to carry out a growing range of activities that may previously have been provided through the market.
+NII per person is a broad measure of sustainable income, recognising the depreciation of the full array of capitals contained in the framework. It builds on GII by:
+- subtracting the capital consumption, or depreciation, of fixed assets, including the depreciation of additional intangible capitals
+- subtracting the depreciation of household durables used in unpaid household production
+- subtracting the depreciation of human capital
+- subtracting the depletion of oil and gas
+- subtracting the value of depletion and degradation of the atmosphere from UK greenhouse gas emissions
+- adding income from abroad, subtracting transfers from abroad
+In 2025, NII was approximately £47,000 per person in current prices, around 32% lower than GII. Therefore, after accounting for the depreciation of the UK's human, produced, and natural capital, around 68% of GII remained as income that could be consumed without reducing the expected value of the UK's inclusive wealth, given the capital base being maintained. Therefore, NII provides a measure of sustainable income by accounting for the amount of current income required to offset the depreciation of the UK's broad capital base.
+Back to table of contents
+Net inclusive income (NII) per person in volume terms grew by 1.2% in 2025, compared with a 1% fall in 2024. Gross inclusive income (GII) per person in volume terms increased by 0.6% in 2025, compared with flat growth in 2024.
+In volume terms, GII and NII per person fell in 2020 by 7.7% and 12.6%, respectively, compared with 2019. Both partially recovered, but by 2022, GII and NII both remained 2.1% and 2.7% below 2019 levels, respectively.
+In contrast, gross domestic product (GDP) per person, which fell by 10.2% in 2020, had recovered to around 0.9% above its 2019 level by 2022. GII and NII have remained broadly flat since 2022, highlighting the sustained weaker recovery relative to GDP per person, considering the current set of services being captured. If households are shifting activity into new service areas which are not currently captured, this would not currently be reflected in these data. We are currently considering how to address these emerging measurement needs.
+Nevertheless, the subdued growth in factors of total production which are not captured within the traditional economic estimates, particularly home-produced nutrition (cooking) and transport services, can be seen. Both of these factors remain below their pre-coronavirus (COVID-19) pandemic levels.
+Figure 2 shows trends in these data series since 2005, alongside GDP per person.
+Figure 2: GII and NII per person have still not returned to their pre-coronavirus peak, while GDP per person has been consistently higher than its pre-coronavirus peak since 2022
+Per-person measures of gross domestic product (GDP), gross inclusive income (GII) and net inclusive income (NII), chained volume measures, UK, 2005 to 2025
+Source: Inclusive income and wealth accounts from the Office for National Statistics
+Download this chart Figure 2: GII and NII per person have still not returned to their pre-coronavirus peak, while GDP per person has been consistently higher than its pre-coronavirus peak since 2022
+Image .csv .xls
+All three series show general upward trends over the past 20 years, aside from the two major downturn events in 2008 (the 2008 global financial crisis) and 2020 (the coronavirus pandemic). While all three show a similar pattern around these events, it is worthwhile considering the relative differences and what causes these, reflecting the different ways they measure economic activity.
+GII per person grew faster than GDP per person between 2005 and 2015, supported by stronger growth in unpaid household production. This broader measure of production also moderated the fall in GII during the 2008 global financial crisis, when an increase in unpaid household production partly offset the decline in market-based economic activity. Since 2015, however, this pattern has reversed, with GII per person growing substantially slower than GDP per person.
+The sharpest divergence in the three measures can be seen in the 2020 pandemic period; while GDP and GII both contracted, NII fell more sharply. This divergence can be explained by the different inclusions and exclusions in the three measures.
+GDP mainly comprises market and government production, which fell significantly during the pandemic. GII includes unpaid household services and ecosystem services (childcare and nutrition contributed positively to GII as people remained home and conducted more unpaid activities which would have otherwise been contracted out). NII fell more sharply than GII, reflecting its treatment as a net measure which subtracts capital consumption, with increased depreciation to produced and human capital contributing further to the decline.
+Recovery following the pandemic period has been strongest for GDP, while being moderate for GII and weakest for NII. GDP alone suggests a strong rebound from the pandemic, exceeding the pre-coronavirus peak by 2022. However, analysing GII and NII has revealed a more complex relationship between the three measures.
+In the latest year, household production only made a small positive contribution to GII growth of less than 0.1 percentage points, following a negative contribution of 0.1 percentage points in 2024, reducing overall growth in GII. Meanwhile, continued negative contributions from produced and human capital depreciation have eroded gains in NII, contributing to its weaker recovery.
+Back to table of contents
+Gross inclusive income (GII) per person grew by 0.4% a year on average between 2005 and 2025, using a compound average growth rate. Figure 3 shows the contributions to this growth since 2005. Breakdowns for 2025 are not included because of the nowcasting methodology.
+Figure 3: Both market and household production have been important for understanding movements in GII per person since 2005
+Contributions to cumulative growth in chained volume measure gross inclusive income (GII) per person relative to 2005, UK, 2005 to 2025
+Source: Inclusive income and wealth accounts from the Office for National Statistics
+Notes:
+- "GVA" stands for gross value added.
+- "Market (excluding ecosystem services) GVA" includes GVA for the market sector, as defined in the national accounts and gross domestic product. This includes the value (in volume terms) of investment in intangible capitals not currently capitalised in the national accounts, like branding, design, organisational capital, firm-specific training, and financial product innovation. We then subtract the value of ecosystem services that contribute to market 

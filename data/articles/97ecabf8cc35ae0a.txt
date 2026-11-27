@@ -1,0 +1,72 @@
+URL: https://ppc.land/content-rating/
+TITLE: Content rating
+OUTLET: PPC Land
+
+Content rating is a dimension in Amazon Ads unified reporting that records the audience maturity classification of the programme, stream or title on which an ad impression was delivered. Amazon's own description, as reported by PPC Land, offers a single example: "like content suitable for teens and older audiences." It exists because a video ad plays inside a film, episode or live stream classified for a particular audience, and advertisers want to know whether their spend landed next to children's programming, family viewing or material reserved for adults.
+Where the field sits in the report
+Amazon groups the content fields in the Supply category of its unified reporting dimensions, a reference page last updated on November 11, 2026. PPC Land counted 156 attributes across 11 categories on that page and noted that "content gets five": genre, rating, type ("movie, TV show, game, etc."), title and content creator name. The supply category holds 35 attributes, 34 of them marked for DVA+, the campaign type that replaced the Amazon DSP (demand-side platform) product name on September 29, 2026.
+The five content fields are designed to be read together:
+- Content genre - the category of the programme, such as drama or sport.
+- Content rating - the audience age classification.
+- Content type - movie, TV show, game or similar.
+- Content title - the name of the show or stream.
+- Content creator name - "the name of content creator on whose channel an ad is shown", in Amazon's wording, which matters mostly for Twitch.
+For ad products where the field has no meaning, the column returns null. Sponsored Products ads, for example, appear on Amazon shopping pages, which carry no programme rating.
+How the rating reaches a report
+A content rating is not calculated by Amazon. It is a label attached to a piece of content by its producer, distributor or a classification body, then carried through the ad-serving chain as metadata.
+On Amazon's owned streaming properties the chain is short, because Amazon holds the catalogue metadata for each title.
+On third-party inventory the route is longer and depends on the publisher. The industry standard for passing content metadata in a programmatic auction is the Content object in OpenRTB, the IAB Tech Lab protocol that defines bid requests. It offers three rating fields:
+- contentrating - a free-text string described as "Content rating (e.g., MPAA)". A publisher can send "TV-14", "PG-13" or any other label.
+- userrating - audience scores such as "number of stars, likes, etc."
+- qagmediarating - an integer "per IQG guidelines". The values, held in IAB Tech Lab's AdCOM enumerations, are 1 for All Audiences, 2 for Everyone Over Age 12 and 3 for Mature Audiences.
+The free-text field explains much of the difficulty. A US streamer might send "TV-MA", a German broadcaster "FSK 16" and a games app "ESRB T". Nothing in the protocol forces a single scheme, so any DSP that reports a rating has to normalise the strings or show them as received. Amazon has not published which approach it takes.
+A worked example helps. A DVA+ campaign runs across Prime Video and several streaming apps. Exported by content rating, it shows three rows: one labelled for general audiences with 2.1 million impressions, one for teens and older with 4.6 million, and one for mature audiences with 1.3 million. For a toy brand the mature row is a problem, and the content title field would identify which programmes drove it.
+The rating schemes behind the labels
+Content rating in US streaming draws largely on two systems. The Motion Picture Association film ratings, introduced in November 1968, classify films from G to NC-17. The TV Parental Guidelines were announced by the US television industry on December 19, 1996 and came into use on January 1, 1997, under pressure from the Telecommunications Act of 1996, which required televisions to carry the V-chip blocking technology. Six age labels apply: TV-Y, TV-Y7, TV-G, TV-PG, TV-14 and TV-MA. Content descriptors for violence (V), sexual situations (S), language (L), suggestive dialogue (D) and fantasy violence (FV) were added under a revised system announced on August 1, 1997.
+The Federal Communications Commission (FCC) found the guidelines acceptable on March 12, 1998, according to its news release, and required half of qualifying television models to include the V-chip by July 1, 1999 and all of them by January 1, 2000. The guidelines are administered by an industry body, the TV Parental Guidelines Monitoring Board, and have been voluntarily adopted by US streaming services.
+Other markets use their own schemes, such as the British Board of Film Classification and Germany's FSK, while games use the Entertainment Software Rating Board (ESRB) in North America. Google Ad Manager's documentation for publisher provided signals shows how platforms compress them. It maps MPAA-PG13, TV-14 and ESRB-T to a single "Teen" bucket, and MPAA-R, TV-MA and ESRB-M to "Mature". Amazon's "teens and older" example suggests a similar bucketed scale, though Amazon has not documented its values.
+Origin and evolution at Amazon
+The reporting history is short and well dated. On January 8, 2024, Amazon announced that advertisers buying streaming TV impressions on Freevee could download reports showing "which Content Genre and Content Rating their ad impressions were delivered on." The launch covered the United States only, for both managed-service and self-service advertisers. Genre and rating were already available as targeting settings, so the change closed a gap between what could be bought and what could be verified. PPC Land covered the launch in a February 2024 article on Freevee genre and rating reporting.
+On August 6, 2024, Amazon added show title reporting for Prime Video and Freevee and made genre, rating and title available through the Amazon Ads API under the "Audio and Video" dimension. Availability extended to Canada, Mexico, the UK, Germany, France, Italy and Spain. PPC Land reported the change as part of Amazon's push for streaming TV ad transparency with show title reports.
+Freevee itself did not last. Amazon confirmed in November 2024 that it would phase out the Freevee brand and fold its free content into Prime Video, which had introduced ads in 2024.
+Twitch followed. An Amazon announcement extended content type, rating and title reporting to Twitch impressions delivered on or after June 16, 2025, across markets in North America, Europe, the Middle East and Asia Pacific. The announcement page carries an August 25, 2025 headline date but a May 30, 2025 publish date in its metadata, so the launch date is uncertain.
+The field then moved into unified reporting, which opened in beta on November 11, 2025 and reached general availability on June 8, 2026. The November 2026 dimension reference is the first place Amazon lists content rating as a standard attribute alongside the other supply fields.
+Why it matters
+For advertisers, content rating serves two purposes that pull in different directions. The first is suitability. Brands that avoid mature content, or face restrictions on advertising to children, need evidence of where ads ran. PPC Land's brand suitability explainer sets out how advertisers define tolerance for sensitive but lawful content in tiers, and a rating column is one of the few direct checks available in streaming, where page-level URLs do not exist.
+The second is audience proxy. A TV-MA drama attracts adults, and a TV-Y series attracts young children and their parents. Rating data lets buyers compare cost and conversion by audience maturity without relying on personal data.
+The field also bears on reporting migration. Legacy Amazon DSP reports that held content transparency data are scheduled to stop, and PPC Land has warned that advertisers will lose unmigrated reports on January 31, 2027.
+Limitations and disputes
+Thin metadata outside owned properties. Ratings are only as complete as the signals publishers send. A March 2026 Peer39 analysis, cited in PPC Land's coverage of Wurl's content data platform, found that only 40% of connected TV bid requests carried usable programme-level content signals.
+No common scale. OpenRTB's contentrating field is free text, and the IQG integer offers only three coarse levels. Mapping national schemes into one column loses detail: a UK 15 certificate and a US TV-14 are not equivalent.
+Self-declared labels. Ratings come from producers and distributors. Neither OpenRTB nor Amazon verifies that a string sent in a bid request matches the actual programme.
+Live content. Twitch streams and live sport often carry no formal classification. Amazon's Inventory Tier controls, launched on November 14, 2025, sort such inventory into Expanded, Standard and Restrictive tiers, a separate system from age ratings.
+Undocumented values. Amazon has published neither the list of values the field can take nor how it treats unrated content.
+Commonly confused terms
+Content rating vs user rating. Content rating classifies the intended audience. User rating, a separate OpenRTB field, records star scores or likes from viewers.
+Content rating vs brand suitability inventory tier. The inventory tier is Amazon's own risk tier, applied by the advertiser as a control. The content rating is an external label attached to the programme.
+Content rating vs TV ratings. In television trade language, "ratings" usually means audience size, as in Nielsen ratings. This field has nothing to do with how many people watched.
+Content rating vs content genre. Genre describes subject matter. A comedy can be rated TV-Y or TV-MA.
+Recent developments
+Amazon's November 11, 2026 update to the unified reporting dimension list puts content rating among five content fields available for DVA+, as recorded in PPC Land's 156-dimension count. The same page states that Amazon does "not support Streaming TV Smart mode/ Sponsored TV yet". As of November 2026, DVA+ remains in closed beta in the United States, and advertisers are moving content reports into unified reporting ahead of the January 31, 2027 legacy cutoff.
+Timeline
+- November 1968 - US film industry introduces the MPAA film rating system.
+- February 1996 - Telecommunications Act of 1996 requires V-chip technology in televisions.
+- December 19, 1996 - US television industry announces the TV Parental Guidelines.
+- January 1, 1997 - TV Parental Guidelines come into use.
+- August 1, 1997 - Revised guidelines add V, S, L, D and FV content descriptors.
+- March 12, 1998 - FCC finds the TV Parental Guidelines acceptable and sets V-chip deadlines.
+- January 1, 2000 - All qualifying US television models required to include the V-chip.
+- November 2016 - OpenRTB 2.5 released, carrying contentrating, userrating and qagmediarating in the Content object.
+- January 8, 2024 - Amazon launches Content Genre and Content Rating reports for Freevee in the US.
+- August 6, 2024 - Show title reporting added for Prime Video and Freevee; genre and rating reach the Amazon Ads API.
+- November 2024 - Amazon confirms Freevee will be folded into Prime Video.
+- June 16, 2025 - Earliest Twitch impressions covered by content type, rating and title reports.
+- November 11, 2025 - Unified reporting opens in beta.
+- November 14, 2025 - Amazon DSP launches Inventory Tier brand suitability controls.
+- June 8, 2026 - Unified reporting reaches general availability.
+- September 29, 2026 - Amazon DSP renamed DVA; DVA+ enters US closed beta.
+- November 11, 2026 - Amazon publishes the 156-attribute dimension list including content rating.
+- January 31, 2027 - Legacy Amazon DSP and sponsored ads reports scheduled to shut down.
+Related PPC Land coverage
+- Freevee advertisers gain transparency with new content genre and rating reporting - covers the January 2024 launch of genre and rating reports for Freevee in Amazon DSP.
+- Amazon enhances streaming TV ad transparency with show title reports - reports the August 2024 expansion to show titles, Prime Video and the Am

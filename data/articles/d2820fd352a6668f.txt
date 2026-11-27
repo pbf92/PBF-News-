@@ -1,0 +1,71 @@
+URL: https://ppc.land/content-title/
+TITLE: Content title
+OUTLET: PPC Land
+
+Content title is a dimension in Amazon Ads unified reporting that labels each row of a report with the name of the programme an ad appeared in: a Prime Video series, a film, or a Twitch stream. It exists because streaming television is bought by audience and by app, yet advertisers still judge television by the shows that carry their ads. A breakdown by content title turns a campaign total into a list of programmes, each with its own impressions, cost and, where available, outcomes.
+Where the field sits
+Unified reporting is the reporting system Amazon opened in beta on November 11, 2025 and made generally available in the Amazon Ads console on June 8, 2026, replacing separate report builders for sponsored ads and Amazon DSP (demand-side platform). At unBoxed on September 29, 2026, Amazon retired the Amazon DSP name; its programmatic display, video and audio buying is now sold as DVA, with an AI-driven campaign type called DVA+. A report combines dimensions, which split data into rows, with metrics such as impressions or total cost.
+Amazon's dimensions reference, updated on November 11, 2026, lists 156 attributes in 11 categories. Content title is one of five content fields, alongside content genre, content rating, content type and content creator name, which PPC Land grouped together in its November 12, 2026 tally of the unified report dimensions. The sibling definitions quoted there show the logic of the set: content type covers "movie, TV show, game, etc.", content rating covers labels "like content suitable for teens and older audiences", and content creator name is "the name of content creator on whose channel an ad is shown". Content title supplies the name of the programme itself.
+The field matters only where Amazon controls or receives programme metadata. In practice that means streaming TV inventory on Prime Video, Freevee and Twitch. Amazon returns null wherever a dimension does not apply, so Sponsored Products rows, which run on retail pages, leave it blank.
+How the value gets there
+Amazon fills the field from its own catalogue when the impression runs on Amazon-owned inventory. Prime Video knows which title and episode a viewer was watching when an ad break played, so the report needs no external lookup. Twitch is different: the "title" there is the name of a live channel stream or broadcast, set by the creator, which is why Amazon pairs it with content creator name.
+For impressions bought on third-party streaming apps, the information would have to travel in the bid request. The industry's container for it is the Content object in OpenRTB, the IAB Tech Lab's real-time bidding protocol. The object has been part of the protocol since OpenRTB 2.0, released for comment on June 30, 2011 and finalised in January 2012. In the current 2.6 text it sits at $.app.content, $.site.content or $.dooh.content. Its title attribute is described as "Content title", with examples given as "Search Committee" (an episode of television), "A New Hope" (a film) and "Endgame" (made for web). A separate series attribute carries the parent show, for example "The Office", while season and episode carry the rest of the hierarchy. A bid request for an ad break in a sitcom might therefore read:
+"app": {
+  "bundle": "com.example.streamer",
+  "content": {
+    "series": "The Office",
+    "season": "Season 3",
+    "episode": 9,
+    "title": "Search Committee",
+    "genre": "Comedy",
+    "contentrating": "TV-14",
+    "livestream": 0
+  }
+}
+OpenRTB makes every one of those fields optional, and the publisher decides what to send. The confusion over terms also starts here: in OpenRTB, "title" means the episode or article, not the show, whereas buyers who ask for "show-level" data usually mean the series.
+Origin of the report
+Amazon built the field in stages over three years.
+In January 2024 it launched downloadable content genre and content rating reports for Freevee in Amazon DSP, initially in the United States, a move covered in PPC Land's February 2024 report on Freevee's genre and rating reporting. Titles were not included.
+On August 6, 2024, Amazon expanded what it called content transparency reports on streaming TV to show "impression breakdown by show titles" on Prime Video and Freevee. The reports were available through Amazon DSP and the Amazon Ads API, to managed-service and self-service buyers, in the United States, Canada, Mexico, Germany, Spain, France, Italy and the United Kingdom. According to the announcement, content genre, content rating and show title reports sat under an "Audio and Video" dimension in the API. Amazon pitched them at advertisers who buy deals on specific shows or block shows. PPC Land covered the launch in Amazon enhances streaming TV ad transparency with show title reports.
+The next expansion took the reports to Twitch. In an announcement dated August 25, 2025, Amazon added content type, rating and title reporting for ad impressions on Twitch delivered on or after June 16, 2025, across more than 40 countries. The page carries a conflicting metadata date of May 30, 2025.
+In unified reporting the field appears as content title rather than show title, a name that fits Twitch streams and films as well as television episodes. Amazon has not published a mapping that confirms the two are the same field.
+A worked example
+Take a US streaming TV ad group with a US$60,000 budget, running across Prime Video originals and live sport. The campaign total reports 2 million impressions at a CPM (cost per thousand impressions) of US$30. Split by content title, the same report might show 700,000 impressions in a drama series, 500,000 in a football broadcast, 300,000 in a reality competition and the rest scattered across 120 titles with fewer than 5,000 impressions each. Adding content rating would show how much ran in programmes rated for mature audiences. The figures are illustrative.
+Why it matters to marketers
+Title data is the closest streaming gets to the programme logs of linear television. It lets an advertiser check whether ads ran in the shows a deal promised and spot unwanted adjacency.
+The demand is measurable. In a Gracenote survey of 500 US media planners, TV buyers and programmatic traders fielded in March 2026, 91% of programmatic traders said missing show-level data limits connected TV (CTV), and The Trade Desk signed Gracenote's first DSP integration on August 27, 2026 to bring content IDs into targeting and reporting. Rival infrastructure has moved the same way. Index Exchange began show-level reporting with Gracenote and Spectrum Reach in January 2026, FreeWheel launched series-level reporting with seven publishers in July 2026, and Pixalate's Pre-Bid API began writing title, series, genre and rating into CTV bid requests in September 2026, drawing on more than 580,000 shows and 13,900 channels, according to Pixalate.
+Because Prime Video and Twitch metadata come from Amazon's own systems, Amazon can report titles that independent DSPs often receive blank or inconsistent.
+Limitations and disputes
+Reporting is not control. When Amazon first offered show-level reports, advertisers could exclude up to five of roughly 28 genres or six content categories, but could not choose or exclude specific titles, according to eMarketer, citing Adweek. Tom Discepola, senior director of programmatic at Tatari, argued in AdExchanger on September 18, 2026 that "reporting ≠ optimization": buyers who can see titles after the fact still need programmatic guaranteed deals or sponsorships to buy them.
+Coverage outside Amazon is thin. Peer39 reported in March 2026 that only 40% of streaming bid requests carry usable program-level signals. Titles that arrive as "unknown", misspelled or in inconsistent formats limit what a content title column can show for open-exchange inventory. Where values are missing, reports fall back to blanks or null.
+The labels are Amazon's. No standard defines what goes into the field. A Twitch stream name is written by a creator and can change mid-broadcast; a Prime Video title comes from a curated catalogue. The two sit in the same column but mean different things.
+Not everyone wants titles. Mario Diez, chief executive of Peer39, wrote in November 2024 that "streaming has killed the idea of the title as the only proxy to trade or buy on", noting more than 1 million shows across nearly 50,000 channels. His company sells genre and context signals, so the argument is not neutral.
+Privacy exposure. Show-level viewing data combined with household identifiers or IP addresses raises questions under the US Video Privacy Protection Act (VPPA), a risk Discepola flagged. Amazon's report aggregates impressions by title and does not expose individual viewers.
+Content title versus adjacent fields
+- Content genre groups programmes into categories such as drama or sport. Genre can be targeted or excluded; title reports what ran within the genre.
+- Content type says what kind of content it is, "movie, TV show, game, etc." in Amazon's words. A title belongs to a type.
+- Content creator name identifies the channel owner, mainly on Twitch. On creator platforms, title names the stream, creator names the person.
+- Live event name belongs to Amazon's separate set of nine live event fields, which describe sports rights packages, ad breaks and slots. A live football broadcast can carry both.
+Recent developments
+Amazon's November 11, 2026 dimensions update set content title's place in the unified vocabulary, alongside the other content fields. Legacy report pages enter read-only mode on December 17, 2026 and shut down on January 31, 2027, after which title breakdowns live only in unified reporting. From January 1, 2027, Amazon will stop counting off-screen ads as impressions, which will affect year-on-year comparisons by title. On November 10, 2026, Gracenote and Magnite began packaging US streaming deals by on-screen content, a sign that the market is shifting from reporting titles to trading on them. Amazon's brand safety disclosure, updated November 16, 2026, excludes streaming TV from its brand unsafe impression rate, leaving title reports as a main view of streaming adjacency.
+Timeline
+- June 30, 2011 - OpenRTB 2.0, including a Content object with a title attribute, is released for comment; the final version follows in January 2012.
+- January 2024 - Amazon launches content genre and content rating reports for Freevee in Amazon DSP.
+- August 6, 2024 - Amazon adds show title reports for Prime Video and Freevee in eight countries.
+- June 16, 2025 - Start date for Twitch impressions covered by content type, rating and title reports.
+- August 25, 2025 - Amazon announces content reporting for Twitch across more than 40 countries.
+- November 11, 2025 - Unified reporting enters open beta.
+- January 6, 2026 - Index Exchange announces show-level reporting with Gracenote.
+- June 8, 2026 - Unified reporting reaches general availability in the console.
+- July 29, 2026 - FreeWheel announces its series-level Video Content Report.
+- August 27, 2026 - Gracenote and The Trade Desk announce a DSP integration.
+- September 21, 2026 - Pixalate releases its Pre-Bid API, adding titles to CTV bid requests.
+- September 29, 2026 - Amazon retires the Amazon DSP name; DVA and DVA+ replace it.
+- November 11, 2026 - Amazon's dimensions reference lists content title among five content fields.
+- December 17, 2026 - Legacy report pages scheduled to become read-only.
+- January 1, 2027 - Off-screen impressions removed from counts.
+- January 31, 2027 - Legacy report pages scheduled to shut down.
+Related PPC Land coverage
+- 85 of Amazon's 156 unified report dimensions apply to Sponsored Products - The November 2026 tally of unified report dimensions, including the five content fields.
+- Amazon enhances streaming TV ad transparency with show title reports - The August 2024 launch of show title reports for Prime Video and Freevee.
+- Freevee advertisers gain transparency with new content genre and rating reporting - The J

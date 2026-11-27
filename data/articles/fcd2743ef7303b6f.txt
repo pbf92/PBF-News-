@@ -1,0 +1,71 @@
+URL: https://www.shopify.com/blog/tiktok-ads
+TITLE: TikTok Ads in 2027: Strategy, Costs & Best Practices
+OUTLET: Shopify
+
+TikTok ads allow brands to reach targeted audiences and drive traffic to TikTok Shop or their online stores. With 2 billion monthly active users, the platform gives businesses a substantial potential audience for paid advertising.
+For example, clothing retailer Aviator Nation used TikTok ads to build interest ahead of their Black Friday Cyber Monday sale, then retargeted those same shoppers with product ads during the event. According to a TikTok case study, the campaign generated $21 in revenue for every $1 spent on advertising.
+Here’s a detailed look at how TikTok advertising works, including who can use it, the potential benefits for brands, the different types of ads, and real-life examples. You’ll also learn the process for creating your first TikTok ad, along with some best practices.
+What are TikTok ads?
+TikTok ads are paid promotional content businesses use to reach audiences on the platform. They appear in various placements, including users’ feeds, and can take different forms, such as in-feed videos, interactive carousel ads, and search ads.
+Businesses create and manage campaigns through TikTok Ads Manager, where they can select advertising objectives, define target audiences, set budgets, and track performance. Depending on their goals, brands can use TikTok ads to increase awareness, drive website traffic, generate leads, or encourage purchases.
+What is TikTok GMV Max?
+GMV Max is an AI-powered campaign type within TikTok Ads Manager that automates advertising for products sold through TikTok Shop. As of July 2025, TikTok transitioned TikTok Shop Ads to GMV Max, which aims to maximize your gross merchandise value (GMV), or the total value of goods sold before deducting business expenses.
+After determining your daily budget, return on investment (ROI) target, and the products you want advertised, TikTok’s system calculates the best ad creatives, target audience, and optimal distribution of spending.
+There are two GMV Max campaign types:
+- Product GMV Max promotes your selected products across various TikTok placements linked to your TikTok Shop.
+- LIVE GMV Max is a live shopping campaign that directs traffic to your TikTok LIVE stream.
+TikTok also introduced GMV Max Pro, which builds on GMV Max by incorporating additional factors such as affiliate costs, coupons, and platform commissions into campaign optimization. As of October 2026, GMV Max Pro was rolling out to eligible advertisers in supported markets.
+Brands using Shopify can install the TikTok app for Shopify to sync their inventory with TikTok Shop and manage TikTok advertising campaigns directly from Shopify.
+Who can advertise on TikTok?
+Businesses and individuals in supported countries can advertise on TikTok by creating a TikTok Ads Manager account. Advertisers must provide business information, receive account approval, and follow TikTok’s advertising policies.
+Those policies restrict or prohibit ads for certain products and services, such as alcohol, gambling, and some health-related products. Advertisers must also comply with applicable local laws and regulations, such as the General Data Protection Regulation (GDPR) privacy laws in the European Union.
+TikTok advertising is available in dozens of countries and regions worldwide, including the US, Canada, the United Kingdom, Australia, and much of Europe and Southeast Asia. However, the countries advertisers can target depend on where their TikTok Ads Manager account is registered.
+Benefits of advertising on TikTok
+TikTok Advertising gives businesses several ways to reach potential customers and promote their products. Here are some of the benefits of incorporating TikTok ads into your marketing strategy:
+Massive and engaged user base
+TikTok is one of the most popular social media platforms, with about 2 billion monthly active users worldwide. According to DataReportal’s October 2026 report, active TikTok mobile app users spent an average of one hour and 55 minutes per day on the platform—more than users of any of the other measured social media apps.
+And at 3.7%, TikTok’s 2025 engagement rate per post was several times higher than that of Instagram (0.48%), Facebook (0.15%), and X (0.12%).
+This sizable user base and high level of engagement make TikTok a valuable platform for brands wanting to expand their reach.
+Creative and interactive ad formats
+The TikTok ad platform has a range of creative and interactive ad formats. For example, Catalog Ads allow ecommerce businesses to show shoppers personalized product recommendations based on their interests and activity on the platform.
+Branded Mission campaigns invite TikTok creators to produce videos based on a brand’s brief. Brands can then select submissions to feature as paid ads, encouraging user participation while introducing their products to new audiences and building brand awareness.
+Precise targeting options
+TikTok’s ad targeting dimensions include demographics, interests, behaviors, hashtag interactions, and device types. You can also create Custom Audiences based on customer lists, website activity, and previous engagement with their TikTok content.
+For example, sustainable jewelry brand Dorsal Bracelets used TikTok’s hashtag targeting feature to reach users interested in #jewelry, #ocean, and #bracelets. The company also connected the TikTok Pixel to their Shopify store to collect data for campaign optimization. According to TikTok’s case study, the ads reached more than 5 million users and generated at least 15 million video views.
+Eligible Shopify store owners can also use Shopify Audiences to generate lists of potential customers and export them to TikTok for use in advertising campaigns.
+Continuing expansion of services and integrations
+TikTok periodically adds advertising features and expands its integrations with third-party business platforms, giving advertisers additional ways to manage their campaigns.
+For example, in 2026, TikTok announced an extension of their integration with HubSpot, a customer relationship management (CRM) platform. Brands who use HubSpot for their CRM workflows can now handle TikTok onboarding, lead management, and audience activation directly within HubSpot’s Marketing Hub.
+In-app marketing and analytics features
+TikTok has tools to help brands develop ad content and analyze campaign performance. For example, TikTok One connects brands and creators for collaboration. The AI-powered Creator search tool recommends creators based on campaign briefs, allowing businesses to refine their matches or find similar creators.
+Another tool, Content Suite, curates existing creator content that brands can promote as Spark ads.
+TikTok Market Scope is an analytics tool that can track your target users’ behavior through different stages of interaction with your brand, from awareness to interest and then conversion. It provides data-driven insights into the factors that lead consumers from one stage of the buyer journey to the next, so you can reproduce your successes.
+How much do TikTok ads cost?
+The cost of TikTok ads depends on several factors, including your target audience, ad format, and campaign objectives. Based on her experience managing advertising campaigns, Jaclyn VanSloten, founder of marketing firm Femra Consulting, estimates that TikTok ads typically cost her clients $4 to $7 per 1,000 impressions and 35¢ to $1 per click. Actual costs can vary considerably by campaign.
+TikTok uses an auction-based system and allows advertisers to set daily or lifetime budgets. According to the platform’s budget guidelines, campaign daily budgets must exceed $50, while ad group daily budgets must exceed $20. These are minimum spending thresholds, not estimates of what a successful campaign will cost.
+For small businesses testing TikTok advertising, Jaclyn recommends budgeting $1,500 to $3,000 over 30 days. Although she’s run smaller tests, she says a larger budget provides more room to experiment with different ad placements and evaluate their performance.
+You should also account for the cost of producing ad creatives. Jaclyn says TikTok ads can require frequent creative updates to maintain performance, potentially adding to overall advertising expenses.
+Types of TikTok ads
+TikTok has a variety of ad formats to suit different marketing objectives and budgets. As you gain experience with the platform and learn how to use TikTok advertising to pursue your brand goals, you can experiment with different ad formats to find the ones that work best for your brand. TikTok ad format options include:
+In-feed video ads
+TikTok in-feed video ads appear alongside regular videos in users’ For You feeds. They can include a call to action (CTA) button that directs users to a preferred destination, like your webstore or TikTok Shop.
+Branded Mission ads
+Branded Mission ads let brands crowdsource user-generated content (UGC) from eligible creators. Businesses launch campaigns with a creative brief outlining what they’re looking for, and interested creators submit videos in response. Brands can select the best-performing submissions to promote as paid ads in users’ For You feeds.
+Branded Mission campaigns also offer optional add-ons, including Branded Hashtags, which group campaign videos under a designated hashtag, and Branded Effects, such as custom filters or lenses that creators can incorporate into their videos.
+Spark Ads
+Spark Ads are a type of in-feed video ad that allows a brand to amplify existing organic TikTok content from their own account or from a creator who has granted permission.
+By boosting top-performing content, brands borrow the authenticity and social proof of UGC while still maintaining control over their campaign targeting, budgeting, and optimization.
+For example, secondhand clothing retailer Goodfair used Spark Ads to promote videos their employees had originally posted organically, including behind-the-scenes warehouse footage and educational content about fast fashion. According to a TikTok case study, the campaign reduced the brand’s cost per acquisition by 50.7% and increased their click-through rate (CTR) by 87.2% compared with account averages.
+&opView and TopFeed ads
+TopView is a type of full-screen ad that displays first thing when a user opens the TikTok app. TopView ads are designed to maximize brand exposure and recall and are used to launch new products, promote special events, or create a strong first impression with a wide audience. Qualified advertisers can arrange placements through a TikTok sales representative or, in some cases, directly through TikTok Ads Manager.
+Similar to TopView ads, TikTok’s TopFeed ads receive premium placement, appearing in the first in-feed ad slot after a user sees the initial organic videos in their For You feed.
+For maximum visibility, businesses can use TikTok’s TopReach ad solution, which combines both of these ad placements into a single service.
+Catalog Ads
+Catalog Ads sync with your product catalog, using images, pricing, and other product information to generate personalized carousel or video ads. TikTok can automatically recommend products based on users’ interests and behaviors. Shoppers can tap the ads to visit your website or an Instant Page, a customizable landing page that opens within TikTok.
+How to create your first TikTok ad campaign
+TikTok Ads Manager offers guided campaign setup for new advertisers, with recommendations to help simplify the process. Advertisers can also adjust settings manually for greater control over budgets and other campaign options.
+This tutorial covers the basic steps for creating your first TikTok ad campaign:
+1. Create a TikTok for Business account
+To get started, visit the TikTok for Business signup page and create an account, or log in if you already have one. This account gives you access to TikTok Ads Manager, where you can set up advertising campaigns.
+Follow the prompts to create your Ads Manager account and provide the required business and billing information.
+2. Integrate Ti

@@ -1,0 +1,65 @@
+URL: https://ppc.land/deal-type/
+TITLE: Deal type
+OUTLET: PPC Land
+
+Deal type is a dimension in Amazon Ads unified reporting that labels each row of a report by the kind of programmatic agreement under which the impressions were bought. PPC Land's count of Amazon's dimensions reference, published on November 12, 2026, describes it as the field that distinguishes programmatic guaranteed deals, private auctions and preferred deals. The field exists because deal contracts differ: some fix the price, some fix price and volume, some fix neither. Two campaigns with identical cost per thousand impressions (CPM) can rest on very different commitments, and the deal type column makes that visible next to spend and results.
+What the field records
+When an advertiser buys through a deal on Amazon's display, video and audio buying platform, sold as Amazon DSP until September 29, 2026 and as DVA since then, every impression carries a deal identifier agreed between buyer and seller. Unified reporting exposes four attributes for that agreement. The deal ID is the identifier itself, the string defined in PPC Land's deal ID explainer as one that "identifies a specific agreement between a buyer and a seller of programmatic advertising." The deal name is the seller's label, and the custom deal name is a label the buyer can set. Deal type is the classification: which contract family the deal belongs to.
+It is a categorical attribute, not a metric: beside impressions, total cost or return on ad spend (ROAS), it splits each figure into one row per deal type. Three values are documented by Amazon's buying tools and confirmed by PPC Land's reading of the reference: programmatic guaranteed, private auction and preferred deal.
+As of November 2026, Amazon's dimensions reference could not be read in full outside the Amazon Ads console. No public Amazon page lists the exact strings the field returns, whether programmatic guaranteed share of voice appears as a separate value, or what label, if any, is applied to impressions bought in the open auction without a deal.
+The three deal types
+Amazon's guide to private marketplace (PMP) advertising sets out the contracts the field distinguishes.
+A private auction lets invited buyers "pay a varied CPM across multiple sites or publishers," according to the guide. The seller sets a floor price, buyers bid above it, and the highest bid wins. Nothing is reserved. In OpenRTB, the bidding protocol maintained by IAB Tech Lab and covered in PPC Land's OpenRTB explainer, this appears as a Deal object with a floor in bidfloor and, where outsiders are shut out, a private_auction flag set to 1.
+A preferred deal lets a buyer "negotiate a fixed price of inventory with the publisher," according to Amazon. If the buyer bids at or above that price, the impression goes to that buyer, who pays the fixed price even when the bid was higher. There is no volume commitment. OpenRTB marks this with an auction type of 3, which turns bidfloor into the agreed price, according to the IAB Tech Lab specification.
+A programmatic guaranteed (PG) deal is, in Amazon's words, a "pre-negotiated, invitation-only" agreement in which "the seller guarantees a fixed volume of impressions at a fixed price." There is no auction. Amazon's comparison table says the impressions "are 100% reserved and guaranteed." OpenRTB 2.6 signals the obligation with guar set to 1. Amazon also sells PG share of voice (PG-SOV) deals, which reserve a percentage of a seller's delivery rather than a number of impressions.
+Where it sits in a unified report
+Unified reporting, Amazon's single report builder for all ad products, launched in beta on November 11, 2025 and became generally available on June 8, 2026. PPC Land counted 156 dimensions in 11 categories after Amazon updated its reference on November 11, 2026. Of those, 137 apply to DVA+, the combined buying product, and 85 to Sponsored Products.
+All four deal fields are DVA+ only. Amazon's reference states that when a dimension does not apply to an ad product, "its value appears as null." A report mixing DVA+ and Sponsored Products campaigns, broken down by deal type, will show values for some DVA+ rows and blanks for every sponsored row.
+Deal type sits beside the supply fields: supply source says where inventory came from, and deal type adds the contractual layer.
+How deal types shape a campaign
+The classification also governs campaign construction. PPC Land's November 17, 2026 report on Amazon's streaming TV budget calculator sets out the rules. Biddable ad groups take open auction, private auction and preferred deals, live event ad groups take certified live inventory, and guaranteed ad groups "can only target a single PG or PG-SOV deal, with no other inventory selected."
+A worked example shows what the dimension reveals. Consider an illustrative streaming TV campaign with a US$100,000 budget. The headline report shows 3.6 million impressions at a blended CPM of US$27.80. A PG deal on Prime Video delivered 2 million impressions at the contracted US$30.00 CPM, spending US$60,000 exactly as booked. A preferred deal on a sports publisher took 800,000 impressions at US$28.00, short of the buyer's plan because the publisher sent fewer bid requests than forecast. A private auction across several broadcasters took 800,000 impressions at an average clearing price of US$22.00 against a US$20.00 floor. The blended figure hides that the cheapest inventory carried no delivery promise.
+Origin and evolution
+The three families predate Amazon. Google introduced Direct Deals on DoubleClick Ad Exchange in September 2011. In September 2013, the IAB's Programmatic Publisher Taskforce published a four-part taxonomy: automated guaranteed, unreserved fixed rate, invitation-only auction and open auction. These map onto programmatic guaranteed, preferred deal, private auction and the open market. OpenRTB 2.2, released in April 2014, wrote private marketplace deals into the protocol, and version 2.6 later added the guar flag.
+Amazon's own deal tools arrived in stages. In August 2018, AdExchanger reported that Amazon was piloting "guaranteed private marketplace buys" between DSP clients and publishers through its Transparent Ad Marketplace. On December 19, 2023, Amazon introduced a Deals widget that gathered "Preferred Deal, Private Auction, and Programmatic Guaranteed deal types" in one place within line item setup, according to its launch notice.
+Programmatic guaranteed then spread. Amazon DSP expanded PG deals for video to Japan, Saudi Arabia, Turkey and the UAE in March 2024, and on August 1, 2024 it introduced guaranteed deals for Prime Video in nine countries. Before that, self-service buyers could reach Prime Video only through preferred deals, which carried no guarantee. On February 18, 2025, Amazon let advertisers create preferred and PG deals with Prime Video, Twitch and Freevee themselves, with proposals "typically reviewed within minutes," according to the company. The reporting field followed, as one of four deal attributes in unified reporting.
+Why the field matters
+Deal type is the column that connects spend to contract. PG rows show committed spend to check against a booking; private auction and preferred rows reflect impression-by-impression choices and speak to price and win rate.
+Fees also differ by deal. PPC Land's November 14, 2026 analysis of Amazon's advertising business cites reports of 0% DSP fees on Amazon media in PG deals during a 2025 beta, against buyer accounts of 4% to 8% on open auction buys, figures attributed to AdExchanger and Digiday rather than to Amazon. Where fees vary with the deal, the deal type column becomes the basis for checking them.
+The field also feeds deal-level planning. When Amazon DSP launched automatic deal selection on April 15, 2026, the system began adding and removing streaming TV deals during a flight. Buyers who no longer pick deals rely on reporting to see which ones carried the spend.
+Limitations and open questions
+The field describes the contract, not its terms. It does not show the floor price, the fixed CPM or the booked volume. A PG row cannot be judged for pacing from the report alone.
+Definitions are not fully consistent even within Amazon's own material. Its PMP guide describes preferred deals as handing the impression to the participating buyer at the fixed price, yet the same guide's comparison table calls PMP inventory "non-guaranteed" and says buyers win "only if your bid is highest." Partners also use different names: Microsoft's buying guide for its Monetize SSP maps Amazon's preferred deal to a "fixed price deal" and its private auction to a "private marketplace (PMP) deal."
+Whether open auction impressions appear as a deal type value or as null remains unconfirmed in public documentation.
+How deal type differs from adjacent terms
+Deal ID. The deal ID identifies one specific agreement. Deal type groups many agreements into a contract family. Hundreds of deal IDs may share one deal type.
+Supply type. Supply type separates Amazon owned and operated inventory from the open internet. A programmatic guaranteed deal can sit on either side of that line.
+Inventory type. Amazon's API uses inventory type to describe the format of the line item's supply, such as streaming TV or display.
+Recent developments
+On July 22, 2026, automatic deal selection became the default for new streaming TV prospecting lines in Amazon's Brand+ product, according to PPC Land's November 14 analysis. On August 10, 2026, Amazon DSP added publisher-hosted creatives for Google Ad Manager programmatic guaranteed deals in 33 markets.
+Reporting is consolidating at the same time. Amazon updated its dimensions reference on November 11, 2026, and PPC Land's November 12 count placed all four deal fields among the 59 attributes that apply to DVA+ alone. Advertisers who have not moved legacy reports into the unified tool will lose them on January 31, 2027.
+Timeline
+- September 15, 2011 - Google launches Direct Deals on DoubleClick Ad Exchange.
+- April 2013 - Google opens Private Auctions to all AdX participants.
+- September 2013 - IAB taxonomy defines automated guaranteed, unreserved fixed rate, invitation-only auction and open auction.
+- April 2014 - OpenRTB 2.2 adds private marketplace deal objects.
+- August 14, 2018 - AdExchanger reports Amazon piloting guaranteed private marketplace buys through its DSP.
+- December 19, 2023 - Amazon DSP adds a Deals widget covering preferred, private auction and programmatic guaranteed deals.
+- March 2024 - Amazon DSP expands video PG deals to Japan, Saudi Arabia, Turkey and the UAE.
+- August 1, 2024 - Amazon launches programmatic guaranteed deals for Prime Video.
+- February 18, 2025 - Self-service creation of preferred and PG deals with Amazon media.
+- November 11, 2025 - Amazon unified reporting enters beta.
+- April 15, 2026 - Amazon DSP launches automatic deal selection for US streaming TV.
+- June 8, 2026 - Unified reporting becomes generally available.
+- July 22, 2026 - Automatic deal selection becomes default for new Brand+ streaming TV prospecting lines.
+- August 10, 2026 - Publisher-hosted creatives for Google Ad Manager PG deals in 33 markets.
+- September 29, 2026 - Amazon DSP renamed DVA.
+- November 11, 2026 - Amazon updates its unified report dimensions reference; deal type listed as DVA+ only.
+- November 17, 2026 - PPC Land reports Amazon's streaming TV budget calculator with tabs per deal type.
+- January 31, 2027 - Unmigrated legacy reports scheduled to be removed.
+Related PPC Land coverage
+- 85 of Amazon's 156 unified report dimensions apply to Sponsored Products - Count of Amazon's dimensions, including the four DVA+-only deal fields.
+- Explaining deal ID - The identifier that links each impression to a specific deal.
+- Explaining programmatic guaranteed deals - The fixed-price, fixed-volume deal type.
+- Explaining OpenRTB - The protocol carrying deal objects in bid requests.
+- Amazon sizes streaming TV budgets as commitment plus up to five fees - Ad group rules and calculator ta

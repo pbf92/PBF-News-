@@ -1,0 +1,22 @@
+URL: https://www.tradingview.com/news/financewire:59482ad5c094b:0-goat-funded-launches-perpetuals-prop-firm-powered-by-hyperliquid/
+TITLE: Goat Funded Launches Perpetuals Prop Firm Powered by Hyperliquid
+OUTLET: TradingView
+
+Goat Funded Launches Perpetuals Prop Firm Powered by Hyperliquid
+Kwun Tong, Hong Kong, November 27th, 2026, FinanceWire
+Goat Funded enters the rapidly growing perpetual futures market with the launch of its fourth trading brand.
+Goat Funded today announced the launch of Goat Funded Perps, a perpetuals prop firm powered by Hyperliquid, offering traders access to simulated funded accounts through a structured risk management framework.
+The launch comes amid growing demand for perpetual futures, which have become a dominant force in cryptocurrency derivatives trading. According to BitMEX, perpetual futures account for over 90% of crypto contract trading.
+The rise of decentralised exchanges and on-chain trading infrastructure has further accelerated adoption, with platforms such as Hyperliquid playing an increasingly important role in the evolution of crypto derivatives markets.
+Perpetual futures, commonly known as perps, are derivative contracts that track the price of an underlying asset without an expiration date. Their popularity among crypto traders has grown due to their flexibility, liquidity and continuous market access.
+Unlike traditional financial markets with fixed trading hours, perpetuals markets operate 24 hours a day, seven days a week, 365 days a year. Goat Funded Perps brings the simulated funded trading model to this growing market, offering around-the-clock trading and same-day reward processing.
+The platform is powered by Hyperliquid, a blockchain designed for high-performance decentralised trading. Its order book, matching engine and liquidation processes operate on-chain, providing transparency into how trades are executed.
+Goat Funded Perps represents the group's fourth trading brand, following Goat Funded Trader, Goat Funded Futures and Goat Funded Predictions. The launch forms part of the group's wider expansion strategy as it continues to diversify its trading products in response to emerging market trends.
+Goat Funded has served over 1.1 million traders globally and distributed more than $32 million in rewards since its inception. The new programme will be available from November 27, 2026, at goatfundedperpetuals.com. Availability varies by jurisdiction.
+About Goat Funded
+Goat Funded is a global prop trading group operating simulated funded trading programmes across CFDs, traditional futures, prediction markets and perpetual futures. Through its four brands, the group aims to provide traders with opportunities across an increasingly diverse range of financial markets.
+Contact
+Chief Marketing Officer
+Zeeshan Sabqi
+Goat Funded Perps
+sales@goatfunded.com

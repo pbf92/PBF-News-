@@ -1,0 +1,13 @@
+URL: https://www.neoteo.com/en/claude-artifacts-desktop-apps-what-the-beta-changes
+TITLE: Claude Artifacts desktop apps: how the beta works
+OUTLET: NeoTeo
+
+Anthropic announced a beta on November 24, 2026, that lets users install Claude Artifacts as desktop apps on Mac and Windows. An installed Artifact gets its own icon and window, but Anthropic says opening it requires an internet connection and a Claude sign-in. The Claude Developers announcement describes the feature as “Install as app.”
+How an Artifact becomes a desktop app
+Create an Artifact in Claude, choose Install as app (Beta) from its menu, and confirm the installation. Anthropic’s demonstration shows the Artifact opening in a separate window, with its own icon in the macOS Dock. The feature keeps the Artifact’s interface separate from the main Claude window; it does not remove the need to connect to Claude to open the app.
+What the permission levels allow
+Anthropic’s app permissions are described in three increasing levels: Default, App permissions, and Full computer access. The broadest setting may let an app run programs and read, change, or delete files without asking again each time. Anthropic does not review apps before installation.
+If an Artifact needs access to your computer, pay attention to the permission prompt before you approve it. The wider the access, the more the app can do without asking again.
+Before granting broad computer access, treat an Artifact like software you trust: the highest permission level may let it run programs and change files.
+Claude remains part of the app
+Anthropic says an installed Artifact needs an internet connection and a Claude sign-in to open. Requests the app makes to Claude also count toward the user’s plan limits, so using the app can draw on the same allowance as other Claude activity.

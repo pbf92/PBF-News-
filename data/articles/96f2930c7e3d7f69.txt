@@ -1,0 +1,65 @@
+URL: https://ppc.land/live-event-content-provider/
+TITLE: Live event content provider
+OUTLET: PPC Land
+
+Live event content provider is a dimension in Amazon Ads unified reporting that labels each row of a live event report with the company supplying the live stream in which an ad ran. It exists because live inventory is layered: a single game can involve a league that owns the rights, a broadcaster that produces the feed, a distributor that streams it and a seller that offers the ad breaks. Buyers paying premium prices for live sport want to know which party delivered their impressions.
+Where the field sits
+Amazon opened unified reporting in beta on November 11, 2025 and moved it to general availability on June 8, 2026, replacing separate report builders for sponsored ads and Amazon DSP (demand-side platform). At launch the template gallery included a Live Events report, described as covering streaming ads shown during live events inside Amazon DSP. Amazon retired the Amazon DSP name on September 29, 2026. Its programmatic buying is now sold as DVA, with an AI-led campaign type called DVA+.
+Amazon's dimensions reference, updated on November 11, 2026, lists 156 dimension attributes in 11 categories. PPC Land's count of the 156 unified report dimensions places the live event fields in the Supply category, which holds 35 attributes, 34 of them marked for DVA+. "Live events get nine attributes of their own," the article notes. The nine are:
+- Live event property - defined by Amazon as "the rights package, league, or content property associated with the live event inventory"
+- Live event genre
+- Live event content provider
+- Live event ID and Live event name
+- Live event inventory type - the inventory type of each ad break
+- Live event ad break order - the position of the break within the event
+- Live event ad slot order - the position of the slot within the break
+- Live event ad slot type - "the sales model for the live-event ad slot"
+According to the same article, six of the nine carry over names from an older "Live Event report" in the Amazon DSP console. The dimensions do not apply to sponsored ads campaigns, which return null in these columns.
+What the field reports
+Amazon's published material reviewed for this article does not quote a standalone definition of content provider. Its meaning has to be read from how Amazon structures live inventory elsewhere. The clearest guide is the Live Events Deal Certification program, introduced with Live Events Optimizer in late 2025. According to Amazon, it "allows publishers to declare essential deal metadata (sport, league, broadcaster, geography, distributor)." Two of those attributes, league and sport, map onto the property and genre fields. Broadcaster and distributor describe the company that produces or carries the stream, which is the role a content provider field captures.
+The NBA is a league; NBA League Pass is a rights package; Amazon described itself in October 2025 as "the exclusive third-party digital partner of NBA League Pass." A report that showed only the property would group every NBA impression together. A content provider breakdown separates the feed Amazon streams on Prime Video from a game carried by another broadcaster through a certified deal.
+How Amazon handles simulcasts or sublicensed games, where either party could be called the provider, is not documented.
+How the value gets there
+The data arrives through three routes, each with its own history.
+Amazon's own live sport. Prime Video holds Thursday Night Football, which Amazon lists as 17 exclusive NFL games, plus more than 60 exclusive NBA regular season games and NASCAR, WNBA and NWSL rights. When Amazon tipped off its first NBA season on October 24, 2025, it called the package "Amazon's first 100% programmatic sports offering," covering "nearly 1,000 out-of-market games in the U.S." For these impressions Amazon is both seller and, in most cases, provider.
+Open auction live supply. On July 9, 2024, Amazon opened live event open auction supply to self-service buyers in the US, Canada and Mexico. The source appeared as "Amazon Live Events" within the video line type, selected by default on new video lines. Property-level reporting, with examples such as NBA League Pass and ONE Championship, sat under a single "Live event" dimension in the DSP Report Center.
+Certified third-party deals. Live Events Optimizer, a streaming TV line item with a "Deliver Budget Across Events" pacing setting, draws on "certified, high-quality live events inventory from Amazon-owned and premium publishers," according to Amazon. Through the Amazon Ads API the line uses an inventoryType value of LIVE_EVENTS. The metadata publishers declare at certification is the most likely source of the provider value for these deals, although Amazon does not say so explicitly.
+Industry standards supply part of the plumbing. OpenRTB, the IAB Tech Lab bidding protocol, carries a Producer object in its Content object, defined as the "producer of the content; not necessarily the publisher (e.g., syndication)." OpenRTB 2.6, published in April 2022, added ad pod fields that resemble Amazon's break order and slot order dimensions. A June 11, 2026 release, 2.6-202606, added realtime and firstbroadcast fields to separate a live match from a replay. Whether Amazon populates content provider from these signals or from its own deal metadata is not documented.
+A worked example
+Consider a hypothetical sportswear brand running a US$200,000 Live Events Optimizer line across one weekend. The campaign report shows 4.4 million impressions at an average cost per thousand impressions (CPM) of US$45. A breakdown by Live event property shows the NBA accounting for most of the spend. Adding Live event content provider beside it splits those NBA impressions into games streamed by Prime Video and games carried through a certified third-party deal. If the third-party rows show a higher CPM or a lower completion rate, ad break order and ad slot order can show whether the gap comes from late breaks, where audiences thin out. The figures are illustrative; Amazon has not published live event benchmarks by provider.
+Why it matters to marketers
+Live sport is the scarcest inventory Amazon sells. In a May 2026 interview, Amazon's vice president of global advertising sales, Alan Moss, said Prime Video and live sports now operate as one business, and that scarcity of premium inventory, "particularly live sports and custom sponsorships," drove demand in the 2026 upfront. Thursday Night Football averaged more than 15 million viewers in the 2025 season, and the January 10, 2026 Packers-Bears wild-card game drew more than 31.6 million, as Amazon reported alongside fourth-quarter ad revenue of US$21.3 billion.
+The more Amazon resells other companies' streams, the more provider attribution matters. Netflix, Disney, Roku and Spotify inventory are all available through Amazon's DSP. Under DVA+, one frequency counter spans every publisher in a campaign, so impressions served by one provider can suppress delivery on another. Without a provider breakdown, an advertiser cannot see which stream absorbed the cap.
+Gracenote found in September 2026 that 26% of sports fans often cannot identify which channel or service carries a game, a figure cited in PPC Land's coverage of the streaming industry's new Washington lobby. A report field that tells providers apart is one of the few ways to audit where a live budget went.
+Limitations and disputes
+The first limitation is documentation. Amazon defines property and ad slot type in its reference but, in the material available for this article, offers no published definition or value list for content provider. Amazon's dimensions page could not be read directly; its definitions are known through PPC Land's summary.
+The second is coverage. PPC Land counts 34 DVA+ markers in the Supply category, yet Amazon's reporting page says "We do not support Streaming TV Smart mode/ Sponsored TV yet." Amazon does not state whether its product markers describe data available now or planned coverage. Live events sold through streaming TV may therefore appear in some reports and not others.
+The third concerns self-reported metadata. Certified deals rely on publishers declaring broadcaster and distributor details. Amazon says each deal "has been certified as Live Events content," but it has not described how declarations are audited, or what happens when a publisher mislabels a replay or a highlights show as live.
+The fourth is conflict of interest. Amazon is seller, provider and author of the report at once, and its own Prime Video streams compete for budget with third-party live inventory in the same line items. No independent body, such as the Media Rating Council, has published an accreditation covering the live event dimensions.
+Live event content provider versus adjacent fields
+- Live event property names the rights package, league or content property, such as the NBA or NBA League Pass. Content provider names who supplies the stream. One property can have several providers.
+- Publisher name and publisher owner identify the media company whose app or site served the ad. A publisher can carry live and on-demand content alike; content provider applies only to live event rows.
+- Ad inventory seller names the party selling the impression, such as an SSP or reseller. A live stream from one provider may reach Amazon through more than one seller.
+Recent developments
+Live inventory has moved deeper into automation through 2026. Amazon launched automatic deal selection for streaming TV on April 15, 2026, letting a model add and remove deals during a flight. The nine live event fields, documented in the November 11, 2026 reference update, give buyers a way to check those choices after the fact. Amazon has also set January 31, 2027 as the date unmigrated legacy reports will be lost, which ends the older Live Event report that six of the nine fields descend from.
+Timeline
+- April 2022 - OpenRTB 2.6 published with CTV ad pod fields, including pod sequence and slot position.
+- July 9, 2024 - Amazon opens live event open auction supply to self-service buyers in the US, Canada and Mexico, with property-level reporting under a "Live event" dimension.
+- August 2024 - Amazon introduces guaranteed deals for Prime Video ads.
+- October 24, 2025 - NBA on Prime launches; Amazon calls it its first fully programmatic sports offering.
+- November 11, 2025 - Unified reporting enters beta.
+- November 18 / December 1, 2025 - Live Events Optimizer announced, with the Live Events Deal Certification program (dates conflict on Amazon's page).
+- January 10, 2026 - Packers-Bears wild-card game on Prime Video draws more than 31.6 million viewers.
+- April 15, 2026 - Automatic deal selection launches for US streaming TV.
+- June 8, 2026 - Unified reporting reaches general availability with a Live Events template.
+- June 11, 2026 - OpenRTB 2.6-202606 adds realtime and firstbroadcast content fields.
+- September 29, 2026 - Amazon retires the Amazon DSP name in favour of DVA and DVA+.
+- November 11, 2026 - Dimensions reference update lists nine live event attributes, including content provider.
+- January 31, 2027 - Legacy report pages scheduled to shut down.
+Related PPC Land coverage
+- 85 of Amazon's 156 unified report dimensions apply to Sponsored Products - The November 2026 tally of unified report dimensions, including the nine live event attributes in the Supply category.
+- Amazon Ads unified reporting exits beta - and takes two old tools with it - The June 2026 general availability launch and its Live Events report template.
+- Amazon launches unified reporting system across advertising products - The November 2025 beta of unified reporting.
+- Amazon's ad chief: Prime Video and live sports are now one business - Alan Moss on live sports scarcity, the NFL and NBA deals and the 2026 upfront.
+- Amazon's ad revenue hits $21.3B as Prime Video reaches 315M viewers - Fourth-quarter 2025 results, Thursday Night Football audiences and the record wild-card stream.
+- Am

@@ -1,0 +1,26 @@
+URL: https://www.theglobeandmail.com/investing/markets/markets-news/Motley%20Fool/9033900/anthropic-vs-spacex-which-is-the-better-giant-ipo-buy/
+TITLE: Anthropic vs. SpaceX: Which Is the Better Giant IPO Buy?
+OUTLET: The Globe and Mail
+
+Key Points
+- SpaceX and Anthropic went public with the two largest IPOs ever, and both stocks have since slipped.
+- These tech players are spending heavily on AI infrastructure.
+The initial public offering (IPO) market has delivered two historic moments this year, and both involve the artificial intelligence (AI) boom. Space Exploration Technologies(NASDAQ:SPCX) listed on the Nasdaq in June in what was then the largest IPO ever, and Anthropic (NASDAQ:ANT), the company behind the Claude AI models, topped that record with its own debut on Nov. 19.
+But the celebration has faded quickly. SpaceX shares trade well below their first-day closing price, and Anthropic closed below its $83 IPO price on Tuesday, just four trading days after its debut. Investors are grappling with a familiar worry: Are these companies spending too much?
+Missed AI’s "Act 1"? Act 2 Could Be 15x Bigger. Most investors think they missed the AI boat because they didn't buy Nvidia in 2005. But according to our analysts, we’re only at the end of "Act 1"—the R&D phase. "Act 2" is the global rollout. Continue »
+Both companies are growing at breathtaking speeds, and both are spending enormous sums to keep up. So which of these new giants is the better buy today? Let's find out.
+Image source: Getty Images.
+The case for Anthropic
+Anthropic's growth is hard to ignore. Earlier this decade, Dario Amodei and a small group of fellow researchers left OpenAI and launched this rival AI lab. And in 2023, Anthropic launched its first Claude AI model. Since then, it's released new versions and has seen revenue soar.
+Annual revenue climbed from $41 million in 2023 to $4.6 billion last year, and in the third quarter of this year, revenue topped $17 billion. Enterprise demand is driving this incredible momentum: More than 1,900 customers generated at least $1 million in revenue, and 250 customers were responsible for $10 million in revenue over the trailing 12 months.
+The company faces a number of risks, however, including the investment needed to develop its models over time. Anthropic must generate a certain level of revenue to pay for the enormous amounts of compute required. The company's revenue is mainly consumption-based and not subject to long-term contractual commitments, yet its infrastructure commitments extend over many years. The risk is that revenue won't keep up with these spending commitments.
+The case for SpaceX
+SpaceX's growth is just as impressive, and the company has made significant progress on profitability. In the third quarter, SpaceX reported net income of more than $4 billion, compared to a year-earlier loss of more than $1 billion.
+The industrial and tech giant also has more than one engine, operating the Starlink connectivity business, the space business, and an AI segment. What's interesting here is that progress in reusable rockets may benefit all three businesses, as it ensures the company's ability to launch critical materials into space. For example, reusable rockets may transport Starlink's satellites. This is more cost-effective and could help SpaceX advance more quickly toward its goals.
+Then there's the potential Tesla merger. Musk has said he's considering a combination, and special committees at both companies are weighing a reported all-stock deal, according to press reports. Musk sees synergies in AI, chips, robotics, and orbital computing, though a deal would also add complexity.
+Spending is the concern here, too, as SpaceX's capital spending far exceeds its revenue. In the third quarter, capex surpassed $19 billion while revenue came it a $14 billion. Investors will want to see returns on this investment.
+Which is the better buy?
+Both stocks could reward patient investors, but each is spending heavily on AI infrastructure and faces the risk that returns may arrive later than expected. Still, SpaceX looks like the better buy today.
+Anthropic is essentially a single bet on enterprise AI demand, and much of its revenue depends on usage that customers can scale back. SpaceX, meanwhile, has Starlink generating real operating income, a launch business, and a fast-growing AI arm, so profits from one area can help fund growth in another. It was also profitable in the third quarter.
+That said, a Tesla deal isn't guaranteed, and both stocks may stay volatile as the post-IPO dust settles.
+Adria Cimino has positions in Tesla. The Motley Fool has positions in and recommends Anthropic, Space Exploration Technologies, and Tesla. The Motley Fool has a disclosure policy.

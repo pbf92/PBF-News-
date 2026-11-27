@@ -1,0 +1,30 @@
+URL: https://www.thekeyword.co/news/chatgpt-sponsored-business-agents
+TITLE: ChatGPT Ads Is Rolling Out Sponsored Business Agents
+OUTLET: www.thekeyword.co
+
+OpenAI is rolling out Sponsored Business Agents in ChatGPT Ads Manager, an ad format that opens a chat with an agent the advertiser builds instead of only sending a click to a website. According to OpenAI's setup guide, the format reaches eligible advertisers in Ads Manager over the coming weeks.
+The same product update, emailed to advertisers and reported by Search Engine Roundtable on 25 November, confirmed that Business Agents now reach beyond the US. OpenAI added that change to its Businesses in ChatGPT announcement on 19 November: ecommerce and online service businesses based outside the US can now claim their business and publish agents in ChatGPT.
+From a Closed Test to Ads Manager
+The format has moved in three steps. In September, The Keyword reported that ChatGPT was testing ads that open a brand agent chat, in a limited alpha with selected US advertisers and no early access requests accepted.
+On 10 November, OpenAI launched Business Hub, where eligible US businesses could build a Business Agent that answers questions inside ChatGPT. Nine days later it opened that agent to businesses outside the US. The ad version is now a self-serve build inside Ads Manager.
+How the Ad Works
+A Sponsored Business Agent sits on an eligible ChatGPT ad. The customer selects Start chat to ask a question or Visit site to go to the advertiser's website. In the chat, people can ask about products or services, compare options or follow a link to the site.
+The agent explains rather than transacts. OpenAI's Business Hub guide says a business agent cannot complete purchases, make bookings or check a customer's order, so customers finish those steps on the advertiser's site. OpenAI's setup guide repeats that ads do not influence ChatGPT's answers.
+What the Advertiser Has to Build
+The advertiser writes the agent. Agent builder sits under Business agent in the Ads Manager sidebar and runs on two text fields. Business info describes what the business offers, who it is for and where it is available. Guidelines set the agent's tone, when it asks questions and what it does when it cannot answer.
+The ChatGPT Ads Manager plugin can draft both fields from the advertiser's website and any brand guide or FAQ it is given. Retailers can also select a product feed for catalog recommendations, once the feed is indexed. Advertisers then set a name, a header color, a one-sentence tagline and optional conversation starters, and test the agent before publishing it.
+Publishing does not start delivery. The agent runs only on campaigns using the Conversion optimization objective, with Enable agent chats switched on in campaign settings.
+Two shortcuts are closed. Advertisers cannot bring their own agent, and a Sponsored Business Agent cannot run the advertiser's own ChatGPT plugin. An agent built in Business Hub does not carry over either. OpenAI says it is working on linking the two, but today their settings do not sync, so a brand with both rebuilds its agent in Agent builder.
+What Advertisers Get Back
+Advertisers do not receive individual chats or transcripts. Where available, an Insights tab in Ads Manager shows patterns across conversations, such as the questions customers ask most often. Once an agent has had more than 25 conversations, an insights agent can help explore those patterns.
+Chats carry no separate charge. The campaign's billing settings apply to the ads that use the agent, and OpenAI bills nothing per conversation or per message.
+A Heavier Build Than Google's
+Google is testing the same idea in YouTube ads with less setup. In Google's Business Agent announcement, the company says advertisers "do not need to build custom chat scripts or update any creatives", because the agent answers from the existing product catalog and website data.
+OpenAI's version asks for more work and gives more control. Every answer on prices, finishes or returns comes from text the advertiser wrote and tested, which moves the work of the product page into the campaign. Keeping that text current becomes part of running the ad.
+Recap
+What are Sponsored Business Agents in ChatGPT Ads?
+A Sponsored Business Agent lets people start a chat from an eligible ChatGPT ad with an agent the advertiser has built. Customers can select Start chat to ask about products or services, or Visit site to go to the website. OpenAI says the format is rolling out to eligible advertisers in Ads Manager over the coming weeks.
+How does an advertiser set up a Sponsored Business Agent?
+The advertiser opens Agent builder under Business agent in the Ads Manager sidebar, writes Business info and Guidelines, adds a name, tagline and conversation starters, then tests and publishes the agent. It shows in ads only on a Conversion optimization campaign with Enable agent chats turned on.
+What changes for advertisers who run a Sponsored Business Agent?
+The agent's answers come from the business details and guidelines the advertiser writes, so keeping them accurate becomes part of the campaign. Advertisers see patterns across conversations in an Insights tab, not individual transcripts, and pay no separate charge for chats.

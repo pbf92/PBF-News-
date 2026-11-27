@@ -1,0 +1,21 @@
+URL: https://247wallst.com/investing/2026/11/27/anthropic-just-hit-an-81-billion-run-rate-why-wall-streets-post-ipo-jitters-are-a-gift/
+TITLE: Anthropic Just Hit an $81 Billion Run Rate—Why Wall Street’s Post-IPO Jitters Are a Gift
+OUTLET: 24/7 Wall St.
+
+Anthropic Just Hit an $81 Billion Run Rate—Why Wall Street’s Post-IPO Jitters Are a Gift
+This post may contain links from our sponsors and affiliates, and Flywheel Publishing may receive compensation for actions taken through them.
+I keep adding to my Anthropic (NASDAQ:ANT) position, and the post-IPO slide has only made me add faster. Shares closed at $97.17 on November 19 and settled at $82.79 on November 25, a 14.8% drop that leaves the stock near its $83.00 IPO price. CNBC called the stock a dud since its debut (CNBC). To me the pullback leaves the largest IPO in history, which raised $81.34 billion, at roughly the offering price.
+My thesis: Claude works its way into the workflows businesses run on every day, and customers who start using it keep spending more on it. I want to own that compounding for decades.
+Run-Rate Growth Most Investors Are Missing
+Anthropic’s annualized revenue run rate rose from $47 billion in May 2026 to $65 billion in July and $81 billion by October 31, adding $10 billion in October alone. Reported revenue reached $11.6 billion for the three months ended June 30, 2026, up from $787 million a year earlier. More than 11,900 customers now spend at least $100,000 a year, up from 950+, and net revenue retention stood at approximately 900% as of September 30.
+Margins and a Balance Sheet That Earn Patience
+Gross margins on customer workloads run near 85%, which looks like software economics. Revenue grew 1,368% year over year in the June quarter while compute and infrastructure expenses grew 300%. Revenue per employee exceeded $6.6 million, up from $1.4 million. The company also held $112.4 billion in cash and $19.3 billion in short-term investments as of June 30.
+Why My Money Skips Microsoft and Alphabet
+The software giant (NASDAQ:MSFT | MSFT Price Prediction) is a strong business, but it grew revenue 18.8% last quarter at a P/E of 27. Microsoft even booked a $3.20 billion gain from its Anthropic stake in fiscal Q4 2026. Owning the source of that gain directly seems like the better move.
+The search giant (NASDAQ:GOOGL) trades at a P/E of 12, yet its Q3 capital expenditures of $51.36 billion pushed free cash flow to negative $9.07 billion, and it has sold shares through an at-the-market program. That dilution erodes the cheap headline multiple for me.
+Risk That Could Break My Thesis
+Anthropic carries roughly $900 billion in multi-year infrastructure commitments. Its own S-1 warns that run-rate revenue “is not a forecast of future revenue”, that consumption-based revenue can swing, and that run-rate growth will decline over time. Income investors also get no dividend here. If demand stalls, those commitments become a heavy anchor.
+My buying continues because revenue keeps growing faster than compute costs, the cash pile funds ongoing investment, and compute access spans multiple chipmakers’ systems (company landscape), which reduces single-supplier dependence. The early traits that showed up in past monster tech winners are the same ones we cataloged in a free playbook here.
+What Keeps My Conviction Intact
+Partners keep wiring Claude deeper into enterprises. Enterprise software and cybersecurity partners announced expanded Anthropic partnerships in November 2026. Prediction-market traders price Q4 revenue above $21.5 billion at a probability of 0.495. With a market cap near $639.98 billion, I am paying close to the IPO price for a business whose customers multiply their spending year after year. I will keep collecting shares while sentiment stays cautious.
+Contact [email protected] for any questions or corrections.

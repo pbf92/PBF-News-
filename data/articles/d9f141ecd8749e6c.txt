@@ -1,0 +1,18 @@
+URL: https://www.tradingview.com/news/gurufocus:f2fca6681094b:0-anthropic-stock-investors-face-major-december-test/
+TITLE: Anthropic Stock Investors Face Major December Test
+OUTLET: TradingView
+
+Anthropic Stock Investors Face Major December Test
+Anthropic ANT shares climbed back above their $83 initial public offering price Friday, offering some relief to investors following a brutal post-IPO selloff. However, a massive $140 billion stake held by the company's seven co-founders presents another potential challenge for shareholders heading into 2027.
+Anthropic develops the popular Claude chatbot and sells access to its artificial intelligence models through subscriptions, enterprise agreements and developer services. The company competes directly with OpenAI and Alphabet's GOOGL Google.
+Shares climbed to $86.01 in Friday's premarket trading after gaining 1.08% Wednesday, snapping a three-day losing streak. Nevertheless, the stock remains considerably below its first-day closing price of $97.17.
+Concerns surrounding data center spending, rising borrowing costs and persistent inflation have weighed heavily on investor sentiment. Perhaps more concerning is the sheer volume of shares that could eventually enter the market.
+Only roughly 6% of Anthropic's fully diluted shares are currently available for public trading, while approximately 15.5 billion pre-IPO shares remain subject to staggered selling restrictions.
+The company's seven co-founders, including CEO Dario Amodei, collectively hold approximately 1.69 billion shares and equity awards valued at nearly $140 billion at the IPO price.
+Their first major selling window opens following first-quarter earnings or on May 17, 2027, whichever comes first. Approximately 490 million founder shares could become eligible for sale at that point.
+Investors Takeaway
+Wall Street remains optimistic about Anthropic, with a Strong Buy consensus rating and an average price target of $150.50 .
+However, investors should closely monitor Dec. 15, when another 303 million shares held by eligible pre-IPO shareholders could become available for sale.
+Beyond potential selling pressure, Anthropic's enormous computing commitments remain another concern. Its IPO prospectus disclosed $900.9 billion in long-term computing obligations, including $70.7 billion due within 12 months.
+Investors should watch revenue growth, cash burn and financing requirements alongside upcoming lockup expirations.
+Anthropic's ability to deliver earnings growth that justifies its lofty valuation could become increasingly important as more shares enter public markets.

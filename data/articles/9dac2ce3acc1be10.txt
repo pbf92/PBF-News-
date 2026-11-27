@@ -1,0 +1,26 @@
+URL: https://247wallst.com/investing/2026/11/27/the-nasdaq-needs-two-huge-days-to-dodge-its-worst-november-since-2008/
+TITLE: The Nasdaq Needs Two Huge Days to Dodge Its Worst November Since 2008
+OUTLET: 24/7 Wall St.
+
+The Nasdaq Needs Two Huge Days to Dodge Its Worst November Since 2008
+This post may contain links from our sponsors and affiliates, and Flywheel Publishing may receive compensation for actions taken through them.
+The Nasdaq Composite closed on Wednesday, November 25, 2026, at 23,585.80. It is now down 7.28% from its October 30 close of 25,437.00. Markets were closed for Thanksgiving, so two sessions remain: a half day on Friday that ends at 1 p.m. ET, and Monday, November 30, when the month’s result is set.
+At that pace, the index is on track for its worst November since 2008. That year it fell 10.77%, from 1,720.95 to 1,535.57. From 2009 through 2025, no November was worse than the 2.39% loss in 2011.
+If you own the Invesco QQQ Trust (NASDAQ:QQQ), which tracks the Nasdaq-100, your losses are larger. Through Wednesday, QQQ fell from $690.49 to $633.93, down 8.19%. The SPDR S&P 500 ETF Trust (NYSEARCA:SPY) fell 5.16%, to $716.70.
+Futures rose late Thursday, so the Composite can still avoid a record, although the forces behind the selloff remain in place.
+What Two Sessions Would Have to Deliver
+To finish ahead of 2011, the Composite needs to close Monday above about 24,830. That would take a 5.27% gain over the two sessions combined. Finishing the month flat would take 7.85%, while another 3.77% drop, to about 22,697, would make it worse than 2008.
+Two-day gains that large are uncommon, but they do happen. Since January 2008, the Composite has gained that much in 36 two-session windows. The most recent was the 6.03% gain in the two sessions ending May 13, 2025.
+At 11:39 p.m. ET Thursday, Nasdaq-100 futures were up 2.55% at 26,766.50. If the Composite matched that gain on Friday, it would close near 24,187. It would still be down about 4.9% for November and would need roughly another 2.65% on Monday.
+Treat those futures as a rough guide, because they track a different index and trade thinly over the holiday. Light volume can let a rally run, but it shows little about where buyers will stand once normal trading returns.
+5% Daily Swings Signal a Fragile Market
+The Composite fell 5.28% on November 20. On November 23 it rose 6.51%, to 24,089.56, and then it slid 1.48% and 0.62% over the next two sessions. Back-to-back swings of that size usually come from traders adjusting positions, and orderly selling looks different.
+The VIX, which measures expected stock volatility, reached 35.89[1] on November 20. A 7.28% monthly loss would be the Composite’s worst month since March 2025, when it fell 8.21%. It would also be the second straight losing month, after a 5.30% drop in October. The index is now up just 1.48% for 2026.
+Rate Fears Hit Growth Stocks Hardest
+Market observers blame weaker sentiment around AI and expectations of Fed rate hikes. On AI, the worries include debt financing, slower growth in capital spending, and a slowdown in data center construction. The latest PCE inflation reading added to the rate-hike expectations. Warren Pies, co-founder of an independent research firm, said, “Most of this stuff really comes down to the Fed.”
+Stocks with high valuations get much of their value from earnings expected years from now, so higher rates cut into their prices first. That helps explain why the S&P 500 is down 5.24% for November and the Dow only 3.07%. The Dow’s loss is smaller than its 3.73% drop in November 2021, so it is not headed for its worst November since 2008.
+Why QQQ Carries More Risk Than SPY Right Now
+My view is that QQQ carries more risk than SPY heading into any holiday rally. QQQ has fallen further than SPY, and as of June 30, its top three holdings were NVIDIA (NASDAQ:NVDA | NVDA Price Prediction), Apple (NASDAQ:AAPL) and Micron (NASDAQ:MU). That leaves it most exposed to the AI and interest-rate pressures behind the selloff.
+SPY owns many of the same leaders but also has financial, industrial, and consumer companies, which spreads out the risk. The S&P 500 needs a two-day gain of 4.65% to avoid its own worst November since 2008, so SPY’s position is also weak.
+The Fed announces its next rate decision on December 9. If the Composite closes Monday above 24,830 and the Fed does not raise rates, I would drop this view. If it closes Monday below 23,585.80, that would support it.
+Contact [email protected] for any questions or corrections.
