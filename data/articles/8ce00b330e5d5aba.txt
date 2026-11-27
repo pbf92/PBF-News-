@@ -1,0 +1,21 @@
+URL: https://www.edtechinnovationhub.com/news/openai-chief-scientist-proposes-shared-limits-on-frontier-ai-development
+TITLE: OpenAI chief scientist proposes shared limits on frontier AI development
+OUTLET: EdTech Innovation Hub
+
+Jakub Pachocki has published OpenAI’s internal pretraining scores to make the case for a common way to measure progress across AI labs
+OpenAI’s Chief Scientist, Jakub Pachocki, wants frontier AI developers to agree on a point beyond which they would hold off on developing more capable models until they can better understand and monitor their behavior. His proposal pairs a shared measure of model progress with a requirement to agree in advance on what safety researchers would need to demonstrate before development could go further.
+In an essay titled Perplexity and Intelligence, Pachocki proposes using pretraining perplexity alongside other measurements to set the limit. OpenAI released a series of internal scores, from GPT-3.5 through GPT-6.2 Astra, to show how it tracks progress during the stage when a model first learns from large amounts of data.
+What would determine when labs can go further
+Pachocki wants developers to agree on how to evaluate models before they are first used, what evidence to share and how to challenge one another’s safety cases. Those cases set out the evidence developers rely on when deciding whether a model is safe enough to use.
+One possible milestone would be finding a successor to chain-of-thought monitoring, which examines the intermediate reasoning a model produces as it works through a task. The proposal leaves the first numerical limit and the criteria for crossing it open for developers to agree. Pachocki envisages using that first agreement to set further limits as models become more capable.
+What OpenAI’s scores show
+Perplexity measures how well a model predicts the next token, such as a word or part of a word, on data set aside for testing. Lower scores mean better predictions. OpenAI reports the logarithm of that measure, known as cross-entropy loss, using test data drawn from a fixed snapshot of its internal codebase.
+On that test, GPT-3.5 scored about 0.99 and GPT-4 about 0.91. Pachocki associates the former with fluent conversation and the latter with the ability to benefit from reasoning through a problem before answering. He says OpenAI saw notable gains in mathematics and cybersecurity as scores fell below 0.8. The company attributes most of the steeper improvement in 2026 to longer-term research and investment in computing power, with a smaller contribution from automation.
+The range where today’s tests may fall short
+Labs train on different mixes of data and use different evaluation sets, making their raw scores difficult to compare. Perplexity also tracks progress in pretraining. A model can improve at a specific task by reasoning through it after training, while its pretraining score stays the same.
+Pachocki estimates that further capabilities could emerge around 0.68 to 0.70 on OpenAI’s log-perplexity scale. That range is a forecast based on recent progress. The first shared limit is still to be set.
+“I don’t know what those capabilities will be, and we may not be testing for them today,” Pachocki writes.
+ETIH Innovation Awards 2027 open for entries
+The ETIH Innovation Awards 2027 are now open for entries, with 26 categories recognising companies, institutions, projects and individuals making a measurable impact across education technology. The global awards span AI in education, digital learning, higher education, skills and workforce, inclusion, education operations, evidence and impact, with entries managed through ETIH’s new online awards platform.
+Entries are open worldwide, with the early-bird deadline on Friday 18 December 2026 and the final entry deadline on Friday 26 February 2027 at 23:59 UK time.
+Explore the 2027 categories and judging criteria, read the How to Enter guide or start an entry through the ETIH Innovation Awards 2027 platform.

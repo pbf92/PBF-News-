@@ -1,0 +1,18 @@
+URL: https://techgig.com/news/strategy-leadership/anthropic-rethinks-engineer-promotions-hiring-with-ai-tools/136205934
+TITLE: Anthropic rethinks engineer promotions, hiring with AI tools
+OUTLET: TechGig
+
+Anthropic is reshaping how its software engineers advance in their careers, driven by the increasing use of artificial intelligence.Katelyn Lesse, the head of platform engineering at the company, stated that AI has made project duration a less useful metric for promotion readiness.The Pragmatic Engineer that "impact" remains the ultimate measure of success.Claude Code programming tool is used by hundreds of thousands of workers globally, including its own engineers.
+Hiring practices evolve
+Anthropic is also adapting its hiring processes, Lesse confirmed. Her team is experimenting with interview formats that assess whether software engineering candidates can effectively use coding agents. These tests involve reviewing agent-written code or building systems with an agent's assistance.AI tools to accomplish work.
+- Strategy & Leadership
+- 1 min Read
+Anthropic rethinks engineer promotions, hiring with AI tools
+Anthropic's head of platform engineering, Katelyn Lesse, stated that AI has made project duration a less useful measure for engineer promotions. Her team now prioritises outcomes like lower latency and avoided incidents. The company is also experimenting with interviews that test candidates on using coding agents.
+Highlights
+- Anthropic shifts engineer promotion criteria from project duration.
+- New focus is on outcomes like lower latency and avoided incidents.
+- Impact now prioritises coordination over extensive code writing.
+- Hiring interviews test candidates on using AI coding agents.
+Comments
+What are your thoughts?

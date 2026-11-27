@@ -1,0 +1,27 @@
+URL: https://www.eurekalert.org/news-releases/1152366
+TITLE: Clickbait is a turn-off for young social media scrollers, study finds
+OUTLET: EurekAlert!
+
+Young adults reported lower willingness to engage with sensationalized social media posts, including those containing accurate information, according to a study published November 25, 2026 in the open access journal PLOS One by Michael Craig from Northumbria University, United Kingdom, and colleagues.
+Instead of the television or daily paper, people now prospect social media feeds for the news of the day. This behavior begets “news snacking,” when news-seekers consume nothing more than a headline, photo or figure before scrolling on. Some of these truncated titles are true, of course, and some are not: an act of willful misleading known as misinformation. Regardless, many news outlets resort to clickbait (i.e., sensationalized, emotive headlines and images) to drum up clicks.
+Craig and his colleagues wanted to understand how clickbaity headlines affect social media users’ perceptions of news. They recruited 203 social media users living in the UK between the ages of 18-35. The participants were exposed to a series of mock social media posts about timely topics (COVID-19, climate change, cellphone radiation, vaccines and artificial intelligence). Half of the posts used facts, while half contained misinformation, and the researchers varied whether the posts were stylized like clickbait. Participants rated their likelihood of engaging with the post (i.e., liking, commenting or sharing), and whether they perceived it to be truthful and/or credible.
+In general, participants reported a low likelihood of engaging with the posts, particularly those resembling clickbait. Notably, this was true even for posts containing truthful information. Participants were less likely to like or comment on posts containing misinformation, and they perceived false posts and clickbait as less truthful and credible. Differences among participants also played a role: those with lower news media literacy were less able to tell the difference between clickbait and non-clickbait posts in terms of credibility, while those more susceptible to misinformation were less able to tell true posts from false ones. Conversely, more news-literate participants were less likely to engage with clickbait.
+The researchers note that the simulated social media posts do not offer a complete picture of real-world behavior. As they are, these results indicate the importance of psychology and style working together to influence a consumer’s perception of news media. The authors propose that media literacy and content presentation could be important considerations for future interventions aimed at addressing misinformation, although the effectiveness of such interventions was not tested in this study.
+The authors add: “Clickbait doesn’t just fail to boost engagement – it actively reduces it, while also damaging how truthful and credible a post seems. Strikingly, this cost falls hardest on accurate content: because false information already attracts skepticism on its own, it has little further to lose, but accurate content starts from a position of trust and so has much more to lose when dressed up in a sensationalist style.”
+“What struck us most was how self-defeating clickbait turned out to be. It’s used on the assumption that it drives clicks and shares, but our participants were consistently less likely to like, comment on, or share clickbait-style posts — even when the underlying content was true. If credible sources such as public health bodies or scientific institutions adopt this kind of sensationalist styling to compete for attention online, our findings suggest they may be undermining the very trust they depend on, without even gaining the engagement they were hoping for.”
+In your coverage, please use this URL to provide access to the freely available article in PLOS One: https://plos.io/4en2pAR
+Citation: Craig M, Tsang KH, Vijaykumar S (2026) The clickbait paradox: Why sensationalist styling damages trustworthy content most. PLoS One 21(11): e0361560. https://doi.org/10.1371/journal.pone.0361560
+Author countries: UK.
+Funding: This project was funded by Northumbria University. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+Journal
+PLOS One
+Method of Research
+Experimental study
+Subject of Research
+People
+Article Title
+The clickbait paradox: Why sensationalist styling damages trustworthy content most
+Article Publication Date
+25-Nov-2026
+COI Statement
+The authors have declared that no competing interests exist.

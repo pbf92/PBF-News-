@@ -1,0 +1,28 @@
+URL: https://wisevoter.com/world/2026/11/26/loperamide-linked-lower-ebola-mortality-study
+TITLE: Loperamide Linked to Lower Ebola Deaths in Study
+OUTLET: Wisevoter
+
+Loperamide Linked to Lower Ebola Deaths in Study
+A study of 5,509 patients from the 2013-2016 West African epidemic links early loperamide use to reduced Ebola-related mortality.
+Updated on Nov. 26, 2026 in Diseases — General
+Researchers analyzed data from 5,509 patients with laboratory-confirmed Ebola virus disease who presented with diarrhea, treated during the 2013-2016 West African epidemic. Loperamide administered during the early phase of illness was associated with reduced Ebola-related mortality, according to findings published in The Lancet Global Health.
+Why it matters
+Loperamide is inexpensive and widely available, so a treatment option for diarrhea in Ebola patients could be practical in resource-limited settings. The findings remain observational and do not establish that loperamide causes the reduction in deaths.
+The analysis drew on pooled individual patient data from 5,509 patients across 20 treatment units, with mortality measured over 30 days from the first documented treatment day. Timing and dosage records were often incomplete, and whether the reduction reflects loperamide itself remains unconfirmed pending randomized controlled trials.
+The players
+The Lancet Global Health
+A peer-reviewed open-access journal published by Elsevier that focuses on global health research and disease burden in low- and middle-income countries.
+The details
+Researchers hypothesize that loperamide mitigates the profound fluid losses caused by severe diarrhea in Ebola virus disease. The study used instrumental variable analysis of routinely collected clinical data, and the researchers note that demonstrating efficacy conclusively would require randomized controlled trials.
+Timeline
+- 2013-2016: West African Ebola epidemic patient data collected.
+- November 25, 2026: Study published online in The Lancet Global Health.
+- May 2026: Ebola cases in the Democratic Republic of the Congo began being reported, with about 10,000 cases and more than 4,600 deaths reported since.
+Health Landscape
+The study draws on records from the 2013-2016 West African Ebola epidemic, which generated the clinical data used to examine supportive care decisions years later. The findings add to a body of research on supportive treatments for Ebola, where no drug has yet been proven to directly cure the disease.
+Clinicians treating Ebola patients with diarrhea may consider whether loperamide has a role in supportive care, though the study does not establish that it should be used routinely. Any change in practice would depend on further trials and on guidance from health authorities.
+The takeaway
+Observational data can point to promising treatments, but randomized trials are needed before supportive care such as loperamide is adopted as standard Ebola treatment. Readers following outbreaks should watch for controlled studies that confirm or refute these findings.
+Further reading
+Explore more on Diseases — General for context on how emerging infections are studied and treated.
+Source note: This article includes information reported by Idw.

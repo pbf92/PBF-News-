@@ -1,0 +1,25 @@
+URL: https://www.aljazeera.com/economy/2026/11/26/anthropic-ceo-amodei-denies-wanting-humanity-to-surrender-free-will-to-ai
+TITLE: Anthropic CEO Amodei denies wanting humanity to ‘surrender’ free will to AI
+OUTLET: Al Jazeera
+
+Anthropic CEO Dario Amodei has denied believing that humanity should “surrender” control to artificial intelligence amid predictions that models potentially far exceeding human intelligence are imminent.
+In a lengthy post on X on Wednesday, Amodei said he does not support surrendering “human free will” to AI and has long argued that the frontier technology should be subject to “legitimate democratic processes”.
+“If I thought any of this was a good idea, I would be advocating for it in public, just as I have not been afraid to advocate for many, many unpopular views over the last few years,” Amodei said, responding to an Axios report about a purported “consensus” inside Anthropic that some decision-making authority should be passed to the technology.
+“But I am not advocating for it, because I think turning over governance to AI is a terrible idea.”
+Amodei’s remarks come amid a flurry of commentary by top industry executives suggesting that AI will soon match or surpass human intelligence.
+The prospect of AI that equals or outperforms the best human minds – referred to as artificial general intelligence (AGI) and artificial super-intelligence (ASI), respectively – has fuelled intense debate in Silicon Valley and beyond about whether such technology can be harnessed for good without exposing humanity to catastrophic harm.
+AI safety advocates have raised fears that models being developed by firms such as Anthropic, which made history last week in the biggest initial public offering of all time, could slip out of human control, particularly once systems start improving without human input, a process known as recursive self-improvement.
+In his X post, Amodei criticised commentary he said conflated the idea of AI taking over specific tasks with surrendering control in a “grand sense of global governance”.
+“This is not AI ‘running the world’, but AI driving a car, designing a cancer drug, or writing software end-to-end,” Amodei said.
+“Here, my view is mixed. AI doing more complete or larger tasks is economically valuable and can drive important advances in software, medicine, transportation, energy, etc.”
+“It is clearly desirable in many cases and will save a lot of lives,” he added. “But it has downsides as well, and in some areas it may not be worth it.”
+Citing unnamed sources, Axios reported on Wednesday that Amodei and other Anthropic executives believe it would be irrational “or even unethical” not to hand over authority to AI for tasks it can do better than humans, such as curing diseases.
+‘We’re getting close now’
+David Krueger, the founder of Evitable, a nonprofit that advocates for a pause on development of ASI, said Anthropic should pause its work if Amodei is genuinely concerned about humanity losing control of frontier models.
+“We don’t have to consciously surrender control to AI to lose it. As AI becomes increasingly capable, there will be mounting pressure to push humans out of decision-making roles across society,” Krueger told Al Jazeera.
+“Meanwhile, researchers at Dario’s own company are warning that AI capabilities are advancing faster than our ability to control them. We need an immediate, indefinite, international moratorium on frontier AI development.”
+While there is no universally agreed-upon definition of AGI or ASI, key tech industry figures have over the past week suggested that the milestones are near.
+Google DeepMind’s chief AGI scientist and cofounder, Shane Legg, said on Wednesday he believes there is a more than 50 percent chance that “minimal” AGI arrives before 2028.
+“We’re getting close now,” Legg said on X.
+On Sunday, Meta’s chief AI officer, Alexandr Wang, said ASI is “arriving”, pointing to the announcement that an Anthropic employee had used Claude to solve the Riemann hypothesis, one of the most difficult problems in mathematics.
+“How humanity acts over the next year will have great consequence on what future world we live in,” Wang said on X.

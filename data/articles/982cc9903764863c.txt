@@ -1,0 +1,30 @@
+URL: https://decrypt.co/384061/vibecoded-gta-6-pc-ports-are-now-rendering-in-game-graphics-despite-take-two-crackdown
+TITLE: Vibecoded GTA 6 PC Ports Are Now Rendering In-Game Graphics Despite Take-Two Crackdown
+OUTLET: Decrypt
+
+In brief
+- Unofficial GTA 6 PC ports are now rendering characters, environments, textures, and even ray-traced lighting.
+- Some developers report achieving around 20 frames per second, just days after obtaining the game's executable file.
+- Development continues despite Take-Two's copyright takedown campaign against 3,007 GitHub repositories.
+It took Rockstar Games more than a decade to develop Grand Theft Auto 6. It took a bunch of anonymous vibe coders less than a week to get parts of it running on a platform Rockstar hasn't released it for.
+Unofficial PC ports of GTA 6 are now capable of rendering in-game graphics and handling player inputs, according to footage circulating on social media. Some projects have achieved speeds of around 20 frames per second, despite the increasingly aggressive efforts of Rockstar parent company Take-Two Interactive to shut them down.
+Did you know?
+You can now act on the news you read: Go long or short BTC with perpetual futures, all from your Decrypt Money Account.
+A developer going by AvatarManz reportedly achieved between six and 20 frames per second using an AMD Radeon RX 7900 XTX, a high-end graphics card. The unofficial port consumed up to 46 GB of system memory, considerably more than what a typical gaming PC has available.
+Another demonstration reported Thursday appears to show a character riding a jet ski and driving along the coast at between 19 and 23 frames per second. Performance drops to around 12 frames per second in urban areas, and patches of water are visibly missing from the scene.
+new GTA 6 PC gameplay shows walking around the prologue, with textures, lighting and physics looking much better. Ray tracing is reportedly working too.
+Still only 1–3fps on an RTX 5070 Ti, Ryzen 7 7800X3D and 32GB DDR5. Visuals are coming along, performance has a way to go. pic.twitter.com/ON00pzHFHX
+— Brackz (@Brackzmeta) November 25, 2026
+According to community tracking data site Portwatch VI, at least six of 35 tracked projects have reportedly reached interactive gameplay. Some developers have also managed to get ray tracing working, a computationally demanding technique that simulates how light interacts with objects.
+The footage and performance figures have not been independently verified, and none of the projects has demonstrated that the entire game can be played reliably on a PC.
+How AI is accelerating the GTA 6 PC port
+Much of the progress comes from developers relying on vibe coding, a method of software development in which users instruct AI models to generate and debug code using natural language rather than manually writing every instruction.
+The developers aren't recreating GTA 6 from scratch. They're reverse-engineering an existing Xbox build and developing software that allows its code to execute on Windows, translating console-specific instructions and accommodating differences in how PCs handle graphics and other hardware functions.
+AI coding tools such as Anthropic's Claude have dramatically accelerated this kind of work, reducing some tasks that previously took months to days. Optimizing the resulting software and fixing the inevitable bugs are separate challenges, especially for a game as complex as GTA 6.
+And the whole thing, of course, spaked a meme coin.
+As Decrypt previously reported, notorious Rockstar leaker Cyberleek distributed what they claimed was a 209 GB Xbox build of GTA 6, withholding its main executable file as part of an attempt to push their CYBERLEEK meme coin to a $15 million market capitalization.
+The token failed to reach its target, but Cyberleek released the executable on November 23 anyway. Within a day, some of the most prominent porting projects, including Leonida and GTA6Modding, went dark.
+Take-Two subsequently confirmed its involvement through a copyright complaint targeting Leonida. GitHub disabled 3,007 repositories associated with the project.
+In its DMCA notice, Take-Two argued that the project reproduces copyrighted material and violates Rockstar's terms of service, which prohibit unauthorized reverse engineering and decompilation.
+Some developers have since taken their work into private communities, making their progress harder to independently assess.
+Rockstar released GTA 6 on November 19 for PlayStation 5 and Xbox Series X and S, targeting 30 frames per second on consoles. It has yet to announce a release date for an official PC version.

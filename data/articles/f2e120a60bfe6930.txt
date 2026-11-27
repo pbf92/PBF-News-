@@ -1,0 +1,47 @@
+URL: https://ca.finance.yahoo.com/quote/INTC/
+TITLE: Intel Corporation (INTC) Stock Price, News, Quote & History
+OUTLET: Yahoo! Finance Canada
+
+Intel Corporation (INTC)
+- Previous Close  54.80
+- Open  52.04
+- Bid 48.41 x 100
+- Ask 53.79 x 100
+- Day's Range  49.15 - 54.51
+- 52 Week Range  34.95 - 142.35
+- Volume  128,251,607
+- Avg. Volume  119,964,300
+- Market Cap (intraday)  289.508B
+- Beta (5Y Monthly) 2.43
+- PE Ratio (TTM)  --
+- EPS (TTM)  -2.35
+- Earnings Date (est.) Jan 28, 2027
+- Forward Dividend & Yield -- (0.00%)
+- 1y Target Est  90.42
+- Morningstar Rating Rating available with Stock Picks access
+Trailing total returns as of 2026-11-25, which may include dividends or other distributions. Benchmark is S&P 500 (^GSPC) .
+- Market Cap 289.51B
+- Enterprise Value 302.28B
+- Trailing P/E --
+- Forward P/E 32.33
+- PEG Ratio (current) --
+- Price/Sales (ttm) 5.05
+- Price/Book (mrq) 2.76
+- Enterprise Value/Revenue 5.05
+- Enterprise Value/EBITDA 158.10
+Profitability and Income Statement
+- Profit Margin -20.09%
+- Return on Assets (ttm) 1.78%
+- Return on Equity (ttm) -9.62%
+- Revenue (ttm) 59.89B
+- Net Income Avi to Common (ttm) -12.03B
+- Diluted EPS (ttm) -2.35
+Balance Sheet and Cash Flow
+- Total Cash (mrq) 54B
+- Total Debt/Equity (mrq) 38.11%
+- Levered Free Cash Flow (ttm) 806.5M
+Select to analyze similar companies using key performance metrics; select up to 4 stocks.
+- Intel is a leading digital chipmaker focused on designing and manufacturing microprocessors for the global personal computer and data center markets. Intel pioneered the x86 architecture for microprocessors and led the semiconductor industry down the path of Moore's law for advances in semiconductor manufacturing. Intel remains the market share leader in central processing units in both the PC and server end markets. The company is seeking to reinvigorate its chip manufacturing business, Intel Foundry, while developing leading-edge products in its Intel Products business segment.
+- Intel Corp. supplies the computing industry with the chips, boards, systems, and software that are the primary components of computer architecture. Intel has also expanded through acquisitions, although these businesses are now being reviewed for possible sale. Intel formerly had the largest revenue base and market cap in the semiconductor industry, though it now lags Nvidia and others.
+- Last week was bumpy. And with midterm elections in play this week and the ongoing flood of earnings reports, volatility may well be on the menu again. So how did corporate insiders react to all the action? Broadly put, the improving insider sentiment we have seen for multiple weeks now remains intact. Indeed, all of the one-week sell/buy ratios from Vickers Stock Research are better this week than they were last week, as are all of the eight-week ratios. But we note that there are no bullish results to report, with all of these major ratios moving in that direction but nonetheless still neutral. Things get more interesting with Vickers' sector sell/buy ratios. Here we see that the Information Technology sector has made a move. With that sector very in the news last week (Nasdaq down about 3%), the one-week sell/buy ratio for the sector has dropped from bullish last week to bearish this week. Turning to the eight-week sector ratio, the sector moved from neutral to bearish. So for those wondering if the recent dip in the sector represents a clear buying opportunity, it seems that insiders say 'not yet clear.' Still, opportunities may remain in other sectors of the market, as the Financial, Healthcare, Industrial, and Materials sectors all record bullish results across both the one-week and eight-week timescales. This week, analysts at Vickers highlighted insider transactions of interest at Stride Inc. (NYSE: LRN) and Charles Schwab Corp. (NYSE: SCHW).
+- Intel is a leading digital chipmaker focused on designing and manufacturing microprocessors for the global personal computer and data center markets. Intel pioneered the x86 architecture for microprocessors and led the semiconductor industry down the path of Moore's law for advances in semiconductor manufacturing. Intel remains the market share leader in central processing units in both the PC and server end markets. The company is seeking to reinvigorate its chip manufacturing business, Intel Foundry, while developing leading-edge products in its Intel Products business segment.

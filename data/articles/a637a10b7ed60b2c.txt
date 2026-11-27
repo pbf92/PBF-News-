@@ -1,0 +1,21 @@
+URL: https://www.briefia.fr/en/article/anthropic-rend-les-artefacts-installables-sur-mac-et-windows
+TITLE: Anthropic Makes Installable Artifacts for Mac and Windows
+OUTLET: Brief IA
+
+Anthropic Makes Installable Artifacts for Mac and Windows
+Anthropic is currently offering the installation of Claude artifacts as applications for Mac and Windows in both free and paid versions, while Linux remains excluded. These applications feature a separate window but do not function offline.
+Rights Granted to Applications
+Anthropic states that these applications are not subject to any prior review before installation and recommends granting full access only to those deemed trustworthy. According to the company, this right allows programs to be launched, as well as the ability to read, modify, or delete files without requiring permission for each operation. The available permissions start from the usual rights of a browser and may include notifications.
+Interaction with the computer requires authorization, Anthropic specifies; rights should be adjusted according to needs. Full access is reserved for applications created by the user, with an extension to those of colleagues for Team and Enterprise subscriptions. Any modification followed by an update of the artifact triggers a new request for permission confirmation.
+For Claude Enterprise customers, installation is disabled by default. An administrator must enable it from the organization's settings.
+The AI brief the pros read every evening
+The 7 best AI stories, the essentials in 5 min. Free.
+Included when you join: our pick of the best AI guides & comparisons.
+Choose your rhythm
+Free · No spam · Unsubscribe in 1 click
+Applications Remain Dependent on Claude
+Closing Claude does not prevent these applications from functioning; however, a session connected to the Claude account and an Internet connection must be maintained. They retain access to the assistant as well as the connectors used. Requests made to Claude count against the usual quotas, with the lowest caps for free accounts.
+Changes made to the artifact in Claude are automatically reflected in the corresponding application. This setup does not offer the same functionalities as an application created with Claude Code. Additionally, Anthropic excludes several categories from installation: legacy artifacts, those referred to as "living" from Claude Cowork, and those produced from templates such as Docs, Slides, or Sheets.
+The Share Menu Provides Access to Installation
+Introduced in 2024, artifacts are designed to replicate regular tasks in a standardized format, particularly in a professional context. Until now, their use required the Claude interface or a browser. Their separation allows for other interactions with the assistant during their use; Anthropic notes that they have a dedicated icon and can be shared.
+The company aims to simplify application creation, regardless of whether users know how to develop. The process first requires an updated version of the Claude software on the computer. Then, the user must open the Share menu and select "Install as an Application" to download the selected artifact to the desktop, followed by adjusting permissions according to their needs.

@@ -1,0 +1,79 @@
+URL: https://metricool.com/meta-ads-cost/
+TITLE: How Much Do Meta Ads Cost in 2026? [Real Campaign Data]
+OUTLET: Metricool
+
+You can reach so many people on Facebook and Instagram, they say. You can target so many segments, they say. But only a few say how much it will really cost you. That’s why we’ve pulled the latest numbers from our Social Ads Study 2026, so you can see how much you’ll need to spend to get your name out there with Meta ads.
+Read on to see how much Facebook ads cost at each stage of the funnel, where advertisers put their budget, what they get back, how Meta compares with TikTok, and how to keep your own costs down.
+The short answer is that the average cost per click (CPC) on Meta Traffic campaigns is $0.07, 1,000 impressions (CPM) in Awareness campaigns cost $0.48, and the average Meta ad spend per campaign is $718, up 47% from last year. These figures come from our study that analyzed over 600,000 real campaigns run by nearly 45,000 advertisers on Meta and TikTok between January and June, with almost half a billion dollars in ad spend.
+Running Meta ads doesn’t require a huge budget. Minimum daily budgets are often just a few dollars a day, but the exact amount depends on your country, currency, bid strategy and what you’re charged for. Ads Manager shows your minimum when you create the ad set, and Meta’s best practices for minimum budgets explain how it’s set. Beyond that minimum, what you pay depends on how you bid.
+But what does bidding mean? Every time someone scrolls Facebook or Instagram and there’s a spot for an ad, Meta runs a quick auction. All the advertisers trying to reach that person compete for it. The highest bid doesn’t automatically win: Meta also weighs how likely people are to act on your ad and how relevant and well-made it is.
+You can choose what you pay for and how Meta bids for you:
+- CPM (cost per mille): You pay for every 1,000 impressions. Best for awareness and reach.
+- CPC (cost per click): You pay when someone clicks your link.
+- Optimized delivery: You still pay per impression, but Meta shows your ad to the people most likely to take the action you choose, like signing up or buying.
+- Bid strategies: Highest volume lets Meta spend your budget to get as many results as possible. Cost per result goal asks Meta to keep your average cost around a target you set. Bid cap sets a hard limit on what Meta can bid in each auction.
+So what do Meta ads cost in practice? Here’s what advertisers in our study paid at each stage of the funnel, from getting seen to making a sale.
+Top of the funnel: Meta ads cost per thousand impressions
+If your goal is awareness, you pay for impressions. On Meta, 1,000 impressions (CPM) cost $0.48 in Awareness campaigns, up 8% from last year. The average Awareness campaign spends $493.65 and gets about 1.02M impressions.
+Middle of the funnel: average cost per click on Meta
+Once people are more familiar with your brand, the next step is getting them to visit your site (Traffic) or interact with your ads (Engagement).
+Traffic: The average cost per click (CPC) on Meta is $0.07, up 15% from 2025. A Traffic campaign spends $304.03 on average and brings in about 4,594 clicks from 151,964 impressions.
+Engagement: This is where Meta gives you the most for your money. Engagement campaigns reach an engagement rate of 1.99% on a budget of $193.87, and get about 10.8 interactions (likes, comments and clicks) for every dollar.
+Bottom of the funnel: cost per lead and cost per purchase
+By now, people know you and have clicked on your ads. The next step is signing up or buying. The metric to watch is cost per action (CPA).
+Leads: A lead on Meta costs $6.00, up 14% from last year. Leads campaigns spend $1,555 on average and bring in about 259 leads. Their click-through rate (CTR) is high (2.04%), but many of those clickers drop off before filling in the form: under 5 leads for every 100 clicks.
+Sales: Sales is Meta’s high-volume conversion objective, with 67,025 campaigns in our sample.The average Sales campaign spends $2,681.23, gets 13,228 clicks and about 241 purchases, which works out to $11.14 per purchase.
+Now for the bigger picture. How much are advertisers putting into Meta? On average, $718.45 per campaign in 2026, up 47% from $489.53 last year.
+That sounds like advertisers are doing a lot more on Meta, but mostly, they’re paying more. The cost of reaching 1,000 people across all Meta campaigns went from $1.97 to $2.64, about a third higher, so much of the extra budget went to covering rising prices.
+What you spend also depends on where in the funnel your campaign sits:
+- Engagement (middle of the funnel): $193.87
+- Traffic (middle of the funnel): $304.03
+- Awareness (top of the funnel): $493.65
+- Leads (bottom of the funnel): $1,555
+- Sales (bottom of the funnel): $2,681.23
+Your campaigns say middle, but your budget says bottom
+Most Meta campaigns sit in the middle of the funnel, but most of the money goes to the bottom. Two-thirds of campaigns (67%) are Traffic or Engagement, yet 70.9% of spend goes to Leads, Sales and App promotion. Sales alone takes 42% of the budget while making up just 11% of campaigns.
+The top of the funnel gets the least: just 5.82% of spend goes to Awareness. Brands use little of their Meta budget to build awareness from scratch and save most of it for the final sale.
+So we’ve seen how much people invest in ads on average, but what do they get back for their money? For Meta Sales campaigns, return on ad spend (ROAS) fell from 5.48x in 2025 to 4.57x in 2026, almost a dollar less in sales for every dollar spent.
+And that drop happened while advertisers spent much more. Total analyzed spend on Sales campaigns rose from $62.9M to $151.8M, and purchase value rose from $344.8M to $694.4M. Revenue grew, just not as fast as spend.
+And if you thought bigger budgets fixed it, it’s not really the case. ROAS fell in every account-size tier, and Huge accounts (over $10K a month) had the lowest return in both years: 4.88x in 2025 and 3.97x in 2026, below even the smallest advertisers.
+Where you’re based matters too. Brands in Norway averaged 12.12x back per dollar, and those in Chile (11.44x), Argentina (10.10x) and Mexico (8.88x) were well above average. Brands in the United States averaged 2.42x and those in Germany 3.00x. These figures cover Sales campaigns that report purchase value (about 64% of them), so markets with weaker tracking may look lower than they are.
+Here’s the full comparison, from the top of the funnel to the bottom:
+TikTok costs less per impression, click and lead. Meta wins on engagement and gets more people to click on lead ads, though fewer of them end up as leads.
+So why is Meta still where most of the money goes? Habit and reach. In 2026, 91% of advertisers in our study ran paid social on Meta alone, 5% only on TikTok and 4% on both. Running both is mostly something big accounts do: 19.71% of Huge accounts use both platforms, compared with 0.78% of Tiny ones.
+Among advertisers on both platforms, TikTok is slowly gaining traction. Meta’s share of their combined spend slipped from 76.4% to 74.3% in a year. Part of the reason is the cost gap: Meta’s per-campaign spend grew 47% mostly because prices went up, while TikTok’s grew 4% and bought more results.
+When to choose each platform
+It depends on your audience and which part of the funnel matters most to you.
+Go with Meta if:
+- Your audience spends most of its time on Facebook and Instagram
+- Engagement (likes, comments and other interactions) matters more than cheap reach or clicks
+- You want to start small and test with a low daily budget
+- You’re running Sales campaigns at volume, where Meta has by far the bigger track record
+Go with TikTok if:
+- Your audience is already active there
+- You want reach, clicks or leads at a lower cost
+- You can make short, native-looking videos regularly
+Don’t forget that you don’t have to pick one. Running both lets you compare results with your own data.
+The benchmarks in this article are averages. What you’ll actually pay depends on a few things:
+- Campaign objective: Each stage of the funnel is priced differently. An Engagement campaign averages $193.87, a Sales campaign $2,681.23.
+- Bidding strategy: Paying per impression or per click, and letting Meta optimize or setting a cost per result goal or bid cap, changes what you pay for and how your ads are delivered.
+- Audience and targeting: The narrower or more competitive your audience, the more it costs to reach.
+- Creative quality and fatigue: Meta rewards ads people respond to. Show the same ad too often and results drop while costs climb.
+- Account size: Bigger budgets don’t guarantee better returns. In our study, Huge accounts had the lowest ROAS of any tier.
+- Country: ROAS ranged from 2.42x in the United States to 12.12x in Norway.
+- Seasonality: Costs usually rise around Black Friday and the holidays, when more brands bid for the same people.
+Even though you don’t have much control over seasonality, you can have a say in most of the rest:
+- Pick the right objective: If you want sales, run a Sales campaign. Don’t run Traffic and hope people buy.
+- Give each product its own ad: Scrapbook.com, a US crafts store, runs about 52 ads at once, close to one per product. UK fashion label Goose Island does the same with about 50.
+- Test many versions at once: Tuff Shed, a US building manufacturer, runs roughly 47 near-identical versions of one creative and lets the results pick the winner.
+- Keep your winners running: Spanish beauty retailer Druni has ads live since January 2025 running next to new ones. Layer new ads on top instead of switching campaigns on and off.
+- Watch ROAS, not just spend: More budget brought thinner returns in 2026. Check results regularly and move money to the ads that perform best.
+Cheap clicks only pay off if you can see which campaigns bring them in, so you can do more of what works. Metricool connects your Meta Ads account and puts your results next to your TikTok Ads and Google Ads campaigns, so you can compare platforms without switching between three ad managers.
+Plus anyone who runs Meta ads knows that finding a needle in a haystack is sometimes less of a challenge than finding your way around Ads Manager. 😉
+With Metricool you can:
+- Track every key metric in one dashboard: spend, impressions, clicks, conversions, CPM, CPC and CTR, updated in real time.
+- Compare Meta and TikTok side by side: see where each dollar works hardest, just like the benchmarks in this article.
+- See paid and organic results together: find out how your ads perform next to your regular Facebook and Instagram content.
+- Build reports automatically: share ready-made ads reports with clients or your team, or ask Metricool Studio questions like “Compare my Meta campaigns with my TikTok Ads this month.”
+Meta is still where most advertisers start, and the possibility to test with a small budget is an absolute plus. Engagement is relatively cheap, and Sales campaigns run at huge volume. Just keep an eye on rising costs and falling ROAS, and plan your budget around the stage of the funnel you care about most.
+Want all the data? Download the full Social Ads Report:

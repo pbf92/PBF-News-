@@ -1,0 +1,5 @@
+URL: https://www.tradingkey.com/markets/stocks/ant
+TITLE: ANT|Anthropic Ord Shs Class A|Price:82.790|Chg%:+0.885
+OUTLET: TradingKey
+
+Anthropic PBC is an artificial intelligence (AI) safety and research company. It develops the foundational science to train frontier models, perform rigorous research to understand these models' inner workings, and develop techniques to align these models to human values. Its frontier AI, Claude, is delivered to customers through its models, platform, and applications. Its Claude Platform lets developers and businesses build, manage, and deploy agentic AI applications on infrastructure. Its platform features enable developers to customize their usage of Claude, including Extended Thinking, Adaptive Thinking, Effort Controls, Tool Use, Long Context, Structured Outputs, Code Execution, Web Search, and Files API. Its platform primitives and models support a range of use cases, from coding agents to specialized products in life sciences, finance, security, and more. Its products include Claude Code, Claude Cowork, Claude.ai, Claude Security, Claude Tag, Claude Design, and Claude Science.

@@ -1,0 +1,62 @@
+URL: https://travel.yahoo.com/news/articles/united-airlines-blocks-unauthorized-ai-013000888.html
+TITLE: United Airlines blocks unauthorized AI agents from booking flights over security concerns
+OUTLET: Yahoo
+
+Mojahid_Mottakin/Depositphotos
+Could AI book your flight?
+Imagine telling an assistant to find a low fare, choose your seat, and handle checkout while you finish packing. That sounds convenient, right? AI agents are bringing that possibility closer.
+But United Airlines is drawing a firm boundary. The carrier says unauthorized AI agents cannot use its systems to book, change, or manage travel for customers without its clear permission.
+Depositphotos
+What United announced
+United announced the restrictions on Nov. 11, 2026, citing customer data and account security as the reasons for the decision. It plans to limit access across its digital platforms for online travel bookings.
+The move also reaches travel agencies and booking services that might send AI agents into United systems. The airline says it will continue to review how those tools interact going forward.
+Depositphotos
+What makes an AI agent
+An AI agent does more than answer questions. It can take actions for you, such as visiting a website, entering details, selecting options, or completing steps in an online transaction.
+United's contract includes AI-enabled browsers and assistants built into apps. It still classifies software as an agent when a traveler supervises it or approves each step before the action starts.
+Depositphotos
+Your account holds sensitive details
+Booking a flight can involve names, contact details, payment information, and trip records. Granting an external assistant access to your airline login may expose those details to another online service.
+United warns that sharing account credentials with third-party AI assistants may reveal sensitive customer information. It is a concern beyond simply choosing the wrong flight, according to its public announcement.
+Depositphotos
+Miles and money at risk
+United says an automated assistant could make purchases or account changes you never intended to authorize. It could also use MileagePlus miles, which many travelers value, potentially without you noticing.
+The warning does not mean United reported a specific AI theft. The airline describes possible risks in its announcement, not a confirmed incident involving one of its customers to date.
+Depositphotos
+Safety checks need your input
+United also points to airline safety notices. Before purchasing tickets and checking in, passengers must review the rules on hazardous materials in checked and carry-on bags, including explosives and other restricted items.
+Federal rules require passengers who complete those steps without another person's help to acknowledge that they received the information about baggage restrictions. United says automated agents could miss this important human step.
+Depositphotos
+A booking could be canceled
+United's Contract of Carriage now lists AI agent activity as a prohibited practice. It bars agents from creating or changing tickets, managing them, or buying United products under its updated contract.
+The contract also lists reservations made, modified, or serviced by AI agents among bookings United may cancel without notice. An approval button does not make the action permitted for travelers.
+Depositphotos
+Older bookings are different
+United says bookings made by AI agents before Nov. 11, 2026, will not be canceled under this restriction. Travelers should still confirm each reservation is ticketed correctly with United online.
+Open your itinerary on United's website or in the app and confirm the trip details. Check directly with the airline rather than assuming a confirmation email means ticketing is complete before departure.
+Shtak3t/Depositphotos
+AI can still help plan
+United does not say you must stop using AI altogether. You can ask a chatbot for general destination ideas, travel tips, or itinerary suggestions without first accessing United's systems.
+The boundary is where the tool goes next. United says outside AI tools may research trips when they do not access United's website or app to search or manage travel.
+Depositphotos
+Some tools remain allowed
+United says assistive technology for travelers with disabilities is not affected by the restriction. Those tools remain available, so customers can use features that help them plan and manage trips.
+Travel agencies can still use permitted booking channels, but AI agents need United's express permission. The airline says it does not currently partner with third-party AI agents in any capacity.
+jetcityimage2/Depositphotos
+Southwest chose another route
+Southwest announced a ChatGPT plugin on Oct. 6, 2026. It lets travelers discover destinations and shop for Southwest flights through ChatGPT, powered by OpenAI and Amazon Web Services for planning.
+The airline describes it as the first step in a phased AI booking plan. That company-backed integration differs from outside agents accessing United without permission under a formal airline partnership.
+Depositphotos
+Protect your airline account
+Do not share your MileagePlus password with an outside AI assistant. If you have already shared your login details, change your password immediately and remove any saved credentials from the AI service.
+Review your mileage balance and recent account activity for purchases or changes you do not recognize. Book directly with United or through a provider that adheres to its rules, and contact the airline promptly if you notice any suspicious activity.
+Want to learn more about United's past technical troubles? Discover how United Airlines restores systems after widespread technical failure
+Depositphotos
+Keep the final click yours
+AI can still help compare ideas and organize a trip, but United wants customers to control transactions on its platform. Do not let an agent complete them without United's permission.
+Before your next flight, check the airline's current rules and verify reservations yourself. The technology may change, but your account, ticket, and travel plans remain yours before you leave home.
+Want to see how AI is changing United beyond flight bookings? Check out How AI is reshaping management roles at United Airlines.
+Before your next flight, verify your reservation directly with United. Would you trust an AI agent to book your trip, or handle checkout yourself? Share your thoughts in the comments!
+This slideshow was made with AI assistance and human editing.
+Read More From This Brand:
+The post United Airlines blocks unauthorized AI agents from booking flights over security concerns appeared first on When In Your State.
