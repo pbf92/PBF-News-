@@ -1,6 +1,21 @@
 {
- "latest": "2026-11-26",
+ "latest": "2026-11-27",
  "editions": [
+  {
+   "date": "2026-11-27",
+   "type": "weekday",
+   "top": [
+    "Houthi attack on Aramco's Jazan refinery kills a worker as Brent nears a month high",
+    "Trump calls Q3 GDP 'fake' and demands a probe of the Commerce Department",
+    "Pochettino's Old Trafford debut v Brentford Saturday; Tielemans out of Leipzig tie"
+   ],
+   "status": {
+    "story": 7,
+    "quiet": 3,
+    "failed": 0
+   },
+   "updates": 0
+  },
   {
    "date": "2026-11-26",
    "type": "weekday",

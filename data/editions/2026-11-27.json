@@ -1,0 +1,826 @@
+{
+ "date": "2026-11-27",
+ "type": "weekday",
+ "read_minutes": 7,
+ "note": "Headline fetch was late; desks leaned on web search. Inbox is from about 7:40 PM PT Thursday, so overnight news after that is thin.",
+ "before_open": [
+  {
+   "time": "6:30 AM",
+   "what": "US stocks reopen after Thanksgiving for a shortened session; CME futures also on holiday hours",
+   "detail": "investingLive (26 Nov) confirms a shortened Friday session. Exact close not in the sources seen: check the NYSE and CME holiday calendars before planning trades. Thin liquidity.",
+   "url": "https://www.nyse.com/trade/hours-calendars"
+  },
+  {
+   "time": "Overnight",
+   "what": "Futures levels to watch after Wednesday's bear-market brush",
+   "detail": "investingLive: Nasdaq and S&P futures sit about 5% above their 20 Nov lows; reference highs Nasdaq futures 27,137, S&P futures 7,313.25. Hedge funds have raised shorts sharply (squeeze risk). S&P put Nvidia's AA on negative watch.",
+   "url": "https://investinglive.com/stocks/wall-street-s-earnings-mood-is-starting-to-improve-is-the-stock-market-finding-a-bottom/"
+  },
+  {
+   "time": "All day",
+   "what": "No BLS releases and no Fed events scheduled today",
+   "detail": "The BLS November calendar lists nothing for Fri 27 Nov. Next: JOLTS Tue 1 Dec 7:00 AM PT, jobs report Fri 4 Dec 5:30 AM PT.",
+   "url": "https://www.bls.gov/schedule/"
+  },
+  {
+   "time": "Overnight",
+   "what": "Houthi attack on Aramco's Jazan refinery (one worker killed, some operations halted); Brent near its month's high",
+   "detail": "Oil and inflation risk for rate-sensitive tech; Reuters.",
+   "url": "https://www.reuters.com/business/energy/brent-trades-near-months-high-mideast-conflict-threatens-supply-2026-11-27/"
+  },
+  {
+   "time": "Overnight",
+   "what": "Zelenskiy warns of a major Russian strike in coming days; Trump demands a probe of 'fake' Q3 GDP data",
+   "detail": "GDP printed 4.3% annualised and October PCE 3.8% y/y, supporting the December hike case.",
+   "url": "https://www.reuters.com/world/us/trump-demands-probe-gdp-data-released-before-midterms-2026-11-26/"
+  }
+ ],
+ "week_ahead": [],
+ "top": [
+  {
+   "headline": "Houthi attack on Aramco's Jazan refinery kills a worker as Brent nears a month high",
+   "why": "Fresh attacks on Gulf energy sites keep an oil and inflation risk premium in markets already worried about a December Fed hike.",
+   "points": [
+    "Reuters reports a Saudi-led coalition says the Houthis attacked Aramco's Jazan refinery on 26 Nov, killing a worker and halting some operations.",
+    "Brent traded near its month's high on 27 Nov on supply fears, per Reuters.",
+    "Separately, two Italian workers were killed in an attack on a Kuwait site; Italy blames an Iranian drone, Iran denies involvement (Reuters)."
+   ],
+   "next": "Oil reaction when futures trade today; watch for any Saudi statement on restart timing.",
+   "confidence": "reported",
+   "region": "Global",
+   "impact": "high",
+   "thread": {
+    "id": "hormuz",
+    "name": "Strait of Hormuz attacks",
+    "status": "changed",
+    "day": 26
+   },
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/middle-east/saudi-led-coalition-says-houthis-attacked-aramcos-jazan-refinery-2026-11-26/"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/business/energy/brent-trades-near-months-high-mideast-conflict-threatens-supply-2026-11-27/"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/asia-pacific/two-italians-killed-iranian-drone-attack-kuwait-italy-says-2026-11-26/"
+    }
+   ],
+   "desk": "world"
+  },
+  {
+   "headline": "Trump calls Q3 GDP 'fake' and demands a probe of the Commerce Department",
+   "why": "A president attacking official statistics that showed strong growth adds to doubts over data credibility just as the Fed weighs a hike.",
+   "points": [
+    "Commerce data released Wed 25 Nov showed Q3 GDP at a 4.3% annualised rate, the fastest in three years (Yahoo Finance).",
+    "Trump demanded an investigation of the GDP figures released before the midterms (Reuters, AP).",
+    "October PCE inflation was 3.8% year on year (Yahoo Finance)."
+   ],
+   "next": "Any Commerce or White House follow-up; next official data is JOLTS on 1 Dec and jobs on 4 Dec.",
+   "confidence": "reported",
+   "region": "US",
+   "impact": "medium",
+   "thread": {
+    "id": "gdp-probe",
+    "name": "Trump vs GDP data",
+    "status": "new",
+    "day": 1
+   },
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/us/trump-demands-probe-gdp-data-released-before-midterms-2026-11-26/"
+    },
+    {
+     "name": "AP News",
+     "url": "https://apnews.com/article/trump-gdp-economy-midterms-4fd800b44005ae11f950f96ff62f876e"
+    },
+    {
+     "name": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-end-lower-000950299.html"
+    }
+   ],
+   "desk": "world"
+  },
+  {
+   "headline": "Pochettino's Old Trafford debut v Brentford Saturday; Tielemans out of Leipzig tie",
+   "why": "Still without a win in two games and second-bottom, United need points at home. Brentford arrive short-handed, which makes this the best chance yet for Pochettino's first win.",
+   "points": [
+    "Kick-off Sat 28 Nov, 3pm GMT (7am PT) at Old Trafford: Pochettino's first home game.",
+    "Brentford FC's injury update: Hickey, Collins, Furo and Henry are out and Igor Thiago is suspended.",
+    "Tielemans' stoppage-time red at Sporting (2-2 on Wednesday) rules him out of the Champions League game with Leipzig on 8 Dec.",
+    "Two United goals were ruled out in Lisbon; Ashley Young criticised referee Marciniak (opinion, not an official finding)."
+   ],
+   "next": "Sat 28 Nov, 7:00 AM PT: Man United v Brentford.",
+   "confidence": "confirmed",
+   "impact": "medium",
+   "thread": {
+    "id": "pochettino-era",
+    "name": "Pochettino era begins",
+    "status": "changed",
+    "day": 15
+   },
+   "sources": [
+    {
+     "name": "The Shillong Times (agency report)",
+     "url": "https://theshillongtimes.com/2026/11/27/late-blunder-denies-pochettino-maiden-man-united-victory/"
+    },
+    {
+     "name": "Yahoo Sports",
+     "url": "https://sports.yahoo.com/soccer/articles/pochettino-says-man-utd-were-200532659.html"
+    },
+    {
+     "name": "Brentford FC",
+     "url": "https://www.brentfordfc.com/en/news/first-team-manchester-united-v-brentford-premier-league-28-11-2026-injury-update"
+    }
+   ],
+   "desk": "united"
+  }
+ ],
+ "desks": [
+  {
+   "id": "united",
+   "name": "Manchester United & Football",
+   "status": "quiet",
+   "note": "Lead story: see top. Unconfirmed: Araujo (Sporting) January interest comes only from Sport Witness via the Standard and BBC gossip column.",
+   "stories": []
+  },
+  {
+   "id": "world",
+   "name": "World Affairs & Politics",
+   "status": "story",
+   "note": "",
+   "stories": [
+    {
+     "headline": "Victoria votes Saturday: final polls give the Coalition a big win, One Nation fading",
+     "why": "A change of government in Australia's second-largest state would be a major Australian political signal, and One Nation's slide matters for the federal picture and for who holds upper-house balance of power.",
+     "points": [
+      "Final Newspoll (20-25 Nov, n=1,506): Coalition 33%, Labor 20%, One Nation 18%, Greens 17%; Coalition leads 57.5-42.5 after preferences.",
+      "DemosAU (21-25 Nov, n=2,092): Coalition 34%, Labor 19%, One Nation 16%; 55-45 after preferences.",
+      "YouGov MRP (6-23 Nov, n=3,890) estimates Coalition 55 of 88 seats, Labor 13, One Nation 12, Greens 8; Premier Ben Carroll tipped to lose Niddrie.",
+      "Upper house projections suggest the Coalition would need One Nation's votes to pass legislation the left opposes."
+     ],
+     "next": "Polls close 6pm AEDT Saturday 28 Nov (about 11pm Friday PT).",
+     "confidence": "reported",
+     "region": "AU",
+     "impact": "medium",
+     "thread": {
+      "id": "vic-election-2026",
+      "name": "Victorian state election",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "The Conversation",
+       "url": "https://theconversation.com/coalition-set-for-a-big-win-in-victorian-election-as-one-nation-fades-in-final-polls-297630"
+      },
+      {
+       "name": "Herald Sun",
+       "url": "https://www.heraldsun.com.au/news/victoria/state-election/updated-live-hourly-seatbyseat-projections-for-all-88-seats/news-story/2c39bf0624842cf3906f66a7b6de7f55"
+      }
+     ],
+     "desk": "world"
+    },
+    {
+     "headline": "EU leaders pick Spain's Pablo Hernandez de Cos to succeed Lagarde at the ECB",
+     "why": "The next ECB president shapes eurozone rate policy at a time of hot inflation and energy shocks.",
+     "points": [
+      "EU leaders chose the former Bank of Spain head on 26 Nov (Reuters, AP).",
+      "Leaders were also split over budget spending and a $49 billion loan to Ukraine (AP).",
+      "Macron and Le Pen traded barbs over the EU budget talks (Reuters)."
+     ],
+     "next": "Formal appointment steps and Lagarde's handover date not stated in the headlines I saw.",
+     "confidence": "confirmed",
+     "region": "Global",
+     "impact": "medium",
+     "thread": {
+      "id": "ecb-president",
+      "name": "ECB presidency",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Reuters",
+       "url": "https://www.reuters.com/world/europe/spains-de-cos-set-be-nominated-by-eu-leaders-new-head-ecb-2026-11-26/"
+      },
+      {
+       "name": "AP News",
+       "url": "https://apnews.com/article/ecb-eurozone-pablo-hernandez-de-cos-lagarde-d308b6cfbe6399b131255f2a678b10e4"
+      },
+      {
+       "name": "AP News",
+       "url": "https://apnews.com/article/europe-ukraine-budget-summit-loan-debt-f073925a2ed77232e0d7db404600985e"
+      }
+     ],
+     "desk": "world"
+    },
+    {
+     "headline": "Zelenskiy warns Russia is preparing a new mass strike on Ukraine's grid within days",
+     "why": "Escalation against energy infrastructure sits alongside stalled talks and the EU's split over funding Kyiv.",
+     "points": [
+      "Zelenskiy said on 26 Nov that Russia is preparing a major attack in the coming days, with the power grid the likely target (Reuters, AP).",
+      "Ukraine says North Korea temporarily halted missile shipments to Russia (Reuters).",
+      "Trump said he asked Putin to 'pull back' military aggression in Europe, and on 26-27 Nov that Putin can come to the G20 if he wants (Reuters)."
+     ],
+     "next": "The strike itself, expected within days; no dated diplomatic event seen.",
+     "confidence": "reported",
+     "region": "Global",
+     "impact": "medium",
+     "thread": {
+      "id": "ukraine-talks",
+      "name": "Russia–Ukraine talks",
+      "status": "changed",
+      "day": 17
+     },
+     "sources": [
+      {
+       "name": "Reuters",
+       "url": "https://www.reuters.com/world/zelenskiy-says-russia-preparing-new-mass-strike-coming-days-2026-11-26/"
+      },
+      {
+       "name": "AP News",
+       "url": "https://apnews.com/article/russia-ukraine-war-zelenskyy-power-122f7f187eea20d4d2b659692b4c4f1e"
+      },
+      {
+       "name": "Reuters",
+       "url": "https://www.reuters.com/world/trump-says-putin-can-come-g20-if-he-wants-2026-11-27/"
+      }
+     ],
+     "desk": "world"
+    },
+    {
+     "headline": "New Zealand's final count leaves the ruling coalition just short, needing the Opportunity party",
+     "why": "Neither bloc has a majority, so coalition talks with the centrist Opportunity party decide the next NZ government.",
+     "points": [
+      "Final count published 27 Nov (NZ time): the ruling coalition falls just short of a majority (Reuters).",
+      "AP says the final count gives neither the right nor left bloc enough seats.",
+      "Opportunity holds the balance of power."
+     ],
+     "next": "Coalition negotiations; no dated deadline seen.",
+     "confidence": "confirmed",
+     "region": "Global",
+     "impact": "low",
+     "thread": {
+      "id": "nz-election-2026",
+      "name": "New Zealand election aftermath",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Reuters",
+       "url": "https://www.reuters.com/world/asia-pacific/new-zealands-ruling-coalition-falls-just-short-majority-final-election-count-2026-11-27/"
+      },
+      {
+       "name": "AP News",
+       "url": "https://apnews.com/article/new-zealand-election-results-a19a838d8256a0762703ff0572aca3e6"
+      }
+     ],
+     "desk": "world"
+    }
+   ]
+  },
+  {
+   "id": "prop",
+   "name": "Futures & Prop Firms",
+   "status": "quiet",
+   "note": "Checked: only Topstep's Friendsgiving referral promo (50% off first Challenge/Combine via referral code; Challenges now permanent after Topstep Labs) which is a routine promo, not unusually large. No Discord posts in the inbox (inbox from ~03:41 UTC). Search surfaced only third-party rule-change trackers: unconfirmed, nothing from a firm itself. Topstep country-restrictions thread: no new change found.",
+   "stories": []
+  },
+  {
+   "id": "tradetech",
+   "name": "Trading Technology",
+   "status": "quiet",
+   "note": "Checked: all 40-odd headlines are TradingView news-feed items (crypto unlocks, Reuters wires, earnings), not product news. Search hints at a TradingView AI Copilot add-on/MCP quotas (23 Nov) and invite-only script changes, but only from third-party sites: unconfirmed until TradingView confirms.",
+   "stories": []
+  },
+  {
+   "id": "ai",
+   "name": "Artificial Intelligence",
+   "status": "story",
+   "note": "Inbox is from about 03:41 UTC; two WebSearch fill-ins returned nothing usable, so overnight news after that is not covered. Unconfirmed: OpenAI '$1.2M audit found 948 Linux flaws' (The Defiant only, no saved article); DeepMind agents given partial compute control (Howl.Link blog only).",
+   "stories": [
+    {
+     "headline": "Amodei denies Anthropic wants AI to run governance after Axios report",
+     "why": "Anthropic's CEO publicly rejected a report that staff favour handing decisions to AI, days after the record IPO. It shapes how regulators, customers and investors read the company's safety stance.",
+     "points": [
+      "Axios reported on Nov 25, citing unnamed sources, a purported 'consensus' that some decision-making authority should pass to AI.",
+      "Amodei replied on X the same day, calling turning governance over to AI 'a terrible idea' and saying he backs 'legitimate democratic processes'.",
+      "He drew a line between AI doing tasks (driving, drug design, writing software end-to-end) and AI 'running the world'.",
+      "How widely the reported views are held inside Anthropic is unclear; the Axios sources are anonymous."
+     ],
+     "next": "No dated catalyst; watch for Axios follow-up and any Anthropic policy statement.",
+     "confidence": "confirmed",
+     "impact": "medium",
+     "thread": {
+      "id": "amodei-ai-governance",
+      "name": "Amodei on AI governance claims",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/economy/2026/11/26/anthropic-ceo-amodei-denies-wanting-humanity-to-surrender-free-will-to-ai"
+      },
+      {
+       "name": "The Rundown AI",
+       "url": "https://www.therundown.ai/news/amodei-anthropic-axios-ai-human-control"
+      }
+     ],
+     "desk": "ai"
+    },
+    {
+     "headline": "OpenAI: GPT-6.2 Astra usage limits now 40% tighter after billing 'bug' fix",
+     "why": "If you build or work on GPT-6.2 through ChatGPT plans or Codex, the same work now burns allowance faster, which erodes the cost-per-task case OpenAI made against Claude.",
+     "points": [
+      "OpenAI's Tibo Sottiaux said GPT-6.2 Astra and Sol usage had been wrongly discounted for most users.",
+      "Versus last week, limits are reached 40% faster on Astra and 25% faster on Sol; other models are unchanged.",
+      "Users are not charged for the past difference; every Go, Plus, Pro and Business user gets one banked usage reset, expiring after a month.",
+      "OpenAI says both models remain more efficient than GPT-6 Astra and GPT-6.1 Sol."
+     ],
+     "next": "No date given; OpenAI has not said whether pricing will come down.",
+     "confidence": "reported",
+     "impact": "medium",
+     "thread": {
+      "id": "openai-gpt-6-2",
+      "name": "OpenAI GPT-6.2 launch",
+      "status": "changed",
+      "day": 10
+     },
+     "sources": [
+      {
+       "name": "BleepingComputer",
+       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/"
+      }
+     ],
+     "desk": "ai"
+    },
+    {
+     "headline": "Anthropic stock trades below its $83 IPO price as employee wealth story grows",
+     "why": "The first frontier-lab listing keeps being a live read on AI sentiment. It has now fallen below its offer price, though one quote source shows it near that level, so treat the exact figure as volatile.",
+     "points": [
+      "Priced at $83, opened at $111.50 and closed day one at $97.17; Motley Fool/Globe and Mail put it at $77.40 at writing, 7% under the IPO price.",
+      "A TradingKey quote page shows $82.79 (+0.885%) at an undated snapshot, so the price has been moving.",
+      "CNBC (via CWIBC) estimates 5,100 non-founder employee millionaires; staff may sell up to 10% of holdings on day one, the rest subject to lock-ups.",
+      "Anthropic's filing reported 11,900 customers paying at least $100,000 a year as of Sep 30."
+     ],
+     "next": "Market reopens Mon Nov 30 (US markets were shut for Thanksgiving, open early today).",
+     "confidence": "reported",
+     "impact": "medium",
+     "thread": {
+      "id": "anthropic-ipo",
+      "name": "Anthropic IPO",
+      "status": "changed",
+      "day": 13
+     },
+     "sources": [
+      {
+       "name": "The Globe and Mail (Motley Fool)",
+       "url": "https://www.theglobeandmail.com/investing/markets/stocks/AMZN/pressreleases/9020836/anthropic-is-down-7-since-its-ipo-history-says-a-5000-investment-could-be-worth-this-much-in-a-year/"
+      },
+      {
+       "name": "CWIBC (citing CNBC)",
+       "url": "https://cwibc.co.id/en/anthropic-ipo-millionaire-giving-movement"
+      },
+      {
+       "name": "TradingKey",
+       "url": "https://www.tradingkey.com/markets/stocks/ant"
+      }
+     ],
+     "desk": "ai"
+    },
+    {
+     "headline": "OpenAI chief scientist proposes shared pause point for frontier labs",
+     "why": "A rival lab's research head is arguing for a common, measurable limit on capability, which could feed into regulation and the Anthropic-versus-OpenAI safety framing.",
+     "points": [
+      "Jakub Pachocki's essay 'Perplexity and Intelligence' proposes labs agree a point beyond which they pause until behaviour can be understood and monitored.",
+      "He suggests pretraining perplexity plus other measures; OpenAI published internal scores from GPT-3.5 (about 0.99) to GPT-6.2 Astra.",
+      "The first numerical limit and the crossing criteria are left open; scores are not comparable across labs because of different data mixes.",
+      "These are OpenAI's own figures and proposals."
+     ],
+     "next": "No date; watch for responses from Anthropic and Google DeepMind.",
+     "confidence": "claim",
+     "impact": "low",
+     "thread": {
+      "id": "openai-shared-limits",
+      "name": "OpenAI shared frontier limits proposal",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "EdTech Innovation Hub",
+       "url": "https://www.edtechinnovationhub.com/news/openai-chief-scientist-proposes-shared-limits-on-frontier-ai-development"
+      }
+     ],
+     "desk": "ai"
+    }
+   ]
+  },
+  {
+   "id": "business",
+   "name": "Business & E-commerce",
+   "status": "story",
+   "note": "PPC Land items are Unsure-source tip-offs and were not run. Unconfirmed: WebMD Ignite offering ChatGPT ads for hospitals (OpenAI had not announced); IAB Europe publisher playbook for AI bots.",
+   "stories": [
+    {
+     "headline": "Walmart on Meta's Muse, Amazon reportedly negotiating, as Amazon ad growth slows",
+     "why": "Whether retailers let third-party AI agents shop on their sites decides how brands get discovered and where ad money goes. Walmart has opened up, Amazon may follow.",
+     "points": [
+      "On Nov 24 Walmart said customers can shop its Black Friday deals through Meta's Muse; Fortune reports Amazon is negotiating its own arrangement.",
+      "Amazon's ad growth ex-currency fell from 26% in Q2 to 12% in Q3; Jassy attributed 850 basis points to the Prime Day shift and denied external shopping agents were material.",
+      "Combining Q2 and Q3, ad revenue rose 18.1% to $39.446bn from $33.397bn, per CTOL's calculation, still below the prior 22% growth rate.",
+      "Amazon launched Full-Funnel Campaigns via its Ads Agent on Sep 29."
+     ],
+     "next": "Watch for an Amazon-Meta announcement; the holiday trading weekend (Nov 27-30) is the first live test.",
+     "confidence": "reported",
+     "impact": "medium",
+     "thread": {
+      "id": "meta-muse-commerce",
+      "name": "Meta Muse agentic shopping",
+      "status": "changed",
+      "day": 9
+     },
+     "sources": [
+      {
+       "name": "CTOL Digital Solutions",
+       "url": "https://www.ctol.digital/news/amazon-meta-muse-advertising-defence/"
+      }
+     ],
+     "desk": "business"
+    },
+    {
+     "headline": "Shopify down 26% from October high after Q3 GMV miss; Piper still bullish",
+     "why": "Shopify is the DTC platform bellwether. The stock reaction shows investors want volume, not just revenue, and Shopify's AI-commerce standard is its main bull case.",
+     "points": [
+      "Q3 (reported Nov 3): revenue up 32% to $3.74bn, but GMV $119.15bn versus $120.08bn expected.",
+      "Q4 guide: revenue growth in the low thirties, gross profit growth only the high twenties; subscription gross margin 79% versus about 82%, tied to Sidekick AI spend.",
+      "Closed $132.31 on Nov 24; Piper Sandler kept Overweight with a $172 target (a sell-side view).",
+      "Piper's tracker has the Google-Shopify Universal Commerce Protocol on about 15% of the top 2,500 e-commerce sites, up from about 14% in September."
+     ],
+     "next": "Black Friday and Cyber Monday (Nov 27 and Nov 30) volumes; Q4 results in early 2027.",
+     "confidence": "reported",
+     "impact": "low",
+     "thread": {
+      "id": "shopify-q3-miss",
+      "name": "Shopify post-Q3 slide",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Yahoo Finance",
+       "url": "https://finance.yahoo.com/markets/stocks/articles/shopify-keeps-sliding-q3-miss-100650097.html"
+      }
+     ],
+     "desk": "business"
+    }
+   ]
+  },
+  {
+   "id": "faith",
+   "name": "Christianity & Theology",
+   "status": "story",
+   "note": "Premier Christian News and IAA items only; no Tier 1 confirmation on the Turkey case beyond ADF's own account.",
+   "stories": [
+    {
+     "headline": "Missionaries banned from Turkey as 'security threats' press their case at European court",
+     "why": "A live global-Christianity religious-freedom case: if the court agrees, it would test whether Turkey's security codes are being used against believers. The central claims come from the lawyers, not the Turkish state.",
+     "points": [
+      "Alliance Defending Freedom says over 200 Christians and families are banned from Turkey; around 350 reportedly expelled since 2020.",
+      "ADF filed its reply to the European Court of Human Rights on 18 November and represents three of the cases.",
+      "Pam and Dave Wilson, resident almost 40 years, were turned away at Istanbul airport in February 2019 and say they were never told why.",
+      "Turkish government statements have said religious affiliation had nothing to do with the security codes; ADF disputes this."
+     ],
+     "next": "No court date given; watch for a Strasbourg ruling or a Turkish government response.",
+     "confidence": "claim",
+     "impact": "medium",
+     "thread": {
+      "id": "turkey-missionary-bans",
+      "name": "Turkey missionary bans at ECHR",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Premier Christian News",
+       "url": "https://premierchristian.news/en/news/article/banned-christian-missionaries-launch-legal-challenge-to-turkey-s-government"
+      }
+     ],
+     "desk": "faith"
+    },
+    {
+     "headline": "Northern Ireland churches warn conversion-practices bill could criminalise preaching",
+     "why": "Shows where religious-liberty and anti-conversion-practice law collide in the UK. Only the church side is in the saved coverage, so the bill's supporters are not heard here.",
+     "points": [
+      "The Conversion Practices (Criminalisation) Bill covers acts intended to suppress sexual orientation or gender identity; penalty up to two years' prison and a fine.",
+      "The Presbyterian Church in Ireland's Dr Rebecca Stevenson fears the 'distress' clause could be used against ministers, with a 'chilling effect' on preaching.",
+      "The bill says a person cannot give informed consent, so consent is no defence.",
+      "A Free Presbyterian minister argued it would 'criminalise the Son of God himself'."
+     ],
+     "next": "Committee stage dates not given in the source.",
+     "confidence": "reported",
+     "impact": "medium",
+     "thread": {
+      "id": "ni-conversion-practices-bill",
+      "name": "NI conversion practices bill",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Premier Christian News",
+       "url": "https://premierchristian.news/en/news/article/jesus-christ-would-be-criminalised-under-northern-ireland-conversion-therapy-bill-minister-warns"
+      }
+     ],
+     "desk": "faith"
+    }
+   ]
+  },
+  {
+   "id": "health",
+   "name": "Health & Wellness",
+   "status": "story",
+   "note": "",
+   "stories": [
+    {
+     "headline": "Fathers' antidepressant use before conception: slight rise in child high blood pressure, likely confounded",
+     "why": "Offers reassurance to men on antidepressants planning a family. The small signal looks driven by the father's underlying illness rather than the drug.",
+     "points": [
+      "BMJ Danish register study of 1,365,887 children born 2000-2023, followed up to 23 years; 23,572 had fathers on antidepressants around sperm development.",
+      "Metabolic disorders: 1.39 v 1.11 per 1,000 person-years; only high blood pressure was slightly higher, not diabetes, cholesterol or obesity.",
+      "No increase versus fathers who started only during pregnancy, pointing to underlying paternal mental illness."
+     ],
+     "next": "No scheduled follow-up; would need replication outside Denmark.",
+     "confidence": "reported",
+     "grade": "B",
+     "study": "Nationwide register cohort, n=1,365,887 children, Denmark; observational, residual confounding by paternal illness",
+     "impact": "medium",
+     "thread": {
+      "id": "paternal-antidepressant-bmj",
+      "name": "Paternal antidepressants and child metabolic risk",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "News-Medical",
+       "url": "https://www.news-medical.net/news/20261125/Paternal-antidepressant-use-before-conception-linked-to-childrens-metabolic-risks.aspx"
+      }
+     ],
+     "desk": "health"
+    },
+    {
+     "headline": "Outdoor exercise cuts depressive symptoms in 23-trial meta-analysis, but results vary widely",
+     "why": "Supports training outside for mood, building on the exercise-for-depression thread. The average effect is large but inconsistent, with signs of publication bias.",
+     "points": [
+      "Frontiers in Public Health review of 23 RCTs, 2,394 participants from childhood to older age.",
+      "Pooled Hedges' g -0.69 (95% CI -0.96 to -0.41); heterogeneity I-squared 90.4%.",
+      "Prediction interval -1.86 to 0.48 crosses zero; Egger and Begg tests suggest small-study effects.",
+      "Effect stayed at g -0.60 after excluding high-risk-of-bias trials."
+     ],
+     "next": "No dated catalyst; needs larger, lower-bias trials.",
+     "confidence": "reported",
+     "grade": "B",
+     "study": "Systematic review and meta-analysis of 23 RCTs, n=2,394; very high heterogeneity, risk of bias, possible publication bias",
+     "impact": "low",
+     "thread": {
+      "id": "exercise-depression-cochrane",
+      "name": "Exercise for depression",
+      "status": "changed",
+      "day": 5
+     },
+     "sources": [
+      {
+       "name": "Bioengineer.org (reporting Frontiers in Public Health)",
+       "url": "https://bioengineer.org/outdoor-physical-activity-reduces-depressive-symptoms-in-comprehensive-meta-analysis-of-trials/"
+      }
+     ],
+     "desk": "health"
+    },
+    {
+     "headline": "Engineered 'molecular glue' stabilises chromosomes in ageing mouse eggs",
+     "why": "Women's-health and fertility research on the main cause of age-related infertility and miscarriage. It is mouse work, years from any IVF use.",
+     "points": [
+      "Science paper from Max Planck (Melina Schuh) published 26 November.",
+      "Engineered TALhesin proteins aim to replace cohesin, which is not reloaded and degrades over decades in eggs.",
+      "Aneuploidy: 50-80% of embryos from women in their 40s carry chromosomal abnormalities, per STAT.",
+      "Independent expert Rajiv McCoy called the proof of concept highly successful but said work remains."
+     ],
+     "next": "No human trial date; next step is testing in human eggs.",
+     "confidence": "confirmed",
+     "grade": "C",
+     "study": "Preclinical laboratory study in mouse oocytes; not tested in humans",
+     "impact": "medium",
+     "thread": {
+      "id": "egg-cohesin-glue",
+      "name": "Chromosome glue for ageing eggs",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "STAT News",
+       "url": "https://www.statnews.com/2026/11/26/fertility-advance-engineered-protein-stabilizes-chromosomes-in-aging-eggs/?utm_campaign=rss"
+      },
+      {
+       "name": "Nature News",
+       "url": "https://www.nature.com/articles/d41586-026-03874-7"
+      }
+     ],
+     "desk": "health"
+    },
+    {
+     "headline": "Loperamide linked to lower Ebola deaths in 5,509-patient analysis, with causation unproven",
+     "why": "A cheap supportive drug may help with Ebola diarrhoea as the DRC outbreak continues; it is a hypothesis for trials, not guidance.",
+     "points": [
+      "Lancet Global Health pooled data on 5,509 lab-confirmed patients with diarrhoea, 20 treatment units, 2013-2016 West Africa.",
+      "Early loperamide use associated with lower 30-day mortality.",
+      "Timing and dose records were often incomplete; observational with instrumental variable analysis.",
+      "Authors say randomised trials are needed before routine use."
+     ],
+     "next": "Awaiting randomised trials; no date.",
+     "confidence": "reported",
+     "grade": "C",
+     "study": "Pooled observational analysis, n=5,509 Ebola patients; incomplete dosing records, confounding",
+     "impact": "low",
+     "thread": {
+      "id": "loperamide-ebola",
+      "name": "Loperamide and Ebola mortality",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Wisevoter (reporting Lancet Global Health)",
+       "url": "https://wisevoter.com/world/2026/11/26/loperamide-linked-lower-ebola-mortality-study"
+      }
+     ],
+     "desk": "health"
+    }
+   ]
+  },
+  {
+   "id": "gaming",
+   "name": "Gaming & PlayStation",
+   "status": "story",
+   "note": "",
+   "stories": [
+    {
+     "headline": "Rockstar UK staff vote 75% against IWGB union recognition",
+     "why": "The studio behind the biggest launch in the industry avoids a recognition deal for now, though a tribunal over the October 2025 sackings is still undecided.",
+     "points": [
+      "Turnout was 93.2% of 1,544 staff across Rockstar's UK sites: 1,163 against (75.3%) and 381 for (24.7%), according to IGN.",
+      "Rockstar's Jennifer Kolbe said the result reflects support for 'direct relationships' and 'open dialogue'.",
+      "The IWGB says it will keep organising and that the vote does not stop workers joining the union.",
+      "An employment tribunal over about 31-34 staff dismissed in October 2025 has finished closing submissions, and judgement is pending. The union alleges unlawful dismissal; Rockstar says the firings were for sharing confidential information."
+     ],
+     "next": "Employment tribunal judgement (date not announced).",
+     "confidence": "confirmed",
+     "impact": "medium",
+     "thread": {
+      "id": "rockstar-union",
+      "name": "Rockstar union vote",
+      "status": "changed",
+      "day": 3
+     },
+     "sources": [
+      {
+       "name": "BBC",
+       "url": "https://www.bbc.com/news/articles/cq4gnze58gx6o"
+      },
+      {
+       "name": "IGN",
+       "url": "https://www.ign.com/articles/rockstar-games-issues-statement-as-union-vote-fails"
+      }
+     ],
+     "desk": "gaming"
+    },
+    {
+     "headline": "PS5 stock runs short at UK and US retailers going into Black Friday",
+     "why": "If you're after a PS5 or Pro this weekend, mainstream retailers are out and resellers are charging well over list. It's GTA VI demand, and Sony hasn't commented.",
+     "points": [
+      "GAMINGbible, citing Notebookcheck and What Hi-Fi?, reports PS5 stock shortages in the US, UK, parts of Europe and Asia. Currys and John Lewis were out of stock on 25 Nov, and third-party sellers list the PS5 Pro at up to £1,475. This is retail reporting, not a Sony statement.",
+      "NielsenIQ: UK PS5 sales rose 46% week-on-week in GTA VI's launch week (19 Nov).",
+      "No Sony statement on supply."
+     ],
+     "next": "Black Friday trading today (27 Nov) and the weekend; the next UK weekly chart data (date not announced).",
+     "confidence": "reported",
+     "impact": "medium",
+     "thread": {
+      "id": "gta6-launch",
+      "name": "GTA VI launch",
+      "status": "changed",
+      "day": 33
+     },
+     "sources": [
+      {
+       "name": "Yahoo Finance (NielsenIQ data)",
+       "url": "https://finance.yahoo.com/media-advertising/articles/gta-vi-launch-sparks-400-180337935.html"
+      },
+      {
+       "name": "GAMINGbible",
+       "url": "https://www.gamingbible.com/news/platform/playstation/gta-6-ps5-stock-shortages-black-friday-864023-20261126"
+      }
+     ],
+     "desk": "gaming"
+    }
+   ]
+  },
+  {
+   "id": "expand",
+   "name": "Expand My World",
+   "status": "story",
+   "note": "",
+   "stories": [
+    {
+     "headline": "Nature: rumoured AI-lab algorithms said to break public-key encryption, unconfirmed",
+     "why": "If real it would be among the most consequential results at the AI and mathematics boundary, undermining RSA-style security. Today it is a rumour: no lab has published details.",
+     "points": [
+      "Nature (26 Nov) reports researchers suggesting leading AI labs have found polynomial-time algorithms against public-key cryptography.",
+      "Scott Aaronson wrote he is 'virtually certain' the labs hold 'one or more bombshells' but is much less confident about their nature.",
+      "RSA, which relies on factoring products of large primes, is one rumoured target.",
+      "Nature could not confirm the rumours; a search found no lab confirmation."
+     ],
+     "next": "Watch for lab papers or statements; none scheduled.",
+     "confidence": "rumour",
+     "impact": "high",
+     "thread": {
+      "id": "riemann-dual-proofs",
+      "name": "Riemann hypothesis dual proofs",
+      "status": "changed",
+      "day": 2
+     },
+     "sources": [
+      {
+       "name": "Nature News",
+       "url": "https://www.nature.com/articles/d41586-026-03875-6"
+      }
+     ],
+     "desk": "expand"
+    }
+   ]
+  }
+ ],
+ "watching": [
+  {
+   "thread": "fed-december",
+   "line": "Q3 GDP 4.3%, October PCE 3.8% and a Beige Book citing rising price pressures keep a December hike live; no new Fed event today."
+  },
+  {
+   "thread": "senate-leadership",
+   "line": "Nothing new overnight; secret ballot on Schumer's leadership is 1 December."
+  },
+  {
+   "thread": "topstep-country-restrictions",
+   "line": "No new Topstep restriction news in saved articles or search; still watching for other firms copying country-level limits."
+  },
+  {
+   "thread": "fernandes-contract",
+   "line": "Pochettino says priority is winning games; Fernandes is out of contract in the summer with a club option to 2027-28. SI reports two offers turned down and no negotiations now (SI report, not confirmed by the club)."
+  },
+  {
+   "thread": "gta6-ps5-crashes",
+   "line": "No Sony or Rockstar response seen overnight."
+  }
+ ],
+ "close_threads": [],
+ "expand": {
+  "headline": "Nature: rumoured AI-lab algorithms said to break public-key encryption, unconfirmed",
+  "why": "If real it would be among the most consequential results at the AI and mathematics boundary, undermining RSA-style security. Today it is a rumour: no lab has published details.",
+  "points": [
+   "Nature (26 Nov) reports researchers suggesting leading AI labs have found polynomial-time algorithms against public-key cryptography.",
+   "Scott Aaronson wrote he is 'virtually certain' the labs hold 'one or more bombshells' but is much less confident about their nature.",
+   "RSA, which relies on factoring products of large primes, is one rumoured target.",
+   "Nature could not confirm the rumours; a search found no lab confirmation."
+  ],
+  "next": "Watch for lab papers or statements; none scheduled.",
+  "confidence": "rumour",
+  "impact": "high",
+  "thread": {
+   "id": "riemann-dual-proofs",
+   "name": "Riemann hypothesis dual proofs",
+   "status": "changed"
+  },
+  "sources": [
+   {
+    "name": "Nature News",
+    "url": "https://www.nature.com/articles/d41586-026-03875-6"
+   }
+  ],
+  "desk": "expand"
+ },
+ "generated_at": "2026-11-27T13:36:06Z",
+ "updates": [],
+ "status": {
+  "story": 7,
+  "quiet": 3,
+  "failed": 0
+ }
+}
