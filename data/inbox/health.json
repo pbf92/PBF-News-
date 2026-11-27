@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T20:17:20Z",
- "new_this_run": 109,
+ "updated": "2026-11-27T21:37:08Z",
+ "new_this_run": 122,
  "failed_sources": [
   "ppcland"
  ],
@@ -10,7 +10,7 @@
    "desk": "world",
    "ok": true,
    "fetched": 25,
-   "new": 1,
+   "new": 9,
    "errors": []
   },
   {
@@ -34,7 +34,7 @@
    "desk": "ai",
    "ok": true,
    "fetched": 100,
-   "new": 5,
+   "new": 3,
    "errors": []
   },
   {
@@ -42,7 +42,7 @@
    "desk": "world",
    "ok": true,
    "fetched": 100,
-   "new": 1,
+   "new": 5,
    "errors": []
   },
   {
@@ -73,15 +73,15 @@
    "id": "athletic",
    "desk": "united",
    "ok": true,
-   "fetched": 69,
-   "new": 7,
+   "fetched": 55,
+   "new": 3,
    "errors": []
   },
   {
    "id": "atlantic",
    "desk": "world",
    "ok": true,
-   "fetched": 25,
+   "fetched": 23,
    "new": 0,
    "errors": []
   },
@@ -90,7 +90,7 @@
    "desk": "world",
    "ok": true,
    "fetched": 99,
-   "new": 9,
+   "new": 7,
    "errors": []
   },
   {
@@ -105,7 +105,7 @@
    "id": "bbc",
    "desk": "world",
    "ok": true,
-   "fetched": 85,
+   "fetched": 86,
    "new": 1,
    "errors": []
   },
@@ -113,8 +113,8 @@
    "id": "bbcsport",
    "desk": "united",
    "ok": true,
-   "fetched": 57,
-   "new": 0,
+   "fetched": 59,
+   "new": 2,
    "errors": []
   },
   {
@@ -153,8 +153,8 @@
    "id": "cme",
    "desk": "markets",
    "ok": true,
-   "fetched": 35,
-   "new": 6,
+   "fetched": 19,
+   "new": 0,
    "errors": []
   },
   {
@@ -162,7 +162,7 @@
    "desk": "health",
    "ok": true,
    "fetched": 25,
-   "new": 0,
+   "new": 1,
    "errors": []
   },
   {
@@ -177,7 +177,7 @@
    "id": "df",
    "desk": "gaming",
    "ok": true,
-   "fetched": 50,
+   "fetched": 43,
    "new": 0,
    "errors": []
   },
@@ -193,8 +193,8 @@
    "id": "earnings",
    "desk": "markets",
    "ok": true,
-   "fetched": 40,
-   "new": 10,
+   "fetched": 41,
+   "new": 1,
    "errors": []
   },
   {
@@ -202,14 +202,14 @@
    "desk": "health",
    "ok": true,
    "fetched": 85,
-   "new": 6,
+   "new": 2,
    "errors": []
   },
   {
    "id": "examine",
    "desk": "health",
    "ok": true,
-   "fetched": 4,
+   "fetched": 3,
    "new": 0,
    "errors": []
   },
@@ -250,7 +250,7 @@
    "desk": "world",
    "ok": true,
    "fetched": 80,
-   "new": 0,
+   "new": 2,
    "errors": []
   },
   {
@@ -266,14 +266,14 @@
    "desk": "faith",
    "ok": true,
    "fetched": 8,
-   "new": 0,
+   "new": 1,
    "errors": []
   },
   {
    "id": "information",
    "desk": "ai",
    "ok": true,
-   "fetched": 34,
+   "fetched": 29,
    "new": 0,
    "errors": []
   },
@@ -281,8 +281,8 @@
    "id": "journals",
    "desk": "health",
    "ok": true,
-   "fetched": 47,
-   "new": 3,
+   "fetched": 24,
+   "new": 0,
    "errors": []
   },
   {
@@ -297,8 +297,8 @@
    "id": "manutd",
    "desk": "united",
    "ok": true,
-   "fetched": 32,
-   "new": 3,
+   "fetched": 31,
+   "new": 0,
    "errors": []
   },
   {
@@ -314,14 +314,14 @@
    "desk": "united",
    "ok": true,
    "fetched": 100,
-   "new": 4,
+   "new": 2,
    "errors": []
   },
   {
    "id": "meta",
    "desk": "business",
    "ok": true,
-   "fetched": 16,
+   "fetched": 15,
    "new": 0,
    "errors": []
   },
@@ -353,7 +353,7 @@
    "id": "natreview",
    "desk": "world",
    "ok": true,
-   "fetched": 19,
+   "fetched": 18,
    "new": 0,
    "errors": []
   },
@@ -369,8 +369,8 @@
    "id": "ons",
    "desk": "world",
    "ok": true,
-   "fetched": 37,
-   "new": 0,
+   "fetched": 33,
+   "new": 2,
    "errors": []
   },
   {
@@ -393,7 +393,7 @@
    "id": "polls",
    "desk": "world",
    "ok": true,
-   "fetched": 27,
+   "fetched": 33,
    "new": 0,
    "errors": []
   },
@@ -401,8 +401,8 @@
    "id": "ppcland",
    "desk": "business",
    "ok": false,
-   "fetched": 93,
-   "new": 6,
+   "fetched": 98,
+   "new": 9,
    "errors": [
     "feed: HTTPError: HTTP Error 403: Forbidden"
    ]
@@ -419,8 +419,8 @@
    "id": "propindustry",
    "desk": "prop",
    "ok": true,
-   "fetched": 4,
-   "new": 1,
+   "fetched": 3,
+   "new": 0,
    "errors": []
   },
   {
@@ -468,7 +468,7 @@
    "desk": "world",
    "ok": true,
    "fetched": 100,
-   "new": 0,
+   "new": 3,
    "errors": []
   },
   {
@@ -484,7 +484,7 @@
    "desk": "gaming",
    "ok": true,
    "fetched": 100,
-   "new": 2,
+   "new": 7,
    "errors": []
   },
   {
@@ -500,7 +500,7 @@
    "desk": "world",
    "ok": true,
    "fetched": 20,
-   "new": 0,
+   "new": 2,
    "errors": []
   },
   {
@@ -532,7 +532,7 @@
    "desk": "world",
    "ok": true,
    "fetched": 100,
-   "new": 0,
+   "new": 2,
    "errors": []
   },
   {
@@ -540,7 +540,7 @@
    "desk": "ai",
    "ok": true,
    "fetched": 100,
-   "new": 10,
+   "new": 14,
    "errors": []
   },
   {
@@ -548,7 +548,7 @@
    "desk": "gaming",
    "ok": true,
    "fetched": 100,
-   "new": 4,
+   "new": 8,
    "errors": []
   },
   {
@@ -556,7 +556,7 @@
    "desk": "united",
    "ok": true,
    "fetched": 100,
-   "new": 14,
+   "new": 11,
    "errors": []
   },
   {
@@ -612,7 +612,7 @@
    "desk": "gaming",
    "ok": true,
    "fetched": 30,
-   "new": 0,
+   "new": 9,
    "errors": []
   },
   {

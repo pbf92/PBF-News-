@@ -1,0 +1,13 @@
+URL: https://www.androidpolice.com/chatgpt-is-coming-for-gemini-android/
+TITLE: ChatGPT is coming for Gemini's biggest advantage on Android
+OUTLET: Android Police
+
+OpenAI appears to be working on deeper Android integration for ChatGPT, which could soon allow the AI assistant to make phone calls, send text messages, control media playback, and more.
+Google may be making Gemini more useful on Pixel phones by introducing task automation capabilities that allow the AI assistant to take actions on your behalf, but OpenAI is coming for Gemini. While you've been able to set ChatGPT as the default digital assistant on Android for quite some time now, there isn't much it can actually do on your phone beyond answering questions.
+Unlike Gemini, you can't ask ChatGPT to call someone or pause the music playing on your phone. However, that could soon change.
+ChatGPT could finally become a proper Android assistant
+An APK teardown of version 1.2026.328 of the ChatGPT Android app by Android Authority has revealed several references to upcoming device controls. According to the publication, ChatGPT could soon be able to access your contacts and call history, initiate phone calls, and read and send SMS messages, provided you grant the necessary permissions.
+The publication also reports that ChatGPT could gain the ability to control ongoing music playback through Android's notification access permission. However, the functionality appears to be limited to controlling existing playback sessions rather than opening a music app and playing a specific song.
+Beyond these basic device controls, ChatGPT could also soon gain the ability to access your Android phone's screen and use that information as context for your queries. This means ChatGPT could answer questions about what's currently on your screen without you having to manually take and upload a screenshot every time.
+These are all things Gemini has already been able to do on Android, but this is the first time we're seeing signs of ChatGPT gaining similar capabilities.
+And these additions could finally give Android users more reasons to replace Gemini with ChatGPT as their default digital assistant. For now, though, there's no word on when or if OpenAI plans to roll out these features.

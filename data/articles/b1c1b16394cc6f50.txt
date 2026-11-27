@@ -1,0 +1,62 @@
+URL: https://ppc.land/brand-suitability-content-exclusion-category/
+TITLE: Brand suitability content exclusion category
+OUTLET: PPC Land
+
+What the field is
+Brand suitability content exclusion category is a reporting dimension in Amazon Ads unified reporting that records which content exclusion categories were in force when an advertiser's programmatic ads were delivered. A content exclusion category is an on-off switch: when an advertiser turns one on, Amazon's buying platform avoids placing ads beside that type of content. The field exists so that the setting can be audited. Without it, an advertiser could switch a topic off with no way of checking, beside spend and impressions, which delivery the choice governed.
+Amazon's unified reporting dimensions reference, updated on November 11, 2026, defines the field as the category "applied to opt out of specific topics that don't align with brand values," as PPC Land reported in its count of the 156 unified report dimensions on November 12, 2026. The field sits in the Supply group of attributes, next to its sibling, Brand suitability inventory tier, and both carry names inherited from Amazon's older Brand Suitability report.
+Safety floor, tier and exclusions
+The field makes sense only against the three layers Amazon stacks on each programmatic impression.
+The first layer is the brand safety floor, content no advertiser can buy against. According to Amazon's DVA methodology support page, updated on November 16, 2026, nine categories are blocked for every advertiser and cannot be removed: adult and explicit sexual content; arms and ammunition; hate speech; illegal content; terrorism; violence, death and injury; accidents and disasters; online gambling; and alcohol, drug abuse and tobacco. These are not content exclusion categories, and they do not appear in the field. They are the baseline.
+The second layer is the inventory tier, a graduated sensitivity setting. Amazon announced on November 14, 2025, that advertisers could choose among three tiers, Expanded, Standard and Restrictive, matched to risk tolerance. Each step down excludes more inventory.
+The third layer is the content exclusion category. Where a tier changes how much sensitive material a campaign tolerates across the board, an exclusion removes a named topic entirely, whatever tier is selected. Amazon describes the result as letting advertisers "exclude content that complies with Amazon's policies but does not suit their brand," as quoted in PPC Land's analysis of Amazon's brand safety claims on November 17, 2026.
+How the setting and the report connect
+The control is set in the buying console under "Inherited settings", then "General", then "Brand suitability", according to Amazon's December 18, 2025 launch announcement. It can also be set through the Amazon Ads public application programming interface (API) and the bulk-tool spreadsheet. Inherited settings are advertiser-level defaults that campaigns pick up automatically, with overrides at lower levels. The API work began earlier: on November 18, 2025, Amazon opened a beta with two fields, brandSafetyTierInheritedSettingDetails at advertiser level and brandSafetyTierTarget at ad group level, as PPC Land reported when the open beta launched. Only display and video media types were supported.
+The control covers Twitch and third-party web and mobile inventory, set once rather than through separate controls for each supply source. Amazon's announcement says the brand suitability report was "extended to include content exclusion categories" so that placements could be verified across tiers and categories.
+In a unified report, the field behaves like any other attribute. An advertiser selects it alongside metrics such as impressions, cost and clicks, and the report splits delivery into rows by category value. A campaign that excluded two topics on one ad group and none on another would show separate rows for each combination. Amazon's reference says that where a dimension does not apply to an ad product, "its value appears as null." Sponsored Products rows in a mixed report should therefore return null, since the setting does not exist for search ads. PPC Land's count found that 34 of the 35 Supply attributes carry the DVA+ marker, the label for Amazon's programmatic buying; the article does not state the ad-product markers on this field individually.
+One point is not settled in public documentation. The definition describes the category "applied", which reads as the advertiser's setting on the delivering line. It does not say the field classifies the content beside which each impression ran. An advertiser reading a row as proof that no ad appeared next to an excluded topic would be reading more into it than Amazon has stated.
+Which categories exist
+Amazon has not published the list in text. Its launch page shows the categories only in a console screenshot, and neither PPC Land's coverage nor the reporting reference names them. As of November 2026, the full set of values the field can return is undocumented outside the console.
+The Twitch lineage offers clues. On June 20, 2023, Twitch introduced mandatory Content Classification Labels: Mature-Rated Games, Sexual Themes, Drugs, Intoxication, or Excessive Tobacco Use, Violent and Graphic Depictions, Significant Profanity or Vulgarity, and Gambling. A label for politics and sensitive social issues followed later. Twitch's advertising guide says these labels and Entertainment Software Rating Board (ESRB) game ratings feed its suitability tools. Whether the December 2025 exclusion categories map one-to-one onto those labels has not been confirmed by Amazon.
+Origin and evolution
+The idea of switching off topics predates Amazon's version. After advertisers withdrew spending from YouTube in March 2017 over ads beside extremist videos, the American Association of Advertising Agencies (4A's) formed its Advertiser Protection Bureau on April 10, 2018, and published a framework of 13 categories on September 21, 2018. The World Federation of Advertisers (WFA) created the Global Alliance for Responsible Media (GARM) in June 2019. In September 2020, GARM published 11 categories, each with a floor and three risk levels, adding misinformation in June 2022. That framework set the vocabulary of brand safety, content nobody funds, and brand suitability, content some brands accept and others do not.
+Amazon's own path ran through Twitch. On November 6, 2023, Amazon announced Content Controls for Twitch Premium Video in its demand-side platform (DSP), three filter tiers named Expanded, Moderate and Restrictive. The default is disputed: Amazon's page labels Moderate as default, while Twitch's advertising blog said new campaigns would default to Expanded. PPC Land dated that launch to October 2023 and reported the extension of the controls to display advertising in May 2024.
+GARM itself ended in August 2024, two days after X sued the WFA and several advertisers on August 6. The PPC Land explainer on brand suitability records that the WFA discontinued GARM on August 8 and 9, 2024.
+Amazon then moved from Twitch-only filters to a single control. The tier launch came on November 14, 2025, the API beta on November 18, and content exclusion categories on December 18, 2025, as PPC Land reported two days later. Unified reporting opened in beta in November 2025 and reached general availability on June 8, 2026, which moved brand suitability data into the shared report builder. On September 29, 2026, Amazon renamed the Amazon DSP as DVA.
+Why it matters for marketers
+Category exclusions are one of the few suitability decisions an advertiser makes directly rather than delegating to a model. They are also costly. Every excluded topic removes inventory, raises competition for what remains and, in the case of news, can withdraw funding from publishers. The report field is the evidence base for weighing that cost, because it ties each setting to spend and outcomes in one table.
+The field also fills a gap left by Amazon's accreditation work. The November 16, 2026 methodology page reports a Brand Unsafe Impression Rate below 0.1%, but Amazon's scope "submitted for MRC accreditation but not accredited" excludes brand suitability controls, including inventory tiers and content exclusion categories. The Media Rating Council (MRC) audit, when it comes, will not examine whether the exclusions work. The report is the only first-party record.
+Limitations and disputes
+Amazon describes its measures as best-effort and warns that classification errors, language constraints and dynamic content can cause misaligned placements. Live streams are a hard case, because a channel can change subject mid-broadcast.
+Classification accuracy across the industry is contested. A study submitted to arXiv on January 3, 2026, by researchers at the New Jersey Institute of Technology and DeepSee.io examined 3,219 news articles. According to the paper, IAS rated 53.72% unsafe, DoubleVerify 35.27% and Oracle 22.22%, with agreement between IAS and DoubleVerify, measured by Krippendorff's alpha, at 0.19.
+Coverage figures also conflict. PPC Land's December 2025 article cites 43 markets, while the country list in Amazon's announcement and in the same article totals 34.
+What it is not
+- Brand suitability inventory tier - the sibling field records the graduated setting (Expanded, Standard or Restrictive), not individual topics.
+- Brand safety floor - the nine categories blocked for all advertisers never appear as exclusion values.
+- Content genre and content rating - separate Supply dimensions that describe the content itself; content rating covers labels such as content suitable for teens.
+- Google content themes and TikTok category exclusions - comparable topic switches on other platforms. Google lists ten themes as of October 2026; TikTok's include Gambling & Lotteries, Violent Video Games, Combat Sports and Youth Content.
+Recent developments
+On November 12, 2026, Amazon's dimensions reference set out 156 attributes across 11 categories, 137 of them available to DVA+, with the brand suitability pair closing the Supply group. Amazon's support schedule makes legacy sponsored ads reports read-only on December 17, 2026, and deletes unmigrated reports on January 31, 2027, leaving unified reporting as the place where suitability delivery is checked. Amazon's November 2026 safety disclosure, and the exclusion of suitability controls from its MRC submission, sharpen the question of how the field will be independently verified.
+Timeline
+- March 2017 - Advertisers pause YouTube spending over ads beside extremist content.
+- April 10, 2018 - The 4A's forms its Advertiser Protection Bureau.
+- September 21, 2018 - The bureau publishes a 13-category safety and suitability framework.
+- June 2019 - The WFA creates GARM.
+- September 2020 - GARM publishes its 11-category floor and suitability framework.
+- June 2022 - GARM adds misinformation.
+- June 20, 2023 - Twitch introduces Content Classification Labels.
+- November 6, 2023 - Amazon announces Content Controls for Twitch Premium Video in its DSP.
+- April 2024 - Twitch content controls extend to display advertising.
+- August 6, 2024 - X sues the WFA and advertisers.
+- August 2024 - The WFA discontinues GARM.
+- November 14, 2025 - Amazon launches the inventory tier control.
+- November 18, 2025 - Brand suitability API settings enter open beta.
+- December 18, 2025 - Amazon launches content exclusion categories and extends the brand suitability report.
+- June 8, 2026 - Unified reporting reaches general availability.
+- September 29, 2026 - Amazon DSP is renamed DVA.
+- November 11, 2026 - Amazon's unified reporting reference lists the field under Supply.
+- November 16, 2026 - Amazon publishes its DVA brand safety methodology, excluding suitability controls from MRC scope.
+- December 17, 2026 - Legacy sponsored ads reports become read-only.
+- January 31, 2027 - Unmigrated legacy reports are deleted.
+Related PPC Land coverage
+- 85 of Amazon's 156 unified report dimensions apply to Sponsored Products - Counts the unified reporting attributes and quotes the defi

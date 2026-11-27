@@ -1,0 +1,19 @@
+URL: https://interestingengineering.com/culture/openai-sues-apple-trade-secrets-supplier-dispute
+TITLE: OpenAI hits back at Apple with countersuit over trade secrets and supplier pressure
+OUTLET: Interesting Engineering
+
+The ongoing trade-secret dispute between OpenAI and Apple took another turn on November 27, as the ChatGPT creator filed a new lawsuit accusing the iPhone maker of stealing confidential information and attempting to block its access to hardware suppliers.
+The legal action, filed in a California court, marks a fresh escalation in the dispute between the two technology companies, which had previously partnered to integrate ChatGPT into the iPhone. OpenAI alleges that Apple has used its market power to restrict competition as it prepares to launch a new range of personal devices.
+According to the Financial Times, OpenAI accused Apple of using its “size and wealth to forestall competition,” including allegedly threatening suppliers that might work with the company on its upcoming hardware products. The complaint alleges a range of unlawful and unfair conduct, claiming Apple is trying to prevent potential partners from supporting a rival device ecosystem.
+Supplier pressure allegations
+OpenAI claims Apple has gone beyond using its supply-chain influence to secure manufacturing capacity and access to key components. The lawsuit accuses the iPhone maker of coercing and threatening suppliers that also work with OpenAI.
+The complaint also alleges that a former OpenAI employee who returned to Apple shared information about the company’s product plans and supplier relationships. Apple has not immediately responded to a request for comment.
+The dispute follows an earlier legal confrontation in which Apple accused several former employees of sharing confidential information about its product development and supply chain with OpenAI. Those employees included Tang Tan, Apple’s former design executive who later joined OpenAI as its chief hardware officer.
+Apple also alleged that another former engineer exploited a vulnerability in its network storage system to obtain confidential files after leaving the company.
+OpenAI denied taking Apple’s trade secrets in August, describing the earlier lawsuit as an attempt to prevent the company from hiring its employees. In its latest complaint, OpenAI has also accused Apple of encouraging employees to store corporate files on personal devices and cloud storage accounts.
+The complaint described the arrangement as a trap for employees, comparing their experience to the Hotel California metaphor.
+Hardware ambitions intensify
+The legal battle comes as OpenAI expands its ambitions beyond software and prepares to enter the personal-device market. The company acquired io, a hardware studio led by Apple’s former design chief Jony Ive, for $6.4 billion in May 2025.
+OpenAI has said it wants to develop devices that could compete directly with Apple’s products. The company has described its hardware ambitions as an effort to challenge Apple’s position in a market traditionally dominated by the iPhone maker.
+The new lawsuit adds another layer to a relationship that began with a high-profile partnership to bring ChatGPT to Apple devices. The companies now face a widening dispute over employee movements, confidential information, supplier relationships, and the future of personal computing.
+Apple has not publicly responded to the latest allegations. The claims in OpenAI’s complaint have yet to be established in court.

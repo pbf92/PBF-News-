@@ -1,0 +1,60 @@
+URL: https://ppc.land/video-player-size/
+TITLE: Video player size
+OUTLET: PPC Land
+
+What the field is
+Video player size describes how big the on-screen video player was when an ad played in it. It is not the size of the creative file or the screen, but the box in which the video ran, whether that box filled a television or sat in a 300 by 250 pixel slot beside a recipe. The field exists because the same 15-second spot is worth very different amounts depending on that box. A full-screen ad on a connected TV and a thumbnail-sized ad in a banner can both be counted as one video impression, and buyers need a way to tell them apart.
+In Amazon Ads, Video player size is one of the dimensions in unified reporting, the reporting system that replaced the separate sponsored ads and Amazon DSP report builders. PPC Land's analysis of Amazon's 156 unified report dimensions, published on November 12, 2026, places it in the Supply category, where "video placements are described in three fields": video placement type, ad break position and video player size. The size field, in PPC Land's summary of Amazon's definition, runs from small to large, plus unknown. Amazon has not published the pixel thresholds behind those labels in any document readable as of November 2026.
+Where the signal comes from
+The raw input is a pair of numbers in the bid request. In OpenRTB, the IAB Tech Lab protocol that carries most programmatic auctions, every video impression contains a Video object. Its fields w and h are defined in the OpenRTB 2.6 specification as the "width of the video player in device-independent pixels (DIPS)" and the height in the same unit. Both are "recommended" rather than required, which matters later. PPC Land's explainer on online video describes the Video object as telling demand-side platforms (DSPs) "what the player can handle."
+Device-independent pixels are a logical unit, not a physical one. A phone with a pixel ratio of 3 reports a 390-DIPS-wide player even though the screen draws it with 1,170 physical pixels. The Device object carries that ratio in pxratio.
+The sequence runs as follows. The publisher's video player, or the software development kit (SDK) inside an app, measures its container and passes the dimensions to the supply-side platform (SSP). The SSP writes them into video.w and video.h and sends the request to DSPs. Each DSP converts the two numbers into a bucket of its own design, uses the bucket for targeting and bidding, and records it for reporting. Nothing in OpenRTB defines "small" or "large"; the buckets are a buy-side convention.
+How platforms bucket it
+Google Display & Video 360 (DV360) uses four values in its API: SMALL, LARGE, HD and UNKNOWN. Small is "less than 400×300 (desktop), or up to 20% of screen covered (mobile)." Large runs from 400 by 300 to 1280 by 720 on desktop, or 20% to 90% of a mobile screen. HD is 1280 by 720 or greater, or more than 90% of a mobile screen. Unknown covers players whose dimensions DV360 "can't detect."
+Microsoft Invest, formerly Xandr, buckets by width alone. Its video player targeting documentation, updated in October 2025, defines large as a minimum width of 640 pixels, "primarily large-format web and CTV inventory"; medium as 320 to 639 pixels, covering "most smartphone player inventory for mobile apps"; and small as a maximum of 319 pixels, "primarily in-banner inventory." A fourth value catches requests where no player width is provided.
+Yahoo DSP takes "the larger of the two" dimensions in the bid request and assigns a size from that.
+A worked example shows how far the schemes diverge. A 640 by 360 desktop player is large in DV360 and large in Microsoft Invest. A 300 by 250 in-banner player is small in both. But a 360 by 203 player filling most of a phone screen is medium in Microsoft Invest, and would likely be large in DV360, because Google measures mobile players by the share of the screen they cover rather than by pixels. Amazon's three-step scale of small to large plus unknown cannot be mapped confidently onto either scheme without published thresholds.
+Who sets it and who reads it
+On the sell side, publishers and app developers control the player and are responsible for declaring its size accurately. SSPs pass the declaration along. On the buy side, DSPs translate the declaration into targeting options and report dimensions, while advertisers, agencies and verification vendors read the result. In Amazon's case the field sits in reports for DVA+, the campaign type that combines what was previously created through Amazon DSP, Sponsored Display and Sponsored TV. PPC Land's explainer on DVA dates the renaming of Amazon DSP to DVA to September 29, 2026. PPC Land's unified reporting explainer states that supply fields "such as deal ID, publisher name and ad break position" apply only to DVA campaigns, and PPC Land's dimension count found that 32 of 35 supply attributes apply to DVA+ alone.
+Origin and evolution
+Player dimensions entered programmatic trading with OpenRTB 2.0, released in June 2011, when a video subcommittee including BrightRoll and Adap.tv folded video into the unified specification, according to the specification's own history section. The IAB Tech Lab adopted OpenRTB as a standard with version 2.1 in January 2012.
+The field drew scrutiny once buyers discovered how often small players were sold as video. In July 2015, AdExchanger reported DoubleVerify data showing "nearly 50% of video ads bought programmatically are served in-banner." On March 8, 2018, Pixalate reported with OpenX that 300 by 250 programmatic video units had an 11.3% invalid traffic rate against 8.5% for other video units. OpenX research found the unit was "80 percent less viewable", and the exchange said it would stop trading it.
+A year later, on February 27, 2019, AdExchanger described "declaration fraud", in which bid requests declared 640 by 480 or 640 by 360 players while the ads rendered in a corner of a phone screen or in a 300 by 250 box, taking up less than 5% of the screen. The same report said some exchanges "inflate video sizes to make inventory look more appealing to buyers."
+Google added a commercial argument in June 2019. In an Ad Manager blog post, product marketing manager Jamie Jordan wrote that "the larger the video player, the more viewable the ad", citing a 2560 by 1440 player with a 95% viewability rate.
+The most recent change came through placement definitions rather than size. IAB Tech Lab introduced the plcmt field in the OpenRTB 2.6-202303 release in March 2023. Its instream definition says that if a player "converts to floating/sticky subsequent ad calls should accurately convey the updated player size." Google required plcmt in all AdX bid requests from April 1, 2024, according to AdExchanger. The Tech Lab clarified the placement definitions on February 4, 2025, including that interstitial video must occupy the majority of the viewport.
+Why it matters for marketers
+Player size is one of the few supply signals that predicts both cost and attention. A large player is more likely to be viewable and priced accordingly; a small player is cheaper, but the discount may reflect inventory that delivers little. Media Rating Council (MRC) video viewability requires 50% of the player's pixels in view for two continuous seconds, a threshold far easier to reach when the player fills the page.
+For Amazon advertisers the field matters because DVA+ hands more inventory decisions to automated buying. Video player size, with video placement type and ad break position, shows after the fact what kind of video inventory the budget bought.
+Limitations and disputes
+The first weakness is that the value is declared, not measured. Bid requests report what the player claims, and AdExchanger's 2019 reporting showed those claims can be wrong or inflated.
+The second is missing data. Because w and h are only recommended, some requests arrive without them. Microsoft Invest advises including the "no player width provided" value in targeting "because some inventory (such as Google Ad Manager) is not classified."
+The third is comparability. DV360, Microsoft Invest, Yahoo and Amazon each use different buckets, and Amazon has not disclosed its own. Cross-platform comparisons of "large player" performance are not like-for-like.
+Finally, size can change during playback. Sticky and floating players shrink as a reader scrolls, and the size declared at auction may not match the size at the moment the ad played.
+How it differs from similar fields
+Video placement type classifies the context, using categories PPC Land lists as in-stream, accompanying content, interstitial or out-stream (no content or standalone). A large player can still be out-stream. Ad break position records whether an ad ran at the beginning, middle or end of content, the pre-roll, mid-roll and post-roll split. Placement size gives the dimensions of a DVA+ placement as a slot, usually for display, rather than a video player. Ad size describes the creative itself, such as a 1920 by 1080 video file, which Amazon's online video specification sets as the minimum frame size for Amazon-hosted creatives.
+Recent developments
+Amazon's November 11, 2026 dimensions reference brought Video player size into a single report alongside sponsored ads data, with the value null for products where it does not apply. Legacy reports become read-only on December 17, 2026 and unmigrated reports will be deleted on January 31, 2027. Separately, from January 1, 2027, Amazon will count DVA display impressions on Amazon Store placements only once they appear on screen, and it expects about 63% fewer impressions on average. That notice covers display only, not video. For DVA video, player size and placement type remain the main quality signals in reports.
+Timeline
+- June 2011 - OpenRTB 2.0 combines display, mobile and video, with w and h describing the video player.
+- January 2012 - IAB Tech Lab adopts OpenRTB as a standard with version 2.1.
+- July 2015 - DoubleVerify data shows nearly 50% of programmatic video is served in-banner.
+- March 8, 2018 - Pixalate and OpenX report higher invalid traffic in 300 by 250 video; OpenX stops trading the unit.
+- February 27, 2019 - AdExchanger reports "declaration fraud" in which declared full-screen players render below 5% of the screen.
+- June 26, 2019 - Google says larger players are more viewable, citing 95% viewability for a 2560 by 1440 player.
+- March 2023 - OpenRTB 2.6-202303 introduces plcmt, requiring updated player size when a player turns sticky.
+- April 1, 2024 - Google requires plcmt in all AdX bid requests.
+- December 19, 2024 - Amazon DSP adds in-stream position and out-stream placement targeting, replacing Video Ad Format targeting.
+- February 4, 2025 - IAB Tech Lab clarifies video placement definitions.
+- September 29, 2026 - Amazon DSP is renamed DVA.
+- November 11, 2026 - Amazon's unified reporting dimensions reference lists Video player size in the Supply category.
+- January 31, 2027 - Unmigrated legacy Amazon reports are deleted.
+Related PPC Land coverage
+- 85 of Amazon's 156 unified report dimensions apply to Sponsored Products - The November 2026 analysis that places Video player size among three video fields in the Supply category.
+- Explaining unified reporting - How Amazon's unified reports work and which supply fields apply only to DVA.
+- Explaining DVA - The September 2026 renaming of Amazon DSP and the DVA+ campaign type that carries most supply dimensions.
+- Explaining online video (OLV) - The OpenRTB Video object, including the w and h player dimensions and the plcmt field.
+- IAB Tech Lab clarifies video placement definitions for digital advertising - The February 2025 clarification of instream, accompanying content, interstitial and standalone video.
+- Amazon advertisers will lose unmigrated reports on January 31, 2027 - The legacy report shutdown schedule.
+- Amazon drops off-screen ads from impression counts, expects 63% fewer - The January 2027 change to display impression counting on Amazon Store placements.
+Summary
+Who: 

@@ -1,0 +1,9 @@
+URL: https://forkast.news/google-says-gemini-live-can-set-timers-and-turn-lights-off/
+TITLE: Google says Gemini Live can set timers and turn lights off
+OUTLET: Forkast News
+
+Setting a kitchen timer or turning off the lights are ordinary household tasks. Google says Gemini Live can now handle actions like these during a more responsive conversation, but the capability and its availability are separate parts of the update.
+In its Nov. 25 release notes, Google says the improved Gemini Live experience is rolling out over the coming weeks. It suggests saying “Hey Google, let’s chat” for a more responsive conversation and says Gemini Live “now supports all your daily actions, from setting timers to turning off the lights.” That gives the change a concrete household use: the conversational feature is described as supporting home actions as well as conversation.
+That does not mean every Google Home household can use Gemini Live today. Google’s Gemini for Home help page says Early Access is rolling out to speakers and displays in select countries and languages, with more users to get access over time. Google says users will be notified when the feature is available to them.
+There is also a cost distinction worth checking. Google says basic smart-home controls, alarms and timers are available at no cost. Some features, including Gemini Live, are available on compatible devices with a Google Home Premium subscription. Free access to a timer or light control therefore does not establish that Gemini Live itself is included.
+Device support is another limit: Google says older speaker and display models, and third-party speakers, may support most Gemini for Home features but not Gemini Live. Check Google’s current eligibility information and wait for its availability notice rather than assuming the release note means the conversational feature has reached every home.

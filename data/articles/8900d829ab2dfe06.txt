@@ -1,0 +1,10 @@
+URL: https://www.cbsnews.com/news/openai-countersues-apple-trade-secrets-lawsuit/
+TITLE: OpenAI countersues Apple over allegations of stealing trade secrets
+OUTLET: CBS News
+
+OpenAI on Friday responded to Apple's June lawsuit accusing the company of by countersuing.
+The ChatGPT maker alleged that Apple sets up departing employees to be accused of stealing proprietary information. Apple created "a situation in which it can accuse virtually any departing employee, and their new employer, of 'stealing' purported Apple trade secrets," the suit, filed in the Northern District of California, claims.
+Apple did not immediately respond to CBS News' request for comment on OpenAI's countersuit.
+Apple's complaint in June accused OpenAI and two of its employees, Chief Hardware Officer Tang Tan and Chang Liu, a technical staffer at the company, of stealing Apple's proprietary information to help OpenAI develop its own hardware. Both formerly worked at Apple.
+OpenAI claims in its countersuit Friday that Apple's employment practices are designed to set a trap for a departing employee and their future employer — "a trap that can be sprung whenever Apple sees an opportunity to slow down a potential competitor."
+Tech analysts expect OpenAI to make a foray into hardware design, putting it in more direct competition with Apple. In July 2025, OpenAI acquired the AI device startup of former Apple star designer Jony Ive, io Products Inc.

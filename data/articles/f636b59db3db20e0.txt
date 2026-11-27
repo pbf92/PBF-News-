@@ -1,0 +1,64 @@
+URL: https://ppc.land/advertised-product-parent-id/
+TITLE: Advertised product parent ID
+OUTLET: PPC Land
+
+Advertised product parent ID is a dimension in Amazon Ads unified reporting that returns the parent ASIN of the product an ad promoted. An ASIN, or Amazon Standard Identification Number, is the 10-character code Amazon assigns to every item in its catalogue. Many items come in variations, such as a T-shirt in five sizes and four colours, and Amazon groups those variations under a single parent. The field exists because ads are bought and reported at the level of the individual variation, while brands usually plan, price and judge performance at the level of the product family.
+The field sits in the advertised product attributes of the dimensions reference Amazon updated on November 11, 2026. In PPC Land's field-by-field count of that reference, the advertised product group covers ID, name, parent ID, brand, category, subcategory, product group, marketplace and SKU, and applies to DVA+, Sponsored Display and Sponsored Products. It does not apply to Sponsored Brands or Sponsored TV. DVA+ is the AI-driven campaign type that buys across the programmatic platform known as Amazon DSP until September 29, 2026, Sponsored Display and Sponsored TV.
+Parents, children and variation families
+The parent is an unusual object. PPC Land's explainer on the ASIN describes it as "a container: not purchasable, carrying no offer, existing only to group child ASINs into a variation family under a declared theme." Amazon's own DSP self-service reporting guide, dated August 2022, uses almost the same language, defining a parent ASIN as "a non-buyable entity used to relate child products" and a child ASIN as "an instance of the parent product."
+The variation theme decides what separates the children: size, colour, a combination such as SizeName-ColorName, pack count, scent or style. Amazon's Catalog Items API classifies an item as BASE_PRODUCT, VARIATION_PARENT, PRODUCT_BUNDLE or OTHER. A product with no variations has no parent at all. It is a standalone ASIN.
+Because the parent has no price and no stock, it cannot be the thing that receives a click or a sale. Ads follow the same logic: the advertised unit in Sponsored Products and Sponsored Display is a purchasable item, identified in reports by Advertised product ID, the child ASIN. The parent ID is a lookup on top of that row, taken from the catalogue rather than from the campaign.
+How the field is populated
+Nothing in campaign setup asks for the parent. An advertiser adds a SKU or ASIN to an ad group, the ad serves, and the report returns the advertised child. At report time, unified reporting attaches catalogue attributes to that child: its brand, its category and subcategory, its product group and its parent. These are catalogue properties, not settings the buyer controls.
+Two consequences follow. First, the value reflects the catalogue, not the advertiser's intent. A seller who advertised three colours of a jacket did not choose to advertise the family, yet the parent ID will group them as one. Second, the value can change if the catalogue changes. Variation families are edited by sellers, vendors and Amazon itself. In August 2025, Amazon announced it would remove deprecated variation themes between September 2 and November 30, 2025, then narrowed the cleanup after seller pushback to themes with no sales in the previous 12 months. Amazon's reference does not say whether reports carry the parent as it stood on the day of the impression or the parent at the moment the report runs.
+A worked example
+Consider an apparel brand selling a running jacket in three colours and four sizes. That is 12 child ASINs under one parent, with the parent code beginning, like almost every modern ASIN, with "B0". The brand runs a Sponsored Products campaign on all 12 children and a Sponsored Display retargeting campaign on the four best sellers.
+A unified report broken down by Advertised product ID returns up to 16 rows for the month: one per child per campaign. Spend is spread thin. Adding Advertised product parent ID and grouping on it returns two rows, one per campaign, each showing what the jacket as a whole cost and earned. Without the campaign split, it returns one line for the family, which can then be compared with other families rather than a medium blue against a large black.
+If the same report is run for a Sponsored Brands campaign, the column is empty.
+Where it sits relative to conversion data
+The advertised parent describes what the ad showed. It says nothing about what the shopper bought. That distinction matters on Amazon because a click on one variation often ends in a purchase of another. A shopper clicks an ad for a medium blue jacket, switches to large on the detail page and buys that instead.
+Amazon's legacy reporting treated such purchases as "other SKU" sales. The Sponsored Products purchased product report, according to Amazon's Support Center, "details on the non-advertised SKUs a customer purchased after clicking your ad", under columns including Advertised ASIN, Purchased ASIN and "Sales (halo)", formerly "7 day other SKU sales". It has no parent column. Adbrew, an Amazon advertising software company, describes the sibling-variation case in an October 27, 2026 article as variation halo: "Same parent ASIN, different child."
+Unified reporting handles the purchase side with a parallel group, the converted product attributes. According to PPC Land, those "mostly inherit DVA+ names such as 'Item name,' 'Parent ASIN' and 'Brand name.'" Putting Advertised product parent ID and Converted product parent ID in the same report is the most direct way to see whether sales stayed inside the family that was advertised.
+Origin and evolution
+Parent ASINs predate advertising reports; the ASIN dates to the late 1990s. In advertising, the parent first appeared prominently on the DSP side and on the conversion side. Amazon's 2022 DSP reporting guide describes a product report whose granularity can be set to "ASIN level" or "Parent ASIN level", warns that "Parent ASIN level data includes child ASIN data", and advises filtering to avoid duplicates. Connector documentation from Funnel and Adverity, both marketing data companies, lists Parent ASIN as a DSP product report dimension.
+Unified reporting, which opened in beta on November 11, 2025 and reached general availability in the Ads Console on June 8, 2026, merged sponsored ads and DSP reporting into one schema. PPC Land's reading of the November 2026 reference lists former names for some advertised product fields, such as "Advertised ASIN" for Advertised product ID. It gives no former name for Advertised product parent ID. On that evidence, the advertised-side parent appears to be newly exposed as a standard column, while the legacy DSP "Parent ASIN" carries over to the converted product group. Amazon has not described the field's history, so that conclusion rests on the reference's mapping table and third-party documentation.
+Why it matters for marketers
+Planning on Amazon is done by product family far more often than by variation. Budgets, margin targets, Vine enrolment and promotional calendars are typically set per family. Since October 12, 2021, for example, Amazon Vine fees have been charged per parent ASIN. Without the parent in ad reports, analysts joined child ASINs to a catalogue file by hand.
+Reviews add another reason. Amazon announced on January 7, 2026 that review sharing across variations would be restricted from February 12, with a phased rollout through May 31, 2026, keeping shared ratings only for minor variations. Where children now carry different ratings, a parent-level roll-up can hide gaps between them.
+Timing matters too. Under the schedule Amazon published on November 12, 2026, legacy report creation stops on December 17, 2026 and unmigrated reports are deleted on January 31, 2027. Workflows built on DSP's Parent ASIN granularity need rebuilding in the new field names before then.
+Limitations and disputes
+Coverage is partial. Sponsored Brands and Sponsored TV return no value, so a cross-product report grouped by parent will undercount any family promoted through brand formats.
+Standalone products have no parent. How unified reporting fills the parent column for standalone items, with the child's own ASIN or with null, is not documented in sources available for this article.
+Catalogue drift is unresolved. Families are merged and split, and the timing of the lookup is not documented.
+Family size varies widely. Nova Analytics, a seller software company, states that Amazon allows up to 2,000 children per parent. Amazon documentation confirming that figure could not be located.
+Advertised product parent ID is not...
+Advertised product ID. The child ASIN that the ad actually promoted, formerly "Advertised ASIN" in sponsored ads reports. The parent ID groups these.
+Converted product parent ID. The parent of what the shopper bought, not what the ad showed. It applies to all five ad products and carries over the legacy DSP "Parent ASIN" name.
+Advertised product SKU. The seller's own stock-keeping code for the advertised item. A SKU identifies an offer from one seller; a parent ASIN identifies a catalogue family shared by every seller of it.
+Advertised product group. Amazon's broad product group classification, such as apparel or home, a category-like attribute rather than a family identifier.
+Recent developments
+Amazon updated its unified reporting dimensions reference on November 11, 2026, listing 156 attributes across 11 categories, and PPC Land's analysis on November 12 placed the advertised product group, parent ID included, on DVA+, Sponsored Display and Sponsored Products. The same week, Amazon confirmed that legacy reports become read-only on December 17, 2026. As of November 2026, Amazon has not published a definition for the field beyond its name, nor guidance on how it treats standalone ASINs or restructured families.
+Timeline
+- Late 1990s - Amazon introduces the ASIN to identify catalogue items beyond books.
+- October 12, 2021 - Amazon Vine begins charging fees per parent ASIN.
+- April 1, 2022 - Catalog Items API version 2022-04-01 exposes item classification and variation relationships.
+- August 2022 - Amazon's DSP self-service reporting guide defines parent and child ASINs and parent-level product reporting.
+- August 20 and 26, 2025 - Amazon announces, then narrows, removal of deprecated variation themes.
+- November 11, 2025 - Amazon Ads unified reporting opens in beta.
+- January 7, 2026 - Amazon announces restrictions on review sharing across variations.
+- February 12 to May 31, 2026 - Review sharing restrictions roll out by category.
+- June 8, 2026 - Unified reporting reaches general availability in the Ads Console.
+- September 29, 2026 - Amazon DSP name retired in favour of DVA; DVA+ enters US closed beta.
+- November 11, 2026 - Dimensions reference lists Advertised product parent ID among advertised product attributes.
+- December 17, 2026 - Legacy report creation and editing scheduled to stop.
+- January 31, 2027 - Unmigrated legacy reports scheduled for deletion.
+Related PPC Land coverage
+- 85 of Amazon's 156 unified report dimensions apply to Sponsored Products - The November 2026 field count, including which ad products the advertised and converted product attributes cover.
+- Explaining ASIN - The identifier's format, history and the parent-child structure of variation families.
+- Amazon halts variation theme cleanup after seller backlash - How Amazon narrowed its 2025 removal of deprecated variation themes.
+- Amazon splits variation reviews in bid to stop misleading ratings - The 2026 restriction of review sharing across variations.
+- Amazon advertisers will lose unmigrated reports on January 31, 2027 - The legacy report shutdown schedule.
+- Amazon launches unified reporting system across advertising products - The November 2025 beta launch.
+- Amazon Ads unified reporting exits beta - and takes two old tools with it - General availability in June 2026.
+Summary
+Who: Amazon

@@ -1,0 +1,49 @@
+URL: https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/researchanddevelopmentexpenditure/bulletins/businessenterpriseresearchanddevelopment/2025
+TITLE: Business enterprise research and development, UK: 2025
+OUTLET: Office for National Statistics
+
+- In current prices, expenditure on research and development (R&D) performed by UK businesses was £57.0 billion in 2025, an increase of £2.3 billion compared with 2024 (4.3%).
+- The software development product group made the largest contribution to the total of business R&D performed in 2025, with £11.5 billion (20.2% of total R&D performed by UK businesses).
+- London had the largest value of business R&D performed in 2025, which was £13.8 billion (24.1%), followed by the East of England at £10.8 billion (18.9%) and the South East at £9.1 billion (16.1%).
+- When measuring the value of R&D performed by industry rather than product group, the scientific research and development industry performed the most R&D in 2025 at £13.5 billion (23.6%), followed by the computer programming, consultancy and related activities industry at £8.7 billion (15.3%).
+From the 2022 reference period onwards, these statistics have been redesignated as accredited official statistics, so periods before 2022 are not included in this release. Read more in Section 4: Data sources and quality
+Business enterprise research and development, UK (designated as accredited official statistics)
+Dataset | Published 27 November 2026
+UK estimates of annual research and development (R&D) spending by UK businesses.
+Business enterprise research and development, quality measures, UK
+Dataset | Published 27 November 2026
+Quality measures for annual expenditure on research and development, as measured by the Business Enterprise Research and Development survey. 
+Research and development
+Research and development (R&D) is defined as creative and systematic work undertaken to increase the stock of knowledge – including knowledge of humankind, culture and society – and to devise new applications of available knowledge.
+Organisation for Economic Co-operation and Development
+The Organisation for Economic Co-operation and Development (OECD) is an international organisation of governments that exists to find solutions to social, economic and environmental challenges. Please visit the OECD website for more information.
+Frascati Manual
+The OECD's internationally recognised Frascati Manual 2015 sets out methodology for collecting and using R&D statistics. It includes definitions of basic concepts, data collection guidelines, and classifications for compiling R&D statistics.
+Inter-departmental Business Register
+The Inter-departmental Business Register (IDBR) is a database of businesses in the UK that is used as the sampling frame for Office for National Statistics (ONS) business surveys.
+Product group
+Product group is a category that relates to the type of R&D work performed by a business, which may or may not relate to the business's main activity.
+Standard Industrial Classification
+Standard Industrial Classification (SIC) is the industrial classification applied to the collection and publication of a wide range of economic statistics.
+Back to table of contents
+Northern Ireland research and development statistics
+Business enterprise research and development (BERD) statistics for Northern Ireland are compiled by the Northern Ireland Statistics Research Agency (NISRA).
+Regional estimates for Northern Ireland in this release can be slightly higher than the separate estimates published by NISRA. This is because a small proportion of research and development (R&D) is performed in Northern Ireland by businesses registered in Great Britain (GB). These businesses are in scope for the GB BERD survey and are excluded from the results published by NISRA. We have worked closely with NISRA to ensure no duplication exists as a result.
+Survey questions
+A summary of the survey questions is available in our Questions for Business Enterprise Research and Development Survey web page. There have been no changes to the survey questions since we launched the transformed BERD survey for the 2022 reference period.
+Revisions
+In this release, BERD estimates for the 2025 survey period are published for the first time, and there are now four years of data available based on consistent methodology.
+This has enabled us to conduct a more in-depth validation of the results since 2022. Combined with revised and late survey returns, we have been able to revise the data for the 2022, 2023 and 2024 periods based on this information.
+Time series
+We have been looking at ways to produce a comparable time series for BERD at more granular levels of detail. More detail on the options considered are available in our Update on transformation of research and development statistics article.
+We have explored a number of options to produce a back series for BERD, and we have factored in feedback from the main users of R&D statistics on the outputs. We have concluded that it is currently not possible to produce a comparable back series for BERD at the level of granularity required. As a result, we have decided to pause development work on this.
+As the length of the time series from the transformed BERD survey increases in future years, we may try to produce a comparable back series again. We would use a method that uses the recent BERD results directly in some way and that could address the volatility at the lower levels of granularity.
+Disclosure
+We have reviewed the statistical disclosure control processes in this release to ensure that the protection applied is up to date and that it meets the standards for safeguarding confidentiality provided in the Government Analysis Function's Statistical Disclosure Control for tables produced from surveys guidance.
+Accredited Official Statistics status
+The R&D statistics in this release have been redesignated as accredited official statistics following a review by the Office for Statistics Regulation (OSR). The reaccreditation covers all statistics in this release, whereas in previous releases, the total expenditure estimate was the only statistic to have accredited official statistics status.
+This follows the recent transformation work that delivered an improved sample design for BERD and incorporated new survey methodologies that addressed the under coverage in the BERD statistics previously identified.
+More quality and methodology information
+More quality and methodology information (QMI) on strengths, limitations, appropriate uses, and how the data were created is available in our Business enterprise research and development QMI.
+Back to table of contents
+Office for National Statistics (ONS), released 27 November 2026, ONS website, statistical bulletin, Business enterprise research and development, UK: 2025

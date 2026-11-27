@@ -1,0 +1,6 @@
+URL: https://www.eurekalert.org/news-releases/1152824
+TITLE: New USC study aims to develop AI tool to predict ICU patients’ mechanical ventilation needs
+OUTLET: EurekAlert!
+
+USC engineers and critical care physicians are developing an AI tool that could help solve one of the ICU’s most consequential dilemmas: determining how long critically ill patients will need mechanical ventilation and when a tracheostomy should be performed. Funded by the National Institutes of Health, the EPIPHANY project brings together experts from the USC Viterbi School of Engineering, Keck Medicine of USC and health technology company Bauhealth Inc. Using historical patient records, the team will train machine-learning models to forecast ventilation needs as far as three weeks in advance, potentially helping physicians avoid both premature procedures and prolonged dependence on breathing tubes. The project represents an early step toward what researchers describe as a “Google Maps for critical care”—a personalized AI decision-support system that could help clinicians navigate complex treatment choices and give patients and families greater clarity about what comes next.
+Disclaimer: AAAS and EurekAlert! are not responsible for the accuracy of news releases posted to EurekAlert! by contributing institutions or for the use of any information through the EurekAlert system.

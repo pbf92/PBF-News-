@@ -1,0 +1,19 @@
+URL: https://www.tradingview.com/news/tradingview:4efc03991414b:0-pharmacyte-biotech-sets-49-99-q-c-ownership-cap-and-extends-preferred-stock-maturity/
+TITLE: PharmaCyte Biotech Sets 49.99% Q/C Ownership Cap and Extends Preferred Stock Maturity
+OUTLET: TradingView
+
+PharmaCyte Biotech Sets 49.99% Q/C Ownership Cap and Extends Preferred Stock Maturity
+PharmaCyte Biotech amended its securities arrangements with Q/C Technologies, setting a 49.99% beneficial ownership limit on conversions of its Q/C preferred stock and exercises of certain warrants. Separately, PharmaCyte had consented to extend the maturity of Q/C's Series H preferred stock to September 2, 2027. Together, the amendments establish conversion and exercise limits while extending the Series H stock's maturity.
+Agreement 1: PharmaCyte Biotech Raises Q/C Ownership Conversion Cap to 49.99%
+- Agreement type: Omnibus amendment to preferred stock designations and warrants
+- Counterparty: Q/C Technologies
+- Signed / Effective: Nov 20 2026 / Nov 20 2026
+- Duration / Termination: At will
+- Reason: Set the beneficial ownership limit for preferred stock conversions and warrant exercises
+Agreement 2: PharmaCyte Biotech Extends Q/C Series H Preferred Stock Maturity to September 2027
+- Agreement type: Amendment extending Series H Convertible Preferred Stock maturity
+- Counterparty: Q/C Technologies
+- Signed / Effective: Nov 15 2026 / Nov 20 2026
+- Duration / Termination: Until Sep 02 2027
+- Reason: Extend the Series H preferred stock maturity by six months
+Original SEC Filing: PharmaCyte Biotech, Inc. [ PMCB ] - 8-K - Nov. 27, 2026

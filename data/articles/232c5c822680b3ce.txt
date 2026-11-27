@@ -1,0 +1,38 @@
+URL: https://www.androidpolice.com/gemini-memory-stalker-diary/
+TITLE: Gemini's memory can read like a stalker's diary, so here's what I won't let it keep on me
+OUTLET: Android Police
+
+How much should an AI assistant know about you? How much before it starts being a little too much?
+Mine isn't a blurry line. Google Gemini can know I like short answers, but it doesn't need my street address or my family's private business.
+Of course, having a line only helps if you can tell when it's been crossed. That's where Google's new Memory summary comes in.
+Reading it is like hearing someone describe you to a stranger. Most of it is fair. But some of it makes you wonder when you ever said that.
+Those are the parts I don't think any assistant should hang on to, however helpful it promises to be.
+Gemini doesn't need to know where I live
+"Essentials" is doing a lot of work
+The top section of the summary is called The Essentials. Google describes it as a "snapshot of your core background, location, and key relationships."
+Knowing my city helps when I ask for restaurant recommendations. Knowing my suburb is something I can live with. Knowing my street is a hard no, and so is knowing which cafe I go to every morning.
+I might hand over a precise location every once in a while to get one errand done. That doesn't mean I want it staying around as standing context for every unrelated question afterward.
+Google lets you update the summary with written prompts, including asking it to remove information.
+For my specific example, something like "Remove my address and the specific places I regularly visit from your memory" works.
+There's no magic wording here, so phrase it however you like. Then reopen the summary and look at the location entries. Iterate until you are satisfied with the results.
+My family isn't a background setting
+Other people never agreed to this
+The Essentials also covers key relationships. This is what bothered me most. This part is about people who never signed up for anything.
+If I ask Gemini about a gift or vent about someone, I don't want that chat turning into a standing profile of somebody else's life.
+Asking for a birthday present idea for my sister is a request for help. As far as I'm concerned, it's no license to build a family directory.
+Worse, it means I now have to wonder what kind of profile of me is in other people's Gemini. There's nothing I can do about other people's Gemini, short of asking nicely.
+So this is me asking nicely. If you know me, please run this. The instruction I'd use is "Remove the details about my family and personal relationships from your memory."
+If you'd rather do a narrower cleanup, point to the specific relationship or entry already showing in the summary. Don't feed it fresh private details to explain what you mean (that kind of defeats the purpose).
+Old work shouldn't shape new answers
+Stale context turns into wrong assumptions
+The third section is Career & Professional Projects. Yesterday's useful context goes stale fast. A finished project is no longer my assignment.
+A former employer is no longer my employer. If I ask for help on something new, I don't want an old client's audience or priorities bleeding into the answer.
+Imagine asking Gemini to polish your resume for a new role. If it still thinks you work at the company you left last year, you could end up with your old job listed as your current one.
+For a bigger cleanup, tap the pencil icon in the summary's top-right corner. You can fix the whole thing in one go rather than changing it one message at a time.
+Delete the obsolete project bullets and rewrite any outdated career descriptions first. In my case, Gemini still listed the project I designed for High For Life, a bouldering club I was part of.
+That club doesn't exist anymore, and neither does any reason for Gemini to keep it. I opened the editor, selected the line, and removed it.
+Turn off Memory to stop new entries
+If babysitting this summary sounds like unpaid work, you can switch Memory off under Settings > Personal Intelligence. I'm not ready to give up the personalization entirely. I doubt most people are.
+Problem is you never know what Gemini has picked up until you look. A throwaway chat about a gift or a work deadline can become part of your profile.
+Make it a quarterly habit, along with the rest of your digital hygiene routine. And for anything you'd rather Gemini never learned in the first place, use Temporary chat.
+These conversations won't show up in recent chats or Keep Activity, and they won't be used to personalize Gemini or train its AI models.

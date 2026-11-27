@@ -1,0 +1,17 @@
+URL: https://www.tradingview.com/news/stocktwits:c60802be4094b:0-openai-reportedly-fires-back-at-apple-over-trade-secrets-and-hardware-suppliers/
+TITLE: OpenAI Reportedly Fires Back At Apple Over Trade Secrets And Hardware Suppliers
+OUTLET: TradingView
+
+OpenAI Reportedly Fires Back At Apple Over Trade Secrets And Hardware Suppliers
+- OpenAI also claims a former OpenAI worker who returned to Apple disclosed information about OpenAI’s product plans.
+- The dispute deepens a rift between the two companies, which partnered to integrate ChatGPT into iPhones two years ago before OpenAI bought former Apple design chief Jony Ive’s studio, io, for $6.4 billion.
+- The filing follows Apple’s summer allegations that former staffers, including OpenAI chief hardware officer Tang Tan, leaked confidential product and supply chain data.
+OpenAI has countersued Apple with a California lawsuit accusing the iPhone maker of stealing trade secrets and squeezing hardware suppliers to block rival devices, the FT reported on Friday.
+The complaint escalates a bitter legal clash between two Silicon Valley powerhouses that teamed up two years ago to bring ChatGPT into the iPhone. The filing comes after OpenAI’s $6.4 billion acquisition in May 2025 of io, a design studio led by former Apple design chief Jony Ive, as the artificial intelligence company prepares personal devices aimed at challenging Apple on its home turf.
+Supply Chain Pressure And Talent Claims
+OpenAI alleges that Apple is leveraging its financial scale and market weight to choke off competition and intimidate vendors that could assist with OpenAI’s new hardware. While Apple has long used upfront payments to secure scarce manufacturing capacity and cutting-edge chips, OpenAI contends the company has gone further by threatening and coercing suppliers working with both firms.
+The AI company also claims a former OpenAI worker who returned to Apple disclosed information about OpenAI’s product plans and vendor relationships.
+Earlier Lawsuit
+Friday’s filing mirrors and counters allegations Apple raised in July against several departing employees, including OpenAI chief hardware officer Tang Tan, whom Apple accused of sharing confidential product development and supply chain details. Apple also claimed a former engineer took advantage of a network storage vulnerability to take proprietary files after leaving.
+OpenAI rejected those claims in August, calling Apple’s suit an effort to curb its hiring of Apple talent. In its latest court filing, OpenAI argued that Apple pushed staff to keep work files on personal devices and cloud accounts, likening employment in Cupertino to a trap where workers can check out yet never truly leave.
+On Stocktwits, retail sentiment on OpenAI was ‘neutral’ with ‘high’ message volumes.

@@ -1,0 +1,65 @@
+URL: https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/householdcostsindicesforukhouseholdgroups/julytoseptember2026
+TITLE: Household Costs Indices for UK household groups: July to September 2026
+OUTLET: Office for National Statistics
+
+- Costs for low-income households (income decile 2) increased by 4.1% in the year to September 2026; this is higher than the increase of 3.7% for high-income households (income decile 9) over the same period.
+- The difference in the annual rate of inflation between high- and low-income households is now 0.4 percentage points; this is the highest it has been since June 2025.
+- Costs for social and other renters increased by 4.1% in the year to September 2026; this is higher than the increase for private renters (3.9%), mortgagor owner occupier and other owner occupiers (3.9%), and outright owner-occupiers (3.8%).
+These are official statistics in development. We advise caution when using these data, as estimates may be revised because of methodological improvements. Priorities for development are discussed with our Advisory Panels. For more information, see Section 8: Data sources and quality.
+The Household Costs Indices (HCIs) show how changing prices and costs affect different household subgroups of the population. They are different from the Consumer Prices Index including owner occupiers' housing costs (CPIH) and the Consumer Prices Index (CPI), which show how the prices of goods and services consumed by all households in the UK change over time. The HCIs are intended to complement our lead measures of inflation, CPIH and CPI, by providing insight into the inflationary experience of different household subgroups. More details on this are available in Section 5: Relation to consumer price inflation measures.
+Overall, costs for all the subgroups measured by the HCIs saw an increase in the annual rate of inflation between June and September 2026 (Table 1). Low-income households (income decile 2) saw household costs rise by 4.1% in the year to September 2026, up from a rate of 2.7% in the year to June 2026. This household group, alongside social and other renters, had the joint largest increase in their annual inflation rate between the end of Quarter 2 (Apr to June) 2026 and the end of Quarter 3 (July to Sept) 2026, at 1.4 percentage points.
+Quarter 3 leads into a period in which households are more reliant on energy to heat their homes. This was the largest June to September increase in inflation for low-income households since 2008, when the rate rose by 1.8 percentage points.
+Download this table Table 1: Household Costs Indices annual inflation rates, per cent, UK, June 2026 to September 2026
+.xls .csv
+Over Quarter 3 (July to Sept) 2026, low-income households (income decile 2) experienced higher annual inflation than high-income households (income decile 9). Annual inflation increased each month in the quarter, and low- and high-income households saw annual inflation rise to 4.1% and 3.7%, respectively. By September, annual inflation for low-income households was 0.4 percentage points higher than for high-income households.
+In contrast, in the year to June 2026, low-income households experienced lower inflation than high-income households, at 2.7% and 2.8%, respectively (Figure 1).
+Figure 1: Low-income household costs rose by 4.1% in the 12 months to September 2026, while high-income household costs rose by 3.7%
+Household Costs Indices (HCIs) annual inflation rates by income decile, per cent, UK, September 2016 to September 2026
+Source: Household Costs Indices from the Office for National Statistics
+Notes:
+- The second and ninth deciles are used to represent low- and high-income households rather than the first- and tenth-income deciles, as the composition of these groups can be unusual and may, therefore, be influenced by unrepresentative expenditures.
+Download this chart Figure 1: Low-income household costs rose by 4.1% in the 12 months to September 2026, while high-income household costs rose by 3.7%
+Image .csv .xls
+The increases in the annual rate for both low- and high-income households are largely because of increases to costs for housing and utilities. Electricity, gas and other fuels contributed 0.46 percentage points and 0.24 percentage points to the annual rate for low- and high-income households in September 2026, respectively. Electricity, gas and other fuels have a higher expenditure weight for households in income decile 2 than for households in income decile 9.
+This follows the Office of Gas and Electricity Markets' (Ofgem's) rise in the energy price cap in July 2026. The illustrative annual cap (which limits unit rates and standing charges) for a typical dual-fuel household paying direct debit rose by an estimated 13%, compared with the 7% reduction in the annual cap in April 2026. The changes implemented in July were larger for gas than for electricity, with Ofgem estimating increases of around 24% and 5%, respectively, largely because of higher wholesale gas prices.
+In August 2026, Ofgem announced a further 4% increase to the energy price cap from 1 October 2026. The announcement also reflected changes to Value Added Tax (VAT) on domestic energy. Any effects on household costs from this further increase to the price cap and the changes to VAT will be included in our next release, covering October to December 2026.
+Following the previous rise in the energy price cap in July, the contribution from electricity, gas and other fuels had increased for both low- and high-income households. Between June and September 2026, this contribution increased by 0.84 percentage points for low-income households, from negative 0.38 to positive 0.46 percentage points. This compares with an increase of 0.43 percentage points for high-income households, from negative 0.19 to positive 0.24 percentage points (Figure 2).
+Figure 2: Electricity, gas and other fuels made the largest contribution to the change in annual inflation for both low- and high-income households
+Contributions to change in the Household Costs Indices (HCIs) annual rate, low-income (decile 2) and high-income (decile 9) households, UK, June to September 2026
+Source: Household Costs Indices from the Office for National Statistics
+Notes:
+- Individual contributions may not sum to the total because of rounding.
+- The "Other" category contains all the remaining divisions measured in the HCIs that are not explicitly listed as a category in this chart.
+- The "Actual rentals" category contains private rentals, non-private rentals and UK holiday rentals for housing.
+Download this chart Figure 2: Electricity, gas and other fuels made the largest contribution to the change in annual inflation for both low- and high-income households
+Image .csv .xls
+Electricity, gas and other fuels represent a larger proportion of the expenditure of low-income households than that of high-income households. This means that changes in these prices have a greater effect on the inflationary experience of low-income households. Contributions from housing, water, electricity, gas and other fuels to annual inflation were 0.45 percentage points higher for low-income households than for high-income households in September 2026, compared with 0.02 percentage points in June 2026 (Figure 3).
+Figure 3: Housing, water, electricity, gas and other fuels contributed to higher annual inflation for low-income households than for high-income households in September 2026
+Contributions to the difference between the Household Costs Indices (HCIs) annual rate, low-income households minus high-income households, UK, January 2025 to September 2026
+Source: Household Costs Indices from the Office for National Statistics
+Notes:
+- Contributions to the difference between subgroups may not sum to the overall difference because of rounding.
+- The "Other" category contains all the remaining divisions measured in the HCIs that are not explicitly listed as a category in this chart.
+- Positive contributions to the difference are contributing to higher inflation for low-income households (decile 2) or lower inflation for high-income households.
+- Negative contributions to the difference are contributing to higher inflation for high-income households (decile 9) or lower inflation for low-income households.
+Download this chart Figure 3: Housing, water, electricity, gas and other fuels contributed to higher annual inflation for low-income households than for high-income households in September 2026
+Image .csv .xls
+Transport provided the second largest contribution to the change in the annual inflation rate between June and September 2026 for both low- and high-income households, at 0.20 and 0.14 percentage points, respectively (Figure 2). Transport contributed 0.10 percentage points more to the household cost inflation of low-income households in the year to September 2026 than to that of high-income households, compared with 0.05 percentage points in the year to June 2026 (Figure 3).
+The change in the difference for transport between June and September 2026 is much smaller than that seen for housing, water, electricity, gas and other fuels. This reflects the difference in proportional expenditure on transport between low- and high-income households, and the fact that transport prices did not increase as much over the quarter.
+Mortgage interest payments also contributed to the rise in the annual inflation rate for both low- and high-income households in September 2026, at 0.06 and 0.22 percentage points, respectively (Figure 2). However, the difference in contribution changed by negative 0.04 percentage points, from negative 0.12 percentage points in June 2026 to negative 0.16 percentage points in September 2026 (Figure 3).
+Back to table of contents
+By tenure type
+Social and other renters experienced the highest annual inflation to their household costs, at 4.1% in September 2026, compared with other household subgroups by tenure type (Figure 4).
+Figure 4: Social and other renters saw the highest annual inflation rate by tenure type, at 4.1% in September 2026
+Household Costs Indices (HCIs) annual inflation rates by tenure type, per cent, UK, September 2016 to September 2026
+Source: Household Costs Indices from the Office for National Statistics
+Download this chart Figure 4: Social and other renters saw the highest annual inflation rate by tenure type, at 4.1% in September 2026
+Image .csv .xls
+Annual inflation for social and other renters was 0.2 percentage points higher than for private renters in September 2026, compared with it being 0.3 percentage points lower in June, when their rates were 2.7% and 3.0%, respectively. This represents a 0.5 percentage point increase in the annual inflation gap. The increase in the gap was largely caused by rising electricity, gas and other fuel costs, which make up a larger share of expenditure for social and other renters.
+Mortgage holders and outright owner-occupiers saw household costs rise by similar amounts in the year to September 2026, with annual inflation rates of 3.9% and 3.8%, respectively. This narrowing of the annual inflation rate gap between mortgage holders and outright owner-occupiers, from 0.2 percentage points in June 2026, was also largely caused by increases in energy costs. Because energy costs make up a larger proportion of expenditure for retired households, increases in energy prices have a greater effect on their inflation rate. In contrast, mortgage interest payments make up a larger proportion of expenditure for non-retired households.
+By retirement status
+Non-retired households experienced higher annual inflation than retired households in September 2026, at 3.9% and 3.7%, respectively (Figure 5). This marks a narrowing in the annual inflation rate gap between the two household subgroups, to 0.2 percentage points in September 2026, compared with a 0.4 percentage point difference in June 2026.
+Figure 5: Non-retired households saw higher annual inflation, at 3.9%, than retired households, at 3.7%, in September 2026
+Household Costs Indices (HCIs) annual inflation rates by retirement status, per cent, UK, September 2016 to September 2026
+Source: Household Costs Indices from the Office for National Statistics
+Downl

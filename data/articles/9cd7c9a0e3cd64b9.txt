@@ -1,0 +1,26 @@
+URL: https://cryptobriefing.com/openai-lenovo-chatgpt-business-credits/
+TITLE: OpenAI offers ChatGPT Business credits to Lenovo PC users with preinstalled app
+OUTLET: Crypto Briefing
+
+Eligible Lenovo owners can unlock $100 in workspace credits, but only if ChatGPT shipped on the machine from the factory
+OpenAI is paying businesses to open an app that is already on their laptops. Owners of eligible Lenovo Windows PCs with ChatGPT preinstalled can now earn $100 in ChatGPT Business credits by signing in through that desktop app.
+OpenAI’s help center lays out the offer. The terms differ depending on whether a company already pays for ChatGPT Business or is starting from scratch.
+How the Lenovo offer works
+There are two paths. The first is for organizations that already run a ChatGPT Business workspace.
+Those users open the preinstalled ChatGPT desktop app on their Lenovo machine and log in to their existing workspace. An eligible sign-in adds $100 in total to the workspace balance.
+Note the word “total.” The workspace gets one flat credit, and individual employees signing in do not add to it.
+The second path is for new customers. Anyone who creates a new Business workspace through the eligible app can earn $100 for each seat purchased within the first 90 days.
+There is a catch. The credits must be used within 60 days of being issued.
+AI, tech, and the markets they move—in one daily briefing.
+Daily. Free. Join 34,000+ readers across crypto, finance, and policy.
+The fine print on eligibility
+The promotion applies only to Lenovo devices that came with ChatGPT preinstalled. Installing the app yourself on a Lenovo machine does not count, and other installation methods don’t either.
+OpenAI’s guidance tells users who are unsure about their device to check with Lenovo support. Workspaces also have to meet specific eligibility rules tied to the Lenovo installation.
+The two companies have not disclosed a formal alliance, a joint press release or revenue-sharing terms. The program looks like a direct promotion from OpenAI to users, not a broad corporate partnership.
+What this means for OpenAI and Lenovo
+For OpenAI, the promotion is a way to win workplace customers. The research findings describe it as an effort to boost ChatGPT Business adoption and build loyalty among new customers in a competitive AI market.
+The per-seat credit for new workspaces shows what OpenAI wants most. It rewards buyers who add more seats early, instead of starting with one or two to test the product.
+The 90-day window for seat purchases and the 60-day expiry on credits push the same way. Both shorten the time companies have to decide, so they commit and start using the product quickly instead of letting it become a forgotten line item.
+For businesses considering the offer, the practical questions are simple. Does the device actually qualify, and can the team realistically use the credits inside 60 days?
+Companies already paying for ChatGPT Business get a modest bonus for a few seconds of effort. New customers planning a team rollout have more reason to look closely, since they get a credit for every seat bought in the first 90 days.
+Disclosure: This article was edited by Diego Almada Lopez. For more information on how we create and review content, see our Editorial Policy.

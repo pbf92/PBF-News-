@@ -1,0 +1,68 @@
+URL: https://ppc.land/advertised-product-id/
+TITLE: Advertised product ID
+OUTLET: PPC Land
+
+Advertised product ID is a reporting dimension in Amazon Ads that records which product an ad was promoting. Its value is the product's ASIN, the Amazon Standard Identification Number, a 10-character code that Amazon assigns to every item in its catalogue. When a report is broken down by Advertised product ID, each row shows the spend, impressions, clicks and sales tied to one promoted product. The field exists because a single campaign or ad group can promote dozens of products, and an advertiser needs to know which of them absorbed the budget and which produced the orders.
+In the older sponsored ads consoles, the same column was called Advertised ASIN. Amazon renamed it as part of unified reporting, the system that brings Sponsored Products, Sponsored Display and the display, video and audio products formerly sold as Amazon DSP into one set of reports.
+Where the field sits
+Amazon's dimensions reference for unified reporting, updated on November 11, 2026, lists 156 dimension attributes across 11 categories. Advertised product ID belongs to a Product category of 18 attributes, which splits into two families.
+The advertised product family has nine fields:
+- Advertised product ID
+- Advertised product name
+- Advertised product parent ID
+- Advertised product brand
+- Advertised product category
+- Advertised product subcategory
+- Advertised product group
+- Advertised product marketplace
+- Advertised product SKU
+A parallel converted product family describes the item a shopper actually bought, which is not always the item in the ad. Product relevance, formerly "ASIN conversion type" in Amazon DSP, sits alongside both and separates direct sales of the promoted item from so-called halo sales of other items.
+By PPC Land's reading of the reference, the advertised product fields carry markers for DVA+, Sponsored Products and Sponsored Display, but not for Sponsored Brands or Sponsored TV. Where a dimension does not apply to an ad product, Amazon says "its value appears as null". A Sponsored Brands row grouped by Advertised product ID will therefore carry no product value.
+How the value is populated
+The mechanics follow from how Amazon ads are built. In a Sponsored Products campaign, the advertiser adds products to an ad group; each product added becomes a "product ad", keyed by ASIN and, for sellers, by SKU (stock keeping unit, the seller's own inventory code). When a product ad wins an auction and serves, every impression, click and attributed sale is logged against that ad's ASIN. Advertised product ID is that ASIN, surfaced as a column.
+Sponsored Display and DVA+ campaigns also promote products, but often several at once in one creative. Amazon's 2022 self-service reporting guide for Amazon DSP describes conversions being tracked "after promoted ASINs are associated to an order", the DSP term for what unified reporting calls a campaign. The guide's product report sample includes a "Promoted ASIN" column next to "ASIN", "Parent ASIN" and "ASIN conversion type". The unified reference gives no DSP former name for Advertised product ID, so whether the field inherits the DSP "Promoted ASIN" value has not been confirmed by Amazon.
+The ASIN itself has a fixed shape. It is 10 alphanumeric characters, and most begin with "B0" because the counter started at B000000000; a book with a 10-digit ISBN uses its ISBN as its ASIN, as PPC Land's ASIN explainer sets out. Amazon's guide says ASINs cover "product variations and product versions", which matters for reporting: a T-shirt sold in five sizes and four colours has 20 child ASINs, each with its own Advertised product ID, grouped under one non-buyable parent recorded in Advertised product parent ID.
+A worked example shows the effect. Suppose an ad group promotes three child ASINs of a running shoe and spends $1,000 in a week. Grouped by Advertised product ID, the report might show $620 on the size 10 black variant with 31 orders, $280 on the white variant with 6 orders and $100 on the red variant with none. At campaign level, the week is one line: $1,000 and 37 orders. The figures are illustrative.
+Sales the ID does and does not capture
+Amazon's definitions are short. In its Sponsored Products and Sponsored Display report pages, Advertised ASIN is "The ASIN associated to an advertised product", and Advertised SKU is "The SKU being advertised", according to the Amazon Ads Support Center.
+The harder question is which sales a row includes. Amazon's advertised product report page says its click-based total sales cover "promoted products and products from the same brands as the promoted products" bought within 14 days of the click. A separate purchased product report lists "non-advertised SKUs a customer purchased after clicking your ad", with columns such as "Sales (halo)", formerly "7 day other SKU sales". Amazon warns there that its totals will not match campaign totals, and points readers to the advertised product report "for product totals on advertised products".
+In other words, a sale credited to an Advertised product ID row is not necessarily a sale of that product. In unified reporting, the split is made explicit by pairing Advertised product ID with Converted product ID and Product relevance. Converted product ID was "Purchased ASIN" in sponsored ads and "ASIN" in Amazon DSP, by PPC Land's count.
+Origin and evolution
+The ASIN predates Amazon's ad business. Amazon opened on July 16, 1995 indexing books by ISBN and later introduced the ASIN to cover goods without one. Sponsored Products, the first ad format built on it, launched in 2012; the advertised product report, with its Advertised ASIN and Advertised SKU columns, became the standard way to see product-level results.
+Amazon's programmatic tool took a different path. It was called the Amazon Advertising Platform until September 2018, when it was renamed Amazon DSP, and its product report used "Promoted ASIN" and "ASIN conversion type", with "Promoted" and "Brand halo" as the two conversion types, according to the 2022 reporting guide. Sponsored Brands added an ASIN-level breakdown much later: Amazon announced its Attributed Purchases report on June 6, 2023, for book publishers' campaigns created after February 11, 2023.
+Unified reporting brought these vocabularies together. It launched in beta in November 2025 and exited beta on June 8, 2026. On September 29, 2026, Amazon DSP was renamed DVA and DVA+ was introduced as a combined campaign type. The November 11, 2026 dimensions reference is the first public listing of Advertised product ID by that name.
+Why it matters
+Product-level reporting is where most Amazon budget decisions are made. Sellers with many variants use advertised product data to decide which items deserve more spend; a July 2026 Amazon Ads tutorial covered by PPC Land showed how to spot best- and worst-performing ASINs by comparing click-through and conversion rates per advertised ASIN with business-report data for unadvertised ones.
+The rename matters for data pipelines. Agencies and software vendors that pull Amazon reports into warehouses have built joins on a column called Advertised ASIN, and on the DSP's Promoted ASIN. One field across ad products lets Sponsored Products and DVA+ results for the same item sit in one table, once old mappings are rewritten.
+The deadline is close. Amazon plans to shut down legacy reporting pages on January 31, 2027, after earlier stating December 31, 2026. From then on, product-level ad results in the console come through unified fields such as this one.
+Limitations and disputes
+The mapping is untidy. PPC Land's reading of the reference maps Advertised product name to the former "Advertised SKU" field, while the separate Advertised product SKU dimension has no former name. A product name and a seller SKU are different things, so one of those mappings is likely to confuse anyone migrating old reports. The same analysis notes that Advertised product name carries only the Sponsored Products marker, which conflicts with the three-product coverage of the rest of the family.
+Coverage is uneven. Sponsored Brands campaigns promote products too, often three or more in a single headline ad, yet the advertised product fields are not marked for them. Amazon's support pages blur the lines too: the page titled "Advertised product report for Sponsored Display" says it serves Sponsored Products as well.
+The attribution question remains the main criticism. Because click-based sales on an advertised product row include same-brand purchases, a cheap ASIN with a high click-through rate can appear to drive revenue that actually came from a more expensive sibling. Third-party tools such as Intentwise note that the advertised product report does not itself break out brand halo. Reading the dimension without Product relevance can therefore overstate what a single product ad achieved.
+Advertised product ID is not...
+Converted product ID. The converted product is the item a shopper bought after an ad interaction. It equals the advertised product only when the sale is a direct one; otherwise it is a halo sale.
+Advertised product SKU. A SKU is the seller's own code for an offer and can differ between sellers of the same ASIN. Advertised product ID is Amazon's catalogue identifier and is the same for every seller.
+Advertised product parent ID. The parent ID groups variations under one listing. The parent cannot be bought or advertised on its own; the ID field holds the child.
+Ad ID. Ad ID identifies the ad itself, formerly "Creative ID" in DVA+. One ad can promote several products, each with its own Advertised product ID.
+Recent developments
+The Product category became visible on November 11, 2026, when Amazon updated its dimensions reference; PPC Land analysed it on November 12, noting that Sponsored TV is marked on many attributes while also being described as not yet supported. Amazon has also limited daily unified reports to 120 days of a 24-month history, which caps how far back day-by-day product rows can be pulled in one report.
+Timeline
+- July 16, 1995: Amazon opens, indexing books by ISBN; the ASIN follows as a catalogue key.
+- 2012: Sponsored Products launches, built on product ads keyed by ASIN.
+- September 2018: Amazon Advertising Platform is renamed Amazon DSP; its product report uses "Promoted ASIN".
+- August 2022: Amazon's DSP self-service reporting guide documents "Promoted ASIN" and "ASIN conversion type" (Promoted / Brand halo).
+- June 6, 2023: Amazon announces the ASIN-level Attributed Purchases report for Sponsored Brands book publishers.
+- November 2025: Unified reporting opens in beta.
+- June 8, 2026: Unified reporting reaches general availability.
+- September 29, 2026: Amazon DSP is renamed DVA; DVA+ is introduced.
+- November 11, 2026: Amazon's dimensions reference lists Advertised product ID, formerly Advertised ASIN, in a nine-field advertised product family.
+- January 31, 2027: Scheduled shutdown of legacy reporting pages.
+Related PPC Land coverage
+- 85 of Amazon's 156 unified report dimensions apply to Sponsored Products - The November 2026 dimensions reference, the Product category and the former names of advertised and converted product fields.
+- Explaining ASIN - The format, origin and parent-child structure of the identifier that fills Advertised product ID.
+- How sellers can spot best and worst performing Amazon ASINs - An Amazon Ads tutorial on comparing advertised ASINs by CTR and conversion rate.
+- Amazon launches unified reporting system across advertising products - The November 2025 beta launch of the reporting system.
+- Amazon Ads unified reporting exits beta and takes two old tools with it - General availability in June 2026.
+- Amazon advertisers will lose unmigrated reports on January 31, 2027 - The legacy reporting shutdown timeline.
+- Amazon limits daily unified reports to 120 days of its 24-month history - Data-window limits that apply to daily product-level rows.
+- Unified reporting - PPC Land's explainer on the report

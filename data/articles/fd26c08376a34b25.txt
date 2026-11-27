@@ -1,0 +1,30 @@
+URL: https://www.eurekalert.org/news-releases/1153459
+TITLE: Why can’t the heart repair itself? CNIC study reveals a fundamental trade-off between beating and regeneration
+OUTLET: EurekAlert!
+
+The research reveals a fundamental biological trade-off at the core of heart function. To maintain the continuous contractions required to sustain life, heart muscle cells, known as cardiomyocytes, sacrifice much of their ability to divide and regenerate.
+Published today in Nature Cardiovascular Research, the study demonstrates that the mechanical activity of cardiomyocytes acts as a barrier to regeneration. The findings identify a previously unknown connection between contraction, energy metabolism, and cell division, providing new insight into one of the greatest challenges in cardiovascular medicine.
+“The heart has evolved to prioritize continuous function over regeneration,” says Dr. Florian Weinberger, group leader of the Cardiac Tissue Engineering and Regenerative Therapies Laboratory at CNIC and senior author of the study. “Our findings show that cardiomyocytes face a fundamental biological trade-off: the very machinery that enables them to contract and sustain life also prevents them from dividing and replacing damaged tissue.”
+Unlike tissues such as the skin or liver, which can readily replace damaged cells, the adult heart has very limited regenerative capacity. This ability is rapidly lost shortly after birth, precisely when the heart begins to experience increased workload as it adapts to life outside the womb.
+To investigate whether the heart’s constant mechanical activity contributes to this loss of regeneration, the CNIC team examined cardiomyocytes across multiple experimental systems, including human stem cell-derived heart cells, engineered heart tissue, living myocardial slices, and animal models.
+The researchers found that when cardiomyocyte contraction was temporarily inhibited, the cells underwent dramatic changes. Their highly organized contractile structures, known as sarcomeres, became disassembled, and the cells re-entered the cell cycle, showing a significantly increased capacity to divide.
+Remarkably, when contraction was restored, the process reversed. The sarcomeres reassembled, and the cells once again exited the cell cycle, losing their ability to proliferate.
+Further analyses revealed that these structural changes were accompanied by a profound shift in cellular metabolism.
+When cardiomyocytes stopped contracting, they adopted a more glycolytic metabolic state, relying less on the energy-demanding processes needed to sustain continuous contraction. This metabolic reprogramming appeared to create conditions that allowed the cells to re-enter the cell cycle and divide.
+Conversely, the return of contractile function restored the mature metabolic profile of cardiomyocytes and reinforced their non-dividing state.
+“For decades, scientists have tried to understand why the adult heart is so poor at repairing itself,” says Rajiven Srikantharajah, student at CNIC funded by a ‘la Caixa’ Foundation fellowship. “We provide evidence that contraction is not simply incompatible with cell division but actively suppresses the regenerative potential of heart muscle cells. Understanding this relationship opens exciting opportunities to develop new strategies for cardiac repair”, explains Rajiven Srikantharajah.
+The findings provide strong evidence that contraction itself plays a central role in controlling the regenerative potential of heart muscle cells.
+Rather than being an immutable characteristic of the adult heart, the inability of cardiomyocytes to proliferate may be actively maintained by the structural and metabolic demands of contraction.
+Although the findings do not immediately translate into clinical therapies, they identify new biological mechanisms that could be targeted to promote cardiac repair after conditions such as myocardial infarction or heart failure.
+By uncovering how mechanical function, metabolism and cell-cycle regulation are interconnected, the study opens a promising new field of research aimed at enhancing the heart's natural regenerative potential.
+“While we are still a long way from regenerative therapies for patients, these findings reveal a new biological principle that could help guide future approaches to heart repair after a heart attack or in heart failure,” adds Nancy Shehata, student at the University Medical Center Hamburg and a visiting scientist at CNIC. “If we can learn how to temporarily unlock the proliferative capacity of cardiomyocytes without compromising heart function, we may eventually be able to stimulate the heart’s own regenerative potential.”, conclude the authors.
+Journal
+Nature Cardiovascular Research
+Method of Research
+Experimental study
+Subject of Research
+Cells
+Article Title
+Contraction governs cardiomyocyte cell cycle activity
+Article Publication Date
+27-Nov-2026

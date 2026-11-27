@@ -1,0 +1,24 @@
+URL: https://www.tradingview.com/news/tradingview:560ce1b8ebaad:0-propanc-biopharma-arranges-3-million-convertible-note-financing-for-2-1-million/
+TITLE: Propanc Biopharma Arranges $3 Million Convertible Note Financing for $2.1 Million
+OUTLET: TradingView
+
+Propanc Biopharma Arranges $3 Million Convertible Note Financing for $2.1 Million
+Propanc Biopharma agreed to issue convertible notes with $3 million in aggregate principal and warrants for a total subscription amount of $2.1 million, including $2 million in cash from Eleven 11 Management and $100,000 in credits from Hexstone Capital. At the initial November 20 closing, the company issued notes totaling $2.22 million in principal and warrants for 1,268,573 shares; an additional $780,000 in subscriptions is planned for a second closing subject to conditions. The notes carry 14% annual interest, mature August 20, 2027, and have an initial conversion price of $1.75 per share. Hexstone also waived certain existing restrictions and consented to the transactions.
+Agreement 1: Propanc Biopharma Secures $2 Million Cash Financing From Eleven 11
+- Agreement type: Securities purchase agreement for convertible notes and warrants
+- Counterparty: Eleven 11 Management
+- Signed / Effective: Nov 20 2026 / same
+- Duration / Termination: Notes mature Aug 20 2027; warrants expire four years after issuance
+- Reason: Raise financing through convertible notes and warrants
+Agreement 2: Propanc Biopharma Arranges $100,000 Hexstone Subscription Through Credits
+- Agreement type: Securities purchase agreement for convertible notes and warrants
+- Counterparty: Hexstone Capital
+- Signed / Effective: Nov 20 2026 / same
+- Duration / Termination: Notes mature Aug 20 2027; warrants expire four years after issuance
+- Reason: Provide financing through credited subscription consideration
+Agreement 3: Propanc Biopharma Obtains Hexstone Consent and Waiver for Financing
+- Agreement type: Limited consent and waiver agreement
+- Counterparty: Hexstone Capital
+- Signed / Effective: Nov 20 2026 / same
+- Reason: Enable the financing and credit Hexstone's subscription amount
+Original SEC Filing: Propanc Biopharma, Inc. [ PPCB ] - 8-K - Nov. 27, 2026

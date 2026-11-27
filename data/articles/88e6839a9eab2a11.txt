@@ -1,0 +1,60 @@
+URL: https://ppc.land/product-relevance/
+TITLE: Product relevance
+OUTLET: PPC Land
+
+Product relevance is a dimension in Amazon Ads unified reporting that labels each attributed purchase by its relationship to the ad. Either the product a shopper bought was one the campaign directly promoted, or it was a different product credited to the ad because it is related to what was promoted. Amazon's Support Center describes the field as indicating "whether the product was directly promoted in the campaign or attributed based on relevance to promoted products (halo)", as quoted in PPC Land's count of the 156 unified report dimensions. The field exists because Amazon credits ads with more than sales of the advertised item, and advertisers need a way to separate the two kinds of credit before deciding what an ad actually sold.
+What the field records
+Every Amazon ad campaign is tied to a set of products, identified by ASINs (Amazon Standard Identification Numbers, the 10-character codes Amazon assigns to each listing). Amazon's attribution then credits purchases that follow an ad view or click within a set window. Some of those purchases are of the exact products in the campaign. Others are not.
+Product relevance sorts the second group from the first. A row tagged as promoted means the converted product matched a product the advertiser put in the campaign. A row tagged as halo means the shopper bought something else, and Amazon's rules still attributed that sale to the ad. It carries no number of its own; it splits metrics such as purchases, units sold and sales into two buckets.
+It is most useful read alongside two other families of fields. The advertised product dimensions describe what the campaign promoted. The converted product dimensions describe what was actually bought. Product relevance states how the two relate on a given row. When the advertised product ID and the converted product ID are the same, the row is promoted. When they differ, it is halo.
+How halo is defined by ad product
+The halo label hides real differences between Amazon's ad products.
+In the demand-side platform, renamed DVA in September 2026, halo has a brand definition. Amazon's DSP self-service reporting guide, dated August 2022, says brand halo covers conversions on ASINs with the same brand name as the promoted ASINs, with the brand identified by the name in the product byline. Attribution runs on a last-touch model with a 14-day lookback window, according to the guide, with clicks taking priority over views. Metrics for halo products carry the suffix "BH", and "Total" metrics add the two: the guide gives "Total DPV = DPV + DPV BH", where DPV means detail page views.
+Sponsored Brands uses a similar idea tied to landing pages. Amazon's attributed purchases report for the format separates products directly promoted by the campaign, meaning those on the landing page, from products indirectly attributed through brand halo, based on the brands of the landing-page ASINs. The report's "Attribution type" column carries that split, using 14-day windows.
+Sponsored Display folds halo into its totals. The advertised product report describes "14 Day Total Sales - (Click)" as covering both promoted products and products from the same brands.
+Sponsored Products is the outlier. Its purchased product report lists non-advertised ASINs bought after an ad click, in columns now named "Sales (halo)" and "Units sold (halo)", formerly "7 day other SKU sales" and "7 day other SKU units". Here halo means any product other than the one advertised, measured over 7 days from a click. Amazon help documentation cited in PPC Land's Total ROAS explainer states that sellers' Sponsored Products campaigns attribute no brand halo at all, while vendor Sponsored Products, Sponsored Brands, Sponsored Display and Sponsored TV use 14-day windows. The same word, halo, therefore means "same brand" in one product and "different SKU" in another.
+Where it sits in reporting
+Product relevance is a dimension in the unified reporting system, which Amazon opened in beta in November 2025 and brought to general availability on June 8, 2026. It replaced product-specific report builders with one list of standardized dimensions and metrics.
+According to PPC Land's analysis of the Support Center dimensions page, updated on November 11, 2026, the page lists 156 attributes in 11 categories. Product relevance is marked as applying to all five products covered: DVA+, Sponsored Products, Sponsored Brands, Sponsored Display and Sponsored TV. That is broader coverage than its neighbours. The advertised product dimensions apply to DVA+, Sponsored Display and Sponsored Products only, while the converted product dimensions apply to all five. Amazon's page states that when a dimension does not apply to an ad product, its value appears as null.
+A typical report pairs product relevance with converted product fields and metrics such as purchases and sales. Promoted rows show what an ad sold of the items it featured. Halo rows show what else shoppers bought, the material used to judge whether a campaign promoted the right products.
+Origin and evolution
+The field is a renaming. In DSP reports it was called ASIN conversion type, according to PPC Land's comparison of former and current names. The August 2022 DSP reporting guide shows it in a sample custom report on product dimensions, as a column with two values, "Promoted" and "Brand halo", sitting beside columns for promoted ASIN, brand name, ASIN and parent ASIN. The guide does not define the column, and no public source dates its first appearance.
+Sponsored ads had no direct equivalent. Their split lived in separate reports and columns, such as "other SKU" in Sponsored Products and "Attribution type" in Sponsored Brands, and the dimensions page lists no former sponsored-ads name for the field.
+The split also spread to newer measurement before unification. Announcing multi-touch attribution in beta at unBoxed in October 2024, Amazon said breakouts by promoted and brand halo, same and other SKU, and click and view would be supported in reports that include those metrics, for US advertisers.
+The unified naming scheme dropped "ASIN" from every field. PPC Land noted that none of the 156 unified names contains the word, so ASIN conversion type became product relevance, ASIN became converted product ID, and advertised ASIN became advertised product ID.
+Why it matters for marketers
+Halo credit can be large, and it inflates headline returns. Amazon's Total ROAS adds brand halo sales to promoted sales before dividing by cost, as PPC Land's Total ROAS explainer sets out. An advertiser comparing a promoted-only return on ad spend (ROAS) with a total figure needs product relevance, or its predecessors, to see how much of the gap is halo.
+Because the five products define halo differently, a halo share in Sponsored Products is not the same quantity as a halo share in DVA. One dimension name across all five makes that easier to forget.
+Wider retail media debates lean on halo arguments too. An Incremental white paper from June 2026 claimed that siloed attribution misses half the picture by ignoring cross-retailer effects. Product relevance covers only the narrower, on-Amazon version of that argument.
+Limitations and disputes
+Halo is not incrementality. A halo row records that a related product was bought after an ad, inside the window. It does not show that the ad caused the purchase. PPC Land's halo effect explainer makes the same point about Amazon's halo columns generally, and incrementality testing exists to answer the causal question halo cannot.
+Brand matching is mechanical. The DSP guide identifies brand through the byline name, so halo depends on catalogue data. Inconsistent brand names across listings can move a sale in or out of halo.
+Visibility gaps. Practitioners have long complained that halo totals arrive without detail. Michael Waters of Intentwise wrote in December 2024 that the Ad Console shows how many sales came from brand halo but not "which ASINs were purchased as a part of that brand halo", pointing advertisers to Amazon Marketing Cloud (AMC) for the mapping. Pairing product relevance with converted product dimensions in unified reporting narrows that gap.
+Undocumented values. The published definition does not list the field's possible values. The legacy DSP values were "Promoted" and "Brand halo". Whether unified reports use the same labels for Sponsored Products, where halo is not brand-based, is not documented.
+How it differs from adjacent terms
+Product relevance vs. halo effect. The halo effect is the broader idea that advertising one product lifts others, measurable through tests or modelling. Product relevance is a reporting label applied to attributed purchases under Amazon's own rules.
+Product relevance vs. converted product ID. The converted product ID names the item purchased. Product relevance classifies that item as promoted or halo relative to the campaign.
+Product relevance vs. attribution type. In unified reporting, conversion source attribution type describes how a conversion was credited, a different question. The legacy Sponsored Brands "Attribution type" column, by contrast, was a direct ancestor of product relevance.
+Product relevance vs. Ad Relevance. Amazon Ad Relevance, announced in 2023, is a contextual targeting technology. It shares a word, not a function.
+Recent developments
+Amazon retired the DSP name on September 29, 2026, as covered in PPC Land's Amazon DSP explainer. On November 11, 2026, the Support Center dimensions page was updated, listing product relevance across all five ad products, which PPC Land counted and compared against former names the next day. The same day, PPC Land reported that advertisers will lose unmigrated reports on January 31, 2027, the point after which legacy reports carrying ASIN conversion type, other SKU and attribution type columns stop being an alternative. As of November 2026, product relevance is the dimension that carries the promoted-versus-halo split in unified reporting.
+Timeline
+- August 2022: Amazon DSP self-service reporting guide documents brand halo, "BH" and "Total" metrics, and shows an "ASIN conversion type" column with "Promoted" and "Brand halo" values
+- October 15, 2024: Amazon announces multi-touch attribution beta at unBoxed, with promoted and brand halo, same and other SKU breakouts, for US advertisers
+- November 2025: Amazon opens unified reporting in beta
+- June 8, 2026: Unified reporting reaches general availability
+- September 29, 2026: Amazon DSP renamed DVA
+- November 11, 2026: Support Center dimensions page lists product relevance, formerly ASIN conversion type, across DVA+, Sponsored Products, Sponsored Brands, Sponsored Display and Sponsored TV
+- January 31, 2027: Scheduled cut-off for unmigrated legacy reports
+Related PPC Land coverage
+- 85 of Amazon's 156 unified report dimensions apply to Sponsored Products - The dimensions page count, including product relevance and its former DVA+ name.
+- Explaining Total ROAS - How Amazon adds brand halo sales to promoted sales in its return metrics.
+- Explaining halo effect - Brand halo metrics and why attributed halo totals are not incremental.
+- Amazon Ads unified reporting exits beta - and takes two old tools with it - General availability on June 8, 2026 and the legacy report sunset.
+- Amazon advertisers will lose unmigrated reports on January 31, 2027 - The deadline for moving legacy reports to unified reporting.
+- Explaining Amazon DSP - The platform's history up to the DVA rename.
+- Explaining incrementality - The causal measurement halo attribution does not provide.
+- Retail media's hidden ROI: how siloed attribution misses half the picture - A cross-retailer halo study from June 2026.
+Summary
+Who: Amazon Ads defines and populates the field. Advertisers, agencies and sellers using DVA+, Sponsored Products, Sponsored Brands, Sponsored Display and Sponsored TV read it in unified reports.
+What: A reporting dimension that labels each attributed purchase as either a d

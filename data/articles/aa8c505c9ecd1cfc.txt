@@ -1,0 +1,31 @@
+URL: https://wisevoter.com/world/2026/11/27/shopify-chargeback-responses-ai-agent-orders
+TITLE: Shopify Adds Payment Proof to AI Chargeback Responses
+OUTLET: Wisevoter
+
+Shopify Adds Payment Proof to AI Chargeback Responses
+Merchants selling through AI shopping assistants can now submit authorization records automatically when customers dispute charges.
+Updated on Nov. 27, 2026 in Artificial Intelligence
+Live Poll
+Would you trust an AI shopping assistant to make purchases for you?
+Shopify now adds checkout information to chargeback responses for orders placed by AI agents, including a payment authorization record showing the customer's spending limit for the assistant and the payment approval recorded at checkout. The company also enabled AI-written chargeback responses for every dispute reason, up from only "product not received" disputes previously.
+Why it matters
+Merchants have struggled when an AI shopping assistant places an order, a customer disputes the payment, and the merchant's records cannot show what the customer set up. The change puts verifiable authorization evidence into dispute responses without requiring any action from merchants.
+The authorization record and approval data are attached automatically to each chargeback response for agentic orders, and the written defense draws on the same record. The changelog does not specify the exact format of the spending-limit field or how card networks will treat the evidence.
+The players
+Shopify
+Shopify is a Canadian commerce platform that powers online stores for merchants worldwide and has expanded support for AI-driven shopping channels.
+The details
+Shopify said the chargeback response now includes the assistant's name when known, along with the authorization record and approval recorded at checkout. Merchants can also choose which staff members receive chargeback notifications, and the company provides payment verification proof for disputes claiming a purchase was not authorized.
+Timeline
+- October 2026: PYMNTS reported that agentic commerce is creating a new transaction type before payments industry rules are fully developed.
+- November 27, 2026: Shopify announced the chargeback changes in its changelog.
+Market Landscape
+The change arrives as agentic commerce creates a transaction type that payment rules have not fully defined, leaving merchants to build their own evidence trails. Shopify is positioning its platform to handle disputes on these orders before card-network standards exist.
+Merchants using Shopify who accept orders from AI shopping assistants will see authorization records added to chargeback responses without any setup. Customers may find disputes resolved with clearer documentation of what they approved at checkout.
+The takeaway
+If you sell or buy through AI shopping tools, keep records of spending limits and checkout approvals, since those records now determine how disputes are resolved.
+Further reading
+Explore more coverage in Artificial Intelligence for context on how AI agents are changing commerce.
+Source note: This article includes information reported by PYMNTS.
+Live Poll
+Would you trust an AI shopping assistant to make purchases for you?

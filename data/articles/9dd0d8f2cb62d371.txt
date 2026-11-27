@@ -1,0 +1,30 @@
+URL: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/quarterlysuicidedeathregistrationsinengland/2001to2025registrationsandquarter1jantomartoquarter3julytosept2026provisionaldata
+TITLE: Quarterly suicide death registrations in England
+OUTLET: Office for National Statistics
+
+- There were 1,434 suicides registered in Quarter 3 (July to Sept) 2026 in England, equivalent to a provisional rate of 11.0 suicide deaths registered per 100,000 people; this rate is slightly higher compared with the previous quarter of 2026, but the same as that of Quarter 3 in the previous year.
+- In the provisional death registration data for Quarter 3 2026, there were 16.9 suicide deaths registered per 100,000 males (1,062 deaths registered) and 5.5 suicide deaths registered per 100,000 females (372 deaths registered).
+- London had the lowest rate of suicide deaths registered of any region of England in Quarter 3 2026 (7.2 suicide deaths registered per 100,000 people), while the highest rate was in Yorkshire and The Humber (14.0 suicide deaths registered per 100,000 people).
+- The median registration delay for suicides slightly decreased from 190 days in Quarter 3 2025 to 184 days in Quarter 3 2026.
+- Because of registration delays, 32.6% of deaths registered in 2026 had a date of death in the same year (1,345 of 4,132 deaths), 55.1% occurred in 2025 (2,276 of 4,132 deaths), and the remaining deaths occurred in 2024 or earlier (12.4%; 511 of 4,132 deaths).
+Suicide rates are currently based on the year of death registration. In response to an engagement exercise, we will present more commentary on occurrence-based statistics in the future. Figures for suicides occurring by quarter are available in our accompanying dataset.
+If you are a journalist covering a suicide-related issue, please consider following the Samaritans' media guidelines on the reporting of suicide because of the potentially damaging consequences of irresponsible reporting. In particular, the guidelines advise on terminology and include links to sources of support for anyone affected by the themes in the bulletin.
+If you are struggling to cope, please call Samaritans for free on 116 123 (UK and the Republic of Ireland) or contact other sources of support, such as those listed on the NHS Help for suicidal thoughts web page. Support is available 24 hours a day, every day of the year, providing a safe place for you, whoever you are and however you are feeling.
+Back to table of contents
+Deaths caused by suicide by quarter in England
+Dataset | Released 27 November 2026
+Provisional rate and number of suicide deaths registered in England per quarter. Includes 2001 to 2025 registrations and provisional data for Quarter 1 (Jan to Mar) to Quarter 3 (July to Sept) 2026. These are official statistics in development. 
+Official statistics in development
+These statistics are labelled as "official statistics in development". Until September 2023, these were called "experimental statistics". Read more about the change in our Guide to official statistics in development.
+These statistics are based on mortality statistics, derived from information provided when deaths are certified and registered. We are developing how we collect and produce the data to improve the quality of these statistics.
+Once the developments are complete, we will review the statistics with the Statistics Head of Profession. We will decide whether the statistics are of sufficient quality and value to be published as official statistics, or whether further development is needed. Production may be stopped if they are not of sufficient quality or value. Users will be informed of the outcome and any changes.
+We value your feedback on these statistics. Contact us at health.data@ons.gov.uk.
+Data source
+Statistics on mortality come from the information provided when deaths are certified and registered. This release uses the accredited official statistics definition of suicide, which is consistently used by government departments, agencies, and the devolved administrations across the UK.
+For deaths caused by suicide, more than half of the deaths registered each year will have occurred in the previous year, or earlier, because of the length of time it takes to hold a coroner's inquest. For further information on registration delays and their impact, see our Suicide rates in the UK quality and methodology information (QMI).
+Quarterly rates
+Calculation of mortality rates for quarterly deaths requires adjustments to be made to annual population estimates, to calculate rates that are comparable with annual rates. Further information is available in our accompanying Deaths caused by suicide by quarter in England dataset.
+More quality and methodology information
+More quality and methodology information on strengths, limitations, appropriate uses, and how the data were created is available in our Mortality statistics in England and Wales quality and methodology information (QMI), our Suicide rates in the UK quality and methodology information (QMI) and our User guide to mortality statistics.
+Back to table of contents
+Office for National Statistics (ONS), released 27 November 2026, ONS website, statistical bulletin, Quarterly suicide death registrations in England: 2001 to 2025 registrations and Quarter 1 (Jan to Mar) to Quarter 3 (July to Sept) 2026 provisional data.
