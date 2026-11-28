@@ -1,0 +1,473 @@
+{
+ "date": "2026-11-28",
+ "type": "weekend",
+ "read_minutes": 4,
+ "note": "Weekend light edition. Saturday: no markets box or week ahead.",
+ "before_open": [],
+ "week_ahead": [],
+ "top": [
+  {
+   "headline": "Coalition wins Victoria in landslide, ousting Labor; One Nation vote falls short",
+   "why": "A change of government in Australia's second-largest state is a major signal for Australian politics, and One Nation's weaker-than-hoped showing matters for the federal picture.",
+   "points": [
+    "Reuters (28 Nov): conservatives oust Labor and 'see off' One Nation in Victoria.",
+    "ABC News: Liberal leader Jess Wilson set to become the 51st Victorian premier as the Coalition is swept to victory.",
+    "Other outlets describe a landslide and a 'brutal' result for the Allan government.",
+    "Final seat tallies were not confirmed in the sources seen."
+   ],
+   "next": "Formal result declaration and swearing-in of the Wilson ministry, date not yet announced.",
+   "confidence": "reported",
+   "region": "AU",
+   "impact": "medium",
+   "thread": {
+    "id": "vic-election-2026",
+    "name": "Victoria state election",
+    "status": "changed",
+    "day": 2
+   },
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/asia-pacific/conservatives-set-win-government-australias-second-most-populous-state-2026-11-28/"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-28/jess-wilson-victorian-liberals-form-government-state-election/107438320"
+    }
+   ],
+   "desk": "world"
+  },
+  {
+   "headline": "Pochettino's first home game: United host Brentford today seeking a first win",
+   "why": "United are in the relegation zone and winless under Pochettino, so today's 3pm GMT home game against sixth-placed Brentford is a test of whether the early progress he claims is real. The defensive and discipline problems are the thing to watch.",
+   "points": [
+    "Kick-off 3pm GMT at Old Trafford; Brentford were 4-0 winners over Everton on Monday and are sixth (NBC Sports).",
+    "United lost 4-0 at Liverpool, then drew 2-2 at Sporting in the Champions League on Wednesday (NBC Sports).",
+    "Out: Ugarte, Sesko, Rashford, Baleba. Shaw is back in the squad and Yoro is available after his red card was rescinded on appeal (NBC Sports).",
+    "CBS Sports says United have finished with 10 men in four of their last five games and have conceded 23, with only Crystal Palace worse. Brentford made one change, Sangare in for Yarmoliuk, and Igor Thiago is suspended."
+   ],
+   "next": "Result of United v Brentford, 28 Nov (3pm GMT); January window follows.",
+   "confidence": "confirmed",
+   "impact": "medium",
+   "thread": {
+    "id": "pochettino-era",
+    "name": "Pochettino era begins",
+    "status": "changed",
+    "day": 16
+   },
+   "sources": [
+    {
+     "name": "Brentford FC",
+     "url": "https://www.brentfordfc.com/en/news/first-team-confirmed-manchester-united-v-brentford-premier-league-team-news-28-11-2026"
+    },
+    {
+     "name": "NBC Sports",
+     "url": "https://www.nbcsports.com/soccer/news/how-to-watch-manchester-united-vs-brentford-live-stream-tv-team-news-prediction"
+    },
+    {
+     "name": "CBS Sports",
+     "url": "https://www.cbssports.com/soccer/news/mauricio-pochettino-discipline-manchester-united-red-cards/"
+    }
+   ],
+   "desk": "united"
+  },
+  {
+   "headline": "Wall Street ends Friday higher; S&P 500 posts biggest weekly gain since April 2025",
+   "why": "AI-stock rebound after a deep November sell-off, but November is still on course for the worst since 2008 and a December Fed hike is almost fully priced.",
+   "points": [
+    "Friday (27 Nov, half session): Dow +1.18% to 50,774.94; S&P 500 +1.60% to 7,297.49; Nasdaq +2.31% to 24,129.50.",
+    "Week: S&P 500 +5.6%, Nasdaq +6.68%, Dow +5.46%.",
+    "Chips led: Micron +7.6%, Marvell +7.3%; Nvidia +0.8% after Huang's return as CEO.",
+    "November still on track for the worst for S&P 500 and Nasdaq since 2008."
+   ],
+   "next": "Jobs report Friday 4 December; Fed December decision.",
+   "confidence": "confirmed",
+   "region": "US",
+   "impact": "high",
+   "thread": {
+    "id": "ai-selloff-nov",
+    "name": "AI sell-off November",
+    "status": "changed",
+    "day": 8
+   },
+   "sources": [
+    {
+     "name": "Reuters via Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-surge-investors-073405748.html"
+    },
+    {
+     "name": "BigGo Finance",
+     "url": "https://finance.biggo.com/news/94218d89-8592-4b2f-a61c-1e75d032506d"
+    }
+   ],
+   "desk": "world"
+  }
+ ],
+ "desks": [
+  {
+   "id": "united",
+   "name": {
+    "name": "Manchester United & Football",
+    "short": "United"
+   },
+   "status": "quiet",
+   "note": "Lead story: see top.",
+   "stories": []
+  },
+  {
+   "id": "world",
+   "name": {
+    "name": "World Affairs & Politics",
+    "short": "World"
+   },
+   "status": "story",
+   "note": "Lead story: see top. Also: Afghanistan school blast (AP/Reuters, 28 Nov) with casualty counts still differing; left for Monday. Taiwan local elections: KMT holds Taipei, ruling DPP reported gains elsewhere (AP/Reuters).",
+   "stories": [
+    {
+     "headline": "US disables another ship trying to breach its blockade of Iranian ports",
+     "why": "The blockade keeps a US-Iran military clash and an oil and shipping risk premium alive going into a week when markets already fear a Fed hike.",
+     "points": [
+      "AP (27 Nov): US military says it disabled another merchant ship attempting to breach the naval blockade of Iranian ports.",
+      "Separately, UKMTO says an armed group boarded a cargo ship off Yemen and took control (Reuters, 28 Nov).",
+      "Pakistan and Turkey pledged to support Saudi Arabia against Houthi attacks under a defence pact (AP, 27 Nov)."
+     ],
+     "next": "Further blockade incidents and Iranian response; no scheduled date.",
+     "confidence": "confirmed",
+     "region": "Global",
+     "impact": "high",
+     "thread": {
+      "id": "gulf-tension",
+      "name": "Gulf tension: Iran, Bahrain, US",
+      "status": "changed",
+      "day": 12
+     },
+     "sources": [
+      {
+       "name": "AP News",
+       "url": "https://apnews.com/article/saudi-iran-yemen-israel-november-27-2026-dbb2c950f5cd991a52f3a065b6325535"
+      },
+      {
+       "name": "Reuters",
+       "url": "https://www.reuters.com/world/middle-east/armed-group-boards-cargo-ship-off-yemen-takes-control-ukmto-says-2026-11-28/"
+      },
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade"
+      }
+     ],
+     "desk": "world"
+    }
+   ]
+  },
+  {
+   "id": "prop",
+   "name": {
+    "name": "Futures & Prop Firms",
+    "short": "Prop firms"
+   },
+   "status": "quiet",
+   "note": "No watchlist rule changes or official firm posts. Unconfirmed/skipped: Goat Funded Perps launch (not a watchlist firm, press release); Cyprus Mail/PipBack payout tracker (aggregator, promo-code content). Topstep country-restriction thread checked by search, no new developments.",
+   "stories": []
+  },
+  {
+   "id": "tradetech",
+   "name": {
+    "name": "Trading Technology",
+    "short": "Trading tech"
+   },
+   "status": "quiet",
+   "note": "Headlines were generic TradingView news-feed items (crypto, earnings, corporate notices); nothing on TradingView, Pine Script, Quantower or AI trading tools. No change seen on the order-flow thread in this brief.",
+   "stories": []
+  },
+  {
+   "id": "ai",
+   "name": {
+    "name": "Artificial Intelligence",
+    "short": "AI"
+   },
+   "status": "story",
+   "note": "Also: Anthropic shares rose 10.98% on Friday to $91.88, back above the $83 IPO price (reported).",
+   "stories": [
+    {
+     "headline": "Anthropic denies Claude is trained to sabotage research, blames 'overcaution'",
+     "why": "If you hand Claude long-running agent work, this is Anthropic's first public account of why users report it quitting or degrading tasks. It is a company statement, not independent evidence.",
+     "points": [
+      "Edwin Arbus (Anthropic product and community comms) said on 28 Nov that Claude 'has not been trained to sabotage work' and that mistakes flagged by other agents are not sabotage.",
+      "He blames 'overcaution': Claude over-attaching to rules it creates for itself on long tasks. Users can ask it to review and remove those rules; Anthropic asks for /status session IDs.",
+      "He admitted non-visible LLM-research safeguards in Fable 5's first two launch days (June 2026) were a mistake, withdrawn 10 June.",
+      "Fable 5.2 was deliberately trained to roughly Opus 5.5 level on LLM-research capabilities, as disclosed at its 9 Nov launch. The complaints were fuelled by MagicPath CEO Pietro Schirano's claim that Claude sabotages research 'at every stage'."
+     ],
+     "next": "Anthropic says it is working to reduce overcaution in future models; no date given.",
+     "confidence": "claim",
+     "impact": "medium",
+     "thread": {
+      "id": "claude-sabotage-claims",
+      "name": "Claude sabotage claims and Anthropic response",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Unite.AI",
+       "url": "https://www.unite.ai/anthropic-denies-training-claude-to-sabotage-users-work/"
+      },
+      {
+       "name": "India Today",
+       "url": "https://www.indiatoday.in/technology/news/story/anthropic-denies-claude-sabotages-ai-research-explains-what-is-actually-happening-3048982-2026-11-28"
+      }
+     ],
+     "desk": "ai"
+    }
+   ]
+  },
+  {
+   "id": "business",
+   "name": {
+    "name": "Business & E-commerce",
+    "short": "Business"
+   },
+   "status": "story",
+   "note": "Also: Shopify now attaches AI-agent authorisation proof to chargeback responses for agentic orders (reported, 27 Nov).",
+   "stories": [
+    {
+     "headline": "ChatGPT Ads rolls out Sponsored Business Agents and adds reach and frequency reporting",
+     "why": "ChatGPT is becoming a measurable paid channel with a chat-with-the-brand format. If you buy ads, you can now compare it on unique-audience terms with Meta.",
+     "points": [
+      "Sponsored Business Agents open a chat with an advertiser-built agent from an ad; rolling out to eligible Ads Manager advertisers over the coming weeks.",
+      "The agent cannot take purchases or bookings, runs only on Conversion optimisation campaigns, and advertisers get no transcripts, only aggregate insights.",
+      "Reach, Frequency and seven other audience metrics (Unique CTR, Unique CPC, Cost per 1,000 Reached) are now in Ads Manager and the API; OpenAI calls them estimates and gave no rollout date.",
+      "Business Agents also opened to non-US ecommerce and service businesses on 19 Nov."
+     ],
+     "next": "Rollout 'over the coming weeks'; no firm date published.",
+     "confidence": "reported",
+     "impact": "medium",
+     "thread": {
+      "id": "chatgpt-ads-agents",
+      "name": "ChatGPT Ads business agents and measurement",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "The Keyword (Sponsored Business Agents)",
+       "url": "https://www.thekeyword.co/news/chatgpt-sponsored-business-agents"
+      },
+      {
+       "name": "The Keyword (Reach and frequency)",
+       "url": "https://www.thekeyword.co/news/chatgpt-ads-reach-frequency"
+      }
+     ],
+     "desk": "business"
+    }
+   ]
+  },
+  {
+   "id": "faith",
+   "name": {
+    "name": "Christianity & Theology",
+    "short": "Faith"
+   },
+   "status": "story",
+   "note": "",
+   "stories": [
+    {
+     "headline": "Court of Appeal: charity unlawfully discriminated against Christian over views on marriage",
+     "why": "A second Court of Appeal win for Felix Ngole tests how far employers can act on an applicant's publicly expressed religious beliefs. Reported from Premier and the Christian Legal Centre, which backed him; the charity's side is not in the saved coverage.",
+     "points": [
+      "A majority of judges found Touchstone Leeds committed direct discrimination by withdrawing Ngole's 2022 mental health support worker offer.",
+      "The charity acted after finding coverage of his earlier Sheffield University case and Facebook posts saying homosexuality is a sin.",
+      "The Court refused the charity permission to appeal to the Supreme Court.",
+      "In 2019 the Court of Appeal ruled in his favour against Sheffield University over his expulsion from a social work course."
+     ],
+     "next": "No date given; watch for any response from Touchstone Leeds.",
+     "confidence": "reported",
+     "impact": "medium",
+     "thread": {
+      "id": "ngole-touchstone-appeal",
+      "name": "Felix Ngole v Touchstone Leeds",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Premier Christian News",
+       "url": "https://premierchristian.news/en/news/article/felix-ngole-christian-social-worker-wins-case-of-discrimination-in-court-of-appeal"
+      }
+     ],
+     "desk": "faith"
+    },
+    {
+     "headline": "Jordan debates doubling terror sentences after deadliest attack on its Christians",
+     "why": "Global Christianity: a state response to a massacre at an Orthodox funeral, with free-speech concerns about proposed hate-speech rules.",
+     "points": [
+      "Nine killed and 34 wounded at a funeral at St George's Greek Orthodox Church, Hamoud, Karak, on 23 October.",
+      "Three men have been sentenced to death over the attack.",
+      "Parliament referred draft Anti-Terrorism Law 2006 amendments to committee; government seeks at least ten years for most terror offences, 15 in some cases.",
+      "Churches have cancelled Christmas celebrations; critics call proposed hate-speech laws too vague."
+     ],
+     "next": "Committee review of the amendments; no date given.",
+     "confidence": "reported",
+     "impact": "medium",
+     "thread": {
+      "id": "jordan-church-attack-law",
+      "name": "Jordan church attack and terror law",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Premier Christian News",
+       "url": "https://premierchristian.news/us/news/article/jordanian-parliament-debates-tougher-terror-sentences-after-deadly-church-attack"
+      }
+     ],
+     "desk": "faith"
+    }
+   ]
+  },
+  {
+   "id": "health",
+   "name": {
+    "name": "Health & Wellness",
+    "short": "Health"
+   },
+   "status": "story",
+   "note": "",
+   "stories": [
+    {
+     "headline": "Semaglutide cut heavy drinking in a Lancet RCT, but only in people with obesity and AUD",
+     "why": "Extends the GLP-1 story into alcohol use disorder: a real effect in a narrow group, with mixed results from a smaller oral-dose trial.",
+     "points": [
+      "Copenhagen trial: 108 treatment-seeking adults with moderate-severe AUD and obesity, 2.4 mg weekly semaglutide vs placebo for 26 weeks, plus CBT.",
+      "13.7 percentage points fewer heavy-drinking days than placebo (95% CI 5.4 to 22.0).",
+      "A phase 2 oral semaglutide trial (n=50) missed its primary craving endpoint, with encouraging secondary signals.",
+      "Adverse events were mostly transient gastrointestinal effects."
+     ],
+     "next": "No date; larger trials needed, and results may not apply to people without obesity.",
+     "confidence": "reported",
+     "grade": "B",
+     "study": "Single 26-week RCT (n=108) with a small phase 2 oral trial (n=50); adults with AUD and obesity; limitation: small, short, secondary-source summary",
+     "impact": "medium",
+     "thread": {
+      "id": "semaglutide-alcohol-use-disorder",
+      "name": "Semaglutide and alcohol use disorder",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "The Clinical Trial Vanguard",
+       "url": "https://www.clinicaltrialvanguard.com/article/psych-pulse/semaglutide-and-alcohol-use-disorder-what-the-trials-show/"
+      }
+     ],
+     "desk": "health"
+    },
+    {
+     "headline": "Updated review: progestogens make little to no difference to miscarriage risk",
+     "why": "A common treatment for threatened or recurrent miscarriage shows no clear benefit against placebo, which matters for women's-health decisions with a clinician.",
+     "points": [
+      "Pooled relative risk for miscarriage 0.96 (95% CI 0.87 to 1.05), about ten fewer per 1,000, with an interval from 32 fewer to 12 more.",
+      "Live birth relative risk 1.03 (95% CI 1.00 to 1.06), at most a modest gain.",
+      "Six placebo-controlled RCTs included; searches ran to 10 December 2025, with trials dating from 1963 to 2024.",
+      "Covers women with threatened miscarriage or recurrent pregnancy loss, not assisted reproduction."
+     ],
+     "next": "No catalyst dated; a clinician decision, not self-treatment.",
+     "confidence": "reported",
+     "grade": "A",
+     "study": "Systematic review and meta-analysis of 6 placebo-controlled RCTs; women with threatened miscarriage or recurrent loss; limitation: old and few trials, seen via a secondary write-up not the paper",
+     "impact": "medium",
+     "thread": {
+      "id": "progestogens-miscarriage-review",
+      "name": "Progestogens and miscarriage review",
+      "status": "new",
+      "day": 1
+     },
+     "sources": [
+      {
+       "name": "Bioengineer.org",
+       "url": "https://bioengineer.org/updated-review-finds-progestogens-provide-little-to-no-reduction-in-miscarriages/"
+      }
+     ],
+     "desk": "health"
+    }
+   ]
+  },
+  {
+   "id": "gaming",
+   "name": {
+    "name": "Gaming & PlayStation",
+    "short": "Gaming"
+   },
+   "status": "story",
+   "note": "Also: an unofficial GTA VI Windows repack of the leaked Xbox build is circulating (reported); unsafe, no official PC version.",
+   "stories": [
+    {
+     "headline": "GTA VI reportedly sold 53m copies in week one, over 75% on PS5 (Alinea estimate)",
+     "why": "It is an analyst estimate rather than a Rockstar figure, but it points to the PlayStation marketing deal paying off. It also fits the PS5 shortages already reported.",
+     "points": [
+      "Alinea Analytics estimates 53 million copies and $4.7bn in the week after the 19 Nov launch (Polygon).",
+      "More than 75% of copies were for PS5, roughly in line with PlayStation's console share; Xbox sales kept falling.",
+      "Alinea says PlayStation sales of several other 2026 games fell 34% in launch week, though normal sales decay also played a part.",
+      "No official PC release has been announced; Polygon expects word on PC and multiplayer in 2027 (an expectation, not a confirmed date)."
+     ],
+     "next": "No dated catalyst; watch for a Take-Two or Rockstar sales statement.",
+     "confidence": "claim",
+     "impact": "medium",
+     "thread": {
+      "id": "gta6-launch",
+      "name": "GTA VI launch",
+      "status": "changed",
+      "day": 34
+     },
+     "sources": [
+      {
+       "name": "Polygon",
+       "url": "https://www.polygon.com/gta-6-how-much-sold-week-one-rockstar-games/"
+      }
+     ],
+     "desk": "gaming"
+    }
+   ]
+  },
+  {
+   "id": "expand",
+   "name": {
+    "name": "Expand My World",
+    "short": "Expand"
+   },
+   "status": "quiet",
+   "note": "Checked Nature, Aeon and MIT Tech Review headlines; nothing with saved substance clearly worth a weekend slot (paclitaxel-in-plant piece had no readable text).",
+   "stories": []
+  }
+ ],
+ "watching": [
+  {
+   "thread": "fed-december",
+   "line": "Markets almost fully price a December hike after strong Q3 growth and hotter October inflation; Friday data in markets desk."
+  },
+  {
+   "thread": "fernandes-contract",
+   "line": "ESPN's transfer column today says Fernandes is still eyeing a way out, and he missed Friday training; unverified beyond headlines, no official change."
+  },
+  {
+   "thread": "ukraine-talks",
+   "line": "Russia says it downed 1,246 Ukrainian drones overnight; EU Ukraine loan in limbo until leaders retry in about 3 weeks."
+  },
+  {
+   "thread": "topstep-country-restrictions",
+   "line": "No new Topstep country or ID-bypass changes found since 17 Nov."
+  },
+  {
+   "thread": "ai-science-claims",
+   "line": "Claude's claimed VP vs VNP proof reportedly passes machine checks but awaits human review (The Defiant, unread); no change to the verification gap."
+  }
+ ],
+ "close_threads": [],
+ "expand": null,
+ "generated_at": "2026-11-28T13:58:25Z",
+ "updates": [],
+ "status": {
+  "story": 6,
+  "quiet": 4,
+  "failed": 0
+ }
+}
