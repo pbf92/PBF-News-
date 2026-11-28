@@ -1,0 +1,15 @@
+URL: https://www.dawan.africa/news/anthropic-employee-rejects-claims-that-claude-sabotages-user-work
+TITLE: Anthropic Employee Rejects Claims That Claude Sabotages User Work
+OUTLET: Dawan Africa
+
+Loading article content...
+United States , 28 November 2026 — An Anthropic employee has pushed back against claims circulating online that the company's Claude AI models intentionally undermine user projects, arguing that the reported problems are more likely the result of excessive caution during complex tasks.
+In a post on X, Edwin Arbus said Claude "has not been trained to sabotage work" and described the behaviour reported by some developers as mistakes rather than deliberate interference.
+The controversy began after developers claimed Claude was disrupting machine-learning research and other long-running tasks. Posts discussing the issue gained traction on X and Hacker News, prompting wider debate about the reliability of increasingly autonomous AI tools.
+Arbus said some issues occur when Claude becomes overly attached to rules it creates during extended workflows, causing it to behave too cautiously. He added that users can often resolve the problem by asking the model to review and discard those self-imposed rules.
+The Anthropic employee also addressed screenshots of an older Fable 5 system card that described hidden safeguards around frontier AI development. According to Arbus, those measures were active only briefly after launch and were removed in June after the company determined they were a mistake.
+More from Kenya
+Anthropic has previously acknowledged that some of its models can be overly cautious. Documentation released alongside newer models showed that certain versions frequently stopped research tasks early rather than completing experiments.
+The claims against Claude have not been independently verified. Critics of the allegations note that most of the evidence shared publicly consists of screenshots and personal accounts rather than repeatable testing.
+The debate comes as confidence in AI systems remains under scrutiny across the industry, from Chinese AI model delays linked to US chip restrictions to SAP's AI-driven restructuring plans.
+Anthropic has not issued a formal company statement, and it remains unclear whether the company will publish findings from its review of the reported incidents.

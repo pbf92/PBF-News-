@@ -1,0 +1,21 @@
+URL: https://www.neoteo.com/en/meta-teen-safety-settlement-jama-estimates-potential-reach
+TITLE: Meta teen safety settlement: JAMA estimates potential reach
+OUTLET: NeoTeo
+
+JAMA published a study online on November 25, 2026, estimating how many teens might fall within platform-based safety restrictions. It assesses potential reach using passively logged app-use data; it does not measure what happened after the rules were implemented. JAMA says the restrictions’ population-level impact remains unknown and depends on implementation and teen adherence. Read the study in JAMA.
+What the study estimates about the restrictions’ reach
+The detailed figures come from historical app-use records, not observations of teens using the agreement’s rules. La Razón reported that the analysis covered Android app-use records from 1,803 adolescents, collected from November 2020 through August 2025. In that group, Instagram and Facebook accounted for about 20% of daily social-media time; Snapchat, TikTok and YouTube made up the remaining 80%, according to La Razón.
+La Razón also reported these estimates of potential reach for restrictions on Meta’s apps alone compared with a hypothetical five-platform scenario:
+The figures describe modeled potential reach in the reported analysis. JAMA’s abstract says the study estimates reach from passively logged data and that population-level effects remain unknown. The estimates therefore do not establish how much teens’ use would change under the agreement or whether the restrictions would improve mental health.
+What the agreement sets as the default
+The agreement covers Meta services in participating U.S. jurisdictions. It defines a “Teen User” as someone whose stated or predicted age is 13 through 17. The agreement’s signature pages are dated August 25, 2026; the District of Columbia attorney general announced it on August 26. The executed agreement sets out the controls and their exceptions. The D.C. attorney general’s announcement describes the settlement.
+Phase I sets a default two-hour daily limit, cumulative across Meta platforms. Messaging and long-form viewing are excluded from the calculation, while content accessed through settings counts. A parent may approve a less restrictive limit. The agreement also sets a midnight–6 a.m. local-time night block; messaging and settings remain available during that period, subject to restrictions.
+Other Phase I provisions address notifications and breaks. Push notifications are disabled by default from 10 p.m. to 7 a.m., with specified exceptions and the option for parental adjustment. School Mode disables push notifications on weekdays from 8 a.m. to 3 p.m., August 15 through June 15; exceptions include messaging and account-security notifications. The agreement calls for a notice after 15 minutes of continuous use and default pauses after 60 and 90 minutes of cumulative daily use.
+It also provides for a chronological, non-personalized feed option, hides like and reaction counts by default, restricts cosmetic-procedure filters, and includes age-assurance, parental-supervision, reporting and content-safety provisions.
+Phase II requires commitments from other platforms
+The agreement distinguishes those default provisions from a stricter second phase. Phase II depends on defined industry-wide adoption by Snap, TikTok and YouTube, including equivalent obligations, age assurance and audit conditions.
+A limit on Meta’s services reaches further only if other platforms meet the agreement’s conditions for broader rules. The second phase is conditional; the agreement’s default controls do not, by themselves, impose the same limits on TikTok or YouTube.
+Most obligations run for ten years. The Phase I daily-use and nighttime terms run for five years unless relevant Phase II conditions apply; independent auditing is specified for five years.
+Who the settlement covers and where payments go
+The agreement applies to participating U.S. jurisdictions, not automatically to every U.S. jurisdiction or to other countries. It directs settlement payments to participating states and territories, not individual teens, and says the agreement is not an admission of liability, wrongdoing or a violation of law.
+NeoTeo’s earlier coverage of the U.S. agreement and teen limits explains the settlement’s background.

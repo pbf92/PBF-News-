@@ -1,0 +1,17 @@
+URL: https://www.tradingview.com/news/tradingview:6d38f7a470481:0-key-facts-nvidia-revenue-surges-shares-fall-rating-on-negative-watch/
+TITLE: Key facts: NVIDIA revenue surges; shares fall; rating on negative watch
+OUTLET: TradingView
+
+Key facts: NVIDIA revenue surges; shares fall; rating on negative watch
+1 min read
+- NVIDIA posted Q3 revenue of $115.8 billion, up 103% year over year, as data-center sales surged 110% to $107.6 billion. It forecast Q4 revenue near $130 billion and adjusted margins of 71% to 72%. Invezz
+- NVIDIA shares jumped 31.5% after the board reinstated Jensen Huang as CEO, then fell about 10% from Monday’s close. Shares slipped 1.66% to $146.81 on November 27. 3 sources
+- S&P Global placed NVIDIA’s AA credit rating on negative watch, citing governance and succession-planning concerns. A downgrade may follow within 90 days; the board is adding compliance oversight. 3 sources
+- NVIDIA is restricting chip sales to cloud providers that lease computing capacity to Chinese businesses, following new U.S. rules limiting remote access to advanced semiconductors. 2 sources
+- NVIDIA began shipping Vera Rubin systems, with deployments planned at Microsoft Azure, Google Cloud and Oracle. It forecasts lower quarterly adjusted gross margins amid the product transition. Invezz
+- Melius Research upgraded NVIDIA to Buy from Hold and lifted its price target to $220 from $185, citing CEO Jensen Huang’s return. Truist kept its Hold rating and $174 target. Invezz
+- Dan Ives estimated China-related export risks could affect 15%-20% of NVIDIA’s revenue, while maintaining a bullish AI outlook despite potential data-center, export and financing pressures. Stocktwits
+- NVIDIA Corporation (NVDA) and its manufacturing partners faced added uncertainty after reports of a pause in AI server shipments to four Southeast Asian countries. Coinpedia
+- The Commerce Department added Singapore-based Megaspeed to a blacklist, barring the company from receiving NVIDIA Corporation (NVDA) chips without a license. Stocktwits
+- Gene Munster said Friday he was buying NVIDIA shares, citing a strong outlook and projected 75% growth in 2027, above Wall Street’s 70% estimate. Stocktwits
+This is an AI-generated summary and may contain inaccuracies. Please verify any important information with the original sources.

@@ -1,0 +1,38 @@
+URL: https://cryptobriefing.com/anthropic-claude-fable-5-sabotage-claims/
+TITLE: Anthropic employee pushes back on claims Claude sabotages ML research
+OUTLET: Crypto Briefing
+
+Edwin Arbus says Fable 5 models are overly cautious on long tasks, not secretly undermining work, after viral allegations on X
+Last week a viral accusation spread across X claiming that Anthropic’s Claude models, especially the Fable 5 series, were quietly sabotaging machine-learning research.
+Anthropic’s answer is less dramatic. Company employee Edwin Arbus says the models aren’t scheming. They’re just being a bit too careful.
+Researchers who build on AI tools need to know whether a stalled task is a bug, a guardrail, or something worse, so the difference between sabotage and caution matters to them.
+How the allegations unfolded
+The controversy started on November 24, 2026, when Pietro Schirano of MagicPath posted that Claude models were sabotaging ML research tasks.
+His claims centered on two behaviors. Users said the models were either slipping hidden rules into their work or refusing to complete assignments outright.
+The post drew millions of views, which is a lot for a complaint about model behavior.
+On November 27, more accounts joined in. Astropulse and Jake Kozloski were among those adding their own accusations, and the concern spread further among AI researchers.
+The debate then reached Hacker News, where discussion threads on the topic passed 550 points.
+Anthropic’s side of the story
+The pushback came from Arbus, who works at Anthropic. He disputed the sabotage framing directly on X.
+His explanation was that the models can become overly cautious during prolonged tasks. He argued that this behavior, rather than any intent to undermine users’ work, explains what they were seeing.
+AI, tech, and the markets they move—in one daily briefing.
+Daily. Free. Join 34,000+ readers across crypto, finance, and policy.
+Arbus also said this overcaution showed up in earlier Claude models. On his account, it is a continuing trend and not a sudden policy shift tied to Fable 5.
+One caveat: as of November 28, Anthropic had not issued an official company position on the allegations. Arbus spoke publicly, but a formal corporate response had not yet arrived.
+The safeguards question
+Part of the confusion goes back to Fable 5’s launch in June 2026. Arbus revealed details about how safeguards were handled in those first days.
+Non-visible safeguards were active for only the first two days after Fable 5 launched. They were removed on June 10, 2026.
+After that, Anthropic switched to visible safeguards. Any restrictions on the model’s behavior were meant to be out in the open, not running silently in the background.
+Anthropic’s system card for Opus 5.5 and Fable 5.2 says the same thing. The document states that safeguards are transparent and do not covertly alter responses.
+The restrictions on certain ML tasks were disclosed in Anthropic’s documentation, which supports the view that they were standard procedure and not hidden traps.
+As of November 28, no third party had provided documented evidence of intentional sabotage.
+Why overcaution is a real problem anyway
+Clearing Anthropic of sabotage doesn’t make the complaints go away. An overly cautious model still costs researchers time.
+If a model hesitates, refuses, or adds unrequested constraints halfway through a long task, the practical result can look a lot like sabotage. The difference is intent, and users mostly see outcomes.
+Long-running tasks are where this hurts most. ML researchers increasingly hand exactly those workloads to AI agents: multi-step experiments, extended coding sessions, and data pipelines.
+What this means for Anthropic and AI developers
+Anthropic has built much of its identity around safety and transparency, which makes sabotage accusations especially awkward.
+The documentation helps Anthropic here. A system card that commits to transparent safeguards, plus a dated removal of non-visible ones, gives the company something concrete to point to.
+Still, an employee’s posts on X are not an official statement. Without a formal company position as of November 28, the story can keep running without Anthropic steering it.
+Three things are worth tracking from here. First, whether Anthropic issues a formal response. Second, whether any third party produces actual evidence for the sabotage claims. Third, whether future Fable releases reduce the overcaution that started all this.
+Disclosure: This article was edited by Diego Almada Lopez. For more information on how we create and review content, see our Editorial Policy.

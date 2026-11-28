@@ -1,0 +1,14 @@
+URL: https://www.notebookcheck.net/Unofficial-209-GB-GTA-6-Windows-repack-reportedly-surfaces-just-one-week-after-console-launch.1462237.0.html
+TITLE: Unofficial 209 GB GTA 6 Windows repack reportedly surfaces just one week after console launch
+OUTLET: Notebookcheck
+
+Little more than a week has passed since GTA 6 landed on consoles, and a package purporting to be a PC version of Rockstar's latest blockbuster is reportedly already doing the rounds on Russian file-sharing networks.
+Hong Kong technology publication HKEPC reports that the 208.62 GB package surfaced on November 26. It bundles the leaked Xbox game files with the VIctory compatibility layer and is advertised as requiring no installation.
+This is quite a different proposition from a native PC port. As TweakTown explains, the package relies on compatibility and graphics translation technology to run existing console code rather than containing a version of the game developed specifically for Windows.
+While HKEPC's post documents the unofficial distribution, readers should be wary of downloading or running unverified game files because of the potential security risks.
+There is a considerable gulf, however, between getting a game to run and getting it to run well.
+The purported minimum hardware requirements include 32 GB of RAM and a graphics card with 16 GB of VRAM. Even on systems meeting those memory requirements, anecdotal performance figures range from 10 to 30 FPS, with users reporting dark scenes, low rendering resolutions and graphical glitches.
+Independent benchmarks for this particular repack have yet to surface.
+The development comes shortly after separate unofficial efforts demonstrated multiplayer functionality, including synchronised vehicles and proximity voice chat.
+Rockstar's official website still lists GTA 6 exclusively for PlayStation 5 and Xbox Series X|S.
+Tempting as the prospect of an early PC version might be, there is no guarantee that an anonymously distributed package of this size is safe.

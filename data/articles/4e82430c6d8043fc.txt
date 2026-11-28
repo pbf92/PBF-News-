@@ -1,0 +1,15 @@
+URL: https://rockstarintel.com/gta-vi-gets-special-treatment-from-xbox-when-cloud-streamed/
+TITLE: GTA VI Gets Special Treatment From XBOX When Cloud Streamed
+OUTLET: RockstarINTEL
+
+GTA VI on XBOX Cloud Gaming is getting some special treatment from Microsoft. Expert analysis has revealed how the cloud version of GTA VI differs from local play but also other titles when streamed. We’ll be going over each of the differences.
+For those unaware, XBOX is currently the only place you can stream Grand Theft Auto VI. You can either stream it to your XBOX Series X|S console or more interestingly any within the XBOX One family of hardware. This opens the door to Leonida for those without a current gen system and it is by far the cheapest way to experience Rockstar’s new project. You can even stream it up to 1440p resolution.
+Now for how this game differs from other cloud streamed titles. Every previous XBOX Series X|S generation of game runs the XBOX Series X version of the title on server blades full of XBOX Series X hardware. Likely due to server capacity and demand, GTA VI uses the XBOX Series S version. This is unprecedented.
+Whilst the base game is a downgraded version compared to Series X, the game streaming bitrate has actually been doubled compared to all other titles on XBOX Cloud Gaming. As reported by tech experts Digital Foundry, GTA VI runs between 27-37mbps. This is significantly higher than other games. The outlet tested another 30FPS title, Control: Resonant, and that had a bitrate of 15-27mbps. Many test runs were made and there was a consistent gap in bitrate. XBOX are evidently prioritising GTA VI here.
+Due to the increased bit rate, the stream has far less artifacting/blocking issues as found on other cloud streamed titles. This makes GTA VI look a lot better than others and closer to the local Series S version. Sure, there will be break up especially in foliage heavy scenarios but it is a fine way to play the game if you have limited options.
+However, it is not entirely good news. The game’s frame rate is largely inline with native Series S but there are some frame-time issues on the cloud version. When the game is running at 30FPS (and even with just an extra 9ms of input delay), there will be an uneven frame-time. According to Digital Foundry who made contact with sources close to the system, Microsoft are not using virtualisation for this game and they are now aware of the frame-time issue.
+Have you been playing GTA VI in the cloud? Let us know how you’ve found it down in the comment section below.
+In other Grand Theft Auto VI news, the game has reportedly now sold over 50 million copies. Also, YouTube have revealed just how big the game is on the the platform as it pushes the series to 1 trillion views.
+You can order your PS5 or XBOX copy of GTA VI with this link. Using the link to order the game will help support this website as we’ll earn a small commission. Thank you!
+For more news on GTA VI, stay tuned to RockstarINTEL and sign up to our newsletter for a weekly round-up of all things Rockstar Games delivered straight to your inbox.
+Subscribe to our newsletter!

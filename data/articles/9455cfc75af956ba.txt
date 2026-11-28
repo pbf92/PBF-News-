@@ -1,0 +1,60 @@
+URL: https://ppc.land/entity-id/
+TITLE: Entity ID
+OUTLET: PPC Land
+
+Entity ID is a dimension in Amazon Ads unified reporting that returns the identifier of the account entity an advertiser account belongs to. In Amazon's systems the value is an alphanumeric string that begins with the word "ENTITY", such as ENTITY1AA1AA11AAA1. It exists because Amazon's account structure grew up in layers. Sponsored ads accounts, programmatic DSP (demand-side platform) seats, regional profiles and, since 2025, global advertiser accounts each acquired their own keys, and a report that mixes them needs a column showing which parent account a row rolls up to. PPC Land's reading of the November 2026 dimensions reference summed up the field in one line: "Entity ID" ties an advertiser account to an entity.
+Agencies, data warehouses and Amazon Marketing Cloud (AMC) setups use it to tell one account holder from another, and it is easily confused with the other account numbers Amazon issues.
+Where the entity sits
+Amazon's advertising accounts follow a tree. At the top sits an optional manager account, which links and controls many accounts from one login. Below it sit advertiser accounts. Inside those sit campaigns, ad groups and ads, the levels that most reporting columns describe.
+The entity is the account-holder layer. In the sponsored ads console, it is the account that owns Sponsored Products, Sponsored Brands and Sponsored Display campaigns. Intentwise, an agency software firm, describes the value its AMC setup asks for as "your Sponsored Advertising Account's Entity ID". In Amazon DSP the entity is the seat: the agency or self-service advertiser that holds DSP access and creates advertisers beneath it. Amazon's API reporting guide for DSP, in a Chinese-language edition of the documentation, says self-service entity owners manage their own campaigns and that DSP profiles always carry the account type "agency", even when the holder is a brand.
+When Amazon runs DSP campaigns on an advertiser's behalf, reports are requested with the numeric DSP advertiser ID, such as 12345678 in the guide's example, not with an entity string. One entity can hold many advertisers.
+How the identifier appears
+The same string surfaces in at least four places.
+The console address bar. A sponsored ads campaign manager URL carries the entity as a parameter, in the pattern advertising.amazon.com/cm/campaigns?entityId=ENTITYXXXXX, according to Intentwise. DSP pages put it in the path instead: advertising.amazon.com/dsp/{ENTITY_ID}/advertisers, according to Amazon's DSP reporting guide.
+The profiles endpoint. Amazon's Advertising API organises access through profiles. According to the documentation of the open-source python-amazon-ad-api client, "Profiles represent an advertiser and their account's marketplace", and "advertisers cannot have more than one profile for each marketplace". Each profile has a numeric ID and an accountInfo object holding an id, a marketplace code and a type of seller, vendor or agency. For a DSP profile, that accountInfo.id is the entity ID, with the guide giving "ENTITY2XYZ1234" as an example. For sellers the same slot holds a merchant-style code, such as "A30E1B2F3U4K5Y".
+Manager account listings. A call to the managerAccounts endpoint returns each linked account with an accountId, an accountType and the manager's own ID. Amazon's sample pairs accountId "ENTITY3G3R4D4E0FEIV" with the type DSP_ADVERTISING_ACCOUNT and a manager ID in a different format altogether, beginning "amzn1.ads1.ma1".
+Object ownership. DSP objects carry the entity as an owner stamp. The frequency groups API, which applies one exposure cap across several campaigns, returns advertiserId, entityId and entityName for each group, used, in the reference's words, "to prevent illegal operations on a FrequencyGroup", according to a mirror of the reference published by the integration company One and last updated on February 25, 2026.
+Entity ID in unified reporting
+Unified reporting puts sponsored ads and programmatic buying in one report builder. It opened in beta on November 11, 2025 and reached general availability on June 8, 2026. Amazon's dimensions reference, updated on November 11, 2026, lists 156 attributes in 11 categories, each tagged with the ad products it supports: DVA+, the AI-led campaign type that took over much of what was called Amazon DSP until September 29, 2026, plus Sponsored Products, Sponsored Brands, Sponsored Display and Sponsored TV.
+PPC Land's count places Entity ID beside fields tied to how DVA+ campaigns are sold, such as Campaign OMS proposal ID and Ad group OMS ID, which hold references "imported from Amazon's order management system (OMS)", and the optional Campaign PO (purchase order) number. The account fields around it are clearer. Advertiser account ID, whose former DVA+ name was "Advertiser ID", along with Advertiser account name and Manager accounts, applies to all five products.
+Where a dimension does not apply to an ad product, Amazon's rule is that "its value appears as null", which its documentation calls "expected behavior" that "allows different ad products to share the same report". A report that adds Entity ID to a mixed sponsored ads and DVA+ query should therefore be checked for empty cells before rows are grouped on it.
+Origin and evolution
+The entity predates unified reporting by years. Amazon's DSP launched as Amazon Advertising Platform and was renamed Amazon DSP in September 2018, keeping an agency-seat model in which an entity created advertisers, orders and line items. Sponsored ads used a separate structure keyed to marketplaces, so a seller active in five countries held five profiles.
+On April 15, 2024, Amazon added nested manager accounts, letting businesses stack managers by region or business unit, a change PPC Land covered in May 2024.
+The DSP seat followed. On February 20, 2025, Amazon's global seat let buyers "register and manage via a single buyer seat ID, instead of one per country", while still creating "country specific advertiser accounts". Global manager accounts were split across three regions, North America, Europe and the Far East, and API users retrieved three profile IDs, one per regional endpoint.
+The advertiser account came next. In October 2025 Amazon put a unified advertiser account into open beta, merging product registrations into one account. On July 30, 2026, existing DSP advertisers were moved to a single global account across 34 countries. Amazon's advertiser account guide says "new Global Account IDs and regional identifiers are also available for multi-country campaign creation via API."
+Why it matters
+For agencies, Entity ID is an ownership record. Amazon now asks that new advertiser accounts carry the client's details rather than the agency's. A Support Center page updated on November 16, 2026 tells partners to "make sure that you enter your advertiser's details here", PPC Land reported the next day. Knowing which entity holds which advertiser decides who keeps access and history when a contract ends.
+For measurement, the ID is a linking key. AMC instances are tied to specific sponsored ads entities and DSP advertisers at setup, and Intentwise cautions that "using the incorrect IDs may lead to the linking of wrong accounts in your new AMC instance." The AWS documentation for Amazon's AMC uploader states plainly that "the alphanumeric code that is prefixed with ENTITY is your account identifier", distinct from the instance ID, which begins with "amc".
+Legacy report pages shut on January 31, 2027, and scheduled exports keyed to profile IDs or old DSP advertiser IDs must be rebuilt in unified reporting, where the entity is a column rather than a URL fragment.
+Limitations and disputes
+Documentation is thin. The public dimensions reference names Entity ID, but secondary accounts of it give no former name, no product markers and no format.
+Amazon's own pages disagree on identifiers. PPC Land noted in November 2026 that "Amazon's own pages disagree on what that did to identifiers": the July 30 announcement describes a new advertiser account ID replacing legacy DSP IDs, while the library guide says "your existing Amazon DSP advertiser account ID is now your advertiser account ID". How entity IDs map across that change has not been published.
+The prefix is overloaded: brands also get ENTITY-prefixed strings, so a value's shape does not reveal what it identifies. The accountType label "agency" on DSP profiles held by brands makes the type field an unreliable guide to who the holder is.
+Not to be confused with
+Advertiser account ID. The identifier of the advertiser account itself, which for DVA+ was formerly called Advertiser ID. Entity ID names the account holder above it; one entity can hold several advertisers.
+Profile ID. A numeric key, one per advertiser per marketplace, used to scope API calls. A profile points to an entity through accountInfo.id but is not the same value.
+Brand entity ID. The brandEntityId used in Sponsored Brands and Stores identifies a brand, not an account, though it shares the prefix. The open-source client documentation shows a sample of "ENTITY5ON7M22396H". PPC Land's Benchmark brand ID explainer separates it from the benchmarking label.
+Meta's "Entity ID". Practitioners use the same term for a grouping Meta is said to apply to similar ads. Minna Vainio of Precis wrote in July 2026 that ads sharing an Entity ID "compete against each other for the same limited audience pool", according to the agency's blog. Meta has not documented such an identifier, and it has nothing to do with Amazon's field.
+Recent developments
+Amazon DSP buying moved under DVA+ at the end of September 2026, and PPC Land's count of the rewritten reference found 85 of its 156 attributes applying to Sponsored Products. Cross-account reporting has climbed the tree too: on April 2, 2026, Amazon extended frequency group measurement from the advertiser account to manager and cross-manager levels. With legacy reports closing in January 2027, Entity ID is moving from a string buried in a URL to a column that every agency reconciling Amazon spend will have to read.
+Timeline
+- September 2018 - Amazon Advertising Platform is renamed Amazon DSP, keeping its entity-seat account model.
+- April 15, 2024 - Amazon launches nested manager accounts.
+- February 20, 2025 - DSP global seat replaces one buyer seat ID per country with a single seat ID; three regional profile IDs per user.
+- October 2025 - Unified advertiser account enters open beta.
+- November 11, 2025 - Unified reporting opens in beta.
+- February 25, 2026 - Last update of the third-party mirror of the frequency groups API reference listing entityId and entityName.
+- April 2, 2026 - Frequency group measurement extends to manager and cross-manager accounts.
+- June 8, 2026 - Unified reporting reaches general availability.
+- July 30, 2026 - Existing DSP advertisers move to a single global account across 34 countries.
+- September 29, 2026 - Amazon DSP buying moves under DVA+.
+- November 11, 2026 - Amazon updates its unified reporting dimensions reference, listing Entity ID among 156 attributes.
+- November 16, 2026 - Amazon updates its advertiser account creation page to require the client's details.
+- January 31, 2027 - Scheduled shutdown of legacy report pages.
+Related PPC Land coverage
+- 85 of Amazon's 156 unified report dimensions apply to Sponsored Products - Field-by-field reading of the November 2026 dimensions reference, including the line describing Entity ID.
+- Amazon wants the client's legal name, not the agency's, on new ad accounts - The November 2026 account creation rules and Amazon's conflicting statements on identifiers.
+- Amazon DSP advertisers gain a single global account across 34 countries - The July 2026 move to one global advertiser account.
+- Amazon Ads launches unified account for global campaign management - The October 2025 open beta of the unified advertiser account.
+- Amazon Ads enhances account management with nested manager accounts - The 2024 change 

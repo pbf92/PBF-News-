@@ -1,0 +1,35 @@
+URL: https://www.tikr.com/blog/gavin-baker-got-much-better-versions-of-his-claude-code-builds-from-grok-bot-warning-for-anthropic?ref=tikrblog
+TITLE: Gavin Baker Got “Much Better Versions” of His Claude Code Builds From Grok Bot. Warning for Anthropic
+OUTLET: TIKR.com
+
+Key Takeaways
+- Atreides’ Gavin Baker says Grok Bot gave him “much better versions” of his Claude Code builds in minutes, and Elon Musk boosted the clip.
+- That puts SpaceX’s Grok Bot against Claude Code, a big part of Anthropic’s IPO pitch.
+- Anthropic’s own compute margin fell to 42% last quarter from 52%, leaving little room for price cuts.
+- Anthropic can exit its SpaceX compute deal from early 2027, but its Microsoft Azure commitment runs through June 2033.
+Anthropic (ANT) jumped nearly 11% to $91.88 on Nov. 27, back above its $83 IPO price. The same day, Elon Musk boosted a clip its shareholders shouldn’t ignore.
+In a September conversation a16z reposted on X, Atreides Management CIO Gavin Baker described moving from Claude Code to Grok Bot from SpaceX (SPCX), which also rents Anthropic compute:
+“We got Claude Code. I built some stuff, did some cool stuff, and in, I don’t know, 3 minutes of creating Grok Bots, I had much better versions of everything I created.”
+Musk’s response? Grok Bot “keeps getting better.”
+Amazon (AMZN) carried its Anthropic stake at $238.7 billion on Sept. 30, and Microsoft (MSFT) has at least $47.2 billion of Anthropic’s Azure spending locked in.
+TIKR Tracks 15 Analysts on Anthropic. How Many Say “Buy”?
+See the full breakdown of Buy, Hold, and Sell ratings on Anthropic, along with Wall Street’s revenue and earnings estimates, all in one place. More than 500,000 investors use TIKR to research stocks like this one. See Anthropic’s Analyst Ratings
+Analysts Expect a Lot From Anthropic
+Anthropic’s revenue run rate hit $81 billion on Oct. 31, and analysts expect plenty more:
+That’s $54.7 billion this year, $130 billion in 2027 and $230 billion in 2028, much of it resting on developers choosing Claude.
+Baker’s builds were a Substack summarizer, an X summarizer and a stock sentiment tracker, the lighter end of what Claude Code does. Grok Bot doesn’t need to match Claude’s biggest builds to hurt it. Taking the quick jobs Baker says used to cost him hours is enough.
+Anthropic Has Little Cushion for a Price War
+Anthropic doesn’t report a gross margin, but its own compute margin, revenue minus all compute costs, fell to 42% in the third quarter from 52% in the second.
+And costs aren’t going anywhere: Anthropic has committed to nearly $901 billion of spending through 2045. Any price cut to keep Claude Code users would come out of an already thin margin.
+SpaceX Gets Paid Either Way, for Now
+Anthropic is due to pay SpaceX about $3.1 billion a month once all its capacity is delivered. Analysts expect SpaceX’s revenue to keep surging:
+That’s $49.1 billion this year, $182 billion in 2027 and $336 billion in 2028. But either side can exit on 90 days’ noticeonce the initial term ends in early 2027, while Anthropic’s Azure commitment runs through June 2033, used or not. If Claude loses developers, SpaceX’s contract is the one Anthropic can cut first.
+I suspect Musk is fine with that trade. SpaceX already owns Cursor, the coding tool it bought in August, and Grok Bot is another way to win developers.
+Amazon is better hedged: Bedrock sells both Anthropic’s models and Grok 4.7. But a Claude Code slowdown would still hit that stake.
+A Real Warning for Anthropic
+This is one investor’s take on a few small tools. But with that much growth already expected, even a small loss of coding share matters, and I’d take Baker’s clip as a real warning.
+The first test comes in Anthropic’s early reports as a public company. If Grok Bot pulls developers away, the run rate should lag analysts’ 2027 pace. Grok Bot is only a few months old, though, and Anthropic gets to answer with its next model.
+So What Is Anthropic Stock Actually Worth?
+TIKR lets you forecast the future price of any stock in less than a minute. Just enter a few assumptions into TIKR’s valuation model and see what Anthropic could be worth. Start from Wall Street consensus estimates, or adjust the inputs to reflect your own view of the business. It’s free to use.
+Disclaimer:
+Please note that the articles on TIKR are not intended to serve as investment or financial advice from TIKR or our content team, nor are they recommendations to buy or sell any stocks. We create our content based on TIKR Terminal’s investment data and analysts’ estimates. Our analysis might not include recent company news or important updates. TIKR has no position in any of the stocks mentioned. Thank you for reading, and happy investing!

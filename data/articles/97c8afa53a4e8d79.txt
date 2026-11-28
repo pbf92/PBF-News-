@@ -1,0 +1,25 @@
+URL: https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/9039772/heres-why-anthropic-stock-rallied-on-friday-and-why-wall-street-analysts-say-its-still-a-buy-right-now/
+TITLE: Here's Why Anthropic Stock Rallied on Friday -- and Why Wall Street Analysts Say It's Still a Buy Right Now
+OUTLET: The Globe and Mail
+
+Key Points
+- Anthropic's IPO proceeds will help to fund its massive AI investments.
+- The developer of Claude AI models could deliver handsome gains to its shareholders.
+Shares of Anthropic (NASDAQ:ANT) climbed nearly 11% on Friday, placing the artificial intelligence (AI) leader's closing price well above its initial public offering (IPO) price of $83.
+Image source: Getty Images.
+Missed Nvidia in 2009? This Rare Signal Is Flashing Again.In 2009, a "Double Down" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same "Total Conviction" signal is flashing for a company 1/100th the size of Nvidia. Continue »
+AI jitters have weighed on Anthropic's stock price
+Many investors are questioning whether Anthropic's blockbuster IPO marked the beginning of the end of the AI data center build-out boom.
+Concerns are mounting that AI infrastructure spending will be forced to slow as the heavy debt loads of numerous cloud computing suppliers approach unsustainable levels and financing becomes more difficult to obtain.
+The whopping $93.5 billion Anthropic raised from its IPO will help to fund its massive investments in data centers, advanced semiconductor chips, and other model development costs. This spending will be funneled throughout its sprawling AI supply chain.
+Yet that sizable sum represents just a small portion of the $900 billion Anthropic is committed to spending on computing power. Whether it can fulfill these spending commitments will depend on Anthropic's ability to become vastly more profitable in the coming years.
+Index fund buying could offset insider selling
+These risks aside, Anthropic's near-term share price is likely to be impacted by fund flows and insider lockup periods.
+Friday's gains might be indicative of investors looking ahead to a potential wave of index fund buying. Funds tracking popular stock indexes such as the Morningstar U.S. Total Market Index, Russell 3000, and Nasdaq-100 are expected to begin buying Anthropic's stock once it's added to these indexes in the coming weeks.
+These fund flows could help to offset selling by company insiders. The next insider lockup release for Anthropic is Dec. 15, when as many as 303 million shares become eligible for sale. More Anthropic shares will become available to trade in January and February, as well as later in 2027.
+Wall Street remains bullish
+Anthropic's long-term stock price movements, of course, will depend on the fundamental performance of its business. Most Wall Street analysts like what they see in this regard.
+Ten of the 15 analysts that cover Anthropic rate it a buy, while three say it’s a strong buy. The other two think it’s a hold. The average analyst price target for the stock is $136.33, according to Yahoo! Finance. That's 48% above its current price of $91.88.
+Oppenheimer analyst Param Singh, for one, expects Anthropic's place at the vanguard of AI model development to enable it to capture a growing share of corporate AI spending. In turn, he sees the AI leader's revenue surpassing $275 billion by 2028 -- up from $4.6 billion in 2025 -- with an operating margin of over 20%. Singh thus believes Anthropic's share price could rise 63% to $150.
+Looking further ahead, Melius Research analyst Ben Reitzes sees Anthropic's revenue rising to a staggering $430 billion by 2029. Moreover, he estimates that Anthropic's efficiency gains have driven down its cost to serve customers to $0.14 per dollar of revenue from roughly $2 in 2024. Reitzes believes Anthropic's costs could fall even further, particularly if computing demand slows and chip prices fall.
+Joe Tenebruso has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Anthropic and Nasdaq. The Motley Fool has a disclosure policy.

@@ -1,0 +1,25 @@
+URL: https://247wallst.com/investing/2026/11/27/jensen-huang-said-nvidias-blackwell-chips-were-too-big-to-smuggle-bloomberg-just-found-them-in-china/
+TITLE: Jensen Huang Said Nvidia's Blackwell Chips Were Too Big to Smuggle. Bloomberg Just Found Them in China.
+OUTLET: 24/7 Wall St.
+
+Jensen Huang Said Nvidia’s Blackwell Chips Were Too Big to Smuggle. Bloomberg Just Found Them in China.
+This post may contain links from our sponsors and affiliates, and Flywheel Publishing may receive compensation for actions taken through them.
+I’m conservative on NVIDIA (NASDAQ:NVDA | NVDA Price Prediction). A Nov. 27 Bloomberg report identified restricted Blackwell AI hardware at a Shanghai data center linked to Alice Huang. Jensen Huang previously suggested such equipment was too large to smuggle, and a fully equipped GB300 rack weighs approximately 3,300 pounds. Bloomberg has not established how the hardware got to China. Washington will still ask the question, and that is a problem for shareholders.
+Shares were trading at $147.13 in the morning, down 1.45% on the day and 31.88% over the past month.
+Bull Case I Don’t Buy
+Q3 revenue came in at $115.84 billion[1], beating out the $108.73 billion consensus. Q4 guidance is $130.0 billion ±3%[1], and management raised its fiscal 2028 growth outlook to approximately 75%[2]. Analysts still have 59 Buy ratings on the stock.
+Three Red Flags Wall Street Is Discounting
+Export Controls Will Tighten
+Bloomberg reviewed Chinese regulatory filings identifying GB300 NVL72 and GB200 systems, and one was pledged as collateral for a $14 million loan. Blackwell exports to China require U.S. government authorization, and Megaspeed, the company Alice Huang founded, was recently blacklisted. Each documented leak makes stricter end-use checks more likely, and those checks raise compliance costs for distributors and customers. China generated $11.05 billion[1] of Q3 revenue. On the new rules, Kress said: “We’re still going to spend some time studying those to understand the different pieces of them.”[2]
+Concentration Sits in the Footnotes
+Three direct customers made up 14%, 11% and 11%[1] of Q3 revenue. Guarantee exposure reached $118 billion[1], supply commitments hit $390 billion, and DSO extended to 64 days. Those obligations stay fixed even if regulatory friction slows a major buyer.
+Governance Is Still Unsettled
+In November the board said it “does not intend to reinstate Jensen as CEO”[2]. Huang was reinstated anyway, while an independent board committee investigation[1] disclosed in the Q3 release remains a stated risk.
+Catalysts to Mark Before Year-End
+Huang testifies before the Senate on Dec. 3. Prediction markets put the probability of a BIS export-control penalty by March 31, 2027 at 22.5%, and the probability of U.S. approval for Blackwell sales to China by the end of 2027 at just 20.5%. The Q4 report is expected February 23, 2027.
+What Could Prove Me Wrong
+I’d reconsider my view after clean Senate testimony with no penalty, followed by a Q4 beat with gross margin holding within the guided 71.0% to 72.0%[1] range.
+My Bottom Line Before Dec. 3
+I put my conviction at 7/10. I see raised regulatory risk until after the testimony. Investors exploring NVIDIA’s competitive landscape can compare it with Advanced Micro Devices (NASDAQ:AMD) or Broadcom (NASDAQ:AVGO), both of which NVIDIA names as competitors in its own filings.
+A 3,300-pound rack was supposed to be impossible to hide. Now that one has turned up in China, I expect regulators to set NVIDIA’s ceiling.
+Contact [email protected] for any questions or corrections.

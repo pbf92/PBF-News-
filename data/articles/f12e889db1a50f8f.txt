@@ -1,0 +1,40 @@
+URL: https://www.bbntimes.com/technology/nasdaq-jumps-2-31-to-24-129-50-as-chip-stocks-lead-black-friday-rebound
+TITLE: Nasdaq Jumps 2.31% to 24,129.50 as Chip Stocks Lead Black Friday Rebound
+OUTLET: BBN Times
+
+Nasdaq Jumps 2.31% to 24,129.50 as Chip Stocks Lead Black Friday Rebound
+The Nasdaq Composite rose 543.70 points on Friday, 27 November 2026, as chip stocks led a Black Friday rebound two days after the index plunged as much as 4.6% intraday, capping a 6.7% weekly gain.
+Nasdaq Close Today: 24,129.50, Up 2.31%
+The Nasdaq Composite closed Friday, 27 November 2026, at 24,129.50, up 543.70 points or 2.31% from Wednesday's close of 23,585.80, according to The Associated Press. It was the strongest of the three major US indices in the holiday-shortened session, which ended at 1 p.m. ET.
+Reuters' opening print showed the Nasdaq up 1.58% at 23,958.46. The index briefly gave back much of that gain in the first half-hour, when Nvidia turned negative, before recovering steadily and closing back above the 24,000 mark.
+Why Did the Nasdaq Rise Today?
+Semiconductor and AI stocks led a rebound after a severe November sell-off. Before the open, Nasdaq-100 futures were up 2.4%, according to CNBC. A chip-stock index rose 4.69% on the day, according to Swingfolio, with SanDisk up nearly 16% and Micron more than 7%.
+Anthropic, which listed on Wall Street earlier this month, was another big mover. The shares were up about 8.5% at $89.81 by 11:01 a.m. ET, according to Stock Titan, back above their $83 IPO price. A record rally in Chinese chip stocks overnight also lifted sentiment toward the sector.
+What Caused Wednesday's Nasdaq Plunge?
+On Wednesday, 25 November, the Nasdaq fell as much as 4.6% intraday. Three factors combined: October's core PCE inflation came in at 3.3% against expectations of 3.2%, the US Trade Representative proposed tariffs on 14 trading partners, and selling in AI stocks intensified. The VIX rose above 30.
+The Nasdaq 100 briefly fell 20% below its record closing high, the common definition of a bear market. However, buyers stepped in, and the Nasdaq Composite closed down just 0.6% at 23,585.80, setting the stage for Friday's recovery.
+Why Did Nvidia Lag While Chip Stocks Rallied?
+Nvidia opened about 2% higher but reversed and was down about 2% by late morning, bucking the sector's rally. The chipmaker has been under pressure throughout November. Co-founder Jensen Huang resigned as chief executive on 12 November after disclosing personal conduct issues, and the board reinstated him as president and CEO on 23 November, according to a company filing.
+The episode, together with tighter US rules on remote access to advanced AI chips, has left investors cautious about the stock even as other chipmakers recover. Investors are increasingly focused on whether the massive investment in AI infrastructure will generate enough revenue to justify the valuations of the largest AI companies.
+How Much Did the Nasdaq Gain This Week?
+The Nasdaq rose 6.7% over the four-session week, according to The Associated Press, outpacing the S&P 500 (5.6%) and the Dow (5.5%). The S&P 500's weekly advance was its best since April 2025.
+Even so, the Nasdaq remains well below its peak. At 24,129.50, it is about 12.6% below its record close of 27,599.89, set on 6 October 2026, and the Nasdaq 100 is tracking its worst November since 2022, according to Crypto Briefing.
+Which Nasdaq Stocks Moved the Most?
+Memory and storage chipmakers were among the biggest gainers, led by SanDisk and Micron. AMD and Broadcom also rose, while Meta and Amazon gained more than 2% early in the session, according to Reuters. Coinbase climbed more than 4% as crypto-linked shares recovered, even as Bitcoin traded near $60,000.
+The divergence between Nvidia and other chipmakers shows that investors are becoming more selective in the AI trade. Instead of buying the sector as a whole, they are favouring companies whose valuations have fallen most sharply or whose earnings are expected to benefit from specific segments, such as memory.
+What Risks Remain for the Nasdaq?
+The Federal Reserve is the biggest risk. Bloomberg reported that the Fed is on track to raise rates in December after the hotter core PCE data. Higher rates reduce the present value of future earnings, which hits high-growth technology stocks the hardest.
+Trade is another risk. The proposed US tariffs could raise costs for technology hardware companies that rely on global supply chains, while possible restrictions on chip exports to China could affect semiconductor sales.
+What Are the Key Technical Levels for the Nasdaq?
+The 24,000 level, which the index reclaimed on Friday, is now the first support, followed by Wednesday's close of 23,585.80. A break below Wednesday's intraday low would confirm a deeper correction.
+On the upside, the 24,500 level is the first resistance, followed by 25,000. A sustained move above 25,000 would put the Nasdaq within roughly 10% of its October record.
+Global Markets Snapshot
+Chip stocks rallied worldwide on Friday. Japan's Nikkei 225 rose 2.11% as Advantest and Lasertec surged, China's SSE Composite jumped 3.73%, and South Korea's KOSPI gained 4.34%. In Europe, STMicroelectronics and Infineon led their national indices higher.
+On Wall Street, the S&P 500 closed up 1.60% at 7,297.49 and the Dow rose 591.99 points to 50,774.94.
+Frequently Asked Questions
+What did the Nasdaq close at today? The Nasdaq Composite closed at 24,129.50 on 27 November 2026, up 543.70 points or 2.31%.
+Why did the Nasdaq fall 4% on 25 November 2026? Hotter-than-expected core PCE inflation, new US tariff proposals and selling in AI stocks triggered the intraday plunge.
+How far is the Nasdaq from its record high? The Nasdaq is about 12.6% below its record close of 27,599.89, set on 6 October 2026.
+Investor Takeaway
+The Nasdaq posted its best week in months, but the rebound follows one of the most volatile periods for technology stocks in years, and the index remains more than 12% below its October record. Nvidia's weakness shows that investors remain selective about AI names.
+Thin holiday trading means Friday's move needs confirmation next week. The Fed's December decision and AI earnings will determine whether the Nasdaq can recover its November losses.

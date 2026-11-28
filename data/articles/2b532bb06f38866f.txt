@@ -1,0 +1,11 @@
+URL: https://www.tradingview.com/news/tradingview:95eebf75e0427:0-key-facts-eth-loss-blackrock-holdings-slide-bitmine-holds-6-09m-eth/
+TITLE: Key facts: ETH loss, BlackRock holdings slide; Bitmine holds 6.09M ETH
+OUTLET: TradingView
+
+Key facts: ETH loss, BlackRock holdings slide; Bitmine holds 6.09M ETH
+Less than 1 min read
+- World Liberty Financial’s reserve wallet sold 10,600 ETH for about $17.58 million in USDC. Bought near $3,244 each, ETH was sold around $1,655, locking in an estimated $19.26 million loss. 2 sources
+- ETHUSD-linked BlackRock client holdings fell about $3.02 billion in November, from $7.32 billion on Nov. 1 to $4.3 billion on Nov. 27. The iShares Ethereum Trust shed 641,592 ETH. Coinpedia
+- As of Nov. 22, Bitmine held 6.09 million ETH, or 4.98% of supply, with about 86% staked. No ETHUSD price or trading move was reported. Crypto Briefing
+- Ethereum is accelerating plans for quantum-resistant cryptography, though claims that AI labs cracked RSA remain unconfirmed. Ethereum uses ECDSA, and the reported threat is not immediate. Benzinga
+This is an AI-generated summary and may contain inaccuracies. Please verify any important information with the original sources.
