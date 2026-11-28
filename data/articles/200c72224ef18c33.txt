@@ -1,0 +1,20 @@
+URL: https://unn.ua/en/news/openai-filed-a-countersuit-against-apple-what-the-two-tech-giants-could-not-agree-on
+TITLE: OpenAI filed a countersuit against Apple — what the two tech giants could not agree on
+OUTLET: Українські Національні Новини (УНН)
+
+OpenAI filed a countersuit against Apple — what the two tech giants could not agree on
+Kyiv • UNN
+OpenAI accused Apple of stealing trade secrets and obstructing employee transitions. Apple had previously filed a similar lawsuit.
+On Friday, OpenAI filed a lawsuit against Apple, accusing the technology giant of stealing trade secrets and attempting to prevent hardware suppliers from working with OpenAI on its future devices. This came in response to a lawsuit previously filed by Apple, which accused OpenAI of poaching its employees to gain access to the company’s technologies, UNN reports, citing Reuters.
+Details
+On Friday, the developer of ChatGPT filed a countersuit in a federal court in California, claiming that Apple’s personnel policies are aimed at "retaining" employees and preventing them from working on competitors’ technologies.
+In court documents filed on Friday, OpenAI stated that it is developing personal electronic devices powered by artificial intelligence that could "compete with Apple in territory that Apple itself considers its own."
+According to the case materials, Apple obtained confidential information by re-hiring a former employee who had worked at OpenAI for six months. During that time, he gained access to specific data about the new device, as well as OpenAI’s roadmap for future hardware products.
+"Given the chronology of events, it appears that stealing these documents may have been the real reason he joined OpenAI in the first place," the company claims.
+Apple and OpenAI did not immediately provide comments in response to Reuters’ request.
+Tensions between the two technology giants are rising amid an increasingly fierce race to develop artificial intelligence products, intensifying competition for talented specialists and unique technologies.
+Additionally
+Earlier, in July this year, Apple filed a lawsuit against OpenAI and its former employees Tang Tan and Chang Liu, accusing them of misappropriating trade secrets. According to Apple, this was done to help the owner of ChatGPT enter the consumer electronics market. Tang Tan, who worked at Apple for 24 years and served as vice president of product design, including for the iPhone and Apple Watch, was one of the founders of io Products, which OpenAI acquired in 2025.
+OpenAI and the employees mentioned rejected these accusations. They said that Apple’s lawsuit was based on the unauthorized monitoring of Chang Liu’s personal messages after he had stopped working at Apple. The attorneys for Tan and Liu have not yet responded to requests for comment. In a court document filed on Friday, OpenAI criticized Apple for encouraging employees to perform work tasks on their personal devices and in their personal Apple accounts, and then preventing them from properly separating work and personal data when they leave to take new jobs.
+According to OpenAI, Apple continues to access the personal devices and accounts of former employees even after they leave the company. This allows Apple to "monitor departing employees and set traps for them" when they move to competitors.
+OpenAI also said that, to date, 400 employees have moved from Apple to OpenAI, and that Apple is now trying to intimidate other employees to deter them from moving to other technology companies.

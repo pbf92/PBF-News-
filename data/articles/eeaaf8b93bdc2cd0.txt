@@ -1,0 +1,8 @@
+URL: https://opencritic.com/news/40461/gta-6-is-finally-running-on-pc-thanks-to-scarelttport-but-its-not-all-sunshine-and-gunfights
+TITLE: GTA 6 Is Finally Running on PC Thanks to ScarelttPort, But It's Not All Sunshine and Gunfights
+OUTLET: OpenCritic
+
+PC gamers have been anxiously awaiting any sign of Grand Theft Auto 6 making its way beyond consoles. And with no word from Rockstar, modders have taken matters into their own hands. That's where ScarlettPort enters the scene, an unofficial project that's making headlines by bringing GTA 6 to Windows PCs.
+Unlike earlier projects that required users to compile complicated code themselves, ScarlettPort comes with its own launcher, making it considerably more accessible. The project works as a compatibility layer, translating the Xbox version's graphics code so the game can run on PC hardware. However, players must provide their own game files.
+And we know you're all wondering: Does it really work? And the answer is surprisingly pleasant. It does work. To an extent, at least. ScarlettPort can get past the opening menus and load players into the game's opening area, where character movement and some gameplay functionality are already working. Mouse-and-keyboard support is also being experimented with, alongside compatibility with PlayStation controllers.
+Performance is a little sluggish, however. Recent community testing has reported results ranging from 12 to 22 FPS on relatively powerful graphics cards, depending on the hardware and test scenario. That's a long way from...

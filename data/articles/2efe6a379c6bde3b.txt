@@ -1,0 +1,23 @@
+URL: https://www.eurekalert.org/news-releases/1153479
+TITLE: A new framework reframes nutrition as an upstream driver of cancer hallmarks
+OUTLET: EurekAlert!
+
+Nutrition is usually treated as supportive care in oncology; a new perspective argues it belongs upstream, as a determinant of the capabilities tumors acquire.
+Nearly 38% of cancer cases worldwide are attributable to modifiable risk factors, according to a 2026 global burden analysis covering 30 factors — tobacco, alcohol, high body mass index, insufficient physical activity, air pollution, infections and occupational exposures among them. Why such dissimilar exposures converge on shared tumor biology has been less clear. Chang Gu, Xin Shi, Tao Huang and colleagues synthesize epidemiological and molecular evidence to argue that nutrient-sensitive epigenetic networks are the bridge, and organize the argument within the Hallmarks of Cancer framework.
+The mechanism is metabolic. One-carbon metabolism generates S-adenosylmethionine (SAM), the methyl donor for DNA and histone methylation; acetyl-CoA fuels histone acetylation; NAD+ activates sirtuin-mediated deacetylation; and alpha-ketoglutarate drives TET and JmjC demethylases. The SAM-to-S-adenosylhomocysteine ratio, or methylation index, sets methylation capacity, and folate or vitamin B12 deficiency disrupts it. RNA modifications such as m6A, deposited by METTL3 using SAM, add another layer. Dietary imbalance or environmental exposure can perturb these metabolic–epigenetic axes and shift epigenetic states and cellular programs tied to malignant transformation. Unlike inherited mutations, many of these changes remain plastic — the property that makes diet a possible intervention point.
+Specific dietary compounds illustrate the route: sulforaphane from cruciferous vegetables inhibits histone deacetylases, green-tea EGCG inhibits DNMT1, resveratrol activates SIRT1, and gut-microbiome fermentation of fiber yields butyrate, a natural HDAC inhibitor. The authors discuss caloric restriction, intermittent fasting, methionine restriction, and vitamin C with alpha-ketoglutarate as further levers. They also warn that more is not better. In high-risk populations — heavy smokers and asbestos-exposed workers — daily beta-carotene above 30 mg raised lung cancer risk by 18% in the ATBC and CARET trials; the authors note CARET's intervention was shorter than cancer's induction period, so the trial neither supports nor refutes an effect in early carcinogenesis. The SELECT trial found vitamin E supplementation raised prostate cancer risk by 17% among healthy men. Effects depend on tumor type, metabolic state and timing.
+The framework pairs each risk factor with the hallmark it drives and with evidence-based interventions: smoking with genome instability and sustained proliferative signaling, unhealthy diet with deregulated cellular energetics, pollution with tumor-promoting inflammation, and excess body weight with insulin- and estrogen-driven proliferation. At population level the authors point to tobacco control, taxes on ultra-processed foods, subsidies for fruits and vegetables and air-quality standards; clinically, to nutritional assessment in routine prevention care. This is a conceptual synthesis of existing studies, not a new trial. Biomarker validation, cost, accessibility and patient adherence remain open challenges before precision nutrition enters prevention practice.
+###
+Gu C., Shi X., Xing B., et al. (2026). Targeting the hallmarks of cancer: A nutritional epigenetics framework for prevention and intervention. The Innovation Nutrition 1(3), 100040. https://doi.org/10.59717/j.xinn-nutri.2026.100040
+Journal
+The Innovation Nutrition
+Method of Research
+Commentary/editorial
+Subject of Research
+People
+Article Title
+Targeting the hallmarks of cancer: A nutritional epigenetics framework for prevention and intervention
+Article Publication Date
+5-Oct-2026
+COI Statement
+The authors declare no competing interests.

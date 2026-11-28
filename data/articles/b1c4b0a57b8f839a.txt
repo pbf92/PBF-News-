@@ -1,0 +1,27 @@
+URL: https://www.thekeyword.co/news/chatgpt-ads-reach-frequency
+TITLE: ChatGPT Ads Adds Reach and Frequency to Ads Manager
+OUTLET: https://www.thekeyword.co/
+
+OpenAI has added reach and frequency reporting to ChatGPT Ads, so advertisers can see how many people an ad reached rather than only how many times it was shown. The metrics are available in Ads Manager and in the Ads API, according to a product update OpenAI emailed to advertisers, which Search Engine Roundtable reported on 25 November.
+Until now, ChatGPT Ads reporting counted events. Impressions, clicks, spend and conversions say how often something happened, but not how many different people it happened to.
+What the Two Metrics Measure
+OpenAI defines both against the reporting date range an advertiser selects. Reach "estimates how many unique people saw your ads at least once." Frequency estimates how many times those people saw the ads on average, calculated by dividing total impressions by Reach for the same period.
+Both are described as estimates. That matters for any advertiser about to set a reach goal or judge a frequency level from them, since an estimated audience can drift from the true count.
+Seven More Columns
+The update adds 9 metrics in all. Alongside Reach and Frequency, OpenAI lists Click Reach, Click Frequency, Total Reach, Total Frequency, Unique CTR, Unique CPC and Cost per 1,000 Reached. Its email defines only Reach and Frequency, so the exact scope of the other seven, such as what separates Total Reach from Reach, is not yet spelled out.
+None of them appears by default. In Ads Manager, an advertiser selects Edit columns, chooses the metrics under a group called Ad Viewers, then saves the change.
+The unique metrics change how a campaign can be read. Unique CTR and Unique CPC count people rather than repeat clicks, and Cost per 1,000 Reached prices an audience rather than a set of impressions. Together they let an advertiser compare ChatGPT with other channels on the same audience terms.
+Where the Metrics Are Not Yet
+The documentation has not caught up. OpenAI's Measure Results page, which explains ChatGPT Ads reporting, still lists impressions, clicks, spend, CTR, average CPC, average CPM and conversions, and makes no mention of reach, frequency or the unique metrics.
+The email also gives no rollout date and does not say whether every account has the new columns.
+Catching Up on the Basics
+Reach and frequency are standard reporting elsewhere. Meta, for one, defines reach as the number of Meta Accounts that saw an ad at least once, and calculates frequency the same way, as impressions divided by reach.
+ChatGPT Ads has been filling in its measurement layer through the autumn. In September, OpenAI said the platform had passed a $1 billion run rate, and on 5 October it named third-party measurement partners for attribution, conversion data and incrementality. Audience metrics are the next layer down, and the one most media plans are built on.
+For advertisers, the practical change is a deduplicated view. A campaign that reached the same small group many times now shows that in its own reporting, which makes frequency something a buyer can watch rather than infer.
+Recap
+What reporting has OpenAI added to ChatGPT Ads?
+OpenAI has added Reach and Frequency to ChatGPT Ads Manager and the Ads API, along with Click Reach, Click Frequency, Total Reach, Total Frequency, Unique CTR, Unique CPC and Cost per 1,000 Reached. The change came in a product update emailed to advertisers.
+How are Reach and Frequency calculated in ChatGPT Ads?
+For the selected date range, Reach estimates how many unique people saw the ads at least once. Frequency estimates how many times those people saw the ads on average, by dividing total impressions by Reach. Advertisers add them through Edit columns, under Ad Viewers.
+What changes for advertisers using ChatGPT Ads reporting?
+Advertisers can see the size of the audience a campaign reached and how often it saw the ads, and compare cost per 1,000 people reached with other channels. Both figures are estimates, and OpenAI's Measure Results help page does not yet document them.

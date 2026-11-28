@@ -1,0 +1,14 @@
+URL: https://www.abs.gov.au/methodologies/personal-income-australia-methodology/2023-24
+TITLE: Personal Income in Australia methodology, 2023-24
+OUTLET: Australian Bureau of Statistics
+
+LEED links jobs to employers and employed persons are linked to employers via the jobs they hold.
+Before the linkage takes place, an input job level file is created largely based on the Income Statement file. This file is also enhanced with job records derived using ITR information, to cover jobs without Income Statement information, such as OMUE jobs. Data quality is enhanced by using occupation information from the ITR, and the best available age, sex, and geographic information between the Income Statement, ITR and Client Register (CR) data.
+Jobs are then integrated with the employer by one of two methods. The method is dependent on which part of the business population on the ABS Business Register the employer is grouped into.
+- Non-profiled population (businesses with a simple structure): a deterministic approach using the Australian Business Number (ABN).
+- Profiled population (businesses with a complex structure): a more detailed approach to linking is used, detailed below.
+Where an employer is part of the profiled population, the relevant jobs are assigned to type of activity units (TAUs) based on predicted probabilities estimated from a logistic regression model using the LEED latest reference year’s data on jobholders linked to businesses in the non-profiled population. The model references independent variables common to jobholders linked to non-profiled and profiled businesses, including sex, age, occupation, and region of usual residence. These are used to predict the industry of jobs, which conceptually aligns to a type of activity unit.
+Where an employee has multiple job relationships with the same reporting ABN in an enterprise group, each job relationship is assigned to the same type of activity unit.
+Based on the model, each job record is assigned a probability of being in each of the type of activity units present in the employing enterprise group. Iterative random assignment is undertaken using these probabilities until employment benchmarks are met. Benchmarks are based on Quarterly Business Indicators Survey (QBIS) data where a unit is in scope. BLADE employment levels are substituted where QBIS data is not available, otherwise no benchmarking is done.
+The above process is applied to link the different input datasets for each financial year. Records have not been integrated across years and therefore, the LEED is a cross-sectional database and is not longitudinal.
+ABS data integration practices comply with the High-Level Principles for Data Integration Involving Commonwealth Data for Statistical and Research Purposes. For further information see - Keeping integrated data safe.

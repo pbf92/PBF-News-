@@ -1,0 +1,26 @@
+URL: https://www.tradingview.com/chart/NVDA/OBxRCamX-HOW-TO-Compare-AutoClimate-Duration-With-Its-Benchmark/
+TITLE: HOW-TO: Compare AutoClimate Duration With Its Benchmark for NASDAQ:NVDA by traddictiv
+OUTLET: TradingView
+
+More exclusive indicators from traddictiv
+Subscribe to UFO Trading Suite — AutoClimate™ + AutoUFOs® (patented) for $55.00/month to get exclusive indicators by this author. You pay right on TradingView and can use them on your charts straight away.
+Explore UFO Trading Suite — AutoClimate™ + AutoUFOs® (patented)
+When a market is in a down climate, how long has that condition already lasted compared with previous down climates on the same chart? AutoClimate™ helps answer that question with two numbers in the Duration (1SD) row.
+1. Identify the current climate
+Start with the dots along the bottom of the AutoClimate™ pane. Blue identifies an up climate and red identifies a down climate. On the weekly NVIDIA chart shown here, the latest dots are red, so the relevant benchmark is in the Down column.
+2. Compare the current duration with the matching benchmark
+On the NVDA chart for the week ending November 27, 2026, Down reads 4 and Now reads 6. Because this is a weekly chart, each bar represents one week. The current down climate has lasted six weekly bars, putting it two bars beyond its four-bar historical duration benchmark.
+A down climate can include a week that closes higher than the previous week. The duration counts how many bars the climate classification has persisted.
+3. Use the benchmark to review your assumptions
+Check the reading after the bar closes and record whether the current climate is below, at, or above its benchmark. Keep the symbol, timeframe, and indicator settings consistent when comparing readings over time.
+On NVDA, six versus four tells us that the weekly down climate has already lasted longer than its historical reference. That can be a useful point to revisit a plan that assumes the decline will continue. How long the climate lasts from here remains open.
+Another way to think about climate duration
+Imagine you’re invited to a party that runs from 7 to 11. Show up at 7:30 and you have most of the evening ahead of you. Show up at 10:50 and you might get one song, half a slice of pizza, and an invitation to help stack the chairs. It’s the same party. How much time has already passed changes whether it’s worth heading out.
+For a market climate, think of the duration benchmark as the time similar parties have tended to wrap up. The host can keep the music going, and some nights end early. On the NVDA chart, the down climate is still going at six weekly bars against a four-bar benchmark. If you’re only just thinking about joining in, it’s worth asking how much of your plan depends on the party carrying on.
+This publication is educational and does not constitute investment advice.
+Related publications
+Disclaimer
+The information and publications are not meant to be, and do not constitute, financial, investment, trading, or other types of advice or recommendations supplied or endorsed by TradingView. Read more in the Terms of Use.
+Related publications
+Disclaimer
+The information and publications are not meant to be, and do not constitute, financial, investment, trading, or other types of advice or recommendations supplied or endorsed by TradingView. Read more in the Terms of Use.

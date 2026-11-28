@@ -1,0 +1,40 @@
+URL: https://everything-pr.com/gemini-image-generation-crisis
+TITLE: Google Gemini Image Crisis (2024): A PR Case Study
+OUTLET: Everything-PR
+
+The Google Gemini image generation crisis began in February 2024, when users shared historically inaccurate images, including depictions of America's Founding Fathers. Google paused Gemini's image generation of people on February 22, 2024, and Prabhakar Raghavan explained the cause in a February 23 blog post. Sundar Pichai called the results unacceptable in a February 27 staff memo. People generation returned on August 28, 2024, for paying subscribers.
+What went wrong with Gemini's image generator?
+Gemini's image generator produced historically inaccurate images of people because of two tuning problems, which Prabhakar Raghavan described in a February 23, 2024 blog post, according to NPR. The model was tuned to show a range of people, and that tuning failed to account for cases that should clearly not show a range.
+The second problem was caution. Raghavan wrote that the model became more cautious than Google intended and refused some prompts it wrongly read as sensitive, according to NPR. Raghavan also described the results as "embarrassing and wrong," according to Businessworld, and Gemini's image feature ran on Google's Imagen 2 model.
+The viral examples included America's Founding Fathers, the Pope and a Nazi-era German soldier depicted in ways that did not match the historical record, according to NPR. NPR also reported that the backlash included commentators who accused Google of anti-white bias, while researchers said Google was trying to counter image datasets dominated by one type of person.
+How did Google respond to the Gemini image crisis day by day?
+Google's response to the Gemini image crisis ran from a public acknowledgment on February 21, 2024 to a limited relaunch on August 28, 2024. The table lists each dated step with its source.
+How fast did Google act, and how long did the fix take?
+Google paused Gemini's image generation of people one day after its first public acknowledgment, but the return of the feature took about six months. The acknowledgment came on February 21, 2024, the pause on February 22, and the relaunch on August 28, 2024, according to TechCrunch.
+The early timeline promises were short. Pichai pledged to fix and relaunch the service in the coming weeks, according to NPR, and DeepMind co-founder Demis Hassabis said a fix should arrive in very short order, within a couple of weeks, according to TechCrunch's August 28 report. TechCrunch noted that the fix took much longer.
+The gap between a one-day pause and a six-month return is the part of this case that most PR teams skip. A fast pause earns credit, and a missed relaunch promise spends it.
+What can PR teams learn from the Gemini image response?
+PR teams can take four moves from the Gemini response: pause before explaining, name the cause in plain terms, concede the harm directly, and relaunch with a narrower scope.
+Should a team pause the feature before explaining it?
+Google announced the pause on February 22 and published its explanation on February 23, according to TechCrunch and NPR. Why it works: while a generator stays live, users can keep producing new screenshots, so a pause ends the supply of new examples before the explanation lands (EPR analysis, based on Google's February 22, 2024 statement that it would pause people generation while it worked on a fix).
+Should the explanation name the technical cause?
+Raghavan named two specific failures in his blog post: tuning that did not account for cases that should not show a range, and over-caution on harmless prompts. Why it works: reporters could describe the cause in Google's own terms, and NPR organized a section of its February 28, 2024 story around the fine-tuning explanation.
+Should the apology concede the harm directly?
+Pichai told staff that some responses offended users and showed bias, and that Google got it wrong, according to NPR's report on the Pichai memo. He also listed actions that included structural changes, updated product guidelines, improved launch processes and red-teaming. Why it works: a stated harm paired with a named action list gives a reader something to check later. The CEO's strongest language reached the public through a note NPR reviewed, not through a public statement.
+Should the relaunch be narrower than the original launch?
+Google relaunched people generation only for Gemini Advanced, Business and Enterprise subscribers, in English, according to TechCrunch's report on the relaunch. Google also said Imagen 3 does not support photorealistic identifiable individuals, depictions of minors, or excessively gory, violent or sexual scenes, according to Medianama. Why it works: a smaller audience and a published list of exclusions limit how many new failures can reach the public at once (EPR analysis).
+What did the Gemini response leave unresolved?
+The Gemini response left the underlying dispute over image bias unresolved, and it left the relaunch limited to paying users. TechCrunch reported that Google would not say when the people-generation test would expand to the free Gemini tier and other languages.
+The explanation also did not settle the argument about intent. NPR reported accusations of anti-white bias from some commentators, and it reported researchers' point that Google was trying to counter datasets dominated by one type of image. A PR response can explain a mechanism, but it cannot end a dispute about motive.
+Gemini image crisis: quick answers
+When did Google pause Gemini image generation of people?
+Google paused Gemini's image generation of people on February 22, 2024, according to TechCrunch and CNBC.
+Why did Gemini generate inaccurate historical images?
+Gemini generated inaccurate historical images because its tuning failed to account for cases that should not show a range of people, and the model became more cautious than Google intended, according to Prabhakar Raghavan's blog post as reported by NPR.
+Who apologized for the Gemini image results?
+Prabhakar Raghavan explained and apologized in a February 23, 2024 blog post, and Sundar Pichai told staff in a February 27 memo that the results were unacceptable, according to Businessworld and NPR.
+When did Gemini image generation of people return?
+Gemini image generation of people returned on August 28, 2024, with Imagen 3, for Gemini Advanced, Business and Enterprise subscribers in English, according to TechCrunch.
+What should a team do before launching an image generator?
+A team should write the pause criteria, the public explanation and the relaunch conditions before launch day. Name who can switch the feature off, what evidence triggers a pause, and which tests must pass before it returns.
+Commit to a relaunch date only after testing is complete, because Google's early promise of weeks became a six-month wait. Use the AI crisis war-gaming scenarios to rehearse the pause, and follow the first 24 hours crisis playbook for the first public statement. Review the golden rules of crisis management before the CEO memo is written.

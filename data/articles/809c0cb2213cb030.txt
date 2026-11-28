@@ -1,0 +1,33 @@
+URL: https://www.tradingview.com/chart/XAUUSD/1kXQVYXi-Top-Down-Analysis-Why-an-87-7-Win-Rate-Can-Still-Lose-Money/
+TITLE: Top Down Analysis: Why an "87.7% Win Rate" Can Still Lose Money for OANDA:XAUUSD by Paradise_Noir
+OUTLET: TradingView
+
+Top Down Analysis: Why an "87.7% Win Rate" Can Still Lose Money
+An "87.7% win rate" sounds like the holy grail. I tested a simple top-down strategy on 13 months of gold. The win rate reached 77.5%, and it still lost money. Here's why, and how to use top-down analysis the right way.
+◆ THE PROBLEM WITH WIN RATE
+Win rate shows how often you win, not how much. If your stop is $10 and your target is $2, you need to win 83% of the time just to break even.
+Key idea: a high win rate is easy to fake. Just shrink the target.
+◆ TOP-DOWN IN 3 STEPS
+D1, direction: price above the 50 EMA, buy only. Below, sell only.
+H4, zone: wait for price to pull back to the 20 EMA.
+H1, trigger: enter when a candle closes back across its 20 EMA.
+Stop: just past the low of the last 6 hourly candles (the high for sells).
+◆ WHAT THE TEST SHOWED
+Same entries, same stops, only the target changed. Gold, November 2025 to November 2026:
+Target 0.2R: 77.5% wins, lost money
+Target 1R: 46.1% wins, lost money
+Target 3R: 35.7% wins, made money
+Higher win rate, worse result. Spread and fees are not included, so the small profit at 3R is not a guarantee.
+◆ HOW TO USE IT
+Trade only in the D1 direction.
+Let price come to your H4 zone. Don't chase.
+Enter on an H1 close, not a touch.
+Never set a target smaller than your stop.
+◆ CONCLUSION
+Don't ask "how often does it win?" Ask "how much does each win pay?"
+What matters more to you: a high win rate or a high reward? Tell me below.
+Educational content only, not financial advice. Test data: PAXGUSDT (tracks gold), spread and fees not included.
+Disclaimer
+The information and publications are not meant to be, and do not constitute, financial, investment, trading, or other types of advice or recommendations supplied or endorsed by TradingView. Read more in the Terms of Use.
+Disclaimer
+The information and publications are not meant to be, and do not constitute, financial, investment, trading, or other types of advice or recommendations supplied or endorsed by TradingView. Read more in the Terms of Use.

@@ -1,0 +1,17 @@
+URL: https://www.neoteo.com/en/gta-6-console-performance-how-ps5-and-xbox-compare
+TITLE: GTA 6 console performance: the 30-fps results
+OUTLET: NeoTeo
+
+All four console versions of Grand Theft Auto VI target 30 frames per second (fps). In its four-console comparison, Digital Foundry reported more frequent frame-rate drops on base PS5 than on Xbox Series X; Eurogamer described PS5 Pro as the most stable of the four. Those findings concern sampled gameplay, not a promise that every scene will hold 30 fps.
+What the four-console comparison found
+Digital Foundry compared PS5, PS5 Pro, Xbox Series X and Xbox Series S. Its comparison points to a difference in how consistently the consoles hold the shared 30-fps target: base PS5 had more frequent drops than Xbox Series X, and Eurogamer reported PS5 Pro as the steadiest. Digital Foundry said its performance testing was verified on the latest patch for its November 24, 2026 comparison (its post about the test).
+Why performance varies by scene
+The comparison covered demanding sequences, including high-speed driving, a crowded airport and vehicle explosions, according to Zero1’s account of Digital Foundry’s analysis. Zero1 also reported that reproducing identical conditions across the consoles was difficult. That makes the findings useful for understanding the scenes examined, rather than a single ranking that applies uniformly to every moment of play.
+A separate Digital Foundry PS5 Pro review described an explosive stress scene that dipped to 24 fps, while reporting no performance dip during more than 50 hours of ordinary play. The reviewer characterized the explosive scene as an edge case, not typical performance across the game.
+When stability matters, frame drops in demanding scenes tell you something the shared 30-fps target cannot.
+What differs in the consoles’ rendering
+The reported rendering paths also differ. Eurogamer says PS5 Pro uses PSSR to upscale from a 1440p base resolution to a 4K presentation; its analysis describes a 30-fps target and no 40-fps or 60-fps mode. IGN reports that Xbox Series S uses AMD FSR 4.1 to upscale from 720p to 1080p, while base PS5 and Xbox Series X use TAA and PS5 Pro uses PSSR.
+Eurogamer reports that Xbox Series X’s 120Hz variable refresh rate (VRR) can smooth minor frame-rate dips. VRR adjusts a display’s refresh timing to match changing frame delivery; it does not turn the game’s 30-fps target into 120-fps gameplay.
+Frame rate is one part of a console decision. For a wider look at platform features and ecosystem trade-offs, see our PS5 Pro vs. Xbox Series X comparison.
+What a separate gameplay sample measured
+Open Surprise’s separate test reports these average frame rates across selected gameplay sections. Its figures are distinct from Digital Foundry’s comparison and should be read as results from that sample, not as a full-game benchmark.

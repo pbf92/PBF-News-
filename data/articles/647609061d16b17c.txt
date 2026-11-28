@@ -1,0 +1,26 @@
+URL: https://www.thekeyword.co/news/chatgpt-ads-learn-more-link
+TITLE: ChatGPT Ads Adds a Default Learn More Link to Image Ads
+OUTLET: https://www.thekeyword.co/
+
+ChatGPT single image ads now show a "Learn more" link below the description by default, a change that reaches live ads without the advertiser doing anything. The link opens the landing page already set in Ads Manager, so OpenAI says no additional setup is required. The change came in a product update OpenAI emailed to advertisers, which Search Engine Roundtable reported on 25 November.
+The same update brought two smaller Ads Manager controls, one for product-feed prices and one for rejected ads. None of the three has its own page in OpenAI's help center, and the email gives no dates or markets for any of them.
+What Changes on a Single Image Ad
+The link is a new call to action for the format. Its destination is the landing page already attached to the ad, so where a click goes does not change. What changes is the ad itself, which now carries a visible prompt to click under its copy.
+OpenAI's wording does not mention a setting to turn the link off, and its help center has no page on it.
+The prompt already existed in ChatGPT's newer format. When OpenAI opened multi-image ads as an open beta on 26 October, its ad creation guide made Learn more the only call-to-action option for that format. The default now carries the same prompt to single image ads.
+A Second Default Since October
+This is the second time in a month that OpenAI has changed live ChatGPT ads by default rather than offering an option. From 30 October, according to its help page, creative enhancements were enabled by default for new and existing self-serve and BPO campaigns, letting OpenAI adjust headlines, descriptions, images, destination URLs and language. Sales-managed accounts were not affected, and advertisers can opt out in Manage settings.
+The Learn more link is the smaller change. It adds a link to a page the advertiser already chose, while creative enhancements can rewrite the ad. Both move the same way, though: the ad an advertiser set up is no longer exactly the ad a user sees.
+Sale Prices on Product-Feed Ads
+Advertisers running product-feed ad groups can now hide sale prices in Ads Manager, so their ads show the regular price again when a promotion ends. The setting sits in the ad group: edit it and select Hide product sale prices under Product display. OpenAI notes that advertisers can also keep both prices in their feed.
+Product ads in ChatGPT already show prices and sale prices from the catalog, according to OpenAI's product feed guide. The new control lets an advertiser stop showing an expired discount without editing the feed itself.
+More Detail on Rejected Ads
+When an ad is not approved, the review message in Ads Manager now shows more context on which policy applies. OpenAI says this lets an advertiser decide whether to revise the ad or request a review. A Policy Center opens from the dropdown in the bottom-left corner of Ads Manager.
+The approval bar itself has not moved. OpenAI said the guidelines for approving ads have not changed, so the update explains rejections rather than reducing them.
+Recap
+What is changing in ChatGPT single image ads?
+Single image ads in ChatGPT now show a Learn more link below the description by default. The link opens the landing page the advertiser already set in Ads Manager, so OpenAI says no additional setup is required.
+How do the new sale price and policy controls work?
+For a product-feed ad group, advertisers edit the ad group and select Hide product sale prices under Product display, so ads show the regular price again. For a rejected ad, the review message now shows which policy applies, and a Policy Center opens from the dropdown in the bottom-left corner of Ads Manager.
+What changes for advertisers running ChatGPT ads?
+Live single image ads now carry a click prompt the advertiser did not add, pointing to their existing landing page. Advertisers can stop showing an expired discount without editing their feed, and get a clearer reason when an ad is rejected, though OpenAI says its approval guidelines are unchanged.

@@ -1,0 +1,39 @@
+URL: https://www.tradingview.com/news/barchart:ea1deb022094b:0-stocks-settle-sharply-higher-as-chipmakers-and-ai-stocks-rebound/
+TITLE: Stocks Settle Sharply Higher as Chipmakers and AI Stocks Rebound
+OUTLET: TradingView
+
+Stocks Settle Sharply Higher as Chipmakers and AI Stocks Rebound
+The S&P 500 Index SPY closed up +1.60% on Friday, the Dow Jones Industrial Average DIA closed up +1.18%, and the Nasdaq 100 Index QQQ closed up +2.61%. December E-mini S&P futures (ESZ26) rose +1.57%, and December E-mini Nasdaq futures (NQZ26) rose +2.56%.
+US stock indexes settled sharply higher on Friday, with the Dow Jones Industrials posting a 1.5-week high. The recovery in the artificial intelligence trade on Friday boosted chipmakers and AI stocks, lifting the broader market after the sharp selloff over the past three weeks. Market activity was well below average on Friday in a holiday-shortened trading session, as stock indices and cash Treasury trading closed at 1 pm EST.
+Join 200K+ Subscribers: Find out why the midday Barchart Brief newsletter is a must-read for thousands daily.
+Friday’s US trade news is negative for Q4 GDP and bearish for stocks after the Oct trade deficit was -$149.5 billion, wider than expectations of -$136.0 billion and the largest trade deficit in 19 months.
+The markets are currently pricing in a 98% chance of a +25 bp rate hike at the next FOMC meeting on December 8-9. After that rate hike, the markets are pricing in at least one more +25 bp Fed rate hike in 2027.
+Jan WTI crude oil prices (CLF27) fell from a 1.5-week high on Friday and settled lower. Dollar strength on Friday weighed on energy prices. Also, the outlook for higher OPEC crude production undercut oil prices after Iraq’s oil minister said his country is negotiating with OPEC to raise the country’s crude production ceiling. OPEC+ will meet online on Sunday to discuss and review output targets for next year.
+Crude prices initially moved higher on Friday as escalating attacks on energy infrastructure and tankers in the Middle East raised supply concerns. Saudi Arabia's Jazan refinery near the Red Sea coast was attacked again by Iranian-backed Houthi militants from Yemen on Thursday, days after Ras Tanura, Saudi Arabia's oil export hub on the Persian Gulf, was targeted. Also, tankers have continued to be attacked in and around the Strait of Hormuz this week.
+The markets remain on guard for a full resumption of US attacks after Iran's recent attack on an industrial facility in Bahrain, which hosts a major US military installation. In addition, Ukraine continues to ramp up attacks on Russian energy infrastructure and has attacked 15 Russian oil refineries since the start of November that have a combined capacity of more than 3.6 million bpd, over half of Russia's total capacity, according to Bloomberg calculations.
+Stocks are supported by solid Q3 quarterly earnings. According to data compiled by Bloomberg Intelligence, Q3 S&P 500 earnings rose by +31% from a year earlier, much better than a July forecast of +22%. As of Friday, 482 of the S&P 500 companies have reported results, with 85% beating estimates.
+Overseas stock markets settled higher on Friday. The Euro Stoxx 50 rose to a 1-week high and closed up +1.14%. China’s Shanghai Composite climbed to a 1.5-week high and closed up +3.73%. Japan's Nikkei Stock Index closed up +2.11%.
+Interest Rates
+December 10-year T-notes (ZNZ6) closed down -17 ticks on Friday, and the 10-year T-note yield rose +8.2 bp to 4.936%. T-notes were under pressure Friday as a sharp rebound in stocks reduced safe-haven demand for government debt. Also, Friday’s jump in commodity prices raised inflation expectations and is bearish for T-notes.
+European bond yields moved higher on Friday. The 10-year German bund yield rose +1.9 bp to 3.269%. The 10-year UK gilt yield rose +4.1 bp to 5.187%.
+The Eurozone Nov economic confidence index unexpectedly fell -0.7 to a 5-month low of 95.8, weaker than expectations of an increase to 97.2.
+ECB Oct inflation 1-year CPI expectations rose +3.5%, stronger than expectations of +3.2% and the highest in 5 months. Oct 3-year CPI expectations rose +3.0%, stronger than expectations of +2.9% and the highest in 7 months.
+ECB Governing Council member Primoz Dolenc said that ECB interest rate increases this year probably aren't sufficient to bring inflation back to the 2% target and "further measures will likely be necessary in the coming months."
+ECB Governing Council member and Bundesbank President Joachim Nagel said, "We expect inflation to be above 3% for all of 2027 and that means the ECB may have to do more on the monetary-policy side."
+The markets are pricing in a 95% chance of a +25 bp rate hike at the ECB’s next policy meeting on December 17.
+US Stock Movers
+Chipmakers and AI infrastructure rallied sharply on Friday, lifting the broader market. The iShares Semiconductor ETF SOXX closed up more than +4%. SanDisk SNDK closed up more than +15% to lead gainers in the S&P 500 and Nasdaq 100, and Micron Technology MU, Marvell Technology MRVL, Western Digital WDC, and Seagate Technology Holdings Plc STX closed up more than +7%. Also, Qualcomm QCOM and ARM Holdings Plc ARM closed up more than +6%, and Intel INTC closed up more than +5%. In addition, NXP Semiconductors NV NXPI, KLA Corp KLAC, Advanced Micro Devices AMD, Microchip Technology MCHP, Lam Research LRCX, and Texas Instruments TXN closed up more than +4%, and Applied Materials AMAT and Broadcom AVGO closed up more than +3%.
+Mining stocks soared on Friday amid the sharp rebound in gold, silver, and copper prices. Coeur Mining CDE and Hecla Mining HL closed up more than +6%, and Barrick Mining B and Newmont Corp NEM closed up more than +5%. Also, Anglogold Ashanti AU, Freeport-McMoRan FCX, and Southern Copper SCCO closed up more than +4%.
+Cloud infrastructure stocks rallied Friday as sentiment toward AI stocks improved. Lumentum Holdings LITE closed up more than +7%, and Arista Networks ANET closed up more than +6%. Also, Applied Digital APLD closed up more than +5%, Nebius Group NV NBIS closed up more than +4%, CoreWeave CRWV closed up more than +3%, and Oracle ORCL closed up more than +2%.
+Energy producers and service providers rallied on Friday after WTI crude oil posted a 1.5-week high. Marathon Petroleum MPC and Halliburton HAL closed up more than +3%, and Baker Hughes BKR, Diamondback Energy FANG, Phillips 66 PSX, and SLB Ltd SLB closed up more than +2%. Also, Valero Energy VLO, Chevron CVX, ConocoPhillips COP, Devon Energy DVN, ExxonMobil Holdings XOM, and APA Corp APA closed up more than +1%.
+Cybersecurity stocks moved higher on Friday. Cloudflare NET and SentinelOne S closed up more than +4%, and Crowdstrike Holdings CRWD, Zscaler ZS, and Fortinet FTNT closed up more than +3%. Also, Okta OKTA and Palo Alto Networks PANW closed up more than +2%.
+Amazon.com AMZN closed up more than +3%, leading gainers in the Dow Jones Industrials on optimism that consumers will boost online purchases on Black Friday to begin the holiday shopping season.
+Vertex Pharmaceuticals VRTX closed down more than -5% to lead losers in the S&P 500 and Nasdaq 100 after the FDA delayed its decision on the company’s application for a drug to treat a rare autoimmune kidney disease.
+Earnings Reports (11/30/2026)
+Liberty Live Holdings Inc (LLYVA), Rubrik Inc (RBRK).
+On the date of publication, Rich Asplund did not directly have a position in any of the securities mentioned in this article. All information and data in this article is solely for informational purposes.For more information please view the Barchart Disclosure Policy here.
+More news from Barchart
+- Confessions of a Stock Addict — And What to Do Before It Costs You Your Retirement Savings
+- U.S. Stock Futures Rally as AI Trade Roars Back
+- Nasdaq Futures Tumble as Tech Selloff Rolls On; PCE Inflation Data in Focus
+- Nasdaq Futures Plunge as Nvidia-Fueled Rally Fades

@@ -1,0 +1,13 @@
+URL: https://www.cdomagazine.tech/aiml/google-requires-ai-agents-to-use-governed-access-to-workspace-data
+TITLE: Google Requires AI Agents to Use Governed Access to Workspace Data
+OUTLET: CDO Magazine
+
+Artificial Intelligence
+Written by: Tathagata Sen
+Updated 5:35 PM EST, November 27, 2026
+Google is introducing new safeguards for AI agents that access information in Gmail, Drive, Docs, Sheets and other Workspace applications, according to a November 24 announcement.
+The company has made its Workspace Model Context Protocol (MCP) servers and command-line interface (CLI) available for general use. This would allow AI agents to connect to Workspace apps and interact with their data through a standardized interface.
+The CLI also lets developers and AI agents access Workspace services. Technical enforcement of this requirement begins February 1, 2027.
+Google is also expanding controls that let organizations manage and monitor how external AI tools access Workspace data.
+For chief data officers (CDOs), the announcement highlights the need to manage AI agents as users of enterprise data. Each agent needs a defined identity, access limited to the information required for its tasks and an audit trail of its activity.
+Taking a leaf from Google’s book, CDOs should apply the same principles across other enterprise systems, internal APIs and third-party platforms, ensuring that AI agents have controlled access to data and their activities are monitored, which are central to operationalizing responsible AI governance.
