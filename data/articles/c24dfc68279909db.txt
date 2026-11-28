@@ -1,0 +1,16 @@
+URL: https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up
+TITLE: OpenAI countersues Apple over trade secrets as AI race heats up
+OUTLET: Al Jazeera
+
+OpenAI has sued Apple, accusing the Big Tech giant of stealing its trade secrets and blocking its access to hardware suppliers after Apple sued OpenAI for allegedly poaching its employees to gain access to its technology.
+The ChatGPT maker filed counterclaims in California federal court on Friday, saying that Apple’s employment practices were designed to “trap” employees and prevent them from working on competitors’ technology.
+OpenAI is developing artificial intelligence-enabled personal electronic devices that threaten to “outcompete Apple on what Apple views as its own turf,” the company said in its Friday court filing.
+OpenAI said in the filing that Apple gained confidential information by re-hiring a former employee who worked at OpenAI for six months. In that time, the employee gained access to specific information on a new device as well as OpenAI’s roadmap for future hardware products.
+“Given the timing, it now appears that stealing those documents may have been his reason for joining OpenAI in the first place,” OpenAI said.
+Apple and OpenAI did not immediately respond to requests for comment from Reuters.
+Tensions between the two tech companies have escalated as the intensifying race to develop AI products fuels competition for talent and proprietary technology.
+In July, Apple sued OpenAI and two former employees, alleging misappropriation of its trade secrets to benefit the ChatGPT owner’s foray into consumer hardware. OpenAI has denied those allegations.
+The litigation sets up a battle over who will control future AI devices that may not use traditional apps or operating systems — devices which, if successful, would direct consumer attention away from Apple’s best-selling iPhone. Analysts believe OpenAI is working on a phone or other device of its own.
+In Friday’s filing, OpenAI criticised Apple for encouraging employees to do work on their personal Apple devices and accounts, then preventing those employees from an orderly separation of work and personal accounts when they leave for new jobs.
+OpenAI said that Apple continues to access former employees’ personal devices and accounts after they leave the company, enabling Apple to “monitor and ensnare departing employees” when they leave for competitors.
+OpenAI said that 400 employees have left Apple for OpenAI so far, and Apple wants to intimidate other employees from leaving to find other tech companies.

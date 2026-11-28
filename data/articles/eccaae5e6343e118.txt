@@ -1,0 +1,38 @@
+URL: https://www.tradingview.com/news/barchart:4ab695182094b:0-stocks-rally-as-a-rebound-in-the-ai-trade-gathers-pace/
+TITLE: Stocks Rally as a Rebound in the AI Trade Gathers Pace
+OUTLET: TradingView
+
+Stocks Rally as a Rebound in the AI Trade Gathers Pace
+The S&P 500 Index SPY is up +1.14% today, the Dow Jones Industrial Average DIA is up +0.97%, and the Nasdaq 100 Index QQQ is up +1.71%. December E-mini S&P futures (ESZ26) are up +1.20%, and December E-mini Nasdaq 2futures (NQZ26) are up +1.74%.
+US stock indexes are climbing today, with the Dow Jones Industrials posting a 1.5-week high. The recovery in the artificial intelligence trade today is lifting chipmakers and AI stocks, leading the broader market higher after the sharp selloff seen over the past three weeks. Market activity may be muted today in a holiday-shortened trading session, with stock indices and cash Treasury trading closing today at 1 pm EST.
+Join 200K+ Subscribers: Find out why the midday Barchart Brief newsletter is a must-read for thousands daily.
+Today’s US trade news is negative for Q4 GDP and bearish for stocks after the Oct trade deficit was -$149.5 billion, wider than expectations of -$136.0 billion and the largest trade deficit in 19 months.
+The markets are currently pricing in a 100% chance of a +25 bp rate hike at the next FOMC meeting on December 8-9. After that rate hike, the markets are pricing in at least one more +25 bp Fed rate hike in 2027.
+Jan WTI crude oil prices (CLF27) rose to a 1.5-week high today as escalating attacks on energy infrastructure and tankers in the Middle East have raised supply concerns. Saudi Arabia's Jazan refinery near the Red Sea coast was attacked again by Iranian-backed Houthi militants from Yemen on Thursday, days after Ras Tanura, Saudi Arabia's oil export hub on the Persian Gulf, was targeted. Also, tankers have continued to be attacked in and around the Strait of Hormuz this week.
+The markets remain on guard for a full resumption of US attacks after Iran's recent attack on an industrial facility in Bahrain, which hosts a major US military installation. In addition, Ukraine continues to ramp up attacks on Russian energy infrastructure and has attacked 15 Russian oil refineries since the start of November that have a combined capacity of more than 3.6 million bpd, over half of Russia's total capacity, according to Bloomberg calculations.
+Stocks are supported by solid Q3 quarterly earnings. According to data compiled by Bloomberg Intelligence, Q3 S&P 500 earnings rose by +31% from a year earlier, much better than a July forecast of +22%. As of today, 482 of the S&P 500 companies have reported results, with 85% beating estimates.
+Overseas stock markets are higher today. The Euro Stoxx 50 rose to a 1-week high and is up +1.04%. China’s Shanghai Composite climbed to a 1.5-week high and closed up +3.73%. Japan's Nikkei Stock Index closed up +2.11%.
+Interest Rates
+December 10-year T-notes (ZNZ6) are down -13 ticks today, and the 10-year T-note yield is up +6.0 bp to 4.914%. T-notes are under pressure today as the sharp rebound in stocks has reduced safe-haven demand for government debt securities. Also, today’s +1% jump in WI crude oil has raised inflation expectations and is bearish for T-notes.
+European bond yields are moving higher today. The 10-year German bund yield is up +1.7 to 3.267%. The 10-year UK gilt yield is up +3.4 bp to 5.181%.
+The Eurozone Nov economic confidence index unexpectedly fell -0.7 to a 5-month low of 95.8, weaker than expectations of an increase to 97.2.
+ECB Oct inflation 1-year CPI expectations rose +3.5%, stronger than expectations of +3.2% and the highest in 5 months. Oct 3-year CPI expectations rose +3.0%, stronger than expectations of +2.9% and the highest in 7 months.
+ECB Governing Council member Primoz Dolenc said that ECB interest rate increases this year probably aren't sufficient to bring inflation back to the 2% target and "further measures will likely be necessary in the coming months."
+ECB Governing Council member and Bundesbank President Joachim Nagel said, "We expect inflation to be above 3% for all of 2027 and that means the ECB may have to do more on the monetary-policy side."
+The markets are pricing in a 96% chance of a +25 bp rate hike at the ECB’s next policy meeting on December 17.
+US Stock Movers
+Chipmakers and AI infrastructure are moving higher today, rebounding from their recent selloff. The iShares Semiconductor ETF SOXX is up more than +2%. SanDisk SNDK is up more than +12% to lead gainers in the S&P 500 and Nasdaq 100, and Micron Technology MU, Marvell Technology MRVL, Western Digital WDC, and Seagate Technology Holdings Plc STX are up more than +5%. Also, Qualcomm QCOM is up more than +4%, and Broadcom AVGO, ARM Holdings Plc ARM, Intel INTC, and NXP Semiconductors NV NXPI are up more than +3%. In addition, Advanced Micro Devices AMD, Microchip Technology MCHP, and Texas Instruments are TXN up more than +2%.
+Mining stocks are soaring today, with the sharp rebound in gold, silver, and copper prices. Coeur Mining CDE is up more than +5%, and Hecla Mining HL and Barrick Mining B are up more than +4%. Also, Newmont Corp NEM, Anglogold Ashanti AU, Freeport-McMoRan FCX, and Southern Copper SCCO are up more than +3%.
+Energy producers and service providers are moving higher today, with WTI crude oil posting a 1.5-week high. Marathon Petroleum MPC is up more than +4%, and Phillips 66 PSX, APA Corp APA, Halliburton HAL, and SLB Ltd SLB are up more than +2%. Also, Valero Energy VLO, Baker Hughes BKR, Chevron CVX, ConocoPhillips COP, Devon Energy DVN, Diamondback Energy FANG, and ExxonMobil Holdings XOM are up more than +1%.
+Cybersecurity stocks are climbing today. Cloudflare NET and SentinelOne S are up more than +3%, and Crowdstrike Holdings CRWD, Zscaler ZS, and Okta OKTA are up more than +2%. Also, Fortinet FTNT is up more than +1%, and Gen Digital GEN is up +0.75%.
+Amazon.com AMZN is up more than +4% today, leading gainers in the Dow Jones Industrials on optimism that consumers will boost online purchases on Black Friday to begin the holiday shopping season.
+Vertex Pharmaceuticals VRTX is down more than -6% to lead losers in the S&P 500 and Nasdaq 100 after the FDA delayed its decision on the company’s application for a drug to treat a rare autoimmune kidney disease.
+Nvidia NVDA is down more than -1% to lead losers in the Dow Jones Industrials on news that a pair of Chinese firms installed Nvidia’s powerful Blackwell semiconductors in a data center linked to Alice Huang, the alleged Chinese spy linked to Nvidia CEO Jensen Huang.
+Earnings Reports (11/27/2026)
+None.
+On the date of publication, Rich Asplund did not directly have a position in any of the securities mentioned in this article. All information and data in this article is solely for informational purposes.For more information please view the Barchart Disclosure Policy here.
+More news from Barchart
+- U.S. Stock Futures Rally as AI Trade Roars Back
+- Elon Musk Feels ‘Pretty Foolish’ for Spending $445 Million on the Midterms and Only Winning 3 Races Among the 43 Backed House Candidates
+- Nasdaq Futures Tumble as Tech Selloff Rolls On; PCE Inflation Data in Focus
+- Nasdaq Futures Plunge as Nvidia-Fueled Rally Fades

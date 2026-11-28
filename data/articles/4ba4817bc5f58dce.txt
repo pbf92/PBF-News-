@@ -1,0 +1,20 @@
+URL: https://finance.yahoo.com/technology/ai/articles/openai-says-spy-handed-apple-010000370.html
+TITLE: OpenAI says a spy handed Apple secret plans for AI devices that could 'outcompete' the iPhone maker on its 'own turf'
+OUTLET: Yahoo Finance
+
+OpenAI sued Apple (NASDAQ:AAPL) on Friday, accusing the Big Tech giant of stealing its trade secrets and discouraging hardware suppliers from working on future OpenAI devices, after Apple sued OpenAI for allegedly poaching its employees to gain access to its technology.
+The ChatGPT maker filed counterclaims in California federal court on Friday, saying that Apple's employment practices were designed to "trap" employees and prevent them from working on competitors' technology.
+OpenAI is developing AI-enabled personal electronic devices that threaten to "outcompete Apple on what Apple views as its own turf," the company said in its Friday court filing.
+Must Read
+- Jeff Bezos backs a platform that lets anyone invest in rental homes for as little as $100 — 5 ways to build wealth like a landlord without actually being one
+- Dave Ramsey warns nearly 50% of Americans are making 1 big Social Security mistake. Here's what it is and 3 simple steps to fix it ASAP
+- A single line on your car insurance policy could be inflating your premium by up to 30% — here's what to change
+OpenAI calls 'timing' of re-hire suspicious
+OpenAI said in the filing that Apple gained confidential information by re-hiring a former employee who worked at OpenAI for six months. In that time, the employee gained access to specific information on a new device as well as OpenAI's roadmap for future hardware products.
+"Given the timing, it now appears that stealing those documents may have been his reason for joining OpenAI in the first place," OpenAI said.
+Apple and OpenAI did not immediately respond to Reuters' requests for comment.
+Read More: Vanguard reveals what's coming for U.S. stocks. Here's the good news and bad news for investors
+The struggle for talent and tech
+Tensions between the two tech companies have escalated as the intensifying race to develop AI products fuels competition for talent and proprietary technology.
+Earlier this year, Apple sued OpenAI and former Apple employees Tang Tan and Chang Liu in July, alleging misappropriation of its trade secrets to benefit the ChatGPT owner's foray into consumer hardware. Tan, a 24-year Apple employee who was a vice president of product design for iPhone and Apple Watch, was part of the group that launched io Products before it was acquired by OpenAI in 2025.
+OpenAI and the employees have denied those allegations, and said that Apple's lawsuit depended on its unauthorized monitoring of Liu's personal messages after he stopped working for Apple. Attorneys for Tan and Liu did not immediately respond to a request for comment.

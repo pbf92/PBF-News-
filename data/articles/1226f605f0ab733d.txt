@@ -1,0 +1,10 @@
+URL: https://www.kucoin.com/news/flash/anthropic-limits-frontier-model-research-requests-in-claude-system-cards
+TITLE: Anthropic Limits Frontier Model Research Requests in Claude System Cards
+OUTLET: KuCoin
+
+PANews, November 27: According to a Hacker News post, Anthropic’s June-released Claude Mythos 5 and Fable 5 system cards state that Claude’s effectiveness in handling requests related to cutting-edge large model research will be restricted, including tasks involving pre-training pipelines, distributed training infrastructure, and ML accelerator design. These restrictions are implemented through prompt rewriting, steering vectors, and parameter-efficient fine-tuning (PEFT). Users can see拦截 related to cybersecurity and biochemistry, but such restrictions are not disclosed to users and do not fallback to other models. Anthropic estimates these restrictions affect approximately 0.03% of traffic and fewer than 0.1% of organizations, stating that most coding tasks remain unaffected.
+Anthropic Limits Frontier Model Research Requests in Claude System Cards
+PANews
+Share
+Summary
+Anthropic has restricted frontier model research in its Claude Mythos 5 and Fable 5 system cards, limiting tasks such as pre-training pipelines and ML accelerator design. The changes involve prompt rewriting and parameter-efficient fine-tuning, impacting fewer than 0.1% of organizations. Altcoins to watch may react as developers adapt to these constraints. The Fear & Greed Index remains neutral, with most coding workflows unaffected.

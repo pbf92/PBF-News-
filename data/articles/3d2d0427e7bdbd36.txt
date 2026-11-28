@@ -1,0 +1,97 @@
+URL: https://admiralmarkets.com/analytics/traders-blog/nonfarm-payrolls-december-4-2026-preview
+TITLE: US Jobs Report 4 December 2026: NFP Preview Before Fed
+OUTLET: Admirals
+
+US Jobs Report 4 December 2026: November Payrolls Preview Before the Fed's 9 December Decision
+The November jobs report comes out on Friday 4 December 2026 at 08:30 ET, which is 13:30 in London and 14:30 CET. The consensus on Investing.com on 27 November was +90K nonfarm payrolls, a 4.1% unemployment rate and +0.3% monthly wage growth (Investing.com). It is the last major labour release before the Fed decides on 9 December.
+This preview covers the release time in your time zone and the forecasts. It also sets out the October baseline. It then looks at why the report matters for the Fed and at three illustrative market scenarios. A table of recent reports compares forecasts with actual results, including revisions.
+The information in this article is provided for educational purposes only and does not constitute financial advice. Consult a financial advisor before making investment decisions.
+Risk warning: CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money. This article is general information and should not be treated as investment advice.
+November jobs report: the short answer
+The US Bureau of Labor Statistics (BLS) publishes the November Employment Situation report on Friday 4 December 2026. The BLS schedule lists the release at 08:30 ET and shows it unchanged (BLS release schedule).
+Source: BLS Employment Situation release schedule, checked on 27 November 2026. Time zone conversions by Admirals.
+US jobs report December 2026: key numbers at a glance
+Sources: BLS, October 2026 release, Investing.com consensus as of 27 November 2026. Past performance is not a reliable indicator of future results. Forecasts are not a reliable indicator of future performance.
+The report arrives at a sensitive moment. Futures priced a 25 bp Fed hike at about 99% on 27 November (MarketScreener/Reuters). The FOMC blackout period starts on Saturday 28 November, so Fed officials stop speaking in public until after the meeting.
+Three things usually draw the most attention on the day:
+- The headline payrolls number against the 90K consensus.
+- The revisions to September (+60K) and October (+165K).
+- Average hourly earnings, together with the unemployment rate.
+When is the jobs report? Time in your time zone
+The report always comes out at 08:30 Eastern Time. The US moved back to standard time on 1 November and Europe on 25 October. This means the usual five-hour gap between New York and London applies again.
+What time is the jobs report in Europe and the UK?
+Source: BLS release schedule (08:30 ET). Conversions by Admirals for 4 December 2026.
+The week of US data before the Fed
+The jobs report sits inside a busy run of releases. Our week ahead for 30 November to 4 December 2026 covers the wider calendar. You can also follow the times in the Admirals economic calendar.
+Sources: BLS December 2026 schedule, FRED ADP release calendar, Regards of Wall Street, Admirals Fed preview.
+One calendar detail stands out. November CPI arrives on 10 December, one day after the Fed decision. That leaves the jobs report as the final big data point the committee sees before it votes.
+What economists expect for November
+Forecasters expect hiring to slow after October's strong number. Estimates sit in a narrow band from about 82K to 95K.
+Nonfarm payrolls consensus by source
+Sources: Investing.com payrolls, Investing.com unemployment rate, Investing.com average hourly earnings, Trading Economics, ForexFundamentals, Continuum Economics. Forecasts are not a reliable indicator of future performance.
+The Continuum Economics view in detail
+Continuum Economics expects +95K jobs in total and +95K in the private sector (Continuum Economics, 16 November 2026). Its title calls the expected pace "slower but far from weak". The firm notes that October's unrounded jobless rate was 4.14%. In its view, a rise to 4.2% is more likely than a fall to 4.0%.
+Sources: BLS October 2026, Fox Business (private payrolls), Continuum Economics. Past performance is not a reliable indicator of future results. Forecasts are not a reliable indicator of future performance.
+What happened in October
+October was a large upside surprise. Payrolls rose by 165K against a 65K forecast (BLS). Private payrolls rose by 159K against 64K expected, according to Fox Business.
+Source: BLS, The Employment Situation, October 2026. Past performance is not a reliable indicator of future results.
+The strength stood out against the trend. Trading Economics puts the average over the previous 12 months at only +48K (Trading Economics). Continuum puts the six-month average at 82.5K (Continuum Economics).
+Other labour data before Friday
+Weekly claims stayed low. Initial jobless claims fell to 189K in the week to 21 November, against 200K expected (FXStreet). The four-week average was 196K, and continuing claims were 1.697 million. Our earlier note on jobless claims for the week ending 14 November gives the background.
+The ADP private payrolls report showed +86K in October (ADP via PR Newswire). The ADP November 2026 report is due on Wednesday 2 December at 08:15 ET.
+ADP vs NFP: why the two can differ
+Sources: ADP via PR Newswire, BLS. Past performance is not a reliable indicator of future results.
+Why this report matters for the Fed on 9 December
+The Fed has been raising rates. The target range is 3.75% to 4.00% after a hike in September and a hold in October on a 10-2 vote (Admirals, FOMC October 2026). Our Fed rate decision December 2026 preview covers the meeting itself.
+Inflation keeps the pressure on
+October core PCE inflation rose to 3.3% y/y, above the 3.2% forecast (BEA data). Headline PCE reached 3.8%. Our October PCE preview explains why the Fed watches this gauge.
+Sources: BEA PCE, BEA GDP, BLS, Admirals. Past performance is not a reliable indicator of future results.
+How hike odds have moved in November
+Market-implied probabilities change constantly. Forecasts are not a reliable indicator of future performance.
+Fox Business also reported a 63% priced chance of another hike in January (Fox Business, 25 November). XTB noted on 27 November that talk of a 50 bp move had faded (XTB).
+What Fed officials and economists have said
+The blackout means the last public comments came before 28 November. Some views from November:
+- Governor Waller called for a 50 bp move in December, as reported by Stocktwits on 10 November.
+- Dallas Fed President Logan saw at least two more 25 bp hikes, according to the same report.
+- Goldman Sachs expected 25 bp in December and a third hike in March 2027, the report added.
+- Oxford Economics expected 25 bp and viewed 50 bp as overpriced on 16 November.
+After the October meeting, Chair Kevin Warsh said earlier tightening was starting to bite and that he wanted to follow the data (investingLive). Our report on the Warsh press conference in October 2026 has more detail.
+Can the jobs report change the December decision?
+With the hike almost fully priced, one report may not change the December outcome. It could still shape the tone of the statement and the dot plot. Pricing for 2027 hikes may react more than pricing for December. Our overview of central bank decisions in December 2026 sets the Fed meeting next to other banks.
+Three scenarios for markets
+The table below uses the 90K consensus as its reference point. The bands are illustrative and are not forecasts. Markets do not always react in the expected direction, and the first move can reverse.
+Scenario table: NFP result and the 9 December decision
+Illustrative scenarios based on Forexuro, XTB, Continuum Economics and Fox Business. These are not forecasts or recommendations. Forecasts are not a reliable indicator of future performance.
+Scenario 1: stronger than forecast
+A print well above 90K would follow October's beat. It could confirm the hike that markets already price. Some traders could then look again at a 50 bp move or at more hikes in 2027. Beats have often lifted the dollar and Treasury yields, according to Forexuro.
+The downside case matters too. A strong headline with weak wages could send mixed signals. Downward revisions to September and October could also dampen any first reaction.
+Scenario 2: close to the consensus
+A result near 90K would fit the "slower but far from weak" picture from Continuum Economics. The December hike would likely stay priced. Attention could move on to Warsh's guidance and the new projections on 9 December.
+A quiet headline can still hide surprises. A jump in unemployment to 4.2% or a wage miss could move markets either way.
+Scenario 3: weaker than forecast
+A print below about 50K would point to cooling hiring. Core PCE at 3.3% suggests the December hike could still go ahead. Pricing for further hikes in 2027 could fall, which may weigh on the dollar.
+There is a downside for stocks as well. Lower yields could help, though a sharp miss could raise growth worries. XTB noted on 27 November that markets already priced fewer hikes than two weeks earlier.
+How the dollar and EUR/USD fit in
+EUR/USD traded near 1.0980 in a Reuters report at 00:53 ET on 27 November (MarketScreener/Reuters). Admirals offers CFDs on Forex, and the Forex CFD page lists the available pairs.
+Sources: FXEmpire, FinScans. Levels are based on past prices. Past performance is not a reliable indicator of future results.
+FinScans put the daily RSI(14) at about 35 on 26 November. FXEmpire put the weekly RSI at 30.2, close to oversold, on 23 November. Technical levels can break quickly when a major release surprises.
+Revisions could matter as much as the headline on 4 December. September moved from +29K to +60K, and August moved from +162K to +186K, so a first print can mislead.
+US indices and GER40
+US stocks entered the week of the report in a fragile mood. The Nasdaq 100 briefly touched the 20% bear market line on 25 November, and S&P 500 futures traded near 7,320 on 27 November (XTB). Our Nasdaq 100 forecast for 27 November looks at that index in more detail.
+Snapshot taken on 27 November 2026. US markets were closed on 26 November and closed early on 27 November. Past performance is not a reliable indicator of future results.
+The S&P 500 has had both strong and weak years recently. The five-year record below shows why one month says little about the longer picture.
+Source: Wikipedia, S&P 500 annual returns. Index price changes for full calendar years 2021 to 2025, before taxes and costs, which may vary. Past performance is not a reliable indicator of future results.
+The Nasdaq 100 has also swung widely. Its five-year record puts the late-November drawdown into a longer context.
+Source: Wikipedia, Nasdaq-100 annual returns. Index price changes for full calendar years 2021 to 2025, before taxes and costs, which may vary. Past performance is not a reliable indicator of future results.
+The German GER40 can also respond to the US data. European indices often react through the dollar and global yields. Our GER40 forecast for 27 November covers the index. Admirals offers CFDs on indices, listed on the index CFD page.
+How to prepare for NFP: what traders often watch
+Experienced traders often follow a routine around a big release. Common steps include:
+- They check the release time in their own time zone.
+- They compare the headline with the consensus range of 82K to 95K.
+- They read the revisions to September and October.
+- They look at wages and the unemployment rate after the headline.
+- They watch how the dollar and Treasury yields react in the first minutes.
+The Admirals guide to NFP trading explains how the release works in more depth.
+NFP trading risk management
+Volatility around 08:30 ET can be high. Spreads can widen, and prices can gap past stop orders. Some traders manage risk by reducing position size or by waiting for the first reaction to settle. Leverage magnifies losses as well as gains.
+General overview for informa

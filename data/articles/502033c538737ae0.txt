@@ -1,0 +1,72 @@
+URL: https://ppc.land/converted-product-id/
+TITLE: Converted product ID
+OUTLET: PPC Land
+
+Converted product ID is a reporting dimension in Amazon Ads that records which product a shopper actually bought after interacting with an ad. Its value is an ASIN, the Amazon Standard Identification Number, the 10-character code Amazon assigns to every item in its catalogue. The field exists because the product an ad promotes and the product a customer ends up buying are often not the same. A shopper who clicks an ad for a 500-gram bag of coffee may buy the 1-kilogram bag, a grinder from the same brand or a different flavour entirely. Converted product ID names the item that was bought, so a report can show which products an ad actually sold rather than which ones it showed.
+In the older reporting tools, the same information carried two different names. Sponsored Products reports called it Purchased ASIN. Amazon DSP, the programmatic platform renamed DVA on September 29, 2026, called it simply ASIN. Both were folded into one field as part of unified reporting, Amazon's system for reporting all its ad products in a single set of reports.
+Where the field sits
+Amazon updated its unified reporting dimensions reference on November 11, 2026. PPC Land's count of that reference found 156 dimension attributes in 11 categories, with a Product category of 18 attributes. Those 18 split into three parts: nine advertised product fields, eight converted product fields and a single field called Product relevance.
+The converted product family is:
+- Converted product ID
+- Converted product name
+- Converted product parent ID
+- Converted product brand
+- Converted product category
+- Converted product subcategory
+- Converted product group
+- Converted product marketplace
+Converted product ID is the key for the whole family. The other seven fields describe the same purchased ASIN: its title, its variation parent, its brand, where it sits in Amazon's product taxonomy and the store where it was sold.
+Coverage is the family's most notable feature. By PPC Land's reading, the converted fields apply to all five ad products marked in the reference: DVA+, Sponsored Products, Sponsored Brands, Sponsored Display and Sponsored TV. The advertised product fields, by contrast, are marked only for DVA+, Sponsored Products and Sponsored Display. Where a dimension does not apply to an ad product, Amazon states that "its value appears as null". The converted side is therefore the only product-level breakdown that can sit in one report across every Amazon ad type.
+How the value is populated
+The field is filled at the end of Amazon's attribution process. The sequence runs roughly like this:
+- An ad serves. It promotes one or more products, recorded on the advertised side.
+- A shopper clicks or, for some ad types, views the ad.
+- Within the attribution window, the shopper places an order.
+- Amazon decides whether that order is credited to the ad. If it is, the ASIN in the order becomes the converted product, and its ID fills the field.
+Which orders qualify depends on the ad type. Amazon's attribution help page sets a 14-day lookback for Sponsored Brands and Sponsored Display, covering the promoted products and "any other products from the same brands", which Amazon calls brand halo. Sponsored Products campaigns run by sellers use a 7-day, click-only, last-click window; vendor Sponsored Products campaigns use 14 days. Amazon's August 2022 self-service reporting guide for Amazon DSP describes a last-touch model with a 14-day lookback, in which halo covers all ASINs sharing the brand name in the product byline.
+When a shopper has interacted with several ads, Amazon ranks them, with promoted-ASIN clicks first and halo views last. Amazon "will attribute a conversion to no more than 1 ad interaction across all campaigns and all advertisers," according to the same help page. Each purchased ASIN therefore lands on one ad's report rows, not several.
+View-based rules changed on January 1, 2026, when Amazon moved Sponsored Brands, viewable-impression Sponsored Display and DSP ads in its store to a shorter, "shopping-signal enhanced" last-touch model, a change PPC Land covered when Amazon tightened view attribution.
+What the rows contain
+A converted product row carries conversion metrics only. An impression or a click belongs to an ad and to the products it promoted, not to something bought later, so grouping a report by Converted product ID leaves delivery metrics without a natural home. Adbrew, a third-party Amazon Ads software vendor, noted in an October 2026 guide that converted product rows have no impressions or clicks. Amazon's own pages do not spell this out.
+The ID itself is always a buyable ASIN. Amazon's Creators API documentation says a parent ASIN "can't be purchased", so a purchase lands on a child variant or on a standalone item without variations. A shirt sold in four colours and five sizes has 20 possible Converted product ID values, one for each child; the family they belong to appears in Converted product parent ID.
+A worked example makes the split concrete. A coffee brand runs a Sponsored Products campaign promoting one ASIN, a 500-gram bag of its house blend. In a month the campaign is credited with 300 orders. Grouped by Converted product ID, the report shows 11 rows: 180 orders of the advertised bag, 70 of the 1-kilogram bag, 30 of a decaf version and 20 spread across a grinder and seven other items. Adding Product relevance, formerly "ASIN conversion type" in Amazon DSP, labels the first row as directly promoted and the rest as halo. The figures are illustrative.
+Origin and evolution
+The concept is older than its name. Sponsored Products launched in 2012, and its purchased product report became the place where sellers and vendors could see which non-advertised items shoppers bought after clicking an ad. Amazon describes that report as listing "non-advertised SKUs a customer purchased after clicking your ad", with a column called "Sales (halo)", formerly "7 day other SKU sales", and a 60-day lookback for pulling data, according to its Support Center. Amazon warns there that the report's totals will not match campaign totals.
+Amazon DSP took a different route. Its product report, documented in the 2022 guide, carried "ASIN", "Parent ASIN", "Promoted ASIN" and "ASIN conversion type" columns, with "Promoted" and "Brand halo" as the two conversion types. In DSP terms, the ASIN column was the converted product.
+Sponsored Brands arrived last. Amazon announced an ASIN-level Attributed Purchases report on June 6, 2023, initially for book publishers' campaigns created after February 11, 2023.
+Unified reporting merged these lines. It opened in beta in November 2025 and reached general availability on June 8, 2026. The November 11, 2026 reference is the first public listing of Converted product ID by that name. Adbrew's guide says advertised and converted product data in unified reports is available from February 13, 2025; Amazon has not confirmed that start date on its own pages.
+Why it matters
+Halo sales are a large and poorly understood share of Amazon ad revenue. Brands with deep catalogues, in apparel, beauty, grocery or books, routinely find that an ad for one item sells another. Without a purchased-product field, those orders appear as revenue on the advertised product's row, and a cheap, high-click item can look as if it is carrying sales that really came from a more expensive sibling. A July 2026 Amazon Ads tutorial showed sellers how to spot best- and worst-performing ASINs.
+The unified field also simplifies data pipelines that kept separate mappings for Purchased ASIN and DSP's ASIN. One field across five ad products answers a single question: which products did each ad type sell?
+The deadline gives the change urgency. Amazon has scheduled legacy reports to become read-only on December 17, 2026, and plans to delete unmigrated reports on January 31, 2027. Reports built on Purchased ASIN have to be rebuilt in unified reporting before then.
+Limitations and disputes
+Attribution is Amazon's own. Every value in the field depends on Amazon's windows, halo definitions and priority ranking. These are set by the platform that sells the ads and are not independently audited. A brand halo purchase counts as an ad-driven sale even if the shopper would have bought that product anyway.
+Window mismatches persist. A seller's Sponsored Products order counts within 7 days of a click; the same order following a Sponsored Brands click counts within 14. When Converted product ID rows from both products sit in one report, the numbers are not built on the same rule.
+Mapping conflicts remain. PPC Land's analysis of the reference credits 17 product attributes to DVA+ and Sponsored Display and 18 to Sponsored Products, yet describes the converted fields as applying to all five products. Sponsored TV is marked on many attributes although Amazon also describes it as not yet supported. How a converted product row behaves for a Sponsored TV campaign, which is not tied to a product detail page, has not been documented.
+Converted product ID is not...
+Advertised product ID. The ASIN the ad promoted, formerly Advertised ASIN. The two match only on a direct sale; on a halo sale they differ.
+Converted product parent ID. The non-buyable variation family above the purchased ASIN. Converted product ID is the specific variant bought.
+Product relevance. A label, not an identifier. It tells whether the converted product was directly promoted or a halo purchase, but it does not say which product was bought.
+Recent developments
+Amazon's November 11, 2026 update to its dimensions reference made the converted product family visible by name, and PPC Land's analysis on November 12 placed it across all five ad products. Amazon has also limited daily unified reports to 120 days of a 24-month history, which caps how far back day-by-day converted product rows can be pulled in one report.
+Timeline
+- 2012 - Sponsored Products launches; its purchased product report later lists non-advertised ASINs bought after a click.
+- September 2018 - Amazon Advertising Platform is renamed Amazon DSP.
+- August 2022 - Amazon's DSP self-service reporting guide documents ASIN, Parent ASIN, Promoted ASIN and ASIN conversion type columns.
+- June 6, 2023 - Amazon announces an ASIN-level Attributed Purchases report for Sponsored Brands, for book publishers' campaigns created after February 11, 2023.
+- February 13, 2025 - Earliest date of advertised and converted product data in unified reports, according to Adbrew.
+- November 2025 - Unified reporting opens in beta.
+- January 1, 2026 - Shopping-signal enhanced last-touch attribution applies to view-based conversions for Sponsored Brands, vCPM Sponsored Display and DSP store ads.
+- June 8, 2026 - Unified reporting reaches general availability.
+- September 29, 2026 - Amazon DSP is renamed DVA; DVA+ is introduced.
+- November 11, 2026 - Amazon's dimensions reference lists Converted product ID, formerly Purchased ASIN and DSP ASIN.
+- December 17, 2026 - Legacy reports scheduled to become read-only.
+- January 31, 2027 - Legacy reports and unmigrated data scheduled for deletion.
+Related PPC Land coverage
+- 85 of Amazon's 156 unified report dimensions apply to Sponsored Products - The November 2026 dimensions reference, including the converted product family and its former names "ASIN" and "Purchased ASIN".
+- Amazon tightens view attribution as ROAS reporting splits - The January 2026 attribution change that decides which view-through orders become converted products.
+- How sellers can spot best and worst performing Amazon ASINs - An Amazon Ads tutorial on comparing ASIN-level performance.
+- Amazon launches unified reporting system across advertising products - The November 2025 beta launch of unified reporting.
+- Amazon Ads unified reporting exits beta and takes two old tools with it - General availability in June 2026.
+- Amazon advertisers will lose unmigrated reports on January 31, 2027 - The legacy report shutdown schedule.
+- Amazon

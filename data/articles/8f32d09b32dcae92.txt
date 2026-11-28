@@ -1,0 +1,61 @@
+URL: https://ppc.land/advertised-product-sku/
+TITLE: Advertised product SKU
+OUTLET: PPC Land
+
+Advertised product SKU is a reporting dimension in Amazon Ads that records the stock keeping unit (SKU) of the product an ad was promoting. A SKU is not an Amazon code but the reference a seller assigns to its own inventory, linking a listing to its stock and accounting systems. When a report is grouped by Advertised product SKU, each row shows the spend, clicks and sales tied to one seller offer. The field exists because Amazon's catalogue identifier, the ASIN, says what a product is, while the SKU says whose stock it is and which line in the seller's books it belongs to.
+Where the field sits
+Amazon's dimensions reference for unified reporting, updated on November 11, 2026, lists 156 dimension attributes across 11 categories. Advertised product SKU belongs to the Product category, which holds 18 attributes in two families.
+The advertised product family describes the item placed in a campaign. It has nine fields: ID, name, parent ID, brand, category, subcategory, product group, marketplace and SKU. The SKU is the only member of that family without a mirror in the converted product family, which describes the item a shopper actually bought and stops at eight fields. Product relevance, formerly "ASIN conversion type" in Amazon DSP, links the two families by separating direct sales of the promoted item from halo sales of other items.
+By PPC Land's reading of the reference, the advertised product fields carry markers for DVA+, Sponsored Products and Sponsored Display, but not for Sponsored Brands or Sponsored TV. Where a dimension does not apply, Amazon says its value appears as null. DVA+ is the combined campaign type Amazon introduced on September 29, 2026, when it renamed Amazon DSP as DVA.
+How the value is populated
+The mechanics follow from how Amazon distinguishes its two kinds of advertiser. Sellers list goods on Amazon's marketplace through Seller Central and keep ownership of their stock until it is sold. Vendors sell wholesale to Amazon through Vendor Central, and Amazon becomes the retailer. Only sellers have SKUs in the sense this field uses. Vendors work at the ASIN level, because once the goods are Amazon's inventory there is no seller offer to reference.
+The difference shows up at campaign setup. In a Sponsored Products campaign, sellers add products to an ad group by SKU and vendors add them by ASIN. In Amazon's Ads application programming interface (API), a product ad carries either a SKU, defined for seller accounts, or an ASIN, defined for vendor accounts. When the ad serves, impressions, clicks and attributed sales are logged against that product ad, and the SKU travels with it into reports.
+Amazon's definition of the legacy column is brief. In the Sponsored Products and Sponsored Display report pages, Advertised SKU is "The SKU being advertised", and Advertised ASIN is "The ASIN associated to an advertised product", according to the Amazon Ads Support Center. In the version 3 Reporting API, the Sponsored Products advertised product report type, spAdvertisedProduct, exposes the ASIN as advertisedAsin, with a companion advertisedSku column.
+The SKU follows no global format; many sellers build it from brand, style, colour and size codes. Amazon's listing feeds reject seller SKUs longer than 40 bytes, according to troubleshooting documentation from AccelerList, a listing software company, which reproduces the error "values cannot exceed 40 bytes". If a seller leaves the field blank, Amazon generates a code. PPC Land's SKU explainer sets out how such internal stock codes differ from GS1 identifiers such as the Global Trade Item Number (GTIN) and the Universal Product Code (UPC), which name a product for every retailer at once.
+One ASIN, many SKUs
+The field earns its place because the relationship between ASIN and SKU is not one to one. An ASIN is shared: every seller offering the same pair of running shoes lists against the same catalogue page. Each seller attaches its own SKU, so one ASIN may carry dozens of SKUs across the marketplace. A single seller can also hold several SKUs on one ASIN, for instance one for stock shipped to Amazon's warehouses under Fulfilment by Amazon (FBA) and another for stock shipped from its own premises, or separate SKUs for new and used condition.
+A worked example shows the effect. Suppose a seller runs one Sponsored Products ad group with two SKUs, both pointing to the same black size 10 shoe ASIN: "RUN-BLK-10-FBA" and "RUN-BLK-10-MFN". In a week the ad group spends $500. Grouped by Advertised product ID, the report shows a single row: $500 and 25 orders. Grouped by Advertised product SKU, it might show $430 and 23 orders on the FBA offer and $70 and 2 orders on the merchant-fulfilled one. The figures are illustrative. Amazon's ads are generally eligible to serve only when the advertised offer holds the featured offer on the detail page, so the SKU breakdown can show which of a seller's offers was actually winning.
+Amazon's warehouses add a further code. Units sent to FBA carry a Fulfillment Network SKU (FNSKU), an Amazon-assigned barcode tying each unit to its sender; from March 31, 2026, resellers had to stop using manufacturer barcodes and label with FNSKUs. It is a logistics code, not a reporting field.
+Origin and evolution
+Retailers used stock codes long before Amazon opened on July 16, 1995. On Amazon's marketplace, the SKU became the seller's key to its listings and the ASIN Amazon's key to the product.
+Advertising inherited the split. Sponsored Products launched in 2012, and its advertised product report carried both Advertised ASIN and Advertised SKU columns. Sponsored Display, generally available from 2019, used the same report structure. Amazon's programmatic tool took a different path. Called the Amazon Advertising Platform until September 2018 and then Amazon DSP, it reported by "ASIN", "Promoted ASIN", "Parent ASIN" and "ASIN conversion type", according to Amazon's August 2022 self-service reporting guide, which lists no SKU column.
+Unified reporting brought the vocabularies together. It launched in beta in November 2025 and exited beta on June 8, 2026. The November 11, 2026 dimensions reference is the first public listing of Advertised product SKU by that name.
+Why it matters
+For sellers, the SKU is the join key to everything outside Amazon Ads. Cost of goods, landed freight, warehouse fees and margin are held against SKUs in inventory and accounting systems, not against ASINs. A report keyed by Advertised product SKU can be matched directly to those records, which is the basis of profit-based measures such as return on ad spend net of product cost. Amazon offers sellers a profit analytics dashboard that reports at SKU level and includes an advertising cost line.
+Data pipelines are the second reason. Agencies and software vendors pulling Amazon reports into warehouses built joins on the legacy Advertised SKU column. The deadline is near: Amazon plans to shut down legacy reporting pages on January 31, 2027, with creation and editing of legacy reports stopping on December 17, 2026.
+Limitations and disputes
+The mapping is the most visible problem. PPC Land's reading of the reference maps Advertised product name, not Advertised product SKU, to the former "Advertised SKU" column, and gives the SKU field no former name at all. A product title and a stock code are different data types, so one of the two entries appears to be misassigned. PPC Land listed it among entries on the page that do not line up.
+Coverage is unclear. The field is marked for DVA+, yet Amazon DSP reporting never carried a SKU, and much DVA+ spend comes from vendors, who have none. Amazon has not documented what DVA+ rows show in this column, whether a seller SKU where one exists or null. The same gap applies to vendor Sponsored Products campaigns, where the value would logically be empty.
+SKUs are also unstable keys. Sellers retire and recreate them, and a recreated SKU starts a new performance history. Because codes are seller-defined, they cannot be compared across sellers.
+Finally, the SKU breakdown inherits Amazon's attribution rules. Sales on an advertised product row in Sponsored Display include purchases of "products from the same brands as the promoted products" within 14 days of a click, according to Amazon's Support Center, so a sale credited to a SKU row is not necessarily a sale of that SKU. Sponsored Products reports such purchases separately, as "Sales (halo)", formerly "7 day other SKU sales".
+Advertised product SKU is not...
+Advertised product ID. The ID is the ASIN, Amazon's catalogue identifier, shared by every seller of the item. The SKU identifies one seller's offer, and one ASIN can sit behind many SKUs.
+Advertised product name. The name is the product title as it appears in the catalogue. The reference ties it to the legacy "Advertised SKU" column, but a title is not a stock code.
+FNSKU. The Fulfillment Network SKU is an Amazon-assigned barcode on units stored in FBA warehouses. It exists for logistics and is not a reporting dimension.
+Converted product ID. The converted product is the item the shopper bought. The converted family has no SKU field, so a halo purchase cannot be traced to a seller's stock code in unified reporting.
+Recent developments
+PPC Land's November 12 analysis set out the Product category and the "Advertised SKU" mismatch a day after Amazon updated the reference. Amazon has also limited daily unified reports to 120 days of a 24-month history, which caps how far back day-by-day SKU rows can be pulled in one report. As of November 2026, Amazon has not published a correction to the former-name mapping.
+Timeline
+- July 16, 1995: Amazon opens; the ASIN later becomes its catalogue key, with sellers' SKUs as their own listing keys.
+- 2012: Sponsored Products launches, with product ads added by SKU for sellers and by ASIN for vendors.
+- September 2018: Amazon Advertising Platform is renamed Amazon DSP; its product reporting is ASIN-based, with no SKU column.
+- 2019: Sponsored Display becomes generally available, reusing the advertised product report with Advertised ASIN and Advertised SKU.
+- August 2022: Amazon's DSP self-service reporting guide documents "Promoted ASIN" and "ASIN conversion type".
+- November 2025: Unified reporting opens in beta.
+- March 31, 2026: FNSKU labelling becomes mandatory for resellers using FBA.
+- June 8, 2026: Unified reporting reaches general availability.
+- September 29, 2026: Amazon DSP is renamed DVA; DVA+ is introduced.
+- November 11, 2026: Amazon's dimensions reference lists Advertised product SKU, with no former name, in a nine-field advertised product family.
+- December 17, 2026: Scheduled end of creating and editing legacy reports.
+- January 31, 2027: Scheduled shutdown of legacy reporting pages.
+Related PPC Land coverage
+- 85 of Amazon's 156 unified report dimensions apply to Sponsored Products - The November 2026 dimensions reference, the Product category and the "Advertised SKU" former-name mismatch.
+- Explaining SKU - Internal stock codes compared with GS1 identifiers such as GTIN and UPC.
+- Explaining ASIN - The catalogue identifier that sits behind every advertised SKU.
+- Amazon forces resellers to abandon manufacturer barcodes in March - The FNSKU labelling rule for FBA resellers that took effect in 2026.
+- Amazon releases new profit analytics dashboard for sellers - SKU-level profit reporting that includes advertising cost.
+- Amazon launches unified reporting system across advertising products - The November 2025 beta launch of the reporting system.
+- Amazon Ads unified reporting exits beta and takes two old tools with it - General availability in June 2026.
+- Amazon advertisers will lose unmigrated reports on January 31, 2027 - The legacy reporting shutdown timeline.
+- Amazon limits daily unified reports to 120 days of its 24-month history - Data-window limits on daily product rows.
+- Unified reporting - PPC Land's explainer on the reporting system that carries the di

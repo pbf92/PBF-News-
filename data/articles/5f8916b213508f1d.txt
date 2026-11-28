@@ -1,0 +1,16 @@
+URL: https://tech.yahoo.com/gaming/articles/gta-6-multiplayer-reportedly-running-115308747.html
+TITLE: GTA 6 multiplayer reportedly running on PC as unofficial ports near completion
+OUTLET: Yahoo Tech
+
+When you buy through links on our articles, Future and its syndication partners may earn a commission.
+The lack of an official GTA 6 launch on PC hasn't stopped fans from attempting to tackle one themselves, with many projects allegedly making quick progress toward a working version of Rockstar's behemoth – and, now, multiplayer, too.
+In case you're out of the loop, this is all being tracked on PortWatch – a platform dedicated to updating folks with progress on every unofficial PC port currently in development. As of now, the website claims we're 91.3% of the way to seeing one fully come to fruition… but that's not the most eye-catching news on there. 
+Late last night, PortWatch reported that "GTA 6 multiplayer is running on PC." Yes, multiplayer.
+"TeK's group has players, cars and proximity voice chat working at a stable 25 to 30 fps, on a private fork of CGBJ's build," their update reads. "PortWatch has verified the video is real." 
+For reference, "TeK's group" is one of the teams heading the (again, unofficial) race to get GTA 6 on PC. Apparently, their take on multiplayer features "player characters and vehicles together in the world, with proximity voice chat, so you hear the players near you." It is "private," of course, but still – this is sort of mind-boggling, as PortWatch notes. 
+"Until now, every build we track has been single-player: getting GTA 6's story to run on PC at all has taken everyone's effort. Multiplayer means separate copies of the game agreeing on where every player and car is, and no build on our board had shown that before." Especially seeing as there's been no word from Rockstar on GTA 6 Online.
+All of this started with notorious GTA 6 leaker "Cyberleek," who uploaded an executable file for the Xbox build of the game they previously dropped online. That's when groups like TeK picked it up and began working toward a PC version of Grand Theft Auto 6. 
+It's not the only feat fans have taken upon themselves, either. As per VideoCardz, we've seemingly got mods popping up now, too – a possibility that previously felt uncertain thanks to Rockstar's anti-cheat software.
+In other words, there's a lot going on right now – but, yet another disclaimer, none of it's official… and it's likely that Rockstar will eventually crack down when things start going live and public (should they do so). 
+Here's hoping we get an actual PC launch someday, though.
+Check our GTA 6 review to learn how we feel about one of the biggest new games this year, or read through our GTA 6 guide for more about Rockstar's stunning release.

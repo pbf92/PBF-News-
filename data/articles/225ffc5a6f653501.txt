@@ -1,0 +1,6 @@
+URL: https://www.washingtonexaminer.com/news/business/4816737/openai-countersues-apple-allegedly-stealing-trade-secrets/
+TITLE: OpenAI countersues Apple for allegedly stealing trade secrets
+OUTLET: Washington Examiner
+
+OpenAI is accusing Apple of stealing trade secrets, escalating a legal battle between the technology giants over competing efforts to develop artificial intelligence-powered devices.
+In a countersuit filed Friday in federal court in the Northern District of California, OpenAI alleged a former employee who briefly worked for the ChatGPT maker took dozens of confidential documents containing trade secrets and information about unreleased products when he returned to Apple late last year.

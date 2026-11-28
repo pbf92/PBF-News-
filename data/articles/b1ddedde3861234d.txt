@@ -1,0 +1,63 @@
+URL: https://ppc.land/advertised-product-marketplace/
+TITLE: Advertised product marketplace
+OUTLET: PPC Land
+
+Advertised product marketplace is a dimension in Amazon Ads unified reporting that records which Amazon store the promoted product belongs to. Amazon does not run one global shop. It runs separate stores for separate countries, each with its own catalogue entries, prices, currency and category tree, and the same product can be listed in several of them at once. When an advertiser promotes that product, the report needs a way to say which store's listing the ad pointed to. That is the job of this field. It turns a product identifier, which on its own can be ambiguous across countries, into a specific offer in a specific market.
+Where the field sits
+Amazon's dimensions reference for unified reporting, a Support Center page updated on November 11, 2026, lists 156 dimension attributes in 11 categories. The Product category holds 18 of them. Nine describe the advertised product, the item featured in an ad: ID, name, parent ID, brand, category, subcategory, product group, marketplace and SKU (stock keeping unit, a seller's own inventory code). Eight mirror them on the converted product side, describing the item credited with a sale, and an eighteenth, Product relevance, says whether that sale was of the promoted item or a halo product.
+According to PPC Land's field-by-field count of the reference, published on November 12, 2026, the advertised family applies to DVA+, Sponsored Display and Sponsored Products. It carries no marker for Sponsored Brands or Sponsored TV. DVA+ is the campaign type Amazon introduced when it renamed Amazon DSP (demand-side platform) as DVA on September 29, 2026. Amazon's rule for mismatches is explicit: "When a dimension does not apply to an ad product, its value appears as null." In a mixed report, Sponsored Brands rows therefore carry a blank advertised product marketplace.
+Unlike Advertised product ID, which PPC Land's count maps to the former sponsored ads column "Advertised ASIN", no analysis of the reference reviewed for this article attaches a legacy name to the marketplace field.
+How the value is populated
+The advertiser does not type the marketplace into a report. It follows from how campaigns are built.
+Sponsored Products and Sponsored Display run inside an advertising profile, and each profile corresponds to one advertiser in one marketplace. The Amazon Ads API profile object carries a country code, a currency code and a time zone, all read-only. An advertiser cannot hold two profiles in the same store, so every product ad created under a profile is, by construction, an ad for that store's listing. When a report includes Advertised product marketplace, the system writes that store onto each row keyed by the advertised ASIN (Amazon Standard Identification Number, the 10-character catalogue code).
+DVA+ works differently. On July 30, 2026, existing DSP accounts became single global accounts covering 34 countries, with the country chosen when a campaign is created. A DVA+ campaign can promote products listed on an Amazon store while serving impressions on Prime Video, Fire TV or third-party apps. The marketplace field records the store of the promoted product, not the location of the viewer.
+A kitchenware brand advertises the same blender, under one ASIN, on Amazon.de, Amazon.fr and Amazon.it. A report grouped by Advertised product ID alone returns one row that sums euros spent in three countries. Add Advertised product marketplace and the row splits into three, one per store, each with its own clicks, cost and attributed sales.
+What counts as a marketplace
+In Amazon's seller documentation a marketplace is a country store with its own identifier. The Selling Partner API (SP-API) page on store identifiers, last modified on October 23, 2026, lists 23 marketplaceId values, from ATVPDKIKX0DER for the United States to A1PA6795UKMFR9 for Germany and A1VC38T7YXB528 for Japan.
+Unified reporting covers a wider footprint. Amazon's general availability notice lists 34 countries, a figure that includes markets where DVA+ sells media but Amazon runs no store. There, the products a campaign promotes belong to a store elsewhere.
+The reference material reviewed for this article does not show the format of the value. It could appear as a store domain such as "amazon.de", a two-letter country code or an SP-API marketplace identifier. The choice matters when unified exports are joined to Seller Central or Vendor Central data keyed by marketplaceId.
+Why the same ASIN needs a store
+Amazon's catalogue is shared and local at once. An ASIN can exist in several stores, and Amazon's Build International Listings tool lets sellers copy offers from a source store to target stores, with prices adjusted by exchange rate. But each store keeps its own version of the detail page. Titles are translated, prices are set in local currency, stock may be held in different fulfilment networks, and category placement follows each store's own browse tree. A vendor guide from WISEPIM, updated on October 11, 2026, says Amazon.com, Amazon.co.uk and Amazon.de "each have their own Browse Tree with different node IDs".
+That is why the marketplace field sits beside the other advertised product descriptors rather than replacing them. An Advertised product category value read without its marketplace may refer to a category label used in only one store. An Advertised product name may be in German on one row and Italian on the next.
+Money follows the same logic. Sponsored ads campaigns spend in their marketplace's currency, and the converted currency dimension that expresses euros, pounds and yen in one unit only makes sense when each row's starting store is known.
+Origin and evolution
+Sponsored ads reports were always pulled one profile, and therefore one store, at a time; an agency running Sponsored Products in ten European countries downloaded ten reports and stitched them together. The legacy Sponsored Products advertised product report carried the advertised ASIN and SKU but no marketplace column; the store was implied by the account the report came from.
+Amazon DSP loosened the link first. On May 24, 2024, Amazon let self-service DSP advertisers select an advertiser currency independent of the marketplace they targeted. The single global DSP account in July 2026 went further, putting campaigns for many countries under one login.
+Unified reporting is what made the store an explicit column. It opened in beta on November 11, 2025 at Amazon's unBoxed conference and reached general availability on June 8, 2026, when PPC Land reported a template gallery that already included an Advertised Product report. The November 11, 2026 dimensions reference is the first public listing of the field by name.
+Why it matters
+For brands selling across borders, the field is the difference between one report and a spreadsheet per country. It allows return on ad spend (ROAS) for a single product to be compared store by store, exposing cases where a product converts well in Britain and poorly in Spain because of price, reviews or translation quality rather than advertising.
+It also prevents merged rows: a dashboard keyed only by product ID may show one product with an implausible blend of currencies and click costs. Agencies moving dashboards off legacy pages have a deadline. Amazon's migration page says legacy report pages become read-only on December 17, 2026 and close on January 31, 2027, after which per-profile downloads end and multi-store reporting depends on unified fields such as this one.
+Limitations and disputes
+The definition is unconfirmed. Amazon's dimensions page renders client-side and could not be read for this article. PPC Land's analysis quotes a definition for the converted side, "the marketplace where the conversion event for the attributed product occurred", but the wording for the advertised side has not been verified.
+Cross-store purchases are undocumented. Shoppers in a country without its own Amazon store often buy from a neighbouring one. Amazon has not said how a sale is recorded when the advertised marketplace and the converted marketplace differ, or whether such sales are attributed at all.
+Sponsored Brands is excluded, with a conflict. The reference marks the advertised family for DVA+, Sponsored Products and Sponsored Display only. Yet PPC Land's June 2026 report listed the Advertised Product template for Sponsored Brands as well. Which statement governs Sponsored Brands rows has not been clarified.
+History is limited. A vendor guide from Adbrew, dated October 26, 2026, says advertised and converted product data begin on February 13, 2025; Amazon's own pages reviewed for this article do not state that date. Amazon has also limited daily unified reports to 120 days per pull from a 24-month history, so long day-by-day comparisons across stores require several pulls.
+Advertised product marketplace is not...
+Converted product marketplace. The store where the credited purchase happened. Usually the advertised store, but recorded separately.
+Campaign country. Amazon defines it as "the country in which the campaign is delivering". For DVA+ the delivery country and the product's store can differ; for sponsored ads they generally coincide.
+Country. A delivery dimension for DVA+ and Sponsored TV recording where impressions landed, based on the viewer's location, not on the product.
+Benchmark browse category marketplace. The store whose category tree and peer brands produced a benchmark row. It describes the comparison group, not the promoted item.
+Private marketplace. In open-web programmatic trading, an invitation-only auction rather than a country store.
+Recent developments
+Amazon updated its dimensions reference on November 11, 2026, and PPC Land analysed the Product category the next day. On November 17, Amazon revised its data availability page. With legacy pages turning read-only on December 17, the marketplace field is now the only console route to splitting a promoted product's results by store in a single report.
+Timeline
+- May 24, 2024 - Amazon DSP lets self-service advertisers choose a currency independent of marketplace.
+- February 13, 2025 - Earliest date for advertised and converted product data in unified reporting, according to a vendor guide.
+- November 11, 2025 - Unified reporting opens in beta at unBoxed.
+- June 8, 2026 - Unified reporting reaches general availability with an Advertised Product template.
+- July 30, 2026 - Existing DSP accounts become single global accounts across 34 countries.
+- September 29, 2026 - Amazon DSP renamed DVA; DVA+ introduced.
+- October 23, 2026 - SP-API store identifiers page last modified, listing 23 marketplaces.
+- November 11, 2026 - Dimensions reference lists Advertised product marketplace among nine advertised product fields.
+- November 17, 2026 - Data availability page limits daily unified reports to 120 days per pull.
+- December 17, 2026 - Legacy report pages scheduled to become read-only.
+- January 31, 2027 - Legacy report pages scheduled to close.
+Related PPC Land coverage
+- 85 of Amazon's 156 unified report dimensions apply to Sponsored Products - Field-by-field count of the dimensions reference, including the advertised and converted product families.
+- Unified reporting - PPC Land's explainer on the reporting system that carries the field.
+- Amazon launches unified reporting system across advertising products - The November 2025 beta launch at unBoxed.
+- Amazon Ads unified reporting exits beta and takes two old tools with it - General availability on June 8, 2026, with the Advertised Product template.
+- Amazon DSP advertisers gain a single global account across 34 countries - The July 2026 move that put multi-country DSP campaigns under one account.
+- Amazon DSP enables advertiser currency selection - The 2024 change separating DSP currency from marketplace.
+- Amazon limits daily unified reports to 120 days of its 24-month history - Data availability limits by time grain.
+- Amazon advertisers will lose unmigrated reports on January 31

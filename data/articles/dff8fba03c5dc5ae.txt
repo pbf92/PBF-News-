@@ -1,0 +1,60 @@
+URL: https://ppc.land/advertised-product-group/
+TITLE: Advertised product group
+OUTLET: PPC Land
+
+Advertised product group is a reporting dimension in Amazon Ads that labels the promoted product with the broad catalogue grouping Amazon assigns to it, such as kitchen, toys or video on demand. Where Advertised product ID breaks results down to a single ASIN (Amazon Standard Identification Number, the retailer's 10-character product code), the product group rolls hundreds or thousands of ASINs into a handful of lines. It exists because an advertiser with a large catalogue needs spend and sales by line of business, and Amazon already sorts every product into such groups for its own retail, fee and ranking systems.
+The field arrived with unified reporting, which puts Sponsored Products, Sponsored Display and the products formerly sold as Amazon DSP into one set of reports. Amazon's dimensions reference, updated on November 11, 2026, lists 156 attributes in 11 categories. Advertised product group is one of 18 in the Product category, and one of nine that describe the advertised item.
+Where the field sits
+The advertised product family has nine members: ID, name, parent ID, brand, category, subcategory, group, marketplace and SKU (stock keeping unit, a seller's own inventory code). A parallel converted product family describes the item a shopper actually bought, and includes Converted product group. Product relevance, formerly "ASIN conversion type" in Amazon DSP, separates direct sales of the promoted item from halo sales of other items.
+By PPC Land's reading of the reference, the advertised product fields apply to DVA+, Sponsored Display and Sponsored Products, "but not to Sponsored Brands or Sponsored TV". DVA+ is the programmatic campaign type introduced when Amazon DSP was renamed DVA on September 29, 2026. Where a dimension does not fit a row, Amazon says "its value appears as null".
+PPC Land's analysis records no former name for Advertised product group, either from DVA+ or from sponsored ads. That is notable, because the legacy DSP product report did carry a product group column. Funnel, a marketing data company, lists "Product group", "Product category" and "Product subcategory" among the dimensions of the Amazon DSP product report it imports. Adverity, another data integration vendor, lists a productGroupDimension in its Amazon DSP connector, marked as relevant to the PRODUCTS report type. Whether Amazon treats the unified field as a straight continuation of that DSP column has not been stated.
+What a product group is
+Amazon does not publish a public taxonomy of product groups, and the unified reporting reference, as summarised by PPC Land, does not define the field. Amazon's catalogue interfaces give the clearest description of the underlying attribute.
+In the Creators API, the interface that replaced Amazon's Product Advertising API 5.0 for affiliates, the ProductGroup attribute "represents the product category an item belongs to", according to Amazon's reference. The same page describes it as "the name of a category, such as sporting goods". Its sample responses return values such as "Video On Demand" and, for a Spanish-language US listing, "Cocina". The Selling Partner API, used by sellers and vendors, exposes a related pair of fields, websiteDisplayGroup and websiteDisplayGroupName, documented as the identifier and display name of "the website display group associated with an Amazon catalog item".
+Sellers know the attribute by another name. In Seller Central forums the grouping is called the product's GL, and one long-running thread describes it as appearing under a "Product-Group" column in the fee preview report. The thread, written by sellers rather than Amazon staff, says the GL cannot be edited by the seller and that changes go through Amazon's support teams. The point matters for advertisers: the product group is assigned by Amazon's catalogue, not chosen in the campaign.
+That separates the group from the browse node, the navigation category a shopper clicks through, which the Selling Partner API documents separately as "classifications (browse nodes)". An item can sit under several browse nodes but carries one product group. In legacy DSP reporting, category and subcategory columns sat beside product group as separate levels; the reference reviewed by PPC Land gives no ordering for the three unified fields.
+How the value is populated
+The mechanics follow from how ads are built. In a Sponsored Products campaign, each product added to an ad group becomes a product ad keyed by ASIN and, for sellers, by SKU. Every impression, click and attributed sale is logged against that ASIN. When a report includes Advertised product group, the system looks up the group attached to the ASIN in Amazon's catalogue for that marketplace and writes it onto the row. Sponsored Display and DVA+ campaigns apply the same lookup to each promoted item. A report grouped only by the group sums every advertised ASIN that shares it; added to an ID-level report, it simply labels each row.
+A worked example shows the effect. A housewares brand runs one Sponsored Products campaign promoting 240 ASINs and spends $50,000 in a month. Grouped by Advertised product ID, the report runs to 240 rows. Grouped by Advertised product group, it might collapse to three: $31,000 on kitchen items with a 22% ACOS (advertising cost of sales, ad spend divided by attributed sales), $14,000 on home items at 35% and $5,000 on garden items at 48%. The figures are illustrative.
+The group follows the advertised item, not the purchase. If a shopper clicks an ad for a frying pan and buys a knife block from the same brand, the sale sits on the frying pan's row, under its group, and Product relevance marks it as halo. Converted product group would show the knife block's group instead.
+Origin and evolution
+Product groups come from Amazon's retail side, which predates its ad business. Sellers met them in fee reports and affiliates in the ProductGroup element of the Product Advertising API, whose fifth version has been deprecated in favour of the Creators API.
+On the advertising side, Sponsored Products launched in 2012 with reporting built on ASIN and SKU. Amazon's programmatic tool, called the Amazon Advertising Platform until September 2018 and then Amazon DSP, reported products separately. Amazon's August 2022 self-service DSP reporting guide describes a product dimension built around ASIN, parent ASIN, brand name and ASIN conversion type; data vendors' connectors later listed product group, category and subcategory for the same report.
+Unified reporting launched in beta on November 11, 2025 and reached general availability on June 8, 2026. The November 11, 2026 dimensions reference is the first public listing of Advertised product group by that name, and the first time a product group dimension has been marked for Sponsored Products and Sponsored Display rather than programmatic buying alone.
+Why it matters
+The field gives sponsored ads advertisers a roll-up the old consoles did not offer as a column. A Sponsored Products advertiser wanting results by product line previously had to join exports to a catalogue table kept outside Amazon. Now the grouping comes from Amazon's catalogue and is consistent across ad products.
+It also lines advertising up with how Amazon itself measures categories. On April 14, 2026, Amazon said its Omnichannel Metrics product for DSP advertisers would give "product category-level breakouts" of sales for US advertisers. Amazon's benchmarks tool has moved in the same direction, with category data now available in 18 markets.
+The migration timetable adds urgency. Amazon plans to stop creation and editing of legacy reports on December 17, 2026 and to delete unmigrated reports on January 31, 2027. Dashboards that relied on the DSP product group column, or on home-made category mappings for sponsored ads, need to be rebuilt on the unified field before then.
+Limitations and disputes
+The first limitation is control. The group is Amazon's label, assigned in the catalogue, and an advertiser cannot set it. A product filed in the wrong group, a complaint that recurs in seller forums, will report under that group until Amazon corrects it.
+The second is coarseness. A blended ACOS at group level can hide a single loss-making item.
+The third is definition. Amazon has not published, in the pages reviewed, how Advertised product group relates to Advertised product category and Advertised product subcategory, which values it can take, or whether values are localised by marketplace, as the Creators API's "Cocina" example suggests.
+Coverage is also contested. Sponsored Brands ads promote products, yet the advertised product fields are not marked for them, and PPC Land found Advertised product name marked for Sponsored Products alone, which conflicts with the coverage given for the family.
+Advertised product group is not...
+Advertised product category. A separate dimension in the same family. Both describe the catalogue placement of the promoted item, but they are reported as distinct fields, and in legacy DSP reports category and group were separate columns.
+Converted product group. The group of the item the shopper bought. It matches the advertised group only when the purchase stayed within the same line.
+Product groups in Google Ads. In Google Shopping campaigns, a product group is an advertiser-defined subdivision of a product feed used to set bids. Amazon's product group is assigned by the catalogue and is a reporting label, not a bidding unit.
+Benchmark browse category. The benchmark browse category fields describe the comparison set used in Amazon's benchmarks, built on browse nodes. The product group describes the advertised item itself.
+Recent developments
+The field became visible when Amazon updated its dimensions reference on November 11, 2026, and PPC Land analysed the Product category on November 12. Amazon has also limited daily unified reports to 120 days of a 24-month history, which caps how far back day-by-day group rows can be pulled in one report.
+Timeline
+- July 16, 1995: Amazon opens as an online bookstore, later building its catalogue into product groups.
+- 2012: Sponsored Products launches, with reporting keyed on ASIN and SKU.
+- September 2018: Amazon Advertising Platform is renamed Amazon DSP.
+- August 2022: Amazon's DSP self-service reporting guide documents the product dimension (ASIN, parent ASIN, brand name, ASIN conversion type).
+- November 11, 2025: Unified reporting opens in beta.
+- April 14, 2026: Amazon adds product category-level breakouts to Omnichannel Metrics for US DSP advertisers.
+- June 8, 2026: Unified reporting reaches general availability.
+- September 29, 2026: Amazon DSP is renamed DVA; DVA+ is introduced.
+- November 11, 2026: Amazon's dimensions reference lists Advertised product group in the nine-field advertised product family.
+- December 17, 2026: Scheduled end of legacy report creation and editing.
+- January 31, 2027: Scheduled deletion of unmigrated legacy reports.
+Related PPC Land coverage
+- 85 of Amazon's 156 unified report dimensions apply to Sponsored Products - The November 2026 dimensions reference, the 18-field Product category and the coverage of advertised and converted product fields.
+- Amazon launches unified reporting system across advertising products - The November 2025 beta launch of the reporting system that carries the field.
+- Amazon Ads unified reporting exits beta and takes two old tools with it - General availability in June 2026.
+- Amazon advertisers will lose unmigrated reports on January 31, 2027 - The legacy reporting shutdown timeline.
+- Amazon limits daily unified reports to 120 days of its 24-month history - Data-window limits on daily rows.
+- Amazon Ads benchmarks go global: 18 markets now have category data - The expansion of Amazon's category-level benchmarks.
+- How sellers can spot best and worst performing Amazon ASINs - An Amazon Ads tutorial on product-level performance analysis.
+- Unified reporting - PPC Land's explainer on 

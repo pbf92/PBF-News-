@@ -1,0 +1,33 @@
+URL: https://www.eurekalert.org/news-releases/1153444
+TITLE: Same oncogenic mutation, different outcomes: Why some blood vessels develop malformations while others remain resistant
+OUTLET: EurekAlert!
+
+Why do certain cancer-associated mutations cause malformations in some blood vessels while leaving others largely unaffected? The answer lies in the identity and developmental stage of endothelial cells, the cells lining the inside of blood vessels.
+Published in Nature, the study led by Dr Mariona Graupera and Dr Ana Angulo-Urarte, from the Josep Carreras Leukaemia Research Institute, help explain a striking clinical observation: vascular malformations associated with a gene called PIK3CA predominantly affect veins and capillaries while arteries are largely spared.
+The same mutation, different cellular responses
+PIK3CA is a gene involved in regulating proliferation and growth of the cells. When this gene is mutated at birth or during development, its mutations can also cause rare disorders characterised by excessive tissue growth and vascular malformations, in which blood vessels develop abnormally. Alterations in PIK3CA have also been implicated in certain blood cancers, including mantle cell lymphoma.
+To understand why different blood vessels respond differently to the same mutation, the researchers used experimental models that track mutated endothelial cells, the cells lining the inside of blood vessels, during vascular development, as they develop and acquired their distinct identities.
+They found that mutant cells in veins and capillaries proliferate excessively, whereas mature arterial cells remain remarkably resistant to these effects, maintaining their normal growth and identity. However, when the mutation affects immature cells destined to become arterial cells, the outcome is strikingly different. The mutation prevents these cells from developing normally into arterial cells, instead pushing them towards the characteristics of cells found in veins and capillaries. Therefore, like the mutant cells in veins and capillaries, they can also multiply excessively. Together, these effects contribute to the formation of vascular malformations.
+Two complementary mechanisms driving vascular malformations
+The researchers identified a molecular mechanism underlying this change in cell maturation. A PIK3CA-related mutation in a regulatory axis of the cell increases levels of COUP-TFII, a protein that promotes venous identity, preventing immature endothelial cells from developing into arterial endothelial cells.
+The team demonstrated that excessive cell proliferation and altered cell identity are distinct but complementary effects of the same mutation. In the lab, they saw that reducing excessive cell multiplication in PIK3CA-mutated cells did not restore the cells' arterial identity. Conversely, interfering with COUP-TFII allowed these cells to develop their arterial identity but did not prevent veins and capillaries endothelial cells from multiplying excessively.
+“These findings demonstrate that reducing abnormal cell growth does not necessarily correct the changes in cell identity caused by the mutation,” says Dr Mariona Graupera, corresponding author of the study and Group Leader at the Josep Carreras Institute
+Beyond vascular malformations
+The study highlights a broader principle: the consequences of a cancer-associated mutation depend not only on the mutation itself, but also on the identity and development stage of the cell in which it occurs.
+Although the research focuses on blood vessels, the findings may help explain other rare childhood disorders in which mutations in PIK3CA cause excessive growth of tissues and organs. They also raise questions for future research into blood cancers and other haematological disorders. In the bone marrow, endothelial cells form part of the supportive environment, or niche, that sustains normal blood formation and can also support leukaemia cell survival and resistance to treatment. Previous studies in mice have shown that genetic changes in other cells within this niche can contribute to the development of blood cancers. While the current study does not directly investigate these processes, its findings suggest that understanding how mutations alter endothelial cell identity could inform future research into the vascular niche in blood cancers.
+More broadly, the findings raise the possibility that the effects of other cancer-associated mutations may also depend on the identity and developmental stage of the cells in which they arise. Exploring this possibility could deepen our understanding of disease mechanisms and, in the longer term, help identify new therapeutic approaches.
+About the study
+The study Context-dependent response of endothelial cells to PIK3CA mutation is published in the scientific journal Nature.
+The research was conducted by the Endothelial Pathobiology and Microenvironment group at the Josep Carreras Leukaemia Research Institute (Spain), with Helena Sabata, Ariadna Roca-Coll and Jose A. Dengra as joint first authors, and Dr Ana Angulo-Urarte and Dr Mariona Graupera as joint senior and corresponding authors.
+The work involved researchers affiliated with institutions in Spain, Germany, the United Kingdom, Portugal, Switzerland and Israel, including the University of Barcelona, the Sant Joan de Déu Research Institute, the Centro Nacional de Investigaciones Cardiovasculares, the Berlin Institute of Health at Charité, the Max Delbrück Center, University College London, the University of Oxford, the University of Cambridge, NOVA University Lisbon, ETH Zurich and the Weizmann Institute of Science.
+The research received support from several funding bodies, including the European Research Council (ERC), ”la Caixa” Foundation and Spain's national research funding programme.
+Journal
+Nature
+Method of Research
+Experimental study
+Subject of Research
+Animal tissue samples
+Article Title
+Context-dependent response of endothelial cells to PIK3CA mutation
+Article Publication Date
+25-Nov-2026
